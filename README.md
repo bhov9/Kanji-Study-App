@@ -21,6 +21,7 @@ No packages or build steps are required. Run `python -m http.server 8000` from t
 
 - Select an outcome for each review target. You can change it up to the moment you press **Next Word**, which saves the final grades together.
 - Due kanji come first. The app randomizes among words covering the oldest batch of due characters and avoids repeating the previous word when an alternative is eligible.
+- Study stays open when nothing is due. Extra practice records the grade separately from FSRS scheduling. The daily introduction setting limits new scheduled cards only. If no introduced cards are available, the app can preview a new kanji or offer practice with memorized kanji.
 - New kanji enter in grade order as the due queue clears. The default is five per local calendar day. Change the limit under **Progress**. Set it to zero for reviews only.
 - [ts-fsrs 5.2.3](https://www.npmjs.com/package/ts-fsrs/v/5.2.3) supplies FSRS-6 with a target retention of 90%. Correct maps to Good, and Incorrect maps to Again. Learning and relearning use 10- and 30-minute steps.
 - Memorized suspends the kanji across the deck. Use Progress to reactivate it for immediate review.

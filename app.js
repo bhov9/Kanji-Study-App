@@ -1,22 +1,21 @@
 import { kanjiNotes, words } from './data.js';
 import { setupKanjiBrowser } from './browser.js';
-import { curriculumGrades } from './curriculum.js';
+import { curriculumGrades, groups } from './curriculum.js';
 import { exampleFor, renderExample } from './examples.js';
 import {
-  chooseWord, freshProgress, markMemorized, maxNewPerDay, nextStudyTime, parseProgress, reactivate,
+  chooseWord, freshProgress, markMemorized, maxNewPerDay, parseProgress, reactivate,
   startOfDay, submitWord, validNewPerDay,
 } from './study.js';
 
 const storageKey = 'kanji-practice.progress';
 const byId = id => document.getElementById(id);
 const labels = { correct: 'Correct', incorrect: 'Incorrect', memorized: 'Memorized' };
-const dateFormat = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+const memorizedPercent = new Intl.NumberFormat(undefined, { style: 'percent', maximumFractionDigits: 2 });
 const studyableCharacters = new Set(words.flatMap(word => word.characters));
 let progress = freshProgress();
 let storedProgress;
 let storageReadable = true;
 let current;
-let wakeTimer;
 let submitting = false;
 let view = 'menu';
 const selections = new Map();
@@ -81,10 +80,10 @@ function updateStats() {
   byId('memorized').textContent = memorized;
   byId('today').textContent = progress.reviews.filter(review => review.at >= startOfToday && review.at <= now).length;
   byId('coverage').textContent = `${introduced} of ${curriculumGrades.size.toLocaleString()} kanji introduced.`;
+  if (byId('progress').open) renderGradeProgress();
 }
 
 function showWord(focus = false) {
-  clearTimeout(wakeTimer);
   updateStats();
   selections.clear();
   byId('answer').hidden = true;
@@ -103,22 +102,15 @@ function showWord(focus = false) {
   byId('instruction').hidden = !current;
   const reading = byId('reading');
   if (current) {
+    byId('prompt-label').textContent = current.practice ? 'Extra practice · FSRS dates stay the same' : 'Write from memory';
     reading.lang = 'ja';
     reading.textContent = current.word.reading;
     byId('meaning').textContent = current.word.meaning;
     renderExample(byId('word-example'), exampleFor(current.word.id), current.word, false);
   } else {
     reading.removeAttribute('lang');
-    const earliest = nextStudyTime(words, progress, now);
-    const hasUnseen = [...studyableCharacters].some(character => !progress.characters[character]);
-    reading.textContent = storageReadable ? 'You’re caught up' : 'Progress unavailable';
-    byId('meaning').textContent = !storageReadable ? 'Open Progress to restore a backup.' :
-      Number.isFinite(earliest) ? `Next study session available ${dateFormat.format(earliest)}` :
-      hasUnseen ? 'Increase the daily new kanji limit in Progress to start new material.' :
-      'You’ve completed the vocabulary currently available for study.';
-    if (storageReadable && Number.isFinite(earliest)) {
-      wakeTimer = setTimeout(showWord, Math.max(100, Math.min(2_147_483_647, earliest - Date.now())));
-    }
+    reading.textContent = storageReadable ? 'No vocabulary available' : 'Progress unavailable';
+    byId('meaning').textContent = storageReadable ? '' : 'Open Progress to restore a backup.';
   }
   if (focus) reading.focus();
 }
@@ -126,7 +118,6 @@ function showWord(focus = false) {
 function navigate(nextView) {
   view = nextView;
   for (const name of ['menu', 'study', 'browser']) byId(`${name}-view`).hidden = name !== view;
-  clearTimeout(wakeTimer);
   window.scrollTo(0, 0);
   updateStats();
   if (view === 'menu') byId('menu-title').focus({ preventScroll: true });
@@ -174,7 +165,8 @@ function renderCharacter(character) {
   const glyph = node('span', character, 'glyph');
   glyph.lang = 'ja';
   const isTarget = current.targets.includes(character);
-  const status = node('span', isTarget ? (progress.characters[character] ? 'Due for review' : 'New kanji') :
+  const status = node('span', isTarget ? (current.practice ? 'Extra practice' :
+    progress.characters[character] ? 'Due for review' : 'New kanji') :
     progress.characters[character]?.memorized ? 'Memorized' : 'Not scheduled for this word', 'character-status');
   status.setAttribute('aria-live', 'polite');
   header.append(glyph, status);
@@ -237,36 +229,27 @@ byId('next').addEventListener('click', async () => {
   }
 });
 
-function renderMemorized() {
-  const list = byId('memorized-list');
-  list.replaceChildren();
-  for (const character of curriculumGrades.keys()) {
-    if (!progress.characters[character]?.memorized) continue;
-    const row = node('div', '', 'entry');
-    const glyph = node('span', character, 'glyph');
-    glyph.lang = 'ja';
-    const button = node('button', 'Reactivate');
-    button.type = 'button';
-    button.setAttribute('aria-label', `Reactivate ${character}`);
-    button.addEventListener('click', async () => {
-      if (!await save(reactivate(progress, character))) {
-        message('backup-status', 'Progress could not be saved.');
-        return;
-      }
-      refreshAfterStatusChange(character);
-      renderMemorized();
-      browser.refresh();
-      message('backup-status', `${character} was reactivated.`);
-    });
-    row.append(glyph, button);
-    list.append(row);
-  }
-  if (!list.children.length) list.append(node('p', 'No memorized kanji yet.'));
+function renderGradeProgress() {
+  byId('grade-progress').replaceChildren(...groups.map(({ grade, label, characters }) => {
+    const total = characters.length;
+    const memorized = characters.filter(character => progress.characters[character]?.memorized === true).length;
+    const name = grade === 7 ? 'Secondary School / Remaining Jōyō' : label;
+    const row = node('div', '', 'grade-progress-row');
+    const heading = node('h4', name);
+    const meter = node('div', '', 'grade-progress-meter');
+    const bar = node('progress', '');
+    bar.max = total;
+    bar.value = memorized;
+    bar.setAttribute('aria-label', `${name}: ${memorized} of ${total} kanji memorized`);
+    meter.append(bar, node('span', memorizedPercent.format(memorized / total)));
+    row.append(heading, meter, node('p', `${memorized.toLocaleString()} / ${total.toLocaleString()} kanji memorized`));
+    return row;
+  }));
 }
 
 byId('open-progress').addEventListener('click', () => {
   updateStats();
-  renderMemorized();
+  renderGradeProgress();
   byId('new-per-day').value = progress.newPerDay;
   byId('new-per-day').max = maxNewPerDay;
   byId('schedule-settings').hidden = !storageReadable;
@@ -309,7 +292,6 @@ byId('backup-file').addEventListener('change', async event => {
       return;
     }
     showWord();
-    renderMemorized();
     if (view === 'browser') browser.refresh();
     byId('new-per-day').value = progress.newPerDay;
     byId('schedule-settings').hidden = false;
@@ -332,7 +314,6 @@ window.addEventListener('storage', event => {
   showWord();
   if (view === 'browser') browser.refresh();
   if (byId('progress').open) {
-    renderMemorized();
     byId('new-per-day').value = progress.newPerDay;
     byId('schedule-settings').hidden = !storageReadable;
     byId('export').disabled = !storageReadable;

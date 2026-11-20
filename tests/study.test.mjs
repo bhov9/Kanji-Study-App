@@ -2,7 +2,48 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 import { curriculumGrades } from '../curriculum.js';
 import { words } from '../data.js';
-import { chooseWord, freshProgress, nextStudyTime, parseProgress, reactivate, submitWord } from '../study.js';
+import { chooseWord, freshProgress, parseProgress, reactivate, submitWord } from '../study.js';
+
+test('extra practice stays available at the introduction limit and preserves FSRS cards', () => {
+  const now = Date.UTC(2026, 0, 1, 12);
+  const deck = words.filter(word => word.characters.some(character => character === '花'));
+  const initial = { ...freshProgress(), newPerDay: 1 };
+  const introduction = chooseWord(deck, initial, now, () => 0);
+  const grade = (progress, prompt, outcome, at) => submitWord(progress, prompt,
+    new Map(prompt.targets.map(character => [character, outcome])), at);
+  let progress = grade(initial, introduction, 'correct', now);
+  const scheduled = progress.characters['花'];
+  for (let count = 0; count < 100; count++) {
+    const prompt = chooseWord(deck, progress, now + 1, () => 0);
+    assert.equal(prompt.practice, true);
+    assert.notEqual(prompt.word.id, progress.reviews.at(-1).wordId);
+    progress = grade(progress, prompt, 'incorrect', now + 1);
+    assert.deepEqual(progress.characters, { 花: scheduled });
+  }
+  assert.equal(progress.reviews.length, 101);
+  assert.equal(chooseWord(deck, progress, scheduled.due, () => 0).practice, false);
+  assert.deepEqual(parseProgress(JSON.stringify(progress)), progress);
+});
+
+test('a zero introduction limit still allows previews and practice of a memorized deck', () => {
+  const now = Date.UTC(2026, 0, 1, 12);
+  const deck = words.filter(word => word.id === 'hanataba');
+  const initial = { ...freshProgress(), newPerDay: 0 };
+  const preview = chooseWord(deck, initial, now, () => 0);
+  assert.equal(preview.practice, true);
+  const saved = submitWord(initial, preview, new Map([[preview.targets[0], 'correct']]), now);
+  assert.deepEqual(saved.characters, {});
+  assert.deepEqual(parseProgress(JSON.stringify(saved)), saved);
+  let memorized = initial;
+  for (const character of deck[0].characters) {
+    memorized = submitWord(memorized, { word: deck[0], targets: [character], practice: true },
+      new Map([[character, 'memorized']]), now);
+  }
+  const practice = chooseWord(deck, memorized, now, () => 0);
+  assert.equal(practice.practice, true);
+  const next = submitWord(memorized, practice, new Map(practice.targets.map(character => [character, 'incorrect'])), now);
+  assert.deepEqual(next.characters, memorized.characters);
+});
 
 const now = new Date(2026, 10, 20, 12).getTime();
 const minute = 60_000;
@@ -61,9 +102,8 @@ test('new words vary, start in grade one, and respect the daily limit and grade 
     progress = submit(progress, prompt, now, 'memorized');
   }
   assert.equal(progress.reviews.length, 5);
-  assert.equal(chooseWord(words, progress, now, first), null);
-  const tomorrow = nextStudyTime(words, progress, now);
-  assert.equal(new Date(tomorrow).getHours(), 0);
+  assert.equal(chooseWord(words, progress, now, first).practice, true);
+  const tomorrow = now + 24 * 60 * 60 * 1000;
   assert(chooseWord(words, progress, tomorrow, first));
   const gradeOne = [...curriculumGrades.keys()].filter(character => curriculumGrades.get(character) === 1);
   for (const character of gradeOne) {
@@ -83,7 +123,7 @@ test('due work beats introductions, old work beats newer work, and memorized sta
   progress = submit(progress, prompt, now, 'memorized');
   const review = chooseWord(words, progress, now, first);
   assert.deepEqual(review.targets, ['束']);
-  assert.equal(chooseWord([word('yakubun')], { ...progress, newPerDay: 0 }, now, first), null);
+  assert.equal(chooseWord([word('yakubun')], { ...progress, newPerDay: 0 }, now, first).practice, true);
 });
 
 test('legacy logs, due dates and memorized states survive migration and export', () => {

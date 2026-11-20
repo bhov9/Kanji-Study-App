@@ -183,6 +183,15 @@ dialog::backdrop { background: #292219a0; }
 .browser-sources { margin-top: 1rem; color: var(--muted); }
 .browser-sources a { color: var(--indigo); }
 .progress-return { margin-top: .75rem; }
+#grade-progress { display: grid; gap: .8rem; margin-bottom: 1.4rem; }
+.grade-progress-row h4 { margin: 0 0 .15rem; font-size: 1rem; }
+.grade-progress-row p { margin: .05rem 0 0; color: var(--muted); font-size: .875rem; }
+.grade-progress-meter { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .65rem; align-items: center; }
+.grade-progress-meter span { font-variant-numeric: tabular-nums; font-weight: 650; }
+.grade-progress-meter progress { width: 100%; height: .7rem; appearance: none; border: 0; border-radius: .2rem; overflow: hidden; background: #e7d7ba; accent-color: var(--indigo); }
+.grade-progress-meter progress::-webkit-progress-bar { background: #e7d7ba; }
+.grade-progress-meter progress::-webkit-progress-value { background: var(--indigo); }
+.grade-progress-meter progress::-moz-progress-bar { background: var(--indigo); }
 @media (min-width: 35rem) {
   .menu-actions { grid-template-columns: 1fr 1fr; }
 }

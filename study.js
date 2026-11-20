@@ -41,10 +41,12 @@ function isDue(state, now) {
 
 export function chooseWord(words, progress, now, random = Math.random) {
   const { characters, reviews, newPerDay } = progress;
-  let candidates = words.map(word => ({
+  const matching = (eligible, limit = Infinity) => words.map(word => ({
     word,
-    targets: word.characters.filter(character => isDue(characters[character], now)),
+    targets: word.characters.filter(eligible).slice(0, limit),
   })).filter(candidate => candidate.targets.length);
+  let candidates = matching(character => isDue(characters[character], now));
+  let practice = false;
 
   if (candidates.length) {
     // Work within an hour of the oldest due item so randomized reviews cannot
@@ -57,17 +59,21 @@ export function chooseWord(words, progress, now, random = Math.random) {
     const introducedToday = Object.values(characters)
       .filter(state => state.introducedAt !== null && state.introducedAt >= dayStart && state.introducedAt <= now).length;
     const remaining = newPerDay - introducedToday;
-    if (remaining <= 0) return null;
     const unseen = new Set(words.flatMap(word => word.characters).filter(character => !characters[character]));
-    if (!unseen.size) return null;
     const grade = Math.min(...Array.from(unseen, character => curriculumGrades.get(character)));
-    candidates = words.map(word => ({
-      word,
-      targets: word.characters.filter(character => unseen.has(character) && curriculumGrades.get(character) === grade)
-        .slice(0, remaining),
-    })).filter(candidate => candidate.targets.length);
+    const atGrade = character => unseen.has(character) && curriculumGrades.get(character) === grade;
+    candidates = remaining > 0 ? matching(atGrade, remaining) : [];
+    if (!candidates.length) {
+      practice = true;
+      candidates = matching(character => characters[character] && !characters[character].memorized);
+      // Preview without enrolling a card when the introduction limit is zero.
+      if (!candidates.length) candidates = matching(atGrade, 1);
+      // An entirely memorized deck remains available for optional practice.
+      if (!candidates.length) candidates = matching(character => characters[character]?.memorized);
+    }
   }
 
+  if (!candidates.length) return null;
   const previousWord = reviews[reviews.length - 1]?.wordId;
   const alternatives = candidates.filter(candidate => candidate.word.id !== previousWord);
   if (alternatives.length) candidates = alternatives;
@@ -75,31 +81,14 @@ export function chooseWord(words, progress, now, random = Math.random) {
     const oldest = Math.min(...candidates.map(candidate => candidate.due));
     candidates = candidates.filter(candidate => candidate.due <= oldest + hour);
   }
-  return candidates[Math.floor(random() * candidates.length)];
-}
-
-export function nextStudyTime(words, progress, now) {
-  const characters = new Set(words.flatMap(word => word.characters));
-  const times = [];
-  let unseen = false;
-  for (const character of characters) {
-    const state = progress.characters[character];
-    if (!state) unseen = true;
-    else if (!state.memorized && state.due > now) times.push(state.due);
-  }
-  if (unseen && progress.newPerDay > 0) {
-    const tomorrow = new Date(startOfDay(now));
-    tomorrow.setDate(tomorrow.getDate() + 1);
-    times.push(tomorrow.getTime());
-  }
-  return Math.min(...times);
+  return { ...candidates[Math.floor(random() * candidates.length)], practice };
 }
 
 export function submitWord(progress, prompt, selections, at = Date.now()) {
-  const { word, targets } = prompt;
+  const { word, targets, practice } = prompt;
   if (!targets.length || targets.some(character =>
     !outcomes.includes(selections.get(character)) ||
-    (progress.characters[character] && !isDue(progress.characters[character], at)))) {
+    (!practice && progress.characters[character] && !isDue(progress.characters[character], at)))) {
     throw new Error('The word has incomplete or expired selections');
   }
   const characters = { ...progress.characters };
@@ -108,6 +97,13 @@ export function submitWord(progress, prompt, selections, at = Date.now()) {
     const outcome = selections.get(character);
     const previous = characters[character];
     const memorized = outcome === 'memorized';
+    if (practice) {
+      if (memorized && !previous?.memorized) {
+        characters[character] = markMemorized({ characters }, character).characters[character];
+      }
+      reviews.push({ wordId: word.id, character, outcome, at, due: characters[character]?.due ?? null, practice: true });
+      continue;
+    }
     const card = memorized ? null : schedule(previous?.card, outcome, at);
     const due = card?.due ?? null;
     characters[character] = { memorized, due, card, introducedAt: previous ? previous.introducedAt : at };
@@ -184,7 +180,9 @@ export function parseProgress(raw) {
   const reviewsValid = Array.isArray(data?.reviews) && data.reviews.every(review =>
     review && typeof review.wordId === 'string' && isKanji(review.character) &&
     isDate(review.at) && outcomes.includes(review.outcome) &&
-    (review.outcome === 'memorized' ? review.due === null : isDate(review.due)));
+    (review.practice === undefined || (!legacy && review.practice === true)) &&
+    (review.outcome === 'memorized' ? review.due === null :
+      isDate(review.due) || (review.practice === true && review.due === null)));
   if ((!legacy && (data?.version !== 2 || !validNewPerDay(data.newPerDay))) || !statesValid || !reviewsValid) {
     throw new Error('Unrecognized progress data');
   }
