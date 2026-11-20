@@ -71,8 +71,6 @@ dialog::backdrop { background: #292219a0; }
 .dialog-header h2 { margin: 0; font-family: var(--serif); }
 .entry { display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); padding: .4rem 0; }
 .backup { display: flex; flex-wrap: wrap; gap: .5rem; }
-.schedule-settings { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; }
-.schedule-settings input { width: 4rem; min-height: 44px; border: 1px solid var(--line); border-radius: .7rem; padding: .4rem; font: inherit; }
 .muted { color: var(--muted); }
 .menu-card {
   position: relative;
@@ -256,6 +254,7 @@ dialog::backdrop { background: #292219a0; }
 .edit-kanji-tile[aria-pressed="true"]::after { content: '✓' / ''; position: absolute; inset: .15rem .2rem auto auto; font: .65rem/1 system-ui; }
 .editor-footer { position: sticky; bottom: -1.25rem; margin-top: .75rem; padding: .55rem 0 .25rem; border-top: 1px solid var(--line); background: var(--card); }
 #edit-change-count, #edit-progress-error { margin: .15rem 0 .45rem; }
+#repeat-practice { width: 100%; margin-bottom: .45rem; }
 @media (min-width: 35rem) {
   .menu-actions { grid-template-columns: 1fr 1fr; }
 }

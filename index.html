@@ -40,6 +40,7 @@
     <section id="study-view" aria-label="Study" hidden>
       <div class="view-bar">
         <button class="quiet return-menu" type="button">Return to Menu</button>
+        <button id="handwriting-mode" class="quiet" type="button">Handwriting Practice</button>
       </div>
       <div class="stats" aria-label="Study progress">
         <div><strong id="due">0</strong><span>Due</span></div>
@@ -51,6 +52,7 @@
         <h2 id="reading" lang="ja" tabindex="-1"></h2>
         <p id="tested-positions" hidden></p>
         <p id="meaning"></p>
+        <button id="check-reviews" class="primary" type="button" hidden>Check for Reviews</button>
         <aside id="word-example" aria-label="Example sentence" hidden>
           <p class="example-japanese" lang="ja"></p>
           <details class="example-translation"><summary>English translation</summary><p></p></details>
@@ -74,6 +76,7 @@
         <section id="answer" aria-label="Answer and grading" hidden>
           <h3 id="spelling" lang="ja" tabindex="-1"></h3>
           <div id="characters"></div>
+          <button id="repeat-practice" type="button" hidden>Practice Again</button>
           <button id="next" class="primary" type="button" disabled>Next Word</button>
         </section>
       </section>
@@ -133,11 +136,6 @@
     <p id="coverage"></p>
     <h3>Memorized by grade</h3>
     <div id="grade-progress"></div>
-    <form id="schedule-settings" class="schedule-settings">
-      <label for="new-per-day">New kanji per day</label>
-      <input id="new-per-day" type="number" min="0" step="1" required>
-      <button type="submit">Save limit</button>
-    </form>
     <h3>Progress backup</h3>
     <div class="backup">
       <button id="export" type="button">Export backup</button>

@@ -11,10 +11,10 @@ const scheduler = fsrs({
   enable_fuzz: false,
 });
 
-export const maxNewPerDay = 20;
-export const defaultNewPerDay = 5;
+export const minimumIncorrectSeparation = 10;
 export const freshProgress = () => ({
-  version: 2, newPerDay: defaultNewPerDay, characters: {}, reviews: [],
+  // Keep the former setting in v2 exports for compatibility with earlier builds.
+  version: 2, newPerDay: 5, characters: {}, reviews: [],
 });
 
 export function startOfDay(now) {
@@ -43,42 +43,84 @@ export function unlockedGrade(characters) {
   return groups.find(group => group.characters.some(character => !characters[character]))?.grade ?? groups.length;
 }
 
-export function chooseWord(words, progress, now, random = Math.random) {
-  const { characters, reviews, newPerDay } = progress;
-  const grade = unlockedGrade(characters);
-  const matching = (eligible, limit = Infinity) => words.map(word => ({
-    word,
-    targets: word.characters.filter(eligible).slice(0, limit),
-  })).filter(candidate => candidate.targets.length);
-  let candidates = matching(character => isDue(characters[character], now));
-  let practice = false;
+function latestReviews(reviews) {
+  const latest = new Map();
+  for (const [index, review] of reviews.entries()) {
+    if (!review.practice) latest.set(review.character, { review, index });
+  }
+  return latest;
+}
 
-  if (candidates.length) {
+export function chooseWord(words, progress, now, random = Math.random, sessionCorrect = new Set()) {
+  const { characters, reviews } = progress;
+  const grade = unlockedGrade(characters);
+  const matching = eligible => words.map(word => ({
+    word,
+    targets: word.characters.filter(character => eligible.has(character)),
+  })).filter(candidate => candidate.targets.length);
+  const latest = latestReviews(reviews);
+  const today = startOfDay(now);
+  const fresh = new Set();
+  const due = new Set();
+  for (const character of new Set(words.flatMap(word => word.characters))) {
+    const state = characters[character];
+    if (!state && curriculumGrades.get(character) === grade) fresh.add(character);
+    if (!isDue(state, now) || sessionCorrect.has(character)) continue;
+    const previous = latest.get(character)?.review;
+    if (previous?.outcome === 'correct' && previous.at >= today) continue;
+    due.add(character);
+  }
+
+  const eligible = new Set(due);
+  const waitingIncorrect = new Set();
+  for (const character of due) {
+    const previous = latest.get(character);
+    if (previous?.review.outcome !== 'incorrect') continue;
+    const studiedAfter = new Set();
+    for (const [other, record] of latest) {
+      const sameSubmission = record.review.at === previous.review.at &&
+        record.review.wordId === previous.review.wordId;
+      if (record.index > previous.index && !sameSubmission) {
+        studiedAfter.add(other);
+        if (studiedAfter.size >= minimumIncorrectSeparation) break;
+      }
+    }
+    if (studiedAfter.size >= minimumIncorrectSeparation) continue;
+    eligible.delete(character);
+    waitingIncorrect.add(character);
+  }
+
+  let lastReview;
+  for (let index = reviews.length - 1; index >= 0; index--) {
+    if (!reviews[index].practice) {
+      lastReview = reviews[index];
+      break;
+    }
+  }
+  let candidates = matching(eligible);
+  let reviewing = candidates.length > 0;
+  if (!reviewing) candidates = matching(fresh);
+  // The remaining due cards can all be waiting on one another. Relax the
+  // count only after exhausting other work, and never before the FSRS due time.
+  if (!candidates.length && waitingIncorrect.size) {
+    const nonrepeating = new Set([...waitingIncorrect].filter(character => {
+      const previous = latest.get(character).review;
+      return previous.at !== lastReview.at || previous.wordId !== lastReview.wordId;
+    }));
+    candidates = matching(nonrepeating.size ? nonrepeating : waitingIncorrect);
+    reviewing = true;
+  }
+
+  if (!candidates.length) return null;
+  if (reviewing) {
     // Work within an hour of the oldest due item so randomized reviews cannot
     // keep a long-overdue card behind newer reviews.
     for (const candidate of candidates) {
       candidate.due = Math.min(...candidate.targets.map(character => characters[character].due));
     }
-  } else {
-    const dayStart = startOfDay(now);
-    const introducedToday = Object.values(characters)
-      .filter(state => state.introducedAt !== null && state.introducedAt >= dayStart && state.introducedAt <= now).length;
-    const remaining = newPerDay - introducedToday;
-    const atGrade = character => !characters[character] && curriculumGrades.get(character) === grade;
-    candidates = remaining > 0 ? matching(atGrade, remaining) : [];
-    if (!candidates.length) {
-      practice = true;
-      candidates = matching(character => characters[character] && !characters[character].memorized);
-      // Preview without enrolling a card when the introduction limit is zero.
-      if (!candidates.length) candidates = matching(atGrade, 1);
-      // An entirely memorized deck remains available for optional practice.
-      if (!candidates.length) candidates = matching(character => characters[character]?.memorized);
-    }
   }
 
-  if (!candidates.length) return null;
-  const previousWord = reviews[reviews.length - 1]?.wordId;
-  const alternatives = candidates.filter(candidate => candidate.word.id !== previousWord);
+  const alternatives = candidates.filter(candidate => candidate.word.id !== lastReview?.wordId);
   if (alternatives.length) candidates = alternatives;
   if (candidates[0].due !== undefined) {
     const oldest = Math.min(...candidates.map(candidate => candidate.due));
@@ -87,16 +129,28 @@ export function chooseWord(words, progress, now, random = Math.random) {
   const familiar = candidates.filter(({ word }) => word.characters.every(character =>
     characters[character] || curriculumGrades.get(character) <= grade));
   if (familiar.length) candidates = familiar;
-  return { ...candidates[Math.floor(random() * candidates.length)], practice };
+  return candidates[Math.floor(random() * candidates.length)];
+}
+
+export function chooseHandwritingWord(words, characters, previousId, random = Math.random) {
+  const grade = unlockedGrade(characters);
+  const candidates = words.map(word => ({
+    word,
+    targets: word.characters.filter(character => characters[character] || curriculumGrades.get(character) <= grade),
+  })).filter(candidate => candidate.targets.length);
+  const alternatives = candidates.filter(candidate => candidate.word.id !== previousId);
+  const pool = alternatives.length ? alternatives : candidates;
+  return pool.length ? { ...pool[Math.floor(random() * pool.length)], practice: true } : null;
 }
 
 export function submitWord(progress, prompt, selections, at = Date.now()) {
   const { word, targets, practice } = prompt;
+  if (practice) return progress;
   const grade = unlockedGrade(progress.characters);
   if (!targets.length || targets.some(character =>
     !outcomes.includes(selections.get(character)) ||
     (!progress.characters[character] && curriculumGrades.get(character) !== grade) ||
-    (!practice && progress.characters[character] && !isDue(progress.characters[character], at)))) {
+    (progress.characters[character] && !isDue(progress.characters[character], at)))) {
     throw new Error('The word has incomplete or expired selections');
   }
   const characters = { ...progress.characters };
@@ -105,13 +159,6 @@ export function submitWord(progress, prompt, selections, at = Date.now()) {
     const outcome = selections.get(character);
     const previous = characters[character];
     const memorized = outcome === 'memorized';
-    if (practice) {
-      if (memorized && !previous?.memorized) {
-        characters[character] = markMemorized({ characters }, character).characters[character];
-      }
-      reviews.push({ wordId: word.id, character, outcome, at, due: characters[character]?.due ?? null, practice: true });
-      continue;
-    }
     const card = memorized ? previous?.card ?? null : schedule(previous?.card, outcome, at);
     const due = memorized ? null : card.due;
     characters[character] = { memorized, due, card, introducedAt: previous ? previous.introducedAt : at };
@@ -131,7 +178,7 @@ export function applyMemorization(progress, changes, now = Date.now()) {
     } else if (previous.browserOnly) {
       delete characters[character];
     } else {
-      characters[character] = { ...previous, due: now, memorized: false };
+      characters[character] = { ...previous, due: previous.card?.due ?? now, memorized: false };
     }
   }
   return { ...progress, characters };
@@ -145,7 +192,7 @@ export function reactivate(progress, character, now = Date.now()) {
   return applyMemorization(progress, [[character, false]], now);
 }
 
-export const validNewPerDay = value => Number.isInteger(value) && value >= 0 && value <= maxNewPerDay;
+const validNewPerDay = value => Number.isInteger(value) && value >= 0 && value <= 20;
 const isDate = value => Number.isSafeInteger(value) && value >= 0 && value <= 8.64e15;
 const isKanji = value => typeof value === 'string' && /^\p{Script=Han}$/u.test(value);
 const isCount = value => Number.isSafeInteger(value) && value >= 0;

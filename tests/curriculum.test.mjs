@@ -54,5 +54,9 @@ test('browsing can suspend and restart a studied kanji without altering its revi
   const resumed = reactivate(paused, character, now + 1);
   assert.deepEqual(resumed.characters[character].card, studied.characters[character].card);
   assert.deepEqual(resumed.reviews, studied.reviews);
-  assert(chooseWord(words, resumed, now + 1, () => 0).targets.includes(character));
+  const matching = words.filter(word => word.characters.includes(character));
+  const tomorrow = new Date(now).setHours(24, 0, 0, 0);
+  assert.equal(resumed.characters[character].due, studied.characters[character].due);
+  assert(chooseWord(matching, resumed, Math.max(tomorrow, resumed.characters[character].due), () => 0)
+    .targets.includes(character));
 });

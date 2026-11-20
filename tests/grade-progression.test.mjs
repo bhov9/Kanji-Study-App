@@ -35,6 +35,10 @@ test('bulk edits leave history and FSRS cards intact and can re-lock new kanji w
   assert.deepEqual(reopened.characters[character].card, studied.characters[character].card);
   assert.deepEqual(reopened.reviews, studied.reviews);
   const restored = applyMemorization(reopened, [[character, false]], now);
-  assert.deepEqual(chooseWord(words, restored, now, () => 0).targets, [character]);
+  const matching = words.filter(word => word.characters.includes(character));
+  const tomorrow = new Date(now).setHours(24, 0, 0, 0);
+  assert.equal(restored.characters[character].due, studied.characters[character].due);
+  assert(chooseWord(matching, restored, Math.max(tomorrow, restored.characters[character].due), () => 0)
+    .targets.includes(character));
   assert.deepEqual(restored.characters[character].card, studied.characters[character].card);
 });

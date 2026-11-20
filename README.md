@@ -23,8 +23,9 @@ No packages or build steps are required. Run `python -m http.server 8000` from t
 - Due kanji come first. The app randomizes among words covering the oldest batch of due characters and avoids repeating the previous word when an alternative is eligible.
 - A grade opens once each character in the previous grades has been introduced or marked Memorized. Previously introduced cards remain eligible for review at every grade.
 - In **Browse Kanji → Edit Progress**, you can change individual or whole-grade Memorized statuses. **Confirm Changes** saves the pending changes together and keeps existing FSRS cards and review history.
-- Study stays open when nothing is due. Extra practice records the grade separately from FSRS scheduling. The daily introduction setting limits new scheduled cards only. If no introduced cards are available, the app can preview a new kanji or offer practice with memorized kanji.
-- New kanji enter in grade order as the due queue clears. The default is five per local calendar day. Change the limit under **Progress**. Set it to zero for reviews only.
+- New kanji enter in grade order while cards await review, with no daily introduction or review cap.
+- Incorrect grades keep their FSRS due dates and normally wait for 10 distinct other kanji. When the eligible pool is too small and no new or normally eligible kanji remain, a due kanji can return sooner by count. Correct grades wait for the next local calendar day and the end of the current session, in addition to the FSRS due date.
+- **Handwriting Practice** lets you keep writing when no reviews are ready. It uses the normal writing and answer tools without logging grades or changing FSRS cards.
 - [ts-fsrs 5.2.3](https://www.npmjs.com/package/ts-fsrs/v/5.2.3) supplies FSRS-6 with a target retention of 90%. Correct maps to Good, and Incorrect maps to Again. Learning and relearning use 10- and 30-minute steps.
 - Memorized suspends the kanji across the deck. Use Progress to reactivate it for immediate review.
 - Progress stays in this browser's local storage. Export a backup before transferring devices or clearing browser data. Import replaces local progress after confirmation. Keep word IDs stable when editing the deck so earlier review events retain their vocabulary context.

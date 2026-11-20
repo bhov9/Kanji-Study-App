@@ -8,8 +8,8 @@ import { readingCue } from './reading-cue.js';
 import { createStrokeOrder } from './stroke-order.js';
 import { setupProgressEditor } from './progress-editor.js';
 import {
-  applyMemorization, chooseWord, freshProgress, markMemorized, maxNewPerDay, parseProgress, reactivate,
-  startOfDay, submitWord, unlockedGrade, validNewPerDay,
+  applyMemorization, chooseHandwritingWord, chooseWord, freshProgress, markMemorized, parseProgress, reactivate,
+  startOfDay, submitWord, unlockedGrade,
 } from './study.js';
 
 const storageKey = 'kanji-practice.progress';
@@ -24,6 +24,8 @@ let current;
 let submitting = false;
 let view = 'menu';
 const selections = new Map();
+const sessionCorrect = new Set();
+let handwritingOnly = false;
 const handwriting = setupHandwriting();
 
 function message(id, text) {
@@ -90,7 +92,8 @@ function updateStats() {
   if (byId('progress').open) renderGradeProgress();
 }
 
-function showWord(focus = false) {
+function showWord(focus = false, repeatPractice = false) {
+  const previousPracticeWord = current?.practice ? current.word.id : undefined;
   updateStats();
   selections.clear();
   byId('answer').hidden = true;
@@ -99,20 +102,24 @@ function showWord(focus = false) {
   byId('word-example').hidden = true;
   message('tested-positions', '');
   byId('next').disabled = true;
+  byId('repeat-practice').hidden = true;
   if (view !== 'study') {
     current = null;
     handwriting.reset([]);
     return;
   }
   const now = Date.now();
-  current = storageReadable ? chooseWord(words, progress, now) : null;
+  current = !storageReadable ? null : handwritingOnly
+    ? (repeatPractice && current?.practice ? current : chooseHandwritingWord(words, progress.characters, previousPracticeWord))
+    : chooseWord(words, progress, now, Math.random, sessionCorrect);
   handwriting.reset(current?.targets ?? []);
   byId('show-answer').hidden = !current;
+  byId('check-reviews').hidden = Boolean(current || handwritingOnly || !storageReadable);
   byId('prompt-label').hidden = !current;
   byId('instruction').hidden = !current;
   const reading = byId('reading');
   if (current) {
-    byId('prompt-label').textContent = current.practice ? 'Extra practice · FSRS dates stay the same' : 'Write from memory';
+    byId('prompt-label').textContent = current.practice ? 'Handwriting only · no reviews recorded' : 'Write from memory';
     reading.lang = 'ja';
     const cue = readingCue(current.word, current.targets);
     reading.replaceChildren(...cue.parts.map(({ text, tested }) =>
@@ -122,13 +129,18 @@ function showWord(focus = false) {
     renderExample(byId('word-example'), exampleFor(current.word.id), current.word, false);
   } else {
     reading.removeAttribute('lang');
-    reading.textContent = storageReadable ? 'No vocabulary available' : 'Progress unavailable';
-    byId('meaning').textContent = storageReadable ? '' : 'Open Progress to restore a backup.';
+    reading.textContent = storageReadable ? 'No kanji ready for review' : 'Progress unavailable';
+    const waiting = Number(byId('due').textContent) > 0;
+    byId('meaning').textContent = storageReadable
+      ? (waiting ? 'Some due kanji are still waiting for spacing. You can keep writing in Handwriting Practice.' :
+        'You can keep writing in Handwriting Practice or return later for scheduled reviews.')
+      : 'Open Progress to restore a backup.';
   }
   if (focus) reading.focus();
 }
 
 function navigate(nextView) {
+  if (view === 'study' && nextView !== 'study') sessionCorrect.clear();
   view = nextView;
   for (const name of ['menu', 'study', 'browser']) byId(`${name}-view`).hidden = name !== view;
   window.scrollTo(0, 0);
@@ -170,6 +182,13 @@ setupProgressEditor(() => progress, () => storageReadable, async changes => {
 });
 
 byId('start-study').addEventListener('click', () => navigate('study'));
+byId('check-reviews').addEventListener('click', () => showWord(true));
+byId('handwriting-mode').addEventListener('click', () => {
+  if ((selections.size || handwriting.hasDraft()) && !window.confirm('Switch modes and discard the current draft?')) return;
+  handwritingOnly = !handwritingOnly;
+  byId('handwriting-mode').textContent = handwritingOnly ? 'Back to Reviews' : 'Handwriting Practice';
+  showWord(true);
+});
 byId('open-browser').addEventListener('click', () => navigate('browser'));
 for (const button of document.querySelectorAll('.return-menu')) {
   button.addEventListener('click', () => {
@@ -223,7 +242,7 @@ function renderCharacter(character, writingBox) {
   const glyph = node('span', character, 'glyph');
   glyph.lang = 'ja';
   const isTarget = current.targets.includes(character);
-  const status = node('span', isTarget ? (current.practice ? 'Extra practice' :
+  const status = node('span', isTarget ? (current.practice ? 'Handwriting practice' :
     progress.characters[character] ? 'Due for review' : 'New kanji') :
     progress.characters[character]?.memorized ? 'Memorized' : 'Not scheduled for this word', 'character-status');
   status.setAttribute('aria-live', 'polite');
@@ -239,7 +258,7 @@ function renderCharacter(character, writingBox) {
     card.append(comparison);
   }
   if (isTarget) card.append(createStrokeOrder(character));
-  if (isTarget) {
+  if (isTarget && !current.practice) {
     const controls = node('div', '', 'grades');
     controls.setAttribute('role', 'group');
     controls.setAttribute('aria-label', `Grade ${character}`);
@@ -272,6 +291,11 @@ function revealAnswer() {
   byId('characters').replaceChildren(...current.word.characters.map(character =>
     renderCharacter(character, writingBoxes.get(character))));
   byId('answer').hidden = false;
+  byId('next').textContent = current.practice ? 'Next Practice Word' : 'Next Word';
+  if (current.practice) {
+    byId('next').disabled = false;
+    byId('repeat-practice').hidden = false;
+  }
   renderExample(byId('word-example'), exampleFor(current.word.id), current.word, true);
   byId('show-answer').hidden = true;
   byId('instruction').hidden = true;
@@ -280,13 +304,22 @@ function revealAnswer() {
 
 byId('show-answer').addEventListener('click', revealAnswer);
 byId('check-writing').addEventListener('click', revealAnswer);
+byId('repeat-practice').addEventListener('click', () => showWord(true, true));
 
 byId('next').addEventListener('click', async () => {
+  if (current?.practice) {
+    showWord(true);
+    return;
+  }
   if (submitting || selections.size !== current?.targets.length) return;
   submitting = true;
   byId('next').disabled = true;
   try {
-    if (await save(submitWord(progress, current, selections))) showWord(true);
+    const correct = [...selections].filter(([, outcome]) => outcome === 'correct');
+    if (await save(submitWord(progress, current, selections))) {
+      for (const [character] of correct) sessionCorrect.add(character);
+      showWord(true);
+    }
   } catch {
     showWord();
     message('status', 'This word is no longer eligible. The study prompt has been refreshed.');
@@ -317,22 +350,9 @@ function renderGradeProgress() {
 byId('open-progress').addEventListener('click', () => {
   updateStats();
   renderGradeProgress();
-  byId('new-per-day').value = progress.newPerDay;
-  byId('new-per-day').max = maxNewPerDay;
-  byId('schedule-settings').hidden = !storageReadable;
   byId('export').disabled = !storageReadable;
   message('backup-status', '');
   byId('progress').showModal();
-});
-
-byId('schedule-settings').addEventListener('submit', async event => {
-  event.preventDefault();
-  const limit = byId('new-per-day').valueAsNumber;
-  if (!validNewPerDay(limit)) return;
-  if (await save({ ...progress, newPerDay: limit })) {
-    if (!handwriting.hasDraft() && !selections.size) showWord();
-    message('backup-status', 'Daily limit saved.');
-  }
 });
 
 byId('export').addEventListener('click', () => {
@@ -360,8 +380,6 @@ byId('backup-file').addEventListener('change', async event => {
     }
     showWord();
     if (view === 'browser') browser.refresh();
-    byId('new-per-day').value = progress.newPerDay;
-    byId('schedule-settings').hidden = false;
     byId('export').disabled = false;
     message('backup-status', 'Backup restored.');
   } catch {
@@ -381,8 +399,6 @@ window.addEventListener('storage', event => {
   showWord();
   if (view === 'browser') browser.refresh();
   if (byId('progress').open) {
-    byId('new-per-day').value = progress.newPerDay;
-    byId('schedule-settings').hidden = !storageReadable;
     byId('export').disabled = !storageReadable;
   }
 });
