@@ -6,9 +6,10 @@ import { setupHandwriting } from './handwriting.js';
 import { kanjiReference } from './kanji-reference.js';
 import { readingCue } from './reading-cue.js';
 import { createStrokeOrder } from './stroke-order.js';
+import { setupProgressEditor } from './progress-editor.js';
 import {
-  chooseWord, freshProgress, markMemorized, maxNewPerDay, parseProgress, reactivate,
-  startOfDay, submitWord, validNewPerDay,
+  applyMemorization, chooseWord, freshProgress, markMemorized, maxNewPerDay, parseProgress, reactivate,
+  startOfDay, submitWord, unlockedGrade, validNewPerDay,
 } from './study.js';
 
 const storageKey = 'kanji-practice.progress';
@@ -69,6 +70,7 @@ async function save(next) {
 }
 
 function updateStats() {
+  byId('open-progress-editor').disabled = !storageReadable;
   const now = Date.now();
   const startOfToday = startOfDay(now);
   const states = [...curriculumGrades.keys()].filter(character => progress.characters[character]);
@@ -151,6 +153,19 @@ const browser = setupKanjiBrowser(() => progress, () => storageReadable, async (
   const next = memorized ? markMemorized(progress, character) : reactivate(progress, character);
   if (!await save(next)) return false;
   refreshAfterStatusChange(character);
+  return true;
+});
+
+setupProgressEditor(() => progress, () => storageReadable, async changes => {
+  const next = applyMemorization(progress, changes);
+  if (!await save(next)) return false;
+  const grade = unlockedGrade(next.characters);
+  const invalidated = current?.targets.some(character => changes.has(character) ||
+    (!next.characters[character] && curriculumGrades.get(character) !== grade));
+  if ((!selections.size && !handwriting.hasDraft()) || invalidated) {
+    showWord();
+  }
+  browser.refresh();
   return true;
 });
 

@@ -82,6 +82,7 @@
       <div class="view-bar">
         <button class="quiet return-menu" type="button">Return to Menu</button>
         <button id="back-to-grades" class="quiet" type="button" hidden>All Grades</button>
+        <button id="open-progress-editor" class="quiet" type="button">Edit Progress</button>
       </div>
       <h2 id="browser-title" tabindex="-1">Browse Kanji</h2>
       <p id="browser-summary" class="muted"></p>
@@ -94,10 +95,35 @@
         <summary>Sources</summary>
         <p>Curriculum from Japan’s <a href="https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/index.html">Agency for Cultural Affairs</a> and <a href="https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_01.pdf">Ministry of Education</a>.</p>
         <p>Readings and meanings adapted from <a href="https://www.edrdg.org/kanjidic/kanjd2index_legacy.html">KANJIDIC2</a> © James William Breen and the Electronic Dictionary Research and Development Group, under <a href="https://www.edrdg.org/edrdg/licence.html">CC BY-SA 4.0</a>.</p>
+        <p>Supplemental study vocabulary adapted from <a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html">JMdict</a> © EDRDG and James William Breen, under <a href="https://www.edrdg.org/edrdg/licence.html">CC BY-SA 4.0</a>.</p>
       </details>
     </section>
     <p id="offline" class="offline" hidden>Ready for offline study</p>
   </main>
+  <dialog id="edit-progress" aria-labelledby="edit-progress-title">
+    <div class="dialog-header">
+      <h2 id="edit-progress-title">Edit Progress</h2>
+      <button id="close-progress-editor" class="quiet" type="button">Close</button>
+    </div>
+    <div class="editor-grade">
+      <label for="edit-grade">Grade</label>
+      <select id="edit-grade"></select>
+    </div>
+    <div class="editor-actions">
+      <button id="edit-mark-all" type="button">Mark Grade Memorized</button>
+      <button id="edit-unmark-all" type="button">Mark Grade Not Memorized</button>
+    </div>
+    <p class="editor-key"><span aria-hidden="true">✓</span> Memorized</p>
+    <div id="edit-kanji-grid" aria-label="Kanji memorization statuses"></div>
+    <div class="editor-footer">
+      <p id="edit-change-count" role="status"></p>
+      <p id="edit-progress-error" role="alert" hidden>Could not save. Your edits are still here. Try again or cancel.</p>
+      <div class="editor-actions">
+        <button id="cancel-progress-edits" class="quiet" type="button">Cancel</button>
+        <button id="confirm-progress-edits" class="primary" type="button" disabled>Confirm Changes</button>
+      </div>
+    </div>
+  </dialog>
   <dialog id="progress" aria-labelledby="progress-title">
     <form method="dialog" class="dialog-header">
       <h2 id="progress-title">Progress</h2>

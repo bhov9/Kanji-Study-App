@@ -21,6 +21,8 @@ No packages or build steps are required. Run `python -m http.server 8000` from t
 
 - Select an outcome for each review target. You can change it up to the moment you press **Next Word**, which saves the final grades together.
 - Due kanji come first. The app randomizes among words covering the oldest batch of due characters and avoids repeating the previous word when an alternative is eligible.
+- A grade opens once each character in the previous grades has been introduced or marked Memorized. Previously introduced cards remain eligible for review at every grade.
+- In **Browse Kanji → Edit Progress**, you can change individual or whole-grade Memorized statuses. **Confirm Changes** saves the pending changes together and keeps existing FSRS cards and review history.
 - Study stays open when nothing is due. Extra practice records the grade separately from FSRS scheduling. The daily introduction setting limits new scheduled cards only. If no introduced cards are available, the app can preview a new kanji or offer practice with memorized kanji.
 - New kanji enter in grade order as the due queue clears. The default is five per local calendar day. Change the limit under **Progress**. Set it to zero for reviews only.
 - [ts-fsrs 5.2.3](https://www.npmjs.com/package/ts-fsrs/v/5.2.3) supplies FSRS-6 with a target retention of 90%. Correct maps to Good, and Incorrect maps to Again. Learning and relearning use 10- and 30-minute steps.
@@ -57,6 +59,8 @@ The breakdowns describe visible writing forms. Memory aids are original stories 
 `kanji-reference.js` adapts the Japanese on and kun readings and English glosses from [KANJIDIC2](https://www.edrdg.org/kanjidic/kanjd2index_legacy.html), copyright James William Breen and the Electronic Dictionary Research and Development Group. The adapted dictionary data is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) under the [EDRDG dictionary license](https://www.edrdg.org/edrdg/licence.html). Refresh it from the latest source with `python scripts/update_kanji_reference.py` during content updates, then increment the service worker cache revision.
 
 Add future vocabulary and structural notes to `data.js`. Keep word IDs stable and use the curriculum characters as keys so progress and existing review history continue to match.
+
+The supplemental deck in `grade-vocabulary.js` gives every curriculum character a vocabulary prompt. It uses Japanese spellings, readings, and English glosses from [JMdict](https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html), copyright EDRDG and James William Breen, under [CC BY-SA 4.0](https://www.edrdg.org/edrdg/licence.html). The import selects common, grade-appropriate spellings where possible. To reproduce it, download `JMdict_b.gz` from [EDRDG](https://www.edrdg.org/pub/Nihongo/) and run `python scripts/import_grade_vocabulary.py PATH_TO_JMdict_b.gz`.
 
 ## Adding example sentences
 

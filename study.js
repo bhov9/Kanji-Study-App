@@ -1,4 +1,4 @@
-import { curriculumGrades } from './curriculum.js';
+import { curriculumGrades, groups } from './curriculum.js';
 import { createEmptyCard, fsrs, Rating } from './vendor/ts-fsrs.js';
 
 const hour = 60 * 60_000;
@@ -39,8 +39,13 @@ function isDue(state, now) {
   return state && !state.memorized && state.due <= now;
 }
 
+export function unlockedGrade(characters) {
+  return groups.find(group => group.characters.some(character => !characters[character]))?.grade ?? groups.length;
+}
+
 export function chooseWord(words, progress, now, random = Math.random) {
   const { characters, reviews, newPerDay } = progress;
+  const grade = unlockedGrade(characters);
   const matching = (eligible, limit = Infinity) => words.map(word => ({
     word,
     targets: word.characters.filter(eligible).slice(0, limit),
@@ -59,9 +64,7 @@ export function chooseWord(words, progress, now, random = Math.random) {
     const introducedToday = Object.values(characters)
       .filter(state => state.introducedAt !== null && state.introducedAt >= dayStart && state.introducedAt <= now).length;
     const remaining = newPerDay - introducedToday;
-    const unseen = new Set(words.flatMap(word => word.characters).filter(character => !characters[character]));
-    const grade = Math.min(...Array.from(unseen, character => curriculumGrades.get(character)));
-    const atGrade = character => unseen.has(character) && curriculumGrades.get(character) === grade;
+    const atGrade = character => !characters[character] && curriculumGrades.get(character) === grade;
     candidates = remaining > 0 ? matching(atGrade, remaining) : [];
     if (!candidates.length) {
       practice = true;
@@ -81,13 +84,18 @@ export function chooseWord(words, progress, now, random = Math.random) {
     const oldest = Math.min(...candidates.map(candidate => candidate.due));
     candidates = candidates.filter(candidate => candidate.due <= oldest + hour);
   }
+  const familiar = candidates.filter(({ word }) => word.characters.every(character =>
+    characters[character] || curriculumGrades.get(character) <= grade));
+  if (familiar.length) candidates = familiar;
   return { ...candidates[Math.floor(random() * candidates.length)], practice };
 }
 
 export function submitWord(progress, prompt, selections, at = Date.now()) {
   const { word, targets, practice } = prompt;
+  const grade = unlockedGrade(progress.characters);
   if (!targets.length || targets.some(character =>
     !outcomes.includes(selections.get(character)) ||
+    (!progress.characters[character] && curriculumGrades.get(character) !== grade) ||
     (!practice && progress.characters[character] && !isDue(progress.characters[character], at)))) {
     throw new Error('The word has incomplete or expired selections');
   }
@@ -104,32 +112,37 @@ export function submitWord(progress, prompt, selections, at = Date.now()) {
       reviews.push({ wordId: word.id, character, outcome, at, due: characters[character]?.due ?? null, practice: true });
       continue;
     }
-    const card = memorized ? null : schedule(previous?.card, outcome, at);
-    const due = card?.due ?? null;
+    const card = memorized ? previous?.card ?? null : schedule(previous?.card, outcome, at);
+    const due = memorized ? null : card.due;
     characters[character] = { memorized, due, card, introducedAt: previous ? previous.introducedAt : at };
     reviews.push({ wordId: word.id, character, outcome, at, due });
   }
   return { ...progress, characters, reviews };
 }
 
+export function applyMemorization(progress, changes, now = Date.now()) {
+  const characters = { ...progress.characters };
+  for (const [character, memorized] of changes) {
+    const previous = characters[character];
+    if (Boolean(previous?.memorized) === memorized) continue;
+    if (memorized) {
+      const state = previous ?? { card: null, introducedAt: null, browserOnly: true };
+      characters[character] = { ...state, due: null, memorized: true };
+    } else if (previous.browserOnly) {
+      delete characters[character];
+    } else {
+      characters[character] = { ...previous, due: now, memorized: false };
+    }
+  }
+  return { ...progress, characters };
+}
+
 export function markMemorized(progress, character) {
-  const previous = progress.characters[character] ?? { card: null, introducedAt: null, browserOnly: true };
-  return {
-    ...progress,
-    characters: {
-      ...progress.characters,
-      [character]: { ...previous, due: null, memorized: true },
-    },
-  };
+  return applyMemorization(progress, [[character, true]]);
 }
 
 export function reactivate(progress, character, now = Date.now()) {
-  const previous = progress.characters[character];
-  if (!previous?.memorized) return progress;
-  const characters = { ...progress.characters };
-  if (previous.browserOnly) delete characters[character];
-  else characters[character] = { ...previous, due: now, memorized: false };
-  return { ...progress, characters };
+  return applyMemorization(progress, [[character, false]], now);
 }
 
 export const validNewPerDay = value => Number.isInteger(value) && value >= 0 && value <= maxNewPerDay;

@@ -1,4 +1,5 @@
 import { curriculumGrades } from './curriculum.js';
+import { gradeVocabulary } from './grade-vocabulary.js';
 
 // Stable word IDs are stored in review history. Keep them when editing a word.
 // Component notes describe visible shapes. Mnemonics are invented memory aids.
@@ -63,7 +64,7 @@ export const kanjiNotes = {
 };
 
 // Optional reading parts align with each written code point, including kana.
-export const words = wordRows.map(([id, spelling, reading, meaning, readingParts]) => {
+export const words = [...wordRows, ...gradeVocabulary].map(([id, spelling, reading, meaning, readingParts]) => {
   const characters = [...new Set(spelling)].filter(character => curriculumGrades.has(character));
   return { id, spelling, reading, meaning, readingParts, characters, grades: [...new Set(characters.map(character => curriculumGrades.get(character)))] };
 });

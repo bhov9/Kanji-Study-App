@@ -1,8 +1,8 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { curriculumGrades } from '../curriculum.js';
+import { curriculumGrades, groups } from '../curriculum.js';
 import { words } from '../data.js';
-import { chooseWord, freshProgress, parseProgress, reactivate, submitWord } from '../study.js';
+import { applyMemorization, chooseWord, freshProgress, parseProgress, reactivate, submitWord } from '../study.js';
 
 test('extra practice stays available at the introduction limit and preserves FSRS cards', () => {
   const now = Date.UTC(2026, 0, 1, 12);
@@ -34,11 +34,7 @@ test('a zero introduction limit still allows previews and practice of a memorize
   const saved = submitWord(initial, preview, new Map([[preview.targets[0], 'correct']]), now);
   assert.deepEqual(saved.characters, {});
   assert.deepEqual(parseProgress(JSON.stringify(saved)), saved);
-  let memorized = initial;
-  for (const character of deck[0].characters) {
-    memorized = submitWord(memorized, { word: deck[0], targets: [character], practice: true },
-      new Map([[character, 'memorized']]), now);
-  }
+  const memorized = applyMemorization(initial, deck[0].characters.map(character => [character, true]), now);
   const practice = chooseWord(deck, memorized, now, () => 0);
   assert.equal(practice.practice, true);
   const next = submitWord(memorized, practice, new Map(practice.targets.map(character => [character, 'incorrect'])), now);
@@ -113,7 +109,8 @@ test('new words vary, start in grade one, and respect the daily limit and grade 
 });
 
 test('due work beats introductions, old work beats newer work, and memorized stays excluded', () => {
-  let progress = submit(freshProgress(), { word: word('yakusoku'), targets: ['約', '束'] }, now, 'memorized');
+  const earlier = groups.slice(0, 3).flatMap(group => group.characters.map(character => [character, true]));
+  let progress = submit(applyMemorization(freshProgress(), earlier), { word: word('yakusoku'), targets: ['約', '束'] }, now, 'memorized');
   progress = reactivate(progress, '束', now);
   progress = reactivate(progress, '約', now - 3 * day);
   const prompt = chooseWord(words, progress, now, last);

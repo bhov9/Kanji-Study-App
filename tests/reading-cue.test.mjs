@@ -34,8 +34,8 @@ test('all current deck mappings reproduce the entire reading', () => {
     for (const character of word.characters) {
       const cue = readingCue(word, [character]);
       assert.equal(cue.parts.map(part => part.text).join(''), word.reading, word.id);
-      assert.equal(cue.hint, '', word.id);
-      assert(cue.parts.some(part => part.tested), word.id);
+      if (word.readingParts) assert.equal(cue.hint, '', word.id);
+      assert(cue.hint || cue.parts.some(part => part.tested), word.id);
     }
   }
 });
