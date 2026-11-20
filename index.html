@@ -55,8 +55,21 @@
           <details class="example-translation"><summary>English translation</summary><p></p></details>
           <details class="example-history" hidden><summary>Historical context</summary><p></p><ul></ul></details>
         </aside>
-        <p id="instruction">Write the kanji on paper, then check your answer.</p>
-        <button id="show-answer" class="primary" type="button">Show Answer</button>
+        <p id="instruction">Write from memory on paper or on your screen.</p>
+        <div class="answer-actions">
+          <button id="write" type="button" aria-controls="handwriting" aria-expanded="false" hidden>Write</button>
+          <button id="show-answer" class="primary" type="button">Show Answer</button>
+        </div>
+        <section id="handwriting" aria-label="Handwriting practice" hidden>
+          <div id="writing-boxes"></div>
+          <p id="writing-selection" role="status"></p>
+          <div class="writing-tools">
+            <button id="undo-stroke" type="button" disabled>Undo Last Stroke</button>
+            <button id="clear-writing" type="button" disabled>Clear</button>
+            <button id="clear-all-writing" type="button" disabled>Clear All</button>
+          </div>
+          <button id="check-writing" class="primary" type="button">Check</button>
+        </section>
         <section id="answer" aria-label="Answer and grading" hidden>
           <h3 id="spelling" lang="ja" tabindex="-1"></h3>
           <div id="characters"></div>

@@ -192,6 +192,46 @@ dialog::backdrop { background: #292219a0; }
 .grade-progress-meter progress::-webkit-progress-bar { background: #e7d7ba; }
 .grade-progress-meter progress::-webkit-progress-value { background: var(--indigo); }
 .grade-progress-meter progress::-moz-progress-bar { background: var(--indigo); }
+.answer-actions { display: grid; grid-template-columns: minmax(5rem, .4fr) 1fr; gap: .6rem; }
+.answer-actions:has(#write[hidden]) { display: block; }
+#write[aria-expanded="true"] { border-color: var(--indigo); box-shadow: inset 0 0 0 1px var(--indigo); }
+#handwriting { margin: 1rem 0; }
+#writing-boxes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: .85rem; }
+.writing-pad { min-width: 0; width: 100%; max-width: 15rem; margin-inline: auto; color: var(--muted); font-size: .875rem; text-align: center; }
+.writing-pad canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  margin-top: .2rem;
+  border-radius: .25rem;
+  box-shadow: 0 0 0 1px var(--gold);
+  background:
+    linear-gradient(to right, transparent calc(50% - .5px), #b49a653d calc(50% - .5px), #b49a653d calc(50% + .5px), transparent calc(50% + .5px)),
+    linear-gradient(to bottom, transparent calc(50% - .5px), #b49a653d calc(50% - .5px), #b49a653d calc(50% + .5px), transparent calc(50% + .5px)),
+    var(--card);
+  touch-action: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: crosshair;
+}
+.writing-pad[data-selected] canvas, .writing-pad canvas:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
+.writing-pad[data-selected] > span { font-weight: 700; color: var(--indigo); }
+#writing-selection { margin: .75rem 0 .45rem; font-size: .875rem; color: var(--muted); }
+.writing-tools { display: flex; flex-wrap: wrap; justify-content: center; gap: .45rem; }
+.writing-tools button { font-size: .875rem; touch-action: manipulation; }
+#check-writing { margin-top: .7rem; }
+.writing-comparison {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(4.5rem, .65fr);
+  align-items: center;
+  gap: .75rem;
+  margin: .65rem 0 .85rem;
+}
+.writing-correct { display: grid; justify-items: center; align-content: center; gap: .3rem; color: var(--muted); font-size: .875rem; }
+.writing-correct .glyph { font-size: clamp(2.65rem, 13vw, 4.5rem); color: var(--ink); }
+.study-kanji-details h4 { margin: .75rem 0 .15rem; color: var(--indigo); }
+.study-kanji-details p { margin: .15rem 0 .45rem; overflow-wrap: anywhere; }
 @media (min-width: 35rem) {
   .menu-actions { grid-template-columns: 1fr 1fr; }
 }

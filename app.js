@@ -2,6 +2,8 @@ import { kanjiNotes, words } from './data.js';
 import { setupKanjiBrowser } from './browser.js';
 import { curriculumGrades, groups } from './curriculum.js';
 import { exampleFor, renderExample } from './examples.js';
+import { setupHandwriting } from './handwriting.js';
+import { kanjiReference } from './kanji-reference.js';
 import {
   chooseWord, freshProgress, markMemorized, maxNewPerDay, parseProgress, reactivate,
   startOfDay, submitWord, validNewPerDay,
@@ -19,6 +21,7 @@ let current;
 let submitting = false;
 let view = 'menu';
 const selections = new Map();
+const handwriting = setupHandwriting();
 
 function message(id, text) {
   const element = byId(id);
@@ -93,10 +96,12 @@ function showWord(focus = false) {
   byId('next').disabled = true;
   if (view !== 'study') {
     current = null;
+    handwriting.reset([]);
     return;
   }
   const now = Date.now();
   current = storageReadable ? chooseWord(words, progress, now) : null;
+  handwriting.reset(current?.targets ?? []);
   byId('show-answer').hidden = !current;
   byId('prompt-label').hidden = !current;
   byId('instruction').hidden = !current;
@@ -122,17 +127,17 @@ function navigate(nextView) {
   updateStats();
   if (view === 'menu') byId('menu-title').focus({ preventScroll: true });
   if (view === 'study') {
-    if (!selections.size) showWord(true);
-    else byId('spelling').focus();
+    if (!selections.size && !handwriting.hasDraft()) showWord(true);
+    else byId(byId('answer').hidden ? 'reading' : 'spelling').focus();
   }
   if (view === 'browser') browser.open();
 }
 
 function refreshAfterStatusChange(character) {
-  if (!selections.size || current?.targets.includes(character)) {
-    const hadSelections = selections.size > 0;
+  if ((!selections.size && !handwriting.hasDraft()) || current?.targets.includes(character)) {
+    const hadDraft = selections.size > 0 || handwriting.hasDraft();
     showWord();
-    if (hadSelections) message('status', 'The draft was discarded because a kanji in that review changed status.');
+    if (hadDraft) message('status', 'The draft was discarded because a kanji in that review changed status.');
   }
 }
 
@@ -159,7 +164,39 @@ function node(tag, text, className) {
   return element;
 }
 
-function renderCharacter(character) {
+function renderKanjiDetails(character) {
+  const details = node('details', '', 'study-kanji-details');
+  details.append(node('summary', 'Kanji Details'));
+  const glyph = node('p', character, 'glyph');
+  glyph.lang = 'ja';
+  details.append(glyph);
+  const grade = curriculumGrades.get(character);
+  const reference = kanjiReference[character];
+  const [components, structure, mnemonic] = kanjiNotes[character] ?? [];
+  const field = (heading, value, lang) => {
+    if (!value) return;
+    const text = node('p', value);
+    if (lang) text.lang = lang;
+    details.append(node('h4', heading), text);
+  };
+  if (grade) {
+    const gradeHeading = node('h4', 'School Grade');
+    const gradeName = node('p', '');
+    const japanese = node('span', grade < 7 ? `小学${grade}年生` : '中学校以降');
+    japanese.lang = 'ja';
+    gradeName.append(japanese, grade < 7 ? ` / Grade ${grade}` : ' / Secondary School / Remaining Jōyō');
+    details.append(gradeHeading, gradeName);
+  }
+  field('Meaning', reference?.meanings.join('; '));
+  field('On’yomi', reference?.on.join('、'), 'ja');
+  field('Kun’yomi', reference?.kun.map(reading => reading.replace(/\.(.+)$/, '（$1）')).join('、'), 'ja');
+  field('Components', components);
+  if (structure) details.append(node('p', structure));
+  field('Mnemonic', mnemonic);
+  return details;
+}
+
+function renderCharacter(character, writingBox) {
   const card = node('section', '', 'character');
   const header = node('div', '', 'character-head');
   const glyph = node('span', character, 'glyph');
@@ -171,6 +208,15 @@ function renderCharacter(character) {
   status.setAttribute('aria-live', 'polite');
   header.append(glyph, status);
   card.append(header);
+  if (writingBox) {
+    const comparison = node('div', '', 'writing-comparison');
+    const correct = node('div', '', 'writing-correct');
+    const model = node('span', character, 'glyph');
+    model.lang = 'ja';
+    correct.append(node('span', 'Answer'), model);
+    comparison.append(writingBox, correct);
+    card.append(comparison);
+  }
   if (isTarget) {
     const controls = node('div', '', 'grades');
     controls.setAttribute('role', 'group');
@@ -193,26 +239,25 @@ function renderCharacter(character) {
     }
     card.append(controls);
   }
-  const notes = kanjiNotes[character];
-  if (notes) {
-    const [components, structure, mnemonic] = notes;
-    const breakdown = node('details', '');
-    breakdown.append(node('summary', 'Kanji Breakdown'), node('p', components), node('p', structure));
-    if (mnemonic) breakdown.append(node('p', `Memory aid · ${mnemonic}`));
-    card.append(breakdown);
-  }
+  card.append(renderKanjiDetails(character));
   return card;
 }
 
-byId('show-answer').addEventListener('click', () => {
+function revealAnswer() {
+  if (!current || !byId('answer').hidden) return;
+  const writingBoxes = handwriting.reveal();
   byId('spelling').textContent = current.word.spelling;
-  byId('characters').replaceChildren(...current.word.characters.map(renderCharacter));
+  byId('characters').replaceChildren(...current.word.characters.map(character =>
+    renderCharacter(character, writingBoxes.get(character))));
   byId('answer').hidden = false;
   renderExample(byId('word-example'), exampleFor(current.word.id), current.word, true);
   byId('show-answer').hidden = true;
   byId('instruction').hidden = true;
   byId('spelling').focus();
-});
+}
+
+byId('show-answer').addEventListener('click', revealAnswer);
+byId('check-writing').addEventListener('click', revealAnswer);
 
 byId('next').addEventListener('click', async () => {
   if (submitting || selections.size !== current?.targets.length) return;
@@ -263,7 +308,7 @@ byId('schedule-settings').addEventListener('submit', async event => {
   const limit = byId('new-per-day').valueAsNumber;
   if (!validNewPerDay(limit)) return;
   if (await save({ ...progress, newPerDay: limit })) {
-    showWord();
+    if (!handwriting.hasDraft() && !selections.size) showWord();
     message('backup-status', 'Daily limit saved.');
   }
 });
