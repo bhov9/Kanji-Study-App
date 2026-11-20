@@ -60,6 +60,10 @@ Add future vocabulary and structural notes to `data.js`. Keep word IDs stable an
 
 ## Adding example sentences
 
+Study prompts underline the kana belonging to the tested kanji. When adding vocabulary, the optional fifth field holds reading parts in written character order, including any kana. Use an ordinal hint by omitting the mapping when boundaries are ambiguous.
+
+After revealing the answer, each tested kanji has a Stroke Order panel. The PWA caches the complete curriculum’s KanjiVG path data in 32 small bundles (about 1.9 MB total before compression). A panel reads only the bundle for its character. See the [source and license notice](stroke-data/README.md) or regenerate the bundles with `python scripts/import_kanjivg.py PATH_TO_KANJIVG_CHECKOUT`.
+
 Add records under the vocabulary ID in `examples.js`. Each sentence uses a list of plain Japanese strings, furigana segments such as `{ ruby: '明治', reading: 'めいじ' }`, and exactly one `{ target: true }` slot. The app takes the kana and kanji for the slot from the vocabulary entry. Keep all target characters out of the other segments. Use furigana for difficult or above-grade kanji.
 
 Optional `translation` starts collapsed. A `historicalNote` and its `sources` become available after reveal. Keep drafts out of study until their Japanese has been reviewed and historical claims have been checked against sources. The app displays the first entry marked `reviewed` or `source-checked`, with no empty example frame for words without one.

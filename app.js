@@ -4,6 +4,8 @@ import { curriculumGrades, groups } from './curriculum.js';
 import { exampleFor, renderExample } from './examples.js';
 import { setupHandwriting } from './handwriting.js';
 import { kanjiReference } from './kanji-reference.js';
+import { readingCue } from './reading-cue.js';
+import { createStrokeOrder } from './stroke-order.js';
 import {
   chooseWord, freshProgress, markMemorized, maxNewPerDay, parseProgress, reactivate,
   startOfDay, submitWord, validNewPerDay,
@@ -93,6 +95,7 @@ function showWord(focus = false) {
   byId('spelling').textContent = '';
   byId('characters').replaceChildren();
   byId('word-example').hidden = true;
+  message('tested-positions', '');
   byId('next').disabled = true;
   if (view !== 'study') {
     current = null;
@@ -109,7 +112,10 @@ function showWord(focus = false) {
   if (current) {
     byId('prompt-label').textContent = current.practice ? 'Extra practice · FSRS dates stay the same' : 'Write from memory';
     reading.lang = 'ja';
-    reading.textContent = current.word.reading;
+    const cue = readingCue(current.word, current.targets);
+    reading.replaceChildren(...cue.parts.map(({ text, tested }) =>
+      tested ? node('u', text) : document.createTextNode(text)));
+    message('tested-positions', cue.hint);
     byId('meaning').textContent = current.word.meaning;
     renderExample(byId('word-example'), exampleFor(current.word.id), current.word, false);
   } else {
@@ -217,6 +223,7 @@ function renderCharacter(character, writingBox) {
     comparison.append(writingBox, correct);
     card.append(comparison);
   }
+  if (isTarget) card.append(createStrokeOrder(character));
   if (isTarget) {
     const controls = node('div', '', 'grades');
     controls.setAttribute('role', 'group');

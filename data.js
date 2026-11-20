@@ -3,32 +3,32 @@ import { curriculumGrades } from './curriculum.js';
 // Stable word IDs are stored in review history. Keep them when editing a word.
 // Component notes describe visible shapes. Mnemonics are invented memory aids.
 const wordRows = [
-  ['yakusoku', '約束', 'やくそく', 'Promise'],
-  ['hanataba', '花束', 'はなたば', 'Bouquet of flowers'],
-  ['yakubun', '約分', 'やくぶん', 'Reducing a fraction'],
-  ['hanabi', '花火', 'はなび', 'Fireworks'],
-  ['kazan', '火山', 'かざん', 'Volcano'],
-  ['tozan', '登山', 'とざん', 'Mountain climbing'],
-  ['jinkou', '人口', 'じんこう', 'Population'],
-  ['jinsei', '人生', 'じんせい', 'A person’s life'],
-  ['gakusei', '学生', 'がくせい', 'Student'],
-  ['gakkou', '学校', 'がっこう', 'School'],
-  ['koumon', '校門', 'こうもん', 'School gate'],
-  ['monban', '門番', 'もんばん', 'Gatekeeper'],
-  ['bangou', '番号', 'ばんごう', 'Number (as an identifier)'],
-  ['shingou', '信号', 'しんごう', 'Signal or traffic light'],
-  ['shinrai', '信頼', 'しんらい', 'Trust or reliance'],
-  ['irai', '依頼', 'いらい', 'Request'],
+  ['yakusoku', '約束', 'やくそく', 'Promise', ['やく', 'そく']],
+  ['hanataba', '花束', 'はなたば', 'Bouquet of flowers', ['はな', 'たば']],
+  ['yakubun', '約分', 'やくぶん', 'Reducing a fraction', ['やく', 'ぶん']],
+  ['hanabi', '花火', 'はなび', 'Fireworks', ['はな', 'び']],
+  ['kazan', '火山', 'かざん', 'Volcano', ['か', 'ざん']],
+  ['tozan', '登山', 'とざん', 'Mountain climbing', ['と', 'ざん']],
+  ['jinkou', '人口', 'じんこう', 'Population', ['じん', 'こう']],
+  ['jinsei', '人生', 'じんせい', 'A person’s life', ['じん', 'せい']],
+  ['gakusei', '学生', 'がくせい', 'Student', ['がく', 'せい']],
+  ['gakkou', '学校', 'がっこう', 'School', ['がっ', 'こう']],
+  ['koumon', '校門', 'こうもん', 'School gate', ['こう', 'もん']],
+  ['monban', '門番', 'もんばん', 'Gatekeeper', ['もん', 'ばん']],
+  ['bangou', '番号', 'ばんごう', 'Number (as an identifier)', ['ばん', 'ごう']],
+  ['shingou', '信号', 'しんごう', 'Signal or traffic light', ['しん', 'ごう']],
+  ['shinrai', '信頼', 'しんらい', 'Trust or reliance', ['しん', 'らい']],
+  ['irai', '依頼', 'いらい', 'Request', ['い', 'らい']],
   ['mizuumi', '湖', 'みずうみ', 'Lake'],
-  ['suibun', '水分', 'すいぶん', 'Moisture or water content'],
-  ['suisha', '水車', 'すいしゃ', 'Waterwheel'],
-  ['densha', '電車', 'でんしゃ', 'Electric train'],
-  ['denwa', '電話', 'でんわ', 'Telephone call'],
-  ['kaiwa', '会話', 'かいわ', 'Conversation'],
-  ['kaisha', '会社', 'かいしゃ', 'Company'],
-  ['shakai', '社会', 'しゃかい', 'Society'],
-  ['shimbun', '新聞', 'しんぶん', 'Newspaper'],
-  ['shinsha', '新車', 'しんしゃ', 'New vehicle'],
+  ['suibun', '水分', 'すいぶん', 'Moisture or water content', ['すい', 'ぶん']],
+  ['suisha', '水車', 'すいしゃ', 'Waterwheel', ['すい', 'しゃ']],
+  ['densha', '電車', 'でんしゃ', 'Electric train', ['でん', 'しゃ']],
+  ['denwa', '電話', 'でんわ', 'Telephone call', ['でん', 'わ']],
+  ['kaiwa', '会話', 'かいわ', 'Conversation', ['かい', 'わ']],
+  ['kaisha', '会社', 'かいしゃ', 'Company', ['かい', 'しゃ']],
+  ['shakai', '社会', 'しゃかい', 'Society', ['しゃ', 'かい']],
+  ['shimbun', '新聞', 'しんぶん', 'Newspaper', ['しん', 'ぶん']],
+  ['shinsha', '新車', 'しんしゃ', 'New vehicle', ['しん', 'しゃ']],
 ];
 
 // Each value is [visible component labels, structural description, optional mnemonic].
@@ -62,7 +62,8 @@ export const kanjiNotes = {
   聞: ['門 gate · 耳 ear', '耳 is enclosed by 門.', 'Put your ear to the gate to hear what is happening.'],
 };
 
-export const words = wordRows.map(([id, spelling, reading, meaning]) => {
+// Optional reading parts align with each written code point, including kana.
+export const words = wordRows.map(([id, spelling, reading, meaning, readingParts]) => {
   const characters = [...new Set(spelling)].filter(character => curriculumGrades.has(character));
-  return { id, spelling, reading, meaning, characters, grades: [...new Set(characters.map(character => curriculumGrades.get(character)))] };
+  return { id, spelling, reading, meaning, readingParts, characters, grades: [...new Set(characters.map(character => curriculumGrades.get(character)))] };
 });

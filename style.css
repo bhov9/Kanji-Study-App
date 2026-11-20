@@ -232,6 +232,19 @@ dialog::backdrop { background: #292219a0; }
 .writing-correct .glyph { font-size: clamp(2.65rem, 13vw, 4.5rem); color: var(--ink); }
 .study-kanji-details h4 { margin: .75rem 0 .15rem; color: var(--indigo); }
 .study-kanji-details p { margin: .15rem 0 .45rem; overflow-wrap: anywhere; }
+#reading u { text-decoration-color: var(--crimson); text-decoration-thickness: .065em; text-underline-offset: .15em; }
+#tested-positions { margin: .45rem 0 .65rem; color: var(--muted); }
+.stroke-order { margin-block: .4rem .65rem; }
+.stroke-content { padding: .65rem; background: var(--card); border: 1px solid var(--line); border-radius: .35rem; text-align: center; }
+.stroke-title { font-weight: 700; }
+.stroke-guide { display: block; width: min(100%, 15rem); height: auto; aspect-ratio: 1; margin: .6rem auto; background: var(--paper); border: 1px solid var(--gold); border-radius: .25rem; }
+.stroke-guide path { fill: none; stroke-width: 3.4; stroke-linecap: round; stroke-linejoin: round; }
+.stroke-trace { stroke: #625b50; opacity: .22; }
+.stroke-ink { stroke: var(--ink); }
+.stroke-counter { font-variant-numeric: tabular-nums; }
+.stroke-controls { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem; }
+.stroke-credit { font-size: .8rem; color: var(--muted); }
+.stroke-credit a { color: var(--indigo); }
 @media (min-width: 35rem) {
   .menu-actions { grid-template-columns: 1fr 1fr; }
 }
