@@ -1,4 +1,4 @@
-import { kanji } from './data.js';
+import { curriculumGrades } from './curriculum.js';
 import { createEmptyCard, fsrs, Rating } from './vendor/ts-fsrs.js';
 
 const hour = 60 * 60_000;
@@ -60,10 +60,10 @@ export function chooseWord(words, progress, now, random = Math.random) {
     if (remaining <= 0) return null;
     const unseen = new Set(words.flatMap(word => word.characters).filter(character => !characters[character]));
     if (!unseen.size) return null;
-    const grade = Math.min(...Array.from(unseen, character => kanji[character][0]));
+    const grade = Math.min(...Array.from(unseen, character => curriculumGrades.get(character)));
     candidates = words.map(word => ({
       word,
-      targets: word.characters.filter(character => unseen.has(character) && kanji[character][0] === grade)
+      targets: word.characters.filter(character => unseen.has(character) && curriculumGrades.get(character) === grade)
         .slice(0, remaining),
     })).filter(candidate => candidate.targets.length);
   }
@@ -116,15 +116,24 @@ export function submitWord(progress, prompt, selections, at = Date.now()) {
   return { ...progress, characters, reviews };
 }
 
-export function reactivate(progress, character, now = Date.now()) {
-  const previous = progress.characters[character];
+export function markMemorized(progress, character) {
+  const previous = progress.characters[character] ?? { card: null, introducedAt: null, browserOnly: true };
   return {
     ...progress,
     characters: {
       ...progress.characters,
-      [character]: { ...previous, due: now, memorized: false, card: null },
+      [character]: { ...previous, due: null, memorized: true },
     },
   };
+}
+
+export function reactivate(progress, character, now = Date.now()) {
+  const previous = progress.characters[character];
+  if (!previous?.memorized) return progress;
+  const characters = { ...progress.characters };
+  if (previous.browserOnly) delete characters[character];
+  else characters[character] = { ...previous, due: now, memorized: false };
+  return { ...progress, characters };
 }
 
 export const validNewPerDay = value => Number.isInteger(value) && value >= 0 && value <= maxNewPerDay;
@@ -170,7 +179,8 @@ export function parseProgress(raw) {
       (state.memorized ? state.due === null : isDate(state.due)) &&
       (legacy ? isCount(state.level) && state.level <= 7 :
         (state.introducedAt === null || isDate(state.introducedAt)) && validCard(state.card) &&
-        (!state.memorized || state.card === null)));
+        (state.browserOnly === undefined || (state.browserOnly === true &&
+          state.memorized && state.card === null && state.introducedAt === null))));
   const reviewsValid = Array.isArray(data?.reviews) && data.reviews.every(review =>
     review && typeof review.wordId === 'string' && isKanji(review.character) &&
     isDate(review.at) && outcomes.includes(review.outcome) &&

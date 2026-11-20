@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { kanji, words } from '../data.js';
+import { curriculumGrades } from '../curriculum.js';
+import { words } from '../data.js';
 import { chooseWord, freshProgress, nextStudyTime, parseProgress, reactivate, submitWord } from '../study.js';
 
 const now = new Date(2026, 10, 20, 12).getTime();
@@ -55,7 +56,7 @@ test('new words vary, start in grade one, and respect the daily limit and grade 
   assert.notEqual(chooseWord(words, progress, now, first).word.id, chooseWord(words, progress, now, last).word.id);
   while (progress.reviews.length < 5) {
     const prompt = chooseWord(words, progress, now, first);
-    assert(prompt.targets.every(character => kanji[character][0] === 1));
+    assert(prompt.targets.every(character => curriculumGrades.get(character) === 1));
     assert.notEqual(prompt.word.id, progress.reviews.at(-1)?.wordId);
     progress = submit(progress, prompt, now, 'memorized');
   }
@@ -64,11 +65,11 @@ test('new words vary, start in grade one, and respect the daily limit and grade 
   const tomorrow = nextStudyTime(words, progress, now);
   assert.equal(new Date(tomorrow).getHours(), 0);
   assert(chooseWord(words, progress, tomorrow, first));
-  const gradeOne = Object.keys(kanji).filter(character => kanji[character][0] === 1);
+  const gradeOne = [...curriculumGrades.keys()].filter(character => curriculumGrades.get(character) === 1);
   for (const character of gradeOne) {
     progress.characters[character] = { due: null, card: null, memorized: true, introducedAt: null };
   }
-  assert(chooseWord(words, progress, tomorrow, first).targets.every(character => kanji[character][0] === 2));
+  assert(chooseWord(words, progress, tomorrow, first).targets.every(character => curriculumGrades.get(character) === 2));
 });
 
 test('due work beats introductions, old work beats newer work, and memorized stays excluded', () => {

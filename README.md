@@ -1,7 +1,7 @@
 # Kanji-Study-App
 Japanese kanji writing practice
 
-A static writing practice app with 26 starter words. Write the word from its hiragana and English cue, reveal the spelling, then grade each new or due kanji. A kanji shares one review schedule across all words. The history also records the word shown at each review.
+A static writing practice app with 26 starter words and a browser for all 2,136 Jōyō kanji. In study mode, write the word from its hiragana and English cue, reveal the spelling, then grade each new or due kanji. A kanji shares one review schedule across all words. The history also records the word shown at each review.
 
 ## Project files
 
@@ -9,6 +9,8 @@ A static writing practice app with 26 starter words. Write the word from its hir
 | --- | --- |
 | `index.html`, `style.css`, `app.js` | Study screen, progress, and backup controls |
 | `data.js` | Vocabulary and reusable kanji breakdowns |
+| `curriculum.js` | The official Jōyō repertoire and seven grade groups |
+| `kanji-reference.js`, `browser.js` | Reference readings and meanings, grade browser, and detail panels |
 | `study.js` | Scheduling and versioned progress format |
 | `manifest.webmanifest`, `sw.js`, `icons/` | Installation and offline caching |
 
@@ -25,7 +27,9 @@ No packages or build steps are required. Run `python -m http.server 8000` from t
 
 The app reads both original and current backups. It reconstructs FSRS memory state from earlier grades and preserves existing due dates and Memorized statuses. The first successful save writes the updated format under the same browser storage key.
 
-Run the grading, scheduling, and migration tests with `node --test tests/study.test.mjs` from this directory.
+Browse Kanji includes the entire curriculum. Normal FSRS study selects from the vocabulary in `data.js`. Memorizing a kanji from the browser updates its status without adding a vocabulary review. Reactivating a previously studied kanji makes it eligible for review. A browser-only kanji returns to Not Started when reactivated.
+
+Run the curriculum, grading, scheduling, and migration tests with `node --test tests/*.test.mjs` from this directory.
 
 ## Publish to GitHub Pages
 
@@ -39,7 +43,15 @@ Increment the cache revision in `sw.js` whenever you change a cached file. Close
 ## Content references
 
 - [MEXT elementary curriculum and grade assignments](https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/09/26/1413522_001.pdf)
+- [National Institute for Educational Policy Research HTML transcription of the official grade table](https://erid.nier.go.jp/files/COFS/h29e/chap2-1.htm)
+- [Agency for Cultural Affairs official Jōyō list](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/index.html) and [JIS-to-Unicode cross-reference](https://x0213.org/joyo-kanji-code/index.html)
 - [EDRDG JMdict dictionary project](https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html)
 - [KanjiVG structure reference](https://kanjivg.tagaini.net/)
 
+The 2,136 extracted character entries from the Agency for Cultural Affairs PDF match the Unicode cross-reference. The first six groups follow the official MEXT appendix. It lists both 埼 and 崎 in Grade 4, a distinction corrected from the NIER HTML transcription.
+
 The breakdowns describe visible writing forms. Memory aids are original stories created for recall.
+
+`kanji-reference.js` adapts the Japanese on and kun readings and English glosses from [KANJIDIC2](https://www.edrdg.org/kanjidic/kanjd2index_legacy.html), copyright James William Breen and the Electronic Dictionary Research and Development Group. The adapted dictionary data is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) under the [EDRDG dictionary license](https://www.edrdg.org/edrdg/licence.html). Refresh it from the latest source with `python scripts/update_kanji_reference.py` during content updates, then increment the service worker cache revision.
+
+Add future vocabulary and structural notes to `data.js`. Keep word IDs stable and use the curriculum characters as keys so progress and existing review history continue to match.

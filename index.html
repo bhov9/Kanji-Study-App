@@ -19,23 +19,61 @@
       <h1>Kanji Practice</h1>
       <button id="open-progress" class="quiet" type="button">Progress</button>
     </header>
-    <div class="stats" aria-label="Study progress">
-      <div><strong id="due">0</strong><span>Due</span></div>
-      <div><strong id="today">0</strong><span>Reviewed today</span></div>
-      <div><strong id="memorized">0</strong><span>Memorized</span></div>
-    </div>
     <p id="status" role="status" hidden></p>
-    <section class="card" aria-label="Vocabulary prompt">
-      <p id="prompt-label" class="eyebrow">Write from memory</p>
-      <h2 id="reading" lang="ja" tabindex="-1"></h2>
-      <p id="meaning"></p>
-      <p id="instruction">Write the kanji on paper, then check your answer.</p>
-      <button id="show-answer" class="primary" type="button">Show Answer</button>
-      <section id="answer" aria-label="Answer and grading" hidden>
-        <h3 id="spelling" lang="ja" tabindex="-1"></h3>
-        <div id="characters"></div>
-        <button id="next" class="primary" type="button" disabled>Next Word</button>
+    <section id="menu-view" aria-labelledby="menu-title">
+      <div class="menu-card">
+        <p class="menu-script" lang="ja">常用漢字</p>
+        <h2 id="menu-title" tabindex="-1">Study Japanese kanji</h2>
+        <div class="menu-actions">
+          <button id="start-study" class="primary" type="button">Start Studying</button>
+          <button id="open-browser" class="primary" type="button">Browse Kanji</button>
+        </div>
+      </div>
+      <div class="stats" aria-label="Curriculum progress">
+        <div><strong id="introduced">0</strong><span>Introduced</span></div>
+        <div><strong id="menu-memorized">0</strong><span>Memorized</span></div>
+        <div><strong id="menu-due">0</strong><span>Reviews due</span></div>
+      </div>
+    </section>
+    <section id="study-view" aria-label="Study" hidden>
+      <div class="view-bar">
+        <button class="quiet return-menu" type="button">Return to Menu</button>
+      </div>
+      <div class="stats" aria-label="Study progress">
+        <div><strong id="due">0</strong><span>Due</span></div>
+        <div><strong id="today">0</strong><span>Reviewed today</span></div>
+        <div><strong id="memorized">0</strong><span>Memorized</span></div>
+      </div>
+      <section class="card" aria-label="Vocabulary prompt">
+        <p id="prompt-label" class="eyebrow">Write from memory</p>
+        <h2 id="reading" lang="ja" tabindex="-1"></h2>
+        <p id="meaning"></p>
+        <p id="instruction">Write the kanji on paper, then check your answer.</p>
+        <button id="show-answer" class="primary" type="button">Show Answer</button>
+        <section id="answer" aria-label="Answer and grading" hidden>
+          <h3 id="spelling" lang="ja" tabindex="-1"></h3>
+          <div id="characters"></div>
+          <button id="next" class="primary" type="button" disabled>Next Word</button>
+        </section>
       </section>
+    </section>
+    <section id="browser-view" aria-labelledby="browser-title" hidden>
+      <div class="view-bar">
+        <button class="quiet return-menu" type="button">Return to Menu</button>
+        <button id="back-to-grades" class="quiet" type="button" hidden>All Grades</button>
+      </div>
+      <h2 id="browser-title" tabindex="-1">Browse Kanji</h2>
+      <p id="browser-summary" class="muted"></p>
+      <div id="grade-groups" class="grade-groups"></div>
+      <div id="grade-view" hidden>
+        <div id="kanji-legend" class="kanji-legend" aria-label="Kanji status key"></div>
+        <div id="kanji-grid" class="kanji-grid"></div>
+      </div>
+      <details class="browser-sources">
+        <summary>Sources</summary>
+        <p>Curriculum from Japan’s <a href="https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/index.html">Agency for Cultural Affairs</a> and <a href="https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_01.pdf">Ministry of Education</a>.</p>
+        <p>Readings and meanings adapted from <a href="https://www.edrdg.org/kanjidic/kanjd2index_legacy.html">KANJIDIC2</a> © James William Breen and the Electronic Dictionary Research and Development Group, under <a href="https://www.edrdg.org/edrdg/licence.html">CC BY-SA 4.0</a>.</p>
+      </details>
     </section>
     <p id="offline" class="offline" hidden>Ready for offline study</p>
   </main>
@@ -44,6 +82,7 @@
       <h2>Progress</h2>
       <button class="quiet" value="close">Close</button>
     </form>
+    <button class="quiet return-menu progress-return" type="button">Return to Menu</button>
     <p id="coverage"></p>
     <form id="schedule-settings" class="schedule-settings">
       <label for="new-per-day">New kanji per day</label>
@@ -59,6 +98,22 @@
       <input id="backup-file" type="file" accept=".json,application/json" hidden>
     </div>
     <p id="backup-status" role="status"></p>
+  </dialog>
+  <dialog id="kanji-details" aria-labelledby="details-title">
+    <form method="dialog" class="dialog-header">
+      <h2 id="details-title">Kanji details</h2>
+      <button class="quiet">Close</button>
+    </form>
+    <div class="details-header">
+      <strong id="detail-kanji" lang="ja"></strong>
+      <div><p id="detail-grade"></p><p id="detail-status" role="status"></p></div>
+    </div>
+    <div id="detail-content"></div>
+    <p id="detail-message" role="status" hidden></p>
+    <div class="details-actions">
+      <button id="detail-toggle" class="primary" type="button">Mark Memorized</button>
+      <button class="quiet return-menu" type="button">Return to Menu</button>
+    </div>
   </dialog>
 </body>
 </html>

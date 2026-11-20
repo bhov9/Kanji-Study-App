@@ -1,6 +1,8 @@
-import { kanji, words } from './data.js';
+import { kanjiNotes, words } from './data.js';
+import { setupKanjiBrowser } from './browser.js';
+import { curriculumGrades } from './curriculum.js';
 import {
-  chooseWord, freshProgress, maxNewPerDay, nextStudyTime, parseProgress, reactivate,
+  chooseWord, freshProgress, markMemorized, maxNewPerDay, nextStudyTime, parseProgress, reactivate,
   startOfDay, submitWord, validNewPerDay,
 } from './study.js';
 
@@ -8,12 +10,14 @@ const storageKey = 'kanji-practice.progress';
 const byId = id => document.getElementById(id);
 const labels = { correct: 'Correct', incorrect: 'Incorrect', memorized: 'Memorized' };
 const dateFormat = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+const studyableCharacters = new Set(words.flatMap(word => word.characters));
 let progress = freshProgress();
 let storedProgress;
 let storageReadable = true;
 let current;
 let wakeTimer;
 let submitting = false;
+let view = 'menu';
 const selections = new Map();
 
 function message(id, text) {
@@ -62,11 +66,20 @@ async function save(next) {
 function updateStats() {
   const now = Date.now();
   const startOfToday = startOfDay(now);
-  const states = Object.keys(kanji).map(character => progress.characters[character]).filter(Boolean);
-  byId('due').textContent = states.filter(state => !state.memorized && state.due <= now).length;
+  const states = [...curriculumGrades.keys()].filter(character => progress.characters[character]);
+  const introduced = states.filter(character => !progress.characters[character].browserOnly).length;
+  const due = states.filter(character => {
+    const state = progress.characters[character];
+    return studyableCharacters.has(character) && !state.memorized && state.due <= now;
+  }).length;
+  const memorized = states.filter(character => progress.characters[character].memorized).length;
+  byId('introduced').textContent = introduced;
+  byId('menu-due').textContent = due;
+  byId('due').textContent = due;
+  byId('menu-memorized').textContent = memorized;
+  byId('memorized').textContent = memorized;
   byId('today').textContent = progress.reviews.filter(review => review.at >= startOfToday && review.at <= now).length;
-  byId('memorized').textContent = states.filter(state => state.memorized).length;
-  byId('coverage').textContent = `${states.length} of ${Object.keys(kanji).length} kanji introduced across ${words.length} words.`;
+  byId('coverage').textContent = `${introduced} of ${curriculumGrades.size.toLocaleString()} kanji introduced.`;
 }
 
 function showWord(focus = false) {
@@ -77,6 +90,10 @@ function showWord(focus = false) {
   byId('spelling').textContent = '';
   byId('characters').replaceChildren();
   byId('next').disabled = true;
+  if (view !== 'study') {
+    current = null;
+    return;
+  }
   const now = Date.now();
   current = storageReadable ? chooseWord(words, progress, now) : null;
   byId('show-answer').hidden = !current;
@@ -90,17 +107,55 @@ function showWord(focus = false) {
   } else {
     reading.removeAttribute('lang');
     const earliest = nextStudyTime(words, progress, now);
-    const hasUnseen = Object.keys(kanji).some(character => !progress.characters[character]);
+    const hasUnseen = [...studyableCharacters].some(character => !progress.characters[character]);
     reading.textContent = storageReadable ? 'You’re caught up' : 'Progress unavailable';
     byId('meaning').textContent = !storageReadable ? 'Open Progress to restore a backup.' :
       Number.isFinite(earliest) ? `Next study session available ${dateFormat.format(earliest)}` :
       hasUnseen ? 'Increase the daily new kanji limit in Progress to start new material.' :
-      'Reactivate a kanji from Progress to study it again.';
+      'You’ve completed the vocabulary currently available for study.';
     if (storageReadable && Number.isFinite(earliest)) {
       wakeTimer = setTimeout(showWord, Math.max(100, Math.min(2_147_483_647, earliest - Date.now())));
     }
   }
   if (focus) reading.focus();
+}
+
+function navigate(nextView) {
+  view = nextView;
+  for (const name of ['menu', 'study', 'browser']) byId(`${name}-view`).hidden = name !== view;
+  clearTimeout(wakeTimer);
+  window.scrollTo(0, 0);
+  updateStats();
+  if (view === 'menu') byId('menu-title').focus({ preventScroll: true });
+  if (view === 'study') {
+    if (!selections.size) showWord(true);
+    else byId('spelling').focus();
+  }
+  if (view === 'browser') browser.open();
+}
+
+function refreshAfterStatusChange(character) {
+  if (!selections.size || current?.targets.includes(character)) {
+    const hadSelections = selections.size > 0;
+    showWord();
+    if (hadSelections) message('status', 'The draft was discarded because a kanji in that review changed status.');
+  }
+}
+
+const browser = setupKanjiBrowser(() => progress, () => storageReadable, async (character, memorized) => {
+  const next = memorized ? markMemorized(progress, character) : reactivate(progress, character);
+  if (!await save(next)) return false;
+  refreshAfterStatusChange(character);
+  return true;
+});
+
+byId('start-study').addEventListener('click', () => navigate('study'));
+byId('open-browser').addEventListener('click', () => navigate('browser'));
+for (const button of document.querySelectorAll('.return-menu')) {
+  button.addEventListener('click', () => {
+    button.closest('dialog')?.close();
+    navigate('menu');
+  });
 }
 
 function node(tag, text, className) {
@@ -116,7 +171,6 @@ function renderCharacter(character) {
   const glyph = node('span', character, 'glyph');
   glyph.lang = 'ja';
   const isTarget = current.targets.includes(character);
-  const [, components, structure, mnemonic] = kanji[character];
   const status = node('span', isTarget ? (progress.characters[character] ? 'Due for review' : 'New kanji') :
     progress.characters[character]?.memorized ? 'Memorized' : 'Not scheduled for this word', 'character-status');
   status.setAttribute('aria-live', 'polite');
@@ -141,10 +195,14 @@ function renderCharacter(character) {
     }
     card.append(controls);
   }
-  const breakdown = node('details', '');
-  breakdown.append(node('summary', 'Kanji Breakdown'), node('p', components), node('p', structure));
-  if (mnemonic) breakdown.append(node('p', `Memory aid · ${mnemonic}`));
-  card.append(breakdown);
+  const notes = kanjiNotes[character];
+  if (notes) {
+    const [components, structure, mnemonic] = notes;
+    const breakdown = node('details', '');
+    breakdown.append(node('summary', 'Kanji Breakdown'), node('p', components), node('p', structure));
+    if (mnemonic) breakdown.append(node('p', `Memory aid · ${mnemonic}`));
+    card.append(breakdown);
+  }
   return card;
 }
 
@@ -175,7 +233,7 @@ byId('next').addEventListener('click', async () => {
 function renderMemorized() {
   const list = byId('memorized-list');
   list.replaceChildren();
-  for (const character of Object.keys(kanji)) {
+  for (const character of curriculumGrades.keys()) {
     if (!progress.characters[character]?.memorized) continue;
     const row = node('div', '', 'entry');
     const glyph = node('span', character, 'glyph');
@@ -188,9 +246,10 @@ function renderMemorized() {
         message('backup-status', 'Progress could not be saved.');
         return;
       }
-      showWord();
+      refreshAfterStatusChange(character);
       renderMemorized();
-      message('backup-status', `${character} is available for review.`);
+      browser.refresh();
+      message('backup-status', `${character} was reactivated.`);
     });
     row.append(glyph, button);
     list.append(row);
@@ -244,6 +303,7 @@ byId('backup-file').addEventListener('change', async event => {
     }
     showWord();
     renderMemorized();
+    if (view === 'browser') browser.refresh();
     byId('new-per-day').value = progress.newPerDay;
     byId('schedule-settings').hidden = false;
     byId('export').disabled = false;
@@ -255,7 +315,7 @@ byId('backup-file').addEventListener('change', async event => {
 
 document.addEventListener('visibilitychange', () => {
   if (document.hidden) return;
-  if (!current) showWord();
+  if (view === 'study' && !current) showWord();
   else updateStats();
 });
 
@@ -263,6 +323,7 @@ window.addEventListener('storage', event => {
   if (event.key !== storageKey && event.key !== null) return;
   loadProgress();
   showWord();
+  if (view === 'browser') browser.refresh();
   if (byId('progress').open) {
     renderMemorized();
     byId('new-per-day').value = progress.newPerDay;
