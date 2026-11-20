@@ -1,71 +1,182 @@
-const minute = 60_000;
-const day = 1440 * minute;
-const intervals = [1, 3, 7, 14, 30, 60, 120];
+import { kanji } from './data.js';
+import { createEmptyCard, fsrs, Rating } from './vendor/ts-fsrs.js';
 
-export const freshProgress = () => ({ version: 1, characters: {}, reviews: [] });
+const hour = 60 * 60_000;
+const outcomes = ['correct', 'incorrect', 'memorized'];
+const scheduler = fsrs({
+  request_retention: 0.9,
+  learning_steps: ['10m', '30m'],
+  relearning_steps: ['10m', '30m'],
+  enable_short_term: true,
+  enable_fuzz: false,
+});
 
-export function record(progress, word, character, outcome, at = Date.now()) {
-  const previous = progress.characters[character];
-  const level = outcome === 'incorrect' ? 0 : (previous?.level ?? 0);
-  const next = outcome === 'correct' ? Math.min(level + 1, intervals.length) : level;
-  const due = outcome === 'memorized' ? null : at + (outcome === 'correct' ? intervals[next - 1] * day : 10 * minute);
-  return {
-    ...progress,
-    characters: { ...progress.characters, [character]: { level: next, due, memorized: outcome === 'memorized' } },
-    reviews: [...progress.reviews, { wordId: word.id, character, outcome, at, due }],
-  };
+export const maxNewPerDay = 20;
+export const defaultNewPerDay = 5;
+export const freshProgress = () => ({
+  version: 2, newPerDay: defaultNewPerDay, characters: {}, reviews: [],
+});
+
+export function startOfDay(now) {
+  const day = new Date(now);
+  day.setHours(0, 0, 0, 0);
+  return day.getTime();
 }
 
-export function targetsFor(word, progress, now) {
-  return word.characters.filter(character => {
-    const state = progress.characters[character];
-    return !state || (!state.memorized && state.due <= now);
-  });
+function schedule(card, outcome, at) {
+  const now = new Date(at);
+  const input = card ? {
+    ...card,
+    due: new Date(card.due),
+    last_review: new Date(card.last_review),
+  } : createEmptyCard(now);
+  const rating = outcome === 'correct' ? Rating.Good : Rating.Again;
+  const next = scheduler.next(input, now, rating).card;
+  return { ...next, due: next.due.getTime(), last_review: next.last_review.getTime() };
 }
 
-export function chooseWord(words, progress, now, previousId) {
-  const lastSeen = new Map();
-  for (const review of progress.reviews) {
-    lastSeen.set(review.wordId, Math.max(review.at, lastSeen.get(review.wordId) ?? -Infinity));
-  }
-  let best = null;
-  for (const word of words) {
-    const targets = targetsFor(word, progress, now);
-    if (!targets.length) continue;
-    const oldest = Math.min(...targets.map(character => progress.characters[character]?.due ?? Infinity));
-    const seen = lastSeen.get(word.id) ?? -Infinity;
-    const candidate = { word, targets, oldest, seen };
-    if (!best || oldest < best.oldest ||
-        (oldest === best.oldest && (seen < best.seen ||
-          (seen === best.seen && best.word.id === previousId && word.id !== previousId)))) {
-      best = candidate;
+function isDue(state, now) {
+  return state && !state.memorized && state.due <= now;
+}
+
+export function chooseWord(words, progress, now, random = Math.random) {
+  const { characters, reviews, newPerDay } = progress;
+  let candidates = words.map(word => ({
+    word,
+    targets: word.characters.filter(character => isDue(characters[character], now)),
+  })).filter(candidate => candidate.targets.length);
+
+  if (candidates.length) {
+    // Work within an hour of the oldest due item so randomized reviews cannot
+    // keep a long-overdue card behind newer reviews.
+    for (const candidate of candidates) {
+      candidate.due = Math.min(...candidate.targets.map(character => characters[character].due));
     }
+  } else {
+    const dayStart = startOfDay(now);
+    const introducedToday = Object.values(characters)
+      .filter(state => state.introducedAt !== null && state.introducedAt >= dayStart && state.introducedAt <= now).length;
+    const remaining = newPerDay - introducedToday;
+    if (remaining <= 0) return null;
+    const unseen = new Set(words.flatMap(word => word.characters).filter(character => !characters[character]));
+    if (!unseen.size) return null;
+    const grade = Math.min(...Array.from(unseen, character => kanji[character][0]));
+    candidates = words.map(word => ({
+      word,
+      targets: word.characters.filter(character => unseen.has(character) && kanji[character][0] === grade)
+        .slice(0, remaining),
+    })).filter(candidate => candidate.targets.length);
   }
-  return best;
+
+  const previousWord = reviews[reviews.length - 1]?.wordId;
+  const alternatives = candidates.filter(candidate => candidate.word.id !== previousWord);
+  if (alternatives.length) candidates = alternatives;
+  if (candidates[0].due !== undefined) {
+    const oldest = Math.min(...candidates.map(candidate => candidate.due));
+    candidates = candidates.filter(candidate => candidate.due <= oldest + hour);
+  }
+  return candidates[Math.floor(random() * candidates.length)];
+}
+
+export function nextStudyTime(words, progress, now) {
+  const characters = new Set(words.flatMap(word => word.characters));
+  const times = [];
+  let unseen = false;
+  for (const character of characters) {
+    const state = progress.characters[character];
+    if (!state) unseen = true;
+    else if (!state.memorized && state.due > now) times.push(state.due);
+  }
+  if (unseen && progress.newPerDay > 0) {
+    const tomorrow = new Date(startOfDay(now));
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    times.push(tomorrow.getTime());
+  }
+  return Math.min(...times);
+}
+
+export function submitWord(progress, prompt, selections, at = Date.now()) {
+  const { word, targets } = prompt;
+  if (!targets.length || targets.some(character =>
+    !outcomes.includes(selections.get(character)) ||
+    (progress.characters[character] && !isDue(progress.characters[character], at)))) {
+    throw new Error('The word has incomplete or expired selections');
+  }
+  const characters = { ...progress.characters };
+  const reviews = [...progress.reviews];
+  for (const character of targets) {
+    const outcome = selections.get(character);
+    const previous = characters[character];
+    const memorized = outcome === 'memorized';
+    const card = memorized ? null : schedule(previous?.card, outcome, at);
+    const due = card?.due ?? null;
+    characters[character] = { memorized, due, card, introducedAt: previous ? previous.introducedAt : at };
+    reviews.push({ wordId: word.id, character, outcome, at, due });
+  }
+  return { ...progress, characters, reviews };
 }
 
 export function reactivate(progress, character, now = Date.now()) {
+  const previous = progress.characters[character];
   return {
     ...progress,
-    characters: { ...progress.characters, [character]: { level: 0, due: now, memorized: false } },
+    characters: {
+      ...progress.characters,
+      [character]: { ...previous, due: now, memorized: false, card: null },
+    },
   };
+}
+
+export const validNewPerDay = value => Number.isInteger(value) && value >= 0 && value <= maxNewPerDay;
+const isDate = value => Number.isSafeInteger(value) && value >= 0 && value <= 8.64e15;
+const isKanji = value => typeof value === 'string' && /^\p{Script=Han}$/u.test(value);
+const isCount = value => Number.isSafeInteger(value) && value >= 0;
+
+function validCard(card) {
+  return card === null || (card && isDate(card.due) && isDate(card.last_review) &&
+    Number.isFinite(card.stability) && card.stability > 0 &&
+    Number.isFinite(card.difficulty) && card.difficulty >= 1 && card.difficulty <= 10 &&
+    [1, 2, 3].includes(card.state) &&
+    [card.reps, card.lapses, card.elapsed_days, card.scheduled_days, card.learning_steps].every(isCount));
+}
+
+function migrateLegacy(data) {
+  const cards = new Map();
+  const introduced = new Map();
+  for (const review of [...data.reviews].sort((a, b) => a.at - b.at)) {
+    if (!introduced.has(review.character)) introduced.set(review.character, review.at);
+    const card = review.outcome === 'memorized' ? null :
+      schedule(cards.get(review.character), review.outcome, review.at);
+    cards.set(review.character, card);
+  }
+  const characters = Object.fromEntries(Object.entries(data.characters).map(([character, state]) => [
+    character,
+    {
+      memorized: state.memorized,
+      due: state.due,
+      card: state.memorized ? null : cards.get(character) ?? null,
+      introducedAt: introduced.get(character) ?? null,
+    },
+  ]));
+  return { ...freshProgress(), characters, reviews: data.reviews };
 }
 
 export function parseProgress(raw) {
   const data = JSON.parse(raw);
-  const outcomes = ['correct', 'incorrect', 'memorized'];
-  const date = value => Number.isSafeInteger(value) && value >= 0 && value <= 8.64e15;
-  const validCharacter = value => typeof value === 'string' && /^\p{Script=Han}$/u.test(value);
+  const legacy = data?.version === 1;
   const statesValid = data?.characters && typeof data.characters === 'object' &&
-    !Array.isArray(data.characters) &&
-    Object.entries(data.characters).every(([character, state]) =>
-      validCharacter(character) && state && Number.isInteger(state.level) &&
-      state.level >= 0 && state.level <= intervals.length &&
-      typeof state.memorized === 'boolean' && (state.memorized ? state.due === null : date(state.due)));
+    !Array.isArray(data.characters) && Object.entries(data.characters).every(([character, state]) =>
+      isKanji(character) && state && typeof state.memorized === 'boolean' &&
+      (state.memorized ? state.due === null : isDate(state.due)) &&
+      (legacy ? isCount(state.level) && state.level <= 7 :
+        (state.introducedAt === null || isDate(state.introducedAt)) && validCard(state.card) &&
+        (!state.memorized || state.card === null)));
   const reviewsValid = Array.isArray(data?.reviews) && data.reviews.every(review =>
-    review && typeof review.wordId === 'string' && validCharacter(review.character) &&
-    date(review.at) && outcomes.includes(review.outcome) &&
-    (review.outcome === 'memorized' ? review.due === null : date(review.due)));
-  if (data?.version !== 1 || !statesValid || !reviewsValid) throw new Error('Unrecognized progress data');
-  return data;
+    review && typeof review.wordId === 'string' && isKanji(review.character) &&
+    isDate(review.at) && outcomes.includes(review.outcome) &&
+    (review.outcome === 'memorized' ? review.due === null : isDate(review.due)));
+  if ((!legacy && (data?.version !== 2 || !validNewPerDay(data.newPerDay))) || !statesValid || !reviewsValid) {
+    throw new Error('Unrecognized progress data');
+  }
+  return legacy ? migrateLegacy(data) : data;
 }

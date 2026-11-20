@@ -16,12 +16,16 @@ No packages or build steps are required. Run `python -m http.server 8000` from t
 
 ## Review rules
 
-- Due kanji are served before new kanji. For equal due times, the scheduler favors words seen less recently.
-- Incorrect resets the interval and schedules a retry in 10 minutes. Consecutive Correct grades schedule reviews after 1, 3, 7, 14, 30, 60, and then 120 days.
+- Select an outcome for each review target. You can change it up to the moment you press **Next Word**, which saves the final grades together.
+- Due kanji come first. The app randomizes among words covering the oldest batch of due characters and avoids repeating the previous word when an alternative is eligible.
+- New kanji enter in grade order as the due queue clears. The default is five per local calendar day. Change the limit under **Progress**. Set it to zero for reviews only.
+- [ts-fsrs 5.2.3](https://www.npmjs.com/package/ts-fsrs/v/5.2.3) supplies FSRS-6 with a target retention of 90%. Correct maps to Good, and Incorrect maps to Again. Learning and relearning use 10- and 30-minute steps.
 - Memorized suspends the kanji across the deck. Use Progress to reactivate it for immediate review.
 - Progress stays in this browser's local storage. Export a backup before transferring devices or clearing browser data. Import replaces local progress after confirmation. Keep word IDs stable when editing the deck so earlier review events retain their vocabulary context.
 
-This version uses a simple interval schedule. The stored review events include outcomes, timestamps, and due dates for a future scheduler migration.
+The app reads both original and current backups. It reconstructs FSRS memory state from earlier grades and preserves existing due dates and Memorized statuses. The first successful save writes the updated format under the same browser storage key.
+
+Run the grading, scheduling, and migration tests with `node --test tests/study.test.mjs` from this directory.
 
 ## Publish to GitHub Pages
 
