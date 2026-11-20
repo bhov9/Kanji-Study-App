@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f3f1e9">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>Kanji Practice</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./icons/apple.png">
+  <link rel="icon" href="./icons/app-192.png">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <main>
+    <header class="masthead">
+      <span class="mark" lang="ja" aria-hidden="true">字</span>
+      <h1>Kanji Practice</h1>
+      <button id="open-progress" class="quiet" type="button">Progress</button>
+    </header>
+    <div class="stats" aria-label="Study progress">
+      <div><strong id="due">0</strong><span>Due</span></div>
+      <div><strong id="today">0</strong><span>Reviewed today</span></div>
+      <div><strong id="memorized">0</strong><span>Memorized</span></div>
+    </div>
+    <p id="status" role="status" hidden></p>
+    <section class="card" aria-label="Vocabulary prompt">
+      <p id="prompt-label" class="eyebrow">Write from memory</p>
+      <h2 id="reading" lang="ja" tabindex="-1"></h2>
+      <p id="meaning"></p>
+      <p id="instruction">Write the kanji on paper, then check your answer.</p>
+      <button id="show-answer" class="primary" type="button">Show Answer</button>
+      <section id="answer" aria-label="Answer and grading" hidden>
+        <h3 id="spelling" lang="ja" tabindex="-1"></h3>
+        <div id="characters"></div>
+        <button id="next" class="primary" type="button" disabled>Next Word</button>
+      </section>
+    </section>
+    <p id="offline" class="offline" hidden>Ready for offline study</p>
+  </main>
+  <dialog id="progress">
+    <form method="dialog" class="dialog-header">
+      <h2>Progress</h2>
+      <button class="quiet" value="close">Close</button>
+    </form>
+    <p id="coverage"></p>
+    <h3>Memorized kanji</h3>
+    <div id="memorized-list"></div>
+    <h3>Progress backup</h3>
+    <div class="backup">
+      <button id="export" type="button">Export backup</button>
+      <button id="import" type="button">Import backup</button>
+      <input id="backup-file" type="file" accept=".json,application/json" hidden>
+    </div>
+    <p id="backup-status" role="status"></p>
+  </dialog>
+</body>
+</html>
