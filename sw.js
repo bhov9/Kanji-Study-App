@@ -1,11 +1,12 @@
 // Increment the revision whenever a deployed app-shell file changes.
 const prefix = `kanji-practice:${self.registration.scope}:`;
-const cacheName = `${prefix}3`;
+const cacheName = `${prefix}4`;
 const appShell = [
   './', './index.html', './style.css', './app.js', './data.js', './study.js',
-  './manifest.webmanifest', './icons/apple.png', './icons/app-192.png', './icons/app-512.png',
+  './manifest.webmanifest', './icons/jinchu-apple.png', './icons/jinchu-192.png', './icons/jinchu-512.png',
   './vendor/ts-fsrs.js',
   './browser.js', './curriculum.js', './kanji-reference.js',
+  './art/war-camp.webp', './examples.js',
 ];
 const home = new URL('./index.html', self.registration.scope).href;
 

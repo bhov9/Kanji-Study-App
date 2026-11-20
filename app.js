@@ -1,6 +1,7 @@
 import { kanjiNotes, words } from './data.js';
 import { setupKanjiBrowser } from './browser.js';
 import { curriculumGrades } from './curriculum.js';
+import { exampleFor, renderExample } from './examples.js';
 import {
   chooseWord, freshProgress, markMemorized, maxNewPerDay, nextStudyTime, parseProgress, reactivate,
   startOfDay, submitWord, validNewPerDay,
@@ -89,6 +90,7 @@ function showWord(focus = false) {
   byId('answer').hidden = true;
   byId('spelling').textContent = '';
   byId('characters').replaceChildren();
+  byId('word-example').hidden = true;
   byId('next').disabled = true;
   if (view !== 'study') {
     current = null;
@@ -104,6 +106,7 @@ function showWord(focus = false) {
     reading.lang = 'ja';
     reading.textContent = current.word.reading;
     byId('meaning').textContent = current.word.meaning;
+    renderExample(byId('word-example'), exampleFor(current.word.id), current.word, false);
   } else {
     reading.removeAttribute('lang');
     const earliest = nextStudyTime(words, progress, now);
@@ -183,6 +186,9 @@ function renderCharacter(character) {
     for (const [outcome, label] of Object.entries(labels)) {
       const button = node('button', label);
       button.type = 'button';
+      const check = node('span', '✓', 'grade-check');
+      check.setAttribute('aria-hidden', 'true');
+      button.prepend(check);
       button.setAttribute('aria-pressed', 'false');
       button.addEventListener('click', () => {
         if (submitting) return;
@@ -210,6 +216,7 @@ byId('show-answer').addEventListener('click', () => {
   byId('spelling').textContent = current.word.spelling;
   byId('characters').replaceChildren(...current.word.characters.map(renderCharacter));
   byId('answer').hidden = false;
+  renderExample(byId('word-example'), exampleFor(current.word.id), current.word, true);
   byId('show-answer').hidden = true;
   byId('instruction').hidden = true;
   byId('spelling').focus();

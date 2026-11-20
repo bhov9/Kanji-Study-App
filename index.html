@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#f3f1e9">
+  <meta name="theme-color" content="#f1e5cd">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <title>Kanji Practice</title>
   <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="apple-touch-icon" href="./icons/apple.png">
-  <link rel="icon" href="./icons/app-192.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="./icons/jinchu-apple.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="./icons/jinchu-192.png">
   <link rel="stylesheet" href="./style.css">
   <script type="module" src="./app.js"></script>
 </head>
@@ -22,7 +22,9 @@
     <p id="status" role="status" hidden></p>
     <section id="menu-view" aria-labelledby="menu-title">
       <div class="menu-card">
+        <div class="menu-illustration" aria-hidden="true"></div>
         <p class="menu-script" lang="ja">常用漢字</p>
+        <span class="theme-seal" lang="ja" aria-hidden="true">陣中</span>
         <h2 id="menu-title" tabindex="-1">Study Japanese kanji</h2>
         <div class="menu-actions">
           <button id="start-study" class="primary" type="button">Start Studying</button>
@@ -48,6 +50,11 @@
         <p id="prompt-label" class="eyebrow">Write from memory</p>
         <h2 id="reading" lang="ja" tabindex="-1"></h2>
         <p id="meaning"></p>
+        <aside id="word-example" aria-label="Example sentence" hidden>
+          <p class="example-japanese" lang="ja"></p>
+          <details class="example-translation"><summary>English translation</summary><p></p></details>
+          <details class="example-history" hidden><summary>Historical context</summary><p></p><ul></ul></details>
+        </aside>
         <p id="instruction">Write the kanji on paper, then check your answer.</p>
         <button id="show-answer" class="primary" type="button">Show Answer</button>
         <section id="answer" aria-label="Answer and grading" hidden>
@@ -77,9 +84,9 @@
     </section>
     <p id="offline" class="offline" hidden>Ready for offline study</p>
   </main>
-  <dialog id="progress">
+  <dialog id="progress" aria-labelledby="progress-title">
     <form method="dialog" class="dialog-header">
-      <h2>Progress</h2>
+      <h2 id="progress-title">Progress</h2>
       <button class="quiet" value="close">Close</button>
     </form>
     <button class="quiet return-menu progress-return" type="button">Return to Menu</button>
@@ -109,6 +116,11 @@
       <div><p id="detail-grade"></p><p id="detail-status" role="status"></p></div>
     </div>
     <div id="detail-content"></div>
+    <section class="detail-review" aria-labelledby="detail-review-title">
+      <h3 id="detail-review-title">Review statistics</h3>
+      <p id="detail-no-reviews" hidden>No reviews recorded.</p>
+      <dl id="detail-review-stats"></dl>
+    </section>
     <p id="detail-message" role="status" hidden></p>
     <div class="details-actions">
       <button id="detail-toggle" class="primary" type="button">Mark Memorized</button>

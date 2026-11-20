@@ -11,6 +11,7 @@ A static writing practice app with 26 starter words and a browser for all 2,136 
 | `data.js` | Vocabulary and reusable kanji breakdowns |
 | `curriculum.js` | The official Jōyō repertoire and seven grade groups |
 | `kanji-reference.js`, `browser.js` | Reference readings and meanings, grade browser, and detail panels |
+| `examples.js` | Optional example sentences keyed by stable vocabulary IDs |
 | `study.js` | Scheduling and versioned progress format |
 | `manifest.webmanifest`, `sw.js`, `icons/` | Installation and offline caching |
 
@@ -55,3 +56,9 @@ The breakdowns describe visible writing forms. Memory aids are original stories 
 `kanji-reference.js` adapts the Japanese on and kun readings and English glosses from [KANJIDIC2](https://www.edrdg.org/kanjidic/kanjd2index_legacy.html), copyright James William Breen and the Electronic Dictionary Research and Development Group. The adapted dictionary data is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) under the [EDRDG dictionary license](https://www.edrdg.org/edrdg/licence.html). Refresh it from the latest source with `python scripts/update_kanji_reference.py` during content updates, then increment the service worker cache revision.
 
 Add future vocabulary and structural notes to `data.js`. Keep word IDs stable and use the curriculum characters as keys so progress and existing review history continue to match.
+
+## Adding example sentences
+
+Add records under the vocabulary ID in `examples.js`. Each sentence uses a list of plain Japanese strings, furigana segments such as `{ ruby: '明治', reading: 'めいじ' }`, and exactly one `{ target: true }` slot. The app takes the kana and kanji for the slot from the vocabulary entry. Keep all target characters out of the other segments. Use furigana for difficult or above-grade kanji.
+
+Optional `translation` starts collapsed. A `historicalNote` and its `sources` become available after reveal. Keep drafts out of study until their Japanese has been reviewed and historical claims have been checked against sources. The app displays the first entry marked `reviewed` or `source-checked`, with no empty example frame for words without one.

@@ -7,6 +7,7 @@ const statuses = {
   learning: ['Learning', '●'],
   unstarted: ['Not Started', '○'],
 };
+const reviewDate = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' });
 const vocabularyByKanji = new Map();
 for (const word of words) {
   for (const character of word.characters) {
@@ -112,10 +113,34 @@ export function setupKanjiBrowser(getProgress, canEdit, setMemorized) {
   }
 
   function updateDetailStatus() {
-    const status = statusFor(getProgress().characters[selected]);
+    const progress = getProgress();
+    const state = progress.characters[selected];
+    const status = statusFor(state);
     id('detail-status').replaceChildren(statusLabel(status, statuses[status][0]));
     action.textContent = status === 'memorized' ? 'Reactivate' : 'Mark Memorized';
     action.disabled = busy || !canEdit();
+    const reviews = progress.reviews.filter(review => review.character === selected);
+    let correct = 0;
+    let incorrect = 0;
+    let latest = 0;
+    for (const review of reviews) {
+      if (review.outcome === 'correct') correct++;
+      if (review.outcome === 'incorrect') incorrect++;
+      latest = Math.max(latest, review.at);
+    }
+    const stats = id('detail-review-stats');
+    stats.replaceChildren();
+    id('detail-no-reviews').hidden = reviews.length > 0;
+    const rows = reviews.length ? [
+      ['Reviews', reviews.length], ['Correct', correct], ['Incorrect', incorrect], ['Last reviewed', reviewDate.format(latest)],
+    ] : [];
+    if (state?.due != null && vocabularyByKanji.has(selected)) rows.push(['Next review', reviewDate.format(state.due)]);
+    for (const [label, value] of rows) {
+      const row = element('div', '');
+      row.append(element('dt', label), element('dd', value));
+      stats.append(row);
+    }
+    stats.hidden = !rows.length;
   }
 
   function addDetail(content, title, text, lang) {
