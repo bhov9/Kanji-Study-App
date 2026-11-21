@@ -15,7 +15,7 @@ A static writing practice app with 26 starter words and a browser for all 2,136 
 | `study.js` | Scheduling and versioned progress format |
 | `manifest.webmanifest`, `sw.js`, `icons/` | Installation and offline caching |
 
-No packages or build steps are required. Run `python -m http.server 8000` from this directory and open `http://localhost:8000/`.
+GitHub Pages builds the static site with Jekyll. For a local preview that renders the build timestamp and service worker, use [GitHub Pages’ local Jekyll setup](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
 ## Review rules
 
@@ -43,7 +43,7 @@ Run the curriculum, grading, scheduling, and migration tests with `node --test t
 3. When Pages shows the site as live, open it in iPhone Safari. Use **Share → Add to Home Screen** and enable **Open as Web App** if shown.
 4. Open the Home Screen app while online and wait for **Ready for offline study**. Grade a kanji, close the app, turn on airplane mode, then reopen it to confirm the deck loads and the grade persists.
 
-Increment the cache revision in `sw.js` whenever you change a cached file. Close all open app windows after an update downloads so the new service worker can take over on the next launch.
+Each Pages build stamps **Last app update** in Japan time and uses the same build time in its offline cache revision. Close all open app windows after an update downloads so the new service worker can take over on the next launch.
 
 ## Content references
 
@@ -57,7 +57,7 @@ The 2,136 extracted character entries from the Agency for Cultural Affairs PDF m
 
 The breakdowns describe visible writing forms. Memory aids are original stories created for recall.
 
-`kanji-reference.js` adapts the Japanese on and kun readings and English glosses from [KANJIDIC2](https://www.edrdg.org/kanjidic/kanjd2index_legacy.html), copyright James William Breen and the Electronic Dictionary Research and Development Group. The adapted dictionary data is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) under the [EDRDG dictionary license](https://www.edrdg.org/edrdg/licence.html). Refresh it from the latest source with `python scripts/update_kanji_reference.py` during content updates, then increment the service worker cache revision.
+`kanji-reference.js` adapts the Japanese on and kun readings and English glosses from [KANJIDIC2](https://www.edrdg.org/kanjidic/kanjd2index_legacy.html), copyright James William Breen and the Electronic Dictionary Research and Development Group. The adapted dictionary data is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) under the [EDRDG dictionary license](https://www.edrdg.org/edrdg/licence.html). Refresh it from the latest source with `python scripts/update_kanji_reference.py` during content updates.
 
 Add future vocabulary and structural notes to `data.js`. Keep word IDs stable and use the curriculum characters as keys so progress and existing review history continue to match.
 
