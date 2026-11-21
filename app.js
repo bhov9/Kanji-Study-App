@@ -144,7 +144,7 @@ function showWord(focus = false, repeatPractice = false) {
 function navigate(nextView) {
   if (view === 'study' && nextView !== 'study') sessionCorrect.clear();
   view = nextView;
-  for (const name of ['menu', 'study', 'browser', 'history']) byId(`${name}-view`).hidden = name !== view;
+  for (const name of ['menu', 'study', 'browser', 'history', 'sources']) byId(`${name}-view`).hidden = name !== view;
   window.scrollTo(0, 0);
   updateStats();
   if (view === 'menu') byId('menu-title').focus({ preventScroll: true });
@@ -154,6 +154,7 @@ function navigate(nextView) {
   }
   if (view === 'browser') browser.open();
   if (view === 'history') byId('history-title').focus({ preventScroll: true });
+  if (view === 'sources') byId('sources-title').focus({ preventScroll: true });
 }
 
 function refreshAfterStatusChange(character) {
@@ -194,6 +195,9 @@ byId('handwriting-mode').addEventListener('click', () => {
 });
 byId('open-browser').addEventListener('click', () => navigate('browser'));
 byId('open-history').addEventListener('click', () => navigate('history'));
+for (const button of document.querySelectorAll('.open-sources')) {
+  button.addEventListener('click', () => navigate('sources'));
+}
 for (const button of document.querySelectorAll('.return-menu')) {
   button.addEventListener('click', () => {
     button.closest('dialog')?.close();

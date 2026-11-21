@@ -33,7 +33,10 @@ layout: none
           <button id="start-study" class="primary" type="button">Start Studying</button>
           <button id="open-browser" class="primary" type="button">Browse Kanji</button>
         </div>
-        <button id="open-history" class="quiet" type="button">Edit History</button>
+        <div class="menu-secondary">
+          <button id="open-history" class="quiet" type="button">Edit History</button>
+          <button class="quiet open-sources" type="button">Sources &amp; Licenses</button>
+        </div>
       </div>
       <div class="stats" aria-label="Curriculum progress">
         <div><strong id="introduced">0</strong><span>Introduced</span></div>
@@ -100,12 +103,7 @@ layout: none
         <div id="kanji-legend" class="kanji-legend" aria-label="Kanji status key"></div>
         <div id="kanji-grid" class="kanji-grid"></div>
       </div>
-      <details class="browser-sources">
-        <summary>Sources</summary>
-        <p>Curriculum from Japan’s <a href="https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/index.html">Agency for Cultural Affairs</a> and <a href="https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_01.pdf">Ministry of Education</a>.</p>
-        <p>Readings and meanings adapted from <a href="https://www.edrdg.org/kanjidic/kanjd2index_legacy.html">KANJIDIC2</a> © James William Breen and the Electronic Dictionary Research and Development Group, under <a href="https://www.edrdg.org/edrdg/licence.html">CC BY-SA 4.0</a>.</p>
-        <p>Supplemental study vocabulary adapted from <a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html">JMdict</a> © EDRDG and James William Breen, under <a href="https://www.edrdg.org/edrdg/licence.html">CC BY-SA 4.0</a>.</p>
-      </details>
+      <button class="quiet open-sources browser-sources" type="button">Sources &amp; Licenses</button>
     </section>
     <section id="history-view" aria-labelledby="history-title" hidden>
       <div class="view-bar">
@@ -131,7 +129,27 @@ layout: none
           <li>Added the app update time in Japan time.</li>
           <li>Added this Edit History page.</li>
           <li>Added guided kanji tracing after revealing an answer.</li>
+          <li>Added an offline Sources &amp; Licenses page.</li>
         </ul>
+      </div>
+    </section>
+    <section id="sources-view" aria-labelledby="sources-title" hidden>
+      <div class="view-bar">
+        <button class="quiet return-menu" type="button">Return to Menu</button>
+      </div>
+      <h2 id="sources-title" tabindex="-1">Sources &amp; Licenses</h2>
+      <div class="card sources-card">
+        <ul>
+          <li><a href="https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/" target="_blank" rel="noopener"><span lang="ja">常用漢字表</span> (Jōyō kanji list)</a> · Character list adapted from Japan’s Agency for Cultural Affairs. <a href="https://www.mext.go.jp/b_menu/1351168.htm">Government reuse terms</a></li>
+          <li><a href="https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_01.pdf">Elementary curriculum</a> · Grade groupings adapted from Japan’s Ministry of Education (MEXT). <a href="https://www.mext.go.jp/b_menu/1351168.htm">Government reuse terms</a></li>
+          <li><a href="https://www.mext.go.jp/b_menu/hakusho/html/others/detail/mext_03459.html">The promulgation of the Gakusei</a> · MEXT reference for the school-system history note.</li>
+          <li><a href="https://github.com/KanjiVG/kanjivg#licence">KanjiVG</a> · Canonical Japanese SVG strokes converted to JSON, © Ulrich Apel and contributors. <a href="./stroke-data/KANJIVG-LICENSE.txt">CC BY-SA 3.0</a></li>
+          <li><a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html">JMdict</a> · Adapted vocabulary spellings, readings, and meanings, © James William Breen and the Electronic Dictionary Research and Development Group (EDRDG). <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
+          <li><a href="https://www.edrdg.org/wiki/KANJIDIC_Project.html">KANJIDIC2</a> · Adapted kanji readings and meanings, © James William Breen and EDRDG. <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
+          <li><a href="https://github.com/open-spaced-repetition/ts-fsrs/tree/v5.2.3">ts-fsrs 5.2.3</a> · Review scheduling library, © 2025 Open Spaced Repetition. <a href="./vendor/ts-fsrs.LICENSE">MIT License</a></li>
+          <li>War-Camp Parchment artwork and app icons · Created for Kanji Practice with <a href="https://openai.com/policies/terms-of-use/#content">OpenAI image generation</a>.</li>
+        </ul>
+        <p><a href="https://www.edrdg.org/edrdg/licence.html">EDRDG attribution terms</a> · <a href="https://github.com/bhov9/Kanji-Study-App/blob/main/THIRD-PARTY-NOTICES.md">Full project notices</a></p>
       </div>
     </section>
     <p id="offline" class="offline" hidden>Ready for offline study</p>

@@ -47,6 +47,8 @@ Each Pages build stamps **Last app update** in Japan time and uses the same buil
 
 ## Content references
 
+See [Sources and license notices](THIRD-PARTY-NOTICES.md) for the bundled assets, how the source material was adapted, and the applicable redistribution terms. The app includes offline credits under **Sources & Licenses**.
+
 - [MEXT elementary curriculum and grade assignments](https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/09/26/1413522_001.pdf)
 - [National Institute for Educational Policy Research HTML transcription of the official grade table](https://erid.nier.go.jp/files/COFS/h29e/chap2-1.htm)
 - [Agency for Cultural Affairs official Jōyō list](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/index.html) and [JIS-to-Unicode cross-reference](https://x0213.org/joyo-kanji-code/index.html)
