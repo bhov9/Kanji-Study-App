@@ -33,6 +33,7 @@ layout: none
           <button id="start-study" class="primary" type="button">Start Studying</button>
           <button id="open-browser" class="primary" type="button">Browse Kanji</button>
         </div>
+        <button id="open-history" class="quiet" type="button">Edit History</button>
       </div>
       <div class="stats" aria-label="Curriculum progress">
         <div><strong id="introduced">0</strong><span>Introduced</span></div>
@@ -104,6 +105,32 @@ layout: none
         <p>Readings and meanings adapted from <a href="https://www.edrdg.org/kanjidic/kanjd2index_legacy.html">KANJIDIC2</a> © James William Breen and the Electronic Dictionary Research and Development Group, under <a href="https://www.edrdg.org/edrdg/licence.html">CC BY-SA 4.0</a>.</p>
         <p>Supplemental study vocabulary adapted from <a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html">JMdict</a> © EDRDG and James William Breen, under <a href="https://www.edrdg.org/edrdg/licence.html">CC BY-SA 4.0</a>.</p>
       </details>
+    </section>
+    <section id="history-view" aria-labelledby="history-title" hidden>
+      <div class="view-bar">
+        <button class="quiet return-menu" type="button">Return to Menu</button>
+      </div>
+      <h2 id="history-title" tabindex="-1">Edit History</h2>
+      <div class="card history-entries">
+        <!-- Add updates to the existing date or append a new date in Japan time. -->
+        <h3><time datetime="2026-11-20">2026/11/20</time></h3>
+        <ul>
+          <li>Launched vocabulary-based kanji writing practice with offline access.</li>
+          <li>Made grades editable before submission and added spaced repetition and progress backups.</li>
+          <li>Added the main menu and a browser for all 2,136 Jōyō kanji.</li>
+          <li>Redesigned the app with the War-Camp Parchment theme and added example sentences for select words.</li>
+          <li>Removed the daily study limit and added grade progress summaries.</li>
+          <li>Added handwriting boxes with undo and clear, plus grade and readings in Kanji Details.</li>
+        </ul>
+        <h3><time datetime="2026-11-21">2026/11/21</time></h3>
+        <ul>
+          <li>Underlined the tested readings and added animated stroke order with replay.</li>
+          <li>Added grade unlocking and bulk memorization edits in Edit Progress.</li>
+          <li>Spaced out repeat reviews and added handwriting-only practice that leaves review progress intact.</li>
+          <li>Added the app update time in Japan time.</li>
+          <li>Added this Edit History page.</li>
+        </ul>
+      </div>
     </section>
     <p id="offline" class="offline" hidden>Ready for offline study</p>
   </main>
