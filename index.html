@@ -1,3 +1,6 @@
+---
+layout: none
+---
 <!doctype html>
 <html lang="en">
 <head>
@@ -36,6 +39,7 @@
         <div><strong id="menu-memorized">0</strong><span>Memorized</span></div>
         <div><strong id="menu-due">0</strong><span>Reviews due</span></div>
       </div>
+      <p class="app-update">Last app update · <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%Y-%m-%d %H:%M:%S" }} JST</time></p>
     </section>
     <section id="study-view" aria-label="Study" hidden>
       <div class="view-bar">

@@ -64,6 +64,7 @@ details { margin-top: .55rem; }
 summary { min-height: 44px; padding-block: .65rem; color: var(--indigo); font-weight: 650; cursor: pointer; }
 details p { line-height: 1.5; margin: .5rem 0; }
 .offline { text-align: center; font-size: .875rem; }
+.app-update { margin: 1rem 0 0; color: var(--muted); text-align: center; font-size: .875rem; font-variant-numeric: tabular-nums; }
 #status { background: #f3dec3; border-inline-start: 3px solid var(--crimson); border-radius: .25rem; padding: .7rem; }
 dialog { background: var(--card); color: var(--ink); border: 1px solid var(--line); border-block-start: 4px double var(--gold); border-radius: .45rem; width: min(92%, 30rem); max-height: 85vh; padding: 1.25rem; }
 dialog::backdrop { background: #292219a0; }

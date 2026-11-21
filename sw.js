@@ -1,6 +1,9 @@
-// Increment the revision whenever a deployed app-shell file changes.
+---
+layout: none
+---
+// Each Pages build publishes a matching service worker and timestamped app shell.
 const prefix = `kanji-practice:${self.registration.scope}:`;
-const cacheName = `${prefix}8`;
+const cacheName = `${prefix}{{ site.time | date: "%s" }}-{{ site.github.build_revision }}`;
 const appShell = [
   './', './index.html', './style.css', './app.js', './data.js', './study.js',
   './manifest.webmanifest', './icons/jinchu-apple.png', './icons/jinchu-192.png', './icons/jinchu-512.png',
