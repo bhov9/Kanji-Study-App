@@ -10,7 +10,7 @@ const appShell = [
   './vendor/ts-fsrs.js',
   './browser.js', './curriculum.js', './kanji-reference.js',
   './art/war-camp.webp', './examples.js',
-  './handwriting.js',
+  './handwriting.js', './guided-practice.js',
   './reading-cue.js', './stroke-order.js',
   './progress-editor.js',
   './grade-vocabulary.js',

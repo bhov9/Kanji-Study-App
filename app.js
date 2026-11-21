@@ -3,6 +3,7 @@ import { setupKanjiBrowser } from './browser.js';
 import { curriculumGrades, groups } from './curriculum.js';
 import { exampleFor, renderExample } from './examples.js';
 import { setupHandwriting } from './handwriting.js';
+import { createGuidedPractice } from './guided-practice.js';
 import { kanjiReference } from './kanji-reference.js';
 import { readingCue } from './reading-cue.js';
 import { createStrokeOrder } from './stroke-order.js';
@@ -99,6 +100,7 @@ function showWord(focus = false, repeatPractice = false) {
   byId('answer').hidden = true;
   byId('spelling').textContent = '';
   byId('characters').replaceChildren();
+  byId('guided-practice').replaceChildren();
   byId('word-example').hidden = true;
   message('tested-positions', '');
   byId('next').disabled = true;
@@ -290,6 +292,8 @@ function revealAnswer() {
   if (!current || !byId('answer').hidden) return;
   const writingBoxes = handwriting.reveal();
   byId('spelling').textContent = current.word.spelling;
+  const tested = current.word.characters.filter(character => current.targets.includes(character));
+  byId('guided-practice').replaceChildren(createGuidedPractice(tested));
   byId('characters').replaceChildren(...current.word.characters.map(character =>
     renderCharacter(character, writingBoxes.get(character))));
   byId('answer').hidden = false;

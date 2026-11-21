@@ -251,6 +251,22 @@ dialog::backdrop { background: #292219a0; }
 .stroke-controls { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem; }
 .stroke-credit { font-size: .8rem; color: var(--muted); }
 .stroke-credit a { color: var(--indigo); }
+#guided-practice { margin-block: .5rem 1rem; text-align: start; }
+.guided-practice > summary {
+  padding-inline: .8rem;
+  border: 1px solid var(--line);
+  border-radius: .4rem;
+  background: #f7eedf;
+}
+.guided-boxes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: .75rem; margin-top: .75rem; }
+.guided-boxes .stroke-title { margin: 0; font-size: 1.2rem; }
+.guided-board { width: min(100%, 17rem); touch-action: none; user-select: none; }
+.guided-board .guided-next { stroke: var(--indigo); stroke-width: 4; opacity: .55; }
+.guided-board .guided-finger { stroke: var(--indigo); opacity: .8; }
+.guided-arrow, .guided-dot { fill: var(--indigo); stroke: var(--card); stroke-width: .7; }
+.guided-demo { fill: var(--crimson); stroke: var(--card); stroke-width: 1; }
+.guided-status { min-height: 1.5em; color: var(--muted); font-size: .875rem; }
+.guided-boxes .stroke-controls button { font-size: .875rem; touch-action: manipulation; }
 .editor-grade { display: flex; align-items: center; gap: .55rem; margin: 1rem 0 .65rem; }
 .editor-grade select { min-height: 44px; min-width: 0; flex: 1; padding: .4rem; border: 1px solid var(--line); border-radius: .3rem; color: var(--ink); background: var(--card); font: inherit; }
 .editor-actions { display: flex; flex-wrap: wrap; gap: .45rem; }

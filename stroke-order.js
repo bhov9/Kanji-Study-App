@@ -9,13 +9,13 @@ function element(tag, text, className) {
   return node;
 }
 
-function svgElement(tag, attributes) {
+export function svgElement(tag, attributes) {
   const node = document.createElementNS(svgNamespace, tag);
   for (const [name, value] of Object.entries(attributes)) node.setAttribute(name, value);
   return node;
 }
 
-async function loadPaths(character) {
+export async function loadPaths(character) {
   const shard = (character.codePointAt(0) % 32).toString(16).padStart(2, '0');
   const response = await fetch(new URL(`./stroke-data/${shard}.json`, import.meta.url));
   if (!response.ok) throw new Error('Stroke data unavailable');
