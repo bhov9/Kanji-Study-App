@@ -14,6 +14,7 @@ const appShell = [
   './handwriting.js', './guided-practice.js',
   './reading-cue.js', './stroke-order.js',
   './progress-editor.js',
+  './feedback.js', './dictionary-readings.js', './reading-mappings.js',
   './grade-vocabulary.js',
   ...Array.from({ length: 32 }, (_, index) => `./stroke-data/${index.toString(16).padStart(2, '0')}.json`),
 ];

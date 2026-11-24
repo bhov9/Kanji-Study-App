@@ -46,6 +46,7 @@ def main():
             'meanings': unique(item.text for item in meanings if item.text and 'm_lang' not in item.attrib),
             'on': unique(item.text for item in readings if item.text and item.get('r_type') == 'ja_on'),
             'kun': unique(item.text for item in readings if item.text and item.get('r_type') == 'ja_kun'),
+            'names': unique(item.text for item in entry.findall('reading_meaning/nanori') if item.text),
         }
     missing = character_set - by_character.keys()
     if missing:

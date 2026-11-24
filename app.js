@@ -2,14 +2,16 @@ import { kanjiNotes, words } from './data.js';
 import { setupKanjiBrowser } from './browser.js';
 import { curriculumGrades, groups } from './curriculum.js';
 import { exampleFor, renderExample } from './examples.js';
+import { characterFeedback, feedbackForm, readFeedback, setupFeedbackSummary, validateFeedback, withRestoredFeedback } from './feedback.js';
 import { setupHandwriting } from './handwriting.js';
 import { createGuidedPractice } from './guided-practice.js';
 import { kanjiReference } from './kanji-reference.js';
 import { readingCue } from './reading-cue.js';
+import { appendDictionaryReadings } from './dictionary-readings.js';
 import { createStrokeOrder } from './stroke-order.js';
 import { setupProgressEditor } from './progress-editor.js';
 import {
-  applyMemorization, chooseHandwritingWord, chooseWord, freshProgress, markMemorized, parseProgress, reactivate,
+  applyMemorization, chooseWord, freshProgress, markMemorized, parseProgress, reactivate,
   startOfDay, submitWord, unlockedGrade,
 } from './study.js';
 
@@ -26,8 +28,8 @@ let submitting = false;
 let view = 'menu';
 const selections = new Map();
 const sessionCorrect = new Set();
-let handwritingOnly = false;
 const handwriting = setupHandwriting();
+const renderFeedbackSummary = setupFeedbackSummary();
 
 function message(id, text) {
   const element = byId(id);
@@ -47,12 +49,12 @@ function loadProgress() {
   }
 }
 
-async function save(next) {
+async function save(next, feedback) {
   const expected = storedProgress;
   const write = () => {
     if (localStorage.getItem(storageKey) !== expected) return false;
     const raw = JSON.stringify(next);
-    localStorage.setItem(storageKey, raw);
+    withRestoredFeedback(feedback, () => localStorage.setItem(storageKey, raw));
     storedProgress = raw;
     progress = next;
     storageReadable = true;
@@ -93,35 +95,29 @@ function updateStats() {
   if (byId('progress').open) renderGradeProgress();
 }
 
-function showWord(focus = false, repeatPractice = false) {
-  const previousPracticeWord = current?.practice ? current.word.id : undefined;
+function showWord(focus = false) {
   updateStats();
   selections.clear();
   byId('answer').hidden = true;
   byId('spelling').textContent = '';
   byId('characters').replaceChildren();
-  byId('guided-practice').replaceChildren();
   byId('word-example').hidden = true;
   message('tested-positions', '');
   byId('next').disabled = true;
-  byId('repeat-practice').hidden = true;
   if (view !== 'study') {
     current = null;
     handwriting.reset([]);
     return;
   }
   const now = Date.now();
-  current = !storageReadable ? null : handwritingOnly
-    ? (repeatPractice && current?.practice ? current : chooseHandwritingWord(words, progress.characters, previousPracticeWord))
-    : chooseWord(words, progress, now, Math.random, sessionCorrect);
+  current = storageReadable ? chooseWord(words, progress, now, Math.random, sessionCorrect) : null;
   handwriting.reset(current?.targets ?? []);
   byId('show-answer').hidden = !current;
-  byId('check-reviews').hidden = Boolean(current || handwritingOnly || !storageReadable);
+  byId('check-reviews').hidden = Boolean(current || !storageReadable);
   byId('prompt-label').hidden = !current;
   byId('instruction').hidden = !current;
   const reading = byId('reading');
   if (current) {
-    byId('prompt-label').textContent = current.practice ? 'Handwriting only · no reviews recorded' : 'Write from memory';
     reading.lang = 'ja';
     const cue = readingCue(current.word, current.targets);
     reading.replaceChildren(...cue.parts.map(({ text, tested }) =>
@@ -134,8 +130,8 @@ function showWord(focus = false, repeatPractice = false) {
     reading.textContent = storageReadable ? 'No kanji ready for review' : 'Progress unavailable';
     const waiting = Number(byId('due').textContent) > 0;
     byId('meaning').textContent = storageReadable
-      ? (waiting ? 'Some due kanji are still waiting for spacing. You can keep writing in Handwriting Practice.' :
-        'You can keep writing in Handwriting Practice or return later for scheduled reviews.')
+      ? (waiting ? 'Some due kanji are still waiting for spacing. Check again later.' :
+        'Return later for scheduled reviews.')
       : 'Open Progress to restore a backup.';
   }
   if (focus) reading.focus();
@@ -144,7 +140,7 @@ function showWord(focus = false, repeatPractice = false) {
 function navigate(nextView) {
   if (view === 'study' && nextView !== 'study') sessionCorrect.clear();
   view = nextView;
-  for (const name of ['menu', 'study', 'browser', 'history', 'sources']) byId(`${name}-view`).hidden = name !== view;
+  for (const name of ['menu', 'study', 'browser', 'history', 'sources', 'feedback']) byId(`${name}-view`).hidden = name !== view;
   window.scrollTo(0, 0);
   updateStats();
   if (view === 'menu') byId('menu-title').focus({ preventScroll: true });
@@ -155,6 +151,10 @@ function navigate(nextView) {
   if (view === 'browser') browser.open();
   if (view === 'history') byId('history-title').focus({ preventScroll: true });
   if (view === 'sources') byId('sources-title').focus({ preventScroll: true });
+  if (view === 'feedback') {
+    renderFeedbackSummary();
+    byId('feedback-title').focus({ preventScroll: true });
+  }
 }
 
 function refreshAfterStatusChange(character) {
@@ -187,12 +187,14 @@ setupProgressEditor(() => progress, () => storageReadable, async changes => {
 
 byId('start-study').addEventListener('click', () => navigate('study'));
 byId('check-reviews').addEventListener('click', () => showWord(true));
-byId('handwriting-mode').addEventListener('click', () => {
-  if ((selections.size || handwriting.hasDraft()) && !window.confirm('Switch modes and discard the current draft?')) return;
-  handwritingOnly = !handwritingOnly;
-  byId('handwriting-mode').textContent = handwritingOnly ? 'Back to Reviews' : 'Handwriting Practice';
-  showWord(true);
+function studyFeedbackContext(character) {
+  return { page: 'Writing Screen', character, word: current?.word.spelling, reading: current?.word.reading };
+}
+byId('open-feedback').addEventListener('click', () => {
+  byId('study-feedback-form').replaceChildren(feedbackForm(studyFeedbackContext()));
+  byId('study-feedback').showModal();
 });
+byId('open-feedback-summary').addEventListener('click', () => navigate('feedback'));
 byId('open-browser').addEventListener('click', () => navigate('browser'));
 byId('open-history').addEventListener('click', () => navigate('history'));
 for (const button of document.querySelectorAll('.open-sources')) {
@@ -236,8 +238,7 @@ function renderKanjiDetails(character) {
     details.append(gradeHeading, gradeName);
   }
   field('Meaning', reference?.meanings.join('; '));
-  field('On’yomi', reference?.on.join('、'), 'ja');
-  field('Kun’yomi', reference?.kun.map(reading => reading.replace(/\.(.+)$/, '（$1）')).join('、'), 'ja');
+  appendDictionaryReadings(details, reference, 'h4');
   field('Components', components);
   if (structure) details.append(node('p', structure));
   field('Mnemonic', mnemonic);
@@ -250,8 +251,7 @@ function renderCharacter(character, writingBox) {
   const glyph = node('span', character, 'glyph');
   glyph.lang = 'ja';
   const isTarget = current.targets.includes(character);
-  const status = node('span', isTarget ? (current.practice ? 'Handwriting practice' :
-    progress.characters[character] ? 'Due for review' : 'New kanji') :
+  const status = node('span', isTarget ? (progress.characters[character] ? 'Due for review' : 'New kanji') :
     progress.characters[character]?.memorized ? 'Memorized' : 'Not scheduled for this word', 'character-status');
   status.setAttribute('aria-live', 'polite');
   header.append(glyph, status);
@@ -265,8 +265,7 @@ function renderCharacter(character, writingBox) {
     comparison.append(writingBox, correct);
     card.append(comparison);
   }
-  if (isTarget) card.append(createStrokeOrder(character));
-  if (isTarget && !current.practice) {
+  if (isTarget) {
     const controls = node('div', '', 'grades');
     controls.setAttribute('role', 'group');
     controls.setAttribute('aria-label', `Grade ${character}`);
@@ -287,8 +286,9 @@ function renderCharacter(character, writingBox) {
       controls.append(button);
     }
     card.append(controls);
+    card.append(createGuidedPractice(character), createStrokeOrder(character));
   }
-  card.append(renderKanjiDetails(character));
+  card.append(renderKanjiDetails(character), characterFeedback(studyFeedbackContext(character)));
   return card;
 }
 
@@ -296,16 +296,9 @@ function revealAnswer() {
   if (!current || !byId('answer').hidden) return;
   const writingBoxes = handwriting.reveal();
   byId('spelling').textContent = current.word.spelling;
-  const tested = current.word.characters.filter(character => current.targets.includes(character));
-  byId('guided-practice').replaceChildren(createGuidedPractice(tested));
   byId('characters').replaceChildren(...current.word.characters.map(character =>
     renderCharacter(character, writingBoxes.get(character))));
   byId('answer').hidden = false;
-  byId('next').textContent = current.practice ? 'Next Practice Word' : 'Next Word';
-  if (current.practice) {
-    byId('next').disabled = false;
-    byId('repeat-practice').hidden = false;
-  }
   renderExample(byId('word-example'), exampleFor(current.word.id), current.word, true);
   byId('show-answer').hidden = true;
   byId('instruction').hidden = true;
@@ -314,13 +307,8 @@ function revealAnswer() {
 
 byId('show-answer').addEventListener('click', revealAnswer);
 byId('check-writing').addEventListener('click', revealAnswer);
-byId('repeat-practice').addEventListener('click', () => showWord(true, true));
 
 byId('next').addEventListener('click', async () => {
-  if (current?.practice) {
-    showWord(true);
-    return;
-  }
   if (submitting || selections.size !== current?.targets.length) return;
   submitting = true;
   byId('next').disabled = true;
@@ -366,7 +354,14 @@ byId('open-progress').addEventListener('click', () => {
 });
 
 byId('export').addEventListener('click', () => {
-  const url = URL.createObjectURL(new Blob([JSON.stringify(progress, null, 2)], { type: 'application/json' }));
+  let backup;
+  try {
+    backup = { ...progress, feedback: readFeedback() };
+  } catch {
+    message('backup-status', 'Saved feedback could not be read. No backup was exported.');
+    return;
+  }
+  const url = URL.createObjectURL(new Blob([JSON.stringify(backup, null, 2)], { type: 'application/json' }));
   const link = node('a', '');
   link.href = url;
   link.download = `kanji-practice-${new Date().toISOString().slice(0, 10)}.json`;
@@ -382,9 +377,12 @@ byId('backup-file').addEventListener('change', async event => {
   event.target.value = '';
   if (!file) return;
   try {
-    const backup = parseProgress(await file.text());
-    if (!confirm('Replace the progress on this device with this backup?')) return;
-    if (!await save(backup)) {
+    const { feedback, ...data } = JSON.parse(await file.text());
+    const backup = parseProgress(JSON.stringify(data));
+    const entries = feedback === undefined ? undefined : validateFeedback(feedback);
+    const target = entries === undefined ? 'progress' : 'progress and feedback';
+    if (!confirm(`Replace the ${target} on this device with this backup?`)) return;
+    if (!await save(backup, entries)) {
       message('backup-status', 'The backup could not be saved.');
       return;
     }

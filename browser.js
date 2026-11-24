@@ -1,6 +1,8 @@
 import { groups, curriculumGrades } from './curriculum.js';
 import { kanjiNotes, words } from './data.js';
 import { kanjiReference } from './kanji-reference.js';
+import { appendDictionaryReadings } from './dictionary-readings.js';
+import { characterFeedback } from './feedback.js';
 
 const statuses = {
   memorized: ['Memorized', '✓'],
@@ -159,8 +161,8 @@ export function setupKanjiBrowser(getProgress, canEdit, setMemorized) {
     content.replaceChildren();
     const reference = kanjiReference[character];
     addDetail(content, 'Meanings', reference?.meanings.join(', '));
-    addDetail(content, 'On readings', reference?.on.join('、'), 'ja');
-    addDetail(content, 'Kun readings', reference?.kun.map(reading => reading.replace(/\.(.+)$/, '（$1）')).join('、'), 'ja');
+    appendDictionaryReadings(content, reference, 'h3');
+    id('detail-feedback').replaceChildren(characterFeedback({ page: 'Browse Kanji', character }));
     const examples = vocabularyByKanji.get(character);
     if (examples) {
       const items = element('ul', '', 'vocabulary-examples');

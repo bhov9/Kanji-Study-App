@@ -3,12 +3,8 @@ export function setupHandwriting() {
   const toggle = id('write');
   const panel = id('handwriting');
   const grid = id('writing-boxes');
-  const undo = id('undo-stroke');
-  const clear = id('clear-writing');
-  const clearAll = id('clear-all-writing');
   const check = id('check-writing');
   let pads = [];
-  let selected;
   let active;
   let writingMode = false;
   let revealed = false;
@@ -63,19 +59,6 @@ export function setupHandwriting() {
     return { x: clamp((event.clientX - rect.left) / rect.width), y: clamp((event.clientY - rect.top) / rect.height) };
   }
 
-  function updateControls() {
-    undo.disabled = clear.disabled = !selected?.strokes.length;
-    clearAll.disabled = !pads.some(pad => pad.strokes.length);
-    id('writing-selection').textContent = selected ? `Writing box ${selected.index + 1} selected` : '';
-  }
-
-  function select(pad) {
-    selected?.box.removeAttribute('data-selected');
-    selected = pad;
-    pad.box.dataset.selected = '';
-    updateControls();
-  }
-
   function stopStroke() {
     if (!active) return;
     const { pad, pointer } = active;
@@ -91,12 +74,32 @@ export function setupHandwriting() {
     const canvas = document.createElement('canvas');
     canvas.tabIndex = 0;
     canvas.setAttribute('aria-label', `Writing box ${index + 1}`);
-    box.append(label, canvas);
-    const pad = { character, index, canvas, box, strokes: [], frame: 0 };
-    canvas.addEventListener('focus', () => select(pad));
+    const tools = document.createElement('div');
+    tools.className = 'writing-tools';
+    tools.setAttribute('role', 'group');
+    tools.setAttribute('aria-label', `Controls for writing box ${index + 1}`);
+    box.append(label, canvas, tools);
+    const pad = { character, canvas, box, tools, strokes: [], frame: 0 };
+    function addControl(text, change) {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.textContent = text;
+      button.disabled = true;
+      button.addEventListener('click', () => {
+        if (active?.pad === pad) stopStroke();
+        change();
+        redraw(pad);
+        updateControls();
+      });
+      tools.append(button);
+    }
+    function updateControls() {
+      for (const button of tools.children) button.disabled = !pad.strokes.length;
+    }
+    addControl('Undo Last Stroke', () => pad.strokes.pop());
+    addControl('Clear', () => { pad.strokes.length = 0; });
     canvas.addEventListener('pointerdown', event => {
       if (active || event.button !== 0) return;
-      select(pad);
       const stroke = [point(event, canvas.getBoundingClientRect())];
       pad.strokes.push(stroke);
       active = { pad, pointer: event.pointerId, stroke };
@@ -133,43 +136,21 @@ export function setupHandwriting() {
     writingMode = !writingMode;
     updateVisibility();
   });
-  undo.addEventListener('click', () => {
-    stopStroke();
-    selected.strokes.pop();
-    redraw(selected);
-    updateControls();
-  });
-  clear.addEventListener('click', () => {
-    stopStroke();
-    selected.strokes.length = 0;
-    redraw(selected);
-    updateControls();
-  });
-  clearAll.addEventListener('click', () => {
-    stopStroke();
-    for (const pad of pads) {
-      pad.strokes.length = 0;
-      redraw(pad);
-    }
-    updateControls();
-  });
-
   return {
     reset(targets) {
       stopStroke();
       observer.disconnect();
       for (const pad of pads) cancelAnimationFrame(pad.frame);
-      selected = undefined;
       revealed = false;
       pads = targets.map(makePad);
       grid.replaceChildren(...pads.map(pad => pad.box));
-      if (pads.length) select(pads[0]);
       updateVisibility();
     },
     hasDraft: () => pads.some(pad => pad.strokes.length > 0),
     reveal() {
       stopStroke();
       revealed = true;
+      for (const pad of pads) pad.tools.hidden = true;
       updateVisibility();
       return new Map(panel.hidden ? [] : pads.map(pad => [pad.character, pad.box]));
     },

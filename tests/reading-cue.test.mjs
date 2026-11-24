@@ -6,11 +6,11 @@ import { readingCue } from '../reading-cue.js';
 const underlined = (word, targets) => readingCue(word, targets).parts
   .filter(part => part.tested).map(part => part.text);
 
-test('番号 underlines the chosen reading, with adjacent targets joined', () => {
+test('番号 underlines the chosen readings separately', () => {
   const word = words.find(entry => entry.id === 'bangou');
   assert.deepEqual(underlined(word, ['番']), ['ばん']);
   assert.deepEqual(underlined(word, ['号']), ['ごう']);
-  assert.deepEqual(underlined(word, ['番', '号']), ['ばんごう']);
+  assert.deepEqual(underlined(word, ['番', '号']), ['ばん', 'ごう']);
 });
 
 test('okurigana stays plain and nonadjacent tested kanji stay separate', () => {
@@ -38,4 +38,13 @@ test('all current deck mappings reproduce the entire reading', () => {
       assert(cue.hint || cue.parts.some(part => part.tested), word.id);
     }
   }
+});
+
+test('word-specific mappings cover 小学校 sound changes and adjacent 地図 readings', () => {
+  const school = words.find(word => word.spelling === '小学校' && word.reading === 'しょうがっこう');
+  assert.deepEqual(underlined(school, ['小']), ['しょう']);
+  assert.deepEqual(underlined(school, ['学']), ['がっ']);
+  assert.deepEqual(underlined(school, ['校']), ['こう']);
+  const map = words.find(word => word.spelling === '地図' && word.reading === 'ちず');
+  assert.deepEqual(underlined(map, ['地', '図']), ['ち', 'ず']);
 });

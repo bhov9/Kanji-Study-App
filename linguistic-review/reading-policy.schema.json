@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Reviewed kanji study reading policy",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "readings"],
+  "properties": {
+    "version": { "const": 1 },
+    "readings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["kanjiId", "reading", "category", "priority", "preferredWordIds", "reviewedOverride"],
+        "properties": {
+          "kanjiId": { "type": "string", "minLength": 1, "maxLength": 1 },
+          "reading": { "type": "string", "minLength": 1 },
+          "category": { "enum": ["preferred", "secondary", "reference-only"] },
+          "priority": { "type": ["integer", "null"], "minimum": 1 },
+          "preferredWordIds": {
+            "type": "array", "uniqueItems": true, "items": { "type": "string", "minLength": 1 }
+          },
+          "reviewedOverride": {
+            "type": ["object", "null"],
+            "additionalProperties": false,
+            "required": ["reason", "source"],
+            "properties": {
+              "reason": { "type": "string", "minLength": 1 },
+              "source": { "type": "string", "minLength": 1 }
+            }
+          }
+        }
+      }
+    }
+  }
+}

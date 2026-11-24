@@ -25,10 +25,10 @@ GitHub Pages builds the static site with Jekyll. For a local preview that render
 - In **Browse Kanji → Edit Progress**, you can change individual or whole-grade Memorized statuses. **Confirm Changes** saves the pending changes together and keeps existing FSRS cards and review history.
 - New kanji enter in grade order while cards await review, with no daily introduction or review cap.
 - Incorrect grades keep their FSRS due dates and normally wait for 10 distinct other kanji. When the eligible pool is too small and no new or normally eligible kanji remain, a due kanji can return sooner by count. Correct grades wait for the next local calendar day and the end of the current session, in addition to the FSRS due date.
-- **Handwriting Practice** lets you keep writing when no reviews are ready. It uses the normal writing and answer tools without logging grades or changing FSRS cards.
+- **Guided Writing** opens per tested kanji after revealing the answer. Tracing does not change grades or FSRS cards.
 - [ts-fsrs 5.2.3](https://www.npmjs.com/package/ts-fsrs/v/5.2.3) supplies FSRS-6 with a target retention of 90%. Correct maps to Good, and Incorrect maps to Again. Learning and relearning use 10- and 30-minute steps.
 - Memorized suspends the kanji across the deck. Use Progress to reactivate it for immediate review.
-- Progress stays in this browser's local storage. Export a backup before transferring devices or clearing browser data. Import replaces local progress after confirmation. Keep word IDs stable when editing the deck so earlier review events retain their vocabulary context.
+- Progress and feedback stay in separate local storage records. A backup includes both. Restoring an older backup replaces progress and retains current feedback. Keep word IDs stable when editing the deck so earlier review events retain their vocabulary context.
 
 The app reads both original and current backups. It reconstructs FSRS memory state from earlier grades and preserves existing due dates and Memorized statuses. The first successful save writes the updated format under the same browser storage key.
 
@@ -66,6 +66,8 @@ Add future vocabulary and structural notes to `data.js`. Keep word IDs stable an
 The supplemental deck in `grade-vocabulary.js` gives every curriculum character a vocabulary prompt. It uses Japanese spellings, readings, and English glosses from [JMdict](https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html), copyright EDRDG and James William Breen, under [CC BY-SA 4.0](https://www.edrdg.org/edrdg/licence.html). The import selects common, grade-appropriate spellings where possible. To reproduce it, download `JMdict_b.gz` from [EDRDG](https://www.edrdg.org/pub/Nihongo/) and run `python scripts/import_grade_vocabulary.py PATH_TO_JMdict_b.gz`.
 
 ## Adding example sentences
+
+See [linguistic review exports](linguistic-review/README.md) for the current deck, reading mappings, and selection logic.
 
 Study prompts underline the kana belonging to the tested kanji. When adding vocabulary, the optional fifth field holds reading parts in written character order, including any kana. Use an ordinal hint by omitting the mapping when boundaries are ambiguous.
 

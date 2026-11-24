@@ -177,7 +177,7 @@ async function prepareBox(box, character, panel) {
   refresh();
 }
 
-export function createGuidedPractice(characters) {
+export function createGuidedPractice(character) {
   const panel = element('details', '', 'guided-practice');
   const boxes = element('div', '', 'guided-boxes');
   const credit = element('p', '', 'stroke-credit');
@@ -186,20 +186,18 @@ export function createGuidedPractice(characters) {
   const license = element('a', 'CC BY-SA 3.0');
   license.href = 'https://creativecommons.org/licenses/by-sa/3.0/';
   credit.append(source, ' © Ulrich Apel · ', license);
-  panel.append(element('summary', 'Practice Writing'), boxes, credit);
+  panel.append(element('summary', 'Guided Writing'), boxes, credit);
   panel.addEventListener('toggle', () => {
     if (!panel.open || boxes.childElementCount) return;
-    for (const character of characters) {
-      const box = element('section', '', 'stroke-content');
-      const title = element('h4', character, 'stroke-title');
-      title.lang = 'ja';
-      box.setAttribute('aria-label', `Practice ${character}`);
-      box.append(title);
-      boxes.append(box);
-      prepareBox(box, character, panel).catch(() => {
-        box.querySelector('.guided-status').textContent = 'Tracing data is unavailable for this character.';
-      });
-    }
+    const box = element('section', '', 'stroke-content');
+    const title = element('h4', character, 'stroke-title');
+    title.lang = 'ja';
+    box.setAttribute('aria-label', `Practice ${character}`);
+    box.append(title);
+    boxes.append(box);
+    prepareBox(box, character, panel).catch(() => {
+      box.querySelector('.guided-status').textContent = 'Tracing data is unavailable for this character.';
+    });
   });
   return panel;
 }

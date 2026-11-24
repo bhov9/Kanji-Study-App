@@ -226,9 +226,7 @@ dialog::backdrop { background: #292219a0; }
   user-select: none;
   cursor: crosshair;
 }
-.writing-pad[data-selected] canvas, .writing-pad canvas:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
-.writing-pad[data-selected] > span { font-weight: 700; color: var(--indigo); }
-#writing-selection { margin: .75rem 0 .45rem; font-size: .875rem; color: var(--muted); }
+.writing-pad canvas:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
 .writing-tools { display: flex; flex-wrap: wrap; justify-content: center; gap: .45rem; }
 .writing-tools button { font-size: .875rem; touch-action: manipulation; }
 #check-writing { margin-top: .7rem; }
@@ -244,6 +242,8 @@ dialog::backdrop { background: #292219a0; }
 .study-kanji-details h4 { margin: .75rem 0 .15rem; color: var(--indigo); }
 .study-kanji-details p { margin: .15rem 0 .45rem; overflow-wrap: anywhere; }
 #reading u { text-decoration-color: var(--crimson); text-decoration-thickness: .065em; text-underline-offset: .15em; }
+#reading u + u { margin-inline-start: .08em; }
+.okurigana { color: var(--muted); }
 #tested-positions { margin: .45rem 0 .65rem; color: var(--muted); }
 .stroke-order { margin-block: .4rem .65rem; }
 .stroke-content { padding: .65rem; background: var(--card); border: 1px solid var(--line); border-radius: .35rem; text-align: center; }
@@ -256,7 +256,18 @@ dialog::backdrop { background: #292219a0; }
 .stroke-controls { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem; }
 .stroke-credit { font-size: .8rem; color: var(--muted); }
 .stroke-credit a { color: var(--indigo); }
-#guided-practice { margin-block: .5rem 1rem; text-align: start; }
+.guided-practice { margin-block: .5rem; }
+.writing-pad .writing-tools { margin-top: .45rem; }
+.feedback-form, .feedback-summary { text-align: start; }
+.feedback-form textarea, #feedback-copy-text {
+  display: block; width: 100%; margin-block: .5rem; padding: .5rem;
+  font: inherit; color: var(--ink); background: var(--card);
+  border: 1px solid var(--line); border-radius: .3rem;
+}
+.feedback-actions { display: flex; flex-wrap: wrap; gap: .4rem; }
+.feedback-text { white-space: pre-wrap; overflow-wrap: anywhere; }
+#feedback-list { padding-inline-start: 1.5rem; }
+#feedback-list li + li { margin-top: 1rem; }
 .guided-practice > summary {
   padding-inline: .8rem;
   border: 1px solid var(--line);

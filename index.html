@@ -36,6 +36,7 @@ layout: none
         <div class="menu-secondary">
           <button id="open-history" class="quiet" type="button">Edit History</button>
           <button class="quiet open-sources" type="button">Sources &amp; Licenses</button>
+          <button id="open-feedback-summary" class="quiet" type="button">Feedback Summary</button>
         </div>
       </div>
       <div class="stats" aria-label="Curriculum progress">
@@ -48,7 +49,7 @@ layout: none
     <section id="study-view" aria-label="Study" hidden>
       <div class="view-bar">
         <button class="quiet return-menu" type="button">Return to Menu</button>
-        <button id="handwriting-mode" class="quiet" type="button">Handwriting Practice</button>
+        <button id="open-feedback" class="quiet" type="button">Feedback</button>
       </div>
       <div class="stats" aria-label="Study progress">
         <div><strong id="due">0</strong><span>Due</span></div>
@@ -73,19 +74,11 @@ layout: none
         </div>
         <section id="handwriting" aria-label="Handwriting practice" hidden>
           <div id="writing-boxes"></div>
-          <p id="writing-selection" role="status"></p>
-          <div class="writing-tools">
-            <button id="undo-stroke" type="button" disabled>Undo Last Stroke</button>
-            <button id="clear-writing" type="button" disabled>Clear</button>
-            <button id="clear-all-writing" type="button" disabled>Clear All</button>
-          </div>
           <button id="check-writing" class="primary" type="button">Check</button>
         </section>
         <section id="answer" aria-label="Answer and grading" hidden>
           <h3 id="spelling" lang="ja" tabindex="-1"></h3>
-          <div id="guided-practice"></div>
           <div id="characters"></div>
-          <button id="repeat-practice" type="button" hidden>Practice Again</button>
           <button id="next" class="primary" type="button" disabled>Next Word</button>
         </section>
       </section>
@@ -131,6 +124,11 @@ layout: none
           <li>Added guided kanji tracing after revealing an answer.</li>
           <li>Added an offline Sources &amp; Licenses page.</li>
         </ul>
+        <h3><time datetime="2026-11-24">2026/11/24</time></h3>
+        <ul>
+          <li>Added local feedback and backup support.</li>
+          <li>Improved reading cues, Kanji Details, and per-kanji writing controls.</li>
+        </ul>
       </div>
     </section>
     <section id="sources-view" aria-labelledby="sources-title" hidden>
@@ -146,14 +144,34 @@ layout: none
           <li><a href="https://github.com/KanjiVG/kanjivg#licence">KanjiVG</a> · Canonical Japanese SVG strokes converted to JSON, © Ulrich Apel and contributors. <a href="./stroke-data/KANJIVG-LICENSE.txt">CC BY-SA 3.0</a></li>
           <li><a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html">JMdict</a> · Adapted vocabulary spellings, readings, and meanings, © James William Breen and the Electronic Dictionary Research and Development Group (EDRDG). <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
           <li><a href="https://www.edrdg.org/wiki/KANJIDIC_Project.html">KANJIDIC2</a> · Adapted kanji readings and meanings, © James William Breen and EDRDG. <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
+          <li><a href="https://github.com/Doublevil/JmdictFurigana">JmdictFurigana</a> · Adapted word-specific kana mappings by Doublevil, derived from EDRDG JMdict. <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
           <li><a href="https://github.com/open-spaced-repetition/ts-fsrs/tree/v5.2.3">ts-fsrs 5.2.3</a> · Review scheduling library, © 2025 Open Spaced Repetition. <a href="./vendor/ts-fsrs.LICENSE">MIT License</a></li>
           <li>War-Camp Parchment artwork and app icons · Created for Kanji Practice with <a href="https://openai.com/policies/terms-of-use/#content">OpenAI image generation</a>.</li>
         </ul>
         <p><a href="https://www.edrdg.org/edrdg/licence.html">EDRDG attribution terms</a> · <a href="https://github.com/bhov9/Kanji-Study-App/blob/main/THIRD-PARTY-NOTICES.md">Full project notices</a></p>
       </div>
     </section>
+    <section id="feedback-view" aria-labelledby="feedback-title" hidden>
+      <div class="view-bar"><button class="quiet return-menu" type="button">Return to Menu</button></div>
+      <h2 id="feedback-title" tabindex="-1">Feedback Summary</h2>
+      <div class="card feedback-summary">
+        <div class="feedback-actions">
+          <button id="copy-feedback" type="button">Copy All</button>
+          <button id="clear-feedback" type="button">Clear All</button>
+        </div>
+        <p id="feedback-status" role="status"></p>
+        <ol id="feedback-list"></ol>
+        <textarea id="feedback-copy-text" aria-label="Feedback to copy" rows="6" readonly hidden></textarea>
+      </div>
+    </section>
     <p id="offline" class="offline" hidden>Ready for offline study</p>
   </main>
+  <dialog id="study-feedback" aria-labelledby="study-feedback-title">
+    <form class="dialog-header" method="dialog">
+      <h2 id="study-feedback-title">Feedback</h2><button class="quiet">Close</button>
+    </form>
+    <div id="study-feedback-form"></div>
+  </dialog>
   <dialog id="edit-progress" aria-labelledby="edit-progress-title">
     <div class="dialog-header">
       <h2 id="edit-progress-title">Edit Progress</h2>
@@ -205,6 +223,7 @@ layout: none
       <div><p id="detail-grade"></p><p id="detail-status" role="status"></p></div>
     </div>
     <div id="detail-content"></div>
+    <div id="detail-feedback"></div>
     <section class="detail-review" aria-labelledby="detail-review-title">
       <h3 id="detail-review-title">Review statistics</h3>
       <p id="detail-no-reviews" hidden>No reviews recorded.</p>

@@ -18,7 +18,7 @@ export function readingCue(word, targets) {
   for (const [index, text] of readingParts.entries()) {
     const underline = tested.has(spelling[index]);
     const previous = parts.at(-1);
-    if (previous?.tested === underline) previous.text += text;
+    if (!underline && previous?.tested === false) previous.text += text;
     else parts.push({ text, tested: underline });
   }
   return { parts, hint: '' };
