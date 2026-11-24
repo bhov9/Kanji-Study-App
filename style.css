@@ -268,12 +268,6 @@ dialog::backdrop { background: #292219a0; }
 .feedback-text { white-space: pre-wrap; overflow-wrap: anywhere; }
 #feedback-list { padding-inline-start: 1.5rem; }
 #feedback-list li + li { margin-top: 1rem; }
-.guided-practice > summary {
-  padding-inline: .8rem;
-  border: 1px solid var(--line);
-  border-radius: .4rem;
-  background: #f7eedf;
-}
 .guided-boxes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: .75rem; margin-top: .75rem; }
 .guided-boxes .stroke-title { margin: 0; font-size: 1.2rem; }
 .guided-board { width: min(100%, 17rem); touch-action: none; user-select: none; }
