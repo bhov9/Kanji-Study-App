@@ -64,7 +64,7 @@ async function prepareBox(box, character, panel) {
 
   const board = svgElement('svg', {
     viewBox: '0 0 109 109', role: 'img', 'aria-label': `Tracing box for ${character}`,
-    class: 'stroke-guide guided-board',
+    class: 'stroke-guide guided-board handwriting-surface',
   });
   const paths = data.map(d => svgElement('path', { d }));
   const finger = svgElement('path', { class: 'guided-finger' });
@@ -83,11 +83,11 @@ async function prepareBox(box, character, panel) {
     demo.setAttribute('hidden', '');
   }
 
-  function clearFinger() {
+  function clearFinger(release = true) {
     const pointer = active?.pointer;
     active = undefined;
     finger.removeAttribute('d');
-    if (pointer !== undefined && board.hasPointerCapture(pointer)) board.releasePointerCapture(pointer);
+    if (release && pointer !== undefined && board.hasPointerCapture(pointer)) board.releasePointerCapture(pointer);
   }
 
   function refresh(message = '') {
@@ -160,12 +160,13 @@ async function prepareBox(box, character, panel) {
     if (active?.pointer !== event.pointerId) return;
     record(event);
     const accepted = matchesStroke(active.points, paths[next]);
+    clearFinger(false);
     if (accepted) next++;
     refresh(accepted ? '' : 'Try again. Start at the dot and follow the highlighted stroke.');
   });
   for (const type of ['pointercancel', 'lostpointercapture']) {
     board.addEventListener(type, event => {
-      if (active?.pointer === event.pointerId) clearFinger();
+      if (active?.pointer === event.pointerId) clearFinger(false);
     });
   }
   panel.addEventListener('toggle', () => {
@@ -178,7 +179,7 @@ async function prepareBox(box, character, panel) {
 }
 
 export function createGuidedPractice(character) {
-  const panel = element('details', '', 'guided-practice');
+  const panel = element('details', '', 'guided-practice handwriting-interface');
   const boxes = element('div', '', 'guided-boxes');
   const credit = element('p', '', 'stroke-credit');
   const source = element('a', 'KanjiVG');
@@ -190,7 +191,6 @@ export function createGuidedPractice(character) {
   panel.addEventListener('toggle', () => {
     if (!panel.open || boxes.childElementCount) return;
     const box = element('section', '', 'stroke-content');
-    box.addEventListener('contextmenu', event => event.preventDefault());
     const title = element('h4', character, 'stroke-title');
     title.lang = 'ja';
     box.setAttribute('aria-label', `Practice ${character}`);

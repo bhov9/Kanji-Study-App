@@ -209,12 +209,13 @@ dialog::backdrop { background: #292219a0; }
 #write[aria-expanded="true"] { border-color: var(--indigo); box-shadow: inset 0 0 0 1px var(--indigo); }
 #handwriting { margin: 1rem 0; }
 #writing-boxes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: .85rem; }
-.writing-pad, .guided-boxes .stroke-content {
+.handwriting-interface, .writing-pad {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   user-select: none;
 }
-.writing-pad canvas, .guided-board { touch-action: none; }
+.handwriting-surface { touch-action: none; }
+.handwriting-interface button { touch-action: manipulation; }
 .writing-pad { min-width: 0; width: 100%; max-width: 15rem; margin-inline: auto; color: var(--muted); font-size: .875rem; text-align: center; }
 .writing-pad canvas {
   display: block;

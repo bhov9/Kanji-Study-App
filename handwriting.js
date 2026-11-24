@@ -8,6 +8,23 @@ export function setupHandwriting() {
   let active;
   let writingMode = false;
   let revealed = false;
+  let pointerStartedOnSurface = false;
+  document.addEventListener('contextmenu', event => {
+    if (event.target.closest('.handwriting-interface, .writing-pad')) event.preventDefault();
+  }, true);
+  document.addEventListener('pointerdown', event => {
+    if (event.isPrimary && event.button === 0) {
+      pointerStartedOnSurface = Boolean(event.target.closest('.handwriting-surface'));
+    }
+  }, true);
+  // A stroke can still synthesize a click after pointer capture ends. A new
+  // intentional press starts its own pointer sequence. Keyboard clicks pass.
+  document.addEventListener('click', event => {
+    if (!pointerStartedOnSurface || event.detail === 0) return;
+    pointerStartedOnSurface = false;
+    event.preventDefault();
+    event.stopImmediatePropagation();
+  }, true);
   const observer = new ResizeObserver(entries => {
     for (const { target } of entries) {
       const pad = pads.find(item => item.canvas === target);
@@ -59,20 +76,20 @@ export function setupHandwriting() {
     return { x: clamp((event.clientX - rect.left) / rect.width), y: clamp((event.clientY - rect.top) / rect.height) };
   }
 
-  function stopStroke() {
+  function stopStroke(release = true) {
     if (!active) return;
     const { pad, pointer } = active;
     active = undefined;
-    if (pad.canvas.hasPointerCapture(pointer)) pad.canvas.releasePointerCapture(pointer);
+    if (release && pad.canvas.hasPointerCapture(pointer)) pad.canvas.releasePointerCapture(pointer);
   }
 
   function makePad(character, index) {
     const box = document.createElement('div');
     box.className = 'writing-pad';
-    box.addEventListener('contextmenu', event => event.preventDefault());
     const label = document.createElement('span');
     label.textContent = `Box ${index + 1}`;
     const canvas = document.createElement('canvas');
+    canvas.className = 'handwriting-surface';
     canvas.tabIndex = 0;
     canvas.setAttribute('aria-label', `Writing box ${index + 1}`);
     const tools = document.createElement('div');
@@ -117,7 +134,7 @@ export function setupHandwriting() {
     });
     for (const type of ['pointerup', 'pointercancel', 'lostpointercapture']) {
       canvas.addEventListener(type, event => {
-        if (active?.pointer === event.pointerId && active.pad === pad) stopStroke();
+        if (active?.pointer === event.pointerId && active.pad === pad) stopStroke(false);
       });
     }
     observer.observe(canvas);
