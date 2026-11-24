@@ -97,7 +97,7 @@ export function setupHandwriting() {
     tools.setAttribute('role', 'group');
     tools.setAttribute('aria-label', `Controls for writing box ${index + 1}`);
     box.append(label, canvas, tools);
-    const pad = { character, canvas, box, tools, strokes: [], frame: 0 };
+    const pad = { character, canvas, box, strokes: [], frame: 0 };
     function addControl(text, change) {
       const button = document.createElement('button');
       button.type = 'button';
@@ -110,11 +110,12 @@ export function setupHandwriting() {
         updateControls();
       });
       tools.append(button);
+      return button;
     }
     function updateControls() {
       for (const button of tools.children) button.disabled = !pad.strokes.length;
     }
-    addControl('Undo Last Stroke', () => pad.strokes.pop());
+    pad.undo = addControl('Undo Last Stroke', () => pad.strokes.pop());
     addControl('Clear', () => { pad.strokes.length = 0; });
     canvas.addEventListener('pointerdown', event => {
       if (active || event.button !== 0) return;
@@ -168,7 +169,7 @@ export function setupHandwriting() {
     reveal() {
       stopStroke();
       revealed = true;
-      for (const pad of pads) pad.tools.hidden = true;
+      for (const pad of pads) pad.undo.hidden = true;
       updateVisibility();
       return new Map(panel.hidden ? [] : pads.map(pad => [pad.character, pad.box]));
     },

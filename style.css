@@ -246,8 +246,14 @@ dialog::backdrop { background: #292219a0; }
 .writing-correct .glyph { font-size: clamp(2.65rem, 13vw, 4.5rem); color: var(--ink); }
 .study-kanji-details h4 { margin: .75rem 0 .15rem; color: var(--indigo); }
 .study-kanji-details p { margin: .15rem 0 .45rem; overflow-wrap: anywhere; }
-#reading u { text-decoration-color: var(--crimson); text-decoration-thickness: .065em; text-underline-offset: .15em; }
-#reading u + u { margin-inline-start: .08em; }
+#reading u {
+  text-decoration: none;
+  background: linear-gradient(var(--crimson), var(--crimson)) left bottom .025em / 100% .065em no-repeat;
+}
+#reading u:has(+ u) { background-size: calc(100% - .15em) .065em; }
+@media (forced-colors: active) {
+  #reading u { text-decoration: underline; }
+}
 .okurigana { color: var(--muted); }
 #tested-positions { margin: .45rem 0 .65rem; color: var(--muted); }
 .stroke-order { margin-block: .4rem .65rem; }
