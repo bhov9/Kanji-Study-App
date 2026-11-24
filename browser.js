@@ -137,6 +137,9 @@ export function setupKanjiBrowser(getProgress, canEdit, setMemorized) {
       ['Reviews', reviews.length], ['Correct', correct], ['Incorrect', incorrect], ['Last reviewed', reviewDate.format(latest)],
     ] : [];
     if (state?.due != null && vocabularyByKanji.has(selected)) rows.push(['Next review', reviewDate.format(state.due)]);
+    if (state?.lastGrade === 'incorrect' && state.due === null && !state.memorized) {
+      rows.push(['Next review', 'After 10 other distinct kanji']);
+    }
     for (const [label, value] of rows) {
       const row = element('div', '');
       row.append(element('dt', label), element('dd', value));

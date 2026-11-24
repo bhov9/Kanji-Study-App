@@ -22,17 +22,17 @@ GitHub Pages builds the static site with Jekyll. For a local preview that render
 - Select an outcome for each review target. You can change it up to the moment you press **Next Word**, which saves the final grades together.
 - Due kanji come first. The app randomizes among words covering the oldest batch of due characters and avoids repeating the previous word when an alternative is eligible.
 - A grade opens once each character in the previous grades has been introduced or marked Memorized. Previously introduced cards remain eligible for review at every grade.
-- In **Browse Kanji → Edit Progress**, you can change individual or whole-grade Memorized statuses. **Confirm Changes** saves the pending changes together and keeps existing FSRS cards and review history.
+- In **Browse Kanji → Edit Progress**, you can change individual or whole-grade Memorized statuses. **Confirm Changes** saves the pending changes together and keeps existing streaks and review history.
 - New kanji enter in grade order while cards await review, with no daily introduction or review cap.
-- Incorrect grades keep their FSRS due dates and normally wait for 10 distinct other kanji. When the eligible pool is too small and no new or normally eligible kanji remain, a due kanji can return sooner by count. Correct grades wait for the next local calendar day and the end of the current session, in addition to the FSRS due date.
-- **Guided Writing** opens per tested kanji after revealing the answer. Tracing does not change grades or FSRS cards.
-- [ts-fsrs 5.2.3](https://www.npmjs.com/package/ts-fsrs/v/5.2.3) supplies FSRS-6 with a target retention of 90%. Correct maps to Good, and Incorrect maps to Again. Learning and relearning use 10- and 30-minute steps.
+- Consecutive Correct grades schedule reviews after 1, 3, 7, 14, and 28 elapsed days. Six Correct grades make a kanji ready for manual memorization. Further Correct grades keep that status and schedule another review in 28 days.
+- Incorrect resets the streak and queues the kanji until 10 distinct other kanji have been graded. Only then does it receive a due date. Kanji in the same submission as the miss and optional practice do not count.
+- **Guided Writing** opens per tested kanji after revealing the answer. Tracing does not change grades or review dates.
 - Memorized suspends the kanji across the deck. Use Progress to reactivate it for immediate review.
 - Progress and feedback stay in separate local storage records. A backup includes both. Restoring an older backup replaces progress and retains current feedback. Keep word IDs stable when editing the deck so earlier review events retain their vocabulary context.
 
-The app reads both original and current backups. It reconstructs FSRS memory state from earlier grades and preserves existing due dates and Memorized statuses. The first successful save writes the updated format under the same browser storage key.
+The app reads earlier and current backups. It reconstructs streaks and recalculates active due dates from recorded grades. It preserves the original review history and Memorized statuses. The first successful save writes the updated format under the same browser storage key.
 
-Browse Kanji includes the entire curriculum. Normal FSRS study selects from the vocabulary in `data.js`. Memorizing a kanji from the browser updates its status without adding a vocabulary review. Reactivating a previously studied kanji makes it eligible for review. A browser-only kanji returns to Not Started when reactivated.
+Browse Kanji includes the entire curriculum. Study selects from the vocabulary in `data.js`. Memorizing a kanji from the browser updates its status without adding a vocabulary review. Reactivating a previously studied kanji restores its schedule. A browser-only kanji returns to Not Started when reactivated.
 
 Run the curriculum, grading, scheduling, and migration tests with `node --test tests/*.test.mjs` from this directory.
 

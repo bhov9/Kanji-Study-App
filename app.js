@@ -11,8 +11,8 @@ import { appendDictionaryReadings } from './dictionary-readings.js';
 import { createStrokeOrder } from './stroke-order.js';
 import { setupProgressEditor } from './progress-editor.js';
 import {
-  applyMemorization, chooseWord, freshProgress, markMemorized, parseProgress, reactivate,
-  startOfDay, submitWord, unlockedGrade,
+  applyMemorization, chooseWord, freshProgress, isDue, lastGradeLabel, markMemorized, minimumIncorrectSeparation,
+  parseProgress, reactivate, startOfDay, submitWord, unlockedGrade,
 } from './study.js';
 
 const storageKey = 'kanji-practice.progress';
@@ -27,7 +27,6 @@ let current;
 let submitting = false;
 let view = 'menu';
 const selections = new Map();
-const sessionCorrect = new Set();
 const handwriting = setupHandwriting();
 const renderFeedbackSummary = setupFeedbackSummary();
 
@@ -82,7 +81,7 @@ function updateStats() {
   const introduced = states.filter(character => !progress.characters[character].browserOnly).length;
   const due = states.filter(character => {
     const state = progress.characters[character];
-    return studyableCharacters.has(character) && !state.memorized && state.due <= now;
+    return studyableCharacters.has(character) && isDue(state, now);
   }).length;
   const memorized = states.filter(character => progress.characters[character].memorized).length;
   byId('introduced').textContent = introduced;
@@ -110,7 +109,7 @@ function showWord(focus = false) {
     return;
   }
   const now = Date.now();
-  current = storageReadable ? chooseWord(words, progress, now, Math.random, sessionCorrect) : null;
+  current = storageReadable ? chooseWord(words, progress, now) : null;
   handwriting.reset(current?.targets ?? []);
   byId('show-answer').hidden = !current;
   byId('check-reviews').hidden = Boolean(current || !storageReadable);
@@ -128,9 +127,10 @@ function showWord(focus = false) {
   } else {
     reading.removeAttribute('lang');
     reading.textContent = storageReadable ? 'No kanji ready for review' : 'Progress unavailable';
-    const waiting = Number(byId('due').textContent) > 0;
+    const waiting = Object.values(progress.characters).some(state =>
+      !state.memorized && state.lastGrade === 'incorrect' && state.due === null);
     byId('meaning').textContent = storageReadable
-      ? (waiting ? 'Some due kanji are still waiting for spacing. Check again later.' :
+      ? (waiting ? `Missed kanji need ${minimumIncorrectSeparation} other distinct kanji graded before they can return.` :
         'Return later for scheduled reviews.')
       : 'Open Progress to restore a backup.';
   }
@@ -138,7 +138,6 @@ function showWord(focus = false) {
 }
 
 function navigate(nextView) {
-  if (view === 'study' && nextView !== 'study') sessionCorrect.clear();
   view = nextView;
   for (const name of ['menu', 'study', 'browser', 'history', 'sources', 'feedback']) byId(`${name}-view`).hidden = name !== view;
   window.scrollTo(0, 0);
@@ -285,7 +284,7 @@ function renderCharacter(character, writingBox) {
       });
       controls.append(button);
     }
-    card.append(controls);
+    card.append(node('p', `Last Grade: ${lastGradeLabel(progress.characters[character])}`, 'last-grade'), controls);
     card.append(createGuidedPractice(character), createStrokeOrder(character));
   }
   card.append(renderKanjiDetails(character), characterFeedback(studyFeedbackContext(character)));
@@ -313,9 +312,7 @@ byId('next').addEventListener('click', async () => {
   submitting = true;
   byId('next').disabled = true;
   try {
-    const correct = [...selections].filter(([, outcome]) => outcome === 'correct');
     if (await save(submitWord(progress, current, selections))) {
-      for (const [character] of correct) sessionCorrect.add(character);
       showWord(true);
     }
   } catch {

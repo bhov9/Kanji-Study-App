@@ -20,7 +20,7 @@ test('coverage and progression use the entire curriculum, including rarely teste
   }
 });
 
-test('bulk edits leave history and FSRS cards intact and can re-lock new kanji without blocking existing reviews', () => {
+test('bulk edits preserve history and streaks and can re-lock new kanji without blocking existing reviews', () => {
   const fresh = freshProgress();
   const now = 1_800_000_000_000;
   const gradeOne = groups[0].characters.map(character => [character, true]);
@@ -32,7 +32,7 @@ test('bulk edits leave history and FSRS cards intact and can re-lock new kanji w
   const character = prompt.targets[0];
   const reopened = applyMemorization(studied, [[groups[0].characters[0], false], [character, true]], now);
   assert.equal(unlockedGrade(reopened.characters), 1);
-  assert.deepEqual(reopened.characters[character].card, studied.characters[character].card);
+  assert.equal(reopened.characters[character].pausedDue, studied.characters[character].due);
   assert.deepEqual(reopened.reviews, studied.reviews);
   const restored = applyMemorization(reopened, [[character, false]], now);
   const matching = words.filter(word => word.characters.includes(character));
@@ -40,5 +40,5 @@ test('bulk edits leave history and FSRS cards intact and can re-lock new kanji w
   assert.equal(restored.characters[character].due, studied.characters[character].due);
   assert(chooseWord(matching, restored, Math.max(tomorrow, restored.characters[character].due), () => 0)
     .targets.includes(character));
-  assert.deepEqual(restored.characters[character].card, studied.characters[character].card);
+  assert.deepEqual(restored.characters[character], studied.characters[character]);
 });

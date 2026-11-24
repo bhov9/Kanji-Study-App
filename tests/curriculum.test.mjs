@@ -52,7 +52,7 @@ test('browsing can suspend and restart a studied kanji without altering its revi
   assert.deepEqual(parseProgress(JSON.stringify(paused)), paused);
   assert(!chooseWord(words, paused, now, () => 0).targets.includes(character));
   const resumed = reactivate(paused, character, now + 1);
-  assert.deepEqual(resumed.characters[character].card, studied.characters[character].card);
+  assert.deepEqual(resumed.characters[character], studied.characters[character]);
   assert.deepEqual(resumed.reviews, studied.reviews);
   const matching = words.filter(word => word.characters.includes(character));
   const tomorrow = new Date(now).setHours(24, 0, 0, 0);

@@ -7,8 +7,7 @@ const cacheName = `${prefix}{{ site.time | date: "%s" }}-{{ site.github.build_re
 const appShell = [
   './', './index.html', './style.css', './app.js', './data.js', './study.js',
   './manifest.webmanifest', './icons/jinchu-apple.png', './icons/jinchu-192.png', './icons/jinchu-512.png',
-  './vendor/ts-fsrs.js',
-  './vendor/ts-fsrs.LICENSE', './stroke-data/KANJIVG-LICENSE.txt', './licenses/CC-BY-SA-4.0.txt',
+  './stroke-data/KANJIVG-LICENSE.txt', './licenses/CC-BY-SA-4.0.txt',
   './browser.js', './curriculum.js', './kanji-reference.js',
   './art/war-camp.webp', './examples.js',
   './handwriting.js', './guided-practice.js',

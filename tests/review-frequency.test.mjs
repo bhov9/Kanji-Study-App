@@ -5,17 +5,18 @@ import { chooseHandwritingWord, chooseWord, freshProgress, minimumIncorrectSepar
 
 const now = new Date(2026, 10, 21, 9).getTime();
 const minute = 60_000;
+const day = 1440 * minute;
 const first = () => 0;
 const word = (...characters) => ({ id: characters.join(''), characters });
 const deck = groups[0].characters.slice(0, 35).map(character => word(character));
 const grade = (progress, entry, outcome, at = now) => submitWord(progress,
   { word: entry, targets: entry.characters }, new Map(entry.characters.map(character => [character, outcome])), at);
 
-test('an incorrect card needs both FSRS time and ten distinct other tested kanji', () => {
+test('an incorrect grade waits for ten distinct other tested kanji and then restarts at Correct 1', () => {
   const missed = deck[0];
   const [character] = missed.characters;
   let progress = grade(freshProgress(), missed, 'incorrect');
-  assert.equal(progress.characters[character].due, now + 10 * minute);
+  assert.equal(progress.characters[character].due, null);
   for (let index = 1; index < minimumIncorrectSeparation; index++) {
     progress = grade(progress, deck[index], 'correct', now + index);
   }
@@ -24,9 +25,11 @@ test('an incorrect card needs both FSRS time and ten distinct other tested kanji
   progress.reviews.push({ ...repeated, character: deck[10].characters[0], at: now + 101, practice: true });
   assert(!chooseWord(deck, progress, now + 10 * minute, first).targets.includes(character));
   progress = grade(progress, deck[10], 'correct', now + 200);
-  assert(!chooseWord(deck, progress, now + 9 * minute, first).targets.includes(character));
-  assert.deepEqual(chooseWord(deck, progress, now + 10 * minute, first).targets, [character]);
-  assert.deepEqual(chooseWord(deck, parseProgress(JSON.stringify(progress)), now + 10 * minute, first).targets, [character]);
+  assert.equal(progress.characters[character].due, now + 200);
+  assert.deepEqual(chooseWord(deck, progress, now + 200, first).targets, [character]);
+  assert.deepEqual(chooseWord(deck, parseProgress(JSON.stringify(progress)), now + 200, first).targets, [character]);
+  assert.equal(grade(progress, missed, 'correct', now + 200).characters[character].correctStreak, 1);
+  assert.equal(grade(progress, missed, 'correct', now + 200).characters[character].due, now + 200 + day);
 });
 
 test('the same vocabulary submission does not count as separation', () => {
@@ -37,27 +40,39 @@ test('the same vocabulary submission does not count as separation', () => {
   assert(!chooseWord([pair, ...deck], progress, now + 10 * minute, first).targets.includes(a));
 });
 
-test('correct answers wait for the following local day, the end of the session and the FSRS date', () => {
+test('migration releases a missed kanji at the tenth distinct historical grade without rewriting the log', () => {
+  const [character] = deck[0].characters;
+  const reviews = deck.slice(0, 11).map(({ id, characters: [kanji] }, index) => ({
+    character: kanji, wordId: id, outcome: index ? 'correct' : 'incorrect',
+    at: now + index, due: now + minute,
+  })).reverse();
+  const legacy = {
+    version: 2, newPerDay: 5, reviews,
+    characters: { [character]: { card: null, due: now + minute, memorized: false, introducedAt: now } },
+  };
+  const migrated = parseProgress(JSON.stringify(legacy));
+  assert.deepEqual(migrated.reviews, reviews);
+  assert.equal(migrated.characters[character].due, now + 10);
+  assert.equal(chooseWord([deck[0]], migrated, now + 9, first), null);
+  assert.deepEqual(chooseWord([deck[0]], migrated, now + 10, first).targets, [character]);
+});
+
+test('correct answers become eligible at exactly 24 elapsed hours', () => {
   const [entry] = deck;
   const [character] = entry.characters;
   const progress = grade(freshProgress(), entry, 'correct');
-  const tomorrow = new Date(2026, 10, 22).getTime();
-  assert.equal(progress.characters[character].due, now + 30 * minute);
-  assert.equal(chooseWord([entry], progress, now + 40 * minute, first), null);
-  assert.equal(chooseWord([entry], progress, tomorrow, first, new Set([character])), null);
-  assert.deepEqual(chooseWord([entry], progress, tomorrow, first).targets, [character]);
-  const late = grade(freshProgress(), entry, 'correct', tomorrow - 5 * minute);
-  assert.equal(chooseWord([entry], late, tomorrow, first), null);
-  assert.deepEqual(chooseWord([entry], late, tomorrow + 25 * minute, first).targets, [character]);
+  assert.equal(progress.characters[character].due, now + day);
+  assert.equal(chooseWord([entry], progress, now + day - 1, first), null);
+  assert.deepEqual(chooseWord([entry], progress, now + day, first).targets, [character]);
 });
 
-test('a small pool waits out FSRS timing and avoids the last missed kanji if possible', () => {
+test('a small pool never bypasses the separation rule', () => {
   const [a, b] = deck;
   let progress = grade(freshProgress(), a, 'incorrect');
-  assert.equal(chooseWord([a], progress, now + 9 * minute, first), null);
-  assert.deepEqual(chooseWord([a], progress, now + 10 * minute, first).targets, a.characters);
+  assert.equal(chooseWord([a], progress, now + day, first), null);
+  assert.throws(() => grade(progress, a, 'correct', now + day));
   progress = grade(progress, b, 'incorrect', now + 1);
-  assert.deepEqual(chooseWord([a, b], progress, now + 11 * minute, first).targets, a.characters);
+  assert.equal(chooseWord([a, b], progress, now + day, first), null);
 });
 
 test('mixed words exclude cooled-down kanji and new study has no daily cap', () => {

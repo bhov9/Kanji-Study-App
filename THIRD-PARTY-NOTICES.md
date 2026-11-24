@@ -25,7 +25,7 @@ Copyright © James William Breen and the Electronic Dictionary Research and Deve
 
 ## Review scheduler
 
-[ts-fsrs 5.2.3](https://github.com/open-spaced-repetition/ts-fsrs/tree/v5.2.3) is copyright © 2025 Open Spaced Repetition. The [MIT License](vendor/ts-fsrs.LICENSE) permits redistribution and modification with preservation of its copyright and permission notices. The app bundles the browser module in `vendor/ts-fsrs.js` and distributes the full notice with it.
+[ts-fsrs 5.2.3](https://github.com/open-spaced-repetition/ts-fsrs/tree/v5.2.3) is copyright © 2025 Open Spaced Repetition. The library from earlier releases remains in the repository with its [MIT License](vendor/ts-fsrs.LICENSE). Current GitHub Pages builds exclude the library.
 
 ## Artwork and fonts
 

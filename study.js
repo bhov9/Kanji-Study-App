@@ -1,20 +1,13 @@
 import { curriculumGrades, groups } from './curriculum.js';
-import { createEmptyCard, fsrs, Rating } from './vendor/ts-fsrs.js';
-
 const hour = 60 * 60_000;
+const day = 24 * hour;
 const outcomes = ['correct', 'incorrect', 'memorized'];
-const scheduler = fsrs({
-  request_retention: 0.9,
-  learning_steps: ['10m', '30m'],
-  relearning_steps: ['10m', '30m'],
-  enable_short_term: true,
-  enable_fuzz: false,
-});
+const correctIntervals = [1, 3, 7, 14, 28, 28];
+const maxDate = 8.64e15;
 
 export const minimumIncorrectSeparation = 10;
 export const freshProgress = () => ({
-  // Keep the former setting in v2 exports for compatibility with earlier builds.
-  version: 2, newPerDay: 5, characters: {}, reviews: [],
+  version: 3, newPerDay: 5, characters: {}, reviews: [],
 });
 
 export function startOfDay(now) {
@@ -23,71 +16,69 @@ export function startOfDay(now) {
   return day.getTime();
 }
 
-function schedule(card, outcome, at) {
-  const now = new Date(at);
-  const input = card ? {
-    ...card,
-    due: new Date(card.due),
-    last_review: new Date(card.last_review),
-  } : createEmptyCard(now);
-  const rating = outcome === 'correct' ? Rating.Good : Rating.Again;
-  const next = scheduler.next(input, now, rating).card;
-  return { ...next, due: next.due.getTime(), last_review: next.last_review.getTime() };
+function gradeSchedule(previous, outcome, at) {
+  const correctStreak = outcome === 'correct' ? Math.min((previous?.correctStreak ?? 0) + 1, correctIntervals.length) : 0;
+  const due = correctStreak ? Math.min(at + correctIntervals[correctStreak - 1] * day, maxDate) : null;
+  return { correctStreak, lastGrade: outcome, due };
 }
 
-function isDue(state, now) {
-  return state && !state.memorized && state.due <= now;
+export function lastGradeLabel(state) {
+  if (state?.lastGrade === 'incorrect') return 'Incorrect';
+  if (!state?.correctStreak) return 'Not yet graded';
+  return state.correctStreak === correctIntervals.length ? 'Ready to mark as memorized' : `Correct ${state.correctStreak}`;
+}
+
+export function isDue(state, now) {
+  return state && !state.memorized && state.due !== null && state.due <= now;
+}
+
+function releaseMissedReviews(characters, reviews) {
+  const pending = new Set(Object.entries(characters).filter(([, state]) =>
+    state.lastGrade === 'incorrect' && (state.memorized ? state.pausedDue : state.due) === null).map(([character]) => character));
+  if (!pending.size) return;
+  // Legacy backups can retain log entries out of timestamp order.
+  if (reviews.some((review, index) => index > 0 && review.at < reviews[index - 1].at)) {
+    reviews = [...reviews].sort((a, b) => a.at - b.at);
+  }
+  const misses = new Map();
+  for (const [index, review] of reviews.entries()) {
+    if (!review.practice && review.outcome === 'incorrect' && pending.has(review.character)) misses.set(review.character, index);
+  }
+  for (const [character, index] of misses) {
+    const miss = reviews[index];
+    const others = new Set();
+    for (let i = index + 1; i < reviews.length; i++) {
+      const review = reviews[i];
+      if (review.practice || review.character === character ||
+        (review.at === miss.at && review.wordId === miss.wordId)) continue;
+      others.add(review.character);
+      if (others.size === minimumIncorrectSeparation) {
+        const state = characters[character];
+        const due = Math.max(miss.at, review.at);
+        characters[character] = state.memorized ? { ...state, pausedDue: due } : { ...state, due };
+        break;
+      }
+    }
+  }
 }
 
 export function unlockedGrade(characters) {
   return groups.find(group => group.characters.some(character => !characters[character]))?.grade ?? groups.length;
 }
 
-function latestReviews(reviews) {
-  const latest = new Map();
-  for (const [index, review] of reviews.entries()) {
-    if (!review.practice) latest.set(review.character, { review, index });
-  }
-  return latest;
-}
-
-export function chooseWord(words, progress, now, random = Math.random, sessionCorrect = new Set()) {
+export function chooseWord(words, progress, now, random = Math.random) {
   const { characters, reviews } = progress;
   const grade = unlockedGrade(characters);
   const matching = eligible => words.map(word => ({
     word,
     targets: word.characters.filter(character => eligible.has(character)),
   })).filter(candidate => candidate.targets.length);
-  const latest = latestReviews(reviews);
-  const today = startOfDay(now);
   const fresh = new Set();
   const due = new Set();
   for (const character of new Set(words.flatMap(word => word.characters))) {
     const state = characters[character];
     if (!state && curriculumGrades.get(character) === grade) fresh.add(character);
-    if (!isDue(state, now) || sessionCorrect.has(character)) continue;
-    const previous = latest.get(character)?.review;
-    if (previous?.outcome === 'correct' && previous.at >= today) continue;
-    due.add(character);
-  }
-
-  const eligible = new Set(due);
-  const waitingIncorrect = new Set();
-  for (const character of due) {
-    const previous = latest.get(character);
-    if (previous?.review.outcome !== 'incorrect') continue;
-    const studiedAfter = new Set();
-    for (const [other, record] of latest) {
-      const sameSubmission = record.review.at === previous.review.at &&
-        record.review.wordId === previous.review.wordId;
-      if (record.index > previous.index && !sameSubmission) {
-        studiedAfter.add(other);
-        if (studiedAfter.size >= minimumIncorrectSeparation) break;
-      }
-    }
-    if (studiedAfter.size >= minimumIncorrectSeparation) continue;
-    eligible.delete(character);
-    waitingIncorrect.add(character);
+    if (isDue(state, now)) due.add(character);
   }
 
   let lastReview;
@@ -97,19 +88,9 @@ export function chooseWord(words, progress, now, random = Math.random, sessionCo
       break;
     }
   }
-  let candidates = matching(eligible);
-  let reviewing = candidates.length > 0;
+  let candidates = matching(due);
+  const reviewing = candidates.length > 0;
   if (!reviewing) candidates = matching(fresh);
-  // The remaining due cards can all be waiting on one another. Relax the
-  // count only after exhausting other work, and never before the FSRS due time.
-  if (!candidates.length && waitingIncorrect.size) {
-    const nonrepeating = new Set([...waitingIncorrect].filter(character => {
-      const previous = latest.get(character).review;
-      return previous.at !== lastReview.at || previous.wordId !== lastReview.wordId;
-    }));
-    candidates = matching(nonrepeating.size ? nonrepeating : waitingIncorrect);
-    reviewing = true;
-  }
 
   if (!candidates.length) return null;
   if (reviewing) {
@@ -159,11 +140,14 @@ export function submitWord(progress, prompt, selections, at = Date.now()) {
     const outcome = selections.get(character);
     const previous = characters[character];
     const memorized = outcome === 'memorized';
-    const card = memorized ? previous?.card ?? null : schedule(previous?.card, outcome, at);
-    const due = memorized ? null : card.due;
-    characters[character] = { memorized, due, card, introducedAt: previous ? previous.introducedAt : at };
-    reviews.push({ wordId: word.id, character, outcome, at, due });
+    const schedule = memorized
+      ? { correctStreak: previous?.correctStreak ?? 0, lastGrade: previous?.lastGrade ?? null,
+          due: null, pausedDue: previous?.due ?? null }
+      : gradeSchedule(previous, outcome, at);
+    characters[character] = { memorized, introducedAt: previous ? previous.introducedAt : at, ...schedule };
+    reviews.push({ wordId: word.id, character, outcome, at, due: schedule.due });
   }
+  releaseMissedReviews(characters, reviews);
   return { ...progress, characters, reviews };
 }
 
@@ -173,12 +157,13 @@ export function applyMemorization(progress, changes, now = Date.now()) {
     const previous = characters[character];
     if (Boolean(previous?.memorized) === memorized) continue;
     if (memorized) {
-      const state = previous ?? { card: null, introducedAt: null, browserOnly: true };
-      characters[character] = { ...state, due: null, memorized: true };
+      const state = previous ?? { correctStreak: 0, lastGrade: null, introducedAt: null, browserOnly: true };
+      characters[character] = { ...state, due: null, pausedDue: state.due ?? null, memorized: true };
     } else if (previous.browserOnly) {
       delete characters[character];
     } else {
-      characters[character] = { ...previous, due: previous.card?.due ?? now, memorized: false };
+      const { pausedDue, ...state } = previous;
+      characters[character] = { ...state, due: pausedDue ?? (state.lastGrade === 'incorrect' ? null : now), memorized: false };
     }
   }
   return { ...progress, characters };
@@ -193,7 +178,7 @@ export function reactivate(progress, character, now = Date.now()) {
 }
 
 const validNewPerDay = value => Number.isInteger(value) && value >= 0 && value <= 20;
-const isDate = value => Number.isSafeInteger(value) && value >= 0 && value <= 8.64e15;
+const isDate = value => Number.isSafeInteger(value) && value >= 0 && value <= maxDate;
 const isKanji = value => typeof value === 'string' && /^\p{Script=Han}$/u.test(value);
 const isCount = value => Number.isSafeInteger(value) && value >= 0;
 
@@ -206,24 +191,42 @@ function validCard(card) {
 }
 
 function migrateLegacy(data) {
-  const cards = new Map();
+  const schedules = new Map();
   const introduced = new Map();
-  for (const review of [...data.reviews].sort((a, b) => a.at - b.at)) {
+  const orderedReviews = [...data.reviews].sort((a, b) => a.at - b.at);
+  for (const review of orderedReviews) {
+    if (review.practice) continue;
     if (!introduced.has(review.character)) introduced.set(review.character, review.at);
-    const card = review.outcome === 'memorized' ? null :
-      schedule(cards.get(review.character), review.outcome, review.at);
-    cards.set(review.character, card);
+    if (review.outcome !== 'memorized') {
+      schedules.set(review.character, gradeSchedule(schedules.get(review.character), review.outcome, review.at));
+    }
   }
-  const characters = Object.fromEntries(Object.entries(data.characters).map(([character, state]) => [
-    character,
-    {
+  const characters = Object.fromEntries(Object.entries(data.characters).map(([character, state]) => {
+    const schedule = schedules.get(character);
+    const due = schedule ? schedule.due : state.due;
+    return [character, {
       memorized: state.memorized,
-      due: state.due,
-      card: state.memorized ? null : cards.get(character) ?? null,
-      introducedAt: introduced.get(character) ?? null,
-    },
-  ]));
-  return { ...freshProgress(), characters, reviews: data.reviews };
+      correctStreak: schedule?.correctStreak ?? 0,
+      lastGrade: schedule?.lastGrade ?? null,
+      introducedAt: data.version === 1 ? introduced.get(character) ?? null : state.introducedAt,
+      due: state.memorized ? null : due,
+      ...(state.memorized ? { pausedDue: due } : {}),
+      ...(state.browserOnly ? { browserOnly: true } : {}),
+    }];
+  }));
+  releaseMissedReviews(characters, orderedReviews);
+  return { ...data, ...freshProgress(), newPerDay: validNewPerDay(data.newPerDay) ? data.newPerDay : 5,
+    characters, reviews: data.reviews };
+}
+
+function validStreak(state) {
+  return isCount(state.correctStreak) && state.correctStreak <= correctIntervals.length &&
+    (state.correctStreak ? state.lastGrade === 'correct' : state.lastGrade === null || state.lastGrade === 'incorrect') &&
+    (state.introducedAt === null || isDate(state.introducedAt)) &&
+    (state.memorized ? state.due === null && (state.pausedDue === null || isDate(state.pausedDue)) :
+      state.pausedDue === undefined && (isDate(state.due) || (state.due === null && state.lastGrade === 'incorrect'))) &&
+    (state.browserOnly === undefined || (state.browserOnly === true && state.memorized &&
+      state.introducedAt === null && state.lastGrade === null && state.pausedDue === null));
 }
 
 export function parseProgress(raw) {
@@ -232,19 +235,20 @@ export function parseProgress(raw) {
   const statesValid = data?.characters && typeof data.characters === 'object' &&
     !Array.isArray(data.characters) && Object.entries(data.characters).every(([character, state]) =>
       isKanji(character) && state && typeof state.memorized === 'boolean' &&
-      (state.memorized ? state.due === null : isDate(state.due)) &&
+      (data.version === 3 ? validStreak(state) : (state.memorized ? state.due === null : isDate(state.due)) &&
       (legacy ? isCount(state.level) && state.level <= 7 :
         (state.introducedAt === null || isDate(state.introducedAt)) && validCard(state.card) &&
         (state.browserOnly === undefined || (state.browserOnly === true &&
-          state.memorized && state.card === null && state.introducedAt === null))));
+          state.memorized && state.card === null && state.introducedAt === null)))));
   const reviewsValid = Array.isArray(data?.reviews) && data.reviews.every(review =>
     review && typeof review.wordId === 'string' && isKanji(review.character) &&
     isDate(review.at) && outcomes.includes(review.outcome) &&
     (review.practice === undefined || (!legacy && review.practice === true)) &&
     (review.outcome === 'memorized' ? review.due === null :
-      isDate(review.due) || (review.practice === true && review.due === null)));
-  if ((!legacy && (data?.version !== 2 || !validNewPerDay(data.newPerDay))) || !statesValid || !reviewsValid) {
+      isDate(review.due) || (review.due === null &&
+        (review.practice === true || (data.version === 3 && review.outcome === 'incorrect')))));
+  if ((!legacy && (![2, 3].includes(data?.version) || !validNewPerDay(data.newPerDay))) || !statesValid || !reviewsValid) {
     throw new Error('Unrecognized progress data');
   }
-  return legacy ? migrateLegacy(data) : data;
+  return data.version === 3 ? data : migrateLegacy(data);
 }
