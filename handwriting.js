@@ -69,6 +69,7 @@ export function setupHandwriting() {
   function makePad(character, index) {
     const box = document.createElement('div');
     box.className = 'writing-pad';
+    box.addEventListener('contextmenu', event => event.preventDefault());
     const label = document.createElement('span');
     label.textContent = `Box ${index + 1}`;
     const canvas = document.createElement('canvas');

@@ -190,6 +190,7 @@ export function createGuidedPractice(character) {
   panel.addEventListener('toggle', () => {
     if (!panel.open || boxes.childElementCount) return;
     const box = element('section', '', 'stroke-content');
+    box.addEventListener('contextmenu', event => event.preventDefault());
     const title = element('h4', character, 'stroke-title');
     title.lang = 'ja';
     box.setAttribute('aria-label', `Practice ${character}`);
