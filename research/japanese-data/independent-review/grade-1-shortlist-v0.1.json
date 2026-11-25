@@ -1,0 +1,2172 @@
+{
+  "version": "0.1",
+  "sourceCommit": "7db35c979ec6f1f1e6a88dcb067690a514c14f14",
+  "purpose": "Independent educational shortlist, not finalized app deck. All 80 grade-1 source records inspected at summary level (official readings/examples, leading candidates, and existing vocabulary samples); reviewer-proposed alternatives may not appear in current capped candidate exports. Ordering is educational, not measured frequency. Use exact IDs, contextual glosses and validated mappings before implementing. No restricted local data used. Retain source attribution and applicable licenses.",
+  "sourcePaths": [
+    "../consolidation/kanji/grade-1/",
+    "../consolidation/METHODS.md",
+    "policy-pilot-v0.1.md"
+  ],
+  "records": [
+    {
+      "kanji": "一",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "一",
+          "kana": "いち"
+        },
+        {
+          "spelling": "一つ",
+          "kana": "ひとつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "一度",
+          "kana": "いちど"
+        },
+        {
+          "spelling": "一緒",
+          "kana": "いっしょ"
+        },
+        {
+          "spelling": "一言",
+          "kana": "ひとこと"
+        }
+      ],
+      "reviewNote": "ひとつ absent from reading candidates; preserve ordinary number.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "七",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "七",
+          "kana": "なな"
+        },
+        {
+          "spelling": "七",
+          "kana": "しち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "七つ",
+          "kana": "ななつ"
+        },
+        {
+          "spelling": "七日",
+          "kana": "なのか"
+        },
+        {
+          "spelling": "七月",
+          "kana": "しちがつ"
+        }
+      ],
+      "reviewNote": "Both counting readings standard; not only 七福神.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "三",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "三",
+          "kana": "さん"
+        },
+        {
+          "spelling": "三つ",
+          "kana": "みっつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "三日",
+          "kana": "みっか"
+        },
+        {
+          "spelling": "三角",
+          "kana": "さんかく"
+        }
+      ],
+      "reviewNote": "Existing 三:み not ordinary standalone count.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "上",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "上",
+          "kana": "うえ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "上げる",
+          "kana": "あげる"
+        },
+        {
+          "spelling": "上がる",
+          "kana": "あがる"
+        },
+        {
+          "spelling": "上着",
+          "kana": "うわぎ"
+        },
+        {
+          "spelling": "上下",
+          "kana": "じょうげ"
+        }
+      ],
+      "reviewNote": "Check spelling/reading alternates.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "下",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "下",
+          "kana": "した"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "下げる",
+          "kana": "さげる"
+        },
+        {
+          "spelling": "下がる",
+          "kana": "さがる"
+        },
+        {
+          "spelling": "下車",
+          "kana": "げしゃ"
+        },
+        {
+          "spelling": "下流",
+          "kana": "かりゅう"
+        },
+        {
+          "spelling": "下りる",
+          "kana": "おりる"
+        }
+      ],
+      "reviewNote": "Do not penalize multiple senses.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "中",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "中",
+          "kana": "なか"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "中心",
+          "kana": "ちゅうしん"
+        },
+        {
+          "spelling": "中学校",
+          "kana": "ちゅうがっこう"
+        },
+        {
+          "spelling": "一日中",
+          "kana": "いちにちじゅう"
+        }
+      ],
+      "reviewNote": "ジュウ suffix lacks candidates; retain as useful contextual reading.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "九",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "九",
+          "kana": "きゅう"
+        },
+        {
+          "spelling": "九",
+          "kana": "く"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "九つ",
+          "kana": "ここのつ"
+        },
+        {
+          "spelling": "九日",
+          "kana": "ここのか"
+        },
+        {
+          "spelling": "九月",
+          "kana": "くがつ"
+        }
+      ],
+      "reviewNote": "Existing 九:く valid but not only default.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "二",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "二",
+          "kana": "に"
+        },
+        {
+          "spelling": "二つ",
+          "kana": "ふたつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "二人",
+          "kana": "ふたり"
+        },
+        {
+          "spelling": "二階",
+          "kana": "にかい"
+        },
+        {
+          "spelling": "二日",
+          "kana": "ふつか"
+        }
+      ],
+      "reviewNote": "ふたつ absent; whole-word date/person counting needs mapping care.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "五",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "五",
+          "kana": "ご"
+        },
+        {
+          "spelling": "五つ",
+          "kana": "いつつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "五日",
+          "kana": "いつか"
+        },
+        {
+          "spelling": "五月",
+          "kana": "ごがつ"
+        }
+      ],
+      "reviewNote": "いつつ absent; prioritize ordinary counting.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "人",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "人",
+          "kana": "ひと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "人口",
+          "kana": "じんこう"
+        },
+        {
+          "spelling": "人生",
+          "kana": "じんせい"
+        },
+        {
+          "spelling": "人間",
+          "kana": "にんげん"
+        },
+        {
+          "spelling": "二人",
+          "kana": "ふたり"
+        }
+      ],
+      "reviewNote": "Keep common starter words; 人間 absent from early candidates.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "休",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "休む",
+          "kana": "やすむ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "休み",
+          "kana": "やすみ"
+        },
+        {
+          "spelling": "休憩",
+          "kana": "きゅうけい"
+        },
+        {
+          "spelling": "休日",
+          "kana": "きゅうじつ"
+        },
+        {
+          "spelling": "休める",
+          "kana": "やすめる"
+        }
+      ],
+      "reviewNote": "Direct verb above advanced compounds.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "先",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "先",
+          "kana": "さき"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "先生",
+          "kana": "せんせい"
+        },
+        {
+          "spelling": "先月",
+          "kana": "せんげつ"
+        },
+        {
+          "spelling": "先輩",
+          "kana": "せんぱい"
+        }
+      ],
+      "reviewNote": "Do not rank 率先 ahead of basic 先生 merely due to evidence.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "入",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "入る",
+          "kana": "はいる"
+        },
+        {
+          "spelling": "入れる",
+          "kana": "いれる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "入学",
+          "kana": "にゅうがく"
+        },
+        {
+          "spelling": "入口",
+          "kana": "いりぐち"
+        },
+        {
+          "spelling": "気に入る",
+          "kana": "きにいる"
+        }
+      ],
+      "reviewNote": "いれる missing; preserve direct common verbs.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "八",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "八",
+          "kana": "はち"
+        },
+        {
+          "spelling": "八つ",
+          "kana": "やっつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "八日",
+          "kana": "ようか"
+        },
+        {
+          "spelling": "八月",
+          "kana": "はちがつ"
+        }
+      ],
+      "reviewNote": "Existing 八:や not ordinary standalone count.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "六",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "六",
+          "kana": "ろく"
+        },
+        {
+          "spelling": "六つ",
+          "kana": "むっつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "六日",
+          "kana": "むいか"
+        },
+        {
+          "spelling": "六月",
+          "kana": "ろくがつ"
+        }
+      ],
+      "reviewNote": "Existing 六:む not ordinary standalone count.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "円",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "円",
+          "kana": "えん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "千円",
+          "kana": "せんえん"
+        },
+        {
+          "spelling": "円い",
+          "kana": "まるい"
+        },
+        {
+          "spelling": "円形",
+          "kana": "えんけい"
+        }
+      ],
+      "reviewNote": "円い valid but 丸い is more usual for round objects; teach as secondary, not default adjective. Reject 円い:まろい as beginner example.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "出",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "出る",
+          "kana": "でる"
+        },
+        {
+          "spelling": "出す",
+          "kana": "だす"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "出口",
+          "kana": "でぐち"
+        },
+        {
+          "spelling": "提出",
+          "kana": "ていしゅつ"
+        },
+        {
+          "spelling": "出発",
+          "kana": "しゅっぱつ"
+        }
+      ],
+      "reviewNote": "でる missing from candidate list.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "力",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "力",
+          "kana": "ちから"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "努力",
+          "kana": "どりょく"
+        },
+        {
+          "spelling": "能力",
+          "kana": "のうりょく"
+        },
+        {
+          "spelling": "馬力",
+          "kana": "ばりき"
+        }
+      ],
+      "reviewNote": "Existing 力める should not be default.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "十",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "十",
+          "kana": "じゅう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "十日",
+          "kana": "とおか"
+        },
+        {
+          "spelling": "十回",
+          "kana": "じゅっかい"
+        },
+        {
+          "spelling": "十回",
+          "kana": "じっかい"
+        },
+        {
+          "spelling": "十人十色",
+          "kana": "じゅうにんといろ"
+        }
+      ],
+      "reviewNote": "Reject 十:シー as とお association. Existing 十:と contextual.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "千",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "千",
+          "kana": "せん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "千円",
+          "kana": "せんえん"
+        },
+        {
+          "spelling": "千人",
+          "kana": "せんにん"
+        }
+      ],
+      "reviewNote": "Existing 千:ち contextual, not standalone count.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "口",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "口",
+          "kana": "くち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "人口",
+          "kana": "じんこう"
+        },
+        {
+          "spelling": "出口",
+          "kana": "でぐち"
+        },
+        {
+          "spelling": "口調",
+          "kana": "くちょう"
+        }
+      ],
+      "reviewNote": "Keep normal noun first.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "右",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "右",
+          "kana": "みぎ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "右手",
+          "kana": "みぎて"
+        },
+        {
+          "spelling": "右折",
+          "kana": "うせつ"
+        },
+        {
+          "spelling": "左右",
+          "kana": "さゆう"
+        }
+      ],
+      "reviewNote": "Direct direction more useful than political/technical terms.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "名",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "名前",
+          "kana": "なまえ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "有名",
+          "kana": "ゆうめい"
+        },
+        {
+          "spelling": "氏名",
+          "kana": "しめい"
+        },
+        {
+          "spelling": "名字",
+          "kana": "みょうじ"
+        }
+      ],
+      "reviewNote": "Names in lexical examples acceptable; proper personal names not default.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "四",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "四",
+          "kana": "よん"
+        },
+        {
+          "spelling": "四",
+          "kana": "し"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "四つ",
+          "kana": "よっつ"
+        },
+        {
+          "spelling": "四日",
+          "kana": "よっか"
+        },
+        {
+          "spelling": "四月",
+          "kana": "しがつ"
+        },
+        {
+          "spelling": "四人",
+          "kana": "よにん"
+        }
+      ],
+      "reviewNote": "Both standard counting forms; context determines pronunciation.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "土",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "土",
+          "kana": "つち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "土地",
+          "kana": "とち"
+        },
+        {
+          "spelling": "土曜日",
+          "kana": "どようび"
+        },
+        {
+          "spelling": "粘土",
+          "kana": "ねんど"
+        }
+      ],
+      "reviewNote": "Ordinary noun and weekday.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "夕",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "夕方",
+          "kana": "ゆうがた"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "夕日",
+          "kana": "ゆうひ"
+        },
+        {
+          "spelling": "夕べ",
+          "kana": "ゆうべ"
+        },
+        {
+          "spelling": "一朝一夕",
+          "kana": "いっちょういっせき"
+        }
+      ],
+      "reviewNote": "セキ useful in limited compounds, not primary.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "大",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "大きい",
+          "kana": "おおきい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "大学",
+          "kana": "だいがく"
+        },
+        {
+          "spelling": "大変",
+          "kana": "たいへん"
+        },
+        {
+          "spelling": "大きな",
+          "kana": "おおきな"
+        },
+        {
+          "spelling": "大型",
+          "kana": "おおがた"
+        }
+      ],
+      "reviewNote": "おおきい missing; direct adjective above alternate constructions.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "天",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "天",
+          "kana": "てん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "天気",
+          "kana": "てんき"
+        },
+        {
+          "spelling": "天井",
+          "kana": "てんじょう"
+        },
+        {
+          "spelling": "天の川",
+          "kana": "あまのがわ"
+        }
+      ],
+      "reviewNote": "あめ reading literary; don't teach as ordinary sky reading.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "女",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "女",
+          "kana": "おんな"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "女性",
+          "kana": "じょせい"
+        },
+        {
+          "spelling": "女子",
+          "kana": "じょし"
+        },
+        {
+          "spelling": "女神",
+          "kana": "めがみ"
+        }
+      ],
+      "reviewNote": "ニョ/ニョウ later (天女/女房); avoid obscure 女人 forms first.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "子",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "子",
+          "kana": "こ"
+        },
+        {
+          "spelling": "子供",
+          "kana": "こども"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "親子",
+          "kana": "おやこ"
+        },
+        {
+          "spelling": "女子",
+          "kana": "じょし"
+        },
+        {
+          "spelling": "様子",
+          "kana": "ようす"
+        }
+      ],
+      "reviewNote": "子/子供 basic despite complex compounds in existing deck.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "字",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "字",
+          "kana": "じ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "文字",
+          "kana": "もじ"
+        },
+        {
+          "spelling": "漢字",
+          "kana": "かんじ"
+        }
+      ],
+      "reviewNote": "あざ specialized address usage; reference/later.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "学",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "学ぶ",
+          "kana": "まなぶ"
+        },
+        {
+          "spelling": "学校",
+          "kana": "がっこう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "学生",
+          "kana": "がくせい"
+        },
+        {
+          "spelling": "大学",
+          "kana": "だいがく"
+        },
+        {
+          "spelling": "学習",
+          "kana": "がくしゅう"
+        }
+      ],
+      "reviewNote": "Keep existing useful 学校/学生.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "小",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "小さい",
+          "kana": "ちいさい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "小学校",
+          "kana": "しょうがっこう"
+        },
+        {
+          "spelling": "小鳥",
+          "kana": "ことり"
+        },
+        {
+          "spelling": "小川",
+          "kana": "おがわ"
+        }
+      ],
+      "reviewNote": "Missing exact corpus ranks for 小学校 not grounds to exclude.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "山",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "山",
+          "kana": "やま"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "火山",
+          "kana": "かざん"
+        },
+        {
+          "spelling": "登山",
+          "kana": "とざん"
+        },
+        {
+          "spelling": "山脈",
+          "kana": "さんみゃく"
+        }
+      ],
+      "reviewNote": "Reject 山:ざん as introductory isolated noun; verify contextual readings.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "川",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "川",
+          "kana": "かわ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "小川",
+          "kana": "おがわ"
+        },
+        {
+          "spelling": "河川",
+          "kana": "かせん"
+        },
+        {
+          "spelling": "川柳",
+          "kana": "せんりゅう"
+        }
+      ],
+      "reviewNote": "Existing noun suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "左",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "左",
+          "kana": "ひだり"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "左手",
+          "kana": "ひだりて"
+        },
+        {
+          "spelling": "左折",
+          "kana": "させつ"
+        },
+        {
+          "spelling": "左右",
+          "kana": "さゆう"
+        }
+      ],
+      "reviewNote": "Direction before technical words.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "年",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "年",
+          "kana": "とし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "一年",
+          "kana": "いちねん"
+        },
+        {
+          "spelling": "今年",
+          "kana": "ことし"
+        },
+        {
+          "spelling": "少年",
+          "kana": "しょうねん"
+        },
+        {
+          "spelling": "来年",
+          "kana": "らいねん"
+        }
+      ],
+      "reviewNote": "今年 whole-word mapping; preserve contexts.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "手",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "手",
+          "kana": "て"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "上手",
+          "kana": "じょうず"
+        },
+        {
+          "spelling": "選手",
+          "kana": "せんしゅ"
+        },
+        {
+          "spelling": "手紙",
+          "kana": "てがみ"
+        },
+        {
+          "spelling": "手綱",
+          "kana": "たづな"
+        }
+      ],
+      "reviewNote": "上手 is whole-word/irregular mapping review; common noun strongly supported.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "文",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "文字",
+          "kana": "もじ"
+        },
+        {
+          "spelling": "作文",
+          "kana": "さくぶん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "文化",
+          "kana": "ぶんか"
+        },
+        {
+          "spelling": "文学",
+          "kana": "ぶんがく"
+        },
+        {
+          "spelling": "文句",
+          "kana": "もんく"
+        }
+      ],
+      "reviewNote": "ふみ literary/limited; not primary.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "日",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "日",
+          "kana": "ひ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "毎日",
+          "kana": "まいにち"
+        },
+        {
+          "spelling": "休日",
+          "kana": "きゅうじつ"
+        },
+        {
+          "spelling": "三日",
+          "kana": "みっか"
+        },
+        {
+          "spelling": "月曜日",
+          "kana": "げつようび"
+        }
+      ],
+      "reviewNote": "ひ→び variant; whole-word date mapping.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "早",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "早い",
+          "kana": "はやい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "早朝",
+          "kana": "そうちょう"
+        },
+        {
+          "spelling": "早速",
+          "kana": "さっそく"
+        },
+        {
+          "spelling": "早める",
+          "kana": "はやめる"
+        }
+      ],
+      "reviewNote": "Normal spelling/reading missing among top candidates; avoid stretched はやーい as default.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "月",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "月",
+          "kana": "つき"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "先月",
+          "kana": "せんげつ"
+        },
+        {
+          "spelling": "九月",
+          "kana": "くがつ"
+        },
+        {
+          "spelling": "月曜",
+          "kana": "げつよう"
+        }
+      ],
+      "reviewNote": "Do not favor 月見 over direct noun solely on rank availability.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "木",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "木",
+          "kana": "き"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "木曜日",
+          "kana": "もくようび"
+        },
+        {
+          "spelling": "大木",
+          "kana": "たいぼく"
+        },
+        {
+          "spelling": "木陰",
+          "kana": "こかげ"
+        }
+      ],
+      "reviewNote": "Keep existing common noun, avoid rare variants.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "本",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "本",
+          "kana": "ほん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "日本",
+          "kana": "にほん"
+        },
+        {
+          "spelling": "本当",
+          "kana": "ほんとう"
+        },
+        {
+          "spelling": "基本",
+          "kana": "きほん"
+        },
+        {
+          "spelling": "本",
+          "kana": "もと"
+        }
+      ],
+      "reviewNote": "Standalone book meaning as primary, もと contextual with distinct cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "村",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "村",
+          "kana": "むら"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "村長",
+          "kana": "そんちょう"
+        },
+        {
+          "spelling": "農村",
+          "kana": "のうそん"
+        }
+      ],
+      "reviewNote": "Existing noun suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "林",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "林",
+          "kana": "はやし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "森林",
+          "kana": "しんりん"
+        },
+        {
+          "spelling": "山林",
+          "kana": "さんりん"
+        }
+      ],
+      "reviewNote": "Existing noun suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "校",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "学校",
+          "kana": "がっこう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "校門",
+          "kana": "こうもん"
+        },
+        {
+          "spelling": "小学校",
+          "kana": "しょうがっこう"
+        },
+        {
+          "spelling": "高校",
+          "kana": "こうこう"
+        }
+      ],
+      "reviewNote": "No need to invent standalone noun; preserve gemination.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "森",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "森",
+          "kana": "もり"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "森林",
+          "kana": "しんりん"
+        }
+      ],
+      "reviewNote": "Existing noun suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "正",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "正しい",
+          "kana": "ただしい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "正直",
+          "kana": "しょうじき"
+        },
+        {
+          "spelling": "正月",
+          "kana": "しょうがつ"
+        },
+        {
+          "spelling": "正義",
+          "kana": "せいぎ"
+        },
+        {
+          "spelling": "正す",
+          "kana": "ただす"
+        }
+      ],
+      "reviewNote": "Common adjective over abstract isolated 正.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "気",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "元気",
+          "kana": "げんき"
+        },
+        {
+          "spelling": "気",
+          "kana": "き"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "天気",
+          "kana": "てんき"
+        },
+        {
+          "spelling": "気持ち",
+          "kana": "きもち"
+        },
+        {
+          "spelling": "気配",
+          "kana": "けはい"
+        }
+      ],
+      "reviewNote": "キ empty in export despite extremely common reading; investigate mapping.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "水",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "水",
+          "kana": "みず"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "水分",
+          "kana": "すいぶん"
+        },
+        {
+          "spelling": "水色",
+          "kana": "みずいろ"
+        },
+        {
+          "spelling": "海水",
+          "kana": "かいすい"
+        }
+      ],
+      "reviewNote": "Direct noun despite missing spelling-only scores.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "火",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "火",
+          "kana": "ひ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "火山",
+          "kana": "かざん"
+        },
+        {
+          "spelling": "花火",
+          "kana": "はなび"
+        },
+        {
+          "spelling": "火事",
+          "kana": "かじ"
+        }
+      ],
+      "reviewNote": "Rendaku ひ→び; ほ limited contexts.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "犬",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "犬",
+          "kana": "いぬ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "子犬",
+          "kana": "こいぬ"
+        },
+        {
+          "spelling": "愛犬",
+          "kana": "あいけん"
+        }
+      ],
+      "reviewNote": "Reject 野犬:のいぬ as example of ordinary 犬 noun.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "玉",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "玉",
+          "kana": "たま"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "目玉",
+          "kana": "めだま"
+        },
+        {
+          "spelling": "水玉",
+          "kana": "みずたま"
+        },
+        {
+          "spelling": "玉座",
+          "kana": "ぎょくざ"
+        }
+      ],
+      "reviewNote": "Use ordinary sphere/ball sense, not 玉子 as only intro.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "王",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "王",
+          "kana": "おう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "王子",
+          "kana": "おうじ"
+        },
+        {
+          "spelling": "王様",
+          "kana": "おうさま"
+        }
+      ],
+      "reviewNote": "Existing primary suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "生",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "生きる",
+          "kana": "いきる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "生活",
+          "kana": "せいかつ"
+        },
+        {
+          "spelling": "一生",
+          "kana": "いっしょう"
+        },
+        {
+          "spelling": "生まれる",
+          "kana": "うまれる"
+        },
+        {
+          "spelling": "生卵",
+          "kana": "なまたまご"
+        },
+        {
+          "spelling": "生む",
+          "kana": "うむ"
+        },
+        {
+          "spelling": "生える",
+          "kana": "はえる"
+        }
+      ],
+      "reviewNote": "Standard verb lost, うむ empty; なま important.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "田",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "田",
+          "kana": "た"
+        },
+        {
+          "spelling": "田んぼ",
+          "kana": "たんぼ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "水田",
+          "kana": "すいでん"
+        },
+        {
+          "spelling": "田植え",
+          "kana": "たうえ"
+        }
+      ],
+      "reviewNote": "Existing rare/alternate spellings not preferred.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "男",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "男",
+          "kana": "おとこ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "男性",
+          "kana": "だんせい"
+        },
+        {
+          "spelling": "男子",
+          "kana": "だんし"
+        },
+        {
+          "spelling": "長男",
+          "kana": "ちょうなん"
+        }
+      ],
+      "reviewNote": "Direct noun plus ordinary on readings.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "町",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "町",
+          "kana": "まち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "町内",
+          "kana": "ちょうない"
+        },
+        {
+          "spelling": "市町村",
+          "kana": "しちょうそん"
+        }
+      ],
+      "reviewNote": "Existing direct noun suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "白",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "白い",
+          "kana": "しろい"
+        },
+        {
+          "spelling": "白",
+          "kana": "しろ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "白黒",
+          "kana": "しろくろ"
+        },
+        {
+          "spelling": "白髪",
+          "kana": "しらが"
+        },
+        {
+          "spelling": "白紙",
+          "kana": "はくし"
+        }
+      ],
+      "reviewNote": "しろい empty; ビャク later e.g. 白夜.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "百",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "百",
+          "kana": "ひゃく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "百円",
+          "kana": "ひゃくえん"
+        },
+        {
+          "spelling": "数百",
+          "kana": "すうひゃく"
+        }
+      ],
+      "reviewNote": "Existing number suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "目",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "目",
+          "kana": "め"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "目的",
+          "kana": "もくてき"
+        },
+        {
+          "spelling": "目立つ",
+          "kana": "めだつ"
+        },
+        {
+          "spelling": "目の当たり",
+          "kana": "まのあたり"
+        }
+      ],
+      "reviewNote": "ボク limited (面目).",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "石",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "石",
+          "kana": "いし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "宝石",
+          "kana": "ほうせき"
+        },
+        {
+          "spelling": "石油",
+          "kana": "せきゆ"
+        },
+        {
+          "spelling": "磁石",
+          "kana": "じしゃく"
+        }
+      ],
+      "reviewNote": "Existing 石:こく is historical volume unit; reference/later.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "空",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "空",
+          "kana": "そら"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "空港",
+          "kana": "くうこう"
+        },
+        {
+          "spelling": "空く",
+          "kana": "あく"
+        },
+        {
+          "spelling": "空ける",
+          "kana": "あける"
+        },
+        {
+          "spelling": "空",
+          "kana": "から"
+        }
+      ],
+      "reviewNote": "Separate empty and sky cues and readings.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "立",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "立つ",
+          "kana": "たつ"
+        },
+        {
+          "spelling": "立てる",
+          "kana": "たてる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "立場",
+          "kana": "たちば"
+        },
+        {
+          "spelling": "起立",
+          "kana": "きりつ"
+        },
+        {
+          "spelling": "独立",
+          "kana": "どくりつ"
+        }
+      ],
+      "reviewNote": "たてる empty; リュウ later (建立).",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "竹",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "竹",
+          "kana": "たけ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "竹林",
+          "kana": "ちくりん"
+        }
+      ],
+      "reviewNote": "Existing noun suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "糸",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "糸",
+          "kana": "いと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "毛糸",
+          "kana": "けいと"
+        },
+        {
+          "spelling": "製糸",
+          "kana": "せいし"
+        }
+      ],
+      "reviewNote": "On reading useful later; everyday noun first.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "耳",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "耳",
+          "kana": "みみ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "耳鼻科",
+          "kana": "じびか"
+        },
+        {
+          "spelling": "中耳炎",
+          "kana": "ちゅうじえん"
+        }
+      ],
+      "reviewNote": "On reading specialized; direct noun strongly supported.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "花",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "花",
+          "kana": "はな"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "花火",
+          "kana": "はなび"
+        },
+        {
+          "spelling": "花束",
+          "kana": "はなたば"
+        },
+        {
+          "spelling": "花壇",
+          "kana": "かだん"
+        }
+      ],
+      "reviewNote": "Preserve existing good starter vocabulary.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "草",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "草",
+          "kana": "くさ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "草花",
+          "kana": "くさばな"
+        },
+        {
+          "spelling": "雑草",
+          "kana": "ざっそう"
+        },
+        {
+          "spelling": "草原",
+          "kana": "そうげん"
+        }
+      ],
+      "reviewNote": "Choose pronunciation context; 草原 also くさはら.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "虫",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "虫",
+          "kana": "むし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "虫歯",
+          "kana": "むしば"
+        },
+        {
+          "spelling": "昆虫",
+          "kana": "こんちゅう"
+        },
+        {
+          "spelling": "害虫",
+          "kana": "がいちゅう"
+        }
+      ],
+      "reviewNote": "Basic noun first.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "見",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "見る",
+          "kana": "みる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "見える",
+          "kana": "みえる"
+        },
+        {
+          "spelling": "見せる",
+          "kana": "みせる"
+        },
+        {
+          "spelling": "意見",
+          "kana": "いけん"
+        },
+        {
+          "spelling": "見学",
+          "kana": "けんがく"
+        }
+      ],
+      "reviewNote": "Direct 見る missing from leading candidates.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "貝",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "貝",
+          "kana": "かい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "貝殻",
+          "kana": "かいがら"
+        },
+        {
+          "spelling": "ほら貝",
+          "kana": "ほらがい"
+        }
+      ],
+      "reviewNote": "Direct noun despite single-source rank.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "赤",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "赤い",
+          "kana": "あかい"
+        },
+        {
+          "spelling": "赤",
+          "kana": "あか"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "赤字",
+          "kana": "あかじ"
+        },
+        {
+          "spelling": "赤道",
+          "kana": "せきどう"
+        }
+      ],
+      "reviewNote": "あかい absent; シャク later (赤銅).",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "足",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "足",
+          "kana": "あし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "足りる",
+          "kana": "たりる"
+        },
+        {
+          "spelling": "足す",
+          "kana": "たす"
+        },
+        {
+          "spelling": "遠足",
+          "kana": "えんそく"
+        },
+        {
+          "spelling": "足音",
+          "kana": "あしおと"
+        }
+      ],
+      "reviewNote": "Different senses of feet/legs and sufficiency.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "車",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "車",
+          "kana": "くるま"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "電車",
+          "kana": "でんしゃ"
+        },
+        {
+          "spelling": "車輪",
+          "kana": "しゃりん"
+        },
+        {
+          "spelling": "自動車",
+          "kana": "じどうしゃ"
+        }
+      ],
+      "reviewNote": "Keep existing useful 電車; direct noun first.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "金",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "金",
+          "kana": "かね"
+        },
+        {
+          "spelling": "金",
+          "kana": "きん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "お金",
+          "kana": "おかね"
+        },
+        {
+          "spelling": "金曜日",
+          "kana": "きんようび"
+        },
+        {
+          "spelling": "金持ち",
+          "kana": "かねもち"
+        },
+        {
+          "spelling": "金具",
+          "kana": "かなぐ"
+        }
+      ],
+      "reviewNote": "Separate money and gold cues; usual お金 not 御金.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "雨",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "雨",
+          "kana": "あめ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "大雨",
+          "kana": "おおあめ"
+        },
+        {
+          "spelling": "雨雲",
+          "kana": "あまぐも"
+        },
+        {
+          "spelling": "雨量",
+          "kana": "うりょう"
+        }
+      ],
+      "reviewNote": "Existing noun suitable.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "青",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "青い",
+          "kana": "あおい"
+        },
+        {
+          "spelling": "青",
+          "kana": "あお"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "青空",
+          "kana": "あおぞら"
+        },
+        {
+          "spelling": "青年",
+          "kana": "せいねん"
+        }
+      ],
+      "reviewNote": "あおい empty; ショウ rare/limited (群青).",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "音",
+      "grade": 1,
+      "initial": [
+        {
+          "spelling": "音",
+          "kana": "おと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "音楽",
+          "kana": "おんがく"
+        },
+        {
+          "spelling": "発音",
+          "kana": "はつおん"
+        },
+        {
+          "spelling": "音色",
+          "kana": "ねいろ"
+        },
+        {
+          "spelling": "母音",
+          "kana": "ぼいん"
+        }
+      ],
+      "reviewNote": "Keep good existing 音 and 音楽.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    }
+  ]
+}
