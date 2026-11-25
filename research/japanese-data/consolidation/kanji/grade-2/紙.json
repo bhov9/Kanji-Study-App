@@ -1,0 +1,1246 @@
+{
+  "character": "紙",
+  "grade": 2,
+  "meanings": [
+    "paper"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "氏",
+    "糸",
+    "幺",
+    "小"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "かみ",
+      "stem": "かみ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "紙",
+    "heading": "紙",
+    "readings": [
+      "シ",
+      "かみ"
+    ],
+    "examples_by_reading": [
+      [
+        "紙面",
+        "用紙",
+        "新聞紙"
+      ],
+      [
+        "紙",
+        "紙くず",
+        "厚紙"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "紙",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 221,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1546290/用紙/ようし",
+        "1311620/紙面/しめん",
+        "1362390/新聞紙/しんぶんし",
+        "1362390/新聞紙/しんぶんがみ",
+        "2787310/紙/し",
+        "1489600/表紙/ひょうし",
+        "1311600/紙幣/しへい",
+        "1475200/白紙/はくし",
+        "1562100/和紙/わし",
+        "1645680/製紙/せいし"
+      ]
+    },
+    {
+      "reading": "かみ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 65,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1275460/厚紙/あつがみ",
+        "1609610/紙くず/かみくず",
+        "1311530/紙/かみ",
+        "1311570/紙芝居/かみしばい",
+        "1311580/紙袋/かみぶくろ",
+        "1636280/紙切れ/かみきれ",
+        "1609610/紙屑/かみくず",
+        "1762930/紙入れ/かみいれ",
+        "1311560/紙型/かみがた",
+        "1475200/白紙/しらかみ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1546290/用紙/ようし",
+    "1311620/紙面/しめん",
+    "1275460/厚紙/あつがみ",
+    "1362390/新聞紙/しんぶんし",
+    "1609610/紙くず/かみくず",
+    "1311530/紙/かみ",
+    "1362390/新聞紙/しんぶんがみ",
+    "2787310/紙/し",
+    "1489600/表紙/ひょうし",
+    "1311600/紙幣/しへい",
+    "1475200/白紙/はくし",
+    "1311570/紙芝居/かみしばい",
+    "1311580/紙袋/かみぶくろ",
+    "1562100/和紙/わし",
+    "1636280/紙切れ/かみきれ",
+    "1645680/製紙/せいし",
+    "1412610/台紙/だいし",
+    "1168320/印紙/いんし",
+    "1509820/別紙/べっし",
+    "1479360/半紙/はんし",
+    "1658320/紙上/しじょう",
+    "1205000/各紙/かくし",
+    "1646580/紙片/しへん",
+    "1763120/紙質/ししつ",
+    "1609610/紙屑/かみくず",
+    "1796950/料紙/りょうし",
+    "1794480/洋紙/ようし",
+    "1762930/紙入れ/かみいれ",
+    "1395300/全紙/ぜんし",
+    "1311560/紙型/かみがた"
+  ],
+  "candidates": {
+    "1546290/用紙/ようし": {
+      "id": 1546290,
+      "form": "用紙",
+      "kana": "ようし",
+      "gloss": "blank form",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7440,
+        11226,
+        10032,
+        12378
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1311620/紙面/しめん": {
+      "id": 1311620,
+      "form": "紙面",
+      "kana": "しめん",
+      "gloss": "space on a page (e.g. in a newspaper)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10818,
+        23835,
+        16272,
+        24336
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1275460/厚紙/あつがみ": {
+      "id": 1275460,
+      "form": "厚紙",
+      "kana": "あつがみ",
+      "gloss": "cardboard",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21983,
+        19084,
+        42960,
+        49964
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "厚": 5
+      },
+      "matched": {
+        "かみ": {
+          "actual": "がみ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "かみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1362390/新聞紙/しんぶんし": {
+      "id": 1362390,
+      "form": "新聞紙",
+      "kana": "しんぶんし",
+      "gloss": "newsprint",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        23216,
+        24490
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2,
+        "聞": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1609610/紙くず/かみくず": {
+      "id": 1609610,
+      "form": "紙くず",
+      "kana": "かみくず",
+      "gloss": "wastepaper",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        55944,
+        33471
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "かみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1311530/紙/かみ": {
+      "id": 1311530,
+      "form": "紙",
+      "kana": "かみ",
+      "gloss": "paper",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2011
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "かみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1362390/新聞紙/しんぶんがみ": {
+      "id": 1362390,
+      "form": "新聞紙",
+      "kana": "しんぶんがみ",
+      "gloss": "newsprint",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        23216,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "新": 2,
+        "聞": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "がみ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2787310/紙/し": {
+      "id": 2787310,
+      "form": "紙",
+      "kana": "し",
+      "gloss": "newspaper",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17763
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "かみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1489600/表紙/ひょうし": {
+      "id": 1489600,
+      "form": "表紙",
+      "kana": "ひょうし",
+      "gloss": "cover (of a book, magazine, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4970,
+        5255,
+        3809,
+        5749
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "表": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1311600/紙幣/しへい": {
+      "id": 1311600,
+      "form": "紙幣",
+      "kana": "しへい",
+      "gloss": "paper money",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6880,
+        14378,
+        10540,
+        26498
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "幣": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1475200/白紙/はくし": {
+      "id": 1475200,
+      "form": "白紙",
+      "kana": "はくし",
+      "gloss": "white paper",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7045,
+        16123,
+        14533,
+        11962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1311570/紙芝居/かみしばい": {
+      "id": 1311570,
+      "form": "紙芝居",
+      "kana": "かみしばい",
+      "gloss": "kamishibai",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13466,
+        17928,
+        24744,
+        46693
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "芝": 7,
+        "居": 5
+      },
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1311580/紙袋/かみぶくろ": {
+      "id": 1311580,
+      "form": "紙袋",
+      "kana": "かみぶくろ",
+      "gloss": "paper bag",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23865,
+        21810,
+        21459,
+        9104
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "袋": 7
+      },
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562100/和紙/わし": {
+      "id": 1562100,
+      "form": "和紙",
+      "kana": "わし",
+      "gloss": "washi",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21587,
+        14693,
+        24744,
+        38202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "和": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1636280/紙切れ/かみきれ": {
+      "id": 1636280,
+      "form": "紙切れ",
+      "kana": "かみきれ",
+      "gloss": "piece of paper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25909,
+        19505,
+        28048,
+        12405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1645680/製紙/せいし": {
+      "id": 1645680,
+      "form": "製紙",
+      "kana": "せいし",
+      "gloss": "papermaking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11919,
+        34308,
+        45339,
+        72813
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "製": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1412610/台紙/だいし": {
+      "id": 1412610,
+      "form": "台紙",
+      "kana": "だいし",
+      "gloss": "backing paper (for a photo, painting, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36312,
+        20879,
+        38864,
+        72515
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "台": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1168320/印紙/いんし": {
+      "id": 1168320,
+      "form": "印紙",
+      "kana": "いんし",
+      "gloss": "(revenue) stamp",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29596,
+        40691,
+        26068,
+        129776
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "印": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1509820/別紙/べっし": {
+      "id": 1509820,
+      "form": "別紙",
+      "kana": "べっし",
+      "gloss": "enclosure",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24035,
+        35006,
+        55378,
+        70244
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1479360/半紙/はんし": {
+      "id": 1479360,
+      "form": "半紙",
+      "kana": "はんし",
+      "gloss": "Japanese calligraphy paper (approx. 25cm by 35cm)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28669,
+        28202,
+        67489,
+        55784
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "半": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1658320/紙上/しじょう": {
+      "id": 1658320,
+      "form": "紙上",
+      "kana": "しじょう",
+      "gloss": "on paper",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16640,
+        109954,
+        57069,
+        91441
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205000/各紙/かくし": {
+      "id": 1205000,
+      "form": "各紙",
+      "kana": "かくし",
+      "gloss": "each newspaper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28547,
+        43563,
+        36201,
+        90286
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "各": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1646580/紙片/しへん": {
+      "id": 1646580,
+      "form": "紙片",
+      "kana": "しへん",
+      "gloss": "piece (scrap, bit, strip) of paper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27533,
+        41067,
+        71447,
+        23323
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "片": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1763120/紙質/ししつ": {
+      "id": 1763120,
+      "form": "紙質",
+      "kana": "ししつ",
+      "gloss": "paper quality",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        24281,
+        48827,
+        65516,
+        73636
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "質": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1609610/紙屑/かみくず": {
+      "id": 1609610,
+      "form": "紙屑",
+      "kana": "かみくず",
+      "gloss": "wastepaper",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35293,
+        34308,
+        79465,
+        47687
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1796950/料紙/りょうし": {
+      "id": 1796950,
+      "form": "料紙",
+      "kana": "りょうし",
+      "gloss": "writing paper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19349,
+        81652,
+        127540,
+        143511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1794480/洋紙/ようし": {
+      "id": 1794480,
+      "form": "洋紙",
+      "kana": "ようし",
+      "gloss": "Western paper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25848,
+        89646,
+        111325,
+        128902
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "洋": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1762930/紙入れ/かみいれ": {
+      "id": 1762930,
+      "form": "紙入れ",
+      "kana": "かみいれ",
+      "gloss": "wallet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38806,
+        53060,
+        173990,
+        98148
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1395300/全紙/ぜんし": {
+      "id": 1395300,
+      "form": "全紙",
+      "kana": "ぜんし",
+      "gloss": "the whole newspaper",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33736,
+        78424,
+        114322,
+        144005
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1311560/紙型/かみがた": {
+      "id": 1311560,
+      "form": "紙型",
+      "kana": "かみがた",
+      "gloss": "(paper) stencil",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34246,
+        121818,
+        161690,
+        178104
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "型": 5
+      },
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1475200/白紙/しらかみ": {
+      "id": 1475200,
+      "form": "白紙",
+      "kana": "しらかみ",
+      "gloss": "white paper",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7045,
+        16123,
+        14533,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "かみ": {
+          "actual": "かみ",
+          "dictionary": [
+            "かみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1311530:紙:かみ",
+      "form": "紙",
+      "kana": "かみ",
+      "cue": "paper",
+      "ids": [
+        1311530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 2011,
+        "shiberu": 670,
+        "tubelex": 1166,
+        "wordfreq": 1377
+      }
+    }
+  ],
+  "unassigned_form_count": 219
+}

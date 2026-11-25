@@ -1,0 +1,481 @@
+{
+  "character": "璧",
+  "grade": 7,
+  "meanings": [
+    "sphere",
+    "ball"
+  ],
+  "strokes": [
+    18
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 96
+    }
+  ],
+  "components": [
+    "王",
+    "口",
+    "十",
+    "辛",
+    "立",
+    "尸"
+  ],
+  "on": [
+    "ヘキ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たま",
+      "stem": "たま",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "璧",
+    "heading": "璧",
+    "readings": [
+      "ヘキ"
+    ],
+    "examples_by_reading": [
+      [
+        "完璧",
+        "双璧"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "璧",
+      "reading": "ヘキ",
+      "source": "table_29_he.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヘキ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1590970/完璧/かんぺき",
+        "1398990/双璧/そうへき",
+        "2831252/双璧をなす/そうへきをなす",
+        "2831252/双璧を成す/そうへきをなす",
+        "2529890/璧/へき",
+        "1873350/圭璧/けいへき"
+      ]
+    },
+    {
+      "reading": "たま",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1240530/璧/たま"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1590970/完璧/かんぺき",
+    "1398990/双璧/そうへき",
+    "2831252/双璧をなす/そうへきをなす",
+    "2831252/双璧を成す/そうへきをなす",
+    "2529890/璧/へき",
+    "2529790/完璧主義/かんぺきしゅぎ",
+    "2846463/完璧主義者/かんぺきしゅぎしゃ",
+    "1240530/璧/たま",
+    "1873350/圭璧/けいへき",
+    "2157160/パー璧/パーぺき"
+  ],
+  "candidates": {
+    "1590970/完璧/かんぺき": {
+      "id": 1590970,
+      "form": "完璧",
+      "kana": "かんぺき",
+      "gloss": "perfect",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4957,
+        2095,
+        2518,
+        1248
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "完": 4
+      },
+      "matched": {
+        "ヘキ": {
+          "actual": "ぺき",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ヘキ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1398990/双璧/そうへき": {
+      "id": 1398990,
+      "form": "双璧",
+      "kana": "そうへき",
+      "gloss": "(two) matchless things",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        46874,
+        59810
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "双": 7
+      },
+      "matched": {
+        "ヘキ": {
+          "actual": "へき",
+          "dictionary": [
+            "ヘキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2831252/双璧をなす/そうへきをなす": {
+      "id": 2831252,
+      "form": "双璧をなす",
+      "kana": "そうへきをなす",
+      "gloss": "to be a match for",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        83320
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "双": 7
+      },
+      "matched": {
+        "ヘキ": {
+          "actual": "へき",
+          "dictionary": [
+            "ヘキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831252/双璧を成す/そうへきをなす": {
+      "id": 2831252,
+      "form": "双璧を成す",
+      "kana": "そうへきをなす",
+      "gloss": "to be a match for",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        86803
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4,
+        "双": 7
+      },
+      "matched": {
+        "ヘキ": {
+          "actual": "へき",
+          "dictionary": [
+            "ヘキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529890/璧/へき": {
+      "id": 2529890,
+      "form": "璧",
+      "kana": "へき",
+      "gloss": "bi (ancient Chinese artifact; flat jade or glass disc with a circular hole in the centre)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヘキ": {
+          "actual": "へき",
+          "dictionary": [
+            "ヘキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529790/完璧主義/かんぺきしゅぎ": {
+      "id": 2529790,
+      "form": "完璧主義",
+      "kana": "かんぺきしゅぎ",
+      "gloss": "perfectionism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46659
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "完": 4,
+        "義": 5,
+        "主": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2846463/完璧主義者/かんぺきしゅぎしゃ": {
+      "id": 2846463,
+      "form": "完璧主義者",
+      "kana": "かんぺきしゅぎしゃ",
+      "gloss": "perfectionist",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        57776
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "完": 4,
+        "義": 5,
+        "主": 3,
+        "者": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1240530/璧/たま": {
+      "id": 1240530,
+      "form": "璧",
+      "kana": "たま",
+      "gloss": "ball",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        15,
+        16
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "derog"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        86801
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たま": {
+          "actual": "たま",
+          "dictionary": [
+            "たま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1873350/圭璧/けいへき": {
+      "id": 1873350,
+      "form": "圭璧",
+      "kana": "けいへき",
+      "gloss": "ritual jades worn by feudal lords in ancient China",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヘキ": {
+          "actual": "へき",
+          "dictionary": [
+            "ヘキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2157160/パー璧/パーぺき": {
+      "id": 2157160,
+      "form": "パー璧",
+      "kana": "パーぺき",
+      "gloss": "perfect",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1240530:璧:たま",
+      "form": "璧",
+      "kana": "たま",
+      "cue": "ball; sphere",
+      "ids": [
+        1240530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 86801,
+        "wordfreq": 68122
+      },
+      "alternatives_by_kanji": {
+        "璧": [
+          "1590970/完璧/かんぺき",
+          "1398990/双璧/そうへき",
+          "2831252/双璧をなす/そうへきをなす"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

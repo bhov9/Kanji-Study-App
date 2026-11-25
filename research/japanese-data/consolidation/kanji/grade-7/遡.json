@@ -1,0 +1,741 @@
+{
+  "character": "遡",
+  "grade": 7,
+  "meanings": [
+    "go upstream",
+    "retrace the past"
+  ],
+  "strokes": [
+    13,
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 162
+    }
+  ],
+  "components": [
+    "月",
+    "込",
+    "并",
+    "屮"
+  ],
+  "on": [
+    "ソ",
+    "サク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "さかのぼ.る",
+      "stem": "さかのぼ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "遡",
+    "heading": "遡［遡］",
+    "readings": [
+      "ソ",
+      "さかのぼる"
+    ],
+    "examples_by_reading": [
+      [
+        "遡及",
+        "遡上"
+      ],
+      [
+        "遡る"
+      ]
+    ],
+    "note_lines": [
+      "［遡］＝許容字体，",
+      "＊［（付）第２の１参照］"
+    ],
+    "representative_index": {
+      "kanji": "遡",
+      "reading": "ソ",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1581240/遡及/そきゅう",
+        "1581240/遡及/さっきゅう",
+        "1619370/遡上/そじょう",
+        "1693670/遡行/そこう",
+        "1616270/遡及的/そきゅうてき",
+        "2832191/不遡及/ふそきゅう",
+        "1693680/遡求/そきゅう",
+        "2025510/遡河魚/そかぎょ",
+        "1593690/遡源/そげん",
+        "2589280/遡求権/そきゅうけん"
+      ]
+    },
+    {
+      "reading": "さかのぼる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1397830/遡る/さかのぼる"
+      ]
+    },
+    {
+      "reading": "サク",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1593690/遡源/さくげん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1581240/遡及/そきゅう",
+    "1581240/遡及/さっきゅう",
+    "1619370/遡上/そじょう",
+    "1693670/遡行/そこう",
+    "1616270/遡及的/そきゅうてき",
+    "2832191/不遡及/ふそきゅう",
+    "1693680/遡求/そきゅう",
+    "2025510/遡河魚/そかぎょ",
+    "1593690/遡源/さくげん",
+    "1593690/遡源/そげん",
+    "2589280/遡求権/そきゅうけん",
+    "2866906/遡及法/そきゅうほう",
+    "2370670/遡及書誌/そきゅうしょし",
+    "2025510/遡河魚/さっかぎょ",
+    "1397830/遡る/さかのぼる",
+    "1693670/遡航/そこう"
+  ],
+  "candidates": {
+    "1581240/遡及/そきゅう": {
+      "id": 1581240,
+      "form": "遡及",
+      "kana": "そきゅう",
+      "gloss": "retroactivity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38312,
+        44849,
+        132414
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "及": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1581240/遡及/さっきゅう": {
+      "id": 1581240,
+      "form": "遡及",
+      "kana": "さっきゅう",
+      "gloss": "retroactivity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38312,
+        44849,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "及": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "さっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ソ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1619370/遡上/そじょう": {
+      "id": 1619370,
+      "form": "遡上",
+      "kana": "そじょう",
+      "gloss": "going upstream",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42628,
+        null,
+        75003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1693670/遡行/そこう": {
+      "id": 1693670,
+      "form": "遡行",
+      "kana": "そこう",
+      "gloss": "going upstream",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        48867,
+        58014
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1616270/遡及的/そきゅうてき": {
+      "id": 1616270,
+      "form": "遡及的",
+      "kana": "そきゅうてき",
+      "gloss": "retroactive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        245648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "及": 7,
+        "的": 4
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832191/不遡及/ふそきゅう": {
+      "id": 2832191,
+      "form": "不遡及",
+      "kana": "ふそきゅう",
+      "gloss": "non-retroactivity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "及": 7,
+        "不": 4
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1693680/遡求/そきゅう": {
+      "id": 1693680,
+      "form": "遡求",
+      "kana": "そきゅう",
+      "gloss": "redemption",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "求": 4
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2025510/遡河魚/そかぎょ": {
+      "id": 2025510,
+      "form": "遡河魚",
+      "kana": "そかぎょ",
+      "gloss": "anadromous fish (fish that migrates upstream, e.g. salmon)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "魚": 2,
+        "河": 5
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1593690/遡源/さくげん": {
+      "id": 1593690,
+      "form": "遡源",
+      "kana": "さくげん",
+      "gloss": "going to the source",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "源": 6
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1593690/遡源/そげん": {
+      "id": 1593690,
+      "form": "遡源",
+      "kana": "そげん",
+      "gloss": "going to the source",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "源": 6
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2589280/遡求権/そきゅうけん": {
+      "id": 2589280,
+      "form": "遡求権",
+      "kana": "そきゅうけん",
+      "gloss": "right of recourse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "求": 4,
+        "権": 6
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866906/遡及法/そきゅうほう": {
+      "id": 2866906,
+      "form": "遡及法",
+      "kana": "そきゅうほう",
+      "gloss": "retroactive law",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "及": 7,
+        "法": 4
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2370670/遡及書誌/そきゅうしょし": {
+      "id": 2370670,
+      "form": "遡及書誌",
+      "kana": "そきゅうしょし",
+      "gloss": "retrospective bibliography",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "及": 7,
+        "書": 2,
+        "誌": 6
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2025510/遡河魚/さっかぎょ": {
+      "id": 2025510,
+      "form": "遡河魚",
+      "kana": "さっかぎょ",
+      "gloss": "anadromous fish (fish that migrates upstream, e.g. salmon)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "魚": 2,
+        "河": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1397830/遡る/さかのぼる": {
+      "id": 1397830,
+      "form": "遡る",
+      "kana": "さかのぼる",
+      "gloss": "to go upstream",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        9813,
+        7289,
+        22289,
+        8411
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さかのぼる": {
+          "actual": "さかのぼ",
+          "dictionary": [
+            "さかのぼ.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "さかのぼる"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1693670/遡航/そこう": {
+      "id": 1693670,
+      "form": "遡航",
+      "kana": "そこう",
+      "gloss": "going upstream",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        149915
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "航": 5
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1397830:遡る:さかのぼる",
+      "form": "遡る",
+      "kana": "さかのぼる",
+      "cue": "to go upstream; to go up (a river)",
+      "ids": [
+        1397830
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 8411,
+        "shiberu": 9813,
+        "tubelex": 7289,
+        "wordfreq": 22289
+      },
+      "alternatives_by_kanji": {
+        "遡": [
+          "1581240/遡及/そきゅう",
+          "1581240/遡及/さっきゅう",
+          "1619370/遡上/そじょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

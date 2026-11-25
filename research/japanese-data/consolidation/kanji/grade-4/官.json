@@ -1,0 +1,1263 @@
+{
+  "character": "官",
+  "grade": 4,
+  "meanings": [
+    "bureaucrat",
+    "the government",
+    "organ"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 40
+    }
+  ],
+  "components": [
+    "口",
+    "宀",
+    "｜"
+  ],
+  "on": [
+    "カン"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "官",
+    "heading": "官",
+    "readings": [
+      "カン"
+    ],
+    "examples_by_reading": [
+      [
+        "官庁",
+        "官能",
+        "教官"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "官",
+      "reading": "カン",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 401,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1211760/官能/かんのう",
+        "1237050/教官/きょうかん",
+        "1211730/官庁/かんちょう",
+        "1252330/警官/けいかん",
+        "1211860/官僚/かんりょう",
+        "1307430/士官/しかん",
+        "1211800/官房/かんぼう",
+        "1211750/官邸/かんてい",
+        "1283330/高官/こうかん",
+        "1218910/器官/きかん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1211760/官能/かんのう",
+    "1237050/教官/きょうかん",
+    "1211730/官庁/かんちょう",
+    "1252330/警官/けいかん",
+    "1211860/官僚/かんりょう",
+    "1307430/士官/しかん",
+    "1211800/官房/かんぼう",
+    "1211750/官邸/かんてい",
+    "1283330/高官/こうかん",
+    "1218910/器官/きかん",
+    "1411670/代官/だいかん",
+    "1364490/神官/しんかん",
+    "1352850/上官/じょうかん",
+    "1211710/官職/かんしょく",
+    "1583740/副官/ふくかん",
+    "1614160/官民/かんみん",
+    "1211790/官報/かんぽう",
+    "1665660/官軍/かんぐん",
+    "1663530/女官/じょかん",
+    "1498430/武官/ぶかん",
+    "1211720/官製/かんせい",
+    "1505250/文官/ぶんかん",
+    "1347630/将官/しょうかん",
+    "1304850/仕官/しかん",
+    "1647430/官位/かんい",
+    "2597020/官衙/かんが",
+    "1211670/官憲/かんけん",
+    "1249280/係官/かかりかん",
+    "1411350/退官/たいかん",
+    "1467180/任官/にんかん"
+  ],
+  "candidates": {
+    "1211760/官能/かんのう": {
+      "id": 1211760,
+      "form": "官能",
+      "kana": "かんのう",
+      "gloss": "the senses",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10184,
+        22272,
+        14325,
+        26827
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "能": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1237050/教官/きょうかん": {
+      "id": 1237050,
+      "form": "教官",
+      "kana": "きょうかん",
+      "gloss": "teacher",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22997,
+        16530,
+        11368,
+        15989
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1211730/官庁/かんちょう": {
+      "id": 1211730,
+      "form": "官庁",
+      "kana": "かんちょう",
+      "gloss": "government office",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13539,
+        23759,
+        22017,
+        56904
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "庁": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1252330/警官/けいかん": {
+      "id": 1252330,
+      "form": "警官",
+      "kana": "けいかん",
+      "gloss": "police officer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        981,
+        7686,
+        4955,
+        8723
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "警": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1211860/官僚/かんりょう": {
+      "id": 1211860,
+      "form": "官僚",
+      "kana": "かんりょう",
+      "gloss": "bureaucrat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8181,
+        9503,
+        5047,
+        21529
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "僚": 7
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1307430/士官/しかん": {
+      "id": 1307430,
+      "form": "士官",
+      "kana": "しかん",
+      "gloss": "officer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5859,
+        22356,
+        10372,
+        28094
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1211800/官房/かんぼう": {
+      "id": 1211800,
+      "form": "官房",
+      "kana": "かんぼう",
+      "gloss": "government secretariat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22972,
+        9442,
+        7265,
+        99497
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "房": 7
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1211750/官邸/かんてい": {
+      "id": 1211750,
+      "form": "官邸",
+      "kana": "かんてい",
+      "gloss": "official residence (e.g. of the prime minister)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10982,
+        16857,
+        12479,
+        47394
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "邸": 7
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1283330/高官/こうかん": {
+      "id": 1283330,
+      "form": "高官",
+      "kana": "こうかん",
+      "gloss": "high official",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10526,
+        16722,
+        15390,
+        32960
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218910/器官/きかん": {
+      "id": 1218910,
+      "form": "器官",
+      "kana": "きかん",
+      "gloss": "organ",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17226,
+        12955,
+        15185,
+        14666
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1411670/代官/だいかん": {
+      "id": 1411670,
+      "form": "代官",
+      "kana": "だいかん",
+      "gloss": "local governor (Edo period)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7879,
+        25818,
+        30598,
+        27076
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1364490/神官/しんかん": {
+      "id": 1364490,
+      "form": "神官",
+      "kana": "しんかん",
+      "gloss": "(Shinto) priest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12005,
+        23673,
+        23544,
+        19839
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "神": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1352850/上官/じょうかん": {
+      "id": 1352850,
+      "form": "上官",
+      "kana": "じょうかん",
+      "gloss": "superior officer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18231,
+        26144,
+        18515,
+        17845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1211710/官職/かんしょく": {
+      "id": 1211710,
+      "form": "官職",
+      "kana": "かんしょく",
+      "gloss": "government service",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11117,
+        38608,
+        68122,
+        53974
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "職": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1583740/副官/ふくかん": {
+      "id": 1583740,
+      "form": "副官",
+      "kana": "ふくかん",
+      "gloss": "adjutant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29872,
+        29352,
+        18234,
+        29222
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "副": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1614160/官民/かんみん": {
+      "id": 1614160,
+      "form": "官民",
+      "kana": "かんみん",
+      "gloss": "government and people",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        29777,
+        19761,
+        26068,
+        85493
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1211790/官報/かんぽう": {
+      "id": 1211790,
+      "form": "官報",
+      "kana": "かんぽう",
+      "gloss": "official daily gazette",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18671,
+        30862,
+        35359,
+        125761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "報": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1665660/官軍/かんぐん": {
+      "id": 1665660,
+      "form": "官軍",
+      "kana": "かんぐん",
+      "gloss": "government forces",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17037,
+        41067,
+        43420,
+        68140
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軍": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663530/女官/じょかん": {
+      "id": 1663530,
+      "form": "女官",
+      "kana": "じょかん",
+      "gloss": "court lady",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22226,
+        26476,
+        54233,
+        38252
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "女": 1
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1498430/武官/ぶかん": {
+      "id": 1498430,
+      "form": "武官",
+      "kana": "ぶかん",
+      "gloss": "military officer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18489,
+        49441,
+        58810,
+        37882
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1211720/官製/かんせい": {
+      "id": 1211720,
+      "form": "官製",
+      "kana": "かんせい",
+      "gloss": "government-manufactured",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        23944,
+        40691,
+        42050,
+        106984
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "製": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505250/文官/ぶんかん": {
+      "id": 1505250,
+      "form": "文官",
+      "kana": "ぶんかん",
+      "gloss": "civil official",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23660,
+        56591,
+        55944,
+        31474
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1347630/将官/しょうかん": {
+      "id": 1347630,
+      "form": "将官",
+      "kana": "しょうかん",
+      "gloss": "general",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27520,
+        62423,
+        37490,
+        54262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304850/仕官/しかん": {
+      "id": 1304850,
+      "form": "仕官",
+      "kana": "しかん",
+      "gloss": "government service",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        34375,
+        63933,
+        34922,
+        41036
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仕": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1647430/官位/かんい": {
+      "id": 1647430,
+      "form": "官位",
+      "kana": "かんい",
+      "gloss": "office and rank",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24966,
+        49441,
+        66810,
+        59181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "位": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2597020/官衙/かんが": {
+      "id": 2597020,
+      "form": "官衙",
+      "kana": "かんが",
+      "gloss": "government office",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16626,
+        109954,
+        140911,
+        133343
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1211670/官憲/かんけん": {
+      "id": 1211670,
+      "form": "官憲",
+      "kana": "かんけん",
+      "gloss": "officials",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35189,
+        54711,
+        42960,
+        52142
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憲": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1249280/係官/かかりかん": {
+      "id": 1249280,
+      "form": "係官",
+      "kana": "かかりかん",
+      "gloss": "official in charge",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27267,
+        54711,
+        61736,
+        72246
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "係": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1411350/退官/たいかん": {
+      "id": 1411350,
+      "form": "退官",
+      "kana": "たいかん",
+      "gloss": "retirement from office",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        29621,
+        63933,
+        51518,
+        68704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "退": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1467180/任官/にんかん": {
+      "id": 1467180,
+      "form": "任官",
+      "kana": "にんかん",
+      "gloss": "appointment (to an office)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        35898,
+        48827,
+        51518,
+        60491
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1211750:官邸:かんてい",
+      "form": "官邸",
+      "kana": "かんてい",
+      "cue": "official residence (e.g. of the prime minister)",
+      "ids": [
+        1211750
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 47394,
+        "shiberu": 10982,
+        "tubelex": 16857,
+        "wordfreq": 12479
+      },
+      "alternatives_by_kanji": {
+        "官": [
+          "1211760/官能/かんのう",
+          "1237050/教官/きょうかん",
+          "1211730/官庁/かんちょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1211820:官房長官:かんぼうちょうかん",
+      "form": "官房長官",
+      "kana": "かんぼうちょうかん",
+      "cue": "Chief Cabinet Secretary (Japan)",
+      "ids": [
+        1211820
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 61327
+      },
+      "alternatives_by_kanji": {
+        "長": [
+          "1429750/長い/ながい",
+          "1375790/成長/せいちょう",
+          "1430040/長女/ちょうじょ"
+        ],
+        "官": [
+          "1211760/官能/かんのう",
+          "1237050/教官/きょうかん",
+          "1211730/官庁/かんちょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1306720:司令官:しれいかん",
+      "form": "司令官",
+      "kana": "しれいかん",
+      "cue": "commandant; commanding officer",
+      "ids": [
+        1306720
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 20771
+      },
+      "alternatives_by_kanji": {
+        "官": [
+          "1211760/官能/かんのう",
+          "1237050/教官/きょうかん",
+          "1211730/官庁/かんちょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1429820:長官:ちょうかん",
+      "form": "長官",
+      "kana": "ちょうかん",
+      "cue": "secretary (government); director",
+      "ids": [
+        1429820
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 22913,
+        "shiberu": 3603,
+        "tubelex": 5080,
+        "wordfreq": 2934
+      },
+      "alternatives_by_kanji": {
+        "長": [
+          "1429750/長い/ながい",
+          "1375790/成長/せいちょう",
+          "1430040/長女/ちょうじょ"
+        ],
+        "官": [
+          "1211760/官能/かんのう",
+          "1237050/教官/きょうかん",
+          "1211730/官庁/かんちょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 35
+}

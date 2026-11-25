@@ -1,0 +1,1166 @@
+{
+  "character": "飢",
+  "grade": 7,
+  "meanings": [
+    "hungry",
+    "starve"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 184
+    }
+  ],
+  "components": [
+    "食",
+    "几"
+  ],
+  "on": [
+    "キ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "う.える",
+      "stem": "う",
+      "okurigana": "える"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "飢",
+    "heading": "飢",
+    "readings": [
+      "キ",
+      "うえる"
+    ],
+    "examples_by_reading": [
+      [
+        "飢餓"
+      ],
+      [
+        "飢える",
+        "飢え"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "飢",
+      "reading": "キ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 14,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1224090/飢餓/きが",
+        "1591080/飢饉/ききん",
+        "1591040/飢渇/きかつ",
+        "1869720/飢民/きみん",
+        "2434330/飢餓感/きがかん",
+        "2141950/大飢饉/だいききん",
+        "1591080/飢きん/ききん",
+        "2100060/天保の大飢饉/てんぽうのだいききん",
+        "2870824/飢渇丸/きかつがん",
+        "1737360/水飢饉/みずききん"
+      ]
+    },
+    {
+      "reading": "うえる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1224070/飢え/うえ",
+        "1224080/飢える/うえる",
+        "1224080/飢える/かつえる",
+        "2659720/血に飢える/ちにうえる",
+        "1150490/愛に飢える/あいにうえる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1224070/飢え/うえ",
+    "1224080/飢える/うえる",
+    "1224090/飢餓/きが",
+    "1224080/飢える/かつえる",
+    "1591080/飢饉/ききん",
+    "1591040/飢渇/きかつ",
+    "1869720/飢民/きみん",
+    "2659720/血に飢える/ちにうえる",
+    "2434330/飢餓感/きがかん",
+    "1150490/愛に飢える/あいにうえる",
+    "2141950/大飢饉/だいききん",
+    "1591080/飢きん/ききん",
+    "2100060/天保の大飢饉/てんぽうのだいききん",
+    "2870824/飢渇丸/きかつがん",
+    "1737360/水飢饉/みずききん",
+    "5745056/天明の飢饉/てんめいのききん",
+    "5745057/天保の飢饉/てんぽうのききん",
+    "1780810/飢寒/きかん",
+    "5745055/享保の飢饉/きょうほうのききん",
+    "2053500/豊作飢饉/ほうさくききん",
+    "1614570/飢餓療法/きがりょうほう",
+    "2661200/飢餓線上に/きがせんじょうに",
+    "2714050/飢え死に/うえじに",
+    "2714050/飢え死に/かつえじに",
+    "2563040/飢え凍える/うえこごえる",
+    "2082250/飢えに苦しむ/うえにくるしむ",
+    "2714050/飢え死/うえじに",
+    "2714050/飢死/うえじに",
+    "2714050/飢死に/うえじに",
+    "2714050/飢死/かつえじに"
+  ],
+  "candidates": {
+    "1224070/飢え/うえ": {
+      "id": 1224070,
+      "form": "飢え",
+      "kana": "うえ",
+      "gloss": "hunger",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18043,
+        21732,
+        6549,
+        16462
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うえる": {
+          "actual": "う",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "うえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1224080/飢える/うえる": {
+      "id": 1224080,
+      "form": "飢える",
+      "kana": "うえる",
+      "gloss": "to starve",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9150,
+        13520,
+        61164,
+        6579
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うえる": {
+          "actual": "う",
+          "dictionary": [
+            "う.える"
+          ]
+        }
+      },
+      "official_examples": [
+        "うえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1224090/飢餓/きが": {
+      "id": 1224090,
+      "form": "飢餓",
+      "kana": "きが",
+      "gloss": "starvation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12984,
+        19970,
+        17976,
+        30037
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "餓": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1224080/飢える/かつえる": {
+      "id": 1224080,
+      "form": "飢える",
+      "kana": "かつえる",
+      "gloss": "to starve",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9150,
+        13520,
+        61164,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "うえる": {
+          "actual": "かつ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "うえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1591080/飢饉/ききん": {
+      "id": 1591080,
+      "form": "飢饉",
+      "kana": "ききん",
+      "gloss": "famine",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7353,
+        20014,
+        30216,
+        35817
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1591040/飢渇/きかつ": {
+      "id": 1591040,
+      "form": "飢渇",
+      "kana": "きかつ",
+      "gloss": "hunger and thirst",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        145463
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "渇": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1869720/飢民/きみん": {
+      "id": 1869720,
+      "form": "飢民",
+      "kana": "きみん",
+      "gloss": "starving people",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        223822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2659720/血に飢える/ちにうえる": {
+      "id": 2659720,
+      "form": "血に飢える",
+      "kana": "ちにうえる",
+      "gloss": "to be bloodthirsty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31542
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "血": 3
+      },
+      "matched": {
+        "うえる": {
+          "actual": "う",
+          "dictionary": [
+            "う.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2434330/飢餓感/きがかん": {
+      "id": 2434330,
+      "form": "飢餓感",
+      "kana": "きがかん",
+      "gloss": "(feeling of) hunger",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        55993
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "餓": 7,
+        "感": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1150490/愛に飢える/あいにうえる": {
+      "id": 1150490,
+      "form": "愛に飢える",
+      "kana": "あいにうえる",
+      "gloss": "to hunger for love",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        61756
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "うえる": {
+          "actual": "う",
+          "dictionary": [
+            "う.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2141950/大飢饉/だいききん": {
+      "id": 2141950,
+      "form": "大飢饉",
+      "kana": "だいききん",
+      "gloss": "great famine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75680
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1591080/飢きん/ききん": {
+      "id": 1591080,
+      "form": "飢きん",
+      "kana": "ききん",
+      "gloss": "famine",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        115248
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2100060/天保の大飢饉/てんぽうのだいききん": {
+      "id": 2100060,
+      "form": "天保の大飢饉",
+      "kana": "てんぽうのだいききん",
+      "gloss": "Great Tempo Famine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        225981
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5,
+        "天": 1,
+        "大": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870824/飢渇丸/きかつがん": {
+      "id": 2870824,
+      "form": "飢渇丸",
+      "kana": "きかつがん",
+      "gloss": "starch-based portable ration pill used by ninja and soldiers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        234669
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "渇": 7,
+        "丸": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1737360/水飢饉/みずききん": {
+      "id": 1737360,
+      "form": "水飢饉",
+      "kana": "みずききん",
+      "gloss": "drought",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5745056/天明の飢饉/てんめいのききん": {
+      "id": 5745056,
+      "form": "天明の飢饉",
+      "kana": "てんめいのききん",
+      "gloss": "Tenmei famine (1782-1787)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        264755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2,
+        "天": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5745057/天保の飢饉/てんぽうのききん": {
+      "id": 5745057,
+      "form": "天保の飢饉",
+      "kana": "てんぽうのききん",
+      "gloss": "Tenpō famine (1833-1836)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5,
+        "天": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1780810/飢寒/きかん": {
+      "id": 1780810,
+      "form": "飢寒",
+      "kana": "きかん",
+      "gloss": "hunger and cold",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寒": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5745055/享保の飢饉/きょうほうのききん": {
+      "id": 5745055,
+      "form": "享保の飢饉",
+      "kana": "きょうほうのききん",
+      "gloss": "Kyōhō famine (1732)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5,
+        "享": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2053500/豊作飢饉/ほうさくききん": {
+      "id": 2053500,
+      "form": "豊作飢饉",
+      "kana": "ほうさくききん",
+      "gloss": "impoverishment of farmers because of a bumper harvest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "作": 2,
+        "豊": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1614570/飢餓療法/きがりょうほう": {
+      "id": 1614570,
+      "form": "飢餓療法",
+      "kana": "きがりょうほう",
+      "gloss": "starvation diet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "法": 4,
+        "餓": 7,
+        "療": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2661200/飢餓線上に/きがせんじょうに": {
+      "id": 2661200,
+      "form": "飢餓線上に",
+      "kana": "きがせんじょうに",
+      "gloss": "on the verge of starvation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "上": 1,
+        "餓": 7,
+        "線": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2714050/飢え死に/うえじに": {
+      "id": 2714050,
+      "form": "飢え死に",
+      "kana": "うえじに",
+      "gloss": "(death from) starvation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38453,
+        36283,
+        57615,
+        24692
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2714050/飢え死に/かつえじに": {
+      "id": 2714050,
+      "form": "飢え死に",
+      "kana": "かつえじに",
+      "gloss": "(death from) starvation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38453,
+        36283,
+        57615,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2563040/飢え凍える/うえこごえる": {
+      "id": 2563040,
+      "form": "飢え凍える",
+      "kana": "うえこごえる",
+      "gloss": "to starve and freeze to death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "凍": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2082250/飢えに苦しむ/うえにくるしむ": {
+      "id": 2082250,
+      "form": "飢えに苦しむ",
+      "kana": "うえにくるしむ",
+      "gloss": "to suffer from hunger",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        66042
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "苦": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2714050/飢え死/うえじに": {
+      "id": 2714050,
+      "form": "飢え死",
+      "kana": "うえじに",
+      "gloss": "(death from) starvation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        97302
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2714050/飢死/うえじに": {
+      "id": 2714050,
+      "form": "飢死",
+      "kana": "うえじに",
+      "gloss": "(death from) starvation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        144067
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2714050/飢死に/うえじに": {
+      "id": 2714050,
+      "form": "飢死に",
+      "kana": "うえじに",
+      "gloss": "(death from) starvation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        220114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2714050/飢死/かつえじに": {
+      "id": 2714050,
+      "form": "飢死",
+      "kana": "かつえじに",
+      "gloss": "(death from) starvation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1224090:飢餓:きが",
+      "form": "飢餓",
+      "kana": "きが",
+      "cue": "starvation; famine",
+      "ids": [
+        1224090
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 30037,
+        "shiberu": 12984,
+        "tubelex": 19970,
+        "wordfreq": 17976
+      },
+      "alternatives_by_kanji": {
+        "餓": [
+          "1587980/餓死/がし",
+          "1587980/餓死/がしん",
+          "1753430/施餓鬼/せがき"
+        ],
+        "飢": [
+          "1224070/飢え/うえ",
+          "1224080/飢える/うえる",
+          "1224080/飢える/かつえる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 11
+}

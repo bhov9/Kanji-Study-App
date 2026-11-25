@@ -1,0 +1,1562 @@
+{
+  "character": "年",
+  "grade": 1,
+  "meanings": [
+    "year",
+    "counter for years"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 51
+    },
+    {
+      "type": "nelson_c",
+      "value": 4
+    }
+  ],
+  "components": [
+    "ノ",
+    "一",
+    "干",
+    "乞"
+  ],
+  "on": [
+    "ネン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "とし",
+      "stem": "とし",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "ね"
+  ],
+  "government": {
+    "kanji": "年",
+    "heading": "年",
+    "readings": [
+      "ネン",
+      "とし"
+    ],
+    "examples_by_reading": [
+      [
+        "年代",
+        "少年",
+        "豊年"
+      ],
+      [
+        "年",
+        "年子",
+        "年寄り"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "今年（ことし）"
+    ],
+    "representative_index": {
+      "kanji": "年",
+      "reading": "ネン",
+      "source": "table_24_ne.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "今年"
+      ],
+      "reading": "ことし",
+      "stage": "elementary",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ネン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 571,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1349170/少年/しょうねん",
+        "1468950/年代/ねんだい",
+        "1518170/豊年/ほうねん",
+        "2084840/年/ねん",
+        "1468380/年間/ねんかん",
+        "1600240/年齢/ねんれい",
+        "1231690/去年/きょねん",
+        "1381750/青年/せいねん",
+        "1469050/年度/ねんど",
+        "1298230/昨年/さくねん"
+      ]
+    },
+    {
+      "reading": "とし",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 121,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1598750/年寄り/としより",
+        "1468750/年子/としご",
+        "1468060/年/とし",
+        "2220370/年/とせ",
+        "1584360/毎年/まいとし",
+        "1583190/半年/はんとし",
+        "1468870/年上/としうえ",
+        "1468230/年下/としした",
+        "1582870/年月/としつき",
+        "1468220/年越し/としこし"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1349170/少年/しょうねん",
+    "1468950/年代/ねんだい",
+    "1598750/年寄り/としより",
+    "1468750/年子/としご",
+    "1518170/豊年/ほうねん",
+    "2084840/年/ねん",
+    "1468060/年/とし",
+    "2220370/年/とせ",
+    "1468380/年間/ねんかん",
+    "1600240/年齢/ねんれい",
+    "1231690/去年/きょねん",
+    "1584360/毎年/まいとし",
+    "1381750/青年/せいねん",
+    "1469050/年度/ねんど",
+    "1298230/昨年/さくねん",
+    "1548220/来年/らいねん",
+    "1583190/半年/はんとし",
+    "1430100/長年/ながねん",
+    "1242510/近年/きんねん",
+    "1468540/年金/ねんきん",
+    "1468870/年上/としうえ",
+    "1469210/年末/ねんまつ",
+    "1468230/年下/としした",
+    "1207030/学年/がくねん",
+    "1468830/年収/ねんしゅう",
+    "1393840/前年/ぜんねん",
+    "1375830/成年/せいねん",
+    "1547520/翌年/よくねん",
+    "1362290/新年/しんねん",
+    "1582860/年々/ねんねん"
+  ],
+  "candidates": {
+    "1349170/少年/しょうねん": {
+      "id": 1349170,
+      "form": "少年",
+      "kana": "しょうねん",
+      "gloss": "boy",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        191,
+        2190,
+        1153,
+        1689
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "少": 2
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ネン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1468950/年代/ねんだい": {
+      "id": 1468950,
+      "form": "年代",
+      "kana": "ねんだい",
+      "gloss": "age",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4815,
+        2642,
+        1587,
+        8453
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ネン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1598750/年寄り/としより": {
+      "id": 1598750,
+      "form": "年寄り",
+      "kana": "としより",
+      "gloss": "old person",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4390,
+        7994,
+        6549,
+        6765
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寄": 5
+      },
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [
+        "とし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1468750/年子/としご": {
+      "id": 1468750,
+      "form": "年子",
+      "kana": "としご",
+      "gloss": "child born within a year of another",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33951,
+        45405,
+        70783,
+        84761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [
+        "とし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1518170/豊年/ほうねん": {
+      "id": 1518170,
+      "form": "豊年",
+      "kana": "ほうねん",
+      "gloss": "fruitful year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40625,
+        59850,
+        53687,
+        130930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "豊": 5
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ネン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2084840/年/ねん": {
+      "id": 2084840,
+      "form": "年",
+      "kana": "ねん",
+      "gloss": "year",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        206
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [
+        "とし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1468060/年/とし": {
+      "id": 1468060,
+      "form": "年",
+      "kana": "とし",
+      "gloss": "year",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2449
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [
+        "とし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2220370/年/とせ": {
+      "id": 2220370,
+      "form": "年",
+      "kana": "とせ",
+      "gloss": "counter for years",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とし": {
+          "actual": "とせ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "とし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1468380/年間/ねんかん": {
+      "id": 1468380,
+      "form": "年間",
+      "kana": "ねんかん",
+      "gloss": "(period of) a year",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        524,
+        882,
+        814,
+        1969
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600240/年齢/ねんれい": {
+      "id": 1600240,
+      "form": "年齢",
+      "kana": "ねんれい",
+      "gloss": "age",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1209,
+        1901,
+        1311,
+        2151
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "齢": 7
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1231690/去年/きょねん": {
+      "id": 1231690,
+      "form": "去年",
+      "kana": "きょねん",
+      "gloss": "last year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        1434,
+        1508,
+        2428,
+        2161
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "去": 3
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1584360/毎年/まいとし": {
+      "id": 1584360,
+      "form": "毎年",
+      "kana": "まいとし",
+      "gloss": "every year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1060,
+        2561,
+        2289,
+        3131
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "毎": 2
+      },
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1381750/青年/せいねん": {
+      "id": 1381750,
+      "form": "青年",
+      "kana": "せいねん",
+      "gloss": "youth",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        737,
+        5345,
+        5233,
+        4349
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "青": 1
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1469050/年度/ねんど": {
+      "id": 1469050,
+      "form": "年度",
+      "kana": "ねんど",
+      "gloss": "fiscal year (usu. April 1 to March 31 in Japan)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        5437,
+        1560,
+        1922,
+        20371
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "度": 3
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1298230/昨年/さくねん": {
+      "id": 1298230,
+      "form": "昨年",
+      "kana": "さくねん",
+      "gloss": "last year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        1898,
+        1945,
+        4192,
+        9063
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "昨": 4
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1548220/来年/らいねん": {
+      "id": 1548220,
+      "form": "来年",
+      "kana": "らいねん",
+      "gloss": "next year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        3123,
+        2211,
+        2934,
+        3124
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1583190/半年/はんとし": {
+      "id": 1583190,
+      "form": "半年",
+      "kana": "はんとし",
+      "gloss": "half a year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        2787,
+        2966,
+        3454,
+        2250
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "半": 2
+      },
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1430100/長年/ながねん": {
+      "id": 1430100,
+      "form": "長年",
+      "kana": "ながねん",
+      "gloss": "many years",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        1908,
+        4823,
+        4261,
+        3574
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1242510/近年/きんねん": {
+      "id": 1242510,
+      "form": "近年",
+      "kana": "きんねん",
+      "gloss": "recent years",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        3526,
+        5255,
+        3663,
+        11525
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "近": 2
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1468540/年金/ねんきん": {
+      "id": 1468540,
+      "form": "年金",
+      "kana": "ねんきん",
+      "gloss": "annuity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5326,
+        3113,
+        4034,
+        29105
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1468870/年上/としうえ": {
+      "id": 1468870,
+      "form": "年上",
+      "kana": "としうえ",
+      "gloss": "older",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        2884,
+        7630,
+        6453,
+        3003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1469210/年末/ねんまつ": {
+      "id": 1469210,
+      "form": "年末",
+      "kana": "ねんまつ",
+      "gloss": "end-of-year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        6184,
+        4156,
+        6263,
+        12458
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "末": 4
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1468230/年下/としした": {
+      "id": 1468230,
+      "form": "年下",
+      "kana": "としした",
+      "gloss": "younger",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3559,
+        10474,
+        9454,
+        4269
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1207030/学年/がくねん": {
+      "id": 1207030,
+      "form": "学年",
+      "kana": "がくねん",
+      "gloss": "academic year",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5274,
+        6682,
+        7013,
+        5820
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1468830/年収/ねんしゅう": {
+      "id": 1468830,
+      "form": "年収",
+      "kana": "ねんしゅう",
+      "gloss": "annual income",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15085,
+        5807,
+        4955,
+        23333
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1393840/前年/ぜんねん": {
+      "id": 1393840,
+      "form": "前年",
+      "kana": "ぜんねん",
+      "gloss": "the preceding year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        6568,
+        7537,
+        6453,
+        37449
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1375830/成年/せいねん": {
+      "id": 1375830,
+      "form": "成年",
+      "kana": "せいねん",
+      "gloss": "adult age",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3865,
+        10201,
+        21459,
+        52990
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1547520/翌年/よくねん": {
+      "id": 1547520,
+      "form": "翌年",
+      "kana": "よくねん",
+      "gloss": "following year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        5761,
+        8308,
+        11368,
+        19395
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "翌": 6
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1362290/新年/しんねん": {
+      "id": 1362290,
+      "form": "新年",
+      "kana": "しんねん",
+      "gloss": "New Year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        6752,
+        7383,
+        10707,
+        17280
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1582860/年々/ねんねん": {
+      "id": 1582860,
+      "form": "年々",
+      "kana": "ねんねん",
+      "gloss": "year by year",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        5171,
+        9794,
+        12892,
+        17092
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ネン": {
+          "actual": "ねん",
+          "dictionary": [
+            "ネン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1582870/年月/としつき": {
+      "id": 1582870,
+      "form": "年月",
+      "kana": "としつき",
+      "gloss": "months and years",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5522,
+        11845,
+        12892,
+        7450
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1468220/年越し/としこし": {
+      "id": 1468220,
+      "form": "年越し",
+      "kana": "としこし",
+      "gloss": "greeting the New Year (on New Year's Eve)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12949,
+        15973,
+        19315,
+        23210
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "とし": {
+          "actual": "とし",
+          "dictionary": [
+            "とし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1242510:近年:きんねん",
+      "form": "近年",
+      "kana": "きんねん",
+      "cue": "recent years",
+      "ids": [
+        1242510
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 11525,
+        "shiberu": 3526,
+        "tubelex": 5255,
+        "wordfreq": 3663
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1298230:昨年:さくねん",
+      "form": "昨年",
+      "kana": "さくねん",
+      "cue": "last year",
+      "ids": [
+        1298230
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9063,
+        "shiberu": 1898,
+        "tubelex": 1945,
+        "wordfreq": 4192
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1430100:永年:ながねん",
+      "form": "永年",
+      "kana": "ながねん",
+      "cue": "many years; a long time",
+      "ids": [
+        1430100
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 58786,
+        "shiberu": 27587,
+        "tubelex": 40322,
+        "wordfreq": 31382
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1468060:年:とし",
+      "form": "年",
+      "kana": "とし",
+      "cue": "year",
+      "ids": [
+        1468060
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 2449,
+        "shiberu": 82,
+        "tubelex": 95,
+        "wordfreq": 53
+      }
+    },
+    {
+      "wordId": "jmdict:1468540:年金:ねんきん",
+      "form": "年金",
+      "kana": "ねんきん",
+      "cue": "annuity; pension",
+      "ids": [
+        1468540
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 29105,
+        "shiberu": 5326,
+        "tubelex": 3113,
+        "wordfreq": 4034
+      },
+      "alternatives_by_kanji": {
+        "金": [
+          "1243040/金属/きんぞく",
+          "1242970/金持ち/かねもち",
+          "1243020/金銭/きんせん"
+        ],
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1469170:年俸:ねんぽう",
+      "form": "年俸",
+      "kana": "ねんぽう",
+      "cue": "annual salary",
+      "ids": [
+        1469170
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 60971,
+        "shiberu": 32402,
+        "tubelex": 17465,
+        "wordfreq": 22289
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1519280:忘年会:ぼうねんかい",
+      "form": "忘年会",
+      "kana": "ぼうねんかい",
+      "cue": "year-end party; \"forget-the-year\" party",
+      "ids": [
+        1519280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 39614,
+        "wordfreq": 17251
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1548220:来年:らいねん",
+      "form": "来年",
+      "kana": "らいねん",
+      "cue": "next year",
+      "ids": [
+        1548220
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3124,
+        "shiberu": 3123,
+        "tubelex": 2211,
+        "wordfreq": 2934
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1600240:年令:ねんれい",
+      "form": "年令",
+      "kana": "ねんれい",
+      "cue": "age; years",
+      "ids": [
+        1600240
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 107805,
+        "wordfreq": 72128
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1600240:年齢:ねんれい",
+      "form": "年齢",
+      "kana": "ねんれい",
+      "cue": "age; years",
+      "ids": [
+        1600240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2151,
+        "shiberu": 1209,
+        "tubelex": 1901,
+        "wordfreq": 1311
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 200
+}

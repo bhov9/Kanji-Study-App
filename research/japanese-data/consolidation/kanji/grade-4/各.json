@@ -1,0 +1,1290 @@
+{
+  "character": "各",
+  "grade": 4,
+  "meanings": [
+    "each",
+    "every",
+    "either"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    },
+    {
+      "type": "nelson_c",
+      "value": 34
+    }
+  ],
+  "components": [
+    "口",
+    "夂",
+    "攵"
+  ],
+  "on": [
+    "カク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おのおの",
+      "stem": "おのおの",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "かか",
+    "かが"
+  ],
+  "government": {
+    "kanji": "各",
+    "heading": "各",
+    "readings": [
+      "カク",
+      "おのおの"
+    ],
+    "examples_by_reading": [
+      [
+        "各自",
+        "各種",
+        "各位"
+      ],
+      [
+        "各"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "「各々」とも書く。"
+    ],
+    "representative_index": {
+      "kanji": "各",
+      "reading": "カク",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 53,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1205040/各種/かくしゅ",
+        "1205010/各自/かくじ",
+        "1204870/各位/かくい",
+        "1204860/各/かく",
+        "1205100/各地/かくち",
+        "1205030/各社/かくしゃ",
+        "1205050/各所/かくしょ",
+        "1205080/各人/かくじん",
+        "1204890/各駅/かくえき",
+        "1205150/各部/かくぶ"
+      ]
+    },
+    {
+      "reading": "おのおの",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2723440/各様/おのおのさま",
+        "2826190/各/おのおの",
+        "1852760/各方/おのおのがた"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1205040/各種/かくしゅ",
+    "1205010/各自/かくじ",
+    "1204870/各位/かくい",
+    "1204860/各/かく",
+    "1205100/各地/かくち",
+    "1205030/各社/かくしゃ",
+    "1205050/各所/かくしょ",
+    "1205080/各人/かくじん",
+    "1204890/各駅/かくえき",
+    "1205150/各部/かくぶ",
+    "1205090/各層/かくそう",
+    "1205000/各紙/かくし",
+    "2855006/各州/かくしゅう",
+    "1204920/各階/かくかい",
+    "1204990/各市/かくし",
+    "2723440/各様/かくよう",
+    "1204980/各国/かくこく",
+    "1205140/各藩/かくはん",
+    "1204940/各県/かくけん",
+    "1205110/各店/かくてん",
+    "2723440/各様/おのおのさま",
+    "1204960/各校/かくこう",
+    "1577470/各回/かくかい",
+    "1205170/各論/かくろん",
+    "1205060/各省/かくしょう",
+    "2735340/各科/かくか",
+    "1204930/各月/かくげつ",
+    "2837827/各日/かくじつ",
+    "1204970/各行/かくぎょう",
+    "1204880/各員/かくいん"
+  ],
+  "candidates": {
+    "1205040/各種/かくしゅ": {
+      "id": 1205040,
+      "form": "各種",
+      "kana": "かくしゅ",
+      "gloss": "every kind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        6719,
+        5055,
+        3167,
+        11084
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [
+        "カク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1205010/各自/かくじ": {
+      "id": 1205010,
+      "form": "各自",
+      "kana": "かくじ",
+      "gloss": "each (person)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        6691,
+        11276,
+        11917,
+        6445
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [
+        "カク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1204870/各位/かくい": {
+      "id": 1204870,
+      "form": "各位",
+      "kana": "かくい",
+      "gloss": "everyone",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32393,
+        33444,
+        21459,
+        53991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "位": 4
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [
+        "カク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1204860/各/かく": {
+      "id": 1204860,
+      "form": "各",
+      "kana": "かく",
+      "gloss": "each",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "pref"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2283
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [
+        "おのおの"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1205100/各地/かくち": {
+      "id": 1205100,
+      "form": "各地",
+      "kana": "かくち",
+      "gloss": "each place",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3263,
+        4417,
+        3734,
+        6237
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1205030/各社/かくしゃ": {
+      "id": 1205030,
+      "form": "各社",
+      "kana": "かくしゃ",
+      "gloss": "all companies",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16684,
+        9285,
+        7753,
+        35850
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "社": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205050/各所/かくしょ": {
+      "id": 1205050,
+      "form": "各所",
+      "kana": "かくしょ",
+      "gloss": "each place",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        9885,
+        16359,
+        14745,
+        11865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205080/各人/かくじん": {
+      "id": 1205080,
+      "form": "各人",
+      "kana": "かくじん",
+      "gloss": "each person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        7581,
+        27831,
+        21741,
+        26046
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204890/各駅/かくえき": {
+      "id": 1204890,
+      "form": "各駅",
+      "kana": "かくえき",
+      "gloss": "every station",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11404,
+        17330,
+        17002,
+        86906
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "駅": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205150/各部/かくぶ": {
+      "id": 1205150,
+      "form": "各部",
+      "kana": "かくぶ",
+      "gloss": "all parts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32166,
+        15846,
+        25040,
+        26529
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "部": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205090/各層/かくそう": {
+      "id": 1205090,
+      "form": "各層",
+      "kana": "かくそう",
+      "gloss": "each stratum",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19893,
+        55605,
+        55944,
+        93093
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "層": 6
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205000/各紙/かくし": {
+      "id": 1205000,
+      "form": "各紙",
+      "kana": "かくし",
+      "gloss": "each newspaper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28547,
+        43563,
+        36201,
+        90286
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紙": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855006/各州/かくしゅう": {
+      "id": 2855006,
+      "form": "各州",
+      "kana": "かくしゅう",
+      "gloss": "each state",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32479,
+        38931,
+        51518,
+        90100
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "州": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204920/各階/かくかい": {
+      "id": 1204920,
+      "form": "各階",
+      "kana": "かくかい",
+      "gloss": "each floor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        33935,
+        47603,
+        48867,
+        41789
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "階": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204990/各市/かくし": {
+      "id": 1204990,
+      "form": "各市",
+      "kana": "かくし",
+      "gloss": "every city",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32849,
+        34060,
+        96370,
+        152181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "市": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2723440/各様/かくよう": {
+      "id": 2723440,
+      "form": "各様",
+      "kana": "かくよう",
+      "gloss": "many ways",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31236,
+        95069,
+        151646,
+        183549
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204980/各国/かくこく": {
+      "id": 1204980,
+      "form": "各国",
+      "kana": "かくこく",
+      "gloss": "each country",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7109,
+        4470,
+        5154,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1205140/各藩/かくはん": {
+      "id": 1205140,
+      "form": "各藩",
+      "kana": "かくはん",
+      "gloss": "each (feudal) domain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13689,
+        63933,
+        null,
+        95680
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "藩": 7
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204940/各県/かくけん": {
+      "id": 1204940,
+      "form": "各県",
+      "kana": "かくけん",
+      "gloss": "each prefecture",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15658,
+        41422,
+        null,
+        95220
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "県": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205110/各店/かくてん": {
+      "id": 1205110,
+      "form": "各店",
+      "kana": "かくてん",
+      "gloss": "each shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25604,
+        29477,
+        80128
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2723440/各様/おのおのさま": {
+      "id": 2723440,
+      "form": "各様",
+      "kana": "おのおのさま",
+      "gloss": "many ways",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31236,
+        95069,
+        151646,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "様": 3
+      },
+      "matched": {
+        "おのおの": {
+          "actual": "おのおの",
+          "dictionary": [
+            "おのおの"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204960/各校/かくこう": {
+      "id": 1204960,
+      "form": "各校",
+      "kana": "かくこう",
+      "gloss": "each school",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42221,
+        48344,
+        71755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "校": 1
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1577470/各回/かくかい": {
+      "id": 1577470,
+      "form": "各回",
+      "kana": "かくかい",
+      "gloss": "each time",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        35359,
+        186127
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "回": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205170/各論/かくろん": {
+      "id": 1205170,
+      "form": "各論",
+      "kana": "かくろん",
+      "gloss": "item-by-item discussion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41067,
+        55378,
+        136038
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205060/各省/かくしょう": {
+      "id": 1205060,
+      "form": "各省",
+      "kana": "かくしょう",
+      "gloss": "each ministry",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41422,
+        66810,
+        96122
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "省": 4
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2735340/各科/かくか": {
+      "id": 2735340,
+      "form": "各科",
+      "kana": "かくか",
+      "gloss": "each (school) subject",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        88001,
+        93738
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "科": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204930/各月/かくげつ": {
+      "id": 1204930,
+      "form": "各月",
+      "kana": "かくげつ",
+      "gloss": "every month",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        65516,
+        135971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837827/各日/かくじつ": {
+      "id": 2837827,
+      "form": "各日",
+      "kana": "かくじつ",
+      "gloss": "each day",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        50386,
+        170858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204970/各行/かくぎょう": {
+      "id": 1204970,
+      "form": "各行",
+      "kana": "かくぎょう",
+      "gloss": "each line",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        57577,
+        75713,
+        113368
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204880/各員/かくいん": {
+      "id": 1204880,
+      "form": "各員",
+      "kana": "かくいん",
+      "gloss": "each one",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        98142,
+        33260
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "員": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826190/各/おのおの": {
+      "id": 2826190,
+      "form": "各",
+      "kana": "おのおの",
+      "gloss": "each",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        212876
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おのおの": {
+          "actual": "おのおの",
+          "dictionary": [
+            "おのおの"
+          ]
+        }
+      },
+      "official_examples": [
+        "おのおの"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1852760/各方/おのおのがた": {
+      "id": 1852760,
+      "form": "各方",
+      "kana": "おのおのがた",
+      "gloss": "all of you",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "pn"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        182411
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "おのおの": {
+          "actual": "おのおの",
+          "dictionary": [
+            "おのおの"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1205010:各自:かくじ",
+      "form": "各自",
+      "kana": "かくじ",
+      "cue": "each (person); everyone",
+      "ids": [
+        1205010
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6445,
+        "shiberu": 6691,
+        "tubelex": 11276,
+        "wordfreq": 11917
+      },
+      "alternatives_by_kanji": {
+        "自": [
+          "1318610/自分/じぶん",
+          "1318720/自由/じゆう",
+          "1318090/自然/しぜん"
+        ],
+        "各": [
+          "1205040/各種/かくしゅ",
+          "1204870/各位/かくい",
+          "1204860/各/かく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 20
+}

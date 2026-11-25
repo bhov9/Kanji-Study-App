@@ -1,0 +1,1497 @@
+{
+  "character": "教",
+  "grade": 2,
+  "meanings": [
+    "teach",
+    "faith",
+    "doctrine"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 66
+    }
+  ],
+  "components": [
+    "子",
+    "老",
+    "攵",
+    "乞"
+  ],
+  "on": [
+    "キョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おし.える",
+      "stem": "おし",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "おそ.わる",
+      "stem": "おそ",
+      "okurigana": "わる"
+    }
+  ],
+  "nanori": [
+    "のり",
+    "ひさ"
+  ],
+  "government": {
+    "kanji": "教",
+    "heading": "教",
+    "readings": [
+      "キョウ",
+      "おしえる",
+      "おそわる"
+    ],
+    "examples_by_reading": [
+      [
+        "教育",
+        "教訓",
+        "宗教"
+      ],
+      [
+        "教える",
+        "教え"
+      ],
+      [
+        "教わる"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "教",
+      "reading": "キョウ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キョウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 555,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1236950/教育/きょういく",
+        "1331400/宗教/しゅうきょう",
+        "1237080/教訓/きょうくん",
+        "1237030/教会/きょうかい",
+        "1237160/教授/きょうじゅ",
+        "1237130/教師/きょうし",
+        "2866243/教/きょう",
+        "1237150/教室/きょうしつ",
+        "1237010/教科/きょうか",
+        "1501930/仏教/ぶっきょう"
+      ]
+    },
+    {
+      "reading": "おしえる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1236900/教える/おしえる",
+        "1236890/教え/おしえ",
+        "2400150/背中で教える/せなかでおしえる"
+      ]
+    },
+    {
+      "reading": "おそわる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1236940/教わる/おそわる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1236900/教える/おしえる",
+    "1236950/教育/きょういく",
+    "1236890/教え/おしえ",
+    "1331400/宗教/しゅうきょう",
+    "1236940/教わる/おそわる",
+    "1237080/教訓/きょうくん",
+    "1237030/教会/きょうかい",
+    "1237160/教授/きょうじゅ",
+    "1237130/教師/きょうし",
+    "2866243/教/きょう",
+    "1237150/教室/きょうしつ",
+    "1237010/教科/きょうか",
+    "1501930/仏教/ぶっきょう",
+    "1236980/教員/きょういん",
+    "1386430/説教/せっきょう",
+    "1237370/教養/きょうよう",
+    "1237110/教材/きょうざい",
+    "1623100/調教/ちょうきょう",
+    "1237260/教団/きょうだん",
+    "1237090/教皇/きょうこう",
+    "1237050/教官/きょうかん",
+    "1616790/布教/ふきょう",
+    "1237230/教職員/きょうしょくいん",
+    "1389660/宣教/せんきょう",
+    "1237170/教習/きょうしゅう",
+    "1306660/司教/しきょう",
+    "1237060/教義/きょうぎ",
+    "1329510/儒教/じゅきょう",
+    "1630240/教頭/きょうとう",
+    "1237220/教職/きょうしょく"
+  ],
+  "candidates": {
+    "1236900/教える/おしえる": {
+      "id": 1236900,
+      "form": "教える",
+      "kana": "おしえる",
+      "gloss": "to teach",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        791,
+        429,
+        4117,
+        193
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おしえる": {
+          "actual": "おし",
+          "dictionary": [
+            "おし.える"
+          ]
+        }
+      },
+      "official_examples": [
+        "おしえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1236950/教育/きょういく": {
+      "id": 1236950,
+      "form": "教育",
+      "kana": "きょういく",
+      "gloss": "education",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        601,
+        991,
+        710,
+        2753
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "育": 3
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1236890/教え/おしえ": {
+      "id": 1236890,
+      "form": "教え",
+      "kana": "おしえ",
+      "gloss": "teaching",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9783,
+        3746,
+        434,
+        4985
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おしえる": {
+          "actual": "おし",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "おしえる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1331400/宗教/しゅうきょう": {
+      "id": 1331400,
+      "form": "宗教",
+      "kana": "しゅうきょう",
+      "gloss": "religion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1656,
+        2640,
+        2110,
+        8228
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宗": 6
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1236940/教わる/おそわる": {
+      "id": 1236940,
+      "form": "教わる",
+      "kana": "おそわる",
+      "gloss": "to be taught",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4853,
+        6698,
+        26690,
+        2734
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おそわる": {
+          "actual": "おそ",
+          "dictionary": [
+            "おそ.わる"
+          ]
+        }
+      },
+      "official_examples": [
+        "おそわる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1237080/教訓/きょうくん": {
+      "id": 1237080,
+      "form": "教訓",
+      "kana": "きょうくん",
+      "gloss": "lesson",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6412,
+        9356,
+        10372,
+        12613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訓": 4
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キョウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1237030/教会/きょうかい": {
+      "id": 1237030,
+      "form": "教会",
+      "kana": "きょうかい",
+      "gloss": "church",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        799,
+        2047,
+        2375,
+        6069
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1237160/教授/きょうじゅ": {
+      "id": 1237160,
+      "form": "教授",
+      "kana": "きょうじゅ",
+      "gloss": "professor",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1153,
+        4059,
+        1753,
+        5809
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "授": 5
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237130/教師/きょうし": {
+      "id": 1237130,
+      "form": "教師",
+      "kana": "きょうし",
+      "gloss": "teacher",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1298,
+        4211,
+        2024,
+        2890
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "師": 5
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2866243/教/きょう": {
+      "id": 2866243,
+      "form": "教",
+      "kana": "きょう",
+      "gloss": "-ism (religion)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        1667,
+        2661,
+        3103,
+        11471
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237150/教室/きょうしつ": {
+      "id": 1237150,
+      "form": "教室",
+      "kana": "きょうしつ",
+      "gloss": "classroom",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2700,
+        2825,
+        2625,
+        2001
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "室": 2
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237010/教科/きょうか": {
+      "id": 1237010,
+      "form": "教科",
+      "kana": "きょうか",
+      "gloss": "subject",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2092,
+        3167,
+        11368,
+        13879
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "科": 2
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1501930/仏教/ぶっきょう": {
+      "id": 1501930,
+      "form": "仏教",
+      "kana": "ぶっきょう",
+      "gloss": "Buddhism",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4568,
+        3608,
+        6355,
+        27243
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仏": 5
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1236980/教員/きょういん": {
+      "id": 1236980,
+      "form": "教員",
+      "kana": "きょういん",
+      "gloss": "teacher",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3811,
+        5251,
+        5679,
+        15591
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "員": 3
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1386430/説教/せっきょう": {
+      "id": 1386430,
+      "form": "説教",
+      "kana": "せっきょう",
+      "gloss": "sermon",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6302,
+        9188,
+        7265,
+        3220
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237370/教養/きょうよう": {
+      "id": 1237370,
+      "form": "教養",
+      "kana": "きょうよう",
+      "gloss": "(understanding or appreciation of) culture",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3989,
+        11753,
+        7896,
+        14375
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "養": 4
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1237110/教材/きょうざい": {
+      "id": 1237110,
+      "form": "教材",
+      "kana": "きょうざい",
+      "gloss": "teaching materials",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8896,
+        6838,
+        9302,
+        20714
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "材": 4
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1623100/調教/ちょうきょう": {
+      "id": 1623100,
+      "form": "調教",
+      "kana": "ちょうきょう",
+      "gloss": "training (animals)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20102,
+        12802,
+        4955,
+        14516
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237260/教団/きょうだん": {
+      "id": 1237260,
+      "form": "教団",
+      "kana": "きょうだん",
+      "gloss": "religious organization",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20001,
+        10837,
+        10707,
+        25908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "団": 5
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237090/教皇/きょうこう": {
+      "id": 1237090,
+      "form": "教皇",
+      "kana": "きょうこう",
+      "gloss": "Pope",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14156,
+        11863,
+        16770,
+        41139
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "皇": 6
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237050/教官/きょうかん": {
+      "id": 1237050,
+      "form": "教官",
+      "kana": "きょうかん",
+      "gloss": "teacher",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22997,
+        16530,
+        11368,
+        15989
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "官": 4
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1616790/布教/ふきょう": {
+      "id": 1616790,
+      "form": "布教",
+      "kana": "ふきょう",
+      "gloss": "propagation (e.g. a religion)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20520,
+        19130,
+        13462,
+        26257
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237230/教職員/きょうしょくいん": {
+      "id": 1237230,
+      "form": "教職員",
+      "kana": "きょうしょくいん",
+      "gloss": "teaching staff",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21589,
+        12792,
+        19596,
+        35664
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "職": 5,
+        "員": 3
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389660/宣教/せんきょう": {
+      "id": 1389660,
+      "form": "宣教",
+      "kana": "せんきょう",
+      "gloss": "religious mission",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17998,
+        10083,
+        37951,
+        93862
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宣": 6
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237170/教習/きょうしゅう": {
+      "id": 1237170,
+      "form": "教習",
+      "kana": "きょうしゅう",
+      "gloss": "training",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        19802,
+        14488,
+        21173,
+        62942
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "習": 3
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1306660/司教/しきょう": {
+      "id": 1306660,
+      "form": "司教",
+      "kana": "しきょう",
+      "gloss": "bishop (Catholic)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16918,
+        29195,
+        19315,
+        38885
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "司": 4
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237060/教義/きょうぎ": {
+      "id": 1237060,
+      "form": "教義",
+      "kana": "きょうぎ",
+      "gloss": "creed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27126,
+        27177,
+        15185,
+        26965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "義": 5
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1329510/儒教/じゅきょう": {
+      "id": 1329510,
+      "form": "儒教",
+      "kana": "じゅきょう",
+      "gloss": "Confucianism",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17966,
+        22668,
+        22017,
+        80646
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "儒": 7
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1630240/教頭/きょうとう": {
+      "id": 1630240,
+      "form": "教頭",
+      "kana": "きょうとう",
+      "gloss": "deputy head teacher",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28888,
+        18349,
+        26690,
+        22992
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頭": 2
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237220/教職/きょうしょく": {
+      "id": 1237220,
+      "form": "教職",
+      "kana": "きょうしょく",
+      "gloss": "the teaching profession",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22212,
+        27951,
+        23842,
+        37331
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "職": 5
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2400150/背中で教える/せなかでおしえる": {
+      "id": 2400150,
+      "form": "背中で教える",
+      "kana": "せなかでおしえる",
+      "gloss": "to teach by example",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1,
+        "背": 6
+      },
+      "matched": {
+        "おしえる": {
+          "actual": "おし",
+          "dictionary": [
+            "おし.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1236950:教育:きょういく",
+      "form": "教育",
+      "kana": "きょういく",
+      "cue": "education; schooling",
+      "ids": [
+        1236950
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2753,
+        "shiberu": 601,
+        "tubelex": 991,
+        "wordfreq": 710
+      },
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236890/教え/おしえ",
+          "1331400/宗教/しゅうきょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1237150:教室:きょうしつ",
+      "form": "教室",
+      "kana": "きょうしつ",
+      "cue": "classroom; lecture room",
+      "ids": [
+        1237150
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2001,
+        "shiberu": 2700,
+        "tubelex": 2825,
+        "wordfreq": 2625
+      },
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1237160:教授:きょうじゅ",
+      "form": "教授",
+      "kana": "きょうじゅ",
+      "cue": "professor",
+      "ids": [
+        1237160
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5809,
+        "shiberu": 1153,
+        "tubelex": 4059,
+        "wordfreq": 1753
+      },
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1237360:教喩:きょうゆ",
+      "form": "教喩",
+      "kana": "きょうゆ",
+      "cue": "(licensed) teacher",
+      "ids": [
+        1237360
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "no primary exact-form evidence",
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {},
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1237360:教諭:きょうゆ",
+      "form": "教諭",
+      "kana": "きょうゆ",
+      "cue": "(licensed) teacher",
+      "ids": [
+        1237360
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 31665,
+        "tubelex": 19130,
+        "wordfreq": 11368
+      },
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1329510:儒教:じゅきょう",
+      "form": "儒教",
+      "kana": "じゅきょう",
+      "cue": "Confucianism",
+      "ids": [
+        1329510
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 80646,
+        "shiberu": 17966,
+        "tubelex": 22668,
+        "wordfreq": 22017
+      },
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1331400:宗教:しゅうきょう",
+      "form": "宗教",
+      "kana": "しゅうきょう",
+      "cue": "religion; religious affiliation",
+      "ids": [
+        1331400
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 8228,
+        "shiberu": 1656,
+        "tubelex": 2640,
+        "wordfreq": 2110
+      },
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1501930:仏教:ぶっきょう",
+      "form": "仏教",
+      "kana": "ぶっきょう",
+      "cue": "Buddhism",
+      "ids": [
+        1501930
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 27243,
+        "shiberu": 4568,
+        "tubelex": 3608,
+        "wordfreq": 6355
+      },
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1635820:殉教:じゅんきょう",
+      "form": "殉教",
+      "kana": "じゅんきょう",
+      "cue": "martyrdom",
+      "ids": [
+        1635820
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 59089,
+        "shiberu": 32091,
+        "tubelex": 28755,
+        "wordfreq": 46387
+      },
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 50
+}

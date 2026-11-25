@@ -1,0 +1,863 @@
+{
+  "character": "罷",
+  "grade": 7,
+  "meanings": [
+    "quit",
+    "stop",
+    "leave",
+    "withdraw",
+    "go"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 122
+    }
+  ],
+  "components": [
+    "月",
+    "買",
+    "匕",
+    "厶"
+  ],
+  "on": [
+    "ヒ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "まか.り-",
+      "stem": "まか",
+      "okurigana": "り-"
+    },
+    {
+      "sourceNotation": "や.める",
+      "stem": "や",
+      "okurigana": "める"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "罷",
+    "heading": "罷",
+    "readings": [
+      "ヒ"
+    ],
+    "examples_by_reading": [
+      [
+        "罷業",
+        "罷免"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "罷",
+      "reading": "ヒ",
+      "source": "table_27_hi.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヒ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1484240/罷免/ひめん",
+        "1484230/罷業/ひぎょう",
+        "1771680/罷免権/ひめんけん",
+        "1453510/同盟罷業/どうめいひぎょう",
+        "1708750/総罷業/そうひぎょう",
+        "1708430/総同盟罷業/そうどうめいひぎょう",
+        "1903500/罷官/ひかん"
+      ]
+    },
+    {
+      "reading": "まかり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1849240/罷り通る/まかりとおる",
+        "1849230/罷り出る/まかりでる",
+        "1849250/罷り越す/まかりこす",
+        "1849260/罷り間違う/まかりまちがう",
+        "2862928/罷り間違っても/まかりまちがっても",
+        "1909280/罷り間違えば/まかりまちがえば",
+        "1484220/罷り/まかり",
+        "1909270/罷りならぬ/まかりならぬ",
+        "1909270/罷り成らぬ/まかりならぬ"
+      ]
+    },
+    {
+      "reading": "やめる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1318950/罷める/やめる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1484240/罷免/ひめん",
+    "1484230/罷業/ひぎょう",
+    "1849240/罷り通る/まかりとおる",
+    "1849230/罷り出る/まかりでる",
+    "1849250/罷り越す/まかりこす",
+    "1318950/罷める/やめる",
+    "1771680/罷免権/ひめんけん",
+    "1849260/罷り間違う/まかりまちがう",
+    "2862928/罷り間違っても/まかりまちがっても",
+    "1453510/同盟罷業/どうめいひぎょう",
+    "1708750/総罷業/そうひぎょう",
+    "1909280/罷り間違えば/まかりまちがえば",
+    "1708430/総同盟罷業/そうどうめいひぎょう",
+    "1706000/身罷る/みまかる",
+    "1484210/罷めさせる/やめさせる",
+    "1484220/罷り/まかり",
+    "1909270/罷りならぬ/まかりならぬ",
+    "1909270/罷り成らぬ/まかりならぬ",
+    "1903500/罷官/ひかん",
+    "1310640/罷む/やむ"
+  ],
+  "candidates": {
+    "1484240/罷免/ひめん": {
+      "id": 1484240,
+      "form": "罷免",
+      "kana": "ひめん",
+      "gloss": "dismissal (from a position)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27832,
+        37400,
+        27016,
+        50706
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "免": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1484230/罷業/ひぎょう": {
+      "id": 1484230,
+      "form": "罷業",
+      "kana": "ひぎょう",
+      "gloss": "strike",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1849240/罷り通る/まかりとおる": {
+      "id": 1849240,
+      "form": "罷り通る",
+      "kana": "まかりとおる",
+      "gloss": "to go unpunished",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        33233,
+        103620,
+        80132
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2
+      },
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1849230/罷り出る/まかりでる": {
+      "id": 1849230,
+      "form": "罷り出る",
+      "kana": "まかりでる",
+      "gloss": "to leave",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        142768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1849250/罷り越す/まかりこす": {
+      "id": 1849250,
+      "form": "罷り越す",
+      "kana": "まかりこす",
+      "gloss": "to go to",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        99674
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1318950/罷める/やめる": {
+      "id": 1318950,
+      "form": "罷める",
+      "kana": "やめる",
+      "gloss": "to resign",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        171034
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "やめる": {
+          "actual": "や",
+          "dictionary": [
+            "や.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771680/罷免権/ひめんけん": {
+      "id": 1771680,
+      "form": "罷免権",
+      "kana": "ひめんけん",
+      "gloss": "authority to dismiss someone (from a position)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        234032
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "免": 7,
+        "権": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1849260/罷り間違う/まかりまちがう": {
+      "id": 1849260,
+      "form": "罷り間違う",
+      "kana": "まかりまちがう",
+      "gloss": "to make a mistake",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        241892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2,
+        "違": 7
+      },
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862928/罷り間違っても/まかりまちがっても": {
+      "id": 2862928,
+      "form": "罷り間違っても",
+      "kana": "まかりまちがっても",
+      "gloss": "even in the worst case",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2,
+        "違": 7
+      },
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1453510/同盟罷業/どうめいひぎょう": {
+      "id": 1453510,
+      "form": "同盟罷業",
+      "kana": "どうめいひぎょう",
+      "gloss": "strike",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2,
+        "業": 3,
+        "盟": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1708750/総罷業/そうひぎょう": {
+      "id": 1708750,
+      "form": "総罷業",
+      "kana": "そうひぎょう",
+      "gloss": "general strike",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3,
+        "総": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1909280/罷り間違えば/まかりまちがえば": {
+      "id": 1909280,
+      "form": "罷り間違えば",
+      "kana": "まかりまちがえば",
+      "gloss": "if things go wrong",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2,
+        "違": 7
+      },
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1708430/総同盟罷業/そうどうめいひぎょう": {
+      "id": 1708430,
+      "form": "総同盟罷業",
+      "kana": "そうどうめいひぎょう",
+      "gloss": "general strike",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "総": 5,
+        "同": 2,
+        "業": 3,
+        "盟": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1706000/身罷る/みまかる": {
+      "id": 1706000,
+      "form": "身罷る",
+      "kana": "みまかる",
+      "gloss": "to pass away",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        73458
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1484210/罷めさせる/やめさせる": {
+      "id": 1484210,
+      "form": "罷めさせる",
+      "kana": "やめさせる",
+      "gloss": "to fire (from job)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1484220/罷り/まかり": {
+      "id": 1484220,
+      "form": "罷り",
+      "kana": "まかり",
+      "gloss": "emphatic verbal prefix",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "pref"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        138339,
+        94515
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1909270/罷りならぬ/まかりならぬ": {
+      "id": 1909270,
+      "form": "罷りならぬ",
+      "kana": "まかりならぬ",
+      "gloss": "not be allowed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        183549
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1909270/罷り成らぬ/まかりならぬ": {
+      "id": 1909270,
+      "form": "罷り成らぬ",
+      "kana": "まかりならぬ",
+      "gloss": "not be allowed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        198301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4
+      },
+      "matched": {
+        "まかり": {
+          "actual": "まか",
+          "dictionary": [
+            "まか.り-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1903500/罷官/ひかん": {
+      "id": 1903500,
+      "form": "罷官",
+      "kana": "ひかん",
+      "gloss": "removal from office",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "官": 4
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1310640/罷む/やむ": {
+      "id": 1310640,
+      "form": "罷む",
+      "kana": "やむ",
+      "gloss": "to cease",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1484240:罷免:ひめん",
+      "form": "罷免",
+      "kana": "ひめん",
+      "cue": "dismissal (from a position); discharge",
+      "ids": [
+        1484240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 50706,
+        "shiberu": 27832,
+        "tubelex": 37400,
+        "wordfreq": 27016
+      },
+      "alternatives_by_kanji": {
+        "罷": [
+          "1484230/罷業/ひぎょう",
+          "1849240/罷り通る/まかりとおる",
+          "1849230/罷り出る/まかりでる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

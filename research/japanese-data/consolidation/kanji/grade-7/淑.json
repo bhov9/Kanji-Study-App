@@ -1,0 +1,644 @@
+{
+  "character": "淑",
+  "grade": 7,
+  "meanings": [
+    "graceful",
+    "gentle",
+    "pure"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "汁",
+    "小",
+    "卜",
+    "又"
+  ],
+  "on": [
+    "シュク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "しと.やか",
+      "stem": "しと",
+      "okurigana": "やか"
+    }
+  ],
+  "nanori": [
+    "すく",
+    "とし",
+    "よし"
+  ],
+  "government": {
+    "kanji": "淑",
+    "heading": "淑",
+    "readings": [
+      "シュク"
+    ],
+    "examples_by_reading": [
+      [
+        "淑女",
+        "貞淑",
+        "私淑"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "淑",
+      "reading": "シュク",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シュク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1337350/淑女/しゅくじょ",
+        "1435260/貞淑/ていしゅく",
+        "1311220/私淑/ししゅく",
+        "1337360/淑徳/しゅくとく",
+        "5360315/淑徳大学/しゅくとくだいがく",
+        "2831382/紳士淑女/しんししゅくじょ",
+        "5104077/愛知淑徳大学/あいちしゅくとくだいがく",
+        "2398960/淑女風/しゅくじょふう",
+        "5744377/淑徳大学短期大学部/しゅくとくだいがくたんきだいがくぶ"
+      ]
+    },
+    {
+      "reading": "しとやか",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1337340/淑やか/しとやか",
+        "2826524/お淑やか/おしとやか",
+        "2826524/御淑やか/おしとやか"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1337350/淑女/しゅくじょ",
+    "1435260/貞淑/ていしゅく",
+    "1311220/私淑/ししゅく",
+    "1337360/淑徳/しゅくとく",
+    "5360315/淑徳大学/しゅくとくだいがく",
+    "2831382/紳士淑女/しんししゅくじょ",
+    "5104077/愛知淑徳大学/あいちしゅくとくだいがく",
+    "2398960/淑女風/しゅくじょふう",
+    "5744377/淑徳大学短期大学部/しゅくとくだいがくたんきだいがくぶ",
+    "2594810/淑景舎/しげいしゃ",
+    "2594810/淑景舎/しげいさ",
+    "1337340/淑やか/しとやか",
+    "2826524/お淑やか/おしとやか",
+    "2826524/御淑やか/おしとやか"
+  ],
+  "candidates": {
+    "1337350/淑女/しゅくじょ": {
+      "id": 1337350,
+      "form": "淑女",
+      "kana": "しゅくじょ",
+      "gloss": "lady",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15566,
+        22935,
+        21173,
+        16708
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "女": 1
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [
+        "シュク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1435260/貞淑/ていしゅく": {
+      "id": 1435260,
+      "form": "貞淑",
+      "kana": "ていしゅく",
+      "gloss": "chastity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        52075,
+        38421
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貞": 7
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [
+        "シュク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1311220/私淑/ししゅく": {
+      "id": 1311220,
+      "form": "私淑",
+      "kana": "ししゅく",
+      "gloss": "looking up to a person as one's own master or model",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        124069,
+        123764
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "私": 6
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [
+        "シュク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1337360/淑徳/しゅくとく": {
+      "id": 1337360,
+      "form": "淑徳",
+      "kana": "しゅくとく",
+      "gloss": "womanly virtues",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        86386,
+        181517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "徳": 4
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5360315/淑徳大学/しゅくとくだいがく": {
+      "id": 5360315,
+      "form": "淑徳大学",
+      "kana": "しゅくとくだいがく",
+      "gloss": "Shukutoku University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        115366,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "徳": 4,
+        "学": 1,
+        "大": 1
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831382/紳士淑女/しんししゅくじょ": {
+      "id": 2831382,
+      "form": "紳士淑女",
+      "kana": "しんししゅくじょ",
+      "gloss": "ladies and gentlemen",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43187
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5,
+        "女": 1,
+        "紳": 7
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5104077/愛知淑徳大学/あいちしゅくとくだいがく": {
+      "id": 5104077,
+      "form": "愛知淑徳大学",
+      "kana": "あいちしゅくとくだいがく",
+      "gloss": "Aichi Shukutoku University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        140911,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1,
+        "愛": 4,
+        "徳": 4,
+        "知": 2,
+        "学": 1
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2398960/淑女風/しゅくじょふう": {
+      "id": 2398960,
+      "form": "淑女風",
+      "kana": "しゅくじょふう",
+      "gloss": "ladylike",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "女": 1,
+        "風": 2
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5744377/淑徳大学短期大学部/しゅくとくだいがくたんきだいがくぶ": {
+      "id": 5744377,
+      "form": "淑徳大学短期大学部",
+      "kana": "しゅくとくだいがくたんきだいがくぶ",
+      "gloss": "Shukutoku University Junior College",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "短": 3,
+        "大": 1,
+        "徳": 4,
+        "学": 1,
+        "期": 3,
+        "部": 3
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2594810/淑景舎/しげいしゃ": {
+      "id": 2594810,
+      "form": "淑景舎",
+      "kana": "しげいしゃ",
+      "gloss": "court ladies' residence (in the inner Heian Palace)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "舎": 5,
+        "景": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2594810/淑景舎/しげいさ": {
+      "id": 2594810,
+      "form": "淑景舎",
+      "kana": "しげいさ",
+      "gloss": "court ladies' residence (in the inner Heian Palace)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "舎": 5,
+        "景": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1337340/淑やか/しとやか": {
+      "id": 1337340,
+      "form": "淑やか",
+      "kana": "しとやか",
+      "gloss": "graceful",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        39097,
+        36550,
+        52621,
+        39563
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "しとやか": {
+          "actual": "しと",
+          "dictionary": [
+            "しと.やか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2826524/お淑やか/おしとやか": {
+      "id": 2826524,
+      "form": "お淑やか",
+      "kana": "おしとやか",
+      "gloss": "graceful",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        39364
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "しとやか": {
+          "actual": "しと",
+          "dictionary": [
+            "しと.やか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2826524/御淑やか/おしとやか": {
+      "id": 2826524,
+      "form": "御淑やか",
+      "kana": "おしとやか",
+      "gloss": "graceful",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        263564
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "御": 7
+      },
+      "matched": {
+        "しとやか": {
+          "actual": "しと",
+          "dictionary": [
+            "しと.やか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1337340:淑やか:しとやか",
+      "form": "淑やか",
+      "kana": "しとやか",
+      "cue": "graceful; ladylike",
+      "ids": [
+        1337340
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 39563,
+        "shiberu": 39097,
+        "tubelex": 36550,
+        "wordfreq": 52621
+      },
+      "alternatives_by_kanji": {
+        "淑": [
+          "1337350/淑女/しゅくじょ",
+          "1435260/貞淑/ていしゅく",
+          "1311220/私淑/ししゅく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

@@ -1,0 +1,1224 @@
+{
+  "character": "司",
+  "grade": 4,
+  "meanings": [
+    "director",
+    "official",
+    "govt office",
+    "rule",
+    "administer"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    }
+  ],
+  "components": [
+    "一",
+    "口",
+    "亅"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "つかさど.る",
+      "stem": "つかさど",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "つ",
+    "つか",
+    "つかさ"
+  ],
+  "government": {
+    "kanji": "司",
+    "heading": "司",
+    "readings": [
+      "シ"
+    ],
+    "examples_by_reading": [
+      [
+        "司会",
+        "司令",
+        "上司"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "司",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 120,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1353260/上司/じょうし",
+        "1306710/司令/しれい",
+        "1306640/司会/しかい",
+        "1306680/司法/しほう",
+        "1647220/司祭/しさい",
+        "1295260/祭司/さいし",
+        "1306660/司教/しきょう",
+        "1306670/司書/ししょ",
+        "1876230/国司/こくし",
+        "1270470/御曹司/おんぞうし"
+      ]
+    },
+    {
+      "reading": "つかさどる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1306630/司る/つかさどる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1353260/上司/じょうし",
+    "1306710/司令/しれい",
+    "1306640/司会/しかい",
+    "1306680/司法/しほう",
+    "1647220/司祭/しさい",
+    "1306630/司る/つかさどる",
+    "1295260/祭司/さいし",
+    "1306660/司教/しきょう",
+    "1306670/司書/ししょ",
+    "1876230/国司/こくし",
+    "1270470/御曹司/おんぞうし",
+    "2254170/司馬/しば",
+    "2598520/司式/ししき",
+    "1646500/司直/しちょく",
+    "1745320/有司/ゆうし",
+    "1273750/公司/こうし",
+    "2256520/司法省/しほうしょう",
+    "1413910/大司教/だいしきょう",
+    "1936270/司令塔/しれいとう",
+    "1303450/散らし寿司/ちらしずし",
+    "1727280/寿司屋/すしや",
+    "1303450/ちらし寿司/ちらしずし",
+    "2848842/寿司酢/すしず",
+    "2852700/寿司店/すしてん",
+    "1993110/国際司法裁判所/こくさいしほうさいばんしょ",
+    "1400370/曹司/ぞうし",
+    "1513620/保護司/ほごし",
+    "2866195/寿司桶/すしおけ",
+    "2254160/司空/しくう",
+    "2254140/司徒/しと"
+  ],
+  "candidates": {
+    "1353260/上司/じょうし": {
+      "id": 1353260,
+      "form": "上司",
+      "kana": "じょうし",
+      "gloss": "(one's) superior",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6103,
+        3725,
+        2428,
+        4227
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1306710/司令/しれい": {
+      "id": 1306710,
+      "form": "司令",
+      "kana": "しれい",
+      "gloss": "command",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7949,
+        5836,
+        2681,
+        27392
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1306640/司会/しかい": {
+      "id": 1306640,
+      "form": "司会",
+      "kana": "しかい",
+      "gloss": "leading a meeting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14147,
+        5093,
+        7265,
+        14728
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1306680/司法/しほう": {
+      "id": 1306680,
+      "form": "司法",
+      "kana": "しほう",
+      "gloss": "administration of justice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2002,
+        6521,
+        3809,
+        26818
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1647220/司祭/しさい": {
+      "id": 1647220,
+      "form": "司祭",
+      "kana": "しさい",
+      "gloss": "priest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5967,
+        15404,
+        12275,
+        23574
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "祭": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1306630/司る/つかさどる": {
+      "id": 1306630,
+      "form": "司る",
+      "kana": "つかさどる",
+      "gloss": "to be in charge of",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27496,
+        11919,
+        25763,
+        11002
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つかさどる": {
+          "actual": "つかさど",
+          "dictionary": [
+            "つかさど.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1295260/祭司/さいし": {
+      "id": 1295260,
+      "form": "祭司",
+      "kana": "さいし",
+      "gloss": "priest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22042,
+        13679,
+        32185,
+        59523
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "祭": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1306660/司教/しきょう": {
+      "id": 1306660,
+      "form": "司教",
+      "kana": "しきょう",
+      "gloss": "bishop (Catholic)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16918,
+        29195,
+        19315,
+        38885
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1306670/司書/ししょ": {
+      "id": 1306670,
+      "form": "司書",
+      "kana": "ししょ",
+      "gloss": "librarian",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28203,
+        24904,
+        23842,
+        26554
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1876230/国司/こくし": {
+      "id": 1876230,
+      "form": "国司",
+      "kana": "こくし",
+      "gloss": "provincial official (under the ritsuryō system; esp. a governor)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23122,
+        68915,
+        58810,
+        101680
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1270470/御曹司/おんぞうし": {
+      "id": 1270470,
+      "form": "御曹司",
+      "kana": "おんぞうし",
+      "gloss": "son of a distinguished family",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        27016,
+        25188
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "曹": 7,
+        "御": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2254170/司馬/しば": {
+      "id": 2254170,
+      "form": "司馬",
+      "kana": "しば",
+      "gloss": "Minister of War (Zhou dynasty China)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        22289,
+        75117
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "馬": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2598520/司式/ししき": {
+      "id": 2598520,
+      "form": "司式",
+      "kana": "ししき",
+      "gloss": "officiating (a ceremony)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        95507,
+        244718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "式": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1646500/司直/しちょく": {
+      "id": 1646500,
+      "form": "司直",
+      "kana": "しちょく",
+      "gloss": "judge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        151646,
+        90609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1745320/有司/ゆうし": {
+      "id": 1745320,
+      "form": "有司",
+      "kana": "ゆうし",
+      "gloss": "public servant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        129940,
+        173662
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "有": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1273750/公司/こうし": {
+      "id": 1273750,
+      "form": "公司",
+      "kana": "こうし",
+      "gloss": "company (in China)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53060,
+        32914,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2256520/司法省/しほうしょう": {
+      "id": 2256520,
+      "form": "司法省",
+      "kana": "しほうしょう",
+      "gloss": "Department of Justice (US)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        26398,
+        90901
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "省": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1413910/大司教/だいしきょう": {
+      "id": 1413910,
+      "form": "大司教",
+      "kana": "だいしきょう",
+      "gloss": "archbishop (Catholic)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        30980,
+        49524
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2,
+        "大": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1936270/司令塔/しれいとう": {
+      "id": 1936270,
+      "form": "司令塔",
+      "kana": "しれいとう",
+      "gloss": "control tower",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        40664,
+        34280
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4,
+        "塔": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1303450/散らし寿司/ちらしずし": {
+      "id": 1303450,
+      "form": "散らし寿司",
+      "kana": "ちらしずし",
+      "gloss": "chirashi",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31561,
+        null,
+        235321
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寿": 7,
+        "散": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1727280/寿司屋/すしや": {
+      "id": 1727280,
+      "form": "寿司屋",
+      "kana": "すしや",
+      "gloss": "sushi shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        null,
+        32869
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寿": 7,
+        "屋": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1303450/ちらし寿司/ちらしずし": {
+      "id": 1303450,
+      "form": "ちらし寿司",
+      "kana": "ちらしずし",
+      "gloss": "chirashi",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36995,
+        null,
+        null,
+        62985
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寿": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2848842/寿司酢/すしず": {
+      "id": 2848842,
+      "form": "寿司酢",
+      "kana": "すしず",
+      "gloss": "seasoned vinegar used for preparing sushi rice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36550,
+        null,
+        170739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寿": 7,
+        "酢": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2852700/寿司店/すしてん": {
+      "id": 2852700,
+      "form": "寿司店",
+      "kana": "すしてん",
+      "gloss": "sushi shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        null,
+        124755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寿": 7,
+        "店": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1993110/国際司法裁判所/こくさいしほうさいばんしょ": {
+      "id": 1993110,
+      "form": "国際司法裁判所",
+      "kana": "こくさいしほうさいばんしょ",
+      "gloss": "International Court of Justice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        57615,
+        202298
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3,
+        "裁": 6,
+        "法": 4,
+        "際": 5,
+        "判": 5,
+        "国": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400370/曹司/ぞうし": {
+      "id": 1400370,
+      "form": "曹司",
+      "kana": "ぞうし",
+      "gloss": "palace room for government officials or ladies in waiting",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        183209
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "曹": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513620/保護司/ほごし": {
+      "id": 1513620,
+      "form": "保護司",
+      "kana": "ほごし",
+      "gloss": "probation officer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        102646,
+        85982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5,
+        "護": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866195/寿司桶/すしおけ": {
+      "id": 2866195,
+      "form": "寿司桶",
+      "kana": "すしおけ",
+      "gloss": "flat-bottomed wooden bowl for preparing sushi rice",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        121750
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寿": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2254160/司空/しくう": {
+      "id": 2254160,
+      "form": "司空",
+      "kana": "しくう",
+      "gloss": "Minister of Works (Zhou dynasty China)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        176796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2254140/司徒/しと": {
+      "id": 2254140,
+      "form": "司徒",
+      "kana": "しと",
+      "gloss": "Minister of Civil Administration and Social Welfare (Zhou dynasty China)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        182905
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "徒": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1306720:司令官:しれいかん",
+      "form": "司令官",
+      "kana": "しれいかん",
+      "cue": "commandant; commanding officer",
+      "ids": [
+        1306720
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 20771
+      },
+      "alternatives_by_kanji": {
+        "官": [
+          "1211760/官能/かんのう",
+          "1237050/教官/きょうかん",
+          "1211730/官庁/かんちょう"
+        ],
+        "司": [
+          "1353260/上司/じょうし",
+          "1306710/司令/しれい",
+          "1306640/司会/しかい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 44
+}

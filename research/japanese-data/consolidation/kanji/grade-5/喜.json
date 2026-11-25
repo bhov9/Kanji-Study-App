@@ -1,0 +1,1338 @@
+{
+  "character": "喜",
+  "grade": 5,
+  "meanings": [
+    "rejoice",
+    "take pleasure in"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    },
+    {
+      "type": "nelson_c",
+      "value": 32
+    }
+  ],
+  "components": [
+    "口",
+    "士",
+    "豆",
+    "并"
+  ],
+  "on": [
+    "キ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "よろこ.ぶ",
+      "stem": "よろこ",
+      "okurigana": "ぶ"
+    },
+    {
+      "sourceNotation": "よろこ.ばす",
+      "stem": "よろこ",
+      "okurigana": "ばす"
+    }
+  ],
+  "nanori": [
+    "あき",
+    "きゅ",
+    "のぶ",
+    "ゆき",
+    "よし"
+  ],
+  "government": {
+    "kanji": "喜",
+    "heading": "喜",
+    "readings": [
+      "キ",
+      "よろこぶ"
+    ],
+    "examples_by_reading": [
+      [
+        "喜劇",
+        "悲喜",
+        "歓喜"
+      ],
+      [
+        "喜ぶ",
+        "喜び",
+        "喜ばしい"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "喜",
+      "reading": "キ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 36,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1212950/歓喜/かんき",
+        "1218810/喜劇/きげき",
+        "1626760/悲喜/ひき",
+        "1237530/狂喜/きょうき",
+        "2528610/喜怒/きど",
+        "1218840/喜寿/きじゅ",
+        "1218850/喜色/きしょく",
+        "1218780/喜悦/きえつ",
+        "1218830/喜捨/きしゃ",
+        "1704400/随喜/ずいき"
+      ]
+    },
+    {
+      "reading": "よろこぶ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 3,
+      "current_support": false,
+      "candidates": [
+        "1218760/喜ぶ/よろこぶ",
+        "1606140/喜び/よろこび",
+        "1614400/喜ばしい/よろこばしい"
+      ]
+    },
+    {
+      "reading": "よろこばす",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1612230/喜ばす/よろこばす",
+        "1855770/目を喜ばす/めをよろこばす",
+        "1213500/甘言は偶人を喜ばす/かんげんはぐうじんをよろこばす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1218760/喜ぶ/よろこぶ",
+    "1606140/喜び/よろこび",
+    "1212950/歓喜/かんき",
+    "1614400/喜ばしい/よろこばしい",
+    "1218810/喜劇/きげき",
+    "1626760/悲喜/ひき",
+    "1612230/喜ばす/よろこばす",
+    "1237530/狂喜/きょうき",
+    "2528610/喜怒/きど",
+    "1218840/喜寿/きじゅ",
+    "1218850/喜色/きしょく",
+    "1218780/喜悦/きえつ",
+    "1218830/喜捨/きしゃ",
+    "1704400/随喜/ずいき",
+    "1689060/悲喜劇/ひきげき",
+    "1238710/驚喜/きょうき",
+    "1161670/一喜一憂/いっきいちゆう",
+    "1218870/喜怒哀楽/きどあいらく",
+    "1219500/喜々/きき",
+    "2822090/弥次喜多/やじきた",
+    "1845210/欣喜/きんき",
+    "1218740/喜の字/きのじ",
+    "2092450/寛喜/かんき",
+    "1218860/喜色満面/きしょくまんめん",
+    "2030540/狂喜乱舞/きょうきらんぶ",
+    "1483270/悲喜こもごも/ひきこもごも",
+    "2835738/喜劇的/きげきてき",
+    "1950710/喜望峰/きぼうほう",
+    "2861745/喜劇役者/きげきやくしゃ",
+    "1241410/欣喜雀躍/きんきじゃくやく"
+  ],
+  "candidates": {
+    "1218760/喜ぶ/よろこぶ": {
+      "id": 1218760,
+      "form": "喜ぶ",
+      "kana": "よろこぶ",
+      "gloss": "to be delighted",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5b",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        882,
+        1382,
+        4955,
+        547
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よろこぶ": {
+          "actual": "よろこ",
+          "dictionary": [
+            "よろこ.ぶ"
+          ]
+        }
+      },
+      "official_examples": [
+        "よろこぶ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1606140/喜び/よろこび": {
+      "id": 1606140,
+      "form": "喜び",
+      "kana": "よろこび",
+      "gloss": "joy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1835,
+        2572,
+        2745,
+        2154
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よろこぶ": {
+          "actual": "よろこ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "よろこぶ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1212950/歓喜/かんき": {
+      "id": 1212950,
+      "form": "歓喜",
+      "kana": "かんき",
+      "gloss": "delight",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9049,
+        12792,
+        10540,
+        7092
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歓": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1614400/喜ばしい/よろこばしい": {
+      "id": 1614400,
+      "form": "喜ばしい",
+      "kana": "よろこばしい",
+      "gloss": "joyful (news, event, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        11505,
+        17204,
+        19596,
+        8652
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よろこぶ": {
+          "actual": "よろこ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "よろこぶ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1218810/喜劇/きげき": {
+      "id": 1218810,
+      "form": "喜劇",
+      "kana": "きげき",
+      "gloss": "comedy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8849,
+        24391,
+        17976,
+        26123
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "劇": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1626760/悲喜/ひき": {
+      "id": 1626760,
+      "form": "悲喜",
+      "kana": "ひき",
+      "gloss": "joys and sorrows",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        70104,
+        84450
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悲": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1612230/喜ばす/よろこばす": {
+      "id": 1612230,
+      "form": "喜ばす",
+      "kana": "よろこばす",
+      "gloss": "to delight",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11990,
+        29670,
+        68122,
+        29122
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よろこばす": {
+          "actual": "よろこ",
+          "dictionary": [
+            "よろこ.ばす"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237530/狂喜/きょうき": {
+      "id": 1237530,
+      "form": "狂喜",
+      "kana": "きょうき",
+      "gloss": "wild joy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18661,
+        46460,
+        38431,
+        35998
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "狂": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2528610/喜怒/きど": {
+      "id": 2528610,
+      "form": "喜怒",
+      "kana": "きど",
+      "gloss": "joy and anger",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25925,
+        26476,
+        140911,
+        126207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "怒": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218840/喜寿/きじゅ": {
+      "id": 1218840,
+      "form": "喜寿",
+      "kana": "きじゅ",
+      "gloss": "77th birthday",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21912,
+        56591,
+        71447,
+        113900
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寿": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218850/喜色/きしょく": {
+      "id": 1218850,
+      "form": "喜色",
+      "kana": "きしょく",
+      "gloss": "cheerful expression",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24358,
+        101749,
+        140911,
+        30708
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218780/喜悦/きえつ": {
+      "id": 1218780,
+      "form": "喜悦",
+      "kana": "きえつ",
+      "gloss": "joy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53060,
+        91294,
+        33461
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悦": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218830/喜捨/きしゃ": {
+      "id": 1218830,
+      "form": "喜捨",
+      "kana": "きしゃ",
+      "gloss": "almsgiving",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        78707,
+        80783
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "捨": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1704400/随喜/ずいき": {
+      "id": 1704400,
+      "form": "随喜",
+      "kana": "ずいき",
+      "gloss": "deep gratitude",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53060,
+        158644,
+        111850
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "随": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1689060/悲喜劇/ひきげき": {
+      "id": 1689060,
+      "form": "悲喜劇",
+      "kana": "ひきげき",
+      "gloss": "tragicomedy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        109403,
+        89734
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "劇": 6,
+        "悲": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1238710/驚喜/きょうき": {
+      "id": 1238710,
+      "form": "驚喜",
+      "kana": "きょうき",
+      "gloss": "pleasant surprise",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        139652,
+        80211
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "驚": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1161670/一喜一憂/いっきいちゆう": {
+      "id": 1161670,
+      "form": "一喜一憂",
+      "kana": "いっきいちゆう",
+      "gloss": "alternating between happiness and anxiety",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        28763,
+        22918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憂": 7,
+        "一": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218870/喜怒哀楽/きどあいらく": {
+      "id": 1218870,
+      "form": "喜怒哀楽",
+      "kana": "きどあいらく",
+      "gloss": "human emotions (joy, anger, grief and pleasure)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        33710,
+        25742
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "楽": 2,
+        "哀": 7,
+        "怒": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1219500/喜々/きき": {
+      "id": 1219500,
+      "form": "喜々",
+      "kana": "きき",
+      "gloss": "merry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        64910,
+        37511
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2822090/弥次喜多/やじきた": {
+      "id": 2822090,
+      "form": "弥次喜多",
+      "kana": "やじきた",
+      "gloss": "comical pair",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        106463,
+        165765
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弥": 7,
+        "多": 2,
+        "次": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1845210/欣喜/きんき": {
+      "id": 1845210,
+      "form": "欣喜",
+      "kana": "きんき",
+      "gloss": "pleasure",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        131875
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218740/喜の字/きのじ": {
+      "id": 1218740,
+      "form": "喜の字",
+      "kana": "きのじ",
+      "gloss": "77th birthday",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        270613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "字": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2092450/寛喜/かんき": {
+      "id": 2092450,
+      "form": "寛喜",
+      "kana": "かんき",
+      "gloss": "Kangi era (1229.3.5-1232.4.2)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "寛": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218860/喜色満面/きしょくまんめん": {
+      "id": 1218860,
+      "form": "喜色満面",
+      "kana": "きしょくまんめん",
+      "gloss": "being all smiles with joy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        39965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "満": 4,
+        "面": 3,
+        "色": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2030540/狂喜乱舞/きょうきらんぶ": {
+      "id": 2030540,
+      "form": "狂喜乱舞",
+      "kana": "きょうきらんぶ",
+      "gloss": "jumping for joy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        45474
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乱": 6,
+        "舞": 7,
+        "狂": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1483270/悲喜こもごも/ひきこもごも": {
+      "id": 1483270,
+      "form": "悲喜こもごも",
+      "kana": "ひきこもごも",
+      "gloss": "bittersweet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65466
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悲": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835738/喜劇的/きげきてき": {
+      "id": 2835738,
+      "form": "喜劇的",
+      "kana": "きげきてき",
+      "gloss": "comical",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        97822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "劇": 6,
+        "的": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1950710/喜望峰/きぼうほう": {
+      "id": 1950710,
+      "form": "喜望峰",
+      "kana": "きぼうほう",
+      "gloss": "Cape of Good Hope",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        112325
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "峰": 7,
+        "望": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2861745/喜劇役者/きげきやくしゃ": {
+      "id": 2861745,
+      "form": "喜劇役者",
+      "kana": "きげきやくしゃ",
+      "gloss": "comic actor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114685
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "劇": 6,
+        "役": 3,
+        "者": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1241410/欣喜雀躍/きんきじゃくやく": {
+      "id": 1241410,
+      "form": "欣喜雀躍",
+      "kana": "きんきじゃくやく",
+      "gloss": "jump up for joy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        120364
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "躍": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1855770/目を喜ばす/めをよろこばす": {
+      "id": 1855770,
+      "form": "目を喜ばす",
+      "kana": "めをよろこばす",
+      "gloss": "to feast one's eyes (on)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        135859
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "よろこばす": {
+          "actual": "よろこ",
+          "dictionary": [
+            "よろこ.ばす"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1213500/甘言は偶人を喜ばす/かんげんはぐうじんをよろこばす": {
+      "id": 1213500,
+      "form": "甘言は偶人を喜ばす",
+      "kana": "かんげんはぐうじんをよろこばす",
+      "gloss": "sweet words only please a fool",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "言": 2,
+        "人": 1,
+        "偶": 7,
+        "甘": 7
+      },
+      "matched": {
+        "よろこばす": {
+          "actual": "よろこ",
+          "dictionary": [
+            "よろこ.ばす"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1606140:喜び:よろこび",
+      "form": "喜び",
+      "kana": "よろこび",
+      "cue": "joy; delight",
+      "ids": [
+        1606140
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2154,
+        "shiberu": 1835,
+        "tubelex": 2572,
+        "wordfreq": 2745
+      },
+      "alternatives_by_kanji": {
+        "喜": [
+          "1218760/喜ぶ/よろこぶ",
+          "1212950/歓喜/かんき",
+          "1614400/喜ばしい/よろこばしい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 30
+}

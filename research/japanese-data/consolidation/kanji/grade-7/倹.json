@@ -1,0 +1,711 @@
+{
+  "character": "倹",
+  "grade": 7,
+  "meanings": [
+    "frugal",
+    "economy",
+    "thrifty"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "口",
+    "人",
+    "个",
+    "一"
+  ],
+  "on": [
+    "ケン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "つま.しい",
+      "stem": "つま",
+      "okurigana": "しい"
+    },
+    {
+      "sourceNotation": "つづまやか",
+      "stem": "つづまやか",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "倹",
+    "heading": "倹（儉）",
+    "readings": [
+      "ケン"
+    ],
+    "examples_by_reading": [
+      [
+        "倹約",
+        "節倹",
+        "勤倹"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "倹",
+      "reading": "ケン",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ケン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1256010/倹約/けんやく",
+        "1240980/勤倹/きんけん",
+        "1386220/節倹/せっけん",
+        "1255970/倹/けん",
+        "1256020/倹約家/けんやくか",
+        "2046290/質素倹約/しっそけんやく",
+        "2252680/倹約令/けんやくれい",
+        "1640680/恭倹/きょうけん",
+        "1256000/倹素/けんそ",
+        "2044200/勤倹貯蓄/きんけんちょちく"
+      ]
+    },
+    {
+      "reading": "つましい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1255980/倹しい/つましい"
+      ]
+    },
+    {
+      "reading": "つづまやか",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1256010/倹約/けんやく",
+    "1240980/勤倹/きんけん",
+    "1386220/節倹/せっけん",
+    "1255970/倹/けん",
+    "1256020/倹約家/けんやくか",
+    "2046290/質素倹約/しっそけんやく",
+    "2252680/倹約令/けんやくれい",
+    "1640680/恭倹/きょうけん",
+    "1256000/倹素/けんそ",
+    "2044200/勤倹貯蓄/きんけんちょちく",
+    "2030600/勤倹力行/きんけんりっこう",
+    "1871070/勤倹の風/きんけんのふう",
+    "2834556/温良恭倹譲/おんりょうきょうけんじょう",
+    "1255980/倹しい/つましい",
+    "1814470/倹吝/けんりん"
+  ],
+  "candidates": {
+    "1256010/倹約/けんやく": {
+      "id": 1256010,
+      "form": "倹約",
+      "kana": "けんやく",
+      "gloss": "thrift",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        8047,
+        26476,
+        32914,
+        44829
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "約": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1240980/勤倹/きんけん": {
+      "id": 1240980,
+      "form": "勤倹",
+      "kana": "きんけん",
+      "gloss": "industry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        201647,
+        178831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勤": 6
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1386220/節倹/せっけん": {
+      "id": 1386220,
+      "form": "節倹",
+      "kana": "せっけん",
+      "gloss": "economy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        173554
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "節": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1255970/倹/けん": {
+      "id": 1255970,
+      "form": "倹",
+      "kana": "けん",
+      "gloss": "economizing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        134699,
+        156765
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1256020/倹約家/けんやくか": {
+      "id": 1256020,
+      "form": "倹約家",
+      "kana": "けんやくか",
+      "gloss": "thrifty person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        68559
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2,
+        "約": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2046290/質素倹約/しっそけんやく": {
+      "id": 2046290,
+      "form": "質素倹約",
+      "kana": "しっそけんやく",
+      "gloss": "(practice of) simplicity and frugality",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        78452
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "質": 5,
+        "素": 5,
+        "約": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2252680/倹約令/けんやくれい": {
+      "id": 2252680,
+      "form": "倹約令",
+      "kana": "けんやくれい",
+      "gloss": "laws regulating expenditures",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        145332
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4,
+        "約": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1640680/恭倹/きょうけん": {
+      "id": 1640680,
+      "form": "恭倹",
+      "kana": "きょうけん",
+      "gloss": "respectfulness and modesty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恭": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1256000/倹素/けんそ": {
+      "id": 1256000,
+      "form": "倹素",
+      "kana": "けんそ",
+      "gloss": "economical and simple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "素": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2044200/勤倹貯蓄/きんけんちょちく": {
+      "id": 2044200,
+      "form": "勤倹貯蓄",
+      "kana": "きんけんちょちく",
+      "gloss": "thrift and saving",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貯": 5,
+        "勤": 6,
+        "蓄": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2030600/勤倹力行/きんけんりっこう": {
+      "id": 2030600,
+      "form": "勤倹力行",
+      "kana": "きんけんりっこう",
+      "gloss": "work hard and practice frugality",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "力": 1,
+        "勤": 6
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1871070/勤倹の風/きんけんのふう": {
+      "id": 1871070,
+      "form": "勤倹の風",
+      "kana": "きんけんのふう",
+      "gloss": "custom (habit) of diligence and thrift",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "勤": 6,
+        "風": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834556/温良恭倹譲/おんりょうきょうけんじょう": {
+      "id": 2834556,
+      "form": "温良恭倹譲",
+      "kana": "おんりょうきょうけんじょう",
+      "gloss": "cordial, obedient, respectful, modest, and moderate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "譲": 7,
+        "良": 4,
+        "温": 3,
+        "恭": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1255980/倹しい/つましい": {
+      "id": 1255980,
+      "form": "倹しい",
+      "kana": "つましい",
+      "gloss": "thrifty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        53857,
+        null,
+        153599
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つましい": {
+          "actual": "つま",
+          "dictionary": [
+            "つま.しい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1814470/倹吝/けんりん": {
+      "id": 1814470,
+      "form": "倹吝",
+      "kana": "けんりん",
+      "gloss": "greedy and stingy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1256010:倹約:けんやく",
+      "form": "倹約",
+      "kana": "けんやく",
+      "cue": "thrift; economy",
+      "ids": [
+        1256010
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 44829,
+        "shiberu": 8047,
+        "tubelex": 26476,
+        "wordfreq": 32914
+      },
+      "alternatives_by_kanji": {
+        "約": [
+          "1538130/約束/やくそく",
+          "1386350/節約/せつやく",
+          "1538150/約半分/やくはんぶん"
+        ],
+        "倹": [
+          "1240980/勤倹/きんけん",
+          "1386220/節倹/せっけん",
+          "1255970/倹/けん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

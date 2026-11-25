@@ -1,0 +1,1430 @@
+{
+  "character": "操",
+  "grade": 6,
+  "meanings": [
+    "maneuver",
+    "manipulate",
+    "operate",
+    "steer",
+    "chastity",
+    "virginity",
+    "fidelity"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "口",
+    "木",
+    "扎",
+    "品"
+  ],
+  "on": [
+    "ソウ",
+    "サン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "みさお",
+      "stem": "みさお",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "あやつ.る",
+      "stem": "あやつ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "さお",
+    "みさ"
+  ],
+  "government": {
+    "kanji": "操",
+    "heading": "操",
+    "readings": [
+      "ソウ",
+      "みさお",
+      "あやつる"
+    ],
+    "examples_by_reading": [
+      [
+        "操縦",
+        "操作",
+        "節操"
+      ],
+      [
+        "操"
+      ],
+      [
+        "操る",
+        "操り人形"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "操",
+      "reading": "ソウ",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 106,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1400050/操作/そうさ",
+        "1400080/操縦/そうじゅう",
+        "1386290/節操/せっそう",
+        "1399990/操/そう",
+        "1400020/操業/そうぎょう",
+        "1400120/操舵/そうだ",
+        "1435290/貞操/ていそう",
+        "1635610/情操/じょうそう",
+        "1400110/操船/そうせん",
+        "1400060/操車/そうしゃ"
+      ]
+    },
+    {
+      "reading": "みさお",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1399990/操/みさお",
+        "2862428/操を立てる/みさおをたてる",
+        "1910070/操を守る/みさおをまもる",
+        "2862428/操をたてる/みさおをたてる"
+      ]
+    },
+    {
+      "reading": "あやつる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1400010/操る/あやつる",
+        "1621790/操り人形/あやつりにんぎょう"
+      ]
+    },
+    {
+      "reading": "サン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1400050/操作/そうさ",
+    "1400080/操縦/そうじゅう",
+    "1400010/操る/あやつる",
+    "1399990/操/みさお",
+    "1386290/節操/せっそう",
+    "1399990/操/そう",
+    "1621790/操り人形/あやつりにんぎょう",
+    "1400020/操業/そうぎょう",
+    "1400120/操舵/そうだ",
+    "1435290/貞操/ていそう",
+    "1635610/情操/じょうそう",
+    "1400110/操船/そうせん",
+    "1400060/操車/そうしゃ",
+    "2864777/操艦/そうかん",
+    "1816900/志操/しそう",
+    "1362150/新体操/しんたいそう",
+    "2859252/誤操作/ごそうさ",
+    "2535920/操法/そうほう",
+    "1757120/器械体操/きかいたいそう",
+    "2532670/徳操/とくそう",
+    "2827548/操練/そうれん",
+    "2865986/操演/そうえん",
+    "1178000/遠隔操作/えんかくそうさ",
+    "2110080/体操服/たいそうふく",
+    "2268510/体操着/たいそうぎ",
+    "2221140/ラジオ体操/ラジオたいそう",
+    "1712820/準備体操/じゅんびたいそう",
+    "2831963/情報操作/じょうほうそうさ",
+    "1400090/操縦席/そうじゅうせき",
+    "2144490/操作方法/そうさほうほう"
+  ],
+  "candidates": {
+    "1400050/操作/そうさ": {
+      "id": 1400050,
+      "form": "操作",
+      "kana": "そうさ",
+      "gloss": "operation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3086,
+        1030,
+        1439,
+        3054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400080/操縦/そうじゅう": {
+      "id": 1400080,
+      "form": "操縦",
+      "kana": "そうじゅう",
+      "gloss": "steering",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4913,
+        6121,
+        5047,
+        12785
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "縦": 6
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400010/操る/あやつる": {
+      "id": 1400010,
+      "form": "操る",
+      "kana": "あやつる",
+      "gloss": "to operate (e.g. a machine)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7274,
+        6490,
+        10372,
+        2431
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あやつる": {
+          "actual": "あやつ",
+          "dictionary": [
+            "あやつ.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "あやつる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1399990/操/みさお": {
+      "id": 1399990,
+      "form": "操",
+      "kana": "みさお",
+      "gloss": "fidelity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9263,
+        22935,
+        17251,
+        23852
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みさお": {
+          "actual": "みさお",
+          "dictionary": [
+            "みさお"
+          ]
+        }
+      },
+      "official_examples": [
+        "みさお"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1386290/節操/せっそう": {
+      "id": 1386290,
+      "form": "節操",
+      "kana": "せっそう",
+      "gloss": "integrity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35367,
+        46460,
+        36201,
+        19505
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "節": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1399990/操/そう": {
+      "id": 1399990,
+      "form": "操",
+      "kana": "そう",
+      "gloss": "fidelity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9263,
+        22935,
+        17251,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "みさお"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1621790/操り人形/あやつりにんぎょう": {
+      "id": 1621790,
+      "form": "操り人形",
+      "kana": "あやつりにんぎょう",
+      "gloss": "puppet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        15847
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "形": 2
+      },
+      "matched": {
+        "あやつる": {
+          "actual": "あやつ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "あやつる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400020/操業/そうぎょう": {
+      "id": 1400020,
+      "form": "操業",
+      "kana": "そうぎょう",
+      "gloss": "operation (of a machine, factory, fishing boat, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14855,
+        17507,
+        20096,
+        66787
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400120/操舵/そうだ": {
+      "id": 1400120,
+      "form": "操舵",
+      "kana": "そうだ",
+      "gloss": "steering (of a boat)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        32404,
+        19447,
+        30598,
+        47527
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435290/貞操/ていそう": {
+      "id": 1435290,
+      "form": "貞操",
+      "kana": "ていそう",
+      "gloss": "chastity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37881,
+        43563,
+        27016,
+        22566
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貞": 7
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1635610/情操/じょうそう": {
+      "id": 1635610,
+      "form": "情操",
+      "kana": "じょうそう",
+      "gloss": "sensibility (artistic, moral)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36387,
+        59850,
+        48867,
+        92292
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400110/操船/そうせん": {
+      "id": 1400110,
+      "form": "操船",
+      "kana": "そうせん",
+      "gloss": "steering a ship",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31906,
+        44357,
+        55301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "船": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400060/操車/そうしゃ": {
+      "id": 1400060,
+      "form": "操車",
+      "kana": "そうしゃ",
+      "gloss": "operation (of trains)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45909,
+        63004,
+        164877
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "車": 1
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864777/操艦/そうかん": {
+      "id": 2864777,
+      "form": "操艦",
+      "kana": "そうかん",
+      "gloss": "steering a warship",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        86386,
+        88563
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "艦": 7
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816900/志操/しそう": {
+      "id": 1816900,
+      "form": "志操",
+      "kana": "しそう",
+      "gloss": "principle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        185634,
+        155501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "志": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1362150/新体操/しんたいそう": {
+      "id": 1362150,
+      "form": "新体操",
+      "kana": "しんたいそう",
+      "gloss": "rhythmic gymnastics",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        32548,
+        49259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2,
+        "体": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859252/誤操作/ごそうさ": {
+      "id": 2859252,
+      "form": "誤操作",
+      "kana": "ごそうさ",
+      "gloss": "incorrect operation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        55378,
+        114648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2,
+        "誤": 6
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2535920/操法/そうほう": {
+      "id": 2535920,
+      "form": "操法",
+      "kana": "そうほう",
+      "gloss": "manipulation techniques (e.g. puppets)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        null,
+        138424
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1757120/器械体操/きかいたいそう": {
+      "id": 1757120,
+      "form": "器械体操",
+      "kana": "きかいたいそう",
+      "gloss": "apparatus gymnastics",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        88816,
+        117384
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4,
+        "体": 2,
+        "械": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2532670/徳操/とくそう": {
+      "id": 2532670,
+      "form": "徳操",
+      "kana": "とくそう",
+      "gloss": "strong, immovable sense of morality",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        217254
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "徳": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827548/操練/そうれん": {
+      "id": 2827548,
+      "form": "操練",
+      "kana": "そうれん",
+      "gloss": "drill (esp. military)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        131060
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "練": 3
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2865986/操演/そうえん": {
+      "id": 2865986,
+      "form": "操演",
+      "kana": "そうえん",
+      "gloss": "puppeteering",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        161227
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "演": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1178000/遠隔操作/えんかくそうさ": {
+      "id": 1178000,
+      "form": "遠隔操作",
+      "kana": "えんかくそうさ",
+      "gloss": "remote control",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23959
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2,
+        "遠": 2,
+        "隔": 7
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2110080/体操服/たいそうふく": {
+      "id": 2110080,
+      "form": "体操服",
+      "kana": "たいそうふく",
+      "gloss": "gym clothes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24314
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "服": 3,
+        "体": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2268510/体操着/たいそうぎ": {
+      "id": 2268510,
+      "form": "体操着",
+      "kana": "たいそうぎ",
+      "gloss": "gym clothes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26905
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "着": 3,
+        "体": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2221140/ラジオ体操/ラジオたいそう": {
+      "id": 2221140,
+      "form": "ラジオ体操",
+      "kana": "ラジオたいそう",
+      "gloss": "radio calisthenics",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        33853
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1712820/準備体操/じゅんびたいそう": {
+      "id": 1712820,
+      "form": "準備体操",
+      "kana": "じゅんびたいそう",
+      "gloss": "warm-up exercises",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35255
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "備": 5,
+        "準": 5,
+        "体": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831963/情報操作/じょうほうそうさ": {
+      "id": 2831963,
+      "form": "情報操作",
+      "kana": "じょうほうそうさ",
+      "gloss": "manipulation of information",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35540
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "作": 2,
+        "報": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400090/操縦席/そうじゅうせき": {
+      "id": 1400090,
+      "form": "操縦席",
+      "kana": "そうじゅうせき",
+      "gloss": "(pilot or driver's) seat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "縦": 6,
+        "席": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2144490/操作方法/そうさほうほう": {
+      "id": 2144490,
+      "form": "操作方法",
+      "kana": "そうさほうほう",
+      "gloss": "user guide",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        39216
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2,
+        "法": 4,
+        "方": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862428/操を立てる/みさおをたてる": {
+      "id": 2862428,
+      "form": "操を立てる",
+      "kana": "みさおをたてる",
+      "gloss": "to adhere firmly to one's principles",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65601
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "みさお": {
+          "actual": "みさお",
+          "dictionary": [
+            "みさお"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1910070/操を守る/みさおをまもる": {
+      "id": 1910070,
+      "form": "操を守る",
+      "kana": "みさおをまもる",
+      "gloss": "to adhere to one's principles",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        107475
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "守": 3
+      },
+      "matched": {
+        "みさお": {
+          "actual": "みさお",
+          "dictionary": [
+            "みさお"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862428/操をたてる/みさおをたてる": {
+      "id": 2862428,
+      "form": "操をたてる",
+      "kana": "みさおをたてる",
+      "gloss": "to adhere firmly to one's principles",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        168736
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みさお": {
+          "actual": "みさお",
+          "dictionary": [
+            "みさお"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1400050:操作:そうさ",
+      "form": "操作",
+      "kana": "そうさ",
+      "cue": "operation; management",
+      "ids": [
+        1400050
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3054,
+        "shiberu": 3086,
+        "tubelex": 1030,
+        "wordfreq": 1439
+      },
+      "alternatives_by_kanji": {
+        "作": [
+          "1597890/作る/つくる",
+          "1297540/作業/さぎょう",
+          "1451350/動作/どうさ"
+        ],
+        "操": [
+          "1400080/操縦/そうじゅう",
+          "1400010/操る/あやつる",
+          "1399990/操/みさお"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1400080:操縦:そうじゅう",
+      "form": "操縦",
+      "kana": "そうじゅう",
+      "cue": "steering; piloting",
+      "ids": [
+        1400080
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 12785,
+        "shiberu": 4913,
+        "tubelex": 6121,
+        "wordfreq": 5047
+      },
+      "alternatives_by_kanji": {
+        "縦": [
+          "1335710/縦断/じゅうだん",
+          "1335640/縦/たて",
+          "2858241/縦横/たてよこ"
+        ],
+        "操": [
+          "1400050/操作/そうさ",
+          "1400010/操る/あやつる",
+          "1399990/操/みさお"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

@@ -1,0 +1,1185 @@
+{
+  "character": "科",
+  "grade": 2,
+  "meanings": [
+    "department",
+    "course",
+    "section"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 115
+    }
+  ],
+  "components": [
+    "禾",
+    "斗"
+  ],
+  "on": [
+    "カ"
+  ],
+  "kun": [],
+  "nanori": [
+    "しな"
+  ],
+  "government": {
+    "kanji": "科",
+    "heading": "科",
+    "readings": [
+      "カ"
+    ],
+    "examples_by_reading": [
+      [
+        "科学",
+        "教科",
+        "罪科"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "科",
+      "reading": "カ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 503,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1192700/科学/かがく",
+        "1237010/教科/きょうか",
+        "1296710/罪科/ざいか",
+        "1203380/外科/げか",
+        "1313110/歯科/しか",
+        "1590600/科目/かもく",
+        "1206590/学科/がっか",
+        "1549900/理科/りか",
+        "1457830/内科/ないか",
+        "1488030/百科/ひゃっか"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1192700/科学/かがく",
+    "1237010/教科/きょうか",
+    "1296710/罪科/ざいか",
+    "1203380/外科/げか",
+    "1313110/歯科/しか",
+    "1590600/科目/かもく",
+    "1206590/学科/がっか",
+    "1549900/理科/りか",
+    "1457830/内科/ないか",
+    "1488030/百科/ひゃっか",
+    "1505170/文科/ぶんか",
+    "1159770/医科/いか",
+    "1217150/眼科/がんか",
+    "1392650/前科/ぜんか",
+    "1503170/分科/ぶんか",
+    "1192690/科する/かする",
+    "1278000/工科/こうか",
+    "1805310/法科/ほうか",
+    "1303740/産科/さんか",
+    "1542880/予科/よか",
+    "1522280/本科/ほんか",
+    "1346620/商科/しょうか",
+    "2406900/科す/かす",
+    "1389760/専科/せんか",
+    "2114350/科捜研/かそうけん",
+    "1506260/兵科/へいか",
+    "2735340/各科/かくか",
+    "2862748/科技/かぎ",
+    "2833463/薬科/やっか",
+    "1192780/科料/かりょう"
+  ],
+  "candidates": {
+    "1192700/科学/かがく": {
+      "id": 1192700,
+      "form": "科学",
+      "kana": "かがく",
+      "gloss": "science",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        480,
+        1697,
+        997,
+        6585
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1237010/教科/きょうか": {
+      "id": 1237010,
+      "form": "教科",
+      "kana": "きょうか",
+      "gloss": "subject",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2092,
+        3167,
+        11368,
+        13879
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1296710/罪科/ざいか": {
+      "id": 1296710,
+      "form": "罪科",
+      "kana": "ざいか",
+      "gloss": "offense",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        139652,
+        61983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罪": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1203380/外科/げか": {
+      "id": 1203380,
+      "form": "外科",
+      "kana": "げか",
+      "gloss": "surgery (branch of medicine)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4745,
+        5412,
+        4261,
+        26927
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1313110/歯科/しか": {
+      "id": 1313110,
+      "form": "歯科",
+      "kana": "しか",
+      "gloss": "dentistry",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6433,
+        3121,
+        6675,
+        57172
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歯": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1590600/科目/かもく": {
+      "id": 1590600,
+      "form": "科目",
+      "kana": "かもく",
+      "gloss": "(school) subject",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3627,
+        5926,
+        6894,
+        14153
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1206590/学科/がっか": {
+      "id": 1206590,
+      "form": "学科",
+      "kana": "がっか",
+      "gloss": "subject (of study)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6496,
+        9503,
+        6894,
+        21451
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1549900/理科/りか": {
+      "id": 1549900,
+      "form": "理科",
+      "kana": "りか",
+      "gloss": "science (natural sciences and related fields, incl. mathematics, engineering, medicine, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4921,
+        9013,
+        11547,
+        20077
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "理": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1457830/内科/ないか": {
+      "id": 1457830,
+      "form": "内科",
+      "kana": "ないか",
+      "gloss": "internal medicine",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10476,
+        7814,
+        9454,
+        33764
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1488030/百科/ひゃっか": {
+      "id": 1488030,
+      "form": "百科",
+      "kana": "ひゃっか",
+      "gloss": "many objects (for study)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7244,
+        24811,
+        12695,
+        83659
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "百": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505170/文科/ぶんか": {
+      "id": 1505170,
+      "form": "文科",
+      "kana": "ぶんか",
+      "gloss": "humanities and social sciences",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18746,
+        15219,
+        11917,
+        85946
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1159770/医科/いか": {
+      "id": 1159770,
+      "form": "医科",
+      "kana": "いか",
+      "gloss": "medical science",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9160,
+        18437,
+        29116,
+        82407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "医": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217150/眼科/がんか": {
+      "id": 1217150,
+      "form": "眼科",
+      "kana": "がんか",
+      "gloss": "ophthalmology",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        16537,
+        14693,
+        16052,
+        46402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "眼": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1392650/前科/ぜんか": {
+      "id": 1392650,
+      "form": "前科",
+      "kana": "ぜんか",
+      "gloss": "previous conviction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17776,
+        22585,
+        13682,
+        15655
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1503170/分科/ぶんか": {
+      "id": 1503170,
+      "form": "分科",
+      "kana": "ぶんか",
+      "gloss": "department",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17345,
+        19003,
+        27689,
+        179875
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1192690/科する/かする": {
+      "id": 1192690,
+      "form": "科する",
+      "kana": "かする",
+      "gloss": "to inflict",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "vs-s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13273,
+        23759,
+        109403,
+        35970
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1278000/工科/こうか": {
+      "id": 1278000,
+      "form": "工科",
+      "kana": "こうか",
+      "gloss": "engineering course",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20093,
+        30685,
+        26068,
+        86093
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1805310/法科/ほうか": {
+      "id": 1805310,
+      "form": "法科",
+      "kana": "ほうか",
+      "gloss": "law department",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14723,
+        68915,
+        28385,
+        100528
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1303740/産科/さんか": {
+      "id": 1303740,
+      "form": "産科",
+      "kana": "さんか",
+      "gloss": "obstetrics",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22319,
+        47603,
+        31791,
+        84313
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "産": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1542880/予科/よか": {
+      "id": 1542880,
+      "form": "予科",
+      "kana": "よか",
+      "gloss": "preparatory course",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18120,
+        70964,
+        108425,
+        99140
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522280/本科/ほんか": {
+      "id": 1522280,
+      "form": "本科",
+      "kana": "ほんか",
+      "gloss": "regular course (of study)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37374,
+        35749,
+        51518,
+        114675
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1346620/商科/しょうか": {
+      "id": 1346620,
+      "form": "商科",
+      "kana": "しょうか",
+      "gloss": "commerce (field of study)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23648,
+        67088,
+        70783,
+        195762
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "商": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2406900/科す/かす": {
+      "id": 2406900,
+      "form": "科す",
+      "kana": "かす",
+      "gloss": "to inflict",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        21592,
+        null,
+        53687,
+        46844
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389760/専科/せんか": {
+      "id": 1389760,
+      "form": "専科",
+      "kana": "せんか",
+      "gloss": "specialized course",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36550,
+        29116,
+        106815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "専": 6
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2114350/科捜研/かそうけん": {
+      "id": 2114350,
+      "form": "科捜研",
+      "kana": "かそうけん",
+      "gloss": "forensic researcher",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        48344,
+        52991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "研": 3,
+        "捜": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1506260/兵科/へいか": {
+      "id": 1506260,
+      "form": "兵科",
+      "kana": "へいか",
+      "gloss": "branch of the army",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        62361,
+        71247
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2735340/各科/かくか": {
+      "id": 2735340,
+      "form": "各科",
+      "kana": "かくか",
+      "gloss": "each (school) subject",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        88001,
+        93738
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "各": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862748/科技/かぎ": {
+      "id": 2862748,
+      "form": "科技",
+      "kana": "かぎ",
+      "gloss": "science and technology",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        55378,
+        155628
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "技": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2833463/薬科/やっか": {
+      "id": 2833463,
+      "form": "薬科",
+      "kana": "やっか",
+      "gloss": "pharmacy (subject)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        61736,
+        169720
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1192780/科料/かりょう": {
+      "id": 1192780,
+      "form": "科料",
+      "kana": "かりょう",
+      "gloss": "fine (for a minor offence)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        93840,
+        148284
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1192700:科学:かがく",
+      "form": "科学",
+      "kana": "かがく",
+      "cue": "science",
+      "ids": [
+        1192700
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6585,
+        "shiberu": 480,
+        "tubelex": 1697,
+        "wordfreq": 997
+      },
+      "alternatives_by_kanji": {
+        "学": [
+          "1413240/大学/だいがく",
+          "1206530/学ぶ/まなぶ",
+          "1206820/学習/がくしゅう"
+        ],
+        "科": [
+          "1237010/教科/きょうか",
+          "1296710/罪科/ざいか",
+          "1203380/外科/げか"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 42
+}

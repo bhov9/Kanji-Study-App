@@ -1,0 +1,1225 @@
+[
+  {
+    "wordId": "jmdict:1658350:賜杯:しはい",
+    "form": "賜杯",
+    "kana": "しはい",
+    "cue": "Emperor's cup; trophy given by the Emperor",
+    "ids": [
+      1658350
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 295274,
+      "tubelex": 95069,
+      "wordfreq": 116428
+    },
+    "alternatives_by_kanji": {
+      "賜": [
+        "1185150/下賜/かし",
+        "1183170/恩賜/おんし",
+        "1312860/賜る/たまわる"
+      ],
+      "杯": [
+        "1337510/祝杯/しゅくはい",
+        "1243570/銀杯/ぎんぱい",
+        "1472630/杯/さかずき"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1658480:時半:じはん",
+    "form": "時半",
+    "kana": "じはん",
+    "cue": "half past (the hour)",
+    "ids": [
+      1658480
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 5835
+    }
+  },
+  {
+    "wordId": "jmdict:1702990:碑:ひ",
+    "form": "碑",
+    "kana": "ひ",
+    "cue": "stone monument bearing an inscription (esp. memorial for future generations); stele",
+    "ids": [
+      1702990
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "shiberu": 4399,
+      "tubelex": 6003,
+      "wordfreq": 13682
+    },
+    "alternatives_by_kanji": {
+      "碑": [
+        "1382780/石碑/せきひ",
+        "1483970/碑銘/ひめい",
+        "1223390/記念碑/きねんひ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1713980:対照的:たいしょうてき",
+    "form": "対照的",
+    "kana": "たいしょうてき",
+    "cue": "contrastive",
+    "ids": [
+      1713980
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 6819
+    },
+    "alternatives_by_kanji": {
+      "対": [
+        "1386840/絶対/ぜったい",
+        "1480670/反対/はんたい",
+        "1410290/対立/たいりつ"
+      ],
+      "照": [
+        "1350990/照明/しょうめい",
+        "1350840/照らす/てらす",
+        "1350880/照れる/てれる"
+      ],
+      "的": [
+        "1535560/目的/もくてき",
+        "1437300/的中/てきちゅう",
+        "1620940/的外れ/まとはずれ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1729140:縫製:ほうせい",
+    "form": "縫製",
+    "kana": "ほうせい",
+    "cue": "sewing (by machine)",
+    "ids": [
+      1729140
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 41980,
+      "tubelex": 17363,
+      "wordfreq": 33710
+    },
+    "alternatives_by_kanji": {
+      "製": [
+        "1380690/製造/せいぞう",
+        "1380720/製鉄/せいてつ",
+        "1437920/鉄製/てっせい"
+      ],
+      "縫": [
+        "1517700/縫う/ぬう",
+        "1296200/裁縫/さいほう",
+        "1599960/縫い目/ぬいめ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1752020:平壌:ぴょんやん",
+    "form": "平壌",
+    "kana": "ぴょんやん",
+    "cue": "Pyongyang (North Korea)",
+    "ids": [],
+    "mapping": "needs-review",
+    "flags": [],
+    "issues": [
+      "dictionary identity needs review",
+      "check segmentation",
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "shiberu": 29014,
+      "wordfreq": 23544
+    },
+    "alternatives_by_kanji": {
+      "平": [
+        "1507670/平等/びょうどう",
+        "1507960/平面/へいめん",
+        "1506900/平たい/ひらたい"
+      ],
+      "壌": [
+        "1445380/土壌/どじょう",
+        "1439430/天壌/てんじょう",
+        "2832354/壌土/じょうど"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1785260:太山:たいざん",
+    "form": "太山",
+    "kana": "たいざん",
+    "cue": "great mountain; large mountain",
+    "ids": [
+      1785260
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 176180,
+      "wordfreq": 147538
+    },
+    "alternatives_by_kanji": {
+      "山": [
+        "1444780/登山/とざん",
+        "1283520/高山/こうざん",
+        "1303190/山脈/さんみゃく"
+      ],
+      "太": [
+        "1408370/太陽/たいよう",
+        "1408180/太い/ふとい",
+        "1408220/太る/ふとる"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1785260:泰山:たいざん",
+    "form": "泰山",
+    "kana": "たいざん",
+    "cue": "great mountain; large mountain",
+    "ids": [
+      1785260
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 71171,
+      "tubelex": 29059,
+      "wordfreq": 37951
+    },
+    "alternatives_by_kanji": {
+      "山": [
+        "1444780/登山/とざん",
+        "1283520/高山/こうざん",
+        "1303190/山脈/さんみゃく"
+      ],
+      "泰": [
+        "1154070/安泰/あんたい",
+        "1410890/泰然/たいぜん",
+        "1787250/泰斗/たいと"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1786950:大詰:おおづめ",
+    "form": "大詰",
+    "kana": "おおづめ",
+    "cue": "final scene; the end",
+    "ids": [
+      1786950
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 133006,
+      "wordfreq": 169274
+    },
+    "alternatives_by_kanji": {
+      "大": [
+        "1412890/大きな/おおきな",
+        "1205200/拡大/かくだい",
+        "1412960/大した/たいした"
+      ],
+      "詰": [
+        "1226480/詰まる/つまる",
+        "1631350/行き詰まる/いきづまる",
+        "1226490/詰む/つむ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1792170:納采:のうさい",
+    "form": "納采",
+    "kana": "のうさい",
+    "cue": "betrothal gift",
+    "ids": [
+      1792170
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 231014,
+      "tubelex": 78424
+    },
+    "alternatives_by_kanji": {
+      "納": [
+        "1470080/納得/なっとく",
+        "1330830/収納/しゅうのう",
+        "1470070/納豆/なっとう"
+      ],
+      "采": [
+        "1208170/喝采/かっさい",
+        "1295140/采配/さいはい",
+        "1625020/風采/ふうさい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1822740:本因坊:ほんいんぼう",
+    "form": "本因坊",
+    "kana": "ほんいんぼう",
+    "cue": "Hon'inbō; Honinbo",
+    "ids": [
+      1822740
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 187071,
+      "wordfreq": 77181
+    },
+    "alternatives_by_kanji": {
+      "本": [
+        "1523270/本来/ほんらい",
+        "1312780/資本/しほん",
+        "1522620/本質/ほんしつ"
+      ],
+      "因": [
+        "1261190/原因/げんいん",
+        "1546670/要因/よういん",
+        "1168680/因果/いんが"
+      ],
+      "坊": [
+        "1383310/赤ん坊/あかんぼう",
+        "1383310/赤ん坊/あかんぼ",
+        "1603720/坊ちゃん/ぼっちゃん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1828020:褒奨金:ほうしょうきん",
+    "form": "褒奨金",
+    "kana": "ほうしょうきん",
+    "cue": "cash bonus; reward",
+    "ids": [
+      1828020
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 397947
+    },
+    "alternatives_by_kanji": {
+      "金": [
+        "1243040/金属/きんぞく",
+        "1242970/金持ち/かねもち",
+        "1243020/金銭/きんせん"
+      ],
+      "奨": [
+        "1371120/推奨/すいしょう",
+        "1347550/奨励/しょうれい",
+        "1347530/奨学金/しょうがくきん"
+      ],
+      "褒": [
+        "1603550/褒める/ほめる",
+        "1518050/褒美/ほうび",
+        "1518020/褒章/ほうしょう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1844500:早乙女:さおとめ",
+    "form": "早乙女",
+    "kana": "さおとめ",
+    "cue": "young female rice planter; young girl",
+    "ids": [
+      1844500
+    ],
+    "mapping": "needs-review",
+    "flags": [],
+    "issues": [
+      "check segmentation",
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 60249,
+      "tubelex": 95069,
+      "wordfreq": 19040
+    },
+    "alternatives_by_kanji": {
+      "女": [
+        "1345440/女流/じょりゅう",
+        "1345230/女人/にょにん",
+        "1761950/女心/おんなごころ"
+      ],
+      "早": [
+        "1400300/早速/さっそく",
+        "1397310/素早い/すばやい",
+        "1400330/早朝/そうちょう"
+      ],
+      "乙": [
+        "1280080/甲乙/こうおつ",
+        "1862630/乙種/おつしゅ",
+        "1589270/乙姫/おとひめ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1855270:湧水:ゆうすい",
+    "form": "湧水",
+    "kana": "ゆうすい",
+    "cue": "welling of water; spring water",
+    "ids": [
+      1855270
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 67602,
+      "shiberu": 23343,
+      "tubelex": 31039
+    },
+    "alternatives_by_kanji": {
+      "水": [
+        "1372010/水分/すいぶん",
+        "1201490/海水/かいすい",
+        "1618380/水浴び/みずあび"
+      ],
+      "湧": [
+        "1652520/湧出/ゆうしゅつ",
+        "1606685/湧く/わく",
+        "1652520/湧出/ようしゅつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1857970:憤り:いきどおり",
+    "form": "憤り",
+    "kana": "いきどおり",
+    "cue": "resentment; indignation",
+    "ids": [
+      1857970
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 12555,
+      "shiberu": 19003,
+      "tubelex": 22793,
+      "wordfreq": 23544
+    },
+    "alternatives_by_kanji": {
+      "憤": [
+        "1504650/憤慨/ふんがい",
+        "1225870/義憤/ぎふん",
+        "1600840/発憤/はっぷん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1899440:鳴り:なり",
+    "form": "鳴り",
+    "kana": "なり",
+    "cue": "ringing; sound",
+    "ids": [
+      1899440
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 54140,
+      "shiberu": 18978,
+      "tubelex": 34763,
+      "wordfreq": 14325
+    },
+    "alternatives_by_kanji": {
+      "鳴": [
+        "1532910/鳴る/なる",
+        "1532870/鳴く/なく",
+        "1483350/悲鳴/ひめい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1900970:残った分:のこったぶん",
+    "form": "残った分",
+    "kana": "のこったぶん",
+    "cue": "amount left over; remaining portion",
+    "ids": [
+      1900970
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 60612
+    },
+    "alternatives_by_kanji": {
+      "分": [
+        "1318610/自分/じぶん",
+        "1606600/分かれる/わかれる",
+        "1372010/水分/すいぶん"
+      ],
+      "残": [
+        "1304510/残る/のこる",
+        "1600260/残す/のこす",
+        "1304680/残念/ざんねん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1922090:栃:とち",
+    "form": "栃",
+    "kana": "とち",
+    "cue": "Japanese horse chestnut (Aesculus turbinata)",
+    "ids": [
+      1922090
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "uk"
+    ],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 158295,
+      "shiberu": 33437,
+      "wordfreq": 21173
+    },
+    "alternatives_by_kanji": {
+      "栃": [
+        "2845112/栃木/とちぎ",
+        "1456480/栃木県/とちぎけん",
+        "5743548/栃木県警/とちぎけんけい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1937120:執行部:しっこうぶ",
+    "form": "執行部",
+    "kana": "しっこうぶ",
+    "cue": "(the) executive; administration",
+    "ids": [
+      1937120
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 44996
+    },
+    "alternatives_by_kanji": {
+      "行": [
+        "1589060/行う/おこなう",
+        "1553170/旅行/りょこう",
+        "1281830/行為/こうい"
+      ],
+      "部": [
+        "1396130/全部/ぜんぶ",
+        "1499490/部分/ぶぶん",
+        "1523170/本部/ほんぶ"
+      ],
+      "執": [
+        "1319710/執筆/しっぴつ",
+        "1319690/執念/しゅうねん",
+        "1205820/確執/かくしつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1949190:他:た",
+    "form": "他",
+    "kana": "た",
+    "cue": "other (esp. people and abstract matters)",
+    "ids": [
+      1949190
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 141526,
+      "shiberu": 185,
+      "tubelex": 188,
+      "wordfreq": 158
+    }
+  },
+  {
+    "wordId": "jmdict:1949630:貸出用:かしだしよう",
+    "form": "貸出用",
+    "kana": "かしだしよう",
+    "cue": "circulation or lending (e.g. library books)",
+    "ids": [
+      1949630
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 162780
+    },
+    "alternatives_by_kanji": {
+      "出": [
+        "1338180/出す/だす",
+        "1436410/提出/ていしゅつ",
+        "1338820/出現/しゅつげん"
+      ],
+      "用": [
+        "1306200/使用/しよう",
+        "1546220/用意/ようい",
+        "1546210/用いる/もちいる"
+      ],
+      "貸": [
+        "1411160/貸す/かす",
+        "1411110/貸し/かし",
+        "1432030/賃貸/ちんたい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1949660:頑張って:がんばって",
+    "form": "頑張って",
+    "kana": "がんばって",
+    "cue": "do your best; go for it",
+    "ids": [
+      1949660
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "uk"
+    ],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 1349
+    },
+    "alternatives_by_kanji": {
+      "張": [
+        "1325910/主張/しゅちょう",
+        "1601900/引っ張る/ひっぱる",
+        "1205220/拡張/かくちょう"
+      ],
+      "頑": [
+        "1217680/頑固/がんこ",
+        "1217660/頑強/がんきょう",
+        "1217670/頑健/がんけん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1951150:極まって:きまって",
+    "form": "極まって",
+    "kana": "きまって",
+    "cue": "always; without fail",
+    "ids": [
+      1951150
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 50282
+    },
+    "alternatives_by_kanji": {
+      "極": [
+        "1240470/極秘/ごくひ",
+        "1240300/極限/きょくげん",
+        "1311920/至極/しごく"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1951150:決まって:きまって",
+    "form": "決まって",
+    "kana": "きまって",
+    "cue": "always; without fail",
+    "ids": [
+      1951150
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2326
+    },
+    "alternatives_by_kanji": {
+      "決": [
+        "1254180/決める/きめる",
+        "1198960/解決/かいけつ",
+        "1254220/決意/けつい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1955980:棺:かん",
+    "form": "棺",
+    "kana": "かん",
+    "cue": "coffin; casket",
+    "ids": [
+      1955980
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 16979,
+      "shiberu": 8390,
+      "tubelex": 13838,
+      "wordfreq": 14745
+    },
+    "alternatives_by_kanji": {
+      "棺": [
+        "1338480/出棺/しゅっかん",
+        "1382550/石棺/せっかん",
+        "1382550/石棺/せきかん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1956010:貫:かん",
+    "form": "貫",
+    "kana": "かん",
+    "cue": "kan (obs. unit of weight, approx. 3.75 kg, 8.3 lb)",
+    "ids": [
+      1956010
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 32836,
+      "shiberu": 8709,
+      "tubelex": 12955,
+      "wordfreq": 14745
+    }
+  },
+  {
+    "wordId": "jmdict:1956120:菌:きん",
+    "form": "菌",
+    "kana": "きん",
+    "cue": "fungus",
+    "ids": [
+      1956120
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 21882,
+      "shiberu": 7748,
+      "tubelex": 4199,
+      "wordfreq": 4516
+    }
+  },
+  {
+    "wordId": "jmdict:1956190:芸:げい",
+    "form": "芸",
+    "kana": "げい",
+    "cue": "art; craft",
+    "ids": [
+      1956190
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 9168,
+      "shiberu": 3924,
+      "tubelex": 5926,
+      "wordfreq": 5233
+    },
+    "alternatives_by_kanji": {
+      "芸": [
+        "1253060/芸術/げいじゅつ",
+        "1253130/芸能/げいのう",
+        "1505290/文芸/ぶんげい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1956550:栓:せん",
+    "form": "栓",
+    "kana": "せん",
+    "cue": "stopper; cork",
+    "ids": [
+      1956550
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 18947,
+      "shiberu": 13510,
+      "tubelex": 17642,
+      "wordfreq": 12695
+    },
+    "alternatives_by_kanji": {
+      "栓": [
+        "1350180/消火栓/しょうかせん",
+        "1230280/給水栓/きゅうすいせん",
+        "1669960/血栓/けっせん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1956860:妃:ひ",
+    "form": "妃",
+    "kana": "ひ",
+    "cue": "princess; consort",
+    "ids": [
+      1956860
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 22783,
+      "shiberu": 3211,
+      "tubelex": 12351,
+      "wordfreq": 9888
+    },
+    "alternatives_by_kanji": {
+      "妃": [
+        "1181670/王妃/おうひ",
+        "1483050/妃殿下/ひでんか",
+        "2870686/正妃/せいひ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1957060:理:り",
+    "form": "理",
+    "kana": "り",
+    "cue": "reason; principle",
+    "ids": [
+      1957060
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 6988,
+      "shiberu": 2744,
+      "tubelex": 4985,
+      "wordfreq": 4345
+    },
+    "alternatives_by_kanji": {
+      "理": [
+        "1550140/理由/りゆう",
+        "1376250/整理/せいり",
+        "1549900/理科/りか"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2009330:抜き:ぬき",
+    "form": "抜き",
+    "kana": "ぬき",
+    "cue": "leaving out; omitting",
+    "ids": [
+      2009330
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 3611,
+      "shiberu": 5358,
+      "tubelex": 4969,
+      "wordfreq": 3232
+    },
+    "alternatives_by_kanji": {
+      "抜": [
+        "1478200/抜ける/ぬける",
+        "1478250/抜群/ばつぐん",
+        "1392380/選抜/せんばつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2020520:恒:つね",
+    "form": "恒",
+    "kana": "つね",
+    "cue": "usual state of things",
+    "ids": [
+      2020520
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 80028,
+      "wordfreq": 20890
+    }
+  },
+  {
+    "wordId": "jmdict:2036080:鬱:うつ",
+    "form": "鬱",
+    "kana": "うつ",
+    "cue": "depression; low spirits",
+    "ids": [
+      2036080
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "rare",
+      "uk"
+    ],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 27369,
+      "shiberu": 14023,
+      "tubelex": 6900,
+      "wordfreq": 10217
+    },
+    "alternatives_by_kanji": {
+      "鬱": [
+        "1605640/憂鬱/ゆううつ",
+        "1170550/陰鬱/いんうつ",
+        "1568440/鬱病/うつびょう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2038290:隻:せき",
+    "form": "隻",
+    "kana": "せき",
+    "cue": "counter for ships",
+    "ids": [
+      2038290
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "arch"
+    ],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 21549,
+      "shiberu": 6792,
+      "tubelex": 6378,
+      "wordfreq": 6549
+    },
+    "alternatives_by_kanji": {
+      "隻": [
+        "1382240/隻手/せきしゅ",
+        "1373100/数隻/すうせき",
+        "1382230/隻眼/せきがん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2067560:兵:へい",
+    "form": "兵",
+    "kana": "へい",
+    "cue": "(common) soldier; rank and file",
+    "ids": [
+      2067560
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 5256,
+      "shiberu": 1880,
+      "tubelex": 3026,
+      "wordfreq": 2518
+    },
+    "alternatives_by_kanji": {
+      "兵": [
+        "1506320/兵器/へいき",
+        "1506590/兵隊/へいたい",
+        "1602300/兵糧/ひょうろう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2153730:業:ぎょう",
+    "form": "業",
+    "kana": "ぎょう",
+    "cue": "work; business",
+    "ids": [
+      2153730
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 11492,
+      "shiberu": 1855,
+      "tubelex": 1391,
+      "wordfreq": 1838
+    },
+    "alternatives_by_kanji": {
+      "業": [
+        "1405890/卒業/そつぎょう",
+        "1357510/職業/しょくぎょう",
+        "1239460/業績/ぎょうせき"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2164680:仙台:せんだい",
+    "form": "仙台",
+    "kana": "せんだい",
+    "cue": "Sendai (city in Miyagi)",
+    "ids": [
+      2164680
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check proper-name cue"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 28916,
+      "shiberu": 4261,
+      "wordfreq": 3103
+    },
+    "alternatives_by_kanji": {
+      "台": [
+        "1499150/舞台/ぶたい",
+        "1596780/台風/たいふう",
+        "1448730/灯台/とうだい"
+      ],
+      "仙": [
+        "1387170/仙人/せんにん",
+        "1387150/仙骨/せんこつ",
+        "1329130/酒仙/しゅせん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2164730:新潟:にいがた",
+    "form": "新潟",
+    "kana": "にいがた",
+    "cue": "Niigata (city, prefecture)",
+    "ids": [
+      2164730
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check proper-name cue"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 31568,
+      "shiberu": 4819,
+      "wordfreq": 2476
+    },
+    "alternatives_by_kanji": {
+      "新": [
+        "1361490/新しい/あたらしい",
+        "1362360/新聞/しんぶん",
+        "1206470/革新/かくしん"
+      ],
+      "潟": [
+        "1212030/干潟/ひがた",
+        "1207710/潟/かた",
+        "1697320/潟湖/せきこ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2185940:貞:てい",
+    "form": "貞",
+    "kana": "てい",
+    "cue": "firm adherence to one's principles",
+    "ids": [
+      2185940
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 64263,
+      "shiberu": 10807,
+      "tubelex": 23941,
+      "wordfreq": 16770
+    }
+  },
+  {
+    "wordId": "jmdict:2511890:淫:いん",
+    "form": "淫",
+    "kana": "いん",
+    "cue": "licentiousness",
+    "ids": [
+      2511890
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 27237,
+      "shiberu": 26321,
+      "wordfreq": 30598
+    }
+  },
+  {
+    "wordId": "jmdict:2827768:奈良:なら",
+    "form": "奈良",
+    "kana": "なら",
+    "cue": "Nara (city, prefecture)",
+    "ids": [
+      2827768
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check proper-name cue"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 29932,
+      "shiberu": 2567,
+      "wordfreq": 3663
+    },
+    "alternatives_by_kanji": {
+      "奈": [
+        "1457690/奈落/ならく",
+        "1457720/奈良漬け/ならづけ",
+        "2845591/神奈備/かんなび"
+      ],
+      "良": [
+        "1605820/良い/よい",
+        "1554590/良心/りょうしん",
+        "1554550/良好/りょうこう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:2834885:夕:ゆう",
+    "form": "夕",
+    "kana": "ゆう",
+    "cue": "evening",
+    "ids": [
+      2834885
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 20096,
+      "shiberu": 7438,
+      "tubelex": 16416,
+      "wordfreq": 6549
+    }
+  },
+  {
+    "wordId": "jmdict:2842898:謁:えつ",
+    "form": "謁",
+    "kana": "えつ",
+    "cue": "audience (with a superior, e.g. nobility)",
+    "ids": [
+      2842898
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 125406,
+      "tubelex": 95069,
+      "wordfreq": 153062
+    }
+  },
+  {
+    "wordId": "jmdict:2851105:沃る:いる",
+    "form": "沃る",
+    "kana": "いる",
+    "cue": "to pour; to dash (water) over",
+    "ids": [
+      2851105
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 158404
+    },
+    "alternatives_by_kanji": {
+      "沃": [
+        "1615430/肥沃/ひよく",
+        "1547420/沃素/ようそ",
+        "1818880/沃野/よくや"
+      ]
+    }
+  }
+]

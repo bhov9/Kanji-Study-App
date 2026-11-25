@@ -1,0 +1,1404 @@
+{
+  "character": "報",
+  "grade": 5,
+  "meanings": [
+    "report",
+    "news",
+    "reward",
+    "retribution"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 32
+    }
+  ],
+  "components": [
+    "十",
+    "辛",
+    "土",
+    "又",
+    "立",
+    "亠",
+    "卩"
+  ],
+  "on": [
+    "ホウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "むく.いる",
+      "stem": "むく",
+      "okurigana": "いる"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "報",
+    "heading": "報",
+    "readings": [
+      "ホウ",
+      "むくいる"
+    ],
+    "examples_by_reading": [
+      [
+        "報酬",
+        "報告",
+        "情報"
+      ],
+      [
+        "報いる",
+        "報い"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "報",
+      "reading": "ホウ",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ホウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 405,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1356370/情報/じょうほう",
+        "1515670/報告/ほうこく",
+        "1515700/報酬/ほうしゅう",
+        "1515730/報道/ほうどう",
+        "1543630/予報/よほう",
+        "1433530/通報/つうほう",
+        "1405070/速報/そくほう",
+        "1252520/警報/けいほう",
+        "1515660/報ずる/ほうずる",
+        "1593040/広報/こうほう"
+      ]
+    },
+    {
+      "reading": "むくいる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1515630/報いる/むくいる",
+        "1642330/報い/むくい",
+        "2859706/一矢報いる/いっしむくいる",
+        "1858910/一矢を報いる/いっしをむくいる",
+        "2834221/仇を恩で報いる/あだをおんでむくいる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1356370/情報/じょうほう",
+    "1515670/報告/ほうこく",
+    "1515700/報酬/ほうしゅう",
+    "1515630/報いる/むくいる",
+    "1642330/報い/むくい",
+    "1515730/報道/ほうどう",
+    "1543630/予報/よほう",
+    "1433530/通報/つうほう",
+    "1405070/速報/そくほう",
+    "1252520/警報/けいほう",
+    "1515660/報ずる/ほうずる",
+    "1593040/広報/こうほう",
+    "1515760/報復/ほうふく",
+    "1648670/諜報/ちょうほう",
+    "1515720/報知/ほうち",
+    "1316360/時報/じほう",
+    "1483340/悲報/ひほう",
+    "1572550/訃報/ふほう",
+    "1198870/会報/かいほう",
+    "1627500/報奨/ほうしょう",
+    "1193080/果報/かほう",
+    "1274700/公報/こうほう",
+    "1180050/応報/おうほう",
+    "1627420/報恩/ほうおん",
+    "1351810/詳報/しょうほう",
+    "1828000/報国/ほうこく",
+    "1232800/虚報/きょほう",
+    "1560740/朗報/ろうほう",
+    "1405870/続報/ぞくほう",
+    "1271470/誤報/ごほう"
+  ],
+  "candidates": {
+    "1356370/情報/じょうほう": {
+      "id": 1356370,
+      "form": "情報",
+      "kana": "じょうほう",
+      "gloss": "information",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        490,
+        270,
+        196,
+        636
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1515670/報告/ほうこく": {
+      "id": 1515670,
+      "form": "報告",
+      "kana": "ほうこく",
+      "gloss": "report",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        964,
+        1163,
+        841,
+        839
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "告": 5
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1515700/報酬/ほうしゅう": {
+      "id": 1515700,
+      "form": "報酬",
+      "kana": "ほうしゅう",
+      "gloss": "remuneration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4555,
+        2745,
+        2863,
+        4394
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酬": 7
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1515630/報いる/むくいる": {
+      "id": 1515630,
+      "form": "報いる",
+      "kana": "むくいる",
+      "gloss": "to reward",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9623,
+        20507,
+        38431,
+        7193
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "むくいる": {
+          "actual": "むく",
+          "dictionary": [
+            "むく.いる"
+          ]
+        }
+      },
+      "official_examples": [
+        "むくいる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1642330/報い/むくい": {
+      "id": 1642330,
+      "form": "報い",
+      "kana": "むくい",
+      "gloss": "reward",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23066,
+        20677,
+        20603,
+        17852
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "むくいる": {
+          "actual": "むく",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "むくいる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1515730/報道/ほうどう": {
+      "id": 1515730,
+      "form": "報道",
+      "kana": "ほうどう",
+      "gloss": "report (of news)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2460,
+        1998,
+        1439,
+        8580
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1543630/予報/よほう": {
+      "id": 1543630,
+      "form": "予報",
+      "kana": "よほう",
+      "gloss": "forecast",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2022,
+        6028,
+        5555,
+        20537
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1433530/通報/つうほう": {
+      "id": 1433530,
+      "form": "通報",
+      "kana": "つうほう",
+      "gloss": "report",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7508,
+        7518,
+        4117,
+        4603
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1405070/速報/そくほう": {
+      "id": 1405070,
+      "form": "速報",
+      "kana": "そくほう",
+      "gloss": "news flash",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16965,
+        7913,
+        2809,
+        26833
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "速": 3
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1252520/警報/けいほう": {
+      "id": 1252520,
+      "form": "警報",
+      "kana": "けいほう",
+      "gloss": "warning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5621,
+        6924,
+        6549,
+        11746
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "警": 6
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1515660/報ずる/ほうずる": {
+      "id": 1515660,
+      "form": "報ずる",
+      "kana": "ほうずる",
+      "gloss": "to report",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "vz",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4041,
+        4823,
+        124069,
+        112299
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1593040/広報/こうほう": {
+      "id": 1593040,
+      "form": "広報",
+      "kana": "こうほう",
+      "gloss": "public relations",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20092,
+        6926,
+        4516,
+        20778
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "広": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1515760/報復/ほうふく": {
+      "id": 1515760,
+      "form": "報復",
+      "kana": "ほうふく",
+      "gloss": "retaliation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14518,
+        13107,
+        8169,
+        10671
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "復": 5
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1648670/諜報/ちょうほう": {
+      "id": 1648670,
+      "form": "諜報",
+      "kana": "ちょうほう",
+      "gloss": "secret information",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7613,
+        22356,
+        11917,
+        20477
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1515720/報知/ほうち": {
+      "id": 1515720,
+      "form": "報知",
+      "kana": "ほうち",
+      "gloss": "information",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9915,
+        22742,
+        14745,
+        91421
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "知": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1316360/時報/じほう": {
+      "id": 1316360,
+      "form": "時報",
+      "kana": "じほう",
+      "gloss": "announcement of time",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14070,
+        25407,
+        19040,
+        50328
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1483340/悲報/ひほう": {
+      "id": 1483340,
+      "form": "悲報",
+      "kana": "ひほう",
+      "gloss": "sad news",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23538,
+        34763,
+        12479,
+        53164
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悲": 3
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1572550/訃報/ふほう": {
+      "id": 1572550,
+      "form": "訃報",
+      "kana": "ふほう",
+      "gloss": "news of someone's death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20420,
+        27692,
+        16770,
+        36726
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訃": 7
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1198870/会報/かいほう": {
+      "id": 1198870,
+      "form": "会報",
+      "kana": "かいほう",
+      "gloss": "bulletin (issued by a society)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23231,
+        40322,
+        19848,
+        67989
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1627500/報奨/ほうしょう": {
+      "id": 1627500,
+      "form": "報奨",
+      "kana": "ほうしょう",
+      "gloss": "bonus",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30424,
+        35006,
+        30216,
+        61165
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奨": 7
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193080/果報/かほう": {
+      "id": 1193080,
+      "form": "果報",
+      "kana": "かほう",
+      "gloss": "good fortune",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18690,
+        49441,
+        72128,
+        67428
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "果": 4
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1274700/公報/こうほう": {
+      "id": 1274700,
+      "form": "公報",
+      "kana": "こうほう",
+      "gloss": "official bulletin",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26785,
+        51509,
+        33270,
+        96449
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1180050/応報/おうほう": {
+      "id": 1180050,
+      "form": "応報",
+      "kana": "おうほう",
+      "gloss": "retribution",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30884,
+        25300,
+        88001,
+        78756
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1627420/報恩/ほうおん": {
+      "id": 1627420,
+      "form": "報恩",
+      "kana": "ほうおん",
+      "gloss": "repaying a kindness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        38097,
+        31364,
+        62361,
+        94862
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恩": 6
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1351810/詳報/しょうほう": {
+      "id": 1351810,
+      "form": "詳報",
+      "kana": "しょうほう",
+      "gloss": "detailed report",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        40617,
+        58680,
+        34111,
+        111783
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "詳": 7
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1828000/報国/ほうこく": {
+      "id": 1828000,
+      "form": "報国",
+      "kana": "ほうこく",
+      "gloss": "patriotism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26554,
+        68915,
+        68819,
+        114985
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1232800/虚報/きょほう": {
+      "id": 1232800,
+      "form": "虚報",
+      "kana": "きょほう",
+      "gloss": "false news",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40594,
+        139593,
+        78707,
+        103808
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "虚": 7
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1560740/朗報/ろうほう": {
+      "id": 1560740,
+      "form": "朗報",
+      "kana": "ろうほう",
+      "gloss": "good news",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17969,
+        11368,
+        15624
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朗": 6
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1405870/続報/ぞくほう": {
+      "id": 1405870,
+      "form": "続報",
+      "kana": "ぞくほう",
+      "gloss": "follow-up report",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        21990,
+        15825,
+        26366
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "続": 4
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271470/誤報/ごほう": {
+      "id": 1271470,
+      "form": "誤報",
+      "kana": "ごほう",
+      "gloss": "false report",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29981,
+        21173,
+        40818
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誤": 6
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859706/一矢報いる/いっしむくいる": {
+      "id": 2859706,
+      "form": "一矢報いる",
+      "kana": "いっしむくいる",
+      "gloss": "to retaliate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23260
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "矢": 2,
+        "一": 1
+      },
+      "matched": {
+        "むくいる": {
+          "actual": "むく",
+          "dictionary": [
+            "むく.いる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1858910/一矢を報いる/いっしをむくいる": {
+      "id": 1858910,
+      "form": "一矢を報いる",
+      "kana": "いっしをむくいる",
+      "gloss": "to retaliate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        79639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "矢": 2,
+        "一": 1
+      },
+      "matched": {
+        "むくいる": {
+          "actual": "むく",
+          "dictionary": [
+            "むく.いる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834221/仇を恩で報いる/あだをおんでむくいる": {
+      "id": 2834221,
+      "form": "仇を恩で報いる",
+      "kana": "あだをおんでむくいる",
+      "gloss": "to repay meanness with kindness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "恩": 6
+      },
+      "matched": {
+        "むくいる": {
+          "actual": "むく",
+          "dictionary": [
+            "むく.いる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1515670:報告:ほうこく",
+      "form": "報告",
+      "kana": "ほうこく",
+      "cue": "report; information",
+      "ids": [
+        1515670
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 839,
+        "shiberu": 964,
+        "tubelex": 1163,
+        "wordfreq": 841
+      },
+      "alternatives_by_kanji": {
+        "告": [
+          "1285990/告げる/つげる",
+          "1286060/告白/こくはく",
+          "1286010/告示/こくじ"
+        ],
+        "報": [
+          "1356370/情報/じょうほう",
+          "1515700/報酬/ほうしゅう",
+          "1515630/報いる/むくいる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1515700:報酬:ほうしゅう",
+      "form": "報酬",
+      "kana": "ほうしゅう",
+      "cue": "remuneration; recompense",
+      "ids": [
+        1515700
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4394,
+        "shiberu": 4555,
+        "tubelex": 2745,
+        "wordfreq": 2863
+      },
+      "alternatives_by_kanji": {
+        "報": [
+          "1356370/情報/じょうほう",
+          "1515670/報告/ほうこく",
+          "1515630/報いる/むくいる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1572550:訃報:ふほう",
+      "form": "訃報",
+      "kana": "ふほう",
+      "cue": "news of someone's death; obituary",
+      "ids": [
+        1572550
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 36726,
+        "shiberu": 20420,
+        "tubelex": 27692,
+        "wordfreq": 16770
+      },
+      "alternatives_by_kanji": {
+        "報": [
+          "1356370/情報/じょうほう",
+          "1515670/報告/ほうこく",
+          "1515700/報酬/ほうしゅう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 55
+}

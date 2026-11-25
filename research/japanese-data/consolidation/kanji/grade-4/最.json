@@ -1,0 +1,1372 @@
+{
+  "character": "最",
+  "grade": 4,
+  "meanings": [
+    "utmost",
+    "most",
+    "extreme"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 73
+    },
+    {
+      "type": "nelson_c",
+      "value": 72
+    }
+  ],
+  "components": [
+    "一",
+    "耳",
+    "日",
+    "又"
+  ],
+  "on": [
+    "サイ",
+    "シュ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "もっと.も",
+      "stem": "もっと",
+      "okurigana": "も"
+    },
+    {
+      "sourceNotation": "つま",
+      "stem": "つま",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "も"
+  ],
+  "government": {
+    "kanji": "最",
+    "heading": "最",
+    "readings": [
+      "サイ",
+      "もっとも"
+    ],
+    "examples_by_reading": [
+      [
+        "最大",
+        "最近",
+        "最先端"
+      ],
+      [
+        "最も"
+      ]
+    ],
+    "note_lines": [
+      "最寄り（もより）"
+    ],
+    "representative_index": {
+      "kanji": "最",
+      "reading": "サイ",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "最寄り"
+      ],
+      "reading": "もより",
+      "stage": "junior_high",
+      "pdf_page": 52,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "サイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 329,
+      "frequent_unflagged_examples": 9,
+      "current_support": false,
+      "candidates": [
+        "1293780/最近/さいきん",
+        "1294180/最大/さいだい",
+        "1294120/最先端/さいせんたん",
+        "1293810/最後/さいご",
+        "1293990/最初/さいしょ",
+        "1293850/最高/さいこう",
+        "1293940/最終/さいしゅう",
+        "1294090/最新/さいしん",
+        "1956280/最/さい",
+        "1294220/最低/さいてい"
+      ]
+    },
+    {
+      "reading": "もっとも",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1293700/最も/もっとも",
+        "1293700/最も/もとも",
+        "2417510/最後に笑う者が最もよく笑う/さいごにわらうものがもっともよくわらう",
+        "2689860/最も近い共通祖先/もっともちかいきょうつうそせん"
+      ]
+    },
+    {
+      "reading": "シュ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "つま",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1293780/最近/さいきん",
+    "1293700/最も/もっとも",
+    "1294180/最大/さいだい",
+    "1293700/最も/もとも",
+    "1294120/最先端/さいせんたん",
+    "1293810/最後/さいご",
+    "1293990/最初/さいしょ",
+    "1293850/最高/さいこう",
+    "1293940/最終/さいしゅう",
+    "1294090/最新/さいしん",
+    "1956280/最/さい",
+    "1294220/最低/さいてい",
+    "1293720/最悪/さいあく",
+    "1293770/最強/さいきょう",
+    "1294280/最適/さいてき",
+    "1294000/最小/さいしょう",
+    "1293760/最期/さいご",
+    "1294160/最善/さいぜん",
+    "1579200/最上/さいじょう",
+    "2006780/最速/さいそく",
+    "1294210/最短/さいたん",
+    "1294300/最良/さいりょう",
+    "1657760/最長/さいちょう",
+    "1293800/最古/さいこ",
+    "1293710/最愛/さいあい",
+    "2872202/最盛/さいせい",
+    "1294070/最少/さいしょう",
+    "1294130/最前/さいぜん",
+    "1657750/最多/さいた",
+    "2413200/最北/さいほく"
+  ],
+  "candidates": {
+    "1293780/最近/さいきん": {
+      "id": 1293780,
+      "form": "最近",
+      "kana": "さいきん",
+      "gloss": "recently",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        1359,
+        363,
+        299,
+        389
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "近": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1293700/最も/もっとも": {
+      "id": 1293700,
+      "form": "最も",
+      "kana": "もっとも",
+      "gloss": "most",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        413,
+        1026,
+        860,
+        1628
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "もっとも": {
+          "actual": "もっと",
+          "dictionary": [
+            "もっと.も"
+          ]
+        }
+      },
+      "official_examples": [
+        "もっとも"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1294180/最大/さいだい": {
+      "id": 1294180,
+      "form": "最大",
+      "kana": "さいだい",
+      "gloss": "biggest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        1064,
+        874,
+        773,
+        1817
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1293700/最も/もとも": {
+      "id": 1293700,
+      "form": "最も",
+      "kana": "もとも",
+      "gloss": "most",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        413,
+        1026,
+        860,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "もっとも": {
+          "actual": "もと",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "もっとも"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1294120/最先端/さいせんたん": {
+      "id": 1294120,
+      "form": "最先端",
+      "kana": "さいせんたん",
+      "gloss": "cutting edge",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        10372,
+        14865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "端": 7,
+        "先": 1
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1293810/最後/さいご": {
+      "id": 1293810,
+      "form": "最後",
+      "kana": "さいご",
+      "gloss": "end",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        384,
+        180,
+        336,
+        232
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1293990/最初/さいしょ": {
+      "id": 1293990,
+      "form": "最初",
+      "kana": "さいしょ",
+      "gloss": "beginning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        346,
+        236,
+        357,
+        292
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1293850/最高/さいこう": {
+      "id": 1293850,
+      "form": "最高",
+      "kana": "さいこう",
+      "gloss": "best",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        735,
+        583,
+        404,
+        644
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1293940/最終/さいしゅう": {
+      "id": 1293940,
+      "form": "最終",
+      "kana": "さいしゅう",
+      "gloss": "last",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1168,
+        751,
+        685,
+        3005
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "終": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294090/最新/さいしん": {
+      "id": 1294090,
+      "form": "最新",
+      "kana": "さいしん",
+      "gloss": "latest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        1676,
+        1444,
+        1545,
+        4979
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1956280/最/さい": {
+      "id": 1956280,
+      "form": "最",
+      "kana": "さい",
+      "gloss": "the most",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "pref",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        2058,
+        1566,
+        1473,
+        6644
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294220/最低/さいてい": {
+      "id": 1294220,
+      "form": "最低",
+      "kana": "さいてい",
+      "gloss": "least",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2389,
+        2032,
+        1974,
+        1595
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "低": 4
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1293720/最悪/さいあく": {
+      "id": 1293720,
+      "form": "最悪",
+      "kana": "さいあく",
+      "gloss": "worst",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4230,
+        2435,
+        2067,
+        1237
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悪": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1293770/最強/さいきょう": {
+      "id": 1293770,
+      "form": "最強",
+      "kana": "さいきょう",
+      "gloss": "strongest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14188,
+        2087,
+        2110,
+        2587
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "強": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1294280/最適/さいてき": {
+      "id": 1294280,
+      "form": "最適",
+      "kana": "さいてき",
+      "gloss": "most suitable",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5464,
+        3033,
+        4516,
+        6169
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "適": 5
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1294000/最小/さいしょう": {
+      "id": 1294000,
+      "form": "最小",
+      "kana": "さいしょう",
+      "gloss": "smallest (in size, degree, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6453,
+        4548,
+        9888,
+        22000
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1293760/最期/さいご": {
+      "id": 1293760,
+      "form": "最期",
+      "kana": "さいご",
+      "gloss": "one's last moment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        4867,
+        13905,
+        8169,
+        4419
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "期": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1294160/最善/さいぜん": {
+      "id": 1294160,
+      "form": "最善",
+      "kana": "さいぜん",
+      "gloss": "the very best",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        6105,
+        9077,
+        11547,
+        6264
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "善": 6
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1579200/最上/さいじょう": {
+      "id": 1579200,
+      "form": "最上",
+      "kana": "さいじょう",
+      "gloss": "highest (e.g. floor)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5785,
+        9477,
+        14937,
+        19267
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2006780/最速/さいそく": {
+      "id": 2006780,
+      "form": "最速",
+      "kana": "さいそく",
+      "gloss": "fastest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        20396,
+        8051,
+        7391,
+        13966
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "速": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294210/最短/さいたん": {
+      "id": 1294210,
+      "form": "最短",
+      "kana": "さいたん",
+      "gloss": "shortest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10485,
+        9421,
+        10540,
+        12717
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "短": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294300/最良/さいりょう": {
+      "id": 1294300,
+      "form": "最良",
+      "kana": "さいりょう",
+      "gloss": "the best",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9706,
+        18847,
+        14132,
+        12456
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "良": 4
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1657760/最長/さいちょう": {
+      "id": 1657760,
+      "form": "最長",
+      "kana": "さいちょう",
+      "gloss": "longest",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16835,
+        11516,
+        12107,
+        28801
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1293800/最古/さいこ": {
+      "id": 1293800,
+      "form": "最古",
+      "kana": "さいこ",
+      "gloss": "the oldest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12552,
+        13545,
+        15595,
+        28043
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1293710/最愛/さいあい": {
+      "id": 1293710,
+      "form": "最愛",
+      "kana": "さいあい",
+      "gloss": "beloved",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11478,
+        23673,
+        18234,
+        11028
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872202/最盛/さいせい": {
+      "id": 2872202,
+      "form": "最盛",
+      "kana": "さいせい",
+      "gloss": "peak (of prosperity, popularity, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        16870,
+        27177,
+        24744,
+        145377
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盛": 6
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294070/最少/さいしょう": {
+      "id": 1294070,
+      "form": "最少",
+      "kana": "さいしょう",
+      "gloss": "fewest",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15850,
+        38931,
+        33270,
+        59682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "少": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294130/最前/さいぜん": {
+      "id": 1294130,
+      "form": "最前",
+      "kana": "さいぜん",
+      "gloss": "frontmost",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        25526,
+        28755,
+        40209,
+        42141
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1657750/最多/さいた": {
+      "id": 1657750,
+      "form": "最多",
+      "kana": "さいた",
+      "gloss": "most (numerous)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        8013,
+        10217,
+        43971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "多": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2413200/最北/さいほく": {
+      "id": 2413200,
+      "form": "最北",
+      "kana": "さいほく",
+      "gloss": "northernmost",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26852,
+        34308,
+        null,
+        68569
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "北": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2417510/最後に笑う者が最もよく笑う/さいごにわらうものがもっともよくわらう": {
+      "id": 2417510,
+      "form": "最後に笑う者が最もよく笑う",
+      "kana": "さいごにわらうものがもっともよくわらう",
+      "gloss": "he who laughs last, laughs best",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "笑": 4,
+        "者": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        },
+        "もっとも": {
+          "actual": "もっと",
+          "dictionary": [
+            "もっと.も"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2689860/最も近い共通祖先/もっともちかいきょうつうそせん": {
+      "id": 2689860,
+      "form": "最も近い共通祖先",
+      "kana": "もっともちかいきょうつうそせん",
+      "gloss": "most recent common ancestor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "祖": 5,
+        "先": 1,
+        "通": 2,
+        "共": 4,
+        "近": 2
+      },
+      "matched": {
+        "もっとも": {
+          "actual": "もっと",
+          "dictionary": [
+            "もっと.も"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1293700:最も:もっとも",
+      "form": "最も",
+      "kana": "もっとも",
+      "cue": "most; extremely",
+      "ids": [
+        1293700
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1628,
+        "shiberu": 413,
+        "tubelex": 1026,
+        "wordfreq": 860
+      },
+      "alternatives_by_kanji": {
+        "最": [
+          "1293780/最近/さいきん",
+          "1294180/最大/さいだい",
+          "1294120/最先端/さいせんたん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 20
+}

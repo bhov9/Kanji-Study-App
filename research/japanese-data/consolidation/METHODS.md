@@ -1,0 +1,39 @@
+# Reading the experiments
+
+## Dictionary identity and frequencies
+
+The local SQLite snapshot has an entry table with the complete English JMdict record, a form table keyed by (entry ID, spelling, reading), a segmentation table, and a separate evidence table. The form table records zero-based indices into the applicable senses. JMdict supplies the English definitions, POS, sense restrictions, spelling/reading restrictions, register, dialect, usage tags and commonness. No sense receives a corpus count. The form table admits dictionary spellings and their permitted readings, including entries with only kana or katakana. It does not manufacture new spellings for every possible kana rendering.
+
+The form_evidence view gives observations scoped to a spelling or an exact spelling/reading pair. A join can return the same observation as context for multiple forms. Do not sum that view. Use the original evidence table for counts and TUBELEX video, channel, POS and category fields. Jiten media ranks remain separate sources within one corpus. Public lexicon batches include the complete dictionary record and exact observations for the winning form(s) across experiments. Divide the JMdict ID by 10,000 and discard the remainder to locate its batch; for example ID 1000000 is in `lexicon/100.jsonl`. Full source payloads for other entries remain in the database and in the previously acquired archives.
+
+For ranking, spelling-only sources can vote only when one JMdict entry owns the exact written form. The vote concerns the lexical entry; it is shared contextual evidence when the entry has several pronunciations. Jiten votes only for a spelling and reading pair with one JMdict owner. Exact comparison preserves kana script, variants, and compound boundaries. Inflected tokens without a matching dictionary form receive no inferred lemma. This sacrifices recall, especially for short function words, spelling variants and normally kana-written words. TUBELEX reports majority POS; its tagset and tokenization differ from JMdict. No speculative POS crosswalk resolves homographs. The frequent exclusions file shows the affected words and IDs.
+
+## Nine vocabulary experiments
+
+For each admissible form, a source of rank r contributes weight/(100+r). Divide the sum by the total configured weight. Missing observations remain null. Their absence earns no support and reduces the combined score. A source-only list requires an observed rank. One form stands for one JMdict ID in each final list: take the highest form score, then commonness, then descending spelling and reading to break ties. Sort entries by score, commonness and numeric ID. This prevents one entry from taking several places or adding votes across many spelling variants. The constant 100 and all weights are sensitivity-test parameters.
+
+| Experiment | Shiberu | TUBELEX | wordfreq | Jiten global |
+|---|---:|---:|---:|---:|
+| Equal baseline | 1 | 1 | 1 | 1 |
+| Conversation-oriented | 1 | 5 | 3 | 1 |
+| General | 3 | 3 | 3 | 1 |
+| Written-oriented | 5 | 1 | 2 | 2 |
+| Overlap sensitivity | 4 | 3 | 2 | 1 |
+
+Four additional lists use one source apiece. The conversation profile emphasizes subtitles as a proxy for conversational exposure. Shiberu includes literature, Wikipedia and example sentences. Jiten includes novels, games, manga, drama, films and other media; the written profile uses its global series, which also contains dialogue. wordfreq includes mixed sources. The overlap profile discounts TUBELEX ranks with low channel dispersion by multiplying by min(1, log(1+channels)/log(51)). It also multiplies Jiten's vote by 0.75 when a TUBELEX observation is present. This is a sensitivity test for shared media domains. Title overlap, source reliability and audience exposure have not been measured directly. Corpus size alone does not determine influence.
+
+The overlap report compares lexical IDs at all six cutoffs. External validation counts exact spellings in the candidate prefix that occur in the reference's top 1,000; homographs can collapse to one spelling. The subject-list comparison uses the union of subject records at all ranks. BCCWJ short and long units use different segmentation in the same corpus. BCCWJ versions are also dependent. Read these as separate diagnostic views. No restricted lexical values enter the public scores or candidate selection. General-list omissions and disagreements are evidence for review, not exclusion rules.
+
+## Kanji readings and handwriting
+
+Each kanji file includes the full Agency entry, official examples, usage notes, MEXT stages, supplementary word readings and KANJIDIC2 records selected for public reuse. The ordered candidates are JMdict form keys. The first list is capped at 30 per character, each reading list at 10. The candidates dictionary contains the union, so it can exceed 30. All official examples are retained even when no eligible dictionary form matches their literal text. Dictionary-normalized reading labels remove hyphens and okurigana dots only for comparison. Source notation and okurigana remain visible.
+
+A linkage requires a validated whole-form segmentation and a single-character ruby span (or the whole reading for a single-character spelling). Match the actual sound against the dictionary stem and its trailing written okurigana. Prefer the longest matched suffix. A unique mechanically compatible voicing or gemination pattern is flagged as a hypothesis. An exact official example can support a separately flagged sound difference. Keep multi-character jukujikun spans whole. A missing mapping remains unresolved. `current_support` describes conservative exact coverage in the existing deck; it can miss valid sound changes. The Agency's first-listed reading and MEXT stage are evidence about official ordering and educational guidance.
+
+Three outputs answer three different questions.
+
+- **Vocabulary usefulness** uses corpus ranks at entry level.
+- **Reading significance** counts distinct linked entries with conservative reading evidence. A form requires an unambiguous Jiten pair or a spelling with just one dictionary pronunciation. Hypothesized sound changes do not count toward preferred status. A preferred reading must be official, elementary-stage, unrestricted by the MEXT limited-use flag, illustrated officially, and supported by at least three scored entries and two frequent unflagged illustrations in the capped candidate sample. Secondary covers other official readings and nonofficial readings with at least three supported entries. The remaining readings are reference-only proposals. Using capped examples for the frequency check makes the result sensitive to candidate ordering.
+- **Handwriting suitability** orders form candidates by usage flags, segmentation evidence, occurrence among official examples, source coverage, general form score, commonness, advanced surrounding kanji and length. Preferred candidate labels require exact reading support, commonness or an official example, two ranks within 10,000 and a single applicable sense. Secondary and reference-only labels retain alternatives and difficult cases. English cues still need human review; sense count and gloss punctuation are only ambiguity screens. Several forms of the same entry may illustrate one reading.
+
+All categories are proposals. The existing version-1 policy schema can retain the three category names, null priority and null reviewedOverride. Keep research evidence and form keys in a sidecar until reviewed. Later, explicitly map approved forms to historical app word IDs. Never repurpose an existing word ID for a replacement. New vocabulary progress can use a separate namespace keyed by JMdict ID (and form/sense when needed); kanji handwriting progress continues to use its own historical identifiers. A future domain view can use Jiten media ranks and JMdict fields with provenance; corpus domain should not imply a curriculum level.

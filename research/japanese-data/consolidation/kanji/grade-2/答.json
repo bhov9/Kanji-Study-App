@@ -1,0 +1,1415 @@
+{
+  "character": "答",
+  "grade": 2,
+  "meanings": [
+    "solution",
+    "answer"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 118
+    }
+  ],
+  "components": [
+    "口",
+    "竹",
+    "个",
+    "一",
+    "乞"
+  ],
+  "on": [
+    "トウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "こた.える",
+      "stem": "こた",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "こた.え",
+      "stem": "こた",
+      "okurigana": "え"
+    }
+  ],
+  "nanori": [
+    "どう"
+  ],
+  "government": {
+    "kanji": "答",
+    "heading": "答",
+    "readings": [
+      "トウ",
+      "こたえる",
+      "こたえ"
+    ],
+    "examples_by_reading": [
+      [
+        "答弁",
+        "応答",
+        "問答"
+      ],
+      [
+        "答える"
+      ],
+      [
+        "答え"
+      ]
+    ],
+    "note_lines": [
+      "⇔応える"
+    ],
+    "representative_index": {
+      "kanji": "答",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 70,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1180000/応答/おうとう",
+        "1536060/問答/もんどう",
+        "1449570/答弁/とうべん",
+        "1199680/回答/かいとう",
+        "1512290/返答/へんとう",
+        "1199160/解答/かいとう",
+        "1404270/即答/そくとう",
+        "1449550/答案/とうあん",
+        "1449560/答申/とうしん",
+        "1403580/贈答/ぞうとう"
+      ]
+    },
+    {
+      "reading": "こたえる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "こたえ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 3,
+      "current_support": false,
+      "candidates": [
+        "1449530/答え/こたえ",
+        "2852531/答え/いらえ",
+        "1653440/受け答え/うけこたえ",
+        "2701870/答え合わせ/こたえあわせ",
+        "2654960/答えを出す/こたえをだす",
+        "1876770/答えにくい質問/こたえにくいしつもん",
+        "1876780/答えを渋る/こたえをしぶる",
+        "1876770/答え難い質問/こたえにくいしつもん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1180000/応答/おうとう",
+    "1536060/問答/もんどう",
+    "1449570/答弁/とうべん",
+    "1449530/答え/こたえ",
+    "2852531/答え/いらえ",
+    "1199680/回答/かいとう",
+    "1512290/返答/へんとう",
+    "1199160/解答/かいとう",
+    "1404270/即答/そくとう",
+    "1449550/答案/とうあん",
+    "1653440/受け答え/うけこたえ",
+    "1449560/答申/とうしん",
+    "1403580/贈答/ぞうとう",
+    "1661760/答礼/とうれい",
+    "1377700/正答/せいとう",
+    "1531770/名答/めいとう",
+    "1744860/答辞/とうじ",
+    "1205890/確答/かくとう",
+    "1276690/口答/こうとう",
+    "2701870/答え合わせ/こたえあわせ",
+    "1726580/自問自答/じもんじとう",
+    "1693310/誤答/ごとう",
+    "1581820/直答/ちょくとう",
+    "1674640/明答/めいとう",
+    "1516070/奉答/ほうとう",
+    "2852678/愚答/ぐとう",
+    "2654960/答えを出す/こたえをだす",
+    "2854719/ご名答/ごめいとう",
+    "2865796/返答に困る/へんとうにこまる",
+    "2058190/返答次第/へんとうしだい"
+  ],
+  "candidates": {
+    "1180000/応答/おうとう": {
+      "id": 1180000,
+      "form": "応答",
+      "kana": "おうとう",
+      "gloss": "reply",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8536,
+        5987,
+        8031,
+        8826
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1536060/問答/もんどう": {
+      "id": 1536060,
+      "form": "問答",
+      "kana": "もんどう",
+      "gloss": "questions and answers",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6350,
+        14234,
+        16052,
+        13741
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "どう",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1449570/答弁/とうべん": {
+      "id": 1449570,
+      "form": "答弁",
+      "kana": "とうべん",
+      "gloss": "response",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        26120,
+        5617,
+        11030,
+        54828
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弁": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1449530/答え/こたえ": {
+      "id": 1449530,
+      "form": "答え",
+      "kana": "こたえ",
+      "gloss": "answer",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        919
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "こたえ": {
+          "actual": "こた",
+          "dictionary": [
+            "こた.え"
+          ]
+        }
+      },
+      "official_examples": [
+        "こたえ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2852531/答え/いらえ": {
+      "id": 2852531,
+      "form": "答え",
+      "kana": "いらえ",
+      "gloss": "reply",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        66817
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "こたえ": {
+          "actual": "いら",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "こたえ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1199680/回答/かいとう": {
+      "id": 1199680,
+      "form": "回答",
+      "kana": "かいとう",
+      "gloss": "reply",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3956,
+        2432,
+        2863,
+        6214
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "回": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1512290/返答/へんとう": {
+      "id": 1512290,
+      "form": "返答",
+      "kana": "へんとう",
+      "gloss": "reply",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5580,
+        10416,
+        9888,
+        4276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "返": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1199160/解答/かいとう": {
+      "id": 1199160,
+      "form": "解答",
+      "kana": "かいとう",
+      "gloss": "answer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10144,
+        9108,
+        10372,
+        13296
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404270/即答/そくとう": {
+      "id": 1404270,
+      "form": "即答",
+      "kana": "そくとう",
+      "gloss": "immediate reply",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12108,
+        19505,
+        28763,
+        5645
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "即": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449550/答案/とうあん": {
+      "id": 1449550,
+      "form": "答案",
+      "kana": "とうあん",
+      "gloss": "examination paper",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6745,
+        31364,
+        33270,
+        28733
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "案": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1653440/受け答え/うけこたえ": {
+      "id": 1653440,
+      "form": "受け答え",
+      "kana": "うけこたえ",
+      "gloss": "reply",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22446,
+        29981,
+        28763,
+        12360
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "受": 3
+      },
+      "matched": {
+        "こたえ": {
+          "actual": "こた",
+          "dictionary": [
+            "こた.え"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449560/答申/とうしん": {
+      "id": 1449560,
+      "form": "答申",
+      "kana": "とうしん",
+      "gloss": "report",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18206,
+        21810,
+        34111,
+        128598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "申": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1403580/贈答/ぞうとう": {
+      "id": 1403580,
+      "form": "贈答",
+      "kana": "ぞうとう",
+      "gloss": "exchange of presents",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        33493,
+        38312,
+        34525,
+        74977
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "贈": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661760/答礼/とうれい": {
+      "id": 1661760,
+      "form": "答礼",
+      "kana": "とうれい",
+      "gloss": "return of a courtesy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38802,
+        54711,
+        129940,
+        83962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "礼": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1377700/正答/せいとう": {
+      "id": 1377700,
+      "form": "正答",
+      "kana": "せいとう",
+      "gloss": "correct answer",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        40322,
+        36648,
+        59870
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "正": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1531770/名答/めいとう": {
+      "id": 1531770,
+      "form": "名答",
+      "kana": "めいとう",
+      "gloss": "excellent answer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        52268,
+        91294,
+        190467
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1744860/答辞/とうじ": {
+      "id": 1744860,
+      "form": "答辞",
+      "kana": "とうじ",
+      "gloss": "address in reply (e.g. at a ceremony)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        80148,
+        58218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辞": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205890/確答/かくとう": {
+      "id": 1205890,
+      "form": "確答",
+      "kana": "かくとう",
+      "gloss": "definite answer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        151646,
+        148757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "確": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1276690/口答/こうとう": {
+      "id": 1276690,
+      "form": "口答",
+      "kana": "こうとう",
+      "gloss": "oral answer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        153062,
+        139958
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2701870/答え合わせ/こたえあわせ": {
+      "id": 2701870,
+      "form": "答え合わせ",
+      "kana": "こたえあわせ",
+      "gloss": "checking answers (e.g. to homework problems)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        9517,
+        null,
+        21157
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "こたえ": {
+          "actual": "こた",
+          "dictionary": [
+            "こた.え"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1726580/自問自答/じもんじとう": {
+      "id": 1726580,
+      "form": "自問自答",
+      "kana": "じもんじとう",
+      "gloss": "answering one's own question",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        33270,
+        20505
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "問": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1693310/誤答/ごとう": {
+      "id": 1693310,
+      "form": "誤答",
+      "kana": "ごとう",
+      "gloss": "wrong answer",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        94291
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誤": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1581820/直答/ちょくとう": {
+      "id": 1581820,
+      "form": "直答",
+      "kana": "ちょくとう",
+      "gloss": "prompt answer",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        117654
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1674640/明答/めいとう": {
+      "id": 1674640,
+      "form": "明答",
+      "kana": "めいとう",
+      "gloss": "definite answer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        119737
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1516070/奉答/ほうとう": {
+      "id": 1516070,
+      "form": "奉答",
+      "kana": "ほうとう",
+      "gloss": "reply to the throne",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        190286
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奉": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2852678/愚答/ぐとう": {
+      "id": 2852678,
+      "form": "愚答",
+      "kana": "ぐとう",
+      "gloss": "foolish answer",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        214966
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愚": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2654960/答えを出す/こたえをだす": {
+      "id": 2654960,
+      "form": "答えを出す",
+      "kana": "こたえをだす",
+      "gloss": "to give an answer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        8969
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "こたえ": {
+          "actual": "こた",
+          "dictionary": [
+            "こた.え"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854719/ご名答/ごめいとう": {
+      "id": 2854719,
+      "form": "ご名答",
+      "kana": "ごめいとう",
+      "gloss": "good answer!",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "int"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19614
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2865796/返答に困る/へんとうにこまる": {
+      "id": 2865796,
+      "form": "返答に困る",
+      "kana": "へんとうにこまる",
+      "gloss": "to not know how to respond",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "返": 3,
+        "困": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2058190/返答次第/へんとうしだい": {
+      "id": 2058190,
+      "form": "返答次第",
+      "kana": "へんとうしだい",
+      "gloss": "depending on the answer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37474
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "第": 3,
+        "返": 3,
+        "次": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1876770/答えにくい質問/こたえにくいしつもん": {
+      "id": 1876770,
+      "form": "答えにくい質問",
+      "kana": "こたえにくいしつもん",
+      "gloss": "awkward (difficult) question",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        57435
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "質": 5,
+        "問": 3
+      },
+      "matched": {
+        "こたえ": {
+          "actual": "こた",
+          "dictionary": [
+            "こた.え"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1876780/答えを渋る/こたえをしぶる": {
+      "id": 1876780,
+      "form": "答えを渋る",
+      "kana": "こたえをしぶる",
+      "gloss": "to be reluctant to answer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        141412
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "渋": 7
+      },
+      "matched": {
+        "こたえ": {
+          "actual": "こた",
+          "dictionary": [
+            "こた.え"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1876770/答え難い質問/こたえにくいしつもん": {
+      "id": 1876770,
+      "form": "答え難い質問",
+      "kana": "こたえにくいしつもん",
+      "gloss": "awkward (difficult) question",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        223986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "質": 5,
+        "問": 3,
+        "難": 6
+      },
+      "matched": {
+        "こたえ": {
+          "actual": "こた",
+          "dictionary": [
+            "こた.え"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1199680:回答:かいとう",
+      "form": "回答",
+      "kana": "かいとう",
+      "cue": "reply; answer",
+      "ids": [
+        1199680
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6214,
+        "shiberu": 3956,
+        "tubelex": 2432,
+        "wordfreq": 2863
+      },
+      "alternatives_by_kanji": {
+        "回": [
+          "1316470/次回/じかい",
+          "1199350/回す/まわす",
+          "2800530/回り/まわり"
+        ],
+        "答": [
+          "1180000/応答/おうとう",
+          "1536060/問答/もんどう",
+          "1449570/答弁/とうべん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1449560:答申:とうしん",
+      "form": "答申",
+      "kana": "とうしん",
+      "cue": "report; reply",
+      "ids": [
+        1449560
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 128598,
+        "shiberu": 18206,
+        "tubelex": 21810,
+        "wordfreq": 34111
+      },
+      "alternatives_by_kanji": {
+        "答": [
+          "1180000/応答/おうとう",
+          "1536060/問答/もんどう",
+          "1449570/答弁/とうべん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 20
+}

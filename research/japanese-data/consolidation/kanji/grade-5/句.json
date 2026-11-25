@@ -1,0 +1,1206 @@
+{
+  "character": "句",
+  "grade": 5,
+  "meanings": [
+    "phrase",
+    "clause",
+    "sentence",
+    "passage",
+    "paragraph",
+    "counter for haiku"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    },
+    {
+      "type": "nelson_c",
+      "value": 20
+    }
+  ],
+  "components": [
+    "口",
+    "勹"
+  ],
+  "on": [
+    "ク"
+  ],
+  "kun": [],
+  "nanori": [
+    "すく"
+  ],
+  "government": {
+    "kanji": "句",
+    "heading": "句",
+    "readings": [
+      "ク"
+    ],
+    "examples_by_reading": [
+      [
+        "句集",
+        "字句",
+        "節句"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "句",
+      "reading": "ク",
+      "source": "table_08_ku.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 132,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1610060/節句/せっく",
+        "1315170/字句/じく",
+        "1244000/句集/くしゅう",
+        "1505260/文句/もんく",
+        "1243940/句/く",
+        "1471900/俳句/はいく",
+        "1271060/語句/ごく",
+        "1586290/挙げ句/あげく",
+        "1161970/一句/いっく",
+        "1386790/絶句/ぜっく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1610060/節句/せっく",
+    "1315170/字句/じく",
+    "1244000/句集/くしゅう",
+    "1505260/文句/もんく",
+    "1243940/句/く",
+    "1471900/俳句/はいく",
+    "1271060/語句/ごく",
+    "1586290/挙げ句/あげく",
+    "1161970/一句/いっく",
+    "1386790/絶句/ぜっく",
+    "1244050/句読点/くとうてん",
+    "1660290/章句/しょうく",
+    "1727480/結句/けっく",
+    "1252340/警句/けいく",
+    "1244030/句点/くてん",
+    "1651850/発句/ほっく",
+    "1370030/甚句/じんく",
+    "1375670/成句/せいく",
+    "1586290/挙句/あげく",
+    "1386790/絶句/ぜく",
+    "1241530/禁句/きんく",
+    "1758770/麗句/れいく",
+    "1243970/句会/くかい",
+    "1184350/下の句/しものく",
+    "1312170/詩句/しく",
+    "1461250/二の句/にのく",
+    "1352490/上の句/かみのく",
+    "1951060/句碑/くひ",
+    "1655330/対句/ついく",
+    "1781670/連句/れんく"
+  ],
+  "candidates": {
+    "1610060/節句/せっく": {
+      "id": 1610060,
+      "form": "節句",
+      "kana": "せっく",
+      "gloss": "seasonal festival",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16049,
+        19048,
+        39319,
+        78563
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "節": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1315170/字句/じく": {
+      "id": 1315170,
+      "form": "字句",
+      "kana": "じく",
+      "gloss": "wording",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11931,
+        63933,
+        69479,
+        113351
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "字": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1244000/句集/くしゅう": {
+      "id": 1244000,
+      "form": "句集",
+      "kana": "くしゅう",
+      "gloss": "collection of haiku poems",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43098,
+        53182,
+        165536
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "集": 3
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1505260/文句/もんく": {
+      "id": 1505260,
+      "form": "文句",
+      "kana": "もんく",
+      "gloss": "complaint",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1316,
+        3683,
+        2934,
+        1320
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1243940/句/く": {
+      "id": 1243940,
+      "form": "句",
+      "kana": "く",
+      "gloss": "section (i.e. of text)",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        2632,
+        10786,
+        11547,
+        28100
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1471900/俳句/はいく": {
+      "id": 1471900,
+      "form": "俳句",
+      "kana": "はいく",
+      "gloss": "haiku",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7898,
+        12085,
+        13462,
+        36639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "俳": 6
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271060/語句/ごく": {
+      "id": 1271060,
+      "form": "語句",
+      "kana": "ごく",
+      "gloss": "words and phrases",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7841,
+        29810,
+        19596,
+        51008
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "語": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586290/挙げ句/あげく": {
+      "id": 1586290,
+      "form": "挙げ句",
+      "kana": "あげく",
+      "gloss": "after (a long process)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22425,
+        11321,
+        26068,
+        17292
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "挙": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1161970/一句/いっく": {
+      "id": 1161970,
+      "form": "一句",
+      "kana": "いっく",
+      "gloss": "phrase (verse, line)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12770,
+        16004,
+        41163,
+        43436
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1386790/絶句/ぜっく": {
+      "id": 1386790,
+      "form": "絶句",
+      "kana": "ぜっく",
+      "gloss": "being lost for words",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25042,
+        29195,
+        27689,
+        7268
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絶": 5
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244050/句読点/くとうてん": {
+      "id": 1244050,
+      "form": "句読点",
+      "kana": "くとうてん",
+      "gloss": "punctuation mark",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18988,
+        45405,
+        41163,
+        73865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2,
+        "読": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1660290/章句/しょうく": {
+      "id": 1660290,
+      "form": "章句",
+      "kana": "しょうく",
+      "gloss": "chapter and verse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16639,
+        75655,
+        126439,
+        147122
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "章": 3
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1727480/結句/けっく": {
+      "id": 1727480,
+      "form": "結句",
+      "kana": "けっく",
+      "gloss": "last line of a poem",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25283,
+        55605,
+        148871,
+        124769
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "結": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252340/警句/けいく": {
+      "id": 1252340,
+      "form": "警句",
+      "kana": "けいく",
+      "gloss": "aphorism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31367,
+        67088,
+        75713,
+        70284
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "警": 6
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244030/句点/くてん": {
+      "id": 1244030,
+      "form": "句点",
+      "kana": "くてん",
+      "gloss": "period",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32315,
+        81652,
+        60579,
+        104968
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651850/発句/ほっく": {
+      "id": 1651850,
+      "form": "発句",
+      "kana": "ほっく",
+      "gloss": "first 17-syllable verse of a renga",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29997,
+        75655,
+        127540,
+        128047
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1370030/甚句/じんく": {
+      "id": 1370030,
+      "form": "甚句",
+      "kana": "じんく",
+      "gloss": "jinku",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36456,
+        67088,
+        103620,
+        197374
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "甚": 7
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1375670/成句/せいく": {
+      "id": 1375670,
+      "form": "成句",
+      "kana": "せいく",
+      "gloss": "idiom",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31763,
+        173792,
+        93020,
+        140835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586290/挙句/あげく": {
+      "id": 1586290,
+      "form": "挙句",
+      "kana": "あげく",
+      "gloss": "after (a long process)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18214,
+        null,
+        10032,
+        12908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "挙": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1386790/絶句/ぜく": {
+      "id": 1386790,
+      "form": "絶句",
+      "kana": "ぜく",
+      "gloss": "being lost for words",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25042,
+        29195,
+        27689,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "絶": 5
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1241530/禁句/きんく": {
+      "id": 1241530,
+      "form": "禁句",
+      "kana": "きんく",
+      "gloss": "taboo word",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        41605,
+        26359
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "禁": 5
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1758770/麗句/れいく": {
+      "id": 1758770,
+      "form": "麗句",
+      "kana": "れいく",
+      "gloss": "elegant phrase",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33685,
+        73159,
+        null,
+        158907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "麗": 7
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1243970/句会/くかい": {
+      "id": 1243970,
+      "form": "句会",
+      "kana": "くかい",
+      "gloss": "gathering of haiku poets",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        59987,
+        116251
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1184350/下の句/しものく": {
+      "id": 1184350,
+      "form": "下の句",
+      "kana": "しものく",
+      "gloss": "last part of a poem or Bible verse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        72835,
+        82212
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312170/詩句/しく": {
+      "id": 1312170,
+      "form": "詩句",
+      "kana": "しく",
+      "gloss": "verse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        100834,
+        96037
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "詩": 3
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1461250/二の句/にのく": {
+      "id": 1461250,
+      "form": "二の句",
+      "kana": "にのく",
+      "gloss": "next (spoken) word",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        196196,
+        38449
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "二": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1352490/上の句/かみのく": {
+      "id": 1352490,
+      "form": "上の句",
+      "kana": "かみのく",
+      "gloss": "first part of a poem or verse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        92126,
+        95333
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1951060/句碑/くひ": {
+      "id": 1951060,
+      "form": "句碑",
+      "kana": "くひ",
+      "gloss": "slab with a haiku cut on it",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        100834,
+        206352
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "碑": 7
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655330/対句/ついく": {
+      "id": 1655330,
+      "form": "対句",
+      "kana": "ついく",
+      "gloss": "couplet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        143561,
+        153835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "対": 3
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1781670/連句/れんく": {
+      "id": 1781670,
+      "form": "連句",
+      "kana": "れんく",
+      "gloss": "linked verse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        110395,
+        152406
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "連": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1505260:文句:もんく",
+      "form": "文句",
+      "kana": "もんく",
+      "cue": "complaint; grumbling",
+      "ids": [
+        1505260
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1320,
+        "shiberu": 1316,
+        "tubelex": 3683,
+        "wordfreq": 2934
+      },
+      "alternatives_by_kanji": {
+        "文": [
+          "1505390/文字/もじ",
+          "1505120/文化/ぶんか",
+          "1505190/文学/ぶんがく"
+        ],
+        "句": [
+          "1610060/節句/せっく",
+          "1315170/字句/じく",
+          "1244000/句集/くしゅう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

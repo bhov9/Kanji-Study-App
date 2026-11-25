@@ -1,0 +1,1100 @@
+{
+  "character": "拭",
+  "grade": 7,
+  "meanings": [
+    "wipe",
+    "mop",
+    "swab"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "工",
+    "弋",
+    "扎"
+  ],
+  "on": [
+    "ショク",
+    "シキ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ぬぐ.う",
+      "stem": "ぬぐ",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "ふ.く",
+      "stem": "ふ",
+      "okurigana": "く"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "拭",
+    "heading": "拭",
+    "readings": [
+      "ショク",
+      "ふく",
+      "ぬぐう"
+    ],
+    "examples_by_reading": [
+      [
+        "払拭"
+      ],
+      [
+        "拭く"
+      ],
+      [
+        "拭う"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "拭",
+      "reading": "ショク",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ショク",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1501640/払拭/ふっしょく",
+        "2670020/清拭/せいしょく",
+        "2832663/拭浄/しょくじょう"
+      ]
+    },
+    {
+      "reading": "ふく",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1357240/拭く/ふく",
+        "2854988/ケツを拭く/ケツをふく"
+      ]
+    },
+    {
+      "reading": "ぬぐう",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1357220/拭う/ぬぐう",
+        "1633220/口を拭う/くちをぬぐう"
+      ]
+    },
+    {
+      "reading": "シキ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1501640/払拭/ふっしき",
+        "2670020/清拭/せいしき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1357240/拭く/ふく",
+    "1357220/拭う/ぬぐう",
+    "1501640/払拭/ふっしょく",
+    "1501640/払拭/ふっしき",
+    "2670020/清拭/せいしき",
+    "2670020/清拭/せいしょく",
+    "1633220/口を拭う/くちをぬぐう",
+    "2854988/ケツを拭く/ケツをふく",
+    "2832663/拭浄/しょくじょう",
+    "1357230/拭き取る/ふきとる",
+    "1598400/手拭い/てぬぐい",
+    "1647150/尻拭い/しりぬぐい",
+    "2462650/拭い去る/ぬぐいさる",
+    "1209860/乾拭き/からぶき",
+    "1698920/手拭き/てふき",
+    "2827623/拭き/ふき",
+    "2412090/水拭き/みずぶき",
+    "2274840/窓拭き/まどふき",
+    "2002510/拭い取る/ぬぐいとる",
+    "1979680/汗拭き/あせふき",
+    "1733350/拭き掃除/ふきそうじ",
+    "1847320/拭き込む/ふきこむ",
+    "2827624/足拭き/あしふき",
+    "2841805/拭き落とす/ふきおとす",
+    "2827623/拭き/ぶき",
+    "1598400/手拭/てぬぐい",
+    "2871507/お手拭き/おてふき",
+    "1209860/から拭き/からぶき",
+    "1979680/汗拭/あせふき",
+    "1847330/拭き消す/ふきけす"
+  ],
+  "candidates": {
+    "1357240/拭く/ふく": {
+      "id": 1357240,
+      "form": "拭く",
+      "kana": "ふく",
+      "gloss": "to wipe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3959,
+        3358,
+        19040,
+        2506
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ふく": {
+          "actual": "ふ",
+          "dictionary": [
+            "ふ.く"
+          ]
+        }
+      },
+      "official_examples": [
+        "ふく"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1357220/拭う/ぬぐう": {
+      "id": 1357220,
+      "form": "拭う",
+      "kana": "ぬぐう",
+      "gloss": "to wipe",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11310,
+        13218,
+        63618,
+        4024
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ぬぐう": {
+          "actual": "ぬぐ",
+          "dictionary": [
+            "ぬぐ.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "ぬぐう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1501640/払拭/ふっしょく": {
+      "id": 1501640,
+      "form": "払拭",
+      "kana": "ふっしょく",
+      "gloss": "wiping out",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15623,
+        19315,
+        12855
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "払": 7
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1501640/払拭/ふっしき": {
+      "id": 1501640,
+      "form": "払拭",
+      "kana": "ふっしき",
+      "gloss": "wiping out",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15623,
+        19315,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "払": 7
+      },
+      "matched": {
+        "シキ": {
+          "actual": "しき",
+          "dictionary": [
+            "シキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2670020/清拭/せいしき": {
+      "id": 2670020,
+      "form": "清拭",
+      "kana": "せいしき",
+      "gloss": "bed bath",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        94929
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "清": 4
+      },
+      "matched": {
+        "シキ": {
+          "actual": "しき",
+          "dictionary": [
+            "シキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2670020/清拭/せいしょく": {
+      "id": 2670020,
+      "form": "清拭",
+      "kana": "せいしょく",
+      "gloss": "bed bath",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "清": 4
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1633220/口を拭う/くちをぬぐう": {
+      "id": 1633220,
+      "form": "口を拭う",
+      "kana": "くちをぬぐう",
+      "gloss": "to feign innocence",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        44332
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "ぬぐう": {
+          "actual": "ぬぐ",
+          "dictionary": [
+            "ぬぐ.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854988/ケツを拭く/ケツをふく": {
+      "id": 2854988,
+      "form": "ケツを拭く",
+      "kana": "ケツをふく",
+      "gloss": "to wipe one's arse",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        89876
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ふく": {
+          "actual": "ふ",
+          "dictionary": [
+            "ふ.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832663/拭浄/しょくじょう": {
+      "id": 2832663,
+      "form": "拭浄",
+      "kana": "しょくじょう",
+      "gloss": "wiping and purifying",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "浄": 7
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1357230/拭き取る/ふきとる": {
+      "id": 1357230,
+      "form": "拭き取る",
+      "kana": "ふきとる",
+      "gloss": "to wipe off",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25339,
+        5869,
+        42960,
+        15605
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1598400/手拭い/てぬぐい": {
+      "id": 1598400,
+      "form": "手拭い",
+      "kana": "てぬぐい",
+      "gloss": "tenugui",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15380,
+        59987,
+        36696
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1647150/尻拭い/しりぬぐい": {
+      "id": 1647150,
+      "form": "尻拭い",
+      "kana": "しりぬぐい",
+      "gloss": "cleaning up someone else's mess",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41422,
+        31382,
+        24154
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "尻": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2462650/拭い去る/ぬぐいさる": {
+      "id": 2462650,
+      "form": "拭い去る",
+      "kana": "ぬぐいさる",
+      "gloss": "to rub out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        40374,
+        42221,
+        null,
+        25111
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "去": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209860/乾拭き/からぶき": {
+      "id": 1209860,
+      "form": "乾拭き",
+      "kana": "からぶき",
+      "gloss": "polishing with a dry cloth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44959,
+        175497,
+        92708
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乾": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1698920/手拭き/てふき": {
+      "id": 1698920,
+      "form": "手拭き",
+      "kana": "てふき",
+      "gloss": "(hand) towel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        116428,
+        106506
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2827623/拭き/ふき": {
+      "id": 2827623,
+      "form": "拭き",
+      "kana": "ふき",
+      "gloss": "cleaner",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        17976,
+        49551
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2412090/水拭き/みずぶき": {
+      "id": 2412090,
+      "form": "水拭き",
+      "kana": "みずぶき",
+      "gloss": "wiping with a damp cloth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25300,
+        null,
+        67419
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2274840/窓拭き/まどふき": {
+      "id": 2274840,
+      "form": "窓拭き",
+      "kana": "まどふき",
+      "gloss": "window cleaning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        null,
+        53971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "窓": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2002510/拭い取る/ぬぐいとる": {
+      "id": 2002510,
+      "form": "拭い取る",
+      "kana": "ぬぐいとる",
+      "gloss": "to wipe off",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        null,
+        41440
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1979680/汗拭き/あせふき": {
+      "id": 1979680,
+      "form": "汗拭き",
+      "kana": "あせふき",
+      "gloss": "cloth to wipe the sweat off",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        null,
+        86329
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "汗": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1733350/拭き掃除/ふきそうじ": {
+      "id": 1733350,
+      "form": "拭き掃除",
+      "kana": "ふきそうじ",
+      "gloss": "cleaning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        74977,
+        45232
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掃": 7,
+        "除": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1847320/拭き込む/ふきこむ": {
+      "id": 1847320,
+      "form": "拭き込む",
+      "kana": "ふきこむ",
+      "gloss": "to wipe thoroughly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        null,
+        196797
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "込": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2827624/足拭き/あしふき": {
+      "id": 2827624,
+      "form": "足拭き",
+      "kana": "あしふき",
+      "gloss": "foot towel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        120094
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "足": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2841805/拭き落とす/ふきおとす": {
+      "id": 2841805,
+      "form": "拭き落とす",
+      "kana": "ふきおとす",
+      "gloss": "to wipe off (e.g. dirt)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        232358
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "落": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2827623/拭き/ぶき": {
+      "id": 2827623,
+      "form": "拭き",
+      "kana": "ぶき",
+      "gloss": "cleaner",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        17976,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1598400/手拭/てぬぐい": {
+      "id": 1598400,
+      "form": "手拭",
+      "kana": "てぬぐい",
+      "gloss": "tenugui",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        69020
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2871507/お手拭き/おてふき": {
+      "id": 2871507,
+      "form": "お手拭き",
+      "kana": "おてふき",
+      "gloss": "(hand) towel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        88470
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209860/から拭き/からぶき": {
+      "id": 1209860,
+      "form": "から拭き",
+      "kana": "からぶき",
+      "gloss": "polishing with a dry cloth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        123881
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1979680/汗拭/あせふき": {
+      "id": 1979680,
+      "form": "汗拭",
+      "kana": "あせふき",
+      "gloss": "cloth to wipe the sweat off",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        167276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "汗": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1847330/拭き消す/ふきけす": {
+      "id": 1847330,
+      "form": "拭き消す",
+      "kana": "ふきけす",
+      "gloss": "to wipe out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        183080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "消": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1501640:払拭:ふっしき",
+      "form": "払拭",
+      "kana": "ふっしき",
+      "cue": "wiping out; sweeping away",
+      "ids": [
+        1501640
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "tubelex": 15623,
+        "wordfreq": 19315
+      },
+      "alternatives_by_kanji": {
+        "拭": [
+          "1357240/拭く/ふく",
+          "1357220/拭う/ぬぐう",
+          "2670020/清拭/せいしき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 47
+}

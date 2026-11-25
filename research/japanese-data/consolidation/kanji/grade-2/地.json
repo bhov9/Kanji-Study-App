@@ -1,0 +1,1756 @@
+{
+  "character": "地",
+  "grade": 2,
+  "meanings": [
+    "ground",
+    "earth"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 32
+    }
+  ],
+  "components": [
+    "土",
+    "也"
+  ],
+  "on": [
+    "チ",
+    "ジ"
+  ],
+  "kun": [],
+  "nanori": [
+    "どま"
+  ],
+  "government": {
+    "kanji": "地",
+    "heading": "地",
+    "readings": [
+      "チ",
+      "ジ"
+    ],
+    "examples_by_reading": [
+      [
+        "地下",
+        "天地",
+        "境地"
+      ],
+      [
+        "地面",
+        "地震",
+        "地元"
+      ]
+    ],
+    "note_lines": [
+      "心地（ここち）",
+      "意気地（いくじ）"
+    ],
+    "representative_index": {
+      "kanji": "地",
+      "reading": "チ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "意気地"
+      ],
+      "reading": "いくじ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "心地"
+      ],
+      "reading": "ここち",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "チ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1010,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1582090/天地/てんち",
+        "1236010/境地/きょうち",
+        "1420840/地下/ちか",
+        "1420800/地域/ちいき",
+        "1420970/地球/ちきゅう",
+        "1445470/土地/とち",
+        "1421290/地図/ちず",
+        "1421180/地上/ちじょう",
+        "1420780/地位/ちい",
+        "1219110/基地/きち"
+      ]
+    },
+    {
+      "reading": "ジ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 321,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1421060/地元/じもと",
+        "1421510/地面/じめん",
+        "1421210/地震/じしん",
+        "2872078/地下/じげ",
+        "1421090/地獄/じごく",
+        "1156720/意地/いじ",
+        "1185920/下地/したじ",
+        "1421520/地雷/じらい",
+        "1560050/路地/ろじ",
+        "1421330/地蔵/じぞう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1421060/地元/じもと",
+    "1421510/地面/じめん",
+    "1582090/天地/てんち",
+    "1236010/境地/きょうち",
+    "1420840/地下/ちか",
+    "1421210/地震/じしん",
+    "2872078/地下/じげ",
+    "1420800/地域/ちいき",
+    "1420970/地球/ちきゅう",
+    "1445470/土地/とち",
+    "1421090/地獄/じごく",
+    "1421290/地図/ちず",
+    "1421180/地上/ちじょう",
+    "1420780/地位/ちい",
+    "1219110/基地/きち",
+    "1263860/現地/げんち",
+    "1421020/地区/ちく",
+    "1421380/地点/ちてん",
+    "1205100/各地/かくち",
+    "1421030/地形/ちけい",
+    "1414520/大地/だいち",
+    "1156720/意地/いじ",
+    "1421500/地名/ちめい",
+    "1544380/余地/よち",
+    "1421360/地帯/ちたい",
+    "1421540/地理/ちり",
+    "1584040/墓地/ぼち",
+    "1497060/敷地/しきち",
+    "1482360/番地/ばんち",
+    "1185920/下地/したじ"
+  ],
+  "candidates": {
+    "1421060/地元/じもと": {
+      "id": 1421060,
+      "form": "地元",
+      "kana": "じもと",
+      "gloss": "home area",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2391,
+        2012,
+        1439,
+        3363
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1421510/地面/じめん": {
+      "id": 1421510,
+      "form": "地面",
+      "kana": "じめん",
+      "gloss": "ground",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1723,
+        2517,
+        5446,
+        1878
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1582090/天地/てんち": {
+      "id": 1582090,
+      "form": "天地",
+      "kana": "てんち",
+      "gloss": "heaven and earth",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4703,
+        9370,
+        17002,
+        12515
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "天": 1
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1236010/境地/きょうち": {
+      "id": 1236010,
+      "form": "境地",
+      "kana": "きょうち",
+      "gloss": "state (of mind)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13936,
+        16416,
+        17976,
+        16433
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "境": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1420840/地下/ちか": {
+      "id": 1420840,
+      "form": "地下",
+      "kana": "ちか",
+      "gloss": "underground",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2869
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1421210/地震/じしん": {
+      "id": 1421210,
+      "form": "地震",
+      "kana": "じしん",
+      "gloss": "earthquake",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6939
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "震": 7
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2872078/地下/じげ": {
+      "id": 2872078,
+      "form": "地下",
+      "kana": "じげ",
+      "gloss": "low-ranking courtier not permitted into the imperial audience hall",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1420800/地域/ちいき": {
+      "id": 1420800,
+      "form": "地域",
+      "kana": "ちいき",
+      "gloss": "area",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        962,
+        632,
+        600,
+        3618
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "域": 6
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1420970/地球/ちきゅう": {
+      "id": 1420970,
+      "form": "地球",
+      "kana": "ちきゅう",
+      "gloss": "Earth",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        515,
+        1145,
+        1041,
+        3444
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "球": 3
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1445470/土地/とち": {
+      "id": 1445470,
+      "form": "土地",
+      "kana": "とち",
+      "gloss": "plot of land",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1090,
+        1650,
+        1626,
+        2419
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "土": 1
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421090/地獄/じごく": {
+      "id": 1421090,
+      "form": "地獄",
+      "kana": "じごく",
+      "gloss": "hell realm",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2517,
+        2823,
+        1879,
+        1732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "獄": 7
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421290/地図/ちず": {
+      "id": 1421290,
+      "form": "地図",
+      "kana": "ちず",
+      "gloss": "map",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2008,
+        2291,
+        2863,
+        3028
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1421180/地上/ちじょう": {
+      "id": 1421180,
+      "form": "地上",
+      "kana": "ちじょう",
+      "gloss": "above ground",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        1997,
+        2394,
+        3454,
+        3064
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1420780/地位/ちい": {
+      "id": 1420780,
+      "form": "地位",
+      "kana": "ちい",
+      "gloss": "(social) position",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1430,
+        5617,
+        4415,
+        4494
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "位": 4
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1219110/基地/きち": {
+      "id": 1219110,
+      "form": "基地",
+      "kana": "きち",
+      "gloss": "base (military, expedition, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9389,
+        2999,
+        1753,
+        10347
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "基": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1263860/現地/げんち": {
+      "id": 1263860,
+      "form": "現地",
+      "kana": "げんち",
+      "gloss": "actual place",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5893,
+        2747,
+        2375,
+        6304
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "現": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421020/地区/ちく": {
+      "id": 1421020,
+      "form": "地区",
+      "kana": "ちく",
+      "gloss": "district",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4177,
+        3140,
+        2569,
+        7300
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "区": 3
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1421380/地点/ちてん": {
+      "id": 1421380,
+      "form": "地点",
+      "kana": "ちてん",
+      "gloss": "spot",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2519,
+        3867,
+        5154,
+        5829
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1205100/各地/かくち": {
+      "id": 1205100,
+      "form": "各地",
+      "kana": "かくち",
+      "gloss": "each place",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3263,
+        4417,
+        3734,
+        6237
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "各": 4
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1421030/地形/ちけい": {
+      "id": 1421030,
+      "form": "地形",
+      "kana": "ちけい",
+      "gloss": "terrain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1778,
+        5584,
+        11030,
+        10824
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "形": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1414520/大地/だいち": {
+      "id": 1414520,
+      "form": "大地",
+      "kana": "だいち",
+      "gloss": "earth",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2840,
+        5281,
+        6355,
+        4212
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1156720/意地/いじ": {
+      "id": 1156720,
+      "form": "意地",
+      "kana": "いじ",
+      "gloss": "stubbornness",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        2428,
+        5132,
+        10707,
+        4143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421500/地名/ちめい": {
+      "id": 1421500,
+      "form": "地名",
+      "kana": "ちめい",
+      "gloss": "place name",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2217,
+        10737,
+        10540,
+        18364
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1544380/余地/よち": {
+      "id": 1544380,
+      "form": "余地",
+      "kana": "よち",
+      "gloss": "space",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3693,
+        7176,
+        6779,
+        3825
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "余": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421360/地帯/ちたい": {
+      "id": 1421360,
+      "form": "地帯",
+      "kana": "ちたい",
+      "gloss": "zone",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3604,
+        6090,
+        5679,
+        12350
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帯": 4
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1421540/地理/ちり": {
+      "id": 1421540,
+      "form": "地理",
+      "kana": "ちり",
+      "gloss": "geography",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2322,
+        11048,
+        10860,
+        14968
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "理": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1584040/墓地/ぼち": {
+      "id": 1584040,
+      "form": "墓地",
+      "kana": "ぼち",
+      "gloss": "cemetery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4285,
+        5795,
+        8301,
+        14108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "墓": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1497060/敷地/しきち": {
+      "id": 1497060,
+      "form": "敷地",
+      "kana": "しきち",
+      "gloss": "site",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9472,
+        6074,
+        6169,
+        7741
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敷": 7
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1482360/番地/ばんち": {
+      "id": 1482360,
+      "form": "番地",
+      "kana": "ばんち",
+      "gloss": "lot number",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4409,
+        15255,
+        9023,
+        30020
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "番": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185920/下地/したじ": {
+      "id": 1185920,
+      "form": "下地",
+      "kana": "したじ",
+      "gloss": "groundwork",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10211,
+        4569,
+        14745,
+        24344
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421520/地雷/じらい": {
+      "id": 1421520,
+      "form": "地雷",
+      "kana": "じらい",
+      "gloss": "land mine",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10351,
+        8348,
+        7509,
+        13856
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雷": 7
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1560050/路地/ろじ": {
+      "id": 1560050,
+      "form": "路地",
+      "kana": "ろじ",
+      "gloss": "alley",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7732,
+        9975,
+        13281,
+        7460
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421330/地蔵/じぞう": {
+      "id": 1421330,
+      "form": "地蔵",
+      "kana": "じぞう",
+      "gloss": "Kshitigarbha (bodhisattva who looks over children, travellers and the underworld)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7441,
+        8543,
+        15595,
+        30832
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蔵": 6
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1320470:湿地:しっち",
+      "form": "湿地",
+      "kana": "しっち",
+      "cue": "damp ground; wetland",
+      "ids": [
+        1320470
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 47076,
+        "shiberu": 9291,
+        "tubelex": 18718,
+        "wordfreq": 22895
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1420780:地位:ちい",
+      "form": "地位",
+      "kana": "ちい",
+      "cue": "(social) position; status",
+      "ids": [
+        1420780
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4494,
+        "shiberu": 1430,
+        "tubelex": 5617,
+        "wordfreq": 4415
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1420800:地域:ちいき",
+      "form": "地域",
+      "kana": "ちいき",
+      "cue": "area; region",
+      "ids": [
+        1420800
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3618,
+        "shiberu": 962,
+        "tubelex": 632,
+        "wordfreq": 600
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1420970:地球:ちきゅう",
+      "form": "地球",
+      "kana": "ちきゅう",
+      "cue": "Earth; the globe",
+      "ids": [
+        1420970
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3444,
+        "shiberu": 515,
+        "tubelex": 1145,
+        "wordfreq": 1041
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1421020:地区:ちく",
+      "form": "地区",
+      "kana": "ちく",
+      "cue": "district; area",
+      "ids": [
+        1421020
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7300,
+        "shiberu": 4177,
+        "tubelex": 3140,
+        "wordfreq": 2569
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1421060:地元:じもと",
+      "form": "地元",
+      "kana": "じもと",
+      "cue": "home area; home town",
+      "ids": [
+        1421060
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3363,
+        "shiberu": 2391,
+        "tubelex": 2012,
+        "wordfreq": 1439
+      },
+      "alternatives_by_kanji": {
+        "元": [
+          "1260720/元気/げんき",
+          "1261080/元来/がんらい",
+          "1260940/元祖/がんそ"
+        ],
+        "地": [
+          "1421510/地面/じめん",
+          "1582090/天地/てんち",
+          "1236010/境地/きょうち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1421090:地獄:じごく",
+      "form": "地獄",
+      "kana": "じごく",
+      "cue": "hell realm; Naraka",
+      "ids": [
+        1421090
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1732,
+        "shiberu": 2517,
+        "tubelex": 2823,
+        "wordfreq": 1879
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1421210:地震:じしん",
+      "form": "地震",
+      "kana": "じしん",
+      "cue": "earthquake",
+      "ids": [
+        1421210
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6939,
+        "shiberu": 678,
+        "tubelex": 628,
+        "wordfreq": 1342
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1421290:地図:ちず",
+      "form": "地図",
+      "kana": "ちず",
+      "cue": "map; atlas",
+      "ids": [
+        1421290
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3028,
+        "shiberu": 2008,
+        "tubelex": 2291,
+        "wordfreq": 2863
+      },
+      "alternatives_by_kanji": {
+        "図": [
+          "1370410/図書/としょ",
+          "1370410/図書/ずしょ",
+          "1156690/意図/いと"
+        ],
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1421360:地帯:ちたい",
+      "form": "地帯",
+      "kana": "ちたい",
+      "cue": "zone; area",
+      "ids": [
+        1421360
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 12350,
+        "shiberu": 3604,
+        "tubelex": 6090,
+        "wordfreq": 5679
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1421520:地雷:じらい",
+      "form": "地雷",
+      "kana": "じらい",
+      "cue": "land mine",
+      "ids": [
+        1421520
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 13856,
+        "shiberu": 10351,
+        "tubelex": 8348,
+        "wordfreq": 7509
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1445470:土地:とち",
+      "form": "土地",
+      "kana": "とち",
+      "cue": "plot of land; lot",
+      "ids": [
+        1445470
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2419,
+        "shiberu": 1090,
+        "tubelex": 1650,
+        "wordfreq": 1626
+      },
+      "alternatives_by_kanji": {
+        "土": [
+          "1286890/国土/こくど",
+          "1469760/粘土/ねんど",
+          "1445570/土木/どぼく"
+        ],
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1497060:敷地:しきち",
+      "form": "敷地",
+      "kana": "しきち",
+      "cue": "site; plot",
+      "ids": [
+        1497060
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7741,
+        "shiberu": 9472,
+        "tubelex": 6074,
+        "wordfreq": 6169
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1544380:余地:よち",
+      "form": "余地",
+      "kana": "よち",
+      "cue": "space; room",
+      "ids": [
+        1544380
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3825,
+        "shiberu": 3693,
+        "tubelex": 7176,
+        "wordfreq": 6779
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1546370:用地:ようち",
+      "form": "用地",
+      "kana": "ようち",
+      "cue": "site",
+      "ids": [
+        1546370
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 59115,
+        "shiberu": 29546,
+        "tubelex": 16889,
+        "wordfreq": 21741
+      }
+    }
+  ],
+  "unassigned_form_count": 121
+}

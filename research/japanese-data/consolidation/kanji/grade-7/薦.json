@@ -1,0 +1,1157 @@
+{
+  "character": "薦",
+  "grade": 7,
+  "meanings": [
+    "recommend",
+    "mat",
+    "advise",
+    "encourage",
+    "offer"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 140
+    }
+  ],
+  "components": [
+    "广",
+    "杰",
+    "艾"
+  ],
+  "on": [
+    "セン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "すす.める",
+      "stem": "すす",
+      "okurigana": "める"
+    }
+  ],
+  "nanori": [
+    "こも"
+  ],
+  "government": {
+    "kanji": "薦",
+    "heading": "薦",
+    "readings": [
+      "セン",
+      "すすめる"
+    ],
+    "examples_by_reading": [
+      [
+        "推薦",
+        "自薦"
+      ],
+      [
+        "薦める"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔進める，勧める"
+    ],
+    "representative_index": {
+      "kanji": "薦",
+      "reading": "セン",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 13,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1371170/推薦/すいせん",
+        "1318060/自薦/じせん",
+        "1581410/他薦/たせん",
+        "1371190/推薦状/すいせんじょう",
+        "2713710/推薦枠/すいせんわく",
+        "2847343/推薦入学/すいせんにゅうがく",
+        "2851437/推薦人/すいせんにん",
+        "1371180/推薦者/すいせんしゃ",
+        "2847344/推薦入試/すいせんにゅうし",
+        "2847340/指定校推薦/していこうすいせん"
+      ]
+    },
+    {
+      "reading": "すすめる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1595680/薦める/すすめる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1371170/推薦/すいせん",
+    "1595680/薦める/すすめる",
+    "1318060/自薦/じせん",
+    "1581410/他薦/たせん",
+    "1371190/推薦状/すいせんじょう",
+    "2713710/推薦枠/すいせんわく",
+    "2847343/推薦入学/すいせんにゅうがく",
+    "2851437/推薦人/すいせんにん",
+    "1371180/推薦者/すいせんしゃ",
+    "2847344/推薦入試/すいせんにゅうし",
+    "2847340/指定校推薦/していこうすいせん",
+    "2246050/推薦図書/すいせんとしょ",
+    "2059190/推薦書/すいせんしょ",
+    "2446220/薦椎/せんつい",
+    "1908440/蒲薦/ほせん",
+    "1888700/薦挙/せんきょ",
+    "1210900/薦め/すすめ",
+    "1837590/薦被り/こもかぶり",
+    "2841779/薦巻/こもまき",
+    "2841779/薦巻き/こもまき",
+    "2829710/奏薦/そうせん",
+    "1387150/薦骨/せんこつ",
+    "2245190/薦/こも",
+    "1002150/お薦め/おすすめ",
+    "2245180/お薦/おこも",
+    "1002150/御薦め/おすすめ",
+    "2866741/薦樽/こもだる",
+    "2245200/薦筵/こもむしろ",
+    "1705110/真薦/まこも",
+    "2245210/荒薦/あらごも"
+  ],
+  "candidates": {
+    "1371170/推薦/すいせん": {
+      "id": 1371170,
+      "form": "推薦",
+      "kana": "すいせん",
+      "gloss": "recommendation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4212,
+        6701,
+        6076,
+        6595
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1595680/薦める/すすめる": {
+      "id": 1595680,
+      "form": "薦める",
+      "kana": "すすめる",
+      "gloss": "to recommend (a book, someone for a position, etc.)",
+      "senses": [
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8416,
+        null,
+        35359,
+        17832
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "すすめる": {
+          "actual": "すす",
+          "dictionary": [
+            "すす.める"
+          ]
+        }
+      },
+      "official_examples": [
+        "すすめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1318060/自薦/じせん": {
+      "id": 1318060,
+      "form": "自薦",
+      "kana": "じせん",
+      "gloss": "self-recommendation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        55378,
+        80756
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1581410/他薦/たせん": {
+      "id": 1581410,
+      "form": "他薦",
+      "kana": "たせん",
+      "gloss": "recommendation (by others)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        72128,
+        80619
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "他": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371190/推薦状/すいせんじょう": {
+      "id": 1371190,
+      "form": "推薦状",
+      "kana": "すいせんじょう",
+      "gloss": "letter of invitation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2713710/推薦枠/すいせんわく": {
+      "id": 2713710,
+      "form": "推薦枠",
+      "kana": "すいせんわく",
+      "gloss": "(university) admission category for recommended candidates",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        59886
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "枠": 7,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847343/推薦入学/すいせんにゅうがく": {
+      "id": 2847343,
+      "form": "推薦入学",
+      "kana": "すいせんにゅうがく",
+      "gloss": "admission based on recommendation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71604
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1,
+        "学": 1,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851437/推薦人/すいせんにん": {
+      "id": 2851437,
+      "form": "推薦人",
+      "kana": "すいせんにん",
+      "gloss": "recommender",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        77048
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371180/推薦者/すいせんしゃ": {
+      "id": 1371180,
+      "form": "推薦者",
+      "kana": "すいせんしゃ",
+      "gloss": "recommender",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        81891
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847344/推薦入試/すいせんにゅうし": {
+      "id": 2847344,
+      "form": "推薦入試",
+      "kana": "すいせんにゅうし",
+      "gloss": "entrance examination for selected candidates (who have been recommended to the university)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        84389
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "試": 4,
+        "入": 1,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847340/指定校推薦/していこうすいせん": {
+      "id": 2847340,
+      "form": "指定校推薦",
+      "kana": "していこうすいせん",
+      "gloss": "designated school recommendation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        117268
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "指": 3,
+        "校": 1,
+        "定": 3,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2246050/推薦図書/すいせんとしょ": {
+      "id": 2246050,
+      "form": "推薦図書",
+      "kana": "すいせんとしょ",
+      "gloss": "recommended books",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        130146
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2,
+        "書": 2,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2059190/推薦書/すいせんしょ": {
+      "id": 2059190,
+      "form": "推薦書",
+      "kana": "すいせんしょ",
+      "gloss": "recommendation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        134057
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2,
+        "推": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446220/薦椎/せんつい": {
+      "id": 2446220,
+      "form": "薦椎",
+      "kana": "せんつい",
+      "gloss": "sacral vertebra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "椎": 7
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1908440/蒲薦/ほせん": {
+      "id": 1908440,
+      "form": "蒲薦",
+      "kana": "ほせん",
+      "gloss": "bulrush mat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1888700/薦挙/せんきょ": {
+      "id": 1888700,
+      "form": "薦挙",
+      "kana": "せんきょ",
+      "gloss": "recommendation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "挙": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1210900/薦め/すすめ": {
+      "id": 1210900,
+      "form": "薦め",
+      "kana": "すすめ",
+      "gloss": "recommendation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34261,
+        null,
+        15825,
+        74956
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1837590/薦被り/こもかぶり": {
+      "id": 1837590,
+      "form": "薦被り",
+      "kana": "こもかぶり",
+      "gloss": "cask wrapped in straw matting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        323327
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "被": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2841779/薦巻/こもまき": {
+      "id": 2841779,
+      "form": "薦巻",
+      "kana": "こもまき",
+      "gloss": "straw belt wrapped around trees to protect against pests",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巻": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2841779/薦巻き/こもまき": {
+      "id": 2841779,
+      "form": "薦巻き",
+      "kana": "こもまき",
+      "gloss": "straw belt wrapped around trees to protect against pests",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "巻": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2829710/奏薦/そうせん": {
+      "id": 2829710,
+      "form": "奏薦",
+      "kana": "そうせん",
+      "gloss": "recommendation to the throne",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "奏": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1387150/薦骨/せんこつ": {
+      "id": 1387150,
+      "form": "薦骨",
+      "kana": "せんこつ",
+      "gloss": "sacrum",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "骨": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2245190/薦/こも": {
+      "id": 2245190,
+      "form": "薦",
+      "kana": "こも",
+      "gloss": "woven straw mat (orig. made of wild rice leaves)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        22723,
+        24595,
+        93840,
+        102746
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1002150/お薦め/おすすめ": {
+      "id": 1002150,
+      "form": "お薦め",
+      "kana": "おすすめ",
+      "gloss": "recommendation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        22590,
+        22732
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2245180/お薦/おこも": {
+      "id": 2245180,
+      "form": "お薦",
+      "kana": "おこも",
+      "gloss": "beggar",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        226273
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1002150/御薦め/おすすめ": {
+      "id": 1002150,
+      "form": "御薦め",
+      "kana": "おすすめ",
+      "gloss": "recommendation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "御": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2866741/薦樽/こもだる": {
+      "id": 2866741,
+      "form": "薦樽",
+      "kana": "こもだる",
+      "gloss": "sake barrel wrapped in straw matting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2245200/薦筵/こもむしろ": {
+      "id": 2245200,
+      "form": "薦筵",
+      "kana": "こもむしろ",
+      "gloss": "mat of woven wild rice leaves",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1705110/真薦/まこも": {
+      "id": 1705110,
+      "form": "真薦",
+      "kana": "まこも",
+      "gloss": "Manchurian wild rice (Zizania latifolia)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "真": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2245210/荒薦/あらごも": {
+      "id": 2245210,
+      "form": "荒薦",
+      "kana": "あらごも",
+      "gloss": "loosely woven mat of wild rice leaves",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "荒": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1371170:推薦:すいせん",
+      "form": "推薦",
+      "kana": "すいせん",
+      "cue": "recommendation; referral",
+      "ids": [
+        1371170
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6595,
+        "shiberu": 4212,
+        "tubelex": 6701,
+        "wordfreq": 6076
+      },
+      "alternatives_by_kanji": {
+        "推": [
+          "1371140/推進/すいしん",
+          "1371070/推す/おす",
+          "1371200/推測/すいそく"
+        ],
+        "薦": [
+          "1595680/薦める/すすめる",
+          "1318060/自薦/じせん",
+          "1581410/他薦/たせん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 18
+}

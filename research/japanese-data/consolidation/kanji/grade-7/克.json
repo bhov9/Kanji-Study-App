@@ -1,0 +1,1016 @@
+{
+  "character": "克",
+  "grade": 7,
+  "meanings": [
+    "overcome",
+    "kindly",
+    "skillfully"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 10
+    },
+    {
+      "type": "nelson_c",
+      "value": 24
+    }
+  ],
+  "components": [
+    "口",
+    "十",
+    "儿"
+  ],
+  "on": [
+    "コク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "か.つ",
+      "stem": "か",
+      "okurigana": "つ"
+    }
+  ],
+  "nanori": [
+    "かつ",
+    "まさる",
+    "よし"
+  ],
+  "government": {
+    "kanji": "克",
+    "heading": "克",
+    "readings": [
+      "コク"
+    ],
+    "examples_by_reading": [
+      [
+        "克服",
+        "克明",
+        "克己"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "克",
+      "reading": "コク",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1285790/克服/こくふく",
+        "1285760/克己/こっき",
+        "1596360/相克/そうこく",
+        "1616610/超克/ちょうこく",
+        "1592790/下克上/げこくじょう",
+        "1285780/克復/こくふく",
+        "2842863/克雪/こくせつ",
+        "2707080/克灰袋/こくはいぶくろ",
+        "1285800/克明/こくめい",
+        "2129490/克鯨/こくくじら"
+      ]
+    },
+    {
+      "reading": "かつ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1408680/打ち克つ/うちかつ",
+        "1852770/己に克つ/おのれにかつ",
+        "1408680/打克つ/うちかつ",
+        "1346150/克つ/かつ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1285790/克服/こくふく",
+    "1285760/克己/こっき",
+    "1596360/相克/そうこく",
+    "1616610/超克/ちょうこく",
+    "1592790/下克上/げこくじょう",
+    "1285780/克復/こくふく",
+    "2842863/克雪/こくせつ",
+    "1408680/打ち克つ/うちかつ",
+    "1852770/己に克つ/おのれにかつ",
+    "1408680/打克つ/うちかつ",
+    "2707080/克灰袋/こくはいぶくろ",
+    "1285770/克己心/こっきしん",
+    "2045300/克己復礼/こっきふくれい",
+    "1285800/克明/こくめい",
+    "1346150/克つ/かつ",
+    "2129490/克鯨/こくくじら",
+    "1162500/一克/いっこく",
+    "1605870/克く/よく",
+    "2234580/戎克/ジャンク",
+    "1129530/馬克/マルク",
+    "2174540/己に克ち礼に復る/おのれにかちれいにかえる",
+    "1026740/烏克蘭/ウクライナ",
+    "1091940/新約克/ニューヨーク",
+    "1026740/宇克蘭/ウクライナ",
+    "1091940/新約克/ニュー・ヨーク"
+  ],
+  "candidates": {
+    "1285790/克服/こくふく": {
+      "id": 1285790,
+      "form": "克服",
+      "kana": "こくふく",
+      "gloss": "conquest (of a difficulty, illness, crisis, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4491,
+        7191,
+        8169,
+        7022
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "服": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1285760/克己/こっき": {
+      "id": 1285760,
+      "form": "克己",
+      "kana": "こっき",
+      "gloss": "self-control",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        40210,
+        78424,
+        44849,
+        74171
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "己": 6
+      },
+      "matched": {
+        "コク": {
+          "actual": "こっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1596360/相克/そうこく": {
+      "id": 1596360,
+      "form": "相克",
+      "kana": "そうこく",
+      "gloss": "rivalry (between two irreconcilable forces)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        76428,
+        58449
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "相": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1616610/超克/ちょうこく": {
+      "id": 1616610,
+      "form": "超克",
+      "kana": "ちょうこく",
+      "gloss": "overcoming",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        81694,
+        89047
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "超": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592790/下克上/げこくじょう": {
+      "id": 1592790,
+      "form": "下克上",
+      "kana": "げこくじょう",
+      "gloss": "juniors dominating seniors",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        39319,
+        42563
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1,
+        "下": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1285780/克復/こくふく": {
+      "id": 1285780,
+      "form": "克復",
+      "kana": "こくふく",
+      "gloss": "restoration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        245648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "復": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842863/克雪/こくせつ": {
+      "id": 2842863,
+      "form": "克雪",
+      "kana": "こくせつ",
+      "gloss": "overcoming damage and problems caused by snow",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雪": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1408680/打ち克つ/うちかつ": {
+      "id": 1408680,
+      "form": "打ち克つ",
+      "kana": "うちかつ",
+      "gloss": "to overcome (a difficulty)",
+      "senses": [
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        62149
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "かつ": {
+          "actual": "か",
+          "dictionary": [
+            "か.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1852770/己に克つ/おのれにかつ": {
+      "id": 1852770,
+      "form": "己に克つ",
+      "kana": "おのれにかつ",
+      "gloss": "to control oneself",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        161829
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "己": 6
+      },
+      "matched": {
+        "かつ": {
+          "actual": "か",
+          "dictionary": [
+            "か.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1408680/打克つ/うちかつ": {
+      "id": 1408680,
+      "form": "打克つ",
+      "kana": "うちかつ",
+      "gloss": "to overcome (a difficulty)",
+      "senses": [
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        271957
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "かつ": {
+          "actual": "か",
+          "dictionary": [
+            "か.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2707080/克灰袋/こくはいぶくろ": {
+      "id": 2707080,
+      "form": "克灰袋",
+      "kana": "こくはいぶくろ",
+      "gloss": "polyester bag for collecting volcanic ash",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灰": 6,
+        "袋": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1285770/克己心/こっきしん": {
+      "id": 1285770,
+      "form": "克己心",
+      "kana": "こっきしん",
+      "gloss": "spirit of self-denial",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        84621
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "己": 6,
+        "心": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2045300/克己復礼/こっきふくれい": {
+      "id": 2045300,
+      "form": "克己復礼",
+      "kana": "こっきふくれい",
+      "gloss": "exercising self-restraint and conforming to the rules of etiquette and formality",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "己": 6,
+        "復": 5,
+        "礼": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1285800/克明/こくめい": {
+      "id": 1285800,
+      "form": "克明",
+      "kana": "こくめい",
+      "gloss": "detailed",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        25064,
+        46460,
+        45339,
+        30998
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1346150/克つ/かつ": {
+      "id": 1346150,
+      "form": "克つ",
+      "kana": "かつ",
+      "gloss": "to win",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        86386,
+        96296
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かつ": {
+          "actual": "か",
+          "dictionary": [
+            "か.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2129490/克鯨/こくくじら": {
+      "id": 2129490,
+      "form": "克鯨",
+      "kana": "こくくじら",
+      "gloss": "gray whale (Eschrichtius robustus)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        81652,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鯨": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1162500/一克/いっこく": {
+      "id": 1162500,
+      "form": "一克",
+      "kana": "いっこく",
+      "gloss": "a moment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "dated"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1605870/克く/よく": {
+      "id": 1605870,
+      "form": "克く",
+      "kana": "よく",
+      "gloss": "nicely",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        168062
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2234580/戎克/ジャンク": {
+      "id": 2234580,
+      "form": "戎克",
+      "kana": "ジャンク",
+      "gloss": "junk (Chinese ship)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1129530/馬克/マルク": {
+      "id": 1129530,
+      "form": "馬克",
+      "kana": "マルク",
+      "gloss": "mark (former currency of Germany)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "馬": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2174540/己に克ち礼に復る/おのれにかちれいにかえる": {
+      "id": 2174540,
+      "form": "己に克ち礼に復る",
+      "kana": "おのれにかちれいにかえる",
+      "gloss": "act with restraint and conform to the ways of etiquette",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "己": 6,
+        "復": 5,
+        "礼": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1026740/烏克蘭/ウクライナ": {
+      "id": 1026740,
+      "form": "烏克蘭",
+      "kana": "ウクライナ",
+      "gloss": "Ukraine",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1091940/新約克/ニューヨーク": {
+      "id": 1091940,
+      "form": "新約克",
+      "kana": "ニューヨーク",
+      "gloss": "New York",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "新": 2,
+        "約": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1026740/宇克蘭/ウクライナ": {
+      "id": 1026740,
+      "form": "宇克蘭",
+      "kana": "ウクライナ",
+      "gloss": "Ukraine",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "宇": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1091940/新約克/ニュー・ヨーク": {
+      "id": 1091940,
+      "form": "新約克",
+      "kana": "ニュー・ヨーク",
+      "gloss": "New York",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "新": 2,
+        "約": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1285790:克服:こくふく",
+      "form": "克服",
+      "kana": "こくふく",
+      "cue": "conquest (of a difficulty, illness, crisis, etc.); overcoming",
+      "ids": [
+        1285790
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7022,
+        "shiberu": 4491,
+        "tubelex": 7191,
+        "wordfreq": 8169
+      },
+      "alternatives_by_kanji": {
+        "服": [
+          "1546020/洋服/ようふく",
+          "1500970/服装/ふくそう",
+          "1500950/服従/ふくじゅう"
+        ],
+        "克": [
+          "1285760/克己/こっき",
+          "1596360/相克/そうこく",
+          "1616610/超克/ちょうこく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

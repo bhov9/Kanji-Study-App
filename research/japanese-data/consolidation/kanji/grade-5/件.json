@@ -1,0 +1,1328 @@
+{
+  "character": "件",
+  "grade": 5,
+  "meanings": [
+    "affair",
+    "case",
+    "matter",
+    "item"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "牛"
+  ],
+  "on": [
+    "ケン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "くだん",
+      "stem": "くだん",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "件",
+    "heading": "件",
+    "readings": [
+      "ケン"
+    ],
+    "examples_by_reading": [
+      [
+        "件数",
+        "事件",
+        "条件"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "件",
+      "reading": "ケン",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ケン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 183,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1313830/事件/じけん",
+        "1356510/条件/じょうけん",
+        "1255950/件数/けんすう",
+        "1502460/物件/ぶっけん",
+        "1154830/案件/あんけん",
+        "1546730/要件/ようけん",
+        "1546250/用件/ようけん",
+        "1822710/本件/ほんけん",
+        "1509680/別件/べっけん",
+        "1255960/件名/けんめい"
+      ]
+    },
+    {
+      "reading": "くだん",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2862579/件の如し/くだんのごとし",
+        "2862579/件のごとし/くだんのごとし",
+        "1255930/件/くだん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1313830/事件/じけん",
+    "1356510/条件/じょうけん",
+    "1255950/件数/けんすう",
+    "1502460/物件/ぶっけん",
+    "1154830/案件/あんけん",
+    "1546730/要件/ようけん",
+    "1546250/用件/ようけん",
+    "1822710/本件/ほんけん",
+    "1509680/別件/べっけん",
+    "1255960/件名/けんめい",
+    "2104490/立件/りっけん",
+    "1392870/前件/ぜんけん",
+    "1269610/後件/こうけん",
+    "1544770/与件/よけん",
+    "1530180/無条件/むじょうけん",
+    "2006700/好条件/こうじょうけん",
+    "2839727/難事件/なんじけん",
+    "1151980/悪条件/あくじょうけん",
+    "1949600/条件付け/じょうけんづけ",
+    "1813700/雑件/ざっけん",
+    "2154350/バラバラ事件/ばらばらじけん",
+    "1255940/件/けん",
+    "1162140/一件/いっけん",
+    "1936100/殺人事件/さつじんじけん",
+    "2029950/一件落着/いっけんらくちゃく",
+    "2134910/大事件/だいじけん",
+    "1916490/例の件/れいのけん",
+    "1760820/交換条件/こうかんじょうけん",
+    "1855580/条件を満たす/じょうけんをみたす",
+    "1771100/条件反射/じょうけんはんしゃ"
+  ],
+  "candidates": {
+    "1313830/事件/じけん": {
+      "id": 1313830,
+      "form": "事件",
+      "kana": "じけん",
+      "gloss": "event",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        232,
+        1194,
+        397,
+        878
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1356510/条件/じょうけん": {
+      "id": 1356510,
+      "form": "条件",
+      "kana": "じょうけん",
+      "gloss": "condition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1205,
+        1136,
+        1268,
+        1355
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "条": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1255950/件数/けんすう": {
+      "id": 1255950,
+      "form": "件数",
+      "kana": "けんすう",
+      "gloss": "number of cases, incidents, items, messages, accounts, etc.",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17068,
+        7719,
+        11917,
+        31750
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1502460/物件/ぶっけん": {
+      "id": 1502460,
+      "form": "物件",
+      "kana": "ぶっけん",
+      "gloss": "article",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8092,
+        3421,
+        7753,
+        11152
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1154830/案件/あんけん": {
+      "id": 1154830,
+      "form": "案件",
+      "kana": "あんけん",
+      "gloss": "matter (to discuss)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13967,
+        4712,
+        4766,
+        7481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "案": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1546730/要件/ようけん": {
+      "id": 1546730,
+      "form": "要件",
+      "kana": "ようけん",
+      "gloss": "important matter",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9814,
+        6121,
+        7509,
+        20974
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "要": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1546250/用件/ようけん": {
+      "id": 1546250,
+      "form": "用件",
+      "kana": "ようけん",
+      "gloss": "business",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6938,
+        22793,
+        29854,
+        3215
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1822710/本件/ほんけん": {
+      "id": 1822710,
+      "form": "本件",
+      "kana": "ほんけん",
+      "gloss": "this matter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17322,
+        17204,
+        13281,
+        26932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1509680/別件/べっけん": {
+      "id": 1509680,
+      "form": "別件",
+      "kana": "べっけん",
+      "gloss": "separate case",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        26688,
+        31906,
+        23544,
+        15916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1255960/件名/けんめい": {
+      "id": 1255960,
+      "form": "件名",
+      "kana": "けんめい",
+      "gloss": "subject",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36774,
+        24811,
+        32185,
+        40960
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2104490/立件/りっけん": {
+      "id": 2104490,
+      "form": "立件",
+      "kana": "りっけん",
+      "gloss": "assembling a criminal case",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30708,
+        35465,
+        33270,
+        46908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1392870/前件/ぜんけん": {
+      "id": 1392870,
+      "form": "前件",
+      "kana": "ぜんけん",
+      "gloss": "(the) aforementioned",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        138339,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269610/後件/こうけん": {
+      "id": 1269610,
+      "form": "後件",
+      "kana": "こうけん",
+      "gloss": "(the) latter",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        126439,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1544770/与件/よけん": {
+      "id": 1544770,
+      "form": "与件",
+      "kana": "よけん",
+      "gloss": "postulate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        137073,
+        256081
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "与": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1530180/無条件/むじょうけん": {
+      "id": 1530180,
+      "form": "無条件",
+      "kana": "むじょうけん",
+      "gloss": "unconditional",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        15185,
+        10402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "条": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2006700/好条件/こうじょうけん": {
+      "id": 2006700,
+      "form": "好条件",
+      "kana": "こうじょうけん",
+      "gloss": "favourable terms",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        38864,
+        33329
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "好": 4,
+        "条": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839727/難事件/なんじけん": {
+      "id": 2839727,
+      "form": "難事件",
+      "kana": "なんじけん",
+      "gloss": "difficult case",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        49881,
+        43501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "難": 6
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1151980/悪条件/あくじょうけん": {
+      "id": 1151980,
+      "form": "悪条件",
+      "kana": "あくじょうけん",
+      "gloss": "unfavorable conditions",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        66155,
+        56801
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "条": 5,
+        "悪": 3
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1949600/条件付け/じょうけんづけ": {
+      "id": 1949600,
+      "form": "条件付け",
+      "kana": "じょうけんづけ",
+      "gloss": "conditioning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        89631,
+        70598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4,
+        "条": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1813700/雑件/ざっけん": {
+      "id": 1813700,
+      "form": "雑件",
+      "kana": "ざっけん",
+      "gloss": "assorted matters",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雑": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2154350/バラバラ事件/ばらばらじけん": {
+      "id": 2154350,
+      "form": "バラバラ事件",
+      "kana": "ばらばらじけん",
+      "gloss": "murder case in which the victim is chopped into pieces",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        128722,
+        125173
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1255940/件/けん": {
+      "id": 1255940,
+      "form": "件",
+      "kana": "けん",
+      "gloss": "matter",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        801
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1162140/一件/いっけん": {
+      "id": 1162140,
+      "form": "一件",
+      "kana": "いっけん",
+      "gloss": "(one) matter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        3802
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1936100/殺人事件/さつじんじけん": {
+      "id": 1936100,
+      "form": "殺人事件",
+      "kana": "さつじんじけん",
+      "gloss": "murder case",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        9388
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "殺": 5,
+        "事": 3,
+        "人": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2029950/一件落着/いっけんらくちゃく": {
+      "id": 2029950,
+      "form": "一件落着",
+      "kana": "いっけんらくちゃく",
+      "gloss": "an issue being settled",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11413
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "着": 3,
+        "落": 3,
+        "一": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2134910/大事件/だいじけん": {
+      "id": 2134910,
+      "form": "大事件",
+      "kana": "だいじけん",
+      "gloss": "major incident",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        12511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "大": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1916490/例の件/れいのけん": {
+      "id": 1916490,
+      "form": "例の件",
+      "kana": "れいのけん",
+      "gloss": "matter in question",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        16549
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "例": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1760820/交換条件/こうかんじょうけん": {
+      "id": 1760820,
+      "form": "交換条件",
+      "kana": "こうかんじょうけん",
+      "gloss": "bargaining point",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17323
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "換": 7,
+        "交": 2,
+        "条": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1855580/条件を満たす/じょうけんをみたす": {
+      "id": 1855580,
+      "form": "条件を満たす",
+      "kana": "じょうけんをみたす",
+      "gloss": "to meet the requirements",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        18727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "満": 4,
+        "条": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771100/条件反射/じょうけんはんしゃ": {
+      "id": 1771100,
+      "form": "条件反射",
+      "kana": "じょうけんはんしゃ",
+      "gloss": "conditioned reflex",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20068
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "射": 6,
+        "反": 3,
+        "条": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862579/件の如し/くだんのごとし": {
+      "id": 2862579,
+      "form": "件の如し",
+      "kana": "くだんのごとし",
+      "gloss": "the above is hereby affirmed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        222101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "如": 7
+      },
+      "matched": {
+        "くだん": {
+          "actual": "くだん",
+          "dictionary": [
+            "くだん"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862579/件のごとし/くだんのごとし": {
+      "id": 2862579,
+      "form": "件のごとし",
+      "kana": "くだんのごとし",
+      "gloss": "the above is hereby affirmed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くだん": {
+          "actual": "くだん",
+          "dictionary": [
+            "くだん"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1255930/件/くだん": {
+      "id": 1255930,
+      "form": "件",
+      "kana": "くだん",
+      "gloss": "the aforementioned",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        34876
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くだん": {
+          "actual": "くだん",
+          "dictionary": [
+            "くだん"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1313830:事件:じけん",
+      "form": "事件",
+      "kana": "じけん",
+      "cue": "event; affair",
+      "ids": [
+        1313830
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 878,
+        "shiberu": 232,
+        "tubelex": 1194,
+        "wordfreq": 397
+      },
+      "alternatives_by_kanji": {
+        "事": [
+          "1304970/仕事/しごと",
+          "1340570/出来事/できごと",
+          "1314230/事物/じぶつ"
+        ],
+        "件": [
+          "1356510/条件/じょうけん",
+          "1255950/件数/けんすう",
+          "1502460/物件/ぶっけん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 15
+}

@@ -1,0 +1,1336 @@
+{
+  "character": "献",
+  "grade": 7,
+  "meanings": [
+    "offering",
+    "counter for drinks",
+    "present",
+    "offer"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 94
+    }
+  ],
+  "components": [
+    "干",
+    "犬",
+    "十",
+    "并",
+    "冂"
+  ],
+  "on": [
+    "ケン",
+    "コン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たてまつ.る",
+      "stem": "たてまつ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "献",
+    "heading": "献（獻）",
+    "readings": [
+      "ケン",
+      "コン"
+    ],
+    "examples_by_reading": [
+      [
+        "献上",
+        "献身的",
+        "文献"
+      ],
+      [
+        "献立",
+        "一献"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "献",
+      "reading": "ケン",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ケン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 54,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1505330/文献/ぶんけん",
+        "1258440/献上/けんじょう",
+        "1714900/献身的/けんしんてき",
+        "1282410/貢献/こうけん",
+        "1258450/献身/けんしん",
+        "1258420/献金/けんきん",
+        "1258430/献血/けんけつ",
+        "1714980/献策/けんさく",
+        "1258490/献納/けんのう",
+        "1630770/献花/けんか"
+      ]
+    },
+    {
+      "reading": "コン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1258500/献立/こんだて",
+        "1162160/一献/いっこん",
+        "2854364/三献/さんこん",
+        "1714910/献杯/こんぱい",
+        "1714870/献立表/こんだてひょう",
+        "2828364/九献/くこん"
+      ]
+    },
+    {
+      "reading": "たてまつる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1505330/文献/ぶんけん",
+    "1258440/献上/けんじょう",
+    "1258500/献立/こんだて",
+    "1162160/一献/いっこん",
+    "1714900/献身的/けんしんてき",
+    "1282410/貢献/こうけん",
+    "1258450/献身/けんしん",
+    "1258420/献金/けんきん",
+    "1258430/献血/けんけつ",
+    "1714980/献策/けんさく",
+    "1258490/献納/けんのう",
+    "1630770/献花/けんか",
+    "2260230/献ずる/けんずる",
+    "1515860/奉献/ほうけん",
+    "1714860/献本/けんぽん",
+    "1714910/献杯/けんぱい",
+    "1258470/献呈/けんてい",
+    "1714880/献灯/けんとう",
+    "2854364/三献/さんこん",
+    "1714910/献杯/こんぱい",
+    "1951200/献辞/けんじ",
+    "1592670/献言/けんげん",
+    "1714940/献茶/けんちゃ",
+    "1636850/献酬/けんしゅう",
+    "2859611/貢献度/こうけんど",
+    "1302350/参考文献/さんこうぶんけん",
+    "1994750/社会貢献/しゃかいこうけん",
+    "2008000/献じる/けんじる",
+    "1714870/献立表/こんだてひょう",
+    "1735460/政治献金/せいじけんきん"
+  ],
+  "candidates": {
+    "1505330/文献/ぶんけん": {
+      "id": 1505330,
+      "form": "文献",
+      "kana": "ぶんけん",
+      "gloss": "literature",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4385,
+        9421,
+        10707,
+        13390
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1258440/献上/けんじょう": {
+      "id": 1258440,
+      "form": "献上",
+      "kana": "けんじょう",
+      "gloss": "presenting (to)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13556,
+        21238,
+        19848,
+        16209
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1258500/献立/こんだて": {
+      "id": 1258500,
+      "form": "献立",
+      "kana": "こんだて",
+      "gloss": "menu",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17686,
+        16756,
+        27689,
+        17679
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [
+        "コン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1162160/一献/いっこん": {
+      "id": 1162160,
+      "form": "一献",
+      "kana": "いっこん",
+      "gloss": "one cup (of sake)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        95507,
+        51248
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [
+        "コン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1714900/献身的/けんしんてき": {
+      "id": 1714900,
+      "form": "献身的",
+      "kana": "けんしんてき",
+      "gloss": "devoted",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        16073
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3,
+        "的": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1282410/貢献/こうけん": {
+      "id": 1282410,
+      "form": "貢献",
+      "kana": "こうけん",
+      "gloss": "contribution (furthering a goal or cause)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2467,
+        3349,
+        3315,
+        6781
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貢": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1258450/献身/けんしん": {
+      "id": 1258450,
+      "form": "献身",
+      "kana": "けんしん",
+      "gloss": "devotion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9726,
+        15506,
+        16272,
+        21911
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1258420/献金/けんきん": {
+      "id": 1258420,
+      "form": "献金",
+      "kana": "けんきん",
+      "gloss": "donation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16570,
+        12792,
+        18515,
+        42652
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1258430/献血/けんけつ": {
+      "id": 1258430,
+      "form": "献血",
+      "kana": "けんけつ",
+      "gloss": "blood donation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22129,
+        24210,
+        18234,
+        53210
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "血": 3
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714980/献策/けんさく": {
+      "id": 1714980,
+      "form": "献策",
+      "kana": "けんさく",
+      "gloss": "suggestion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16175,
+        59850,
+        104555,
+        67297
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "策": 6
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1258490/献納/けんのう": {
+      "id": 1258490,
+      "form": "献納",
+      "kana": "けんのう",
+      "gloss": "offering",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        36453,
+        78424,
+        117502,
+        118358
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "納": 6
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1630770/献花/けんか": {
+      "id": 1630770,
+      "form": "献花",
+      "kana": "けんか",
+      "gloss": "flower offering",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        33853,
+        44357,
+        69108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2260230/献ずる/けんずる": {
+      "id": 2260230,
+      "form": "献ずる",
+      "kana": "けんずる",
+      "gloss": "to present",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "vz",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        38058,
+        75655,
+        null,
+        141355
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1515860/奉献/ほうけん": {
+      "id": 1515860,
+      "form": "奉献",
+      "kana": "ほうけん",
+      "gloss": "dedication",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50117,
+        76428,
+        134259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奉": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714860/献本/けんぽん": {
+      "id": 1714860,
+      "form": "献本",
+      "kana": "けんぽん",
+      "gloss": "complimentary copy of a book",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        84059,
+        100792
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714910/献杯/けんぱい": {
+      "id": 1714910,
+      "form": "献杯",
+      "kana": "けんぱい",
+      "gloss": "toast (to someone; esp. the deceased at a post-ceremony meal)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "int"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        139652,
+        84007
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "杯": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1258470/献呈/けんてい": {
+      "id": 1258470,
+      "form": "献呈",
+      "kana": "けんてい",
+      "gloss": "presentation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        95507,
+        141388
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呈": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714880/献灯/けんとう": {
+      "id": 1714880,
+      "form": "献灯",
+      "kana": "けんとう",
+      "gloss": "votive lantern in a shrine or temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        103620,
+        224819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854364/三献/さんこん": {
+      "id": 2854364,
+      "form": "三献",
+      "kana": "さんこん",
+      "gloss": "three-times-three exchange of nuptial cups",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        148871,
+        155021
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "三": 1
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714910/献杯/こんぱい": {
+      "id": 1714910,
+      "form": "献杯",
+      "kana": "こんぱい",
+      "gloss": "toast (to someone; esp. the deceased at a post-ceremony meal)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "int"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        139652,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "杯": 7
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1951200/献辞/けんじ": {
+      "id": 1951200,
+      "form": "献辞",
+      "kana": "けんじ",
+      "gloss": "dedication (e.g. at the front of a book)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        99903,
+        124965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辞": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592670/献言/けんげん": {
+      "id": 1592670,
+      "form": "献言",
+      "kana": "けんげん",
+      "gloss": "offering an opinion (to a superior, the government, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        146565
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714940/献茶/けんちゃ": {
+      "id": 1714940,
+      "form": "献茶",
+      "kana": "けんちゃ",
+      "gloss": "tea offering to the gods",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        137073,
+        206516
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "茶": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1636850/献酬/けんしゅう": {
+      "id": 1636850,
+      "form": "献酬",
+      "kana": "けんしゅう",
+      "gloss": "exchange of sake cups",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        188817
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酬": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859611/貢献度/こうけんど": {
+      "id": 2859611,
+      "form": "貢献度",
+      "kana": "こうけんど",
+      "gloss": "degree of contribution",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "度": 3,
+        "貢": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1302350/参考文献/さんこうぶんけん": {
+      "id": 1302350,
+      "form": "参考文献",
+      "kana": "さんこうぶんけん",
+      "gloss": "works cited",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        51844
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "参": 4,
+        "文": 1,
+        "考": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1994750/社会貢献/しゃかいこうけん": {
+      "id": 1994750,
+      "form": "社会貢献",
+      "kana": "しゃかいこうけん",
+      "gloss": "contribution to society",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        54279
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "貢": 7,
+        "社": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2008000/献じる/けんじる": {
+      "id": 2008000,
+      "form": "献じる",
+      "kana": "けんじる",
+      "gloss": "to present",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        79820
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714870/献立表/こんだてひょう": {
+      "id": 1714870,
+      "form": "献立表",
+      "kana": "こんだてひょう",
+      "gloss": "menu",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        96966
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1,
+        "表": 3
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1735460/政治献金/せいじけんきん": {
+      "id": 1735460,
+      "form": "政治献金",
+      "kana": "せいじけんきん",
+      "gloss": "political donation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        98930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "治": 4,
+        "政": 5,
+        "金": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828364/九献/くこん": {
+      "id": 2828364,
+      "form": "九献",
+      "kana": "くこん",
+      "gloss": "three-times-three exchange of nuptial cups",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "九": 1
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1258420:献金:けんきん",
+      "form": "献金",
+      "kana": "けんきん",
+      "cue": "donation; contribution",
+      "ids": [
+        1258420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 42652,
+        "shiberu": 16570,
+        "tubelex": 12792,
+        "wordfreq": 18515
+      },
+      "alternatives_by_kanji": {
+        "金": [
+          "1243040/金属/きんぞく",
+          "1242970/金持ち/かねもち",
+          "1243020/金銭/きんせん"
+        ],
+        "献": [
+          "1505330/文献/ぶんけん",
+          "1258440/献上/けんじょう",
+          "1258500/献立/こんだて"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1282410:貢献:こうけん",
+      "form": "貢献",
+      "kana": "こうけん",
+      "cue": "contribution (furthering a goal or cause); services (to a cause)",
+      "ids": [
+        1282410
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6781,
+        "shiberu": 2467,
+        "tubelex": 3349,
+        "wordfreq": 3315
+      },
+      "alternatives_by_kanji": {
+        "献": [
+          "1505330/文献/ぶんけん",
+          "1258440/献上/けんじょう",
+          "1258500/献立/こんだて"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

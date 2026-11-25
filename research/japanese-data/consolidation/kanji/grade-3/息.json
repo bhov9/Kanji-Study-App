@@ -1,0 +1,1249 @@
+{
+  "character": "息",
+  "grade": 3,
+  "meanings": [
+    "breath",
+    "respiration",
+    "son",
+    "interest (on money)",
+    "rest",
+    "coming to an end"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    },
+    {
+      "type": "nelson_c",
+      "value": 132
+    }
+  ],
+  "components": [
+    "自",
+    "心",
+    "目"
+  ],
+  "on": [
+    "ソク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "いき",
+      "stem": "いき",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "息",
+    "heading": "息",
+    "readings": [
+      "ソク",
+      "いき"
+    ],
+    "examples_by_reading": [
+      [
+        "休息",
+        "消息",
+        "子息"
+      ],
+      [
+        "息",
+        "息巻く",
+        "吐息"
+      ]
+    ],
+    "note_lines": [
+      "息吹（いぶき）",
+      "息子（むすこ）"
+    ],
+    "representative_index": {
+      "kanji": "息",
+      "reading": "ソク",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "息吹"
+      ],
+      "reading": "いぶき",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "息子"
+      ],
+      "reading": "むすこ",
+      "stage": "junior_high",
+      "pdf_page": 52,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ソク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 61,
+      "frequent_unflagged_examples": 3,
+      "current_support": false,
+      "candidates": [
+        "1227940/休息/きゅうそく",
+        "1350250/消息/しょうそく",
+        "1307980/子息/しそく",
+        "2843392/息/そく",
+        "1379220/生息/せいそく",
+        "1565360/喘息/ぜんそく",
+        "1422540/窒息/ちっそく",
+        "1549600/利息/りそく",
+        "1154050/安息/あんそく",
+        "1266780/姑息/こそく"
+      ]
+    },
+    {
+      "reading": "いき",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 77,
+      "frequent_unflagged_examples": 6,
+      "current_support": false,
+      "candidates": [
+        "1444180/吐息/といき",
+        "1850830/息巻く/いきまく",
+        "1404320/息/いき",
+        "1404390/息/むすこ",
+        "1404390/息/ムスコ",
+        "1164390/一息/ひといき",
+        "1627790/息苦しい/いきぐるしい",
+        "1404430/息抜き/いきぬき",
+        "1597190/溜め息/ためいき",
+        "1404420/息切れ/いきぎれ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1227940/休息/きゅうそく",
+    "1350250/消息/しょうそく",
+    "1444180/吐息/といき",
+    "1307980/子息/しそく",
+    "1850830/息巻く/いきまく",
+    "1404320/息/いき",
+    "1404390/息/むすこ",
+    "2843392/息/そく",
+    "1404390/息/ムスコ",
+    "1379220/生息/せいそく",
+    "1164390/一息/ひといき",
+    "1627790/息苦しい/いきぐるしい",
+    "1565360/喘息/ぜんそく",
+    "1422540/窒息/ちっそく",
+    "1549600/利息/りそく",
+    "1404430/息抜き/いきぬき",
+    "1597190/溜め息/ためいき",
+    "1404420/息切れ/いきぎれ",
+    "1360190/寝息/ねいき",
+    "1154050/安息/あんそく",
+    "1583350/鼻息/はないき",
+    "1817820/息の根/いきのね",
+    "1266780/姑息/こそく",
+    "1418120/嘆息/たんそく",
+    "1817810/息災/そくさい",
+    "1379220/棲息/せいそく",
+    "1556220/令息/れいそく",
+    "1597190/ため息/ためいき",
+    "1597190/溜息/ためいき",
+    "1817830/息遣い/いきづかい"
+  ],
+  "candidates": {
+    "1227940/休息/きゅうそく": {
+      "id": 1227940,
+      "form": "休息",
+      "kana": "きゅうそく",
+      "gloss": "rest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4948,
+        12666,
+        14937,
+        8268
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1350250/消息/しょうそく": {
+      "id": 1350250,
+      "form": "消息",
+      "kana": "しょうそく",
+      "gloss": "news (from someone)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6374,
+        19216,
+        17976,
+        16036
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "消": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1444180/吐息/といき": {
+      "id": 1444180,
+      "form": "吐息",
+      "kana": "といき",
+      "gloss": "sigh",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11423,
+        25116,
+        26398,
+        4909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "吐": 7
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [
+        "いき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1307980/子息/しそく": {
+      "id": 1307980,
+      "form": "子息",
+      "kana": "しそく",
+      "gloss": "(another's) son",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25562,
+        26803,
+        20890,
+        13678
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1850830/息巻く/いきまく": {
+      "id": 1850830,
+      "form": "息巻く",
+      "kana": "いきまく",
+      "gloss": "to rage",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        24374,
+        46460,
+        99041,
+        20322
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巻": 6
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [
+        "いき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1404320/息/いき": {
+      "id": 1404320,
+      "form": "息",
+      "kana": "いき",
+      "gloss": "breath",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        1316
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [
+        "いき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1404390/息/むすこ": {
+      "id": 1404390,
+      "form": "息",
+      "kana": "むすこ",
+      "gloss": "son",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        307436
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いき": {
+          "actual": "むすこ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "いき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2843392/息/そく": {
+      "id": 2843392,
+      "form": "息",
+      "kana": "そく",
+      "gloss": "son",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [
+        "いき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1404390/息/ムスコ": {
+      "id": 1404390,
+      "form": "息",
+      "kana": "ムスコ",
+      "gloss": "son",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "いき": {
+          "actual": "ムスコ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "いき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1379220/生息/せいそく": {
+      "id": 1379220,
+      "form": "生息",
+      "kana": "せいそく",
+      "gloss": "inhabiting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6227,
+        7940,
+        9745,
+        12766
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1164390/一息/ひといき": {
+      "id": 1164390,
+      "form": "一息",
+      "kana": "ひといき",
+      "gloss": "one breath",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8270,
+        10663,
+        15185,
+        6449
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1627790/息苦しい/いきぐるしい": {
+      "id": 1627790,
+      "form": "息苦しい",
+      "kana": "いきぐるしい",
+      "gloss": "choking",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        14555,
+        18756,
+        28763,
+        5477
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "苦": 3
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1565360/喘息/ぜんそく": {
+      "id": 1565360,
+      "form": "喘息",
+      "kana": "ぜんそく",
+      "gloss": "asthma",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13260,
+        13398,
+        17491,
+        49493
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1422540/窒息/ちっそく": {
+      "id": 1422540,
+      "form": "窒息",
+      "kana": "ちっそく",
+      "gloss": "suffocation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12873,
+        21302,
+        16515,
+        13050
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "窒": 7
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1549600/利息/りそく": {
+      "id": 1549600,
+      "form": "利息",
+      "kana": "りそく",
+      "gloss": "interest (on a loan, deposit etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17632,
+        12304,
+        22289,
+        32136
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "利": 4
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404430/息抜き/いきぬき": {
+      "id": 1404430,
+      "form": "息抜き",
+      "kana": "いきぬき",
+      "gloss": "taking a breather",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        26386,
+        20401,
+        17002,
+        7601
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抜": 7
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597190/溜め息/ためいき": {
+      "id": 1597190,
+      "form": "溜め息",
+      "kana": "ためいき",
+      "gloss": "sigh",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28093,
+        8610,
+        70783,
+        23088
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404420/息切れ/いきぎれ": {
+      "id": 1404420,
+      "form": "息切れ",
+      "kana": "いきぎれ",
+      "gloss": "shortness of breath",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        23004,
+        21302,
+        26068,
+        16893
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1360190/寝息/ねいき": {
+      "id": 1360190,
+      "form": "寝息",
+      "kana": "ねいき",
+      "gloss": "breathing of a sleeping person",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17178,
+        29494,
+        46874,
+        10382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寝": 7
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1154050/安息/あんそく": {
+      "id": 1154050,
+      "form": "安息",
+      "kana": "あんそく",
+      "gloss": "rest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        21169,
+        17882,
+        40209,
+        20522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1583350/鼻息/はないき": {
+      "id": 1583350,
+      "form": "鼻息",
+      "kana": "はないき",
+      "gloss": "nasal breathing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39759,
+        26476,
+        38864,
+        9777
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鼻": 3
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1817820/息の根/いきのね": {
+      "id": 1817820,
+      "form": "息の根",
+      "kana": "いきのね",
+      "gloss": "life",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21152,
+        44010,
+        36648,
+        31896
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "根": 3
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1266780/姑息/こそく": {
+      "id": 1266780,
+      "form": "姑息",
+      "kana": "こそく",
+      "gloss": "underhanded",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34396,
+        33233,
+        37951,
+        18104
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418120/嘆息/たんそく": {
+      "id": 1418120,
+      "form": "嘆息",
+      "kana": "たんそく",
+      "gloss": "sigh (of grief, disappointment, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        27887,
+        43563,
+        64910,
+        12902
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "嘆": 7
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1817810/息災/そくさい": {
+      "id": 1817810,
+      "form": "息災",
+      "kana": "そくさい",
+      "gloss": "good health",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        24863,
+        34060,
+        52075,
+        31983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "災": 5
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1379220/棲息/せいそく": {
+      "id": 1379220,
+      "form": "棲息",
+      "kana": "せいそく",
+      "gloss": "inhabiting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16588,
+        81652,
+        61164,
+        44577
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1556220/令息/れいそく": {
+      "id": 1556220,
+      "form": "令息",
+      "kana": "れいそく",
+      "gloss": "son",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38491,
+        121818,
+        99041,
+        65857
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597190/ため息/ためいき": {
+      "id": 1597190,
+      "form": "ため息",
+      "kana": "ためいき",
+      "gloss": "sigh",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6580,
+        null,
+        11917,
+        3891
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1597190/溜息/ためいき": {
+      "id": 1597190,
+      "form": "溜息",
+      "kana": "ためいき",
+      "gloss": "sigh",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12610,
+        null,
+        34111,
+        12968
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1817830/息遣い/いきづかい": {
+      "id": 1817830,
+      "form": "息遣い",
+      "kana": "いきづかい",
+      "gloss": "breathing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24703,
+        41605,
+        11669
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遣": 7
+      },
+      "matched": {
+        "いき": {
+          "actual": "いき",
+          "dictionary": [
+            "いき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1404390:息:むすこ",
+      "form": "息",
+      "kana": "むすこ",
+      "cue": "son",
+      "ids": [
+        1404390
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 307436,
+        "shiberu": 903,
+        "tubelex": 1711,
+        "wordfreq": 3454
+      }
+    }
+  ],
+  "unassigned_form_count": 39
+}

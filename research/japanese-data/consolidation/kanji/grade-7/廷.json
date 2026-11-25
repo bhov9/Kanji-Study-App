@@ -1,0 +1,1215 @@
+{
+  "character": "廷",
+  "grade": 7,
+  "meanings": [
+    "courts",
+    "imperial court",
+    "government office"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 54
+    }
+  ],
+  "components": [
+    "王",
+    "廴",
+    "士"
+  ],
+  "on": [
+    "テイ"
+  ],
+  "kun": [],
+  "nanori": [
+    "たか"
+  ],
+  "government": {
+    "kanji": "廷",
+    "heading": "廷",
+    "readings": [
+      "テイ"
+    ],
+    "examples_by_reading": [
+      [
+        "宮廷",
+        "法廷",
+        "出廷"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "廷",
+      "reading": "テイ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 30,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1517400/法廷/ほうてい",
+        "1228460/宮廷/きゅうてい",
+        "1339770/出廷/しゅってい",
+        "1428490/朝廷/ちょうてい",
+        "1202860/開廷/かいてい",
+        "1436190/廷臣/ていしん",
+        "1732180/閉廷/へいてい",
+        "1458930/内廷/ないてい",
+        "1466580/入廷/にゅうてい",
+        "1779160/退廷/たいてい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1517400/法廷/ほうてい",
+    "1228460/宮廷/きゅうてい",
+    "1339770/出廷/しゅってい",
+    "1428490/朝廷/ちょうてい",
+    "1202860/開廷/かいてい",
+    "1436190/廷臣/ていしん",
+    "1732180/閉廷/へいてい",
+    "1458930/内廷/ないてい",
+    "1466580/入廷/にゅうてい",
+    "1779160/退廷/たいてい",
+    "1227990/休廷/きゅうてい",
+    "1762740/廷吏/ていり",
+    "1762730/廷内/ていない",
+    "1274530/公判廷/こうはんてい",
+    "1991340/軍事法廷/ぐんじほうてい",
+    "2853660/大和朝廷/やまとちょうてい",
+    "1933040/宮廷画家/きゅうていがか",
+    "1785930/大法廷/だいほうてい",
+    "2178690/法廷侮辱罪/ほうていぶじょくざい",
+    "1805080/法廷闘争/ほうていとうそう",
+    "2854017/外廷/がいてい",
+    "1607810/宮廷音楽/きゅうていおんがく",
+    "2860852/法廷画家/ほうていがか",
+    "2201980/法廷画/ほうていが",
+    "2507030/法廷に臨む/ほうていにのぞむ",
+    "2853660/ヤマト朝廷/やまとちょうてい",
+    "1995280/小法廷/しょうほうてい",
+    "1762720/廷丁/ていてい",
+    "1805070/法廷侮辱/ほうていぶじょく",
+    "2000870/法廷証言/ほうていしょうげん"
+  ],
+  "candidates": {
+    "1517400/法廷/ほうてい": {
+      "id": 1517400,
+      "form": "法廷",
+      "kana": "ほうてい",
+      "gloss": "court (of law)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5089,
+        15151,
+        8169,
+        21322
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1228460/宮廷/きゅうてい": {
+      "id": 1228460,
+      "form": "宮廷",
+      "kana": "きゅうてい",
+      "gloss": "imperial court",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10755,
+        15588,
+        20890,
+        19440
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宮": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1339770/出廷/しゅってい": {
+      "id": 1339770,
+      "form": "出廷",
+      "kana": "しゅってい",
+      "gloss": "appearance in court",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        24070,
+        47007,
+        30216,
+        67966
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1428490/朝廷/ちょうてい": {
+      "id": 1428490,
+      "form": "朝廷",
+      "kana": "ちょうてい",
+      "gloss": "Imperial Court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3074,
+        15564,
+        26068,
+        36813
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朝": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202860/開廷/かいてい": {
+      "id": 1202860,
+      "form": "開廷",
+      "kana": "かいてい",
+      "gloss": "court session",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        36953,
+        121818,
+        58810,
+        56194
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "開": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436190/廷臣/ていしん": {
+      "id": 1436190,
+      "form": "廷臣",
+      "kana": "ていしん",
+      "gloss": "courtier",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36831,
+        63933,
+        153062,
+        85044
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "臣": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1732180/閉廷/へいてい": {
+      "id": 1732180,
+      "form": "閉廷",
+      "kana": "へいてい",
+      "gloss": "adjourning court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        63618,
+        63329
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閉": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1458930/内廷/ないてい": {
+      "id": 1458930,
+      "form": "内廷",
+      "kana": "ないてい",
+      "gloss": "harem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        119612,
+        150266
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1466580/入廷/にゅうてい": {
+      "id": 1466580,
+      "form": "入廷",
+      "kana": "にゅうてい",
+      "gloss": "admission to the courtroom",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        126439,
+        98954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1779160/退廷/たいてい": {
+      "id": 1779160,
+      "form": "退廷",
+      "kana": "たいてい",
+      "gloss": "leaving a court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        89631,
+        84436
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "退": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1227990/休廷/きゅうてい": {
+      "id": 1227990,
+      "form": "休廷",
+      "kana": "きゅうてい",
+      "gloss": "court recess",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        147538,
+        87077
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1762740/廷吏/ていり": {
+      "id": 1762740,
+      "form": "廷吏",
+      "kana": "ていり",
+      "gloss": "court attendant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        125270,
+        143085
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "吏": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1762730/廷内/ていない": {
+      "id": 1762730,
+      "form": "廷内",
+      "kana": "ていない",
+      "gloss": "inside the court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        170790,
+        143728
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1274530/公判廷/こうはんてい": {
+      "id": 1274530,
+      "form": "公判廷",
+      "kana": "こうはんてい",
+      "gloss": "court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        172358,
+        192721
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "判": 5,
+        "公": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1991340/軍事法廷/ぐんじほうてい": {
+      "id": 1991340,
+      "form": "軍事法廷",
+      "kana": "ぐんじほうてい",
+      "gloss": "military tribunal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        103256
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "法": 4,
+        "軍": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853660/大和朝廷/やまとちょうてい": {
+      "id": 2853660,
+      "form": "大和朝廷",
+      "kana": "やまとちょうてい",
+      "gloss": "Yamato court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        106119
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朝": 2,
+        "和": 3,
+        "大": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1933040/宮廷画家/きゅうていがか": {
+      "id": 1933040,
+      "form": "宮廷画家",
+      "kana": "きゅうていがか",
+      "gloss": "court painter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        110406
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2,
+        "画": 2,
+        "宮": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1785930/大法廷/だいほうてい": {
+      "id": 1785930,
+      "form": "大法廷",
+      "kana": "だいほうてい",
+      "gloss": "full court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        133965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "大": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2178690/法廷侮辱罪/ほうていぶじょくざい": {
+      "id": 2178690,
+      "form": "法廷侮辱罪",
+      "kana": "ほうていぶじょくざい",
+      "gloss": "(crime of) contempt of court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        141178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辱": 7,
+        "罪": 5,
+        "法": 4,
+        "侮": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1805080/法廷闘争/ほうていとうそう": {
+      "id": 1805080,
+      "form": "法廷闘争",
+      "kana": "ほうていとうそう",
+      "gloss": "court battle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147680
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "争": 4,
+        "法": 4,
+        "闘": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854017/外廷/がいてい": {
+      "id": 2854017,
+      "form": "外廷",
+      "kana": "がいてい",
+      "gloss": "public area of the Imperial Palace where the emperor carries out official business",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        171324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1607810/宮廷音楽/きゅうていおんがく": {
+      "id": 1607810,
+      "form": "宮廷音楽",
+      "kana": "きゅうていおんがく",
+      "gloss": "court music",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        184080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "音": 1,
+        "楽": 2,
+        "宮": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860852/法廷画家/ほうていがか": {
+      "id": 2860852,
+      "form": "法廷画家",
+      "kana": "ほうていがか",
+      "gloss": "court artist",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        192639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2,
+        "画": 2,
+        "法": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2201980/法廷画/ほうていが": {
+      "id": 2201980,
+      "form": "法廷画",
+      "kana": "ほうていが",
+      "gloss": "courtroom sketch",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        244718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2,
+        "法": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2507030/法廷に臨む/ほうていにのぞむ": {
+      "id": 2507030,
+      "form": "法廷に臨む",
+      "kana": "ほうていにのぞむ",
+      "gloss": "to appear in court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "臨": 6,
+        "法": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853660/ヤマト朝廷/やまとちょうてい": {
+      "id": 2853660,
+      "form": "ヤマト朝廷",
+      "kana": "やまとちょうてい",
+      "gloss": "Yamato court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朝": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1995280/小法廷/しょうほうてい": {
+      "id": 1995280,
+      "form": "小法廷",
+      "kana": "しょうほうてい",
+      "gloss": "petty bench of the supreme court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "小": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1762720/廷丁/ていてい": {
+      "id": 1762720,
+      "form": "廷丁",
+      "kana": "ていてい",
+      "gloss": "court attendant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丁": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1805070/法廷侮辱/ほうていぶじょく": {
+      "id": 1805070,
+      "form": "法廷侮辱",
+      "kana": "ほうていぶじょく",
+      "gloss": "contempt of court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辱": 7,
+        "法": 4,
+        "侮": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2000870/法廷証言/ほうていしょうげん": {
+      "id": 2000870,
+      "form": "法廷証言",
+      "kana": "ほうていしょうげん",
+      "gloss": "court testimony",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "証": 5,
+        "法": 4,
+        "言": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1517400:法廷:ほうてい",
+      "form": "法廷",
+      "kana": "ほうてい",
+      "cue": "court (of law); courtroom",
+      "ids": [
+        1517400
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 21322,
+        "shiberu": 5089,
+        "tubelex": 15151,
+        "wordfreq": 8169
+      },
+      "alternatives_by_kanji": {
+        "法": [
+          "1517090/方法/ほうほう",
+          "1517480/法律/ほうりつ",
+          "1505600/文法/ぶんぽう"
+        ],
+        "廷": [
+          "1228460/宮廷/きゅうてい",
+          "1339770/出廷/しゅってい",
+          "1428490/朝廷/ちょうてい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

@@ -1,0 +1,1237 @@
+{
+  "character": "岩",
+  "grade": 2,
+  "meanings": [
+    "boulder",
+    "rock",
+    "cliff"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 46
+    }
+  ],
+  "components": [
+    "口",
+    "山",
+    "石"
+  ],
+  "on": [
+    "ガン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "いわ",
+      "stem": "いわ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "岩",
+    "heading": "岩",
+    "readings": [
+      "ガン",
+      "いわ"
+    ],
+    "examples_by_reading": [
+      [
+        "岩石",
+        "岩塩",
+        "火成岩"
+      ],
+      [
+        "岩",
+        "岩場"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "岩",
+      "reading": "ガン",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 91,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1217360/岩石/がんせき",
+        "1217280/岩塩/がんえん",
+        "1194050/火成岩/かせいがん",
+        "1546120/溶岩/ようがん",
+        "1217400/岩盤/がんばん",
+        "1777930/奇岩/きがん",
+        "1291510/砂岩/さがん",
+        "1231980/巨岩/きょがん",
+        "1291510/砂岩/しゃがん",
+        "1839140/岩壁/がんぺき"
+      ]
+    },
+    {
+      "reading": "いわ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 59,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1217270/岩/いわ",
+        "1839100/岩場/いわば",
+        "1217280/岩塩/いわしお",
+        "5196029/岩波/いわなみ",
+        "1217320/岩山/いわやま",
+        "1839010/岩戸/いわと",
+        "2845118/岩手/いわて",
+        "2845195/岩代/いわしろ",
+        "1217290/岩屋/いわや",
+        "1839040/岩肌/いわはだ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1217270/岩/いわ",
+    "1217360/岩石/がんせき",
+    "1839100/岩場/いわば",
+    "1217280/岩塩/がんえん",
+    "1217280/岩塩/いわしお",
+    "1194050/火成岩/かせいがん",
+    "1546120/溶岩/ようがん",
+    "5196029/岩波/いわなみ",
+    "1217320/岩山/いわやま",
+    "1217400/岩盤/がんばん",
+    "1839010/岩戸/いわと",
+    "1777930/奇岩/きがん",
+    "1291510/砂岩/さがん",
+    "1231980/巨岩/きょがん",
+    "2845118/岩手/いわて",
+    "2845195/岩代/いわしろ",
+    "1291510/砂岩/しゃがん",
+    "1839140/岩壁/がんぺき",
+    "1217290/岩屋/いわや",
+    "1839040/岩肌/いわはだ",
+    "1217350/岩礁/がんしょう",
+    "2073810/岩塊/がんかい",
+    "1217300/岩角/いわかど",
+    "1839060/岩根/いわね",
+    "1839120/岩窟/がんくつ",
+    "1839050/岩室/いわむろ",
+    "1637580/岩穴/いわあな",
+    "1639360/頁岩/けつがん",
+    "2584550/片岩/へんがん",
+    "5744169/岩国/いわこく"
+  ],
+  "candidates": {
+    "1217270/岩/いわ": {
+      "id": 1217270,
+      "form": "岩",
+      "kana": "いわ",
+      "gloss": "rock",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2206,
+        2232,
+        3531,
+        4086
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [
+        "いわ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1217360/岩石/がんせき": {
+      "id": 1217360,
+      "form": "岩石",
+      "kana": "がんせき",
+      "gloss": "rock",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7550,
+        13883,
+        28048,
+        24507
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1839100/岩場/いわば": {
+      "id": 1839100,
+      "form": "岩場",
+      "kana": "いわば",
+      "gloss": "rocky area",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21639,
+        16004,
+        32914,
+        16206
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "場": 2
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [
+        "いわ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1217280/岩塩/がんえん": {
+      "id": 1217280,
+      "form": "岩塩",
+      "kana": "がんえん",
+      "gloss": "halite",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25300,
+        33270,
+        44599
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塩": 4
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1217280/岩塩/いわしお": {
+      "id": 1217280,
+      "form": "岩塩",
+      "kana": "いわしお",
+      "gloss": "halite",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25300,
+        33270,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "塩": 4
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1194050/火成岩/かせいがん": {
+      "id": 1194050,
+      "form": "火成岩",
+      "kana": "かせいがん",
+      "gloss": "igneous rock",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        127540,
+        134185
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4,
+        "火": 1
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1546120/溶岩/ようがん": {
+      "id": 1546120,
+      "form": "溶岩",
+      "kana": "ようがん",
+      "gloss": "lava",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17385,
+        8001,
+        18234,
+        22794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "溶": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5196029/岩波/いわなみ": {
+      "id": 5196029,
+      "form": "岩波",
+      "kana": "いわなみ",
+      "gloss": "Iwanami (publisher)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7528,
+        37400,
+        20096,
+        68764
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "波": 3
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217320/岩山/いわやま": {
+      "id": 1217320,
+      "form": "岩山",
+      "kana": "いわやま",
+      "gloss": "rocky mountain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12487,
+        24210,
+        28385,
+        26924
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217400/岩盤/がんばん": {
+      "id": 1217400,
+      "form": "岩盤",
+      "kana": "がんばん",
+      "gloss": "bedrock",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32114,
+        12975,
+        20349,
+        29178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盤": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1839010/岩戸/いわと": {
+      "id": 1839010,
+      "form": "岩戸",
+      "kana": "いわと",
+      "gloss": "rock door (to a cave)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28550,
+        37400,
+        55378,
+        66491
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戸": 2
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1777930/奇岩/きがん": {
+      "id": 1777930,
+      "form": "奇岩",
+      "kana": "きがん",
+      "gloss": "strangely shaped large rock",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25433,
+        43563,
+        61736,
+        83088
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奇": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291510/砂岩/さがん": {
+      "id": 1291510,
+      "form": "砂岩",
+      "kana": "さがん",
+      "gloss": "sandstone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37469,
+        28907,
+        66810,
+        80736
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "砂": 6
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1231980/巨岩/きょがん": {
+      "id": 1231980,
+      "form": "巨岩",
+      "kana": "きょがん",
+      "gloss": "huge rock",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39504,
+        50117,
+        79465,
+        45466
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巨": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845118/岩手/いわて": {
+      "id": 2845118,
+      "form": "岩手",
+      "kana": "いわて",
+      "gloss": "Iwate (prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5344,
+        null,
+        4766,
+        58598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845195/岩代/いわしろ": {
+      "id": 2845195,
+      "form": "岩代",
+      "kana": "いわしろ",
+      "gloss": "Iwashiro (former province located in the west of present-day Fukushima Prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13216,
+        null,
+        78707,
+        142823
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291510/砂岩/しゃがん": {
+      "id": 1291510,
+      "form": "砂岩",
+      "kana": "しゃがん",
+      "gloss": "sandstone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37469,
+        28907,
+        66810,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "砂": 6
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1839140/岩壁/がんぺき": {
+      "id": 1839140,
+      "form": "岩壁",
+      "kana": "がんぺき",
+      "gloss": "wall of rock",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29689,
+        47007,
+        null,
+        30166
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "壁": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217290/岩屋/いわや": {
+      "id": 1217290,
+      "form": "岩屋",
+      "kana": "いわや",
+      "gloss": "cave",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26254,
+        45339,
+        70697
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1839040/岩肌/いわはだ": {
+      "id": 1839040,
+      "form": "岩肌",
+      "kana": "いわはだ",
+      "gloss": "bare rock",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28068,
+        68819,
+        26838
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "肌": 7
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217350/岩礁/がんしょう": {
+      "id": 1217350,
+      "form": "岩礁",
+      "kana": "がんしょう",
+      "gloss": "reef",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        46460,
+        43420,
+        49502
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "礁": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2073810/岩塊/がんかい": {
+      "id": 2073810,
+      "form": "岩塊",
+      "kana": "がんかい",
+      "gloss": "mass of rock",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31755,
+        95069,
+        null,
+        53733
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塊": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217300/岩角/いわかど": {
+      "id": 1217300,
+      "form": "岩角",
+      "kana": "いわかど",
+      "gloss": "edge or corner of a stone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29298,
+        173792,
+        null,
+        129889
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "角": 2
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1839060/岩根/いわね": {
+      "id": 1839060,
+      "form": "岩根",
+      "kana": "いわね",
+      "gloss": "foot of a rock",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38018,
+        84059,
+        135026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "根": 3
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1839120/岩窟/がんくつ": {
+      "id": 1839120,
+      "form": "岩窟",
+      "kana": "がんくつ",
+      "gloss": "cave",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        61164,
+        80061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "窟": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1839050/岩室/いわむろ": {
+      "id": 1839050,
+      "form": "岩室",
+      "kana": "いわむろ",
+      "gloss": "cave",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        68122,
+        131293
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "室": 2
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1637580/岩穴/いわあな": {
+      "id": 1637580,
+      "form": "岩穴",
+      "kana": "いわあな",
+      "gloss": "rock cave",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        161690,
+        87043
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "穴": 6
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1639360/頁岩/けつがん": {
+      "id": 1639360,
+      "form": "頁岩",
+      "kana": "けつがん",
+      "gloss": "shale",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        114322,
+        209954
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2584550/片岩/へんがん": {
+      "id": 2584550,
+      "form": "片岩",
+      "kana": "へんがん",
+      "gloss": "schist",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        157245,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "片": 6
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5744169/岩国/いわこく": {
+      "id": 5744169,
+      "form": "岩国",
+      "kana": "いわこく",
+      "gloss": "Iwanami Kokugo Jiten (Japanese dictionary published by Iwanami Shoten) (abbr)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        23216,
+        108748
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "いわ": {
+          "actual": "いわ",
+          "dictionary": [
+            "いわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1217270:岩:いわ",
+      "form": "岩",
+      "kana": "いわ",
+      "cue": "rock; boulder",
+      "ids": [
+        1217270
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4086,
+        "shiberu": 2206,
+        "tubelex": 2232,
+        "wordfreq": 3531
+      },
+      "alternatives_by_kanji": {
+        "岩": [
+          "1217360/岩石/がんせき",
+          "1839100/岩場/いわば",
+          "1217280/岩塩/がんえん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1546120:溶岩:ようがん",
+      "form": "溶岩",
+      "kana": "ようがん",
+      "cue": "lava",
+      "ids": [
+        1546120
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 22794,
+        "shiberu": 17385,
+        "tubelex": 8001,
+        "wordfreq": 18234
+      },
+      "alternatives_by_kanji": {
+        "岩": [
+          "1217270/岩/いわ",
+          "1217360/岩石/がんせき",
+          "1839100/岩場/いわば"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 16
+}

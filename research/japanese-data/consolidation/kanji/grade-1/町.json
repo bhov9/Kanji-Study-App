@@ -1,0 +1,1214 @@
+{
+  "character": "町",
+  "grade": 1,
+  "meanings": [
+    "town",
+    "village",
+    "block",
+    "street"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 102
+    }
+  ],
+  "components": [
+    "一",
+    "田",
+    "亅"
+  ],
+  "on": [
+    "チョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "まち",
+      "stem": "まち",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "町",
+    "heading": "町",
+    "readings": [
+      "チョウ",
+      "まち"
+    ],
+    "examples_by_reading": [
+      [
+        "町会",
+        "市町村"
+      ],
+      [
+        "町",
+        "町外れ"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔街"
+    ],
+    "representative_index": {
+      "kanji": "町",
+      "reading": "チョウ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チョウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 48,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1428750/町会/ちょうかい",
+        "1308600/市町村/しちょうそん",
+        "2853569/町/ちょう",
+        "1428800/町内/ちょうない",
+        "1428790/町長/ちょうちょう",
+        "1428770/町人/ちょうにん",
+        "1428820/町民/ちょうみん",
+        "1776810/町名/ちょうめい",
+        "2856240/古町/こちょう",
+        "1428810/町歩/ちょうぶ"
+      ]
+    },
+    {
+      "reading": "まち",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 74,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1428760/町外れ/まちはずれ",
+        "1603990/町/まち",
+        "1185940/下町/したまち",
+        "1604000/町並み/まちなみ",
+        "1348520/小町/こまち",
+        "1280010/港町/みなとまち",
+        "1428740/町家/まちや",
+        "2645990/田舎町/いなかまち",
+        "2856240/古町/こまち",
+        "1550460/裏町/うらまち"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1428750/町会/ちょうかい",
+    "1428760/町外れ/まちはずれ",
+    "1308600/市町村/しちょうそん",
+    "1603990/町/まち",
+    "2853569/町/ちょう",
+    "1428800/町内/ちょうない",
+    "1185940/下町/したまち",
+    "1428790/町長/ちょうちょう",
+    "1604000/町並み/まちなみ",
+    "1428770/町人/ちょうにん",
+    "1348520/小町/こまち",
+    "1280010/港町/みなとまち",
+    "1428740/町家/まちや",
+    "1428820/町民/ちょうみん",
+    "2645990/田舎町/いなかまち",
+    "1776810/町名/ちょうめい",
+    "2856240/古町/こちょう",
+    "1428810/町歩/ちょうぶ",
+    "2856240/古町/こまち",
+    "1550460/裏町/うらまち",
+    "1776800/町方/まちかた",
+    "1428770/町人/まちにん",
+    "1608060/室町/むろまち",
+    "1428740/町家/ちょうか",
+    "1204580/町角/まちかど",
+    "1605910/横町/よこちょう",
+    "2406600/永田町/ながたちょう",
+    "1428740/町屋/まちや",
+    "1428760/町はずれ/まちはずれ",
+    "2575110/町育ち/まちそだち"
+  ],
+  "candidates": {
+    "1428750/町会/ちょうかい": {
+      "id": 1428750,
+      "form": "町会",
+      "kana": "ちょうかい",
+      "gloss": "town council",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22481,
+        26925,
+        42050,
+        80671
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1428760/町外れ/まちはずれ": {
+      "id": 1428760,
+      "form": "町外れ",
+      "kana": "まちはずれ",
+      "gloss": "outskirts (of a town)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29720,
+        34060,
+        71447,
+        33485
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [
+        "まち"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1308600/市町村/しちょうそん": {
+      "id": 1308600,
+      "form": "市町村",
+      "kana": "しちょうそん",
+      "gloss": "cities, towns and villages",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        9302,
+        67976
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "村": 1,
+        "市": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1603990/町/まち": {
+      "id": 1603990,
+      "form": "町",
+      "kana": "まち",
+      "gloss": "town",
+      "senses": [
+        0,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        1447
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [
+        "まち"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2853569/町/ちょう": {
+      "id": 2853569,
+      "form": "町",
+      "kana": "ちょう",
+      "gloss": "town",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        249208
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "まち"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1428800/町内/ちょうない": {
+      "id": 1428800,
+      "form": "町内",
+      "kana": "ちょうない",
+      "gloss": "neighborhood",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        9749,
+        12105,
+        11547,
+        21449
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185940/下町/したまち": {
+      "id": 1185940,
+      "form": "下町",
+      "kana": "したまち",
+      "gloss": "low-lying part of a city (usu. containing shops, factories, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7446,
+        18076,
+        14132,
+        24000
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428790/町長/ちょうちょう": {
+      "id": 1428790,
+      "form": "町長",
+      "kana": "ちょうちょう",
+      "gloss": "town mayor",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7640,
+        16453,
+        16272,
+        38931
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1604000/町並み/まちなみ": {
+      "id": 1604000,
+      "form": "町並み",
+      "kana": "まちなみ",
+      "gloss": "townscape",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21162,
+        6883,
+        24433,
+        19646
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "並": 6
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428770/町人/ちょうにん": {
+      "id": 1428770,
+      "form": "町人",
+      "kana": "ちょうにん",
+      "gloss": "chōnin (Edo-period social class of town-dwelling commoners, esp. landowning merchants)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7426,
+        23941,
+        39764,
+        32779
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1348520/小町/こまち": {
+      "id": 1348520,
+      "form": "小町",
+      "kana": "こまち",
+      "gloss": "belle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16020,
+        19216,
+        13918,
+        49043
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1280010/港町/みなとまち": {
+      "id": 1280010,
+      "form": "港町",
+      "kana": "みなとまち",
+      "gloss": "port city",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14805,
+        22209,
+        30980,
+        23226
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "港": 3
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428740/町家/まちや": {
+      "id": 1428740,
+      "form": "町家",
+      "kana": "まちや",
+      "gloss": "machiya",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11033,
+        26476,
+        49881,
+        75289
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428820/町民/ちょうみん": {
+      "id": 1428820,
+      "form": "町民",
+      "kana": "ちょうみん",
+      "gloss": "townsman",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29411,
+        20349,
+        23216,
+        41594
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2645990/田舎町/いなかまち": {
+      "id": 2645990,
+      "form": "田舎町",
+      "kana": "いなかまち",
+      "gloss": "country town",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19158,
+        32483,
+        28763,
+        28086
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "舎": 5,
+        "田": 1
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1776810/町名/ちょうめい": {
+      "id": 1776810,
+      "form": "町名",
+      "kana": "ちょうめい",
+      "gloss": "name of a town",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18370,
+        48827,
+        44849,
+        80739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856240/古町/こちょう": {
+      "id": 2856240,
+      "form": "古町",
+      "kana": "こちょう",
+      "gloss": "old town",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37203,
+        59850,
+        50941,
+        153504
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428810/町歩/ちょうぶ": {
+      "id": 1428810,
+      "form": "町歩",
+      "kana": "ちょうぶ",
+      "gloss": "hectare (2.471 acres)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26053,
+        75655,
+        95507,
+        116573
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歩": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856240/古町/こまち": {
+      "id": 2856240,
+      "form": "古町",
+      "kana": "こまち",
+      "gloss": "old town",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37203,
+        59850,
+        50941,
+        234459
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1550460/裏町/うらまち": {
+      "id": 1550460,
+      "form": "裏町",
+      "kana": "うらまち",
+      "gloss": "back street",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28241,
+        89646,
+        121853,
+        80615
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "裏": 6
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1776800/町方/まちかた": {
+      "id": 1776800,
+      "form": "町方",
+      "kana": "まちかた",
+      "gloss": "town",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35006,
+        62423,
+        108425,
+        69386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428770/町人/まちにん": {
+      "id": 1428770,
+      "form": "町人",
+      "kana": "まちにん",
+      "gloss": "chōnin (Edo-period social class of town-dwelling commoners, esp. landowning merchants)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7426,
+        23941,
+        39764,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1608060/室町/むろまち": {
+      "id": 1608060,
+      "form": "室町",
+      "kana": "むろまち",
+      "gloss": "Muromachi period (1336-1573)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7537,
+        null,
+        20603,
+        63790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "室": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428740/町家/ちょうか": {
+      "id": 1428740,
+      "form": "町家",
+      "kana": "ちょうか",
+      "gloss": "machiya",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11033,
+        26476,
+        49881,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "家": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204580/町角/まちかど": {
+      "id": 1204580,
+      "form": "町角",
+      "kana": "まちかど",
+      "gloss": "street corner",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21156,
+        19567,
+        null,
+        90609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "角": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1605910/横町/よこちょう": {
+      "id": 1605910,
+      "form": "横町",
+      "kana": "よこちょう",
+      "gloss": "bystreet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14284,
+        null,
+        72128,
+        73097
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "横": 3
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2406600/永田町/ながたちょう": {
+      "id": 2406600,
+      "form": "永田町",
+      "kana": "ながたちょう",
+      "gloss": "Nagata-chō (Japan's political center; equiv. of Downing Street)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22347,
+        null,
+        26690,
+        67833
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "田": 1,
+        "永": 5
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428740/町屋/まちや": {
+      "id": 1428740,
+      "form": "町屋",
+      "kana": "まちや",
+      "gloss": "machiya",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26052,
+        null,
+        40664,
+        82575
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428760/町はずれ/まちはずれ": {
+      "id": 1428760,
+      "form": "町はずれ",
+      "kana": "まちはずれ",
+      "gloss": "outskirts (of a town)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28591,
+        null,
+        101758,
+        58322
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2575110/町育ち/まちそだち": {
+      "id": 2575110,
+      "form": "町育ち",
+      "kana": "まちそだち",
+      "gloss": "being raised in a town",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        34787,
+        95069,
+        null,
+        141609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "育": 3
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1603990:町:まち",
+      "form": "町",
+      "kana": "まち",
+      "cue": "town; block",
+      "ids": [
+        1603990
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1447,
+        "shiberu": 161,
+        "tubelex": 602,
+        "wordfreq": 344
+      },
+      "alternatives_by_kanji": {
+        "町": [
+          "1428750/町会/ちょうかい",
+          "1428760/町外れ/まちはずれ",
+          "1308600/市町村/しちょうそん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

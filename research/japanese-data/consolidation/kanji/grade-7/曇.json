@@ -1,0 +1,1043 @@
+{
+  "character": "曇",
+  "grade": 7,
+  "meanings": [
+    "cloudy weather",
+    "cloud up"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 72
+    }
+  ],
+  "components": [
+    "雨",
+    "二",
+    "日",
+    "厶"
+  ],
+  "on": [
+    "ドン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "くも.る",
+      "stem": "くも",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "ど",
+    "ずみ"
+  ],
+  "government": {
+    "kanji": "曇",
+    "heading": "曇",
+    "readings": [
+      "ドン",
+      "くもる"
+    ],
+    "examples_by_reading": [
+      [
+        "曇天"
+      ],
+      [
+        "曇る",
+        "曇り"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "曇",
+      "reading": "ドン",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ドン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1457570/曇天/どんてん",
+        "1539550/優曇華/うどんげ",
+        "1376560/晴曇/せいどん"
+      ]
+    },
+    {
+      "reading": "くもる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1457560/曇る/くもる",
+        "1592340/曇り/くもり",
+        "1852000/掻き曇る/かきくもる",
+        "1852000/かき曇る/かきくもる",
+        "1852000/搔き曇る/かきくもる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1457560/曇る/くもる",
+    "1592340/曇り/くもり",
+    "1457570/曇天/どんてん",
+    "1539550/優曇華/うどんげ",
+    "1852000/掻き曇る/かきくもる",
+    "1852000/かき曇る/かきくもる",
+    "1376560/晴曇/せいどん",
+    "1852000/搔き曇る/かきくもる",
+    "1194840/花曇り/はなぐもり",
+    "1592340/曇/くもり",
+    "1872560/曇り空/くもりぞら",
+    "1621520/薄曇り/うすぐもり",
+    "2402630/曇らせる/くもらせる",
+    "2012670/曇らす/くもらす",
+    "1586630/雨曇り/あまぐもり",
+    "2573640/顔を曇らす/かおをくもらす",
+    "1457550/曇りガラス/くもりガラス",
+    "2759120/眉を曇らす/まゆをくもらす",
+    "1457540/曇りがち/くもりがち",
+    "1457550/曇り硝子/くもりガラス",
+    "1621520/薄曇/うすぐもり",
+    "2251400/悉曇/しったん",
+    "1696210/朝曇り/あさぐもり",
+    "1194840/花曇/はなぐもり",
+    "1457540/曇り勝ち/くもりがち",
+    "2756970/晴後曇/はれのちくもり",
+    "2756970/晴れ後曇り/はれのちくもり",
+    "1769170/曇り声/くもりごえ",
+    "1586630/雨曇/あまぐもり",
+    "2251430/悉曇学/しったんがく"
+  ],
+  "candidates": {
+    "1457560/曇る/くもる": {
+      "id": 1457560,
+      "form": "曇る",
+      "kana": "くもる",
+      "gloss": "to get cloudy",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3161,
+        7913,
+        53182,
+        4802
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くもる": {
+          "actual": "くも",
+          "dictionary": [
+            "くも.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "くもる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1592340/曇り/くもり": {
+      "id": 1592340,
+      "form": "曇り",
+      "kana": "くもり",
+      "gloss": "cloudiness",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7593,
+        7656,
+        10032,
+        9931
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くもる": {
+          "actual": "くも",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "くもる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1457570/曇天/どんてん": {
+      "id": 1457570,
+      "form": "曇天",
+      "kana": "どんてん",
+      "gloss": "cloudy sky",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26243,
+        39641,
+        35359,
+        29642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "天": 1
+      },
+      "matched": {
+        "ドン": {
+          "actual": "どん",
+          "dictionary": [
+            "ドン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ドン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1539550/優曇華/うどんげ": {
+      "id": 1539550,
+      "form": "優曇華",
+      "kana": "うどんげ",
+      "gloss": "udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        77923,
+        200376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "華": 7,
+        "優": 6
+      },
+      "matched": {
+        "ドン": {
+          "actual": "どん",
+          "dictionary": [
+            "ドン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1852000/掻き曇る/かきくもる": {
+      "id": 1852000,
+      "form": "掻き曇る",
+      "kana": "かきくもる",
+      "gloss": "to become overcast",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        173409
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くもる": {
+          "actual": "くも",
+          "dictionary": [
+            "くも.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1852000/かき曇る/かきくもる": {
+      "id": 1852000,
+      "form": "かき曇る",
+      "kana": "かきくもる",
+      "gloss": "to become overcast",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        103657
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くもる": {
+          "actual": "くも",
+          "dictionary": [
+            "くも.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376560/晴曇/せいどん": {
+      "id": 1376560,
+      "form": "晴曇",
+      "kana": "せいどん",
+      "gloss": "fine weather and cloudy weather",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        287635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "晴": 2
+      },
+      "matched": {
+        "ドン": {
+          "actual": "どん",
+          "dictionary": [
+            "ドン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1852000/搔き曇る/かきくもる": {
+      "id": 1852000,
+      "form": "搔き曇る",
+      "kana": "かきくもる",
+      "gloss": "to become overcast",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くもる": {
+          "actual": "くも",
+          "dictionary": [
+            "くも.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194840/花曇り/はなぐもり": {
+      "id": 1194840,
+      "form": "花曇り",
+      "kana": "はなぐもり",
+      "gloss": "hazy weather in spring",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        40575,
+        109954,
+        148871,
+        145602
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1592340/曇/くもり": {
+      "id": 1592340,
+      "form": "曇",
+      "kana": "くもり",
+      "gloss": "cloudiness",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25262,
+        null,
+        23216,
+        62586
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1872560/曇り空/くもりぞら": {
+      "id": 1872560,
+      "form": "曇り空",
+      "kana": "くもりぞら",
+      "gloss": "cloudy sky",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28340,
+        37034,
+        25241
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1621520/薄曇り/うすぐもり": {
+      "id": 1621520,
+      "form": "薄曇り",
+      "kana": "うすぐもり",
+      "gloss": "slightly cloudy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        90446,
+        58066
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薄": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2402630/曇らせる/くもらせる": {
+      "id": 2402630,
+      "form": "曇らせる",
+      "kana": "くもらせる",
+      "gloss": "to cloud",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        99041,
+        19842
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2012670/曇らす/くもらす": {
+      "id": 2012670,
+      "form": "曇らす",
+      "kana": "くもらす",
+      "gloss": "to encloud",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        77888
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1586630/雨曇り/あまぐもり": {
+      "id": 1586630,
+      "form": "雨曇り",
+      "kana": "あまぐもり",
+      "gloss": "overcast weather",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        249695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雨": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2573640/顔を曇らす/かおをくもらす": {
+      "id": 2573640,
+      "form": "顔を曇らす",
+      "kana": "かおをくもらす",
+      "gloss": "to darken one's face",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        27786
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "顔": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1457550/曇りガラス/くもりガラス": {
+      "id": 1457550,
+      "form": "曇りガラス",
+      "kana": "くもりガラス",
+      "gloss": "frosted glass",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        54662
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2759120/眉を曇らす/まゆをくもらす": {
+      "id": 2759120,
+      "form": "眉を曇らす",
+      "kana": "まゆをくもらす",
+      "gloss": "to knit one's brows",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75450
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "眉": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1457540/曇りがち/くもりがち": {
+      "id": 1457540,
+      "form": "曇りがち",
+      "kana": "くもりがち",
+      "gloss": "mainly cloudy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        86725
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1457550/曇り硝子/くもりガラス": {
+      "id": 1457550,
+      "form": "曇り硝子",
+      "kana": "くもりガラス",
+      "gloss": "frosted glass",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        126401
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1,
+        "硝": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1621520/薄曇/うすぐもり": {
+      "id": 1621520,
+      "form": "薄曇",
+      "kana": "うすぐもり",
+      "gloss": "slightly cloudy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        165233
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薄": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2251400/悉曇/しったん": {
+      "id": 2251400,
+      "form": "悉曇",
+      "kana": "しったん",
+      "gloss": "Siddham (characters)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        281715
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1696210/朝曇り/あさぐもり": {
+      "id": 1696210,
+      "form": "朝曇り",
+      "kana": "あさぐもり",
+      "gloss": "a cloudy morning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朝": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1194840/花曇/はなぐもり": {
+      "id": 1194840,
+      "form": "花曇",
+      "kana": "はなぐもり",
+      "gloss": "hazy weather in spring",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1457540/曇り勝ち/くもりがち": {
+      "id": 1457540,
+      "form": "曇り勝ち",
+      "kana": "くもりがち",
+      "gloss": "mainly cloudy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勝": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2756970/晴後曇/はれのちくもり": {
+      "id": 2756970,
+      "form": "晴後曇",
+      "kana": "はれのちくもり",
+      "gloss": "cloudy after fine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "晴": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2756970/晴れ後曇り/はれのちくもり": {
+      "id": 2756970,
+      "form": "晴れ後曇り",
+      "kana": "はれのちくもり",
+      "gloss": "cloudy after fine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "晴": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1769170/曇り声/くもりごえ": {
+      "id": 1769170,
+      "form": "曇り声",
+      "kana": "くもりごえ",
+      "gloss": "depressed voice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "声": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1586630/雨曇/あまぐもり": {
+      "id": 1586630,
+      "form": "雨曇",
+      "kana": "あまぐもり",
+      "gloss": "overcast weather",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雨": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2251430/悉曇学/しったんがく": {
+      "id": 2251430,
+      "form": "悉曇学",
+      "kana": "しったんがく",
+      "gloss": "Siddham studies",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1592340:曇:くもり",
+      "form": "曇",
+      "kana": "くもり",
+      "cue": "cloudiness; cloudy weather",
+      "ids": [
+        1592340
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 62586,
+        "shiberu": 25262,
+        "wordfreq": 23216
+      },
+      "alternatives_by_kanji": {
+        "曇": [
+          "1457560/曇る/くもる",
+          "1592340/曇り/くもり",
+          "1457570/曇天/どんてん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 33
+}

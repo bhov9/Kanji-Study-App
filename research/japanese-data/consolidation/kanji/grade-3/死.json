@@ -1,0 +1,1354 @@
+{
+  "character": "死",
+  "grade": 3,
+  "meanings": [
+    "death",
+    "die"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 78
+    }
+  ],
+  "components": [
+    "一",
+    "夕",
+    "匕",
+    "歹"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "し.ぬ",
+      "stem": "し",
+      "okurigana": "ぬ"
+    },
+    {
+      "sourceNotation": "し.に-",
+      "stem": "し",
+      "okurigana": "に-"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "死",
+    "heading": "死",
+    "readings": [
+      "シ",
+      "しぬ"
+    ],
+    "examples_by_reading": [
+      [
+        "死亡",
+        "死角",
+        "必死"
+      ],
+      [
+        "死ぬ",
+        "死に絶える"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "死",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 391,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1601890/必死/ひっし",
+        "1310950/死亡/しぼう",
+        "1310760/死角/しかく",
+        "1310720/死/し",
+        "1310920/死体/したい",
+        "1310810/死刑/しけい",
+        "1310870/死者/ししゃ",
+        "1310830/死後/しご",
+        "1390250/戦死/せんし",
+        "1310900/死人/しにん"
+      ]
+    },
+    {
+      "reading": "しぬ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1310730/死ぬ/ﾀﾋぬ"
+      ]
+    },
+    {
+      "reading": "しに",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1601890/必死/ひっし",
+    "1310950/死亡/しぼう",
+    "1310730/死ぬ/ﾀﾋぬ",
+    "1310760/死角/しかく",
+    "1310720/死/し",
+    "1310920/死体/したい",
+    "1310810/死刑/しけい",
+    "1310870/死者/ししゃ",
+    "1310830/死後/しご",
+    "1390250/戦死/せんし",
+    "1310900/死人/しにん",
+    "1404200/即死/そくし",
+    "1310740/死因/しいん",
+    "1490730/瀕死/ひんし",
+    "1310800/死去/しきょ",
+    "1254300/決死/けっし",
+    "1421910/致死/ちし",
+    "1587980/餓死/がし",
+    "1492590/不死/ふし",
+    "1437590/溺死/できし",
+    "1594130/死骸/しがい",
+    "1490300/病死/びょうし",
+    "1658260/死傷/ししょう",
+    "1228730/急死/きゅうし",
+    "1646680/死滅/しめつ",
+    "1310930/死闘/しとう",
+    "1310940/死別/しべつ",
+    "1310840/死語/しご",
+    "1446340/凍死/とうし",
+    "1619100/死守/ししゅ"
+  ],
+  "candidates": {
+    "1601890/必死/ひっし": {
+      "id": 1601890,
+      "form": "必死",
+      "kana": "ひっし",
+      "gloss": "frantic",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        2911,
+        3743,
+        3000,
+        865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "必": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1310950/死亡/しぼう": {
+      "id": 1310950,
+      "form": "死亡",
+      "kana": "しぼう",
+      "gloss": "death",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2757,
+        3621,
+        1801,
+        4660
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "亡": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1310730/死ぬ/ﾀﾋぬ": {
+      "id": 1310730,
+      "form": "死ぬ",
+      "kana": "ﾀﾋぬ",
+      "gloss": "to die",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "v5n",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        183,
+        414,
+        752,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "しぬ": {
+          "actual": "ﾀﾋ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "しぬ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1310760/死角/しかく": {
+      "id": 1310760,
+      "form": "死角",
+      "kana": "しかく",
+      "gloss": "blind spot (e.g. of a driver)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19761,
+        18234,
+        7823
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "角": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1310720/死/し": {
+      "id": 1310720,
+      "form": "死",
+      "kana": "し",
+      "gloss": "death",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        627,
+        1846,
+        927,
+        1051
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310920/死体/したい": {
+      "id": 1310920,
+      "form": "死体",
+      "kana": "したい",
+      "gloss": "dead body",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5450,
+        4508,
+        4415,
+        2857
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1310810/死刑/しけい": {
+      "id": 1310810,
+      "form": "死刑",
+      "kana": "しけい",
+      "gloss": "death penalty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3433,
+        10119,
+        4034,
+        10289
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刑": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1310870/死者/ししゃ": {
+      "id": 1310870,
+      "form": "死者",
+      "kana": "ししゃ",
+      "gloss": "dead person",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4308,
+        6644,
+        4669,
+        5641
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1310830/死後/しご": {
+      "id": 1310830,
+      "form": "死後",
+      "kana": "しご",
+      "gloss": "after death",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        3300,
+        8295,
+        7146,
+        8315
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1390250/戦死/せんし": {
+      "id": 1390250,
+      "form": "戦死",
+      "kana": "せんし",
+      "gloss": "death in battle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5485,
+        15506,
+        11740,
+        19699
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310900/死人/しにん": {
+      "id": 1310900,
+      "form": "死人",
+      "kana": "しにん",
+      "gloss": "corpse",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10625,
+        14051,
+        10217,
+        7260
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404200/即死/そくし": {
+      "id": 1404200,
+      "form": "即死",
+      "kana": "そくし",
+      "gloss": "instant death",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10516,
+        10988,
+        11917,
+        9450
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "即": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310740/死因/しいん": {
+      "id": 1310740,
+      "form": "死因",
+      "kana": "しいん",
+      "gloss": "cause of death",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8408,
+        14594,
+        11740,
+        10255
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "因": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1490730/瀕死/ひんし": {
+      "id": 1490730,
+      "form": "瀕死",
+      "kana": "ひんし",
+      "gloss": "(on the) verge of death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        9176,
+        16390,
+        15390,
+        12914
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310800/死去/しきょ": {
+      "id": 1310800,
+      "form": "死去",
+      "kana": "しきょ",
+      "gloss": "death",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9092,
+        21588,
+        11030,
+        42048
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "去": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1254300/決死/けっし": {
+      "id": 1254300,
+      "form": "決死",
+      "kana": "けっし",
+      "gloss": "preparedness for death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7101,
+        27052,
+        26398,
+        21651
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "決": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421910/致死/ちし": {
+      "id": 1421910,
+      "form": "致死",
+      "kana": "ちし",
+      "gloss": "lethal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11120,
+        18888,
+        13918,
+        42405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "致": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587980/餓死/がし": {
+      "id": 1587980,
+      "form": "餓死",
+      "kana": "がし",
+      "gloss": "(death from) starvation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        11631,
+        20739,
+        14745,
+        20347
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "餓": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1492590/不死/ふし": {
+      "id": 1492590,
+      "form": "不死",
+      "kana": "ふし",
+      "gloss": "immortality",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        22927,
+        9868,
+        19040,
+        16340
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1437590/溺死/できし": {
+      "id": 1437590,
+      "form": "溺死",
+      "kana": "できし",
+      "gloss": "death by drowning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7405,
+        37110,
+        23216,
+        26653
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "溺": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594130/死骸/しがい": {
+      "id": 1594130,
+      "form": "死骸",
+      "kana": "しがい",
+      "gloss": "(dead) body",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16293,
+        12496,
+        20096,
+        13283
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "骸": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1490300/病死/びょうし": {
+      "id": 1490300,
+      "form": "病死",
+      "kana": "びょうし",
+      "gloss": "death from disease",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7883,
+        27951,
+        27689,
+        20050
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "病": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1658260/死傷/ししょう": {
+      "id": 1658260,
+      "form": "死傷",
+      "kana": "ししょう",
+      "gloss": "death and injury",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10814,
+        24022,
+        17251,
+        55042
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "傷": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1228730/急死/きゅうし": {
+      "id": 1228730,
+      "form": "急死",
+      "kana": "きゅうし",
+      "gloss": "sudden death",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8328,
+        41067,
+        27689,
+        36173
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "急": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1646680/死滅/しめつ": {
+      "id": 1646680,
+      "form": "死滅",
+      "kana": "しめつ",
+      "gloss": "extinction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15131,
+        20620,
+        20603,
+        25414
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "滅": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310930/死闘/しとう": {
+      "id": 1310930,
+      "form": "死闘",
+      "kana": "しとう",
+      "gloss": "life or death struggle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15682,
+        29810,
+        23216,
+        14971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "闘": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310940/死別/しべつ": {
+      "id": 1310940,
+      "form": "死別",
+      "kana": "しべつ",
+      "gloss": "bereavement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10661,
+        42221,
+        37951,
+        32962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310840/死語/しご": {
+      "id": 1310840,
+      "form": "死語",
+      "kana": "しご",
+      "gloss": "dead language",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15291,
+        38931,
+        26690,
+        40661
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "語": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446340/凍死/とうし": {
+      "id": 1446340,
+      "form": "凍死",
+      "kana": "とうし",
+      "gloss": "death from cold",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15523,
+        45909,
+        27689,
+        25983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "凍": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1619100/死守/ししゅ": {
+      "id": 1619100,
+      "form": "死守",
+      "kana": "ししゅ",
+      "gloss": "defending to the last",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        29410,
+        29981,
+        25763,
+        15933
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "守": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1310720:死:し",
+      "form": "死",
+      "kana": "し",
+      "cue": "death",
+      "ids": [
+        1310720
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 1051,
+        "shiberu": 627,
+        "tubelex": 1846,
+        "wordfreq": 927
+      }
+    },
+    {
+      "wordId": "jmdict:1310800:死去:しきょ",
+      "form": "死去",
+      "kana": "しきょ",
+      "cue": "death; decease",
+      "ids": [
+        1310800
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 42048,
+        "shiberu": 9092,
+        "tubelex": 21588,
+        "wordfreq": 11030
+      },
+      "alternatives_by_kanji": {
+        "去": [
+          "1196030/過去/かこ",
+          "1231690/去年/きょねん",
+          "1231650/去る/さる"
+        ],
+        "死": [
+          "1601890/必死/ひっし",
+          "1310950/死亡/しぼう",
+          "1310730/死ぬ/ﾀﾋぬ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1310820:死刑囚:しけいしゅう",
+      "form": "死刑囚",
+      "kana": "しけいしゅう",
+      "cue": "criminal condemned to death; convict on death row",
+      "ids": [
+        1310820
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 33892
+      },
+      "alternatives_by_kanji": {
+        "死": [
+          "1601890/必死/ひっし",
+          "1310950/死亡/しぼう",
+          "1310730/死ぬ/ﾀﾋぬ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1310950:死亡:しぼう",
+      "form": "死亡",
+      "kana": "しぼう",
+      "cue": "death; dying",
+      "ids": [
+        1310950
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4660,
+        "shiberu": 2757,
+        "tubelex": 3621,
+        "wordfreq": 1801
+      },
+      "alternatives_by_kanji": {
+        "死": [
+          "1601890/必死/ひっし",
+          "1310730/死ぬ/ﾀﾋぬ",
+          "1310760/死角/しかく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1648530:焼死:しょうし",
+      "form": "焼死",
+      "kana": "しょうし",
+      "cue": "death by fire",
+      "ids": [
+        1648530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 42054,
+        "shiberu": 21995,
+        "tubelex": 42628,
+        "wordfreq": 39319
+      },
+      "alternatives_by_kanji": {
+        "死": [
+          "1601890/必死/ひっし",
+          "1310950/死亡/しぼう",
+          "1310730/死ぬ/ﾀﾋぬ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 170
+}

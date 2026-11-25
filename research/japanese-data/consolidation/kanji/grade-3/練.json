@@ -1,0 +1,1559 @@
+{
+  "character": "練",
+  "grade": 3,
+  "meanings": [
+    "practice",
+    "gloss",
+    "train",
+    "drill",
+    "polish",
+    "refine"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "｜",
+    "糸",
+    "幺",
+    "小",
+    "日",
+    "ハ",
+    "木",
+    "田"
+  ],
+  "on": [
+    "レン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ね.る",
+      "stem": "ね",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "ね.り",
+      "stem": "ね",
+      "okurigana": "り"
+    }
+  ],
+  "nanori": [
+    "ねり"
+  ],
+  "government": {
+    "kanji": "練",
+    "heading": "練（練）",
+    "readings": [
+      "レン",
+      "ねる"
+    ],
+    "examples_by_reading": [
+      [
+        "練習",
+        "試練",
+        "熟練"
+      ],
+      [
+        "練る",
+        "練り直す"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "練",
+      "reading": "レン",
+      "source": "table_42_re.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "レン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 103,
+      "frequent_unflagged_examples": 6,
+      "current_support": true,
+      "candidates": [
+        "1559160/練習/れんしゅう",
+        "1312590/試練/しれん",
+        "1337930/熟練/じゅくれん",
+        "1247470/訓練/くんれん",
+        "1391090/洗練/せんれん",
+        "1528130/未練/みれん",
+        "1594800/修練/しゅうれん",
+        "1419170/鍛練/たんれん",
+        "1781390/練兵/れんぺい",
+        "1616030/老練/ろうれん"
+      ]
+    },
+    {
+      "reading": "ねる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1559140/練る/ねる",
+        "2840892/策を練る/さくをねる",
+        "1889770/想を練る/そうをねる",
+        "1906990/武を練る/ぶをねる"
+      ]
+    },
+    {
+      "reading": "ねり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 31,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1849810/練り直す/ねりなおす",
+        "1559130/練り歩く/ねりあるく",
+        "1642900/練り/ねり",
+        "2738490/練り込む/ねりこむ",
+        "1559120/練り上げる/ねりあげる",
+        "1781410/練り物/ねりもの",
+        "2866159/練り切り/ねりきり",
+        "1559110/練り合わせる/ねりあわせる",
+        "2678150/練り餌/ねりえ",
+        "2115560/練り香/ねりこう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1559160/練習/れんしゅう",
+    "1312590/試練/しれん",
+    "1559140/練る/ねる",
+    "1337930/熟練/じゅくれん",
+    "1849810/練り直す/ねりなおす",
+    "1247470/訓練/くんれん",
+    "1391090/洗練/せんれん",
+    "1528130/未練/みれん",
+    "1594800/修練/しゅうれん",
+    "1419170/鍛練/たんれん",
+    "1559130/練り歩く/ねりあるく",
+    "1781390/練兵/れんぺい",
+    "1616030/老練/ろうれん",
+    "1237400/教練/きょうれん",
+    "1737750/水練/すいれん",
+    "1645650/精練/せいれん",
+    "1642900/練り/ねり",
+    "2738490/練り込む/ねりこむ",
+    "1559180/練乳/れんにゅう",
+    "2260880/朝練/あされん",
+    "1644160/練炭/れんたん",
+    "1559120/練り上げる/ねりあげる",
+    "1781410/練り物/ねりもの",
+    "1618590/練磨/れんま",
+    "1644170/練達/れんたつ",
+    "2849565/練武/れんぶ",
+    "1623140/調練/ちょうれん",
+    "1619330/習練/しゅうれん",
+    "2842149/演練/えんれん",
+    "2825450/練度/れんど"
+  ],
+  "candidates": {
+    "1559160/練習/れんしゅう": {
+      "id": 1559160,
+      "form": "練習",
+      "kana": "れんしゅう",
+      "gloss": "practice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1972,
+        719,
+        1377,
+        1165
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "習": 3
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [
+        "レン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1312590/試練/しれん": {
+      "id": 1312590,
+      "form": "試練",
+      "kana": "しれん",
+      "gloss": "test",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6969,
+        5723,
+        11204,
+        5671
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "試": 4
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [
+        "レン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1559140/練る/ねる": {
+      "id": 1559140,
+      "form": "練る",
+      "kana": "ねる",
+      "gloss": "to knead",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7779,
+        4655,
+        29477,
+        4775
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ねる": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "ねる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1337930/熟練/じゅくれん": {
+      "id": 1337930,
+      "form": "熟練",
+      "kana": "じゅくれん",
+      "gloss": "skill",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7868,
+        10615,
+        13090,
+        15511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "熟": 6
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [
+        "レン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1849810/練り直す/ねりなおす": {
+      "id": 1849810,
+      "form": "練り直す",
+      "kana": "ねりなおす",
+      "gloss": "to knead again",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        26206,
+        48192,
+        117502,
+        29293
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [
+        "ねる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1247470/訓練/くんれん": {
+      "id": 1247470,
+      "form": "訓練",
+      "kana": "くんれん",
+      "gloss": "training",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2262,
+        2575,
+        1974,
+        3117
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訓": 4
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1391090/洗練/せんれん": {
+      "id": 1391090,
+      "form": "洗練",
+      "kana": "せんれん",
+      "gloss": "refinement",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7771,
+        9889,
+        11368,
+        17356
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "洗": 6
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1528130/未練/みれん": {
+      "id": 1528130,
+      "form": "未練",
+      "kana": "みれん",
+      "gloss": "lingering attachment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        22068,
+        14324,
+        19315,
+        5344
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "未": 4
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594800/修練/しゅうれん": {
+      "id": 1594800,
+      "form": "修練",
+      "kana": "しゅうれん",
+      "gloss": "training",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16620,
+        26803,
+        23216,
+        17077
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1419170/鍛練/たんれん": {
+      "id": 1419170,
+      "form": "鍛練",
+      "kana": "たんれん",
+      "gloss": "tempering (metal)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        24217,
+        18950,
+        58810,
+        38001
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鍛": 7
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1559130/練り歩く/ねりあるく": {
+      "id": 1559130,
+      "form": "練り歩く",
+      "kana": "ねりあるく",
+      "gloss": "to parade",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        19267,
+        33853,
+        47810,
+        27284
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歩": 2
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1781390/練兵/れんぺい": {
+      "id": 1781390,
+      "form": "練兵",
+      "kana": "れんぺい",
+      "gloss": "military drill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22486,
+        57577,
+        116428,
+        76910
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1616030/老練/ろうれん": {
+      "id": 1616030,
+      "form": "老練",
+      "kana": "ろうれん",
+      "gloss": "experienced",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30005,
+        62423,
+        80148,
+        47925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "老": 4
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237400/教練/きょうれん": {
+      "id": 1237400,
+      "form": "教練",
+      "kana": "きょうれん",
+      "gloss": "drill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        33205,
+        56591,
+        71447,
+        56374
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1737750/水練/すいれん": {
+      "id": 1737750,
+      "form": "水練",
+      "kana": "すいれん",
+      "gloss": "swimming practice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30299,
+        75655,
+        140911,
+        85160
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1645650/精練/せいれん": {
+      "id": 1645650,
+      "form": "精練",
+      "kana": "せいれん",
+      "gloss": "scouring",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        39643,
+        109954,
+        139652,
+        113435
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "精": 5
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1642900/練り/ねり": {
+      "id": 1642900,
+      "form": "練り",
+      "kana": "ねり",
+      "gloss": "kneading",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        18756,
+        17491,
+        42847
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2738490/練り込む/ねりこむ": {
+      "id": 2738490,
+      "form": "練り込む",
+      "kana": "ねりこむ",
+      "gloss": "to knead into",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        26895,
+        21370,
+        null,
+        31531
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "込": 7
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1559180/練乳/れんにゅう": {
+      "id": 1559180,
+      "form": "練乳",
+      "kana": "れんにゅう",
+      "gloss": "condensed milk",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22272,
+        37490,
+        47498
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乳": 6
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2260880/朝練/あされん": {
+      "id": 2260880,
+      "form": "朝練",
+      "kana": "あされん",
+      "gloss": "morning training (e.g. before school)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50117,
+        46387,
+        20382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朝": 2
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644160/練炭/れんたん": {
+      "id": 1644160,
+      "form": "練炭",
+      "kana": "れんたん",
+      "gloss": "briquette (charcoal or coal)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42628,
+        50386,
+        78091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "炭": 3
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1559120/練り上げる/ねりあげる": {
+      "id": 1559120,
+      "form": "練り上げる",
+      "kana": "ねりあげる",
+      "gloss": "to knead well",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38018,
+        133488,
+        25049
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1781410/練り物/ねりもの": {
+      "id": 1781410,
+      "form": "練り物",
+      "kana": "ねりもの",
+      "gloss": "paste products (incl. sweets, fish paste, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39979,
+        56518,
+        79029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1618590/練磨/れんま": {
+      "id": 1618590,
+      "form": "練磨",
+      "kana": "れんま",
+      "gloss": "training",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38931,
+        95507,
+        79599
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "磨": 7
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644170/練達/れんたつ": {
+      "id": 1644170,
+      "form": "練達",
+      "kana": "れんたつ",
+      "gloss": "expert(ise)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        104555,
+        66281
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "達": 4
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849565/練武/れんぶ": {
+      "id": 2849565,
+      "form": "練武",
+      "kana": "れんぶ",
+      "gloss": "practising martial arts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        172358,
+        107813
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1623140/調練/ちょうれん": {
+      "id": 1623140,
+      "form": "調練",
+      "kana": "ちょうれん",
+      "gloss": "military drill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        175497,
+        73983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1619330/習練/しゅうれん": {
+      "id": 1619330,
+      "form": "習練",
+      "kana": "しゅうれん",
+      "gloss": "practice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        177277,
+        105998
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "習": 3
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842149/演練/えんれん": {
+      "id": 2842149,
+      "form": "演練",
+      "kana": "えんれん",
+      "gloss": "drill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        125270,
+        220643
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "演": 5
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2825450/練度/れんど": {
+      "id": 2825450,
+      "form": "練度",
+      "kana": "れんど",
+      "gloss": "skill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26144,
+        null,
+        27614
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "度": 3
+      },
+      "matched": {
+        "レン": {
+          "actual": "れん",
+          "dictionary": [
+            "レン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840892/策を練る/さくをねる": {
+      "id": 2840892,
+      "form": "策を練る",
+      "kana": "さくをねる",
+      "gloss": "to plan one's next moves",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        27127
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "策": 6
+      },
+      "matched": {
+        "ねる": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1889770/想を練る/そうをねる": {
+      "id": 1889770,
+      "form": "想を練る",
+      "kana": "そうをねる",
+      "gloss": "to turn (a matter) over in one's mind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        207025
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "想": 3
+      },
+      "matched": {
+        "ねる": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1906990/武を練る/ぶをねる": {
+      "id": 1906990,
+      "form": "武を練る",
+      "kana": "ぶをねる",
+      "gloss": "to train oneself in military arts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        240798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "ねる": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2866159/練り切り/ねりきり": {
+      "id": 2866159,
+      "form": "練り切り",
+      "kana": "ねりきり",
+      "gloss": "nerikiri",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45909,
+        null,
+        112967
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1559110/練り合わせる/ねりあわせる": {
+      "id": 1559110,
+      "form": "練り合わせる",
+      "kana": "ねりあわせる",
+      "gloss": "to knead together",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53060,
+        null,
+        82916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2678150/練り餌/ねりえ": {
+      "id": 2678150,
+      "form": "練り餌",
+      "kana": "ねりえ",
+      "gloss": "paste bird feed",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50117,
+        null,
+        147089
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "餌": 7
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2115560/練り香/ねりこう": {
+      "id": 2115560,
+      "form": "練り香",
+      "kana": "ねりこう",
+      "gloss": "(incense) pastille",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        124621
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "香": 4
+      },
+      "matched": {
+        "ねり": {
+          "actual": "ね",
+          "dictionary": [
+            "ね.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1247470:訓練:くんれん",
+      "form": "訓練",
+      "kana": "くんれん",
+      "cue": "training; drill",
+      "ids": [
+        1247470
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3117,
+        "shiberu": 2262,
+        "tubelex": 2575,
+        "wordfreq": 1974
+      },
+      "alternatives_by_kanji": {
+        "練": [
+          "1559160/練習/れんしゅう",
+          "1312590/試練/しれん",
+          "1559140/練る/ねる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1559160:練習:れんしゅう",
+      "form": "練習",
+      "kana": "れんしゅう",
+      "cue": "practice; training",
+      "ids": [
+        1559160
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1165,
+        "shiberu": 1972,
+        "tubelex": 719,
+        "wordfreq": 1377
+      },
+      "alternatives_by_kanji": {
+        "習": [
+          "1333090/習慣/しゅうかん",
+          "1333070/習う/ならう",
+          "1594750/習得/しゅうとく"
+        ],
+        "練": [
+          "1312590/試練/しれん",
+          "1559140/練る/ねる",
+          "1337930/熟練/じゅくれん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 33
+}

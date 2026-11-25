@@ -1,0 +1,1304 @@
+{
+  "character": "滞",
+  "grade": 7,
+  "meanings": [
+    "stagnate",
+    "be delayed",
+    "overdue",
+    "arrears"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "巾",
+    "汁",
+    "冖"
+  ],
+  "on": [
+    "タイ",
+    "テイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "とどこお.る",
+      "stem": "とどこお",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "滞",
+    "heading": "滞（滯）",
+    "readings": [
+      "タイ",
+      "とどこおる"
+    ],
+    "examples_by_reading": [
+      [
+        "滞在",
+        "滞貨",
+        "沈滞"
+      ],
+      [
+        "滞る"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "滞",
+      "reading": "タイ",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "タイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 56,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1410930/滞在/たいざい",
+        "1431750/沈滞/ちんたい",
+        "1661000/滞貨/たいか",
+        "1335570/渋滞/じゅうたい",
+        "1435010/停滞/ていたい",
+        "1410940/滞納/たいのう",
+        "1661070/滞留/たいりゅう",
+        "1176490/延滞/えんたい",
+        "1422080/遅滞/ちたい",
+        "1661040/滞空/たいくう"
+      ]
+    },
+    {
+      "reading": "とどこおる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1410920/滞る/とどこおる"
+      ]
+    },
+    {
+      "reading": "テイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1410930/滞在/たいざい",
+    "1410920/滞る/とどこおる",
+    "1431750/沈滞/ちんたい",
+    "1661000/滞貨/たいか",
+    "1335570/渋滞/じゅうたい",
+    "1435010/停滞/ていたい",
+    "1410940/滞納/たいのう",
+    "1661070/滞留/たいりゅう",
+    "1176490/延滞/えんたい",
+    "1422080/遅滞/ちたい",
+    "1661040/滞空/たいくう",
+    "1596765/滞日/たいにち",
+    "1588290/鬱滞/うったい",
+    "1753770/滞陣/たいじん",
+    "1619530/滞京/たいきょう",
+    "1753740/滞米/たいべい",
+    "1854300/滞欧/たいおう",
+    "1753700/滞在中/たいざいちゅう",
+    "2839296/長期滞在/ちょうきたいざい",
+    "1941840/滞在期間/たいざいきかん",
+    "2853431/大渋滞/だいじゅうたい",
+    "1941830/滞空時間/たいくうじかん",
+    "1753730/滞在費/たいざいひ",
+    "2160440/不法滞在/ふほうたいざい",
+    "1760790/交通渋滞/こうつうじゅうたい",
+    "2160450/不法滞在者/ふほうたいざいしゃ",
+    "2849226/遅滞なく/ちたいなく",
+    "2838782/家賃滞納/やちんたいのう",
+    "2842557/延滞料金/えんたいりょうきん",
+    "1753600/延滞金/えんたいきん"
+  ],
+  "candidates": {
+    "1410930/滞在/たいざい": {
+      "id": 1410930,
+      "form": "滞在",
+      "kana": "たいざい",
+      "gloss": "stay",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2183,
+        4812,
+        3809,
+        6425
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "在": 5
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "タイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1410920/滞る/とどこおる": {
+      "id": 1410920,
+      "form": "滞る",
+      "kana": "とどこおる",
+      "gloss": "to stagnate",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18442,
+        16333,
+        49881,
+        17513
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とどこおる": {
+          "actual": "とどこお",
+          "dictionary": [
+            "とどこお.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "とどこおる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1431750/沈滞/ちんたい": {
+      "id": 1431750,
+      "form": "沈滞",
+      "kana": "ちんたい",
+      "gloss": "stagnation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        39572,
+        81652,
+        94653,
+        91106
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "沈": 7
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "タイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1661000/滞貨/たいか": {
+      "id": 1661000,
+      "form": "滞貨",
+      "kana": "たいか",
+      "gloss": "accumulation of (undelivered) freight",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貨": 4
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "タイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1335570/渋滞/じゅうたい": {
+      "id": 1335570,
+      "form": "渋滞",
+      "kana": "じゅうたい",
+      "gloss": "(traffic) congestion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6980,
+        5872,
+        7391,
+        17602
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "渋": 7
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435010/停滞/ていたい": {
+      "id": 1435010,
+      "form": "停滞",
+      "kana": "ていたい",
+      "gloss": "stagnation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12659,
+        10529,
+        13090,
+        13918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "停": 5
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1410940/滞納/たいのう": {
+      "id": 1410940,
+      "form": "滞納",
+      "kana": "たいのう",
+      "gloss": "falling behind (with a payment)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        19582,
+        16927,
+        21741,
+        40558
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "納": 6
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661070/滞留/たいりゅう": {
+      "id": 1661070,
+      "form": "滞留",
+      "kana": "たいりゅう",
+      "gloss": "stagnation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        29924,
+        29494,
+        44849,
+        48576
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "留": 5
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1176490/延滞/えんたい": {
+      "id": 1176490,
+      "form": "延滞",
+      "kana": "えんたい",
+      "gloss": "arrears",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        36148,
+        28907,
+        34525,
+        75150
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "延": 6
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1422080/遅滞/ちたい": {
+      "id": 1422080,
+      "form": "遅滞",
+      "kana": "ちたい",
+      "gloss": "delay",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41831,
+        39319,
+        55131
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遅": 7
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661040/滞空/たいくう": {
+      "id": 1661040,
+      "form": "滞空",
+      "kana": "たいくう",
+      "gloss": "staying in the air",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39979,
+        59987,
+        44457
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1596765/滞日/たいにち": {
+      "id": 1596765,
+      "form": "滞日",
+      "kana": "たいにち",
+      "gloss": "staying in Japan",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        144865,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1588290/鬱滞/うったい": {
+      "id": 1588290,
+      "form": "鬱滞",
+      "kana": "うったい",
+      "gloss": "congestion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        null,
+        249695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鬱": 7
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753770/滞陣/たいじん": {
+      "id": 1753770,
+      "form": "滞陣",
+      "kana": "たいじん",
+      "gloss": "encampment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        156894
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "陣": 7
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1619530/滞京/たいきょう": {
+      "id": 1619530,
+      "form": "滞京",
+      "kana": "たいきょう",
+      "gloss": "staying in the capital",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        199733
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "京": 2
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753740/滞米/たいべい": {
+      "id": 1753740,
+      "form": "滞米",
+      "kana": "たいべい",
+      "gloss": "staying in the United States",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        197911,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "米": 2
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1854300/滞欧/たいおう": {
+      "id": 1854300,
+      "form": "滞欧",
+      "kana": "たいおう",
+      "gloss": "staying in Europe",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        189078,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "欧": 7
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753700/滞在中/たいざいちゅう": {
+      "id": 1753700,
+      "form": "滞在中",
+      "kana": "たいざいちゅう",
+      "gloss": "during a stay",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28586
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1,
+        "在": 5
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839296/長期滞在/ちょうきたいざい": {
+      "id": 2839296,
+      "form": "長期滞在",
+      "kana": "ちょうきたいざい",
+      "gloss": "long-term stay",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        47202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "在": 5,
+        "長": 2,
+        "期": 3
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1941840/滞在期間/たいざいきかん": {
+      "id": 1941840,
+      "form": "滞在期間",
+      "kana": "たいざいきかん",
+      "gloss": "length of one's stay",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49869
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2,
+        "在": 5,
+        "期": 3
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853431/大渋滞/だいじゅうたい": {
+      "id": 2853431,
+      "form": "大渋滞",
+      "kana": "だいじゅうたい",
+      "gloss": "huge (traffic) congestion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        57268
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "渋": 7,
+        "大": 1
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1941830/滞空時間/たいくうじかん": {
+      "id": 1941830,
+      "form": "滞空時間",
+      "kana": "たいくうじかん",
+      "gloss": "flight duration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        64098
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1,
+        "時": 2,
+        "間": 2
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753730/滞在費/たいざいひ": {
+      "id": 1753730,
+      "form": "滞在費",
+      "kana": "たいざいひ",
+      "gloss": "living expenses (incurred during a short or long stay)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        67936
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "在": 5,
+        "費": 5
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2160440/不法滞在/ふほうたいざい": {
+      "id": 2160440,
+      "form": "不法滞在",
+      "kana": "ふほうたいざい",
+      "gloss": "illegal residence (in a country)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        81408
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "法": 4,
+        "在": 5
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1760790/交通渋滞/こうつうじゅうたい": {
+      "id": 1760790,
+      "form": "交通渋滞",
+      "kana": "こうつうじゅうたい",
+      "gloss": "traffic congestion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        89432
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2,
+        "渋": 7,
+        "通": 2
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2160450/不法滞在者/ふほうたいざいしゃ": {
+      "id": 2160450,
+      "form": "不法滞在者",
+      "kana": "ふほうたいざいしゃ",
+      "gloss": "illegal resident (in a country)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        92050
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "法": 4,
+        "在": 5,
+        "者": 3
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849226/遅滞なく/ちたいなく": {
+      "id": 2849226,
+      "form": "遅滞なく",
+      "kana": "ちたいなく",
+      "gloss": "without delay",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        96649
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遅": 7
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2838782/家賃滞納/やちんたいのう": {
+      "id": 2838782,
+      "form": "家賃滞納",
+      "kana": "やちんたいのう",
+      "gloss": "rent arrears",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        97143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2,
+        "賃": 6,
+        "納": 6
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842557/延滞料金/えんたいりょうきん": {
+      "id": 2842557,
+      "form": "延滞料金",
+      "kana": "えんたいりょうきん",
+      "gloss": "late fee",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        110382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4,
+        "延": 6,
+        "金": 1
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753600/延滞金/えんたいきん": {
+      "id": 1753600,
+      "form": "延滞金",
+      "kana": "えんたいきん",
+      "gloss": "arrears",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        112922
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "延": 6,
+        "金": 1
+      },
+      "matched": {
+        "タイ": {
+          "actual": "たい",
+          "dictionary": [
+            "タイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1335570:渋滞:じゅうたい",
+      "form": "渋滞",
+      "kana": "じゅうたい",
+      "cue": "(traffic) congestion; traffic jam",
+      "ids": [
+        1335570
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 17602,
+        "shiberu": 6980,
+        "tubelex": 5872,
+        "wordfreq": 7391
+      },
+      "alternatives_by_kanji": {
+        "渋": [
+          "1633440/渋/しぶ",
+          "1244490/苦渋/くじゅう",
+          "1335580/渋み/しぶみ"
+        ],
+        "滞": [
+          "1410930/滞在/たいざい",
+          "1410920/滞る/とどこおる",
+          "1431750/沈滞/ちんたい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1410930:滞在:たいざい",
+      "form": "滞在",
+      "kana": "たいざい",
+      "cue": "stay; sojourn",
+      "ids": [
+        1410930
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6425,
+        "shiberu": 2183,
+        "tubelex": 4812,
+        "wordfreq": 3809
+      },
+      "alternatives_by_kanji": {
+        "在": [
+          "1406150/存在/そんざい",
+          "1296540/在宅/ざいたく",
+          "1296620/在留/ざいりゅう"
+        ],
+        "滞": [
+          "1410920/滞る/とどこおる",
+          "1431750/沈滞/ちんたい",
+          "1661000/滞貨/たいか"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

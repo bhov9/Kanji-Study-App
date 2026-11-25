@@ -1,0 +1,134 @@
+{
+  "character": "朕",
+  "grade": 7,
+  "meanings": [
+    "majestic plural",
+    "imperial we"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 74
+    },
+    {
+      "type": "nelson_c",
+      "value": 130
+    }
+  ],
+  "components": [
+    "月",
+    "人",
+    "大",
+    "一",
+    "并"
+  ],
+  "on": [
+    "チン"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "朕",
+    "heading": "朕",
+    "readings": [
+      "チン"
+    ],
+    "examples_by_reading": [
+      []
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "朕",
+      "reading": "チン",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1431650/朕/ちん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1431650/朕/ちん"
+  ],
+  "candidates": {
+    "1431650/朕/ちん": {
+      "id": 1431650,
+      "form": "朕",
+      "kana": "ちん",
+      "gloss": "We",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "pn"
+      ],
+      "flags": [
+        "dated"
+      ],
+      "ranks": [
+        15978,
+        53060,
+        40209,
+        54937
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チン": {
+          "actual": "ちん",
+          "dictionary": [
+            "チン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1431650:朕:ちん",
+      "form": "朕",
+      "kana": "ちん",
+      "cue": "We (first person pronoun used by the Emperor)",
+      "ids": [
+        1431650
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "dated"
+      ],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 54937,
+        "shiberu": 15978,
+        "tubelex": 53060,
+        "wordfreq": 40209
+      },
+      "alternatives_by_kanji": {
+        "朕": []
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

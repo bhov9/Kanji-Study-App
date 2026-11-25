@@ -1,0 +1,1281 @@
+{
+  "character": "例",
+  "grade": 4,
+  "meanings": [
+    "example",
+    "custom",
+    "usage",
+    "precedent"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "刈",
+    "歹"
+  ],
+  "on": [
+    "レイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たと.える",
+      "stem": "たと",
+      "okurigana": "える"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "例",
+    "heading": "例",
+    "readings": [
+      "レイ",
+      "たとえる"
+    ],
+    "examples_by_reading": [
+      [
+        "例外",
+        "例年",
+        "用例"
+      ],
+      [
+        "例える",
+        "例え",
+        "例えば"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "例",
+      "reading": "レイ",
+      "source": "table_42_re.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "レイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 139,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1556410/例外/れいがい",
+        "1556570/例年/れいねん",
+        "1546440/用例/ようれい",
+        "1314540/事例/じれい",
+        "1483700/比例/ひれい",
+        "1356610/条例/じょうれい",
+        "1158140/異例/いれい",
+        "1278800/恒例/こうれい",
+        "1433590/通例/つうれい",
+        "1394190/前例/ぜんれい"
+      ]
+    },
+    {
+      "reading": "たとえる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 3,
+      "current_support": false,
+      "candidates": [
+        "1556370/例えば/たとえば",
+        "1597130/例える/たとえる",
+        "1597120/例え/たとえ",
+        "2131270/例えるなら/たとえるなら"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1556370/例えば/たとえば",
+    "1556410/例外/れいがい",
+    "1597130/例える/たとえる",
+    "1597120/例え/たとえ",
+    "1556570/例年/れいねん",
+    "1546440/用例/ようれい",
+    "1314540/事例/じれい",
+    "1483700/比例/ひれい",
+    "1356610/条例/じょうれい",
+    "1158140/異例/いれい",
+    "1278800/恒例/こうれい",
+    "1433590/通例/つうれい",
+    "1394190/前例/ぜんれい",
+    "1321560/実例/じつれい",
+    "1435800/定例/ていれい",
+    "1707110/症例/しょうれい",
+    "1478740/判例/はんれい",
+    "1556590/例文/れいぶん",
+    "1212750/慣例/かんれい",
+    "1556510/例示/れいじ",
+    "1556550/例題/れいだい",
+    "1388710/先例/せんれい",
+    "1298020/作例/さくれい",
+    "1255900/月例/げつれい",
+    "1277800/好例/こうれい",
+    "1739180/類例/るいれい",
+    "1523690/凡例/はんれい",
+    "1556530/例証/れいしょう",
+    "1435800/定例/じょうれい",
+    "1455380/特例/とくれい"
+  ],
+  "candidates": {
+    "1556370/例えば/たとえば": {
+      "id": 1556370,
+      "form": "例えば",
+      "kana": "たとえば",
+      "gloss": "for example",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        1780,
+        237,
+        1377,
+        1367
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たとえる": {
+          "actual": "たと",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "たとえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1556410/例外/れいがい": {
+      "id": 1556410,
+      "form": "例外",
+      "kana": "れいがい",
+      "gloss": "exception",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4030,
+        6143,
+        4955,
+        4008
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "レイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1597130/例える/たとえる": {
+      "id": 1597130,
+      "form": "例える",
+      "kana": "たとえる",
+      "gloss": "to compare (something) to",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11440,
+        5314,
+        13462,
+        10491
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たとえる": {
+          "actual": "たと",
+          "dictionary": [
+            "たと.える"
+          ]
+        }
+      },
+      "official_examples": [
+        "たとえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1597120/例え/たとえ": {
+      "id": 1597120,
+      "form": "例え",
+      "kana": "たとえ",
+      "gloss": "example",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23543,
+        9930,
+        6169,
+        6581
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たとえる": {
+          "actual": "たと",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "たとえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1556570/例年/れいねん": {
+      "id": 1556570,
+      "form": "例年",
+      "kana": "れいねん",
+      "gloss": "average (normal, ordinary) year",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        8732,
+        10959,
+        13090,
+        16423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "レイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1546440/用例/ようれい": {
+      "id": 1546440,
+      "form": "用例",
+      "kana": "ようれい",
+      "gloss": "example",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14503,
+        41067,
+        39764,
+        97311
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "レイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1314540/事例/じれい": {
+      "id": 1314540,
+      "form": "事例",
+      "kana": "じれい",
+      "gloss": "example",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        7259,
+        3110,
+        4261,
+        13941
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1483700/比例/ひれい": {
+      "id": 1483700,
+      "form": "比例",
+      "kana": "ひれい",
+      "gloss": "proportion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6280,
+        6314,
+        7265,
+        12294
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "比": 5
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1356610/条例/じょうれい": {
+      "id": 1356610,
+      "form": "条例",
+      "kana": "じょうれい",
+      "gloss": "regulations",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13351,
+        6154,
+        7013,
+        33093
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "条": 5
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1158140/異例/いれい": {
+      "id": 1158140,
+      "form": "異例",
+      "kana": "いれい",
+      "gloss": "exceptional",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8004,
+        11302,
+        11030,
+        16320
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "異": 6
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1278800/恒例/こうれい": {
+      "id": 1278800,
+      "form": "恒例",
+      "kana": "こうれい",
+      "gloss": "established practice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27646,
+        7933,
+        8169,
+        10800
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恒": 7
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1433590/通例/つうれい": {
+      "id": 1433590,
+      "form": "通例",
+      "kana": "つうれい",
+      "gloss": "custom",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4692,
+        32292,
+        27016,
+        29354
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1394190/前例/ぜんれい": {
+      "id": 1394190,
+      "form": "前例",
+      "kana": "ぜんれい",
+      "gloss": "precedent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10677,
+        13983,
+        14533,
+        12806
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1321560/実例/じつれい": {
+      "id": 1321560,
+      "form": "実例",
+      "kana": "じつれい",
+      "gloss": "example",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9288,
+        18214,
+        16272,
+        29078
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435800/定例/ていれい": {
+      "id": 1435800,
+      "form": "定例",
+      "kana": "ていれい",
+      "gloss": "regular",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        23945,
+        9122,
+        17251,
+        26786
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1707110/症例/しょうれい": {
+      "id": 1707110,
+      "form": "症例",
+      "kana": "しょうれい",
+      "gloss": "case",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29890,
+        11338,
+        19596,
+        30038
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "症": 7
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1478740/判例/はんれい": {
+      "id": 1478740,
+      "form": "判例",
+      "kana": "はんれい",
+      "gloss": "judicial precedent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23239,
+        18950,
+        13682,
+        58055
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "判": 5
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1556590/例文/れいぶん": {
+      "id": 1556590,
+      "form": "例文",
+      "kana": "れいぶん",
+      "gloss": "example sentence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34920,
+        12467,
+        24154,
+        57369
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1212750/慣例/かんれい": {
+      "id": 1212750,
+      "form": "慣例",
+      "kana": "かんれい",
+      "gloss": "custom",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18081,
+        28755,
+        22590,
+        28522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慣": 5
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1556510/例示/れいじ": {
+      "id": 1556510,
+      "form": "例示",
+      "kana": "れいじ",
+      "gloss": "exemplification",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13669,
+        26689,
+        32185,
+        100082
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "示": 5
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1556550/例題/れいだい": {
+      "id": 1556550,
+      "form": "例題",
+      "kana": "れいだい",
+      "gloss": "example",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30558,
+        15912,
+        44849,
+        63066
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "題": 3
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1388710/先例/せんれい": {
+      "id": 1388710,
+      "form": "先例",
+      "kana": "せんれい",
+      "gloss": "precedent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23380,
+        38018,
+        32185,
+        59345
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "先": 1
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1298020/作例/さくれい": {
+      "id": 1298020,
+      "form": "作例",
+      "kana": "さくれい",
+      "gloss": "model of writing",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32365,
+        24811,
+        41163,
+        139598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1255900/月例/げつれい": {
+      "id": 1255900,
+      "form": "月例",
+      "kana": "げつれい",
+      "gloss": "monthly",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        21311,
+        43098,
+        43420,
+        95028
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1277800/好例/こうれい": {
+      "id": 1277800,
+      "form": "好例",
+      "kana": "こうれい",
+      "gloss": "good example",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33187,
+        53060,
+        41163,
+        71154
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "好": 4
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1739180/類例/るいれい": {
+      "id": 1739180,
+      "form": "類例",
+      "kana": "るいれい",
+      "gloss": "similar instance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19579,
+        89646,
+        84816,
+        86766
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "類": 4
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1523690/凡例/はんれい": {
+      "id": 1523690,
+      "form": "凡例",
+      "kana": "はんれい",
+      "gloss": "explanatory notes (at the start of a book)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36788,
+        42221,
+        77181,
+        137676
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "凡": 7
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1556530/例証/れいしょう": {
+      "id": 1556530,
+      "form": "例証",
+      "kana": "れいしょう",
+      "gloss": "exemplification",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25727,
+        173792,
+        75713,
+        116496
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "証": 5
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435800/定例/じょうれい": {
+      "id": 1435800,
+      "form": "定例",
+      "kana": "じょうれい",
+      "gloss": "regular",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        23945,
+        9122,
+        17251,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1455380/特例/とくれい": {
+      "id": 1455380,
+      "form": "特例",
+      "kana": "とくれい",
+      "gloss": "special case",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        12085,
+        14745,
+        17782
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "特": 4
+      },
+      "matched": {
+        "レイ": {
+          "actual": "れい",
+          "dictionary": [
+            "レイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2131270/例えるなら/たとえるなら": {
+      "id": 2131270,
+      "form": "例えるなら",
+      "kana": "たとえるなら",
+      "gloss": "for example",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17273
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たとえる": {
+          "actual": "たと",
+          "dictionary": [
+            "たと.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1158140:異例:いれい",
+      "form": "異例",
+      "kana": "いれい",
+      "cue": "exceptional; unusual",
+      "ids": [
+        1158140
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 16320,
+        "shiberu": 8004,
+        "tubelex": 11302,
+        "wordfreq": 11030
+      },
+      "alternatives_by_kanji": {
+        "例": [
+          "1556370/例えば/たとえば",
+          "1556410/例外/れいがい",
+          "1597130/例える/たとえる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1585230:例:れい",
+      "form": "例",
+      "kana": "れい",
+      "cue": "example; instance",
+      "ids": [
+        1585230
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4695,
+        "shiberu": 256,
+        "tubelex": 801,
+        "wordfreq": 952
+      },
+      "alternatives_by_kanji": {
+        "例": [
+          "1556370/例えば/たとえば",
+          "1556410/例外/れいがい",
+          "1597130/例える/たとえる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 11
+}

@@ -1,0 +1,1937 @@
+{
+  "character": "建",
+  "grade": 4,
+  "meanings": [
+    "build"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 54
+    }
+  ],
+  "components": [
+    "廴",
+    "聿"
+  ],
+  "on": [
+    "ケン",
+    "コン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "た.てる",
+      "stem": "た",
+      "okurigana": "てる"
+    },
+    {
+      "sourceNotation": "た.て",
+      "stem": "た",
+      "okurigana": "て"
+    },
+    {
+      "sourceNotation": "-だ.て",
+      "stem": "-だ",
+      "okurigana": "て"
+    },
+    {
+      "sourceNotation": "た.つ",
+      "stem": "た",
+      "okurigana": "つ"
+    }
+  ],
+  "nanori": [
+    "たけ",
+    "たつ",
+    "たて"
+  ],
+  "government": {
+    "kanji": "建",
+    "heading": "建",
+    "readings": [
+      "ケン",
+      "コン",
+      "たてる",
+      "たつ"
+    ],
+    "examples_by_reading": [
+      [
+        "建築",
+        "建議",
+        "封建的"
+      ],
+      [
+        "建立"
+      ],
+      [
+        "建てる",
+        "建物",
+        "二階建て"
+      ],
+      [
+        "建つ",
+        "一戸建ち"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "",
+      "⇔立てる",
+      "⇔立つ"
+    ],
+    "representative_index": {
+      "kanji": "建",
+      "reading": "ケン",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ケン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 144,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1257500/建築/けんちく",
+        "1257360/建議/けんぎ",
+        "1257550/建立/けんりつ",
+        "1611510/封建的/ほうけんてき",
+        "1257420/建設/けんせつ",
+        "1257480/建造/けんぞう",
+        "1257380/建国/けんこく",
+        "1499620/封建/ほうけん",
+        "1257400/建材/けんざい",
+        "1398370/創建/そうけん"
+      ]
+    },
+    {
+      "reading": "コン",
+      "official": true,
+      "stage": "senior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1257550/建立/こんりゅう",
+        "1292600/再建/さいこん"
+      ]
+    },
+    {
+      "reading": "たてる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1257540/建物/たてもの"
+      ]
+    },
+    {
+      "reading": "たつ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1597045/建つ/たつ",
+        "2142010/口では大阪の城も建つ/くちではおおさかのしろもたつ",
+        "2142010/口では大坂の城も建つ/くちではおおさかのしろもたつ",
+        "2862433/商人は損していつか倉が建つ/あきんどはそんしていつかくらがたつ"
+      ]
+    },
+    {
+      "reading": "たて",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 20,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2581570/建て替え/たてかえ",
+        "1891610/建て直し/たてなおし",
+        "1597110/建て前/たてまえ",
+        "1846550/建て直す/たてなおす",
+        "1846560/建て替える/たてかえる",
+        "1714300/建て増し/たてまし",
+        "1837680/建てつけ/たてつけ",
+        "1257350/建て増す/たてます",
+        "1837680/建て付け/たてつけ",
+        "1714230/建て売り/たてうり"
+      ]
+    },
+    {
+      "reading": "だて",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 19,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1599800/二階建て/にかいだて",
+        "2116120/戸建て/こだて",
+        "1175790/円建て/えんだて",
+        "1162320/一戸建て/いっこだて",
+        "1810500/両建て/りょうだて",
+        "2851940/買い建て/かいだて",
+        "2081140/階建て/かいだて",
+        "1599800/２階建て/にかいだて",
+        "2609780/建て/だて",
+        "2727450/平屋建て/ひらやだて"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1257540/建物/たてもの",
+    "1257500/建築/けんちく",
+    "1257550/建立/こんりゅう",
+    "1257360/建議/けんぎ",
+    "1597045/建つ/たつ",
+    "1257550/建立/けんりつ",
+    "1599800/二階建て/にかいだて",
+    "1611510/封建的/ほうけんてき",
+    "1257420/建設/けんせつ",
+    "1257480/建造/けんぞう",
+    "1257380/建国/けんこく",
+    "1499620/封建/ほうけん",
+    "1257400/建材/けんざい",
+    "1398370/創建/そうけん",
+    "2785370/土建/どけん",
+    "1257520/建白/けんぱく",
+    "2581570/建て替え/たてかえ",
+    "2116120/戸建て/こだて",
+    "1891610/建て直し/たてなおし",
+    "1597110/建て前/たてまえ",
+    "2091360/建武/けんむ",
+    "2855365/福建/ふっけん",
+    "1846550/建て直す/たてなおす",
+    "2090890/建久/けんきゅう",
+    "1846560/建て替える/たてかえる",
+    "1175790/円建て/えんだて",
+    "1714300/建て増し/たてまし",
+    "1592670/建言/けんげん",
+    "2261970/建水/けんすい",
+    "2091180/建治/けんじ"
+  ],
+  "candidates": {
+    "1257540/建物/たてもの": {
+      "id": 1257540,
+      "form": "建物",
+      "kana": "たてもの",
+      "gloss": "building",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1609,
+        1237,
+        1626,
+        1832
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "たてる": {
+          "actual": "たて",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "たてる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1257500/建築/けんちく": {
+      "id": 1257500,
+      "form": "建築",
+      "kana": "けんちく",
+      "gloss": "construction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2062,
+        1974,
+        2190,
+        11223
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "築": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1257550/建立/こんりゅう": {
+      "id": 1257550,
+      "form": "建立",
+      "kana": "こんりゅう",
+      "gloss": "(act of) building (temple, monument, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9822,
+        16359,
+        20890,
+        42053
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [
+        "コン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1257360/建議/けんぎ": {
+      "id": 1257360,
+      "form": "建議",
+      "kana": "けんぎ",
+      "gloss": "proposition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        32181,
+        63933,
+        91294,
+        147875
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "議": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1597045/建つ/たつ": {
+      "id": 1597045,
+      "form": "建つ",
+      "kana": "たつ",
+      "gloss": "to be erected",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5499,
+        null,
+        18234,
+        6806
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [
+        "たつ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1257550/建立/けんりつ": {
+      "id": 1257550,
+      "form": "建立",
+      "kana": "けんりつ",
+      "gloss": "(act of) building (temple, monument, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9822,
+        16359,
+        20890,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "コン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1599800/二階建て/にかいだて": {
+      "id": 1599800,
+      "form": "二階建て",
+      "kana": "にかいだて",
+      "gloss": "two-storied building",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        22180
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "二": 1,
+        "階": 3
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [
+        "たてる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1611510/封建的/ほうけんてき": {
+      "id": 1611510,
+      "form": "封建的",
+      "kana": "ほうけんてき",
+      "gloss": "feudal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        81058
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "封": 7,
+        "的": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1257420/建設/けんせつ": {
+      "id": 1257420,
+      "form": "建設",
+      "kana": "けんせつ",
+      "gloss": "construction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1856,
+        1943,
+        2148,
+        7707
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "設": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1257480/建造/けんぞう": {
+      "id": 1257480,
+      "form": "建造",
+      "kana": "けんぞう",
+      "gloss": "building",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6852,
+        7494,
+        7753,
+        20657
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "造": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1257380/建国/けんこく": {
+      "id": 1257380,
+      "form": "建国",
+      "kana": "けんこく",
+      "gloss": "founding of a nation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14208,
+        14853,
+        17251,
+        24330
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1499620/封建/ほうけん": {
+      "id": 1499620,
+      "form": "封建",
+      "kana": "ほうけん",
+      "gloss": "feudalism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        7459,
+        33040,
+        25402,
+        97299
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "封": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1257400/建材/けんざい": {
+      "id": 1257400,
+      "form": "建材",
+      "kana": "けんざい",
+      "gloss": "building material",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31532,
+        17681,
+        25763,
+        34908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "材": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1398370/創建/そうけん": {
+      "id": 1398370,
+      "form": "創建",
+      "kana": "そうけん",
+      "gloss": "establishment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27910,
+        21370,
+        27016,
+        76292
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "創": 6
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2785370/土建/どけん": {
+      "id": 2785370,
+      "form": "土建",
+      "kana": "どけん",
+      "gloss": "civil engineering and construction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34655,
+        48827,
+        40209,
+        100048
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "土": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1257520/建白/けんぱく": {
+      "id": 1257520,
+      "form": "建白",
+      "kana": "けんぱく",
+      "gloss": "petition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32298,
+        70964,
+        121853,
+        145332
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2581570/建て替え/たてかえ": {
+      "id": 2581570,
+      "form": "建て替え",
+      "kana": "たてかえ",
+      "gloss": "rebuilding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19173,
+        19040,
+        57606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "替": 7
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2116120/戸建て/こだて": {
+      "id": 2116120,
+      "form": "戸建て",
+      "kana": "こだて",
+      "gloss": "(separate) house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        16820,
+        47810,
+        72668
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戸": 2
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1891610/建て直し/たてなおし": {
+      "id": 1891610,
+      "form": "建て直し",
+      "kana": "たてなおし",
+      "gloss": "re-erection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26421,
+        null,
+        32914,
+        53195
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597110/建て前/たてまえ": {
+      "id": 1597110,
+      "form": "建て前",
+      "kana": "たてまえ",
+      "gloss": "face",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        18615,
+        95507,
+        39892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2091360/建武/けんむ": {
+      "id": 2091360,
+      "form": "建武",
+      "kana": "けんむ",
+      "gloss": "Kenmu era (of unified Japan; 1334.1.29-1336.2.29)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18675,
+        63933,
+        null,
+        130782
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855365/福建/ふっけん": {
+      "id": 2855365,
+      "form": "福建",
+      "kana": "ふっけん",
+      "gloss": "Fujian",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23522,
+        null,
+        42493,
+        130229
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "福": 3
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1846550/建て直す/たてなおす": {
+      "id": 1846550,
+      "form": "建て直す",
+      "kana": "たてなおす",
+      "gloss": "to rebuild",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23908,
+        null,
+        70783,
+        27023
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2090890/建久/けんきゅう": {
+      "id": 2090890,
+      "form": "建久",
+      "kana": "けんきゅう",
+      "gloss": "Kenkyū era (1190.4.11-1199.4.27)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19282,
+        101749,
+        null,
+        193284
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "久": 5
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1846560/建て替える/たてかえる": {
+      "id": 1846560,
+      "form": "建て替える",
+      "kana": "たてかえる",
+      "gloss": "to rebuild",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25818,
+        74212,
+        44013
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "替": 7
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1175790/円建て/えんだて": {
+      "id": 1175790,
+      "form": "円建て",
+      "kana": "えんだて",
+      "gloss": "yen basis (for trade, exchange, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        64314,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "円": 1
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714300/建て増し/たてまし": {
+      "id": 1714300,
+      "form": "建て増し",
+      "kana": "たてまし",
+      "gloss": "building addition or extension",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47007,
+        119612,
+        111062
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "増": 5
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592670/建言/けんげん": {
+      "id": 1592670,
+      "form": "建言",
+      "kana": "けんげん",
+      "gloss": "offering an opinion (to a superior, the government, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        170790,
+        174319
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2261970/建水/けんすい": {
+      "id": 2261970,
+      "form": "建水",
+      "kana": "けんすい",
+      "gloss": "waste-water container (tea ceremony)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        139652,
+        224819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2091180/建治/けんじ": {
+      "id": 2091180,
+      "form": "建治",
+      "kana": "けんじ",
+      "gloss": "Kenji era (1275.4.25-1278.2.29)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        143561,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "治": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1292600/再建/さいこん": {
+      "id": 1292600,
+      "form": "再建",
+      "kana": "さいこん",
+      "gloss": "(temple or shrine) rebuilding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "再": 5
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2142010/口では大阪の城も建つ/くちではおおさかのしろもたつ": {
+      "id": 2142010,
+      "form": "口では大阪の城も建つ",
+      "kana": "くちではおおさかのしろもたつ",
+      "gloss": "talk is cheap",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "口": 1,
+        "阪": 4,
+        "城": 4,
+        "大": 1
+      },
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2142010/口では大坂の城も建つ/くちではおおさかのしろもたつ": {
+      "id": 2142010,
+      "form": "口では大坂の城も建つ",
+      "kana": "くちではおおさかのしろもたつ",
+      "gloss": "talk is cheap",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "口": 1,
+        "坂": 3,
+        "城": 4,
+        "大": 1
+      },
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862433/商人は損していつか倉が建つ/あきんどはそんしていつかくらがたつ": {
+      "id": 2862433,
+      "form": "商人は損していつか倉が建つ",
+      "kana": "あきんどはそんしていつかくらがたつ",
+      "gloss": "a merchant claims to suffer losses but eventually amasses a fortune",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "倉": 4,
+        "人": 1,
+        "損": 5,
+        "商": 3
+      },
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1837680/建てつけ/たてつけ": {
+      "id": 1837680,
+      "form": "建てつけ",
+      "kana": "たてつけ",
+      "gloss": "fitting (e.g. door, window)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        31271,
+        null,
+        null,
+        84574
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1257350/建て増す/たてます": {
+      "id": 1257350,
+      "form": "建て増す",
+      "kana": "たてます",
+      "gloss": "to extend (building)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37110,
+        null,
+        88485
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "増": 5
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1837680/建て付け/たてつけ": {
+      "id": 1837680,
+      "form": "建て付け",
+      "kana": "たてつけ",
+      "gloss": "fitting (e.g. door, window)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39286,
+        null,
+        75939
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714230/建て売り/たてうり": {
+      "id": 1714230,
+      "form": "建て売り",
+      "kana": "たてうり",
+      "gloss": "constructing and selling a ready-built house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39641,
+        null,
+        124713
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "売": 2
+      },
+      "matched": {
+        "たて": {
+          "actual": "た",
+          "dictionary": [
+            "た.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1162320/一戸建て/いっこだて": {
+      "id": 1162320,
+      "form": "一戸建て",
+      "kana": "いっこだて",
+      "gloss": "detached house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        33710,
+        37364
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戸": 2,
+        "一": 1
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1810500/両建て/りょうだて": {
+      "id": 1810500,
+      "form": "両建て",
+      "kana": "りょうだて",
+      "gloss": "straddling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        null,
+        249018
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "両": 3
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851940/買い建て/かいだて": {
+      "id": 2851940,
+      "form": "買い建て",
+      "kana": "かいだて",
+      "gloss": "buy contract",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "買": 2
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2081140/階建て/かいだて": {
+      "id": 2081140,
+      "form": "階建て",
+      "kana": "かいだて",
+      "gloss": "n-storied building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        14392
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "階": 3
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1599800/２階建て/にかいだて": {
+      "id": 1599800,
+      "form": "２階建て",
+      "kana": "にかいだて",
+      "gloss": "two-storied building",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        53372
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "階": 3
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2609780/建て/だて": {
+      "id": 2609780,
+      "form": "建て",
+      "kana": "だて",
+      "gloss": "indicates storeys, structures, or materials used in a building",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        58743
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2727450/平屋建て/ひらやだて": {
+      "id": 2727450,
+      "form": "平屋建て",
+      "kana": "ひらやだて",
+      "gloss": "single-storied house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75012
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3,
+        "屋": 3
+      },
+      "matched": {
+        "だて": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.て"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1257420:建設:けんせつ",
+      "form": "建設",
+      "kana": "けんせつ",
+      "cue": "construction; establishment",
+      "ids": [
+        1257420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7707,
+        "shiberu": 1856,
+        "tubelex": 1943,
+        "wordfreq": 2148
+      },
+      "alternatives_by_kanji": {
+        "建": [
+          "1257540/建物/たてもの",
+          "1257500/建築/けんちく",
+          "1257550/建立/こんりゅう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1257500:建築:けんちく",
+      "form": "建築",
+      "kana": "けんちく",
+      "cue": "construction; architecture (of buildings)",
+      "ids": [
+        1257500
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 11223,
+        "shiberu": 2062,
+        "tubelex": 1974,
+        "wordfreq": 2190
+      },
+      "alternatives_by_kanji": {
+        "建": [
+          "1257540/建物/たてもの",
+          "1257550/建立/こんりゅう",
+          "1257360/建議/けんぎ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1257540:建物:たてもの",
+      "form": "建物",
+      "kana": "たてもの",
+      "cue": "building",
+      "ids": [
+        1257540
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1832,
+        "shiberu": 1609,
+        "tubelex": 1237,
+        "wordfreq": 1626
+      },
+      "alternatives_by_kanji": {
+        "物": [
+          "1451470/動物/どうぶつ",
+          "1369070/人物/じんぶつ",
+          "1502480/物語/ものがたり"
+        ],
+        "建": [
+          "1257500/建築/けんちく",
+          "1257550/建立/こんりゅう",
+          "1257360/建議/けんぎ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 67
+}

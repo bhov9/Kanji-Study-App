@@ -1,0 +1,1455 @@
+{
+  "character": "技",
+  "grade": 5,
+  "meanings": [
+    "skill",
+    "art",
+    "craft",
+    "ability",
+    "feat",
+    "performance",
+    "vocation",
+    "arts"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "支",
+    "扎",
+    "又",
+    "十"
+  ],
+  "on": [
+    "ギ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "わざ",
+      "stem": "わざ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "技",
+    "heading": "技",
+    "readings": [
+      "ギ",
+      "わざ"
+    ],
+    "examples_by_reading": [
+      [
+        "技術",
+        "技師",
+        "特技"
+      ],
+      [
+        "技"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔業"
+    ],
+    "representative_index": {
+      "kanji": "技",
+      "reading": "ギ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ギ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 261,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1225130/技術/ぎじゅつ",
+        "1225110/技師/ぎし",
+        "1454740/特技/とくぎ",
+        "1225090/技/ぎ",
+        "1234080/競技/きょうぎ",
+        "1176820/演技/えんぎ",
+        "1225230/技能/ぎのう",
+        "1225240/技法/ぎほう",
+        "1225250/技量/ぎりょう",
+        "1225100/技巧/ぎこう"
+      ]
+    },
+    {
+      "reading": "わざ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 40,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1225090/技/わざ",
+        "1663740/大技/おおわざ",
+        "1792860/寝技/ねわざ",
+        "2462370/絞め技/しめわざ",
+        "1550240/裏技/うらわざ",
+        "2414790/小技/こわざ",
+        "1857410/合わせ技/あわせわざ",
+        "1692590/投げ技/なげわざ",
+        "1291840/座技/すわりわざ",
+        "1608440/早技/はやわざ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1225130/技術/ぎじゅつ",
+    "1225090/技/わざ",
+    "1225110/技師/ぎし",
+    "1454740/特技/とくぎ",
+    "1225090/技/ぎ",
+    "1234080/競技/きょうぎ",
+    "1176820/演技/えんぎ",
+    "1225230/技能/ぎのう",
+    "1225240/技法/ぎほう",
+    "1225250/技量/ぎりょう",
+    "1225100/技巧/ぎこう",
+    "1635340/実技/じつぎ",
+    "1229910/球技/きゅうぎ",
+    "1286300/国技/こくぎ",
+    "1731280/秘技/ひぎ",
+    "1528520/妙技/みょうぎ",
+    "1592040/技芸/ぎげい",
+    "1544030/余技/よぎ",
+    "1498500/武技/ぶぎ",
+    "1225120/技手/ぎしゅ",
+    "1450990/闘技/とうぎ",
+    "2847650/剣技/けんぎ",
+    "1663740/大技/おおわざ",
+    "1826670/遊技/ゆうぎ",
+    "1801110/技工/ぎこう",
+    "1792860/寝技/ねわざ",
+    "1871250/技研/ぎけん",
+    "1225120/技手/ぎて",
+    "2862748/科技/かぎ",
+    "1614590/技官/ぎかん"
+  ],
+  "candidates": {
+    "1225130/技術/ぎじゅつ": {
+      "id": 1225130,
+      "form": "技術",
+      "kana": "ぎじゅつ",
+      "gloss": "technology",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        948,
+        702,
+        493,
+        1856
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "術": 5
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ギ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1225090/技/わざ": {
+      "id": 1225090,
+      "form": "技",
+      "kana": "わざ",
+      "gloss": "technique",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4251,
+        1176,
+        1838,
+        2697
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [
+        "わざ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1225110/技師/ぎし": {
+      "id": 1225110,
+      "form": "技師",
+      "kana": "ぎし",
+      "gloss": "engineer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3985,
+        13640,
+        14745,
+        26012
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "師": 5
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ギ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1454740/特技/とくぎ": {
+      "id": 1454740,
+      "form": "特技",
+      "kana": "とくぎ",
+      "gloss": "special skill",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11271,
+        10959,
+        10032,
+        7811
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "特": 4
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ギ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1225090/技/ぎ": {
+      "id": 1225090,
+      "form": "技",
+      "kana": "ぎ",
+      "gloss": "technique",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4251,
+        1176,
+        1838,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [
+        "わざ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1234080/競技/きょうぎ": {
+      "id": 1234080,
+      "form": "競技",
+      "kana": "きょうぎ",
+      "gloss": "game",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1854,
+        3202,
+        3167,
+        10166
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "競": 4
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1176820/演技/えんぎ": {
+      "id": 1176820,
+      "form": "演技",
+      "kana": "えんぎ",
+      "gloss": "acting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3855,
+        2584,
+        3961,
+        3300
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "演": 5
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1225230/技能/ぎのう": {
+      "id": 1225230,
+      "form": "技能",
+      "kana": "ぎのう",
+      "gloss": "technical skill",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8027,
+        4725,
+        6894,
+        16670
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "能": 5
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1225240/技法/ぎほう": {
+      "id": 1225240,
+      "form": "技法",
+      "kana": "ぎほう",
+      "gloss": "technique",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9777,
+        10157,
+        9454,
+        27781
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1225250/技量/ぎりょう": {
+      "id": 1225250,
+      "form": "技量",
+      "kana": "ぎりょう",
+      "gloss": "ability",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17188,
+        17507,
+        22017,
+        13501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1225100/技巧/ぎこう": {
+      "id": 1225100,
+      "form": "技巧",
+      "kana": "ぎこう",
+      "gloss": "technique",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11638,
+        29810,
+        29477,
+        25864
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巧": 7
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1635340/実技/じつぎ": {
+      "id": 1635340,
+      "form": "実技",
+      "kana": "じつぎ",
+      "gloss": "practical skill",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32980,
+        19173,
+        19040,
+        23525
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1229910/球技/きゅうぎ": {
+      "id": 1229910,
+      "form": "球技",
+      "kana": "きゅうぎ",
+      "gloss": "ball game (e.g. baseball, tennis, soccer)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21369,
+        27052,
+        24154,
+        34825
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "球": 3
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1286300/国技/こくぎ": {
+      "id": 1286300,
+      "form": "国技",
+      "kana": "こくぎ",
+      "gloss": "national sport",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27138,
+        28481,
+        18794,
+        84683
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1731280/秘技/ひぎ": {
+      "id": 1731280,
+      "form": "秘技",
+      "kana": "ひぎ",
+      "gloss": "secret technique",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37481,
+        33853,
+        52075,
+        30272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秘": 6
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1528520/妙技/みょうぎ": {
+      "id": 1528520,
+      "form": "妙技",
+      "kana": "みょうぎ",
+      "gloss": "exquisite skill",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33301,
+        75655,
+        57615,
+        47197
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "妙": 7
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592040/技芸/ぎげい": {
+      "id": 1592040,
+      "form": "技芸",
+      "kana": "ぎげい",
+      "gloss": "arts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32301,
+        65459,
+        80148,
+        87772
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "芸": 4
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1544030/余技/よぎ": {
+      "id": 1544030,
+      "form": "余技",
+      "kana": "よぎ",
+      "gloss": "avocation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26282,
+        139593,
+        164653,
+        96887
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "余": 5
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1498500/武技/ぶぎ": {
+      "id": 1498500,
+      "form": "武技",
+      "kana": "ぶぎ",
+      "gloss": "martial arts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40434,
+        78424,
+        97220,
+        61386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1225120/技手/ぎしゅ": {
+      "id": 1225120,
+      "form": "技手",
+      "kana": "ぎしゅ",
+      "gloss": "assistant engineer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35947,
+        109954,
+        154467,
+        152680
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450990/闘技/とうぎ": {
+      "id": 1450990,
+      "form": "闘技",
+      "kana": "とうぎ",
+      "gloss": "competition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        16889,
+        15390,
+        48686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "闘": 7
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847650/剣技/けんぎ": {
+      "id": 2847650,
+      "form": "剣技",
+      "kana": "けんぎ",
+      "gloss": "sword skills",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10953,
+        65459,
+        null,
+        19874
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "剣": 7
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663740/大技/おおわざ": {
+      "id": 1663740,
+      "form": "大技",
+      "kana": "おおわざ",
+      "gloss": "bold move (in sumo, judo, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19970,
+        44849,
+        23560
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1826670/遊技/ゆうぎ": {
+      "id": 1826670,
+      "form": "遊技",
+      "kana": "ゆうぎ",
+      "gloss": "game",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22860,
+        34111,
+        80792
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遊": 3
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1801110/技工/ぎこう": {
+      "id": 1801110,
+      "form": "技工",
+      "kana": "ぎこう",
+      "gloss": "craft",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        21588,
+        43883,
+        122704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1792860/寝技/ねわざ": {
+      "id": 1792860,
+      "form": "寝技",
+      "kana": "ねわざ",
+      "gloss": "pinning technique (in wrestling or judo)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        27319,
+        45882,
+        46037
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寝": 7
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1871250/技研/ぎけん": {
+      "id": 1871250,
+      "form": "技研",
+      "kana": "ぎけん",
+      "gloss": "technical research institute",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29981,
+        39764,
+        92456
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "研": 3
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1225120/技手/ぎて": {
+      "id": 1225120,
+      "form": "技手",
+      "kana": "ぎて",
+      "gloss": "assistant engineer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35947,
+        109954,
+        154467,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862748/科技/かぎ": {
+      "id": 2862748,
+      "form": "科技",
+      "kana": "かぎ",
+      "gloss": "science and technology",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        55378,
+        155628
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "科": 2
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1614590/技官/ぎかん": {
+      "id": 1614590,
+      "form": "技官",
+      "kana": "ぎかん",
+      "gloss": "technical official",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        76428,
+        81201
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "官": 4
+      },
+      "matched": {
+        "ギ": {
+          "actual": "ぎ",
+          "dictionary": [
+            "ギ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2462370/絞め技/しめわざ": {
+      "id": 2462370,
+      "form": "絞め技",
+      "kana": "しめわざ",
+      "gloss": "shime-waza (judo stranglehold)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        105543,
+        68198
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絞": 7
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1550240/裏技/うらわざ": {
+      "id": 1550240,
+      "form": "裏技",
+      "kana": "うらわざ",
+      "gloss": "secret trick",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        9421,
+        null,
+        23468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "裏": 6
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2414790/小技/こわざ": {
+      "id": 2414790,
+      "form": "小技",
+      "kana": "こわざ",
+      "gloss": "delicate technique (in sumo, judo, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        21007,
+        null,
+        45384
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1857410/合わせ技/あわせわざ": {
+      "id": 1857410,
+      "form": "合わせ技",
+      "kana": "あわせわざ",
+      "gloss": "scoring two waza-ari (and winning the match)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        40691,
+        null,
+        39700
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692590/投げ技/なげわざ": {
+      "id": 1692590,
+      "form": "投げ技",
+      "kana": "なげわざ",
+      "gloss": "throwing technique",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38608,
+        null,
+        52490
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "投": 3
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291840/座技/すわりわざ": {
+      "id": 1291840,
+      "form": "座技",
+      "kana": "すわりわざ",
+      "gloss": "Aikido seated defence (defense)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        32097,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "座": 6
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1608440/早技/はやわざ": {
+      "id": 1608440,
+      "form": "早技",
+      "kana": "はやわざ",
+      "gloss": "quick work",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45909,
+        null,
+        89790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "早": 1
+      },
+      "matched": {
+        "わざ": {
+          "actual": "わざ",
+          "dictionary": [
+            "わざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1225130:技術:ぎじゅつ",
+      "form": "技術",
+      "kana": "ぎじゅつ",
+      "cue": "technology; engineering",
+      "ids": [
+        1225130
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1856,
+        "shiberu": 948,
+        "tubelex": 702,
+        "wordfreq": 493
+      },
+      "alternatives_by_kanji": {
+        "技": [
+          "1225090/技/わざ",
+          "1225110/技師/ぎし",
+          "1454740/特技/とくぎ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

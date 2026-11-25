@@ -1,0 +1,1262 @@
+{
+  "character": "闘",
+  "grade": 7,
+  "meanings": [
+    "fight",
+    "war"
+  ],
+  "strokes": [
+    18
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 169
+    }
+  ],
+  "components": [
+    "口",
+    "寸",
+    "豆",
+    "并",
+    "門"
+  ],
+  "on": [
+    "トウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たたか.う",
+      "stem": "たたか",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "あらそ.う",
+      "stem": "あらそ",
+      "okurigana": "う"
+    }
+  ],
+  "nanori": [
+    "と"
+  ],
+  "government": {
+    "kanji": "闘",
+    "heading": "闘（鬭）",
+    "readings": [
+      "トウ",
+      "たたかう"
+    ],
+    "examples_by_reading": [
+      [
+        "闘争",
+        "闘志",
+        "戦闘"
+      ],
+      [
+        "闘う",
+        "闘い"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔戦う"
+    ],
+    "representative_index": {
+      "kanji": "闘",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 125,
+      "frequent_unflagged_examples": 6,
+      "current_support": true,
+      "candidates": [
+        "1390420/戦闘/せんとう",
+        "1451020/闘争/とうそう",
+        "1653040/闘志/とうし",
+        "1205440/格闘/かくとう",
+        "1254410/決闘/けっとう",
+        "1549050/乱闘/らんとう",
+        "1504750/奮闘/ふんとう",
+        "1653030/闘士/とうし",
+        "1310930/死闘/しとう",
+        "1692470/闘病/とうびょう"
+      ]
+    },
+    {
+      "reading": "たたかう",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1596960/闘う/たたかう",
+        "1596950/闘い/たたかい"
+      ]
+    },
+    {
+      "reading": "あらそう",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1390420/戦闘/せんとう",
+    "1451020/闘争/とうそう",
+    "1653040/闘志/とうし",
+    "1596960/闘う/たたかう",
+    "1596950/闘い/たたかい",
+    "1205440/格闘/かくとう",
+    "1254410/決闘/けっとう",
+    "1549050/乱闘/らんとう",
+    "1504750/奮闘/ふんとう",
+    "1653030/闘士/とうし",
+    "1310930/死闘/しとう",
+    "1692470/闘病/とうびょう",
+    "1244580/苦闘/くとう",
+    "1451010/闘牛/とうぎゅう",
+    "1832580/熱闘/ねっとう",
+    "1653050/闘魂/とうこん",
+    "1154680/暗闘/あんとう",
+    "1653060/闘鶏/とうけい",
+    "1257770/拳闘/けんとう",
+    "1450980/闘気/とうき",
+    "1234750/共闘/きょうとう",
+    "1450990/闘技/とうぎ",
+    "1256380/健闘/けんとう",
+    "1253710/激闘/げきとう",
+    "2428100/武闘/ぶとう",
+    "1341120/春闘/しゅんとう",
+    "1692420/闘犬/とうけん",
+    "1212900/敢闘/かんとう",
+    "1768230/私闘/しとう",
+    "1692460/闘将/とうしょう"
+  ],
+  "candidates": {
+    "1390420/戦闘/せんとう": {
+      "id": 1390420,
+      "form": "戦闘",
+      "kana": "せんとう",
+      "gloss": "battle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3737,
+        1220,
+        1664,
+        3272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1451020/闘争/とうそう": {
+      "id": 1451020,
+      "form": "闘争",
+      "kana": "とうそう",
+      "gloss": "fight",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5349,
+        11613,
+        9023,
+        15732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "争": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1653040/闘志/とうし": {
+      "id": 1653040,
+      "form": "闘志",
+      "kana": "とうし",
+      "gloss": "fighting spirit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12924,
+        20879,
+        28763,
+        14176
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "志": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1596960/闘う/たたかう": {
+      "id": 1596960,
+      "form": "闘う",
+      "kana": "たたかう",
+      "gloss": "to make war (on)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4753,
+        null,
+        14937,
+        7512
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たたかう": {
+          "actual": "たたか",
+          "dictionary": [
+            "たたか.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "たたかう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1596950/闘い/たたかい": {
+      "id": 1596950,
+      "form": "闘い",
+      "kana": "たたかい",
+      "gloss": "battle",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7615,
+        null,
+        6549,
+        13871
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たたかう": {
+          "actual": "たたか",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "たたかう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1205440/格闘/かくとう": {
+      "id": 1205440,
+      "form": "格闘",
+      "kana": "かくとう",
+      "gloss": "(hand-to-hand) fight",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3531,
+        4652,
+        6675,
+        8289
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "格": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1254410/決闘/けっとう": {
+      "id": 1254410,
+      "form": "決闘",
+      "kana": "けっとう",
+      "gloss": "duel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7609,
+        15219,
+        11917,
+        9629
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "決": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1549050/乱闘/らんとう": {
+      "id": 1549050,
+      "form": "乱闘",
+      "kana": "らんとう",
+      "gloss": "confused fight",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5800,
+        20401,
+        13281,
+        25070
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乱": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1504750/奮闘/ふんとう": {
+      "id": 1504750,
+      "form": "奮闘",
+      "kana": "ふんとう",
+      "gloss": "strenuous effort",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8738,
+        14051,
+        12107,
+        12808
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奮": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1653030/闘士/とうし": {
+      "id": 1653030,
+      "form": "闘士",
+      "kana": "とうし",
+      "gloss": "fighter (for)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11908,
+        24494,
+        15390,
+        34447
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310930/死闘/しとう": {
+      "id": 1310930,
+      "form": "死闘",
+      "kana": "しとう",
+      "gloss": "life or death struggle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15682,
+        29810,
+        23216,
+        14971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692470/闘病/とうびょう": {
+      "id": 1692470,
+      "form": "闘病",
+      "kana": "とうびょう",
+      "gloss": "fighting against an illness",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17132,
+        24210,
+        23842,
+        58379
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "病": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244580/苦闘/くとう": {
+      "id": 1244580,
+      "form": "苦闘",
+      "kana": "くとう",
+      "gloss": "hard fight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18339,
+        27319,
+        42050,
+        48550
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "苦": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1451010/闘牛/とうぎゅう": {
+      "id": 1451010,
+      "form": "闘牛",
+      "kana": "とうぎゅう",
+      "gloss": "bullfighting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20919,
+        40691,
+        39319,
+        55735
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "牛": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1832580/熱闘/ねっとう": {
+      "id": 1832580,
+      "form": "熱闘",
+      "kana": "ねっとう",
+      "gloss": "fierce fighting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32779,
+        52268,
+        40209,
+        96580
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "熱": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1653050/闘魂/とうこん": {
+      "id": 1653050,
+      "form": "闘魂",
+      "kana": "とうこん",
+      "gloss": "fighting spirit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33262,
+        46460,
+        55378,
+        68500
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "魂": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1154680/暗闘/あんとう": {
+      "id": 1154680,
+      "form": "暗闘",
+      "kana": "あんとう",
+      "gloss": "secret feud",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25454,
+        62423,
+        92126,
+        60901
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暗": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1653060/闘鶏/とうけい": {
+      "id": 1653060,
+      "form": "闘鶏",
+      "kana": "とうけい",
+      "gloss": "cockfight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26067,
+        75655,
+        65516,
+        97550
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鶏": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1257770/拳闘/けんとう": {
+      "id": 1257770,
+      "form": "拳闘",
+      "kana": "けんとう",
+      "gloss": "boxing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26315,
+        101749,
+        72835,
+        63489
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拳": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450980/闘気/とうき": {
+      "id": 1450980,
+      "form": "闘気",
+      "kana": "とうき",
+      "gloss": "fighting spirit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39180,
+        85382,
+        53687,
+        33058
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1234750/共闘/きょうとう": {
+      "id": 1234750,
+      "form": "共闘",
+      "kana": "きょうとう",
+      "gloss": "joint struggle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        12701,
+        11368,
+        19029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "共": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450990/闘技/とうぎ": {
+      "id": 1450990,
+      "form": "闘技",
+      "kana": "とうぎ",
+      "gloss": "competition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        16889,
+        15390,
+        48686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "技": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1256380/健闘/けんとう": {
+      "id": 1256380,
+      "form": "健闘",
+      "kana": "けんとう",
+      "gloss": "fighting bravely",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19920,
+        19596,
+        17227
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "健": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1253710/激闘/げきとう": {
+      "id": 1253710,
+      "form": "激闘",
+      "kana": "げきとう",
+      "gloss": "fierce fighting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25604,
+        24744,
+        23256
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "激": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2428100/武闘/ぶとう": {
+      "id": 2428100,
+      "form": "武闘",
+      "kana": "ぶとう",
+      "gloss": "armed struggle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26689,
+        30598,
+        43602
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1341120/春闘/しゅんとう": {
+      "id": 1341120,
+      "form": "春闘",
+      "kana": "しゅんとう",
+      "gloss": "spring labor offensive",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        34763,
+        51518,
+        203520
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "春": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692420/闘犬/とうけん": {
+      "id": 1692420,
+      "form": "闘犬",
+      "kana": "とうけん",
+      "gloss": "dogfight",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        46460,
+        63004,
+        72134
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "犬": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1212900/敢闘/かんとう": {
+      "id": 1212900,
+      "form": "敢闘",
+      "kana": "かんとう",
+      "gloss": "fighting bravely",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        57577,
+        54233,
+        97183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敢": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1768230/私闘/しとう": {
+      "id": 1768230,
+      "form": "私闘",
+      "kana": "しとう",
+      "gloss": "personal struggle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        80922,
+        46403
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "私": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692460/闘将/とうしょう": {
+      "id": 1692460,
+      "form": "闘将",
+      "kana": "とうしょう",
+      "gloss": "brave leader",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        77181,
+        91925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1390420:戦闘:せんとう",
+      "form": "戦闘",
+      "kana": "せんとう",
+      "cue": "battle; fight",
+      "ids": [
+        1390420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3272,
+        "shiberu": 3737,
+        "tubelex": 1220,
+        "wordfreq": 1664
+      },
+      "alternatives_by_kanji": {
+        "戦": [
+          "1390360/戦争/せんそう",
+          "1596960/戦う/たたかう",
+          "1596950/戦い/たたかい"
+        ],
+        "闘": [
+          "1451020/闘争/とうそう",
+          "1653040/闘志/とうし",
+          "1596960/闘う/たたかう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

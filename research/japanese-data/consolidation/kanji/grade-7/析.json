@@ -1,0 +1,1222 @@
+{
+  "character": "析",
+  "grade": 7,
+  "meanings": [
+    "chop",
+    "divide",
+    "tear",
+    "analyze"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "斤",
+    "木"
+  ],
+  "on": [
+    "セキ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "析",
+    "heading": "析",
+    "readings": [
+      "セキ"
+    ],
+    "examples_by_reading": [
+      [
+        "析出",
+        "分析",
+        "解析"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "析",
+      "reading": "セキ",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セキ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 84,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1503870/分析/ぶんせき",
+        "1199060/解析/かいせき",
+        "1645910/析出/せきしゅつ",
+        "1653310/透析/とうせき",
+        "2777920/自己分析/じこぶんせき",
+        "1081380/データ解析/データかいせき",
+        "2366060/情報分析/じょうほうぶんせき",
+        "1751150/精神分析/せいしんぶんせき",
+        "2310880/データ分析/データぶんせき",
+        "2782420/分析官/ぶんせきかん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1503870/分析/ぶんせき",
+    "1199060/解析/かいせき",
+    "1645910/析出/せきしゅつ",
+    "1653310/透析/とうせき",
+    "2777920/自己分析/じこぶんせき",
+    "1081380/データ解析/データかいせき",
+    "2366060/情報分析/じょうほうぶんせき",
+    "1751150/精神分析/せいしんぶんせき",
+    "2310880/データ分析/データぶんせき",
+    "2782420/分析官/ぶんせきかん",
+    "2517340/分析的/ぶんせきてき",
+    "2641220/精神分析医/せいしんぶんせきい",
+    "2867010/分析室/ぶんせきしつ",
+    "1730610/人工透析/じんこうとうせき",
+    "2837351/分析器/ぶんせきき",
+    "2832976/精神分析学/せいしんぶんせきがく",
+    "2805580/性格分析/せいかくぶんせき",
+    "1803020/化学分析/かがくぶんせき",
+    "1965240/スペクトル分析/スペクトルぶんせき",
+    "1503900/分析表/ぶんせきひょう",
+    "2855357/分析家/ぶんせきか",
+    "2782410/分析者/ぶんせきしゃ",
+    "2641250/調査分析/ちょうさぶんせき",
+    "2853466/ゲノム解析/ゲノムかいせき",
+    "2835076/アクセス解析/アクセスかいせき",
+    "1976200/解析学/かいせきがく",
+    "2808450/精神分析学者/せいしんぶんせきがくしゃ",
+    "1308470/市場分析/しじょうぶんせき",
+    "1939650/数値解析/すうちかいせき",
+    "2672830/血液透析/けつえきとうせき"
+  ],
+  "candidates": {
+    "1503870/分析/ぶんせき": {
+      "id": 1503870,
+      "form": "分析",
+      "kana": "ぶんせき",
+      "gloss": "analysis",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2421,
+        1659,
+        1922,
+        4073
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1199060/解析/かいせき": {
+      "id": 1199060,
+      "form": "解析",
+      "kana": "かいせき",
+      "gloss": "analysis",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14103,
+        4894,
+        4516,
+        8523
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1645910/析出/せきしゅつ": {
+      "id": 1645910,
+      "form": "析出",
+      "kana": "せきしゅつ",
+      "gloss": "separation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        37384,
+        53060,
+        57615,
+        129353
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1653310/透析/とうせき": {
+      "id": 1653310,
+      "form": "透析",
+      "kana": "とうせき",
+      "gloss": "dialysis",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        8022,
+        20890,
+        83697
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "透": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2777920/自己分析/じこぶんせき": {
+      "id": 2777920,
+      "form": "自己分析",
+      "kana": "じこぶんせき",
+      "gloss": "self-analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46369
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "己": 6,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1081380/データ解析/データかいせき": {
+      "id": 1081380,
+      "form": "データ解析",
+      "kana": "データかいせき",
+      "gloss": "data analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71286
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2366060/情報分析/じょうほうぶんせき": {
+      "id": 2366060,
+      "form": "情報分析",
+      "kana": "じょうほうぶんせき",
+      "gloss": "information analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        72183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "報": 5,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1751150/精神分析/せいしんぶんせき": {
+      "id": 1751150,
+      "form": "精神分析",
+      "kana": "せいしんぶんせき",
+      "gloss": "psychoanalysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75769
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "神": 3,
+        "分": 2,
+        "精": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2310880/データ分析/データぶんせき": {
+      "id": 2310880,
+      "form": "データ分析",
+      "kana": "データぶんせき",
+      "gloss": "data analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        80649
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2782420/分析官/ぶんせきかん": {
+      "id": 2782420,
+      "form": "分析官",
+      "kana": "ぶんせきかん",
+      "gloss": "analyst",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        82200
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "官": 4,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2517340/分析的/ぶんせきてき": {
+      "id": 2517340,
+      "form": "分析的",
+      "kana": "ぶんせきてき",
+      "gloss": "analytical",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        105590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2641220/精神分析医/せいしんぶんせきい": {
+      "id": 2641220,
+      "form": "精神分析医",
+      "kana": "せいしんぶんせきい",
+      "gloss": "(medically qualified) psychoanalyst",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        118761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "神": 3,
+        "医": 3,
+        "分": 2,
+        "精": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2867010/分析室/ぶんせきしつ": {
+      "id": 2867010,
+      "form": "分析室",
+      "kana": "ぶんせきしつ",
+      "gloss": "analytical laboratory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        119348
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "室": 2,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1730610/人工透析/じんこうとうせき": {
+      "id": 1730610,
+      "form": "人工透析",
+      "kana": "じんこうとうせき",
+      "gloss": "(artificial) dialysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        125311
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2,
+        "人": 1,
+        "透": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837351/分析器/ぶんせきき": {
+      "id": 2837351,
+      "form": "分析器",
+      "kana": "ぶんせきき",
+      "gloss": "analyzer (device)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        132685
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832976/精神分析学/せいしんぶんせきがく": {
+      "id": 2832976,
+      "form": "精神分析学",
+      "kana": "せいしんぶんせきがく",
+      "gloss": "(study of) psychoanalysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        136269
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "神": 3,
+        "学": 1,
+        "分": 2,
+        "精": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2805580/性格分析/せいかくぶんせき": {
+      "id": 2805580,
+      "form": "性格分析",
+      "kana": "せいかくぶんせき",
+      "gloss": "character analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        138975
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5,
+        "分": 2,
+        "格": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1803020/化学分析/かがくぶんせき": {
+      "id": 1803020,
+      "form": "化学分析",
+      "kana": "かがくぶんせき",
+      "gloss": "chemical analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        140529
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "化": 3,
+        "学": 1,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1965240/スペクトル分析/スペクトルぶんせき": {
+      "id": 1965240,
+      "form": "スペクトル分析",
+      "kana": "スペクトルぶんせき",
+      "gloss": "spectrum analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        154605
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1503900/分析表/ぶんせきひょう": {
+      "id": 1503900,
+      "form": "分析表",
+      "kana": "ぶんせきひょう",
+      "gloss": "analysis table",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        155378
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "表": 3,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855357/分析家/ぶんせきか": {
+      "id": 2855357,
+      "form": "分析家",
+      "kana": "ぶんせきか",
+      "gloss": "analyst",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        157324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2782410/分析者/ぶんせきしゃ": {
+      "id": 2782410,
+      "form": "分析者",
+      "kana": "ぶんせきしゃ",
+      "gloss": "analyst",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        160053
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2641250/調査分析/ちょうさぶんせき": {
+      "id": 2641250,
+      "form": "調査分析",
+      "kana": "ちょうさぶんせき",
+      "gloss": "diagnosis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        160304
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3,
+        "査": 5,
+        "分": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853466/ゲノム解析/ゲノムかいせき": {
+      "id": 2853466,
+      "form": "ゲノム解析",
+      "kana": "ゲノムかいせき",
+      "gloss": "genome analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        167105
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835076/アクセス解析/アクセスかいせき": {
+      "id": 2835076,
+      "form": "アクセス解析",
+      "kana": "アクセスかいせき",
+      "gloss": "traffic analysis (esp. web)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        178783
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1976200/解析学/かいせきがく": {
+      "id": 1976200,
+      "form": "解析学",
+      "kana": "かいせきがく",
+      "gloss": "analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        190095
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5,
+        "学": 1
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2808450/精神分析学者/せいしんぶんせきがくしゃ": {
+      "id": 2808450,
+      "form": "精神分析学者",
+      "kana": "せいしんぶんせきがくしゃ",
+      "gloss": "psychoanalyst",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        190095
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2,
+        "学": 1,
+        "者": 3,
+        "神": 3,
+        "精": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1308470/市場分析/しじょうぶんせき": {
+      "id": 1308470,
+      "form": "市場分析",
+      "kana": "しじょうぶんせき",
+      "gloss": "market analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        194494
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "場": 2,
+        "分": 2,
+        "市": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1939650/数値解析/すうちかいせき": {
+      "id": 1939650,
+      "form": "数値解析",
+      "kana": "すうちかいせき",
+      "gloss": "numerical analysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        196622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "値": 6,
+        "解": 5,
+        "数": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2672830/血液透析/けつえきとうせき": {
+      "id": 2672830,
+      "form": "血液透析",
+      "kana": "けつえきとうせき",
+      "gloss": "hemodialysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        200701
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "液": 5,
+        "透": 7,
+        "血": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1503870:分析:ぶんせき",
+      "form": "分析",
+      "kana": "ぶんせき",
+      "cue": "analysis",
+      "ids": [
+        1503870
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4073,
+        "shiberu": 2421,
+        "tubelex": 1659,
+        "wordfreq": 1922
+      },
+      "alternatives_by_kanji": {
+        "分": [
+          "1318610/自分/じぶん",
+          "1606600/分かれる/わかれる",
+          "1372010/水分/すいぶん"
+        ],
+        "析": [
+          "1199060/解析/かいせき",
+          "1645910/析出/せきしゅつ",
+          "1653310/透析/とうせき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

@@ -1,0 +1,726 @@
+{
+  "character": "侮",
+  "grade": 7,
+  "meanings": [
+    "scorn",
+    "despise",
+    "make light of",
+    "contempt"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "母",
+    "毋",
+    "乞"
+  ],
+  "on": [
+    "ブ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あなど.る",
+      "stem": "あなど",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "あなず.る",
+      "stem": "あなず",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "侮",
+    "heading": "侮（侮）",
+    "readings": [
+      "ブ",
+      "あなどる"
+    ],
+    "examples_by_reading": [
+      [
+        "侮辱",
+        "軽侮"
+      ],
+      [
+        "侮る",
+        "侮り"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "侮",
+      "reading": "ブ",
+      "source": "table_28_hu.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ブ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1498260/侮辱/ぶじょく",
+        "1252850/軽侮/けいぶ",
+        "1498270/侮蔑/ぶべつ",
+        "2733340/侮日/ぶにち",
+        "2178700/侮辱罪/ぶじょくざい",
+        "2763270/侮辱的/ぶじょくてき",
+        "2815700/侮蔑的/ぶべつてき",
+        "2178690/法廷侮辱罪/ほうていぶじょくざい",
+        "2513620/侮蔑語/ぶべつご",
+        "1498250/侮言/ぶげん"
+      ]
+    },
+    {
+      "reading": "あなどる",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1583670/侮る/あなどる",
+        "1498240/侮り/あなどり"
+      ]
+    },
+    {
+      "reading": "あなずる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1498260/侮辱/ぶじょく",
+    "1583670/侮る/あなどる",
+    "1498240/侮り/あなどり",
+    "1252850/軽侮/けいぶ",
+    "1498270/侮蔑/ぶべつ",
+    "2733340/侮日/ぶにち",
+    "2178700/侮辱罪/ぶじょくざい",
+    "2763270/侮辱的/ぶじょくてき",
+    "2815700/侮蔑的/ぶべつてき",
+    "2178690/法廷侮辱罪/ほうていぶじょくざい",
+    "2513620/侮蔑語/ぶべつご",
+    "1498250/侮言/ぶげん",
+    "1498280/侮慢/ぶまん",
+    "1805070/法廷侮辱/ほうていぶじょく",
+    "1856930/侮りがたい/あなどりがたい",
+    "1856930/侮り難い/あなどりがたい"
+  ],
+  "candidates": {
+    "1498260/侮辱/ぶじょく": {
+      "id": 1498260,
+      "form": "侮辱",
+      "kana": "ぶじょく",
+      "gloss": "insult",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3797,
+        13027,
+        9745,
+        6864
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辱": 7
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ブ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1583670/侮る/あなどる": {
+      "id": 1583670,
+      "form": "侮る",
+      "kana": "あなどる",
+      "gloss": "to disdain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13061,
+        17283,
+        54820,
+        6466
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あなどる": {
+          "actual": "あなど",
+          "dictionary": [
+            "あなど.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "あなどる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1498240/侮り/あなどり": {
+      "id": 1498240,
+      "form": "侮り",
+      "kana": "あなどり",
+      "gloss": "contempt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33587,
+        73159,
+        78707,
+        56917
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あなどる": {
+          "actual": "あなど",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "あなどる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1252850/軽侮/けいぶ": {
+      "id": 1252850,
+      "form": "軽侮",
+      "kana": "けいぶ",
+      "gloss": "contempt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        39164,
+        50117,
+        null,
+        83962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軽": 3
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ブ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1498270/侮蔑/ぶべつ": {
+      "id": 1498270,
+      "form": "侮蔑",
+      "kana": "ぶべつ",
+      "gloss": "scorn",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21395,
+        36842,
+        29116,
+        15760
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蔑": 7
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2733340/侮日/ぶにち": {
+      "id": 2733340,
+      "form": "侮日",
+      "kana": "ぶにち",
+      "gloss": "contempt for Japan",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2178700/侮辱罪/ぶじょくざい": {
+      "id": 2178700,
+      "form": "侮辱罪",
+      "kana": "ぶじょくざい",
+      "gloss": "(crime of) defamation (i.e. slander, libel)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        73441
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辱": 7,
+        "罪": 5
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2763270/侮辱的/ぶじょくてき": {
+      "id": 2763270,
+      "form": "侮辱的",
+      "kana": "ぶじょくてき",
+      "gloss": "insulting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        73978
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辱": 7,
+        "的": 4
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2815700/侮蔑的/ぶべつてき": {
+      "id": 2815700,
+      "form": "侮蔑的",
+      "kana": "ぶべつてき",
+      "gloss": "insulting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        80707
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蔑": 7,
+        "的": 4
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2178690/法廷侮辱罪/ほうていぶじょくざい": {
+      "id": 2178690,
+      "form": "法廷侮辱罪",
+      "kana": "ほうていぶじょくざい",
+      "gloss": "(crime of) contempt of court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        141178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "廷": 7,
+        "辱": 7,
+        "罪": 5,
+        "法": 4
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2513620/侮蔑語/ぶべつご": {
+      "id": 2513620,
+      "form": "侮蔑語",
+      "kana": "ぶべつご",
+      "gloss": "pejorative term",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        186930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蔑": 7,
+        "語": 2
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1498250/侮言/ぶげん": {
+      "id": 1498250,
+      "form": "侮言",
+      "kana": "ぶげん",
+      "gloss": "insult",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1498280/侮慢/ぶまん": {
+      "id": 1498280,
+      "form": "侮慢",
+      "kana": "ぶまん",
+      "gloss": "contempt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慢": 7
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1805070/法廷侮辱/ほうていぶじょく": {
+      "id": 1805070,
+      "form": "法廷侮辱",
+      "kana": "ほうていぶじょく",
+      "gloss": "contempt of court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "廷": 7,
+        "辱": 7,
+        "法": 4
+      },
+      "matched": {
+        "ブ": {
+          "actual": "ぶ",
+          "dictionary": [
+            "ブ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1856930/侮りがたい/あなどりがたい": {
+      "id": 1856930,
+      "form": "侮りがたい",
+      "kana": "あなどりがたい",
+      "gloss": "formidable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        79918
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1856930/侮り難い/あなどりがたい": {
+      "id": 1856930,
+      "form": "侮り難い",
+      "kana": "あなどりがたい",
+      "gloss": "formidable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        118770
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "難": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1498260:侮辱:ぶじょく",
+      "form": "侮辱",
+      "kana": "ぶじょく",
+      "cue": "insult; affront",
+      "ids": [
+        1498260
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6864,
+        "shiberu": 3797,
+        "tubelex": 13027,
+        "wordfreq": 9745
+      },
+      "alternatives_by_kanji": {
+        "辱": [
+          "1246600/屈辱/くつじょく",
+          "1386640/雪辱/せつじょく",
+          "1421670/恥辱/ちじょく"
+        ],
+        "侮": [
+          "1583670/侮る/あなどる",
+          "1498240/侮り/あなどり",
+          "1252850/軽侮/けいぶ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

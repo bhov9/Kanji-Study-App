@@ -1,0 +1,522 @@
+{
+  "character": "糾",
+  "grade": 7,
+  "meanings": [
+    "twist",
+    "ask",
+    "investigate",
+    "verify"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "｜",
+    "糸",
+    "幺",
+    "小",
+    "十"
+  ],
+  "on": [
+    "キュウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ただ.す",
+      "stem": "ただ",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "糾",
+    "heading": "糾",
+    "readings": [
+      "キュウ"
+    ],
+    "examples_by_reading": [
+      [
+        "糾弾",
+        "紛糾"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "糾",
+      "reading": "キュウ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キュウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1505040/紛糾/ふんきゅう",
+        "1230180/糾弾/きゅうだん",
+        "1230170/糾合/きゅうごう",
+        "1230190/糾明/きゅうめい",
+        "1230200/糾問/きゅうもん",
+        "2045530/罪状糾明/ざいじょうきゅうめい"
+      ]
+    },
+    {
+      "reading": "ただす",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1610220/糾す/ただす",
+        "1535970/問い糾す/といただす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1505040/紛糾/ふんきゅう",
+    "1230180/糾弾/きゅうだん",
+    "1230170/糾合/きゅうごう",
+    "1230190/糾明/きゅうめい",
+    "1230200/糾問/きゅうもん",
+    "2045530/罪状糾明/ざいじょうきゅうめい",
+    "2796370/禍福は糾える縄の如し/かふくはあざなえるなわのごとし",
+    "2796370/禍福は糾える縄のごとし/かふくはあざなえるなわのごとし",
+    "1610220/糾す/ただす",
+    "1535970/問い糾す/といただす",
+    "2007160/糾う/あざなう"
+  ],
+  "candidates": {
+    "1505040/紛糾/ふんきゅう": {
+      "id": 1505040,
+      "form": "紛糾",
+      "kana": "ふんきゅう",
+      "gloss": "complication",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16148,
+        61110,
+        37951,
+        43365
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紛": 7
+      },
+      "matched": {
+        "キュウ": {
+          "actual": "きゅう",
+          "dictionary": [
+            "キュウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キュウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1230180/糾弾/きゅうだん": {
+      "id": 1230180,
+      "form": "糾弾",
+      "kana": "きゅうだん",
+      "gloss": "censure",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22485,
+        18515,
+        13398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弾": 7
+      },
+      "matched": {
+        "キュウ": {
+          "actual": "きゅう",
+          "dictionary": [
+            "キュウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キュウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1230170/糾合/きゅうごう": {
+      "id": 1230170,
+      "form": "糾合",
+      "kana": "きゅうごう",
+      "gloss": "rally",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        19915,
+        67088,
+        107434,
+        75183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "キュウ": {
+          "actual": "きゅう",
+          "dictionary": [
+            "キュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1230190/糾明/きゅうめい": {
+      "id": 1230190,
+      "form": "糾明",
+      "kana": "きゅうめい",
+      "gloss": "searching examination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        164653,
+        120020
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "キュウ": {
+          "actual": "きゅう",
+          "dictionary": [
+            "キュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1230200/糾問/きゅうもん": {
+      "id": 1230200,
+      "form": "糾問",
+      "kana": "きゅうもん",
+      "gloss": "inquiry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        149892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "キュウ": {
+          "actual": "きゅう",
+          "dictionary": [
+            "キュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2045530/罪状糾明/ざいじょうきゅうめい": {
+      "id": 2045530,
+      "form": "罪状糾明",
+      "kana": "ざいじょうきゅうめい",
+      "gloss": "closely examining (questioning) the concrete circumstances of a crime",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "罪": 5,
+        "状": 5,
+        "明": 2
+      },
+      "matched": {
+        "キュウ": {
+          "actual": "きゅう",
+          "dictionary": [
+            "キュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2796370/禍福は糾える縄の如し/かふくはあざなえるなわのごとし": {
+      "id": 2796370,
+      "form": "禍福は糾える縄の如し",
+      "kana": "かふくはあざなえるなわのごとし",
+      "gloss": "fortune and misfortune are intertwined",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        128354
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "禍": 7,
+        "如": 7,
+        "福": 3,
+        "縄": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2796370/禍福は糾える縄のごとし/かふくはあざなえるなわのごとし": {
+      "id": 2796370,
+      "form": "禍福は糾える縄のごとし",
+      "kana": "かふくはあざなえるなわのごとし",
+      "gloss": "fortune and misfortune are intertwined",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        190881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "禍": 7,
+        "福": 3,
+        "縄": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1610220/糾す/ただす": {
+      "id": 1610220,
+      "form": "糾す",
+      "kana": "ただす",
+      "gloss": "to ascertain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        187348,
+        97974
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ただす": {
+          "actual": "ただ",
+          "dictionary": [
+            "ただ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1535970/問い糾す/といただす": {
+      "id": 1535970,
+      "form": "問い糾す",
+      "kana": "といただす",
+      "gloss": "to inquire (about)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        122048
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "ただす": {
+          "actual": "ただ",
+          "dictionary": [
+            "ただ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2007160/糾う/あざなう": {
+      "id": 2007160,
+      "form": "糾う",
+      "kana": "あざなう",
+      "gloss": "to twist strands (e.g. into rope)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        121818,
+        null,
+        154605
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1505040:紛糾:ふんきゅう",
+      "form": "紛糾",
+      "kana": "ふんきゅう",
+      "cue": "complication; confusion",
+      "ids": [
+        1505040
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 43365,
+        "shiberu": 16148,
+        "tubelex": 61110,
+        "wordfreq": 37951
+      },
+      "alternatives_by_kanji": {
+        "糾": [
+          "1230180/糾弾/きゅうだん",
+          "1230170/糾合/きゅうごう",
+          "1230190/糾明/きゅうめい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

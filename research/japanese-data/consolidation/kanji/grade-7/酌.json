@@ -1,0 +1,1196 @@
+{
+  "character": "酌",
+  "grade": 7,
+  "meanings": [
+    "bar-tending",
+    "serving sake",
+    "the host",
+    "draw (water)",
+    "ladle",
+    "scoop",
+    "pump"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 164
+    }
+  ],
+  "components": [
+    "酉",
+    "丶",
+    "勹"
+  ],
+  "on": [
+    "シャク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "く.む",
+      "stem": "く",
+      "okurigana": "む"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "酌",
+    "heading": "酌",
+    "readings": [
+      "シャク",
+      "くむ"
+    ],
+    "examples_by_reading": [
+      [
+        "酌量",
+        "晩酌"
+      ],
+      [
+        "酌む",
+        "酌み交わす"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "酌",
+      "reading": "シャク",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シャク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 15,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1482180/晩酌/ばんしゃく",
+        "1324220/酌量/しゃくりょう",
+        "1567850/斟酌/しんしゃく",
+        "1473410/媒酌/ばいしゃく",
+        "1455820/独酌/どくしゃく",
+        "1473420/媒酌人/ばいしゃくにん",
+        "1773670/酌婦/しゃくふ",
+        "1302390/参酌/さんしゃく",
+        "1356310/情状酌量/じょうじょうしゃくりょう",
+        "1694570/お酌/おしゃく"
+      ]
+    },
+    {
+      "reading": "くむ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1324210/酌む/くむ",
+        "1324200/酌み交わす/くみかわす",
+        "1859560/意を酌む/いをくむ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1482180/晩酌/ばんしゃく",
+    "1324220/酌量/しゃくりょう",
+    "1324210/酌む/くむ",
+    "1324200/酌み交わす/くみかわす",
+    "1567850/斟酌/しんしゃく",
+    "1473410/媒酌/ばいしゃく",
+    "1455820/独酌/どくしゃく",
+    "1473420/媒酌人/ばいしゃくにん",
+    "1773670/酌婦/しゃくふ",
+    "1302390/参酌/さんしゃく",
+    "1356310/情状酌量/じょうじょうしゃくりょう",
+    "1694570/お酌/おしゃく",
+    "1859560/意を酌む/いをくむ",
+    "1567850/しん酌/しんしゃく",
+    "1874010/献酌/けんしゃく",
+    "2830923/対酌/たいしゃく",
+    "2825887/酌量減軽/しゃくりょうげんけい",
+    "2053900/未練未酌/みれんみしゃく",
+    "1618980/浅酌低唱/せんしゃくていしょう",
+    "1327750/手酌/てじゃく",
+    "1324200/酌みかわす/くみかわす",
+    "1324200/酌み交す/くみかわす",
+    "2595620/手酌酒/てじゃくさけ",
+    "1324200/酌交す/くみかわす",
+    "1683430/酌み分ける/くみわける",
+    "2688610/相酌/あいじゃく",
+    "1324200/酌交わす/くみかわす",
+    "2142550/酌/しゃく",
+    "1694570/御酌/おしゃく",
+    "2852894/小酌/しょうしゃく"
+  ],
+  "candidates": {
+    "1482180/晩酌/ばんしゃく": {
+      "id": 1482180,
+      "form": "晩酌",
+      "kana": "ばんしゃく",
+      "gloss": "drink at home with one's evening meal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        21385,
+        17547,
+        27016,
+        30744
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "晩": 6
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [
+        "シャク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1324220/酌量/しゃくりょう": {
+      "id": 1324220,
+      "form": "酌量",
+      "kana": "しゃくりょう",
+      "gloss": "taking into consideration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        33667,
+        55605,
+        44357,
+        68005
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [
+        "シャク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1324210/酌む/くむ": {
+      "id": 1324210,
+      "form": "酌む",
+      "kana": "くむ",
+      "gloss": "to pour (sake)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17218,
+        null,
+        142244,
+        51740
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くむ": {
+          "actual": "く",
+          "dictionary": [
+            "く.む"
+          ]
+        }
+      },
+      "official_examples": [
+        "くむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1324200/酌み交わす/くみかわす": {
+      "id": 1324200,
+      "form": "酌み交わす",
+      "kana": "くみかわす",
+      "gloss": "to pour drinks for each other",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        109403,
+        29134
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {
+        "くむ": {
+          "actual": "く",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "くむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1567850/斟酌/しんしゃく": {
+      "id": 1567850,
+      "form": "斟酌",
+      "kana": "しんしゃく",
+      "gloss": "taking into consideration",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30289,
+        53857,
+        75713,
+        48496
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473410/媒酌/ばいしゃく": {
+      "id": 1473410,
+      "form": "媒酌",
+      "kana": "ばいしゃく",
+      "gloss": "matchmaking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        197911,
+        134057
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "媒": 7
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1455820/独酌/どくしゃく": {
+      "id": 1455820,
+      "form": "独酌",
+      "kana": "どくしゃく",
+      "gloss": "drinking alone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        172358,
+        191954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "独": 5
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473420/媒酌人/ばいしゃくにん": {
+      "id": 1473420,
+      "form": "媒酌人",
+      "kana": "ばいしゃくにん",
+      "gloss": "matchmaker",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        92126,
+        108207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "媒": 7,
+        "人": 1
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1773670/酌婦/しゃくふ": {
+      "id": 1773670,
+      "form": "酌婦",
+      "kana": "しゃくふ",
+      "gloss": "barmaid",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        112358
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婦": 5
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1302390/参酌/さんしゃく": {
+      "id": 1302390,
+      "form": "参酌",
+      "kana": "さんしゃく",
+      "gloss": "comparison and choosing the good",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        161690,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "参": 4
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1356310/情状酌量/じょうじょうしゃくりょう": {
+      "id": 1356310,
+      "form": "情状酌量",
+      "kana": "じょうじょうしゃくりょう",
+      "gloss": "taking the extenuating circumstances into consideration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        30311
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "状": 5,
+        "量": 4
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1694570/お酌/おしゃく": {
+      "id": 1694570,
+      "form": "お酌",
+      "kana": "おしゃく",
+      "gloss": "pouring alcohol",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        32137
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1859560/意を酌む/いをくむ": {
+      "id": 1859560,
+      "form": "意を酌む",
+      "kana": "いをくむ",
+      "gloss": "to enter into a person's feelings",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        109756
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3
+      },
+      "matched": {
+        "くむ": {
+          "actual": "く",
+          "dictionary": [
+            "く.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1567850/しん酌/しんしゃく": {
+      "id": 1567850,
+      "form": "しん酌",
+      "kana": "しんしゃく",
+      "gloss": "taking into consideration",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        207025
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1874010/献酌/けんしゃく": {
+      "id": 1874010,
+      "form": "献酌",
+      "kana": "けんしゃく",
+      "gloss": "offering a drink",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        219495
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "献": 7
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830923/対酌/たいしゃく": {
+      "id": 2830923,
+      "form": "対酌",
+      "kana": "たいしゃく",
+      "gloss": "sitting across from each other and drinking together",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "対": 3
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2825887/酌量減軽/しゃくりょうげんけい": {
+      "id": 2825887,
+      "form": "酌量減軽",
+      "kana": "しゃくりょうげんけい",
+      "gloss": "reduction of punishment in the light of extenuating circumstances",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "減": 5,
+        "軽": 3,
+        "量": 4
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2053900/未練未酌/みれんみしゃく": {
+      "id": 2053900,
+      "form": "未練未酌",
+      "kana": "みれんみしゃく",
+      "gloss": "regret and sympathy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "練": 3,
+        "未": 4
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1618980/浅酌低唱/せんしゃくていしょう": {
+      "id": 1618980,
+      "form": "浅酌低唱",
+      "kana": "せんしゃくていしょう",
+      "gloss": "getting slightly intoxicated and humming a tune",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "低": 4,
+        "浅": 4,
+        "唱": 4
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1327750/手酌/てじゃく": {
+      "id": 1327750,
+      "form": "手酌",
+      "kana": "てじゃく",
+      "gloss": "helping oneself to a drink",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        125270,
+        47445
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1324200/酌みかわす/くみかわす": {
+      "id": 1324200,
+      "form": "酌みかわす",
+      "kana": "くみかわす",
+      "gloss": "to pour drinks for each other",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        173409
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1324200/酌み交す/くみかわす": {
+      "id": 1324200,
+      "form": "酌み交す",
+      "kana": "くみかわす",
+      "gloss": "to pour drinks for each other",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        187754
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2595620/手酌酒/てじゃくさけ": {
+      "id": 2595620,
+      "form": "手酌酒",
+      "kana": "てじゃくさけ",
+      "gloss": "pouring one's own drinks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        214966
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酒": 3,
+        "手": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1324200/酌交す/くみかわす": {
+      "id": 1324200,
+      "form": "酌交す",
+      "kana": "くみかわす",
+      "gloss": "to pour drinks for each other",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1683430/酌み分ける/くみわける": {
+      "id": 1683430,
+      "form": "酌み分ける",
+      "kana": "くみわける",
+      "gloss": "to apportion drawn water",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        341108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2688610/相酌/あいじゃく": {
+      "id": 2688610,
+      "form": "相酌",
+      "kana": "あいじゃく",
+      "gloss": "drinking alcohol while pouring it for each other",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "相": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1324200/酌交わす/くみかわす": {
+      "id": 1324200,
+      "form": "酌交わす",
+      "kana": "くみかわす",
+      "gloss": "to pour drinks for each other",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2142550/酌/しゃく": {
+      "id": 2142550,
+      "form": "酌",
+      "kana": "しゃく",
+      "gloss": "pouring alcohol",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "dated"
+      ],
+      "ranks": [
+        22087,
+        25604,
+        50941,
+        33162
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1694570/御酌/おしゃく": {
+      "id": 1694570,
+      "form": "御酌",
+      "kana": "おしゃく",
+      "gloss": "pouring alcohol",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        234669
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "御": 7
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2852894/小酌/しょうしゃく": {
+      "id": 2852894,
+      "form": "小酌",
+      "kana": "しょうしゃく",
+      "gloss": "drinking together in a small group",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        300457
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1229590:酌み取る:くみとる",
+      "form": "酌み取る",
+      "kana": "くみとる",
+      "cue": "to draw (water); to scoop up",
+      "ids": [
+        1229590
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 108222
+      },
+      "alternatives_by_kanji": {
+        "取": [
+          "1326980/取る/とる",
+          "1327020/取材/しゅざい",
+          "1428900/聴取/ちょうしゅ"
+        ],
+        "酌": [
+          "1482180/晩酌/ばんしゃく",
+          "1324220/酌量/しゃくりょう",
+          "1324210/酌む/くむ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

@@ -1,0 +1,1563 @@
+{
+  "character": "館",
+  "grade": 3,
+  "meanings": [
+    "building",
+    "mansion",
+    "large building",
+    "palace"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 184
+    }
+  ],
+  "components": [
+    "口",
+    "食",
+    "宀",
+    "｜"
+  ],
+  "on": [
+    "カン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "やかた",
+      "stem": "やかた",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "たて",
+      "stem": "たて",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "たち"
+  ],
+  "government": {
+    "kanji": "館",
+    "heading": "館",
+    "readings": [
+      "カン",
+      "やかた"
+    ],
+    "examples_by_reading": [
+      [
+        "館内",
+        "旅館",
+        "図書館"
+      ],
+      [
+        "館"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "館",
+      "reading": "カン",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 178,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1553130/旅館/りょかん",
+        "1614320/館内/かんない",
+        "1370420/図書館/としょかん",
+        "1370420/図書館/ずしょかん",
+        "1929870/館/かん",
+        "1589660/会館/かいかん",
+        "1216240/館長/かんちょう",
+        "1522350/本館/ほんかん",
+        "1202580/開館/かいかん",
+        "1508620/閉館/へいかん"
+      ]
+    },
+    {
+      "reading": "やかた",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2868182/館/たち",
+        "2852126/恐怖の館/きょうふのやかた",
+        "2597330/夏館/なつやかた",
+        "1216210/館/やかた",
+        "2434320/館/むろつみ",
+        "2745720/お館様/おやかたさま",
+        "2745720/御館様/おやかたさま",
+        "2745720/御館さま/おやかたさま",
+        "2745720/お館さま/おやかたさま"
+      ]
+    },
+    {
+      "reading": "たて",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2868182/館/たて"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1553130/旅館/りょかん",
+    "1614320/館内/かんない",
+    "1370420/図書館/としょかん",
+    "1370420/図書館/ずしょかん",
+    "1929870/館/かん",
+    "2868182/館/たて",
+    "2868182/館/たち",
+    "1589660/会館/かいかん",
+    "1216240/館長/かんちょう",
+    "1522350/本館/ほんかん",
+    "1202580/開館/かいかん",
+    "1508620/閉館/へいかん",
+    "1545920/洋館/ようかん",
+    "1836050/休館/きゅうかん",
+    "1509620/別館/べっかん",
+    "1346690/商館/しょうかん",
+    "1216230/館員/かんいん",
+    "2827303/居館/きょかん",
+    "2556080/入館/にゅうかん",
+    "2105990/来館/らいかん",
+    "2851830/当館/とうかん",
+    "1394990/全館/ぜんかん",
+    "1361620/新館/しんかん",
+    "2532050/娼館/しょうかん",
+    "1273430/公館/こうかん",
+    "2832936/城館/じょうかん",
+    "1503330/分館/ぶんかん",
+    "1950860/旧館/きゅうかん",
+    "2859113/東館/ひがしかん",
+    "1665890/館主/かんしゅ"
+  ],
+  "candidates": {
+    "1553130/旅館/りょかん": {
+      "id": 1553130,
+      "form": "旅館",
+      "kana": "りょかん",
+      "gloss": "ryokan",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5420,
+        6942,
+        7265,
+        9909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "旅": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1614320/館内/かんない": {
+      "id": 1614320,
+      "form": "館内",
+      "kana": "かんない",
+      "gloss": "inside a library, museum, cinema, etc.",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15640,
+        12666,
+        17491,
+        17970
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1370420/図書館/としょかん": {
+      "id": 1370420,
+      "form": "図書館",
+      "kana": "としょかん",
+      "gloss": "library",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        3167,
+        5315
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2,
+        "書": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1370420/図書館/ずしょかん": {
+      "id": 1370420,
+      "form": "図書館",
+      "kana": "ずしょかん",
+      "gloss": "library",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        3167,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "図": 2,
+        "書": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1929870/館/かん": {
+      "id": 1929870,
+      "form": "館",
+      "kana": "かん",
+      "gloss": "(large) building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        13214
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "やかた"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2868182/館/たて": {
+      "id": 2868182,
+      "form": "館",
+      "kana": "たて",
+      "gloss": "mansion (of a noble)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "たて": {
+          "actual": "たて",
+          "dictionary": [
+            "たて"
+          ]
+        }
+      },
+      "official_examples": [
+        "やかた"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2868182/館/たち": {
+      "id": 2868182,
+      "form": "館",
+      "kana": "たち",
+      "gloss": "mansion (of a noble)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "やかた": {
+          "actual": "たち",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "やかた"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1589660/会館/かいかん": {
+      "id": 1589660,
+      "form": "会館",
+      "kana": "かいかん",
+      "gloss": "meeting hall",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10754,
+        9822,
+        8611,
+        37015
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1216240/館長/かんちょう": {
+      "id": 1216240,
+      "form": "館長",
+      "kana": "かんちょう",
+      "gloss": "superintendent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10038,
+        18615,
+        22590,
+        36305
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522350/本館/ほんかん": {
+      "id": 1522350,
+      "form": "本館",
+      "kana": "ほんかん",
+      "gloss": "main building (as opposed to an annex, outbuilding, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13623,
+        14409,
+        21173,
+        35578
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202580/開館/かいかん": {
+      "id": 1202580,
+      "form": "開館",
+      "kana": "かいかん",
+      "gloss": "opening (for that day's business; of a library, museum, cinema, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14216,
+        19813,
+        21741,
+        59378
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "開": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1508620/閉館/へいかん": {
+      "id": 1508620,
+      "form": "閉館",
+      "kana": "へいかん",
+      "gloss": "closing (for the day; of a library, museum, cinema, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12890,
+        25714,
+        26398,
+        37553
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閉": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1545920/洋館/ようかん": {
+      "id": 1545920,
+      "form": "洋館",
+      "kana": "ようかん",
+      "gloss": "Western-style house (esp. one built in the Meiji or Taisho periods)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15041,
+        19130,
+        37490,
+        24014
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "洋": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1836050/休館/きゅうかん": {
+      "id": 1836050,
+      "form": "休館",
+      "kana": "きゅうかん",
+      "gloss": "closure (of a library, museum, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        19584,
+        18001,
+        27344,
+        86791
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1509620/別館/べっかん": {
+      "id": 1509620,
+      "form": "別館",
+      "kana": "べっかん",
+      "gloss": "annex (to a building)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23340,
+        25501,
+        31791,
+        43424
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1346690/商館/しょうかん": {
+      "id": 1346690,
+      "form": "商館",
+      "kana": "しょうかん",
+      "gloss": "trading company (esp. a Japanese outpost of a foreign firm)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33394,
+        73159,
+        81694,
+        68477
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "商": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1216230/館員/かんいん": {
+      "id": 1216230,
+      "form": "館員",
+      "kana": "かんいん",
+      "gloss": "personnel (of public building)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37859,
+        81652,
+        89631,
+        115799
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "員": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827303/居館/きょかん": {
+      "id": 2827303,
+      "form": "居館",
+      "kana": "きょかん",
+      "gloss": "residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36359,
+        121818,
+        78707,
+        87655
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "居": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2556080/入館/にゅうかん": {
+      "id": 2556080,
+      "form": "入館",
+      "kana": "にゅうかん",
+      "gloss": "entry (into a library, museum, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26803,
+        27344,
+        52725
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2105990/来館/らいかん": {
+      "id": 2105990,
+      "form": "来館",
+      "kana": "らいかん",
+      "gloss": "coming to an embassy, theatre, library, etc.",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26575,
+        26068,
+        80399
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851830/当館/とうかん": {
+      "id": 2851830,
+      "form": "当館",
+      "kana": "とうかん",
+      "gloss": "this library",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24904,
+        35359,
+        57534
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1394990/全館/ぜんかん": {
+      "id": 1394990,
+      "form": "全館",
+      "kana": "ぜんかん",
+      "gloss": "entire building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        32483,
+        37034,
+        65963
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1361620/新館/しんかん": {
+      "id": 1361620,
+      "form": "新館",
+      "kana": "しんかん",
+      "gloss": "new building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37698,
+        32914,
+        77768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2532050/娼館/しょうかん": {
+      "id": 2532050,
+      "form": "娼館",
+      "kana": "しょうかん",
+      "gloss": "brothel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        53687,
+        39618
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1273430/公館/こうかん": {
+      "id": 1273430,
+      "form": "公館",
+      "kana": "こうかん",
+      "gloss": "official residence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        51509,
+        54233,
+        100560
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832936/城館/じょうかん": {
+      "id": 2832936,
+      "form": "城館",
+      "kana": "じょうかん",
+      "gloss": "fortified mansion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34137,
+        173792,
+        null,
+        74881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "城": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1503330/分館/ぶんかん": {
+      "id": 1503330,
+      "form": "分館",
+      "kana": "ぶんかん",
+      "gloss": "annex (to a building)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44489,
+        69479,
+        134927
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1950860/旧館/きゅうかん": {
+      "id": 1950860,
+      "form": "旧館",
+      "kana": "きゅうかん",
+      "gloss": "old building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        93020,
+        81105
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "旧": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859113/東館/ひがしかん": {
+      "id": 2859113,
+      "form": "東館",
+      "kana": "ひがしかん",
+      "gloss": "eastern annex",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        114322,
+        79176
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "東": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1665890/館主/かんしゅ": {
+      "id": 1665890,
+      "form": "館主",
+      "kana": "かんしゅ",
+      "gloss": "manager",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        70783,
+        109635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2852126/恐怖の館/きょうふのやかた": {
+      "id": 2852126,
+      "form": "恐怖の館",
+      "kana": "きょうふのやかた",
+      "gloss": "house of horrors",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        121533
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恐": 7,
+        "怖": 7
+      },
+      "matched": {
+        "やかた": {
+          "actual": "やかた",
+          "dictionary": [
+            "やかた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2597330/夏館/なつやかた": {
+      "id": 2597330,
+      "form": "夏館",
+      "kana": "なつやかた",
+      "gloss": "villa arranged appropriately for summer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "夏": 2
+      },
+      "matched": {
+        "やかた": {
+          "actual": "やかた",
+          "dictionary": [
+            "やかた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1216210/館/やかた": {
+      "id": 1216210,
+      "form": "館",
+      "kana": "やかた",
+      "gloss": "mansion",
+      "senses": [
+        0,
+        1,
+        4
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        8393
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "やかた": {
+          "actual": "やかた",
+          "dictionary": [
+            "やかた"
+          ]
+        }
+      },
+      "official_examples": [
+        "やかた"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2434320/館/むろつみ": {
+      "id": 2434320,
+      "form": "館",
+      "kana": "むろつみ",
+      "gloss": "inn",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "やかた": {
+          "actual": "むろつみ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "やかた"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2745720/お館様/おやかたさま": {
+      "id": 2745720,
+      "form": "お館様",
+      "kana": "おやかたさま",
+      "gloss": "nobleman",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        56993
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3
+      },
+      "matched": {
+        "やかた": {
+          "actual": "やかた",
+          "dictionary": [
+            "やかた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2745720/御館様/おやかたさま": {
+      "id": 2745720,
+      "form": "御館様",
+      "kana": "おやかたさま",
+      "gloss": "nobleman",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        87798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3,
+        "御": 7
+      },
+      "matched": {
+        "やかた": {
+          "actual": "やかた",
+          "dictionary": [
+            "やかた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2745720/御館さま/おやかたさま": {
+      "id": 2745720,
+      "form": "御館さま",
+      "kana": "おやかたさま",
+      "gloss": "nobleman",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        251642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "御": 7
+      },
+      "matched": {
+        "やかた": {
+          "actual": "やかた",
+          "dictionary": [
+            "やかた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2745720/お館さま/おやかたさま": {
+      "id": 2745720,
+      "form": "お館さま",
+      "kana": "おやかたさま",
+      "gloss": "nobleman",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "やかた": {
+          "actual": "やかた",
+          "dictionary": [
+            "やかた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1253260:迎賓館:げいひんかん",
+      "form": "迎賓館",
+      "kana": "げいひんかん",
+      "cue": "reception hall (esp. for visiting state dignitaries); guest house",
+      "ids": [
+        1253260
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 61806,
+        "wordfreq": 50386
+      },
+      "alternatives_by_kanji": {
+        "館": [
+          "1553130/旅館/りょかん",
+          "1614320/館内/かんない",
+          "1370420/図書館/としょかん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1589660:会館:かいかん",
+      "form": "会館",
+      "kana": "かいかん",
+      "cue": "meeting hall; assembly hall",
+      "ids": [
+        1589660
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 37015,
+        "shiberu": 10754,
+        "tubelex": 9822,
+        "wordfreq": 8611
+      },
+      "alternatives_by_kanji": {
+        "会": [
+          "1322700/社会/しゃかい",
+          "1198880/会話/かいわ",
+          "1198430/会計/かいけい"
+        ],
+        "館": [
+          "1553130/旅館/りょかん",
+          "1614320/館内/かんない",
+          "1370420/図書館/としょかん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 32
+}

@@ -1,0 +1,1206 @@
+{
+  "character": "符",
+  "grade": 7,
+  "meanings": [
+    "token",
+    "sign",
+    "mark",
+    "tally",
+    "charm"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 118
+    }
+  ],
+  "components": [
+    "化",
+    "寸",
+    "竹",
+    "乞"
+  ],
+  "on": [
+    "フ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "符",
+    "heading": "符",
+    "readings": [
+      "フ"
+    ],
+    "examples_by_reading": [
+      [
+        "符号",
+        "切符",
+        "音符"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "符",
+      "reading": "フ",
+      "source": "table_28_hu.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "フ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 41,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1385170/切符/きっぷ",
+        "1497710/符号/ふごう",
+        "1184040/音符/おんぷ",
+        "2703290/符/ふ",
+        "1497750/符合/ふごう",
+        "1271580/護符/ごふ",
+        "1228070/休符/きゅうふ",
+        "1771080/呪符/じゅふ",
+        "1497760/符丁/ふちょう",
+        "1332850/終止符/しゅうしふ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1385170/切符/きっぷ",
+    "1497710/符号/ふごう",
+    "1184040/音符/おんぷ",
+    "2703290/符/ふ",
+    "1497750/符合/ふごう",
+    "1271580/護符/ごふ",
+    "1228070/休符/きゅうふ",
+    "1771080/呪符/じゅふ",
+    "1497760/符丁/ふちょう",
+    "1332850/終止符/しゅうしふ",
+    "1225660/疑問符/ぎもんふ",
+    "1606960/割り符/わりふ",
+    "1497760/符牒/ふちょう",
+    "1656310/符節/ふせつ",
+    "1606960/割符/わりふ",
+    "2146910/終止符を打つ/しゅうしふをうつ",
+    "1533180/免罪符/めんざいふ",
+    "2848460/疑問符がつく/ぎもんふがつく",
+    "2223070/霊符/れいふ",
+    "1212500/感嘆符/かんたんふ",
+    "2848460/疑問符が付く/ぎもんふがつく",
+    "1497720/符号化/ふごうか",
+    "1969170/モールス符号/モールスふごう",
+    "2245850/符呪/ふじゅ",
+    "1227810/休止符/きゅうしふ",
+    "1169690/引用符/いんようふ",
+    "2838141/仮符号/かりふごう",
+    "2436630/符号付き/ふごうつき",
+    "2827567/呼出符号/よびだしふごう",
+    "2385070/符号化方式/ふごうかほうしき"
+  ],
+  "candidates": {
+    "1385170/切符/きっぷ": {
+      "id": 1385170,
+      "form": "切符",
+      "kana": "きっぷ",
+      "gloss": "ticket",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7946,
+        7098,
+        11368,
+        15334
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "フ": {
+          "actual": "ぷ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "フ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1497710/符号/ふごう": {
+      "id": 1497710,
+      "form": "符号",
+      "kana": "ふごう",
+      "gloss": "sign",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6720,
+        13373,
+        23216,
+        44580
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "号": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [
+        "フ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1184040/音符/おんぷ": {
+      "id": 1184040,
+      "form": "音符",
+      "kana": "おんぷ",
+      "gloss": "musical note",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20401,
+        8939,
+        21741,
+        37930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "音": 1
+      },
+      "matched": {
+        "フ": {
+          "actual": "ぷ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "フ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2703290/符/ふ": {
+      "id": 2703290,
+      "form": "符",
+      "kana": "ふ",
+      "gloss": "charm",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5929,
+        11711,
+        11740,
+        39642
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1497750/符合/ふごう": {
+      "id": 1497750,
+      "form": "符合",
+      "kana": "ふごう",
+      "gloss": "agreement",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14577,
+        41831,
+        49383,
+        31246
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271580/護符/ごふ": {
+      "id": 1271580,
+      "form": "護符",
+      "kana": "ごふ",
+      "gloss": "talisman",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25604,
+        29494,
+        42960,
+        34725
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "護": 5
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1228070/休符/きゅうふ": {
+      "id": 1228070,
+      "form": "休符",
+      "kana": "きゅうふ",
+      "gloss": "rest (sign)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37151,
+        25936,
+        null,
+        105955
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771080/呪符/じゅふ": {
+      "id": 1771080,
+      "form": "呪符",
+      "kana": "じゅふ",
+      "gloss": "amulet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        64314,
+        49570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呪": 7
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1497760/符丁/ふちょう": {
+      "id": 1497760,
+      "form": "符丁",
+      "kana": "ふちょう",
+      "gloss": "symbol",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        129940,
+        53500
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丁": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332850/終止符/しゅうしふ": {
+      "id": 1332850,
+      "form": "終止符",
+      "kana": "しゅうしふ",
+      "gloss": "full stop",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        22017,
+        37225
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "終": 3,
+        "止": 2
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1225660/疑問符/ぎもんふ": {
+      "id": 1225660,
+      "form": "疑問符",
+      "kana": "ぎもんふ",
+      "gloss": "question mark",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        35359,
+        18688
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3,
+        "疑": 6
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1606960/割り符/わりふ": {
+      "id": 1606960,
+      "form": "割り符",
+      "kana": "わりふ",
+      "gloss": "tally",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        null,
+        123822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "割": 6
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1497760/符牒/ふちょう": {
+      "id": 1497760,
+      "form": "符牒",
+      "kana": "ふちょう",
+      "gloss": "symbol",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        92126,
+        73286
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1656310/符節/ふせつ": {
+      "id": 1656310,
+      "form": "符節",
+      "kana": "ふせつ",
+      "gloss": "tally",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        null,
+        162244
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "節": 4
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1606960/割符/わりふ": {
+      "id": 1606960,
+      "form": "割符",
+      "kana": "わりふ",
+      "gloss": "tally",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        187348,
+        106585
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "割": 6
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2146910/終止符を打つ/しゅうしふをうつ": {
+      "id": 2146910,
+      "form": "終止符を打つ",
+      "kana": "しゅうしふをうつ",
+      "gloss": "to put an end (to)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24247
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3,
+        "終": 3,
+        "止": 2
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1533180/免罪符/めんざいふ": {
+      "id": 1533180,
+      "form": "免罪符",
+      "kana": "めんざいふ",
+      "gloss": "indulgence (esp. in the Catholic Church)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28643
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罪": 5,
+        "免": 7
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2848460/疑問符がつく/ぎもんふがつく": {
+      "id": 2848460,
+      "form": "疑問符がつく",
+      "kana": "ぎもんふがつく",
+      "gloss": "the question remains",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        85549
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3,
+        "疑": 6
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2223070/霊符/れいふ": {
+      "id": 2223070,
+      "form": "霊符",
+      "kana": "れいふ",
+      "gloss": "charm",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        89546
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "霊": 7
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1212500/感嘆符/かんたんふ": {
+      "id": 1212500,
+      "form": "感嘆符",
+      "kana": "かんたんふ",
+      "gloss": "exclamation point",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        94607
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "嘆": 7,
+        "感": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2848460/疑問符が付く/ぎもんふがつく": {
+      "id": 2848460,
+      "form": "疑問符が付く",
+      "kana": "ぎもんふがつく",
+      "gloss": "the question remains",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        120158
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4,
+        "問": 3,
+        "疑": 6
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1497720/符号化/ふごうか": {
+      "id": 1497720,
+      "form": "符号化",
+      "kana": "ふごうか",
+      "gloss": "encoding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        150178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "号": 3,
+        "化": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1969170/モールス符号/モールスふごう": {
+      "id": 1969170,
+      "form": "モールス符号",
+      "kana": "モールスふごう",
+      "gloss": "Morse code (esp. the code)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        151136
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "号": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2245850/符呪/ふじゅ": {
+      "id": 2245850,
+      "form": "符呪",
+      "kana": "ふじゅ",
+      "gloss": "incantation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        170575
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呪": 7
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1227810/休止符/きゅうしふ": {
+      "id": 1227810,
+      "form": "休止符",
+      "kana": "きゅうしふ",
+      "gloss": "rest (sign)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        185177
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1,
+        "止": 2
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1169690/引用符/いんようふ": {
+      "id": 1169690,
+      "form": "引用符",
+      "kana": "いんようふ",
+      "gloss": "quotation marks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        203520
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "引": 2,
+        "用": 2
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2838141/仮符号/かりふごう": {
+      "id": 2838141,
+      "form": "仮符号",
+      "kana": "かりふごう",
+      "gloss": "provisional designation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        261651
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "号": 3,
+        "仮": 5
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2436630/符号付き/ふごうつき": {
+      "id": 2436630,
+      "form": "符号付き",
+      "kana": "ふごうつき",
+      "gloss": "signed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        268305
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4,
+        "号": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827567/呼出符号/よびだしふごう": {
+      "id": 2827567,
+      "form": "呼出符号",
+      "kana": "よびだしふごう",
+      "gloss": "(radio) call sign",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        275061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1,
+        "呼": 6,
+        "号": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2385070/符号化方式/ふごうかほうしき": {
+      "id": 2385070,
+      "form": "符号化方式",
+      "kana": "ふごうかほうしき",
+      "gloss": "encoding method",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2,
+        "号": 3,
+        "化": 3,
+        "式": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1588920:陸符:おか",
+      "form": "陸符",
+      "kana": "おか",
+      "cue": "bonus points awarded to the winner at the end of a game",
+      "ids": [
+        1588920
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [
+        "no primary exact-form evidence",
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {},
+      "alternatives_by_kanji": {
+        "陸": [
+          "1423280/着陸/ちゃくりく",
+          "1644320/陸地/りくち",
+          "1612250/陸橋/りっきょう"
+        ],
+        "符": [
+          "1385170/切符/きっぷ",
+          "1497710/符号/ふごう",
+          "1184040/音符/おんぷ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 52
+}

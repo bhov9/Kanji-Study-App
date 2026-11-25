@@ -1,0 +1,712 @@
+{
+  "character": "剖",
+  "grade": 7,
+  "meanings": [
+    "divide"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 18
+    }
+  ],
+  "components": [
+    "刈",
+    "口",
+    "立"
+  ],
+  "on": [
+    "ボウ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "剖",
+    "heading": "剖",
+    "readings": [
+      "ボウ"
+    ],
+    "examples_by_reading": [
+      [
+        "解剖"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "剖",
+      "reading": "ボウ",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ボウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 15,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1199270/解剖/かいぼう",
+        "1519040/剖検/ぼうけん",
+        "1817750/司法解剖/しほうかいぼう",
+        "1199280/解剖学/かいぼうがく",
+        "2631600/解剖図/かいぼうず",
+        "2858901/病理解剖/びょうりかいぼう",
+        "1379260/生体解剖/せいたいかいぼう",
+        "2855350/行政解剖/ぎょうせいかいぼう",
+        "1767470/死体解剖/したいかいぼう",
+        "2413250/人体解剖学/じんたいかいぼうがく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1199270/解剖/かいぼう",
+    "1519040/剖検/ぼうけん",
+    "1817750/司法解剖/しほうかいぼう",
+    "1199280/解剖学/かいぼうがく",
+    "2631600/解剖図/かいぼうず",
+    "2858901/病理解剖/びょうりかいぼう",
+    "1379260/生体解剖/せいたいかいぼう",
+    "2855350/行政解剖/ぎょうせいかいぼう",
+    "1767470/死体解剖/したいかいぼう",
+    "2413250/人体解剖学/じんたいかいぼうがく",
+    "2260650/解剖学者/かいぼうがくしゃ",
+    "2685140/法医解剖/ほういかいぼう",
+    "2557460/比較解剖学/ひかくかいぼうがく",
+    "2810350/神経解剖学/しんけいかいぼうがく",
+    "2519480/病理解剖学/びょうりかいぼうがく",
+    "2866589/解剖劇場/かいぼうげきじょう"
+  ],
+  "candidates": {
+    "1199270/解剖/かいぼう": {
+      "id": 1199270,
+      "form": "解剖",
+      "kana": "かいぼう",
+      "gloss": "dissection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3478,
+        11781,
+        10217,
+        15211
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1519040/剖検/ぼうけん": {
+      "id": 1519040,
+      "form": "剖検",
+      "kana": "ぼうけん",
+      "gloss": "autopsy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        84059,
+        160537
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "検": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1817750/司法解剖/しほうかいぼう": {
+      "id": 1817750,
+      "form": "司法解剖",
+      "kana": "しほうかいぼう",
+      "gloss": "legally ordered autopsy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43670
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "解": 5,
+        "司": 4
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1199280/解剖学/かいぼうがく": {
+      "id": 1199280,
+      "form": "解剖学",
+      "kana": "かいぼうがく",
+      "gloss": "anatomy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        63295
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5,
+        "学": 1
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2631600/解剖図/かいぼうず": {
+      "id": 2631600,
+      "form": "解剖図",
+      "kana": "かいぼうず",
+      "gloss": "anatomical drawing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        96924
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2,
+        "解": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858901/病理解剖/びょうりかいぼう": {
+      "id": 2858901,
+      "form": "病理解剖",
+      "kana": "びょうりかいぼう",
+      "gloss": "clinical autopsy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114338
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5,
+        "病": 3,
+        "理": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1379260/生体解剖/せいたいかいぼう": {
+      "id": 1379260,
+      "form": "生体解剖",
+      "kana": "せいたいかいぼう",
+      "gloss": "vivisection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        117923
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1,
+        "解": 5,
+        "体": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855350/行政解剖/ぎょうせいかいぼう": {
+      "id": 2855350,
+      "form": "行政解剖",
+      "kana": "ぎょうせいかいぼう",
+      "gloss": "autopsy initiated by government authorities",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        119251
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "解": 5,
+        "政": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1767470/死体解剖/したいかいぼう": {
+      "id": 1767470,
+      "form": "死体解剖",
+      "kana": "したいかいぼう",
+      "gloss": "autopsy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        145201
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3,
+        "解": 5,
+        "体": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2413250/人体解剖学/じんたいかいぼうがく": {
+      "id": 2413250,
+      "form": "人体解剖学",
+      "kana": "じんたいかいぼうがく",
+      "gloss": "human anatomy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        175961
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "解": 5,
+        "学": 1,
+        "体": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2260650/解剖学者/かいぼうがくしゃ": {
+      "id": 2260650,
+      "form": "解剖学者",
+      "kana": "かいぼうがくしゃ",
+      "gloss": "anatomist",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        185909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5,
+        "学": 1,
+        "者": 3
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2685140/法医解剖/ほういかいぼう": {
+      "id": 2685140,
+      "form": "法医解剖",
+      "kana": "ほういかいぼう",
+      "gloss": "medicolegal autopsy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        248225
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "解": 5,
+        "医": 3
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2557460/比較解剖学/ひかくかいぼうがく": {
+      "id": 2557460,
+      "form": "比較解剖学",
+      "kana": "ひかくかいぼうがく",
+      "gloss": "comparative anatomy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5,
+        "学": 1,
+        "較": 7,
+        "比": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2810350/神経解剖学/しんけいかいぼうがく": {
+      "id": 2810350,
+      "form": "神経解剖学",
+      "kana": "しんけいかいぼうがく",
+      "gloss": "neuroanatomy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        316415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "神": 3,
+        "解": 5,
+        "学": 1,
+        "経": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2519480/病理解剖学/びょうりかいぼうがく": {
+      "id": 2519480,
+      "form": "病理解剖学",
+      "kana": "びょうりかいぼうがく",
+      "gloss": "morbid anatomy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5,
+        "学": 1,
+        "病": 3,
+        "理": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866589/解剖劇場/かいぼうげきじょう": {
+      "id": 2866589,
+      "form": "解剖劇場",
+      "kana": "かいぼうげきじょう",
+      "gloss": "anatomy-teaching lecture theatre",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "場": 2,
+        "劇": 6,
+        "解": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1199270:解剖:かいぼう",
+      "form": "解剖",
+      "kana": "かいぼう",
+      "cue": "dissection; autopsy",
+      "ids": [
+        1199270
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 15211,
+        "shiberu": 3478,
+        "tubelex": 11781,
+        "wordfreq": 10217
+      },
+      "alternatives_by_kanji": {
+        "解": [
+          "1549910/理解/りかい",
+          "1198960/解決/かいけつ",
+          "1198950/解禁/かいきん"
+        ],
+        "剖": [
+          "1519040/剖検/ぼうけん",
+          "1817750/司法解剖/しほうかいぼう",
+          "1199280/解剖学/かいぼうがく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

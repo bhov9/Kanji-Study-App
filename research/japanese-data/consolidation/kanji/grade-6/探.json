@@ -1,0 +1,1518 @@
+{
+  "character": "探",
+  "grade": 6,
+  "meanings": [
+    "grope",
+    "search",
+    "look for"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "木",
+    "儿",
+    "冖",
+    "扎"
+  ],
+  "on": [
+    "タン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "さぐ.る",
+      "stem": "さぐ",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "さが.す",
+      "stem": "さが",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "探",
+    "heading": "探",
+    "readings": [
+      "タン",
+      "さぐる",
+      "さがす"
+    ],
+    "examples_by_reading": [
+      [
+        "探求",
+        "探訪",
+        "探知"
+      ],
+      [
+        "探る",
+        "探り"
+      ],
+      [
+        "探す"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "",
+      "⇔捜す"
+    ],
+    "representative_index": {
+      "kanji": "探",
+      "reading": "タン",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "タン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 79,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1418270/探求/たんきゅう",
+        "1418360/探知/たんち",
+        "1418400/探訪/たんぼう",
+        "1418380/探偵/たんてい",
+        "1418340/探索/たんさく",
+        "1597250/探検/たんけん",
+        "1418320/探査/たんさ",
+        "1418290/探究/たんきゅう",
+        "1597250/探険/たんけん",
+        "1768930/探題/たんだい"
+      ]
+    },
+    {
+      "reading": "さぐる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1418260/探る/さぐる",
+        "1853050/探り/さぐり",
+        "2085260/道を探る/みちをさぐる",
+        "2843740/腹を探る/はらをさぐる"
+      ]
+    },
+    {
+      "reading": "さがす",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1593670/探す/さがす",
+        "1883290/職を探す/しょくをさがす",
+        "2840646/粗を探す/あらをさがす",
+        "2840646/あらを探す/あらをさがす",
+        "2840646/アラを探す/あらをさがす",
+        "2841226/草の根を分けて探す/くさのねをわけてさがす",
+        "2840646/荒を探す/あらをさがす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1593670/探す/さがす",
+    "1418260/探る/さぐる",
+    "1418270/探求/たんきゅう",
+    "1418360/探知/たんち",
+    "1853050/探り/さぐり",
+    "1418400/探訪/たんぼう",
+    "1418380/探偵/たんてい",
+    "1418340/探索/たんさく",
+    "1597250/探検/たんけん",
+    "1418320/探査/たんさ",
+    "1418290/探究/たんきゅう",
+    "1597250/探険/たんけん",
+    "1768930/探題/たんだい",
+    "1418310/探鉱/たんこう",
+    "2864199/魚探/ぎょたん",
+    "1661300/探勝/たんしょう",
+    "1766000/電探/でんたん",
+    "1661310/探照灯/たんしょうとう",
+    "2834500/探掘/たんくつ",
+    "2860555/探信/たんしん",
+    "2870617/逆探/ぎゃくたん",
+    "2016910/探針/たんしん",
+    "1892090/探測/たんそく",
+    "2860744/探傷/たんしょう",
+    "1911620/名探偵/めいたんてい",
+    "1768860/探究心/たんきゅうしん",
+    "2555820/探偵事務所/たんていじむしょ",
+    "1768860/探求心/たんきゅうしん",
+    "1418370/探知機/たんちき",
+    "2085260/道を探る/みちをさぐる"
+  ],
+  "candidates": {
+    "1593670/探す/さがす": {
+      "id": 1593670,
+      "form": "探す",
+      "kana": "さがす",
+      "gloss": "to search for",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1120,
+        538,
+        1922,
+        394
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さがす": {
+          "actual": "さが",
+          "dictionary": [
+            "さが.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "さがす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418260/探る/さぐる": {
+      "id": 1418260,
+      "form": "探る",
+      "kana": "さぐる",
+      "gloss": "to feel around for",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4780,
+        4465,
+        11204,
+        1777
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さぐる": {
+          "actual": "さぐ",
+          "dictionary": [
+            "さぐ.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "さぐる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418270/探求/たんきゅう": {
+      "id": 1418270,
+      "form": "探求",
+      "kana": "たんきゅう",
+      "gloss": "search",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9148,
+        9822,
+        14132,
+        24041
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "求": 4
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1418360/探知/たんち": {
+      "id": 1418360,
+      "form": "探知",
+      "kana": "たんち",
+      "gloss": "detection",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15614,
+        13121,
+        13090,
+        16072
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "知": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1853050/探り/さぐり": {
+      "id": 1853050,
+      "form": "探り",
+      "kana": "さぐり",
+      "gloss": "sounding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28156,
+        38312,
+        19848,
+        18779
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さぐる": {
+          "actual": "さぐ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "さぐる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418400/探訪/たんぼう": {
+      "id": 1418400,
+      "form": "探訪",
+      "kana": "たんぼう",
+      "gloss": "searching",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32680,
+        33444,
+        30216,
+        63570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訪": 6
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418380/探偵/たんてい": {
+      "id": 1418380,
+      "form": "探偵",
+      "kana": "たんてい",
+      "gloss": "detective",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        989,
+        3486,
+        3734,
+        7096
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "偵": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418340/探索/たんさく": {
+      "id": 1418340,
+      "form": "探索",
+      "kana": "たんさく",
+      "gloss": "search",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7283,
+        2728,
+        7391,
+        6095
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "索": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1597250/探検/たんけん": {
+      "id": 1597250,
+      "form": "探検",
+      "kana": "たんけん",
+      "gloss": "exploration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3495,
+        6402,
+        9454,
+        11975
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "検": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1418320/探査/たんさ": {
+      "id": 1418320,
+      "form": "探査",
+      "kana": "たんさ",
+      "gloss": "probe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12534,
+        11821,
+        11204,
+        27762
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "査": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418290/探究/たんきゅう": {
+      "id": 1418290,
+      "form": "探究",
+      "kana": "たんきゅう",
+      "gloss": "research",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8031,
+        16416,
+        25040,
+        40736
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "究": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597250/探険/たんけん": {
+      "id": 1597250,
+      "form": "探険",
+      "kana": "たんけん",
+      "gloss": "exploration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16629,
+        null,
+        72128,
+        59933
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "険": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1768930/探題/たんだい": {
+      "id": 1768930,
+      "form": "探題",
+      "kana": "たんだい",
+      "gloss": "local commissioner (Kamakura or Muromachi eras)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        40691,
+        88816,
+        116468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "題": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418310/探鉱/たんこう": {
+      "id": 1418310,
+      "form": "探鉱",
+      "kana": "たんこう",
+      "gloss": "mineral exploration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        85597,
+        138662
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉱": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864199/魚探/ぎょたん": {
+      "id": 2864199,
+      "form": "魚探",
+      "kana": "ぎょたん",
+      "gloss": "fishfinder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37110,
+        194337,
+        181034
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "魚": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661300/探勝/たんしょう": {
+      "id": 1661300,
+      "form": "探勝",
+      "kana": "たんしょう",
+      "gloss": "sightseeing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        132292,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勝": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1766000/電探/でんたん": {
+      "id": 1766000,
+      "form": "電探",
+      "kana": "でんたん",
+      "gloss": "radar",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41422,
+        null,
+        133107
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661310/探照灯/たんしょうとう": {
+      "id": 1661310,
+      "form": "探照灯",
+      "kana": "たんしょうとう",
+      "gloss": "searchlight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        60579,
+        112709
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4,
+        "照": 4
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834500/探掘/たんくつ": {
+      "id": 2834500,
+      "form": "探掘",
+      "kana": "たんくつ",
+      "gloss": "exploratory excavation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掘": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860555/探信/たんしん": {
+      "id": 2860555,
+      "form": "探信",
+      "kana": "たんしん",
+      "gloss": "transmission of a sonar pulse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        null,
+        152285
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "信": 4
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870617/逆探/ぎゃくたん": {
+      "id": 2870617,
+      "form": "逆探",
+      "kana": "ぎゃくたん",
+      "gloss": "call tracing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        90469
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "逆": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2016910/探針/たんしん": {
+      "id": 2016910,
+      "form": "探針",
+      "kana": "たんしん",
+      "gloss": "probe (device; electric, magnetic, sonic, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        139854
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "針": 6
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1892090/探測/たんそく": {
+      "id": 1892090,
+      "form": "探測",
+      "kana": "たんそく",
+      "gloss": "probing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        175266
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "測": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860744/探傷/たんしょう": {
+      "id": 2860744,
+      "form": "探傷",
+      "kana": "たんしょう",
+      "gloss": "flaw detection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        226273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "傷": 6
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1911620/名探偵/めいたんてい": {
+      "id": 1911620,
+      "form": "名探偵",
+      "kana": "めいたんてい",
+      "gloss": "great detective",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        15576
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "偵": 7,
+        "名": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1768860/探究心/たんきゅうしん": {
+      "id": 1768860,
+      "form": "探究心",
+      "kana": "たんきゅうしん",
+      "gloss": "inquisitive mind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35428
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2,
+        "究": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2555820/探偵事務所/たんていじむしょ": {
+      "id": 2555820,
+      "form": "探偵事務所",
+      "kana": "たんていじむしょ",
+      "gloss": "detective bureau",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37049
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "所": 3,
+        "務": 5,
+        "偵": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1768860/探求心/たんきゅうしん": {
+      "id": 1768860,
+      "form": "探求心",
+      "kana": "たんきゅうしん",
+      "gloss": "inquisitive mind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        41766
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2,
+        "求": 4
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418370/探知機/たんちき": {
+      "id": 1418370,
+      "form": "探知機",
+      "kana": "たんちき",
+      "gloss": "detector",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4,
+        "知": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2085260/道を探る/みちをさぐる": {
+      "id": 2085260,
+      "form": "道を探る",
+      "kana": "みちをさぐる",
+      "gloss": "to seek a path",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43076
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "さぐる": {
+          "actual": "さぐ",
+          "dictionary": [
+            "さぐ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2843740/腹を探る/はらをさぐる": {
+      "id": 2843740,
+      "form": "腹を探る",
+      "kana": "はらをさぐる",
+      "gloss": "to probe someone's real intentions",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        47665
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腹": 6
+      },
+      "matched": {
+        "さぐる": {
+          "actual": "さぐ",
+          "dictionary": [
+            "さぐ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1883290/職を探す/しょくをさがす": {
+      "id": 1883290,
+      "form": "職を探す",
+      "kana": "しょくをさがす",
+      "gloss": "to hunt for a job",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        69782
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "職": 5
+      },
+      "matched": {
+        "さがす": {
+          "actual": "さが",
+          "dictionary": [
+            "さが.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840646/粗を探す/あらをさがす": {
+      "id": 2840646,
+      "form": "粗を探す",
+      "kana": "あらをさがす",
+      "gloss": "to find fault (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        98013
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "粗": 7
+      },
+      "matched": {
+        "さがす": {
+          "actual": "さが",
+          "dictionary": [
+            "さが.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840646/あらを探す/あらをさがす": {
+      "id": 2840646,
+      "form": "あらを探す",
+      "kana": "あらをさがす",
+      "gloss": "to find fault (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        143585
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さがす": {
+          "actual": "さが",
+          "dictionary": [
+            "さが.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840646/アラを探す/あらをさがす": {
+      "id": 2840646,
+      "form": "アラを探す",
+      "kana": "あらをさがす",
+      "gloss": "to find fault (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169509
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さがす": {
+          "actual": "さが",
+          "dictionary": [
+            "さが.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841226/草の根を分けて探す/くさのねをわけてさがす": {
+      "id": 2841226,
+      "form": "草の根を分けて探す",
+      "kana": "くさのねをわけてさがす",
+      "gloss": "to search every square inch",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "草": 1,
+        "根": 3,
+        "分": 2
+      },
+      "matched": {
+        "さがす": {
+          "actual": "さが",
+          "dictionary": [
+            "さが.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840646/荒を探す/あらをさがす": {
+      "id": 2840646,
+      "form": "荒を探す",
+      "kana": "あらをさがす",
+      "gloss": "to find fault (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "荒": 7
+      },
+      "matched": {
+        "さがす": {
+          "actual": "さが",
+          "dictionary": [
+            "さが.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1597250:探検:たんけん",
+      "form": "探検",
+      "kana": "たんけん",
+      "cue": "exploration; expedition",
+      "ids": [
+        1597250
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 11975,
+        "shiberu": 3495,
+        "tubelex": 6402,
+        "wordfreq": 9454
+      },
+      "alternatives_by_kanji": {
+        "検": [
+          "1257890/検査/けんさ",
+          "1258000/検討/けんとう",
+          "1441540/点検/てんけん"
+        ],
+        "探": [
+          "1593670/探す/さがす",
+          "1418260/探る/さぐる",
+          "1418270/探求/たんきゅう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 55
+}

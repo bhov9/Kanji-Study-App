@@ -1,0 +1,705 @@
+{
+  "character": "唆",
+  "grade": 7,
+  "meanings": [
+    "tempt",
+    "seduce",
+    "instigate",
+    "promote"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    }
+  ],
+  "components": [
+    "口",
+    "儿",
+    "厶",
+    "夂"
+  ],
+  "on": [
+    "サ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "そそ.る",
+      "stem": "そそ",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "そそのか.す",
+      "stem": "そそのか",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "唆",
+    "heading": "唆",
+    "readings": [
+      "サ",
+      "そそのかす"
+    ],
+    "examples_by_reading": [
+      [
+        "教唆",
+        "示唆"
+      ],
+      [
+        "唆す"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "唆",
+      "reading": "サ",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "サ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1317130/示唆/しさ",
+        "1237100/教唆/きょうさ",
+        "2871089/殺人教唆/さつじんきょうさ",
+        "2822920/示唆的/しさてき",
+        "2175960/教唆犯/きょうさはん",
+        "2870439/自殺教唆/じさつきょうさ",
+        "2175950/教唆罪/きょうさざい",
+        "1761680/教唆者/きょうさしゃ",
+        "2030530/教唆扇動/きょうさせんどう",
+        "2030530/教唆煽動/きょうさせんどう"
+      ]
+    },
+    {
+      "reading": "そそのかす",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1904240/悪事を唆す/あくじをそそのかす",
+        "1290790/唆す/そそのかす"
+      ]
+    },
+    {
+      "reading": "そそる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1006750/唆る/そそる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1317130/示唆/しさ",
+    "1237100/教唆/きょうさ",
+    "2871089/殺人教唆/さつじんきょうさ",
+    "2822920/示唆的/しさてき",
+    "2175960/教唆犯/きょうさはん",
+    "2870439/自殺教唆/じさつきょうさ",
+    "2175950/教唆罪/きょうさざい",
+    "1761680/教唆者/きょうさしゃ",
+    "1904240/悪事を唆す/あくじをそそのかす",
+    "2030530/教唆扇動/きょうさせんどう",
+    "2030530/教唆煽動/きょうさせんどう",
+    "1290790/唆す/そそのかす",
+    "1006750/唆る/そそる",
+    "1889970/唆し/そそのかし",
+    "1290790/唆かす/そそのかす"
+  ],
+  "candidates": {
+    "1317130/示唆/しさ": {
+      "id": 1317130,
+      "form": "示唆",
+      "kana": "しさ",
+      "gloss": "suggestion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7533,
+        8033,
+        9163,
+        16721
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "示": 5
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1237100/教唆/きょうさ": {
+      "id": 1237100,
+      "form": "教唆",
+      "kana": "きょうさ",
+      "gloss": "instigation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        33793,
+        42221,
+        41605,
+        60164
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2871089/殺人教唆/さつじんきょうさ": {
+      "id": 2871089,
+      "form": "殺人教唆",
+      "kana": "さつじんきょうさ",
+      "gloss": "instigating murder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        70042
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "殺": 5,
+        "人": 1,
+        "教": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2822920/示唆的/しさてき": {
+      "id": 2822920,
+      "form": "示唆的",
+      "kana": "しさてき",
+      "gloss": "suggestive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        134784
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "示": 5,
+        "的": 4
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2175960/教唆犯/きょうさはん": {
+      "id": 2175960,
+      "form": "教唆犯",
+      "kana": "きょうさはん",
+      "gloss": "criminal instigator",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        152488
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "犯": 5,
+        "教": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870439/自殺教唆/じさつきょうさ": {
+      "id": 2870439,
+      "form": "自殺教唆",
+      "kana": "じさつきょうさ",
+      "gloss": "(crime of) instigation to suicide",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        157696
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "殺": 5,
+        "教": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2175950/教唆罪/きょうさざい": {
+      "id": 2175950,
+      "form": "教唆罪",
+      "kana": "きょうさざい",
+      "gloss": "criminal instigation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        201691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罪": 5,
+        "教": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1761680/教唆者/きょうさしゃ": {
+      "id": 1761680,
+      "form": "教唆者",
+      "kana": "きょうさしゃ",
+      "gloss": "instigator",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2,
+        "者": 3
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1904240/悪事を唆す/あくじをそそのかす": {
+      "id": 1904240,
+      "form": "悪事を唆す",
+      "kana": "あくじをそそのかす",
+      "gloss": "to entice a person to do something wrong",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "悪": 3
+      },
+      "matched": {
+        "そそのかす": {
+          "actual": "そそのか",
+          "dictionary": [
+            "そそのか.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2030530/教唆扇動/きょうさせんどう": {
+      "id": 2030530,
+      "form": "教唆扇動",
+      "kana": "きょうさせんどう",
+      "gloss": "instigation and abetment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2,
+        "動": 3,
+        "扇": 7
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2030530/教唆煽動/きょうさせんどう": {
+      "id": 2030530,
+      "form": "教唆煽動",
+      "kana": "きょうさせんどう",
+      "gloss": "instigation and abetment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "教": 2,
+        "動": 3
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1290790/唆す/そそのかす": {
+      "id": 1290790,
+      "form": "唆す",
+      "kana": "そそのかす",
+      "gloss": "to instigate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        22533,
+        29494,
+        107434,
+        23110
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "そそのかす": {
+          "actual": "そそのか",
+          "dictionary": [
+            "そそのか.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "そそのかす"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1006750/唆る/そそる": {
+      "id": 1006750,
+      "form": "唆る",
+      "kana": "そそる",
+      "gloss": "to excite",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        100667
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "そそる": {
+          "actual": "そそ",
+          "dictionary": [
+            "そそ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1889970/唆し/そそのかし": {
+      "id": 1889970,
+      "form": "唆し",
+      "kana": "そそのかし",
+      "gloss": "instigation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        173792,
+        69479,
+        142946
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1290790/唆かす/そそのかす": {
+      "id": 1290790,
+      "form": "唆かす",
+      "kana": "そそのかす",
+      "gloss": "to instigate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        201197
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1317130:示唆:しさ",
+      "form": "示唆",
+      "kana": "しさ",
+      "cue": "suggestion; hint",
+      "ids": [
+        1317130
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 16721,
+        "shiberu": 7533,
+        "tubelex": 8033,
+        "wordfreq": 9163
+      },
+      "alternatives_by_kanji": {
+        "示": [
+          "1317110/示す/しめす",
+          "1309800/指示/しじ",
+          "1317140/示談/じだん"
+        ],
+        "唆": [
+          "1237100/教唆/きょうさ",
+          "2871089/殺人教唆/さつじんきょうさ",
+          "2822920/示唆的/しさてき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

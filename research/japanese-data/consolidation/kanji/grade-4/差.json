@@ -1,0 +1,1276 @@
+{
+  "character": "差",
+  "grade": 4,
+  "meanings": [
+    "distinction",
+    "difference",
+    "variation",
+    "discrepancy",
+    "margin",
+    "balance"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 48
+    },
+    {
+      "type": "nelson_c",
+      "value": 123
+    }
+  ],
+  "components": [
+    "ノ",
+    "王",
+    "工",
+    "并",
+    "羊"
+  ],
+  "on": [
+    "サ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "さ.す",
+      "stem": "さ",
+      "okurigana": "す"
+    },
+    {
+      "sourceNotation": "さ.し",
+      "stem": "さ",
+      "okurigana": "し"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "差",
+    "heading": "差",
+    "readings": [
+      "サ",
+      "さす"
+    ],
+    "examples_by_reading": [
+      [
+        "差異",
+        "差別",
+        "誤差"
+      ],
+      [
+        "差す"
+      ]
+    ],
+    "note_lines": [
+      "差し支える（さしつかえる）",
+      "⇔刺す，指す，挿す"
+    ],
+    "representative_index": {
+      "kanji": "差",
+      "reading": "サ",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "差し支える"
+      ],
+      "reading": "さしつかえる",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "サ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 181,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1291410/差別/さべつ",
+        "1271320/誤差/ごさ",
+        "1291340/差異/さい",
+        "1271970/交差/こうさ",
+        "1205340/格差/かくさ",
+        "1419960/段差/だんさ",
+        "1510450/偏差/へんさ",
+        "1413750/大差/たいさ",
+        "1316240/時差/じさ",
+        "1291370/差額/さがく"
+      ]
+    },
+    {
+      "reading": "さす",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "さし",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1291410/差別/さべつ",
+    "1271320/誤差/ごさ",
+    "1291340/差異/さい",
+    "1271970/交差/こうさ",
+    "1205340/格差/かくさ",
+    "1419960/段差/だんさ",
+    "1510450/偏差/へんさ",
+    "1413750/大差/たいさ",
+    "1316240/時差/じさ",
+    "1291370/差額/さがく",
+    "1240760/僅差/きんさ",
+    "1449450/等差/とうさ",
+    "1744140/小差/しょうさ",
+    "1291400/差分/さぶん",
+    "1548740/落差/らくさ",
+    "1804590/点差/てんさ",
+    "1330620/収差/しゅうさ",
+    "1375380/性差/せいさ",
+    "1291390/差配/さはい",
+    "1291360/差益/さえき",
+    "1312030/視差/しさ",
+    "1273690/公差/こうさ",
+    "1789760/差損/さそん",
+    "1864620/較差/かくさ",
+    "1592970/交差点/こうさてん",
+    "1173240/雲泥の差/うんでいのさ",
+    "1388840/千差万別/せんさばんべつ",
+    "2230520/歳差/さいさ",
+    "2059470/票差/ひょうさ",
+    "1951690/差動/さどう"
+  ],
+  "candidates": {
+    "1291410/差別/さべつ": {
+      "id": 1291410,
+      "form": "差別",
+      "kana": "さべつ",
+      "gloss": "distinction",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3651,
+        3225,
+        2745,
+        8799
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1271320/誤差/ごさ": {
+      "id": 1271320,
+      "form": "誤差",
+      "kana": "ごさ",
+      "gloss": "measurement error",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20369,
+        7724,
+        12107,
+        14520
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誤": 6
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1291340/差異/さい": {
+      "id": 1291340,
+      "form": "差異",
+      "kana": "さい",
+      "gloss": "difference",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11800,
+        21588,
+        11368,
+        18249
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "異": 6
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1271970/交差/こうさ": {
+      "id": 1271970,
+      "form": "交差",
+      "kana": "こうさ",
+      "gloss": "crossing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3444,
+        3488,
+        14533,
+        9622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205340/格差/かくさ": {
+      "id": 1205340,
+      "form": "格差",
+      "kana": "かくさ",
+      "gloss": "qualitative difference",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8869,
+        7299,
+        7509,
+        20838
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "格": 5
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1419960/段差/だんさ": {
+      "id": 1419960,
+      "form": "段差",
+      "kana": "だんさ",
+      "gloss": "difference in grades (e.g. in go, shoji, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14080,
+        5534,
+        19040,
+        14995
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "段": 6
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1510450/偏差/へんさ": {
+      "id": 1510450,
+      "form": "偏差",
+      "kana": "へんさ",
+      "gloss": "deflection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29208,
+        5522,
+        11030,
+        74257
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "偏": 7
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1413750/大差/たいさ": {
+      "id": 1413750,
+      "form": "大差",
+      "kana": "たいさ",
+      "gloss": "great difference",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9610,
+        12351,
+        13281,
+        9269
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1316240/時差/じさ": {
+      "id": 1316240,
+      "form": "時差",
+      "kana": "じさ",
+      "gloss": "time difference",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13957,
+        13596,
+        14132,
+        33363
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291370/差額/さがく": {
+      "id": 1291370,
+      "form": "差額",
+      "kana": "さがく",
+      "gloss": "balance",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22784,
+        14488,
+        20349,
+        46723
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "額": 5
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1240760/僅差/きんさ": {
+      "id": 1240760,
+      "form": "僅差",
+      "kana": "きんさ",
+      "gloss": "narrow margin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30677,
+        20245,
+        23842,
+        31619
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "僅": 7
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449450/等差/とうさ": {
+      "id": 1449450,
+      "form": "等差",
+      "kana": "とうさ",
+      "gloss": "(equal) difference",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37498,
+        55605,
+        126439,
+        228668
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "等": 3
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1744140/小差/しょうさ": {
+      "id": 1744140,
+      "form": "小差",
+      "kana": "しょうさ",
+      "gloss": "slight difference",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30791,
+        81652,
+        150239,
+        226273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291400/差分/さぶん": {
+      "id": 1291400,
+      "form": "差分",
+      "kana": "さぶん",
+      "gloss": "incremental difference (e.g. between files)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15734,
+        18234,
+        48452
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1548740/落差/らくさ": {
+      "id": 1548740,
+      "form": "落差",
+      "kana": "らくさ",
+      "gloss": "difference in elevation (between two points in a body of water)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        21869,
+        20890,
+        21043
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "落": 3
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1804590/点差/てんさ": {
+      "id": 1804590,
+      "form": "点差",
+      "kana": "てんさ",
+      "gloss": "point spread",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        27692,
+        29854,
+        35039
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1330620/収差/しゅうさ": {
+      "id": 1330620,
+      "form": "収差",
+      "kana": "しゅうさ",
+      "gloss": "(optical) aberration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26144,
+        58810,
+        214227
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1375380/性差/せいさ": {
+      "id": 1375380,
+      "form": "性差",
+      "kana": "せいさ",
+      "gloss": "difference between the sexes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44489,
+        43420,
+        60430
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291390/差配/さはい": {
+      "id": 1291390,
+      "form": "差配",
+      "kana": "さはい",
+      "gloss": "conduct of business",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43563,
+        76428,
+        44573
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "配": 3
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291360/差益/さえき": {
+      "id": 1291360,
+      "form": "差益",
+      "kana": "さえき",
+      "gloss": "marginal profits",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42628,
+        74212,
+        144785
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "益": 5
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312030/視差/しさ": {
+      "id": 1312030,
+      "form": "視差",
+      "kana": "しさ",
+      "gloss": "parallax",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43563,
+        72835,
+        135296
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1273690/公差/こうさ": {
+      "id": 1273690,
+      "form": "公差",
+      "kana": "こうさ",
+      "gloss": "common difference",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45909,
+        81694,
+        191708
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1789760/差損/さそん": {
+      "id": 1789760,
+      "form": "差損",
+      "kana": "さそん",
+      "gloss": "(profit sheet) loss",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        124069,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "損": 5
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1864620/較差/かくさ": {
+      "id": 1864620,
+      "form": "較差",
+      "kana": "かくさ",
+      "gloss": "range",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        115366,
+        233301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "較": 7
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592970/交差点/こうさてん": {
+      "id": 1592970,
+      "form": "交差点",
+      "kana": "こうさてん",
+      "gloss": "crossing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        7509,
+        13333
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2,
+        "交": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1173240/雲泥の差/うんでいのさ": {
+      "id": 1173240,
+      "form": "雲泥の差",
+      "kana": "うんでいのさ",
+      "gloss": "wide difference",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        46874,
+        24999
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "泥": 7,
+        "雲": 2
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1388840/千差万別/せんさばんべつ": {
+      "id": 1388840,
+      "form": "千差万別",
+      "kana": "せんさばんべつ",
+      "gloss": "an infinite variety of",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        49881,
+        30962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4,
+        "万": 2,
+        "千": 1
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2230520/歳差/さいさ": {
+      "id": 2230520,
+      "form": "歳差",
+      "kana": "さいさ",
+      "gloss": "(phenomenon of) precession of the equinoxes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43098,
+        null,
+        73822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歳": 7
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2059470/票差/ひょうさ": {
+      "id": 2059470,
+      "form": "票差",
+      "kana": "ひょうさ",
+      "gloss": "margin (e.g. in a vote)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        null,
+        98968
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "票": 4
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1951690/差動/さどう": {
+      "id": 1951690,
+      "form": "差動",
+      "kana": "さどう",
+      "gloss": "differential (e.g. motion)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-f"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50117,
+        null,
+        209396
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "動": 3
+      },
+      "matched": {
+        "サ": {
+          "actual": "さ",
+          "dictionary": [
+            "サ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1291070:差:さ",
+      "form": "差",
+      "kana": "さ",
+      "cue": "difference; variation",
+      "ids": [
+        1291070
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1785,
+        "shiberu": 2252,
+        "tubelex": 964,
+        "wordfreq": 1089
+      },
+      "alternatives_by_kanji": {
+        "差": [
+          "1291410/差別/さべつ",
+          "1271320/誤差/ごさ",
+          "1291340/差異/さい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1611480:偏差値:へんさち",
+      "form": "偏差値",
+      "kana": "へんさち",
+      "cue": "deviation; T-score",
+      "ids": [
+        1611480
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 22944
+      },
+      "alternatives_by_kanji": {
+        "差": [
+          "1291410/差別/さべつ",
+          "1271320/誤差/ごさ",
+          "1291340/差異/さい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 335
+}

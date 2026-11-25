@@ -1,0 +1,1361 @@
+{
+  "character": "専",
+  "grade": 6,
+  "meanings": [
+    "specialty",
+    "exclusive",
+    "mainly",
+    "solely"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 41
+    }
+  ],
+  "components": [
+    "十",
+    "寸",
+    "田"
+  ],
+  "on": [
+    "セン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "もっぱ.ら",
+      "stem": "もっぱ",
+      "okurigana": "ら"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "専",
+    "heading": "専（專）",
+    "readings": [
+      "セン",
+      "もっぱら"
+    ],
+    "examples_by_reading": [
+      [
+        "専門",
+        "専属",
+        "専用"
+      ],
+      [
+        "専ら"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "専",
+      "reading": "セン",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 142,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1389880/専門/せんもん",
+        "1596240/専用/せんよう",
+        "1389820/専属/せんぞく",
+        "1389780/専攻/せんこう",
+        "1389850/専念/せんねん",
+        "1389770/専業/せんぎょう",
+        "1389870/専務/せんむ",
+        "1389810/専制/せんせい",
+        "1389840/専任/せんにん",
+        "1389860/専売/せんばい"
+      ]
+    },
+    {
+      "reading": "もっぱら",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1389740/専ら/もっぱら",
+        "1389740/専ら/もはら",
+        "2569790/専らにする/もっぱらにする"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1389880/専門/せんもん",
+    "1596240/専用/せんよう",
+    "1389820/専属/せんぞく",
+    "1389780/専攻/せんこう",
+    "1389850/専念/せんねん",
+    "1389770/専業/せんぎょう",
+    "1389870/専務/せんむ",
+    "1389810/専制/せんせい",
+    "1389840/専任/せんにん",
+    "1389860/専売/せんばい",
+    "1389800/専心/せんしん",
+    "1654300/専有/せんゆう",
+    "1389790/専修/せんしゅう",
+    "1389750/専横/せんおう",
+    "1283670/高専/こうせん",
+    "1389760/専科/せんか",
+    "1703860/専従/せんじゅう",
+    "1703730/専決/せんけつ",
+    "1389830/専断/せんだん",
+    "1703920/専権/せんけん",
+    "1646060/専行/せんこう",
+    "2857197/専願/せんがん",
+    "1334130/住専/じゅうせん",
+    "1663090/専一/せんいち",
+    "1703900/専管/せんかん",
+    "1703810/専門医/せんもんい",
+    "1703710/専守防衛/せんしゅぼうえい",
+    "1663090/専一/せんいつ",
+    "2233920/売り専/うりせん",
+    "2869450/老け専/ふけせん"
+  ],
+  "candidates": {
+    "1389880/専門/せんもん": {
+      "id": 1389880,
+      "form": "専門",
+      "kana": "せんもん",
+      "gloss": "speciality",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1273,
+        1075,
+        752,
+        3727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "門": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1596240/専用/せんよう": {
+      "id": 1596240,
+      "form": "専用",
+      "kana": "せんよう",
+      "gloss": "(one's) exclusive use",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "n-suf",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5433,
+        1841,
+        1209,
+        3596
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1389820/専属/せんぞく": {
+      "id": 1389820,
+      "form": "専属",
+      "kana": "せんぞく",
+      "gloss": "exclusive",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17995,
+        14853,
+        10217,
+        10588
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "属": 5
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1389780/専攻/せんこう": {
+      "id": 1389780,
+      "form": "専攻",
+      "kana": "せんこう",
+      "gloss": "major subject",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3350,
+        10548,
+        8882,
+        23300
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "攻": 7
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1389850/専念/せんねん": {
+      "id": 1389850,
+      "form": "専念",
+      "kana": "せんねん",
+      "gloss": "absorption",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4012,
+        10680,
+        11030,
+        5795
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1389770/専業/せんぎょう": {
+      "id": 1389770,
+      "form": "専業",
+      "kana": "せんぎょう",
+      "gloss": "special occupation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8299,
+        14562,
+        11740,
+        52445
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389870/専務/せんむ": {
+      "id": 1389870,
+      "form": "専務",
+      "kana": "せんむ",
+      "gloss": "special duty",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14434,
+        19970,
+        16052,
+        28830
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "務": 5
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389810/専制/せんせい": {
+      "id": 1389810,
+      "form": "専制",
+      "kana": "せんせい",
+      "gloss": "despotism",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        14707,
+        33853,
+        26068,
+        76625
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "制": 5
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389840/専任/せんにん": {
+      "id": 1389840,
+      "form": "専任",
+      "kana": "せんにん",
+      "gloss": "full-time service",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        32332,
+        28907,
+        19315,
+        43134
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389860/専売/せんばい": {
+      "id": 1389860,
+      "form": "専売",
+      "kana": "せんばい",
+      "gloss": "monopoly",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27796,
+        29670,
+        21741,
+        76269
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "売": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389800/専心/せんしん": {
+      "id": 1389800,
+      "form": "専心",
+      "kana": "せんしん",
+      "gloss": "undivided attention",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12086,
+        73159,
+        74977,
+        64228
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1654300/専有/せんゆう": {
+      "id": 1654300,
+      "form": "専有",
+      "kana": "せんゆう",
+      "gloss": "exclusive possession",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16551,
+        47007,
+        51518,
+        81549
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "有": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389790/専修/せんしゅう": {
+      "id": 1389790,
+      "form": "専修",
+      "kana": "せんしゅう",
+      "gloss": "specialization",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23409,
+        38608,
+        39764,
+        144103
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389750/専横/せんおう": {
+      "id": 1389750,
+      "form": "専横",
+      "kana": "せんおう",
+      "gloss": "arbitrariness",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        25246,
+        57577,
+        87205,
+        62139
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "横": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1283670/高専/こうせん": {
+      "id": 1283670,
+      "form": "高専",
+      "kana": "こうせん",
+      "gloss": "technical college",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25818,
+        21459,
+        94415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389760/専科/せんか": {
+      "id": 1389760,
+      "form": "専科",
+      "kana": "せんか",
+      "gloss": "specialized course",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36550,
+        29116,
+        106815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "科": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1703860/専従/せんじゅう": {
+      "id": 1703860,
+      "form": "専従",
+      "kana": "せんじゅう",
+      "gloss": "working exclusively for",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39979,
+        43883,
+        77465
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "従": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1703730/専決/せんけつ": {
+      "id": 1703730,
+      "form": "専決",
+      "kana": "せんけつ",
+      "gloss": "deciding or acting on one's own",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31748,
+        91294,
+        198571
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "決": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389830/専断/せんだん": {
+      "id": 1389830,
+      "form": "専断",
+      "kana": "せんだん",
+      "gloss": "arbitrary decision",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        30862,
+        187348,
+        151816
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "断": 5
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1703920/専権/せんけん": {
+      "id": 1703920,
+      "form": "専権",
+      "kana": "せんけん",
+      "gloss": "arbitrary use of power",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        57577,
+        106463,
+        195382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "権": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1646060/専行/せんこう": {
+      "id": 1646060,
+      "form": "専行",
+      "kana": "せんこう",
+      "gloss": "acting arbitrarily",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        80148,
+        165296
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857197/専願/せんがん": {
+      "id": 2857197,
+      "form": "専願",
+      "kana": "せんがん",
+      "gloss": "single application",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        118546,
+        261831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "願": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1334130/住専/じゅうせん": {
+      "id": 1334130,
+      "form": "住専",
+      "kana": "じゅうせん",
+      "gloss": "housing-loan corporation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        115366,
+        206347
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "住": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663090/専一/せんいち": {
+      "id": 1663090,
+      "form": "専一",
+      "kana": "せんいち",
+      "gloss": "exclusively",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        139652,
+        161739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1703900/専管/せんかん": {
+      "id": 1703900,
+      "form": "専管",
+      "kana": "せんかん",
+      "gloss": "exclusive jurisdiction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        146219,
+        200376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "管": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1703810/専門医/せんもんい": {
+      "id": 1703810,
+      "form": "専門医",
+      "kana": "せんもんい",
+      "gloss": "(medical) specialist",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        19315,
+        48610
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "門": 2,
+        "医": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1703710/専守防衛/せんしゅぼうえい": {
+      "id": 1703710,
+      "form": "専守防衛",
+      "kana": "せんしゅぼうえい",
+      "gloss": "nonaggressive defense (policy) (defence)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        61164,
+        70977
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "衛": 5,
+        "防": 5,
+        "守": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663090/専一/せんいつ": {
+      "id": 1663090,
+      "form": "専一",
+      "kana": "せんいつ",
+      "gloss": "exclusively",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        139652,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2233920/売り専/うりせん": {
+      "id": 2233920,
+      "form": "売り専",
+      "kana": "うりせん",
+      "gloss": "male prostitute",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        256081
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "売": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2869450/老け専/ふけせん": {
+      "id": 2869450,
+      "form": "老け専",
+      "kana": "ふけせん",
+      "gloss": "person attracted to old people",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "老": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389740/専ら/もっぱら": {
+      "id": 1389740,
+      "form": "専ら",
+      "kana": "もっぱら",
+      "gloss": "wholly",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "adj-no"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        7936,
+        19048,
+        31791,
+        37712
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "もっぱら": {
+          "actual": "もっぱ",
+          "dictionary": [
+            "もっぱ.ら"
+          ]
+        }
+      },
+      "official_examples": [
+        "もっぱら"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1389740/専ら/もはら": {
+      "id": 1389740,
+      "form": "専ら",
+      "kana": "もはら",
+      "gloss": "wholly",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "adj-no"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        7936,
+        19048,
+        31791,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "もっぱら": {
+          "actual": "もは",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "もっぱら"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2569790/専らにする/もっぱらにする": {
+      "id": 2569790,
+      "form": "専らにする",
+      "kana": "もっぱらにする",
+      "gloss": "devote oneself to",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-i"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        240798
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "もっぱら": {
+          "actual": "もっぱ",
+          "dictionary": [
+            "もっぱ.ら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1389870:専務:せんむ",
+      "form": "専務",
+      "kana": "せんむ",
+      "cue": "special duty; being in sole charge of a duty",
+      "ids": [
+        1389870
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 28830,
+        "shiberu": 14434,
+        "tubelex": 19970,
+        "wordfreq": 16052
+      },
+      "alternatives_by_kanji": {
+        "務": [
+          "1314270/事務/じむ",
+          "1225900/義務/ぎむ",
+          "1357580/職務/しょくむ"
+        ],
+        "専": [
+          "1389880/専門/せんもん",
+          "1596240/専用/せんよう",
+          "1389820/専属/せんぞく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

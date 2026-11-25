@@ -1,0 +1,521 @@
+{
+  "character": "但",
+  "grade": 7,
+  "meanings": [
+    "however",
+    "but"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "一",
+    "化",
+    "日"
+  ],
+  "on": [
+    "タン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ただ.し",
+      "stem": "ただ",
+      "okurigana": "し"
+    }
+  ],
+  "nanori": [
+    "たじ"
+  ],
+  "government": {
+    "kanji": "但",
+    "heading": "但",
+    "readings": [
+      "ただし"
+    ],
+    "examples_by_reading": [
+      [
+        "但し",
+        "但し書き"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "但",
+      "reading": "ただし",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ただし",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1596980/但し書き/ただしがき",
+        "1596980/但し書/ただしがき",
+        "1416200/但し付き/ただしづき",
+        "1416200/但し付き/ただしつき",
+        "1416190/但し/ただし"
+      ]
+    },
+    {
+      "reading": "タン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "5587321/播但線/ばんたんせん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1596980/但し書き/ただしがき",
+    "5587321/播但線/ばんたんせん",
+    "1596980/但し書/ただしがき",
+    "1416200/但し付き/ただしづき",
+    "1416200/但し付き/ただしつき",
+    "2845183/但馬/たじま",
+    "1596980/但書/ただしがき",
+    "2619050/但馬牛/たじまうし",
+    "2619050/但馬牛/たじまぎゅう",
+    "1596980/但書き/ただしがき",
+    "1416190/但し/ただし",
+    "1538900/但/ただ"
+  ],
+  "candidates": {
+    "1596980/但し書き/ただしがき": {
+      "id": 1596980,
+      "form": "但し書き",
+      "kana": "ただしがき",
+      "gloss": "proviso",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        46460,
+        56518,
+        60390
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "ただし": {
+          "actual": "ただ",
+          "dictionary": [
+            "ただ.し"
+          ]
+        }
+      },
+      "official_examples": [
+        "ただし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "5587321/播但線/ばんたんせん": {
+      "id": 5587321,
+      "form": "播但線",
+      "kana": "ばんたんせん",
+      "gloss": "Bantan Line (Hyogo Prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        97220,
+        389790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "線": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1596980/但し書/ただしがき": {
+      "id": 1596980,
+      "form": "但し書",
+      "kana": "ただしがき",
+      "gloss": "proviso",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        140835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "ただし": {
+          "actual": "ただ",
+          "dictionary": [
+            "ただ.し"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1416200/但し付き/ただしづき": {
+      "id": 1416200,
+      "form": "但し付き",
+      "kana": "ただしづき",
+      "gloss": "conditional",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "ただし": {
+          "actual": "ただ",
+          "dictionary": [
+            "ただ.し"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1416200/但し付き/ただしつき": {
+      "id": 1416200,
+      "form": "但し付き",
+      "kana": "ただしつき",
+      "gloss": "conditional",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "ただし": {
+          "actual": "ただ",
+          "dictionary": [
+            "ただ.し"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845183/但馬/たじま": {
+      "id": 2845183,
+      "form": "但馬",
+      "kana": "たじま",
+      "gloss": "Tajima (former province located in the north of present-day Hyōgo Prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10975,
+        null,
+        36648,
+        71578
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "馬": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1596980/但書/ただしがき": {
+      "id": 1596980,
+      "form": "但書",
+      "kana": "ただしがき",
+      "gloss": "proviso",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        112310,
+        218583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2619050/但馬牛/たじまうし": {
+      "id": 2619050,
+      "form": "但馬牛",
+      "kana": "たじまうし",
+      "gloss": "Tajima cattle (breed of black Wagyu cattle)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        160682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "牛": 2,
+        "馬": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2619050/但馬牛/たじまぎゅう": {
+      "id": 2619050,
+      "form": "但馬牛",
+      "kana": "たじまぎゅう",
+      "gloss": "Tajima cattle (breed of black Wagyu cattle)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "牛": 2,
+        "馬": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1596980/但書き/ただしがき": {
+      "id": 1596980,
+      "form": "但書き",
+      "kana": "ただしがき",
+      "gloss": "proviso",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1416190/但し/ただし": {
+      "id": 1416190,
+      "form": "但し",
+      "kana": "ただし",
+      "gloss": "but",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "conj"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        3808,
+        1597,
+        8882,
+        29534
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ただし": {
+          "actual": "ただ",
+          "dictionary": [
+            "ただ.し"
+          ]
+        }
+      },
+      "official_examples": [
+        "ただし"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1538900/但/ただ": {
+      "id": 1538900,
+      "form": "但",
+      "kana": "ただ",
+      "gloss": "ordinary",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        25226,
+        null,
+        32548,
+        78822
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1538900:但:ただ",
+      "form": "但",
+      "kana": "ただ",
+      "cue": "ordinary; common",
+      "ids": [
+        1538900
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 78822,
+        "shiberu": 25226,
+        "wordfreq": 32548
+      },
+      "alternatives_by_kanji": {
+        "但": [
+          "1596980/但し書き/ただしがき",
+          "5587321/播但線/ばんたんせん",
+          "1596980/但し書/ただしがき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

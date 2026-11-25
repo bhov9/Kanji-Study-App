@@ -1,0 +1,986 @@
+{
+  "character": "貌",
+  "grade": 7,
+  "meanings": [
+    "form",
+    "appearance",
+    "countenance"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 153
+    }
+  ],
+  "components": [
+    "白",
+    "儿",
+    "豸"
+  ],
+  "on": [
+    "ボウ",
+    "バク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "かたち",
+      "stem": "かたち",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "かたどる",
+      "stem": "かたどる",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "貌",
+    "heading": "貌",
+    "readings": [
+      "ボウ"
+    ],
+    "examples_by_reading": [
+      [
+        "変貌",
+        "美貌"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "貌",
+      "reading": "ボウ",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ボウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 17,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1486630/美貌/びぼう",
+        "1511500/変貌/へんぼう",
+        "1844370/風貌/ふうぼう",
+        "1396220/全貌/ぜんぼう",
+        "1651760/容貌/ようぼう",
+        "1749220/相貌/そうぼう",
+        "1806930/外貌/がいぼう",
+        "1812320/面貌/めんぼう",
+        "1217800/顔貌/がんぼう",
+        "2860264/形貌/けいぼう"
+      ]
+    },
+    {
+      "reading": "バク",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "かたち",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1217800/顔貌/かおかたち",
+        "1250220/貌/かたち",
+        "2871901/髪貌/かみかたち"
+      ]
+    },
+    {
+      "reading": "かたどる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1486630/美貌/びぼう",
+    "1511500/変貌/へんぼう",
+    "1844370/風貌/ふうぼう",
+    "1396220/全貌/ぜんぼう",
+    "1651760/容貌/ようぼう",
+    "1749220/相貌/そうぼう",
+    "1217800/顔貌/かおかたち",
+    "1806930/外貌/がいぼう",
+    "1812320/面貌/めんぼう",
+    "1217800/顔貌/がんぼう",
+    "2860264/形貌/けいぼう",
+    "2570620/相貌失認/そうぼうしつにん",
+    "2057940/醜貌/しゅうぼう",
+    "2032990/容貌魁偉/ようぼうかいい",
+    "1250220/貌/かたち",
+    "1409690/体貌/たいぼう",
+    "2858459/地貌/ちぼう",
+    "2865361/相貌的知覚/そうぼうてきちかく",
+    "2054730/容貌端正/ようぼうたんせい",
+    "2868628/貌/がお",
+    "2586520/象貌/しょうぼう",
+    "2871901/髪貌/かみかたち",
+    "1217730/貌/かお"
+  ],
+  "candidates": {
+    "1486630/美貌/びぼう": {
+      "id": 1486630,
+      "form": "美貌",
+      "kana": "びぼう",
+      "gloss": "beautiful face",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5939,
+        20245,
+        16770,
+        8185
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "美": 3
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1511500/変貌/へんぼう": {
+      "id": 1511500,
+      "form": "変貌",
+      "kana": "へんぼう",
+      "gloss": "transfiguration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18028,
+        21007,
+        16515,
+        9973
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "変": 4
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1844370/風貌/ふうぼう": {
+      "id": 1844370,
+      "form": "風貌",
+      "kana": "ふうぼう",
+      "gloss": "(a person's) appearance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9060,
+        25116,
+        23216,
+        13527
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1396220/全貌/ぜんぼう": {
+      "id": 1396220,
+      "form": "全貌",
+      "kana": "ぜんぼう",
+      "gloss": "full view",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16129,
+        18263,
+        22017,
+        17347
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651760/容貌/ようぼう": {
+      "id": 1651760,
+      "form": "容貌",
+      "kana": "ようぼう",
+      "gloss": "looks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9454,
+        36283,
+        42960,
+        18842
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1749220/相貌/そうぼう": {
+      "id": 1749220,
+      "form": "相貌",
+      "kana": "そうぼう",
+      "gloss": "looks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20478,
+        50803,
+        79465,
+        42164
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "相": 3
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217800/顔貌/かおかたち": {
+      "id": 1217800,
+      "form": "顔貌",
+      "kana": "かおかたち",
+      "gloss": "features",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        105543,
+        73061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "顔": 2
+      },
+      "matched": {
+        "かたち": {
+          "actual": "かたち",
+          "dictionary": [
+            "かたち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1806930/外貌/がいぼう": {
+      "id": 1806930,
+      "form": "外貌",
+      "kana": "がいぼう",
+      "gloss": "outward appearance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        72835,
+        117248
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1812320/面貌/めんぼう": {
+      "id": 1812320,
+      "form": "面貌",
+      "kana": "めんぼう",
+      "gloss": "looks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        178773,
+        78501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217800/顔貌/がんぼう": {
+      "id": 1217800,
+      "form": "顔貌",
+      "kana": "がんぼう",
+      "gloss": "features",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        105543,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "顔": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860264/形貌/けいぼう": {
+      "id": 2860264,
+      "form": "形貌",
+      "kana": "けいぼう",
+      "gloss": "looks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        166942
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "形": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2570620/相貌失認/そうぼうしつにん": {
+      "id": 2570620,
+      "form": "相貌失認",
+      "kana": "そうぼうしつにん",
+      "gloss": "prosopagnosia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        149543
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "認": 6,
+        "相": 3,
+        "失": 4
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2057940/醜貌/しゅうぼう": {
+      "id": 2057940,
+      "form": "醜貌",
+      "kana": "しゅうぼう",
+      "gloss": "hideous face",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        158159
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "醜": 7
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2032990/容貌魁偉/ようぼうかいい": {
+      "id": 2032990,
+      "form": "容貌魁偉",
+      "kana": "ようぼうかいい",
+      "gloss": "(a man) having a commanding face and a powerful physique",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        210687
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5,
+        "偉": 7
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1250220/貌/かたち": {
+      "id": 1250220,
+      "form": "貌",
+      "kana": "かたち",
+      "gloss": "(physical) form",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かたち": {
+          "actual": "かたち",
+          "dictionary": [
+            "かたち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1409690/体貌/たいぼう": {
+      "id": 1409690,
+      "form": "体貌",
+      "kana": "たいぼう",
+      "gloss": "appearance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858459/地貌/ちぼう": {
+      "id": 2858459,
+      "form": "地貌",
+      "kana": "ちぼう",
+      "gloss": "geographical features",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2865361/相貌的知覚/そうぼうてきちかく": {
+      "id": 2865361,
+      "form": "相貌的知覚",
+      "kana": "そうぼうてきちかく",
+      "gloss": "physiognomic perception",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "相": 3,
+        "知": 2,
+        "的": 4,
+        "覚": 4
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2054730/容貌端正/ようぼうたんせい": {
+      "id": 2054730,
+      "form": "容貌端正",
+      "kana": "ようぼうたんせい",
+      "gloss": "having handsome and clean-cut features",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5,
+        "端": 7,
+        "正": 1
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2868628/貌/がお": {
+      "id": 2868628,
+      "form": "貌",
+      "kana": "がお",
+      "gloss": "resembling ...",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2586520/象貌/しょうぼう": {
+      "id": 2586520,
+      "form": "象貌",
+      "kana": "しょうぼう",
+      "gloss": "appearance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "象": 5
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2871901/髪貌/かみかたち": {
+      "id": 2871901,
+      "form": "髪貌",
+      "kana": "かみかたち",
+      "gloss": "hairstyle",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK",
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "髪": 7
+      },
+      "matched": {
+        "かたち": {
+          "actual": "かたち",
+          "dictionary": [
+            "かたち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1217730/貌/かお": {
+      "id": 1217730,
+      "form": "貌",
+      "kana": "かお",
+      "gloss": "face",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        32256
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1217730:貌:かお",
+      "form": "貌",
+      "kana": "かお",
+      "cue": "face; visage",
+      "ids": [
+        1217730
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 32256,
+        "shiberu": 25900,
+        "wordfreq": 58810
+      },
+      "alternatives_by_kanji": {
+        "貌": [
+          "1486630/美貌/びぼう",
+          "1511500/変貌/へんぼう",
+          "1844370/風貌/ふうぼう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

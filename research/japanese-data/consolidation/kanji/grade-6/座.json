@@ -1,0 +1,1383 @@
+{
+  "character": "座",
+  "grade": 6,
+  "meanings": [
+    "squat",
+    "seat",
+    "cushion",
+    "gathering",
+    "sit"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 53
+    }
+  ],
+  "components": [
+    "｜",
+    "土",
+    "人",
+    "广"
+  ],
+  "on": [
+    "ザ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "すわ.る",
+      "stem": "すわ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "座",
+    "heading": "座",
+    "readings": [
+      "ザ",
+      "すわる"
+    ],
+    "examples_by_reading": [
+      [
+        "座席",
+        "座談",
+        "星座"
+      ],
+      [
+        "座る",
+        "座り込み"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔据わる"
+    ],
+    "representative_index": {
+      "kanji": "座",
+      "reading": "ザ",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ザ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 366,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1291880/座席/ざせき",
+        "1376360/星座/せいざ",
+        "1842850/座談/ざだん",
+        "1291770/座/ざ",
+        "1282270/講座/こうざ",
+        "1276150/口座/こうざ",
+        "1404180/即座/そくざ",
+        "1638190/座標/ざひょう",
+        "1181490/王座/おうざ",
+        "1412600/台座/だいざ"
+      ]
+    },
+    {
+      "reading": "すわる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1291800/座る/すわる",
+        "1291780/座り込み/すわりこみ",
+        "1231770/居座る/いすわる",
+        "1928820/後釜に座る/あとがまにすわる",
+        "2703580/肝が座る/きもがすわる",
+        "2743450/首が座る/くびがすわる",
+        "2569210/度胸が座る/どきょうがすわる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1291800/座る/すわる",
+    "1291880/座席/ざせき",
+    "1376360/星座/せいざ",
+    "1842850/座談/ざだん",
+    "1291780/座り込み/すわりこみ",
+    "1291770/座/ざ",
+    "1282270/講座/こうざ",
+    "1276150/口座/こうざ",
+    "1404180/即座/そくざ",
+    "1638190/座標/ざひょう",
+    "1181490/王座/おうざ",
+    "1412600/台座/だいざ",
+    "1291990/座敷/ざしき",
+    "1580390/上座/かみざ",
+    "1291930/座長/ざちょう",
+    "1449050/当座/とうざ",
+    "1231770/居座る/いすわる",
+    "1629940/玉座/ぎょくざ",
+    "1512510/便座/べんざ",
+    "1291910/座禅/ざぜん",
+    "1393020/前座/ぜんざ",
+    "1657200/高座/こうざ",
+    "1622500/着座/ちゃくざ",
+    "1291810/座右/ざゆう",
+    "2218560/座する/ざする",
+    "1424350/中座/ちゅうざ",
+    "1842710/座主/ざす",
+    "2567930/楽座/らくざ",
+    "1323140/車座/くるまざ",
+    "1641060/満座/まんざ"
+  ],
+  "candidates": {
+    "1291800/座る/すわる": {
+      "id": 1291800,
+      "form": "座る",
+      "kana": "すわる",
+      "gloss": "to sit (down)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2819,
+        1177,
+        8450,
+        526
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "すわる": {
+          "actual": "すわ",
+          "dictionary": [
+            "すわ.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "すわる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1291880/座席/ざせき": {
+      "id": 1291880,
+      "form": "座席",
+      "kana": "ざせき",
+      "gloss": "seat (esp. in public places or places with assigned seating)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5149,
+        5132,
+        5679,
+        9335
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "席": 4
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ザ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1376360/星座/せいざ": {
+      "id": 1376360,
+      "form": "星座",
+      "kana": "せいざ",
+      "gloss": "constellation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7377,
+        6181,
+        11368,
+        16302
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "星": 2
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ザ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1842850/座談/ざだん": {
+      "id": 1842850,
+      "form": "座談",
+      "kana": "ざだん",
+      "gloss": "conversation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5638,
+        27560,
+        20096,
+        119025
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "談": 3
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ザ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1291780/座り込み/すわりこみ": {
+      "id": 1291780,
+      "form": "座り込み",
+      "kana": "すわりこみ",
+      "gloss": "sit-in (protest)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36829,
+        55605,
+        39319,
+        83616
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "込": 7
+      },
+      "matched": {
+        "すわる": {
+          "actual": "すわ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "すわる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1291770/座/ざ": {
+      "id": 1291770,
+      "form": "座",
+      "kana": "ざ",
+      "gloss": "seat",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1147,
+        1517,
+        2241,
+        4036
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1282270/講座/こうざ": {
+      "id": 1282270,
+      "form": "講座",
+      "kana": "こうざ",
+      "gloss": "course (e.g. of lectures)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6167,
+        3004,
+        3961,
+        19350
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "講": 5
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1276150/口座/こうざ": {
+      "id": 1276150,
+      "form": "口座",
+      "kana": "こうざ",
+      "gloss": "account (e.g. bank)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10632,
+        4871,
+        4345,
+        15699
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1404180/即座/そくざ": {
+      "id": 1404180,
+      "form": "即座",
+      "kana": "そくざ",
+      "gloss": "immediate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4551,
+        10416,
+        10217,
+        10891
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "即": 7
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1638190/座標/ざひょう": {
+      "id": 1638190,
+      "form": "座標",
+      "kana": "ざひょう",
+      "gloss": "coordinate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        11790,
+        6806,
+        11030,
+        17521
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "標": 4
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1181490/王座/おうざ": {
+      "id": 1181490,
+      "form": "王座",
+      "kana": "おうざ",
+      "gloss": "throne",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14331,
+        10180,
+        12479,
+        28513
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1412600/台座/だいざ": {
+      "id": 1412600,
+      "form": "台座",
+      "kana": "だいざ",
+      "gloss": "pedestal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13780,
+        8285,
+        20890,
+        18968
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "台": 2
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291990/座敷/ざしき": {
+      "id": 1291990,
+      "form": "座敷",
+      "kana": "ざしき",
+      "gloss": "tatami room",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13846,
+        9477,
+        19315,
+        22443
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敷": 7
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1580390/上座/かみざ": {
+      "id": 1580390,
+      "form": "上座",
+      "kana": "かみざ",
+      "gloss": "chief seat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        9122,
+        30504,
+        45339,
+        29270
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291930/座長/ざちょう": {
+      "id": 1291930,
+      "form": "座長",
+      "kana": "ざちょう",
+      "gloss": "chairman",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18844,
+        15531,
+        20096,
+        48628
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449050/当座/とうざ": {
+      "id": 1449050,
+      "form": "当座",
+      "kana": "とうざ",
+      "gloss": "(for) the time being",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12646,
+        21869,
+        33270,
+        31286
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1231770/居座る/いすわる": {
+      "id": 1231770,
+      "form": "居座る",
+      "kana": "いすわる",
+      "gloss": "to remain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38620,
+        19920,
+        32548,
+        8271
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "居": 5
+      },
+      "matched": {
+        "すわる": {
+          "actual": "すわ",
+          "dictionary": [
+            "すわ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1629940/玉座/ぎょくざ": {
+      "id": 1629940,
+      "form": "玉座",
+      "kana": "ぎょくざ",
+      "gloss": "throne",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23745,
+        25211,
+        29477,
+        15091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "玉": 1
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1512510/便座/べんざ": {
+      "id": 1512510,
+      "form": "便座",
+      "kana": "べんざ",
+      "gloss": "toilet seat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39231,
+        20940,
+        20603,
+        37169
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "便": 4
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291910/座禅/ざぜん": {
+      "id": 1291910,
+      "form": "座禅",
+      "kana": "ざぜん",
+      "gloss": "zazen (seated Zen meditation, usu. in a cross-legged position)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31531,
+        18263,
+        32914,
+        38550
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "禅": 7
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1393020/前座/ぜんざ": {
+      "id": 1393020,
+      "form": "前座",
+      "kana": "ぜんざ",
+      "gloss": "opening performance",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23121,
+        30165,
+        30980,
+        27894
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1657200/高座/こうざ": {
+      "id": 1657200,
+      "form": "高座",
+      "kana": "こうざ",
+      "gloss": "platform",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15287,
+        70964,
+        35359,
+        79277
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1622500/着座/ちゃくざ": {
+      "id": 1622500,
+      "form": "着座",
+      "kana": "ちゃくざ",
+      "gloss": "taking a seat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25467,
+        24703,
+        60579,
+        66171
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "着": 3
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291810/座右/ざゆう": {
+      "id": 1291810,
+      "form": "座右",
+      "kana": "ざゆう",
+      "gloss": "(by) one's side",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        22329,
+        27428,
+        92126,
+        128741
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "右": 1
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2218560/座する/ざする": {
+      "id": 2218560,
+      "form": "座する",
+      "kana": "ざする",
+      "gloss": "to sit",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "vs-s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38735,
+        24022,
+        124069,
+        21186
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1424350/中座/ちゅうざ": {
+      "id": 1424350,
+      "form": "中座",
+      "kana": "ちゅうざ",
+      "gloss": "leaving one's seat (before an event is over)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25922,
+        56591,
+        52075,
+        44582
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1842710/座主/ざす": {
+      "id": 1842710,
+      "form": "座主",
+      "kana": "ざす",
+      "gloss": "temple's head priest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26310,
+        40322,
+        113283,
+        127414
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2567930/楽座/らくざ": {
+      "id": 2567930,
+      "form": "楽座",
+      "kana": "らくざ",
+      "gloss": "free markets and open guilds",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33810,
+        49441,
+        73498,
+        127342
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "楽": 2
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1323140/車座/くるまざ": {
+      "id": 1323140,
+      "form": "車座",
+      "kana": "くるまざ",
+      "gloss": "sitting in a circle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38303,
+        57577,
+        109403,
+        48765
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "車": 1
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1641060/満座/まんざ": {
+      "id": 1641060,
+      "form": "満座",
+      "kana": "まんざ",
+      "gloss": "the whole assembly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28158,
+        95069,
+        180417,
+        86985
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "満": 4
+      },
+      "matched": {
+        "ザ": {
+          "actual": "ざ",
+          "dictionary": [
+            "ザ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1928820/後釜に座る/あとがまにすわる": {
+      "id": 1928820,
+      "form": "後釜に座る",
+      "kana": "あとがまにすわる",
+      "gloss": "to succeed to someone's post",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        87341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "釜": 7
+      },
+      "matched": {
+        "すわる": {
+          "actual": "すわ",
+          "dictionary": [
+            "すわ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2703580/肝が座る/きもがすわる": {
+      "id": 2703580,
+      "form": "肝が座る",
+      "kana": "きもがすわる",
+      "gloss": "to have guts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [
+        "iK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        99035
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "肝": 7
+      },
+      "matched": {
+        "すわる": {
+          "actual": "すわ",
+          "dictionary": [
+            "すわ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2743450/首が座る/くびがすわる": {
+      "id": 2743450,
+      "form": "首が座る",
+      "kana": "くびがすわる",
+      "gloss": "to be able to hold one's head up (of an infant)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [
+        "iK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        156834
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "首": 2
+      },
+      "matched": {
+        "すわる": {
+          "actual": "すわ",
+          "dictionary": [
+            "すわ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2569210/度胸が座る/どきょうがすわる": {
+      "id": 2569210,
+      "form": "度胸が座る",
+      "kana": "どきょうがすわる",
+      "gloss": "to have steady nerves",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [
+        "iK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        222101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "胸": 6,
+        "度": 3
+      },
+      "matched": {
+        "すわる": {
+          "actual": "すわ",
+          "dictionary": [
+            "すわ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1291770:座:ざ",
+      "form": "座",
+      "kana": "ざ",
+      "cue": "seat; place",
+      "ids": [
+        1291770
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4036,
+        "shiberu": 1147,
+        "tubelex": 1517,
+        "wordfreq": 2241
+      },
+      "alternatives_by_kanji": {
+        "座": [
+          "1291800/座る/すわる",
+          "1291880/座席/ざせき",
+          "1376360/星座/せいざ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 77
+}

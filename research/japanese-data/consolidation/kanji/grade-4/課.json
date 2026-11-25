@@ -1,0 +1,1206 @@
+{
+  "character": "課",
+  "grade": 4,
+  "meanings": [
+    "chapter",
+    "lesson",
+    "section",
+    "department",
+    "division",
+    "counter for chapters (of a book)"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "田",
+    "木"
+  ],
+  "on": [
+    "カ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "課",
+    "heading": "課",
+    "readings": [
+      "カ"
+    ],
+    "examples_by_reading": [
+      [
+        "課",
+        "日課",
+        "課する"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "課",
+      "reading": "カ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 116,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1195710/課/か",
+        "1195730/課する/かする",
+        "1463860/日課/にっか",
+        "1195820/課題/かだい",
+        "1195840/課長/かちょう",
+        "1195790/課税/かぜい",
+        "1195850/課程/かてい",
+        "2423990/放課/ほうか",
+        "1206600/学課/がっか",
+        "1195770/課金/かきん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1195710/課/か",
+    "1195730/課する/かする",
+    "1463860/日課/にっか",
+    "1195820/課題/かだい",
+    "1195840/課長/かちょう",
+    "1195790/課税/かぜい",
+    "1195850/課程/かてい",
+    "2423990/放課/ほうか",
+    "1206600/学課/がっか",
+    "1195770/課金/かきん",
+    "1195720/課す/かす",
+    "1195750/課外/かがい",
+    "1498150/賦課/ふか",
+    "1376700/正課/せいか",
+    "1195760/課業/かぎょう",
+    "1590600/課目/かもく",
+    "1195740/課員/かいん",
+    "1273310/公課/こうか",
+    "1281110/考課/こうか",
+    "1516570/放課後/ほうかご",
+    "1484750/非課税/ひかぜい",
+    "2872490/部課長/ぶかちょう",
+    "2047480/人事考課/じんじこうか",
+    "1503190/分課/ぶんか",
+    "2871889/捜査一課/そうさいっか",
+    "1931330/課外授業/かがいじゅぎょう",
+    "2869488/刑事課/けいじか",
+    "1975620/課外活動/かがいかつどう",
+    "2133520/交通課/こうつうか",
+    "1931350/課題曲/かだいきょく"
+  ],
+  "candidates": {
+    "1195710/課/か": {
+      "id": 1195710,
+      "form": "課",
+      "kana": "か",
+      "gloss": "lesson",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        4199,
+        3894,
+        4034,
+        9389
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1195730/課する/かする": {
+      "id": 1195730,
+      "form": "課する",
+      "kana": "かする",
+      "gloss": "to impose (a tax, fine, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "vs-s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3734,
+        10474,
+        77923,
+        9659
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1463860/日課/にっか": {
+      "id": 1463860,
+      "form": "日課",
+      "kana": "にっか",
+      "gloss": "daily routine",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6252,
+        14995,
+        19315,
+        8301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1195820/課題/かだい": {
+      "id": 1195820,
+      "form": "課題",
+      "kana": "かだい",
+      "gloss": "subject",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1966,
+        1419,
+        2518,
+        4262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "題": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1195840/課長/かちょう": {
+      "id": 1195840,
+      "form": "課長",
+      "kana": "かちょう",
+      "gloss": "section manager",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6389,
+        8467,
+        8450,
+        11528
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1195790/課税/かぜい": {
+      "id": 1195790,
+      "form": "課税",
+      "kana": "かぜい",
+      "gloss": "taxation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9594,
+        5349,
+        9163,
+        64973
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "税": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1195850/課程/かてい": {
+      "id": 1195850,
+      "form": "課程",
+      "kana": "かてい",
+      "gloss": "course",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10321,
+        11393,
+        10372,
+        37686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "程": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2423990/放課/ほうか": {
+      "id": 2423990,
+      "form": "放課",
+      "kana": "ほうか",
+      "gloss": "dismissal of class (at the end of the day)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8696,
+        9710,
+        105543,
+        55879
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "放": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1206600/学課/がっか": {
+      "id": 1206600,
+      "form": "学課",
+      "kana": "がっか",
+      "gloss": "lesson",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28816,
+        109954,
+        185634,
+        141559
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1195770/課金/かきん": {
+      "id": 1195770,
+      "form": "課金",
+      "kana": "かきん",
+      "gloss": "charging (a fee)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        4363,
+        3734,
+        34262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1195720/課す/かす": {
+      "id": 1195720,
+      "form": "課す",
+      "kana": "かす",
+      "gloss": "to impose (a tax, fine, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17035,
+        null,
+        24433,
+        19724
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1195750/課外/かがい": {
+      "id": 1195750,
+      "form": "課外",
+      "kana": "かがい",
+      "gloss": "extracurricular",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37400,
+        26068,
+        73078
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1498150/賦課/ふか": {
+      "id": 1498150,
+      "form": "賦課",
+      "kana": "ふか",
+      "gloss": "levy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        40664,
+        203815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賦": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376700/正課/せいか": {
+      "id": 1376700,
+      "form": "正課",
+      "kana": "せいか",
+      "gloss": "regular curriculum",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37399,
+        null,
+        110395,
+        256467
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "正": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1195760/課業/かぎょう": {
+      "id": 1195760,
+      "form": "課業",
+      "kana": "かぎょう",
+      "gloss": "schoolwork",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        89631,
+        116563
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590600/課目/かもく": {
+      "id": 1590600,
+      "form": "課目",
+      "kana": "かもく",
+      "gloss": "(school) subject",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        110395,
+        93065
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1195740/課員/かいん": {
+      "id": 1195740,
+      "form": "課員",
+      "kana": "かいん",
+      "gloss": "section staff",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        88001,
+        83851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "員": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1273310/公課/こうか": {
+      "id": 1273310,
+      "form": "公課",
+      "kana": "こうか",
+      "gloss": "public imposts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        110395,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1281110/考課/こうか": {
+      "id": 1281110,
+      "form": "考課",
+      "kana": "こうか",
+      "gloss": "evaluation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        114322,
+        170858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "考": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1516570/放課後/ほうかご": {
+      "id": 1516570,
+      "form": "放課後",
+      "kana": "ほうかご",
+      "gloss": "after school (at the end of the day)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        8882,
+        3883
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "放": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1484750/非課税/ひかぜい": {
+      "id": 1484750,
+      "form": "非課税",
+      "kana": "ひかぜい",
+      "gloss": "tax-exempt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        29477,
+        108823
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "税": 5,
+        "非": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872490/部課長/ぶかちょう": {
+      "id": 2872490,
+      "form": "部課長",
+      "kana": "ぶかちょう",
+      "gloss": "department and section managers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        129623
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "部": 3,
+        "長": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2047480/人事考課/じんじこうか": {
+      "id": 2047480,
+      "form": "人事考課",
+      "kana": "じんじこうか",
+      "gloss": "merit (ability, efficiency) rating",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        129940,
+        156702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "考": 2,
+        "事": 3,
+        "人": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1503190/分課/ぶんか": {
+      "id": 1503190,
+      "form": "分課",
+      "kana": "ぶんか",
+      "gloss": "subdivision",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2871889/捜査一課/そうさいっか": {
+      "id": 2871889,
+      "form": "捜査一課",
+      "kana": "そうさいっか",
+      "gloss": "First Investigation Division (of the Japanese police)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        32536
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "査": 5,
+        "捜": 7,
+        "一": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1931330/課外授業/かがいじゅぎょう": {
+      "id": 1931330,
+      "form": "課外授業",
+      "kana": "かがいじゅぎょう",
+      "gloss": "extracurricular lesson",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43077
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2,
+        "授": 5,
+        "業": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2869488/刑事課/けいじか": {
+      "id": 2869488,
+      "form": "刑事課",
+      "kana": "けいじか",
+      "gloss": "criminal investigation division (of a police department)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        44618
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "刑": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1975620/課外活動/かがいかつどう": {
+      "id": 1975620,
+      "form": "課外活動",
+      "kana": "かがいかつどう",
+      "gloss": "extracurricular activities",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        56040
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "活": 2,
+        "外": 2,
+        "動": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2133520/交通課/こうつうか": {
+      "id": 2133520,
+      "form": "交通課",
+      "kana": "こうつうか",
+      "gloss": "traffic division (of a police department)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        59333
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2,
+        "通": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1931350/課題曲/かだいきょく": {
+      "id": 1931350,
+      "form": "課題曲",
+      "kana": "かだいきょく",
+      "gloss": "set piece (of music)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        61338
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "曲": 3,
+        "題": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1195820:課題:かだい",
+      "form": "課題",
+      "kana": "かだい",
+      "cue": "subject; theme",
+      "ids": [
+        1195820
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4262,
+        "shiberu": 1966,
+        "tubelex": 1419,
+        "wordfreq": 2518
+      },
+      "alternatives_by_kanji": {
+        "題": [
+          "1536010/問題/もんだい",
+          "1415490/題名/だいめい",
+          "1339620/出題/しゅつだい"
+        ],
+        "課": [
+          "1195710/課/か",
+          "1195730/課する/かする",
+          "1463860/日課/にっか"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

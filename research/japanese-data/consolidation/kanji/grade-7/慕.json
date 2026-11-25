@@ -1,0 +1,829 @@
+{
+  "character": "慕",
+  "grade": 7,
+  "meanings": [
+    "pining",
+    "yearn for",
+    "love dearly",
+    "adore"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    },
+    {
+      "type": "nelson_c",
+      "value": 140
+    }
+  ],
+  "components": [
+    "心",
+    "大",
+    "日",
+    "艾"
+  ],
+  "on": [
+    "ボ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "した.う",
+      "stem": "した",
+      "okurigana": "う"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "慕",
+    "heading": "慕",
+    "readings": [
+      "ボ",
+      "したう"
+    ],
+    "examples_by_reading": [
+      [
+        "慕情",
+        "敬慕",
+        "思慕"
+      ],
+      [
+        "慕う",
+        "慕わしい"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "慕",
+      "reading": "ボ",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ボ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1309600/思慕/しぼ",
+        "1514920/慕情/ぼじょう",
+        "1250780/敬慕/けいぼ",
+        "1559050/恋慕/れんぼ",
+        "1432660/追慕/ついぼ",
+        "1151070/愛慕/あいぼ",
+        "1181140/横恋慕/よこれんぼ",
+        "1241440/欽慕/きんぼ",
+        "1150370/哀慕/あいぼ",
+        "2835107/傾慕/けいぼ"
+      ]
+    },
+    {
+      "reading": "したう",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1514910/慕う/したう",
+        "1853680/慕わしい/したわしい",
+        "1558700/恋い慕う/こいしたう",
+        "2158350/呼び慕う/よびしたう",
+        "1558700/恋慕う/こいしたう",
+        "1876210/故郷を慕う/こきょうをしたう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1514910/慕う/したう",
+    "1309600/思慕/しぼ",
+    "1514920/慕情/ぼじょう",
+    "1250780/敬慕/けいぼ",
+    "1853680/慕わしい/したわしい",
+    "1559050/恋慕/れんぼ",
+    "1432660/追慕/ついぼ",
+    "1558700/恋い慕う/こいしたう",
+    "1151070/愛慕/あいぼ",
+    "1181140/横恋慕/よこれんぼ",
+    "2158350/呼び慕う/よびしたう",
+    "1558700/恋慕う/こいしたう",
+    "1876210/故郷を慕う/こきょうをしたう",
+    "1241440/欽慕/きんぼ",
+    "1150370/哀慕/あいぼ",
+    "1880690/慕い寄る/したいよる",
+    "1856840/後を慕って/あとをしたって",
+    "2835107/傾慕/けいぼ",
+    "1321590/慕ぶ/しのぶ"
+  ],
+  "candidates": {
+    "1514910/慕う/したう": {
+      "id": 1514910,
+      "form": "慕う",
+      "kana": "したう",
+      "gloss": "to yearn for",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4355,
+        10416,
+        46387,
+        4178
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "したう": {
+          "actual": "した",
+          "dictionary": [
+            "した.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "したう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1309600/思慕/しぼ": {
+      "id": 1309600,
+      "form": "思慕",
+      "kana": "しぼ",
+      "gloss": "yearning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        24687,
+        61110,
+        62361,
+        41654
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "思": 2
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1514920/慕情/ぼじょう": {
+      "id": 1514920,
+      "form": "慕情",
+      "kana": "ぼじょう",
+      "gloss": "longing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32865,
+        65459,
+        66155,
+        59199
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1250780/敬慕/けいぼ": {
+      "id": 1250780,
+      "form": "敬慕",
+      "kana": "けいぼ",
+      "gloss": "love and respect",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        38757,
+        101749,
+        128722,
+        81971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敬": 6
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1853680/慕わしい/したわしい": {
+      "id": 1853680,
+      "form": "慕わしい",
+      "kana": "したわしい",
+      "gloss": "dear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        null,
+        82099
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "したう": {
+          "actual": "した",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "したう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1559050/恋慕/れんぼ": {
+      "id": 1559050,
+      "form": "恋慕",
+      "kana": "れんぼ",
+      "gloss": "love",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16146,
+        55605,
+        69479,
+        40452
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恋": 7
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1432660/追慕/ついぼ": {
+      "id": 1432660,
+      "form": "追慕",
+      "kana": "ついぼ",
+      "gloss": "cherishing the memory of",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        39168,
+        101749,
+        116428,
+        131206
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1558700/恋い慕う/こいしたう": {
+      "id": 1558700,
+      "form": "恋い慕う",
+      "kana": "こいしたう",
+      "gloss": "to miss",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        169274,
+        67160
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恋": 7
+      },
+      "matched": {
+        "したう": {
+          "actual": "した",
+          "dictionary": [
+            "した.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1151070/愛慕/あいぼ": {
+      "id": 1151070,
+      "form": "愛慕",
+      "kana": "あいぼ",
+      "gloss": "love",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        151646,
+        112089
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1181140/横恋慕/よこれんぼ": {
+      "id": 1181140,
+      "form": "横恋慕",
+      "kana": "よこれんぼ",
+      "gloss": "illicit love",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        103620,
+        49471
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "横": 3,
+        "恋": 7
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2158350/呼び慕う/よびしたう": {
+      "id": 2158350,
+      "form": "呼び慕う",
+      "kana": "よびしたう",
+      "gloss": "to call fondly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        106402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呼": 6
+      },
+      "matched": {
+        "したう": {
+          "actual": "した",
+          "dictionary": [
+            "した.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1558700/恋慕う/こいしたう": {
+      "id": 1558700,
+      "form": "恋慕う",
+      "kana": "こいしたう",
+      "gloss": "to miss",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        186682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恋": 7
+      },
+      "matched": {
+        "したう": {
+          "actual": "した",
+          "dictionary": [
+            "した.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1876210/故郷を慕う/こきょうをしたう": {
+      "id": 1876210,
+      "form": "故郷を慕う",
+      "kana": "こきょうをしたう",
+      "gloss": "to pine for home",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "故": 5,
+        "郷": 6
+      },
+      "matched": {
+        "したう": {
+          "actual": "した",
+          "dictionary": [
+            "した.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1241440/欽慕/きんぼ": {
+      "id": 1241440,
+      "form": "欽慕",
+      "kana": "きんぼ",
+      "gloss": "adoration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1150370/哀慕/あいぼ": {
+      "id": 1150370,
+      "form": "哀慕",
+      "kana": "あいぼ",
+      "gloss": "cherish the memory of",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "哀": 7
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1880690/慕い寄る/したいよる": {
+      "id": 1880690,
+      "form": "慕い寄る",
+      "kana": "したいよる",
+      "gloss": "to approach in adoration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        204727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寄": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1856840/後を慕って/あとをしたって": {
+      "id": 1856840,
+      "form": "後を慕って",
+      "kana": "あとをしたって",
+      "gloss": "following (a person to a place)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        207812
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2835107/傾慕/けいぼ": {
+      "id": 2835107,
+      "form": "傾慕",
+      "kana": "けいぼ",
+      "gloss": "yearning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "傾": 7
+      },
+      "matched": {
+        "ボ": {
+          "actual": "ぼ",
+          "dictionary": [
+            "ボ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1321590/慕ぶ/しのぶ": {
+      "id": 1321590,
+      "form": "慕ぶ",
+      "kana": "しのぶ",
+      "gloss": "to recollect",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5b",
+        "vt"
+      ],
+      "flags": [
+        "arch",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1514910:慕う:したう",
+      "form": "慕う",
+      "kana": "したう",
+      "cue": "to yearn for; to long for",
+      "ids": [
+        1514910
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4178,
+        "shiberu": 4355,
+        "tubelex": 10416,
+        "wordfreq": 46387
+      },
+      "alternatives_by_kanji": {
+        "慕": [
+          "1309600/思慕/しぼ",
+          "1514920/慕情/ぼじょう",
+          "1250780/敬慕/けいぼ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

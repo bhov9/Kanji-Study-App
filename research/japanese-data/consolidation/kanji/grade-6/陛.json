@@ -1,0 +1,598 @@
+{
+  "character": "陛",
+  "grade": 6,
+  "meanings": [
+    "highness",
+    "steps (of throne)"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 170
+    }
+  ],
+  "components": [
+    "土",
+    "比",
+    "阡"
+  ],
+  "on": [
+    "ヘイ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "陛",
+    "heading": "陛",
+    "readings": [
+      "ヘイ"
+    ],
+    "examples_by_reading": [
+      [
+        "陛下"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "陛",
+      "reading": "ヘイ",
+      "source": "table_29_he.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヘイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1508740/陛下/へいか",
+        "1439060/天皇陛下/てんのうへいか",
+        "1628050/国王陛下/こくおうへいか",
+        "1345040/女王陛下/じょおうへいか",
+        "2870744/皇帝陛下/こうていへいか",
+        "1553990/両陛下/りょうへいか",
+        "1280400/皇后陛下/こうごうへいか",
+        "1289300/今上陛下/きんじょうへいか",
+        "2014550/王后陛下/おうこうへいか",
+        "2857139/天皇皇后両陛下/てんのうこうごうりょうへいか"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1508740/陛下/へいか",
+    "1439060/天皇陛下/てんのうへいか",
+    "1628050/国王陛下/こくおうへいか",
+    "1345040/女王陛下/じょおうへいか",
+    "2870744/皇帝陛下/こうていへいか",
+    "1553990/両陛下/りょうへいか",
+    "1280400/皇后陛下/こうごうへいか",
+    "1289300/今上陛下/きんじょうへいか",
+    "2014550/王后陛下/おうこうへいか",
+    "2857139/天皇皇后両陛下/てんのうこうごうりょうへいか",
+    "2839446/上皇陛下/じょうこうへいか",
+    "2839484/上皇后陛下/じょうこうごうへいか",
+    "1907190/陛衛/へいえい"
+  ],
+  "candidates": {
+    "1508740/陛下/へいか": {
+      "id": 1508740,
+      "form": "陛下",
+      "kana": "へいか",
+      "gloss": "Your Majesty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        11639,
+        5588,
+        8743,
+        12913
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1439060/天皇陛下/てんのうへいか": {
+      "id": 1439060,
+      "form": "天皇陛下",
+      "kana": "てんのうへいか",
+      "gloss": "His Majesty the Emperor",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        17751,
+        66226
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "皇": 6,
+        "下": 1,
+        "天": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1628050/国王陛下/こくおうへいか": {
+      "id": 1628050,
+      "form": "国王陛下",
+      "kana": "こくおうへいか",
+      "gloss": "His Majesty the King",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1,
+        "下": 1,
+        "国": 2
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1345040/女王陛下/じょおうへいか": {
+      "id": 1345040,
+      "form": "女王陛下",
+      "kana": "じょおうへいか",
+      "gloss": "Her Majesty the Queen",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        34092
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "女": 1,
+        "下": 1,
+        "王": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870744/皇帝陛下/こうていへいか": {
+      "id": 2870744,
+      "form": "皇帝陛下",
+      "kana": "こうていへいか",
+      "gloss": "His Imperial Majesty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35944
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帝": 7,
+        "皇": 6,
+        "下": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1553990/両陛下/りょうへいか": {
+      "id": 1553990,
+      "form": "両陛下",
+      "kana": "りょうへいか",
+      "gloss": "their Majesties the Emperor and Empress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        98448
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "両": 3,
+        "下": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1280400/皇后陛下/こうごうへいか": {
+      "id": 1280400,
+      "form": "皇后陛下",
+      "kana": "こうごうへいか",
+      "gloss": "Her Majesty the Empress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        99533
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "后": 6,
+        "皇": 6,
+        "下": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1289300/今上陛下/きんじょうへいか": {
+      "id": 1289300,
+      "form": "今上陛下",
+      "kana": "きんじょうへいか",
+      "gloss": "His Majesty the Emperor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        141931
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1,
+        "今": 2,
+        "下": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2014550/王后陛下/おうこうへいか": {
+      "id": 2014550,
+      "form": "王后陛下",
+      "kana": "おうこうへいか",
+      "gloss": "Her Majesty the Queen",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        211418
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "后": 6,
+        "王": 1,
+        "下": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857139/天皇皇后両陛下/てんのうこうごうりょうへいか": {
+      "id": 2857139,
+      "form": "天皇皇后両陛下",
+      "kana": "てんのうこうごうりょうへいか",
+      "gloss": "Their Majesties the Emperor and Empress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        216680
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1,
+        "皇": 6,
+        "両": 3,
+        "后": 6,
+        "天": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839446/上皇陛下/じょうこうへいか": {
+      "id": 2839446,
+      "form": "上皇陛下",
+      "kana": "じょうこうへいか",
+      "gloss": "retired emperor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1,
+        "皇": 6,
+        "下": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839484/上皇后陛下/じょうこうごうへいか": {
+      "id": 2839484,
+      "form": "上皇后陛下",
+      "kana": "じょうこうごうへいか",
+      "gloss": "retired empress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "后": 6,
+        "上": 1,
+        "皇": 6,
+        "下": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1907190/陛衛/へいえい": {
+      "id": 1907190,
+      "form": "陛衛",
+      "kana": "へいえい",
+      "gloss": "Imperial guard",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "衛": 5
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1508740:陛下:へいか",
+      "form": "陛下",
+      "kana": "へいか",
+      "cue": "Your Majesty; His Majesty",
+      "ids": [
+        1508740
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 12913,
+        "shiberu": 11639,
+        "tubelex": 5588,
+        "wordfreq": 8743
+      },
+      "alternatives_by_kanji": {
+        "下": [
+          "1184170/下げる/さげる",
+          "1589500/下りる/おりる",
+          "1589580/下ろす/おろす"
+        ],
+        "陛": [
+          "1439060/天皇陛下/てんのうへいか",
+          "1628050/国王陛下/こくおうへいか",
+          "1345040/女王陛下/じょおうへいか"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

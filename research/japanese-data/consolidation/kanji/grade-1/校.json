@@ -1,0 +1,1402 @@
+{
+  "character": "校",
+  "grade": 1,
+  "meanings": [
+    "exam",
+    "school",
+    "printing",
+    "proof",
+    "correction"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "父",
+    "木",
+    "亠"
+  ],
+  "on": [
+    "コウ",
+    "キョウ"
+  ],
+  "kun": [],
+  "nanori": [
+    "めん"
+  ],
+  "government": {
+    "kanji": "校",
+    "heading": "校",
+    "readings": [
+      "コウ"
+    ],
+    "examples_by_reading": [
+      [
+        "校閲",
+        "将校",
+        "学校"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "校",
+      "reading": "コウ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 316,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1206730/学校/がっこう",
+        "1347690/将校/しょうこう",
+        "1279480/校閲/こうえつ",
+        "1283500/高校/こうこう",
+        "2259610/校/こう",
+        "1279590/校長/こうちょう",
+        "1279540/校舎/こうしゃ",
+        "1444760/登校/とうこう",
+        "1441140/転校/てんこう",
+        "1279600/校庭/こうてい"
+      ]
+    },
+    {
+      "reading": "キョウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1618220/校合/きょうごう",
+        "2594390/校書殿/きょうしょでん",
+        "2835587/校書/きょうしょ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1206730/学校/がっこう",
+    "1347690/将校/しょうこう",
+    "1279480/校閲/こうえつ",
+    "1283500/高校/こうこう",
+    "2259610/校/こう",
+    "1279590/校長/こうちょう",
+    "1279540/校舎/こうしゃ",
+    "1444760/登校/とうこう",
+    "1441140/転校/てんこう",
+    "1279600/校庭/こうてい",
+    "1279610/校内/こうない",
+    "1522500/本校/ほんこう",
+    "1515040/母校/ぼこう",
+    "1227760/休校/きゅうこう",
+    "1279620/校門/こうもん",
+    "1395170/全校/ぜんこう",
+    "1202670/開校/かいこう",
+    "1184920/下校/げこう",
+    "1279560/校正/こうせい",
+    "1279580/校則/こうそく",
+    "1279490/校歌/こうか",
+    "1679730/廃校/はいこう",
+    "1503530/分校/ぶんこう",
+    "1279500/校外/こうがい",
+    "1626500/閉校/へいこう",
+    "1466090/入校/にゅうこう",
+    "1620160/在校/ざいこう",
+    "1981190/当校/とうこう",
+    "1760940/校風/こうふう",
+    "1279550/校章/こうしょう"
+  ],
+  "candidates": {
+    "1206730/学校/がっこう": {
+      "id": 1206730,
+      "form": "学校",
+      "kana": "がっこう",
+      "gloss": "school",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        159,
+        408,
+        404,
+        672
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1347690/将校/しょうこう": {
+      "id": 1347690,
+      "form": "将校",
+      "kana": "しょうこう",
+      "gloss": "commissioned officer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6609,
+        15564,
+        11547,
+        27590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1279480/校閲/こうえつ": {
+      "id": 1279480,
+      "form": "校閲",
+      "kana": "こうえつ",
+      "gloss": "revision",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31029,
+        59850,
+        42960,
+        60029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閲": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1283500/高校/こうこう": {
+      "id": 1283500,
+      "form": "高校",
+      "kana": "こうこう",
+      "gloss": "senior high school",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        630,
+        997,
+        906,
+        2016
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2259610/校/こう": {
+      "id": 2259610,
+      "form": "校",
+      "kana": "こう",
+      "gloss": "school",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "suf",
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        3745,
+        2791,
+        3454,
+        12339
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279590/校長/こうちょう": {
+      "id": 1279590,
+      "form": "校長",
+      "kana": "こうちょう",
+      "gloss": "principal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3088,
+        6426,
+        5154,
+        12920
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1279540/校舎/こうしゃ": {
+      "id": 1279540,
+      "form": "校舎",
+      "kana": "こうしゃ",
+      "gloss": "school building",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5608,
+        9263,
+        13281,
+        5248
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "舎": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1444760/登校/とうこう": {
+      "id": 1444760,
+      "form": "登校",
+      "kana": "とうこう",
+      "gloss": "attendance (at school)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        11632,
+        6731,
+        8882,
+        5986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "登": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1441140/転校/てんこう": {
+      "id": 1441140,
+      "form": "転校",
+      "kana": "てんこう",
+      "gloss": "changing schools",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8286,
+        12419,
+        17491,
+        7408
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "転": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279600/校庭/こうてい": {
+      "id": 1279600,
+      "form": "校庭",
+      "kana": "こうてい",
+      "gloss": "schoolyard",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5964,
+        18521,
+        24433,
+        10616
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "庭": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279610/校内/こうない": {
+      "id": 1279610,
+      "form": "校内",
+      "kana": "こうない",
+      "gloss": "within a school",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        11085,
+        17042,
+        18515,
+        7442
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522500/本校/ほんこう": {
+      "id": 1522500,
+      "form": "本校",
+      "kana": "ほんこう",
+      "gloss": "main school",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12030,
+        16820,
+        18794,
+        33685
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1515040/母校/ぼこう": {
+      "id": 1515040,
+      "form": "母校",
+      "kana": "ぼこう",
+      "gloss": "alma mater",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14708,
+        18521,
+        15595,
+        24827
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "母": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1227760/休校/きゅうこう": {
+      "id": 1227760,
+      "form": "休校",
+      "kana": "きゅうこう",
+      "gloss": "(temporary) closure of school",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        19554,
+        13039,
+        22289,
+        37188
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279620/校門/こうもん": {
+      "id": 1279620,
+      "form": "校門",
+      "kana": "こうもん",
+      "gloss": "school gate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11569,
+        33853,
+        39764,
+        8643
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "門": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1395170/全校/ぜんこう": {
+      "id": 1395170,
+      "form": "全校",
+      "kana": "ぜんこう",
+      "gloss": "the whole school",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14561,
+        20677,
+        23216,
+        30986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202670/開校/かいこう": {
+      "id": 1202670,
+      "form": "開校",
+      "kana": "かいこう",
+      "gloss": "opening a school",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16930,
+        23673,
+        21459,
+        55004
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "開": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1184920/下校/げこう": {
+      "id": 1184920,
+      "form": "下校",
+      "kana": "げこう",
+      "gloss": "leaving school (at the end of the day)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38440,
+        23586,
+        22289,
+        9895
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279560/校正/こうせい": {
+      "id": 1279560,
+      "form": "校正",
+      "kana": "こうせい",
+      "gloss": "proofreading",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23696,
+        20349,
+        22289,
+        33572
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "正": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279580/校則/こうそく": {
+      "id": 1279580,
+      "form": "校則",
+      "kana": "こうそく",
+      "gloss": "school rules",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25723,
+        33444,
+        21741,
+        17591
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "則": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279490/校歌/こうか": {
+      "id": 1279490,
+      "form": "校歌",
+      "kana": "こうか",
+      "gloss": "school song",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15598,
+        38608,
+        28048,
+        49532
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歌": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1679730/廃校/はいこう": {
+      "id": 1679730,
+      "form": "廃校",
+      "kana": "はいこう",
+      "gloss": "closing of a school",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        36830,
+        19389,
+        30980,
+        39874
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "廃": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1503530/分校/ぶんこう": {
+      "id": 1503530,
+      "form": "分校",
+      "kana": "ぶんこう",
+      "gloss": "branch school",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15158,
+        35749,
+        51518,
+        67109
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279500/校外/こうがい": {
+      "id": 1279500,
+      "form": "校外",
+      "kana": "こうがい",
+      "gloss": "out-of-school",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32726,
+        45909,
+        43420,
+        36508
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1626500/閉校/へいこう": {
+      "id": 1626500,
+      "form": "閉校",
+      "kana": "へいこう",
+      "gloss": "closing a school (for the day)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        28000,
+        36283,
+        61164,
+        109825
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閉": 6
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1466090/入校/にゅうこう": {
+      "id": 1466090,
+      "form": "入校",
+      "kana": "にゅうこう",
+      "gloss": "admission (to a school)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        34615,
+        43563,
+        46387,
+        77423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620160/在校/ざいこう": {
+      "id": 1620160,
+      "form": "在校",
+      "kana": "ざいこう",
+      "gloss": "being in school",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        31520,
+        37110,
+        76428,
+        83631
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "在": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1981190/当校/とうこう": {
+      "id": 1981190,
+      "form": "当校",
+      "kana": "とうこう",
+      "gloss": "this school",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33304,
+        63933,
+        40664,
+        60958
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1760940/校風/こうふう": {
+      "id": 1760940,
+      "form": "校風",
+      "kana": "こうふう",
+      "gloss": "school tradition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37388,
+        48827,
+        63618,
+        37103
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279550/校章/こうしょう": {
+      "id": 1279550,
+      "form": "校章",
+      "kana": "こうしょう",
+      "gloss": "school badge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31776,
+        67088,
+        61736,
+        45800
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "章": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1618220/校合/きょうごう": {
+      "id": 1618220,
+      "form": "校合",
+      "kana": "きょうごう",
+      "gloss": "collation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        148871,
+        196402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2594390/校書殿/きょうしょでん": {
+      "id": 2594390,
+      "form": "校書殿",
+      "kana": "きょうしょでん",
+      "gloss": "pavilion housing the historical archives (in Heian Palace)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        358560
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2,
+        "殿": 7
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835587/校書/きょうしょ": {
+      "id": 2835587,
+      "form": "校書",
+      "kana": "きょうしょ",
+      "gloss": "collation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        251642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "gakkou",
+      "form": "学校",
+      "kana": "がっこう",
+      "cue": "School",
+      "ids": [
+        1206730
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 672,
+        "shiberu": 159,
+        "tubelex": 408,
+        "wordfreq": 404
+      }
+    },
+    {
+      "wordId": "koumon",
+      "form": "校門",
+      "kana": "こうもん",
+      "cue": "School gate",
+      "ids": [
+        1279620
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 8643,
+        "shiberu": 11569,
+        "tubelex": 33853,
+        "wordfreq": 39764
+      },
+      "alternatives_by_kanji": {
+        "校": [
+          "1206730/学校/がっこう",
+          "1347690/将校/しょうこう",
+          "1279480/校閲/こうえつ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1283500:高校:こうこう",
+      "form": "高校",
+      "kana": "こうこう",
+      "cue": "senior high school; high school",
+      "ids": [
+        1283500
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2016,
+        "shiberu": 630,
+        "tubelex": 997,
+        "wordfreq": 906
+      },
+      "alternatives_by_kanji": {
+        "校": [
+          "1206730/学校/がっこう",
+          "1347690/将校/しょうこう",
+          "1279480/校閲/こうえつ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1347870:小学校:しょうがっこう",
+      "form": "小学校",
+      "kana": "しょうがっこう",
+      "cue": "primary school; elementary school",
+      "ids": [
+        1347870
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3202,
+        "wordfreq": 2067
+      },
+      "alternatives_by_kanji": {
+        "学": [
+          "1413240/大学/だいがく",
+          "1192700/科学/かがく",
+          "1206530/学ぶ/まなぶ"
+        ],
+        "校": [
+          "1206730/学校/がっこう",
+          "1347690/将校/しょうこう",
+          "1279480/校閲/こうえつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 15
+}

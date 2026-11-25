@@ -1,0 +1,1384 @@
+{
+  "character": "築",
+  "grade": 5,
+  "meanings": [
+    "fabricate",
+    "build",
+    "construct"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 118
+    }
+  ],
+  "components": [
+    "工",
+    "竹",
+    "木",
+    "丶",
+    "几"
+  ],
+  "on": [
+    "チク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "きず.く",
+      "stem": "きず",
+      "okurigana": "く"
+    }
+  ],
+  "nanori": [
+    "つい",
+    "つき",
+    "つく",
+    "づき"
+  ],
+  "government": {
+    "kanji": "築",
+    "heading": "築",
+    "readings": [
+      "チク",
+      "きずく"
+    ],
+    "examples_by_reading": [
+      [
+        "築港",
+        "建築",
+        "改築"
+      ],
+      [
+        "築く",
+        "築き上げる"
+      ]
+    ],
+    "note_lines": [
+      "築山（つきやま）"
+    ],
+    "representative_index": {
+      "kanji": "築",
+      "reading": "チク",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "築山"
+      ],
+      "reading": "つきやま",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "チク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 79,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1257500/建築/けんちく",
+        "1201020/改築/かいちく",
+        "1622660/築港/ちっこう",
+        "1622660/築港/ちくこう",
+        "1279810/構築/こうちく",
+        "1362160/新築/しんちく",
+        "2766780/築/ちく",
+        "1581660/築城/ちくじょう",
+        "1403320/増築/ぞうちく",
+        "1622720/築造/ちくぞう"
+      ]
+    },
+    {
+      "reading": "きずく",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1422140/築く/きずく",
+        "1422130/築き上げる/きずきあげる",
+        "1858250/礎を築く/いしずえをきずく",
+        "1895400/堤防を築く/ていぼうをきずく",
+        "1894830/堤を築く/つつみをきずく",
+        "1894410/塚を築く/つかをきずく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1257500/建築/けんちく",
+    "1422140/築く/きずく",
+    "1201020/改築/かいちく",
+    "1422130/築き上げる/きずきあげる",
+    "1622660/築港/ちっこう",
+    "1622660/築港/ちくこう",
+    "1279810/構築/こうちく",
+    "1362160/新築/しんちく",
+    "2766780/築/ちく",
+    "1581660/築城/ちくじょう",
+    "1403320/増築/ぞうちく",
+    "1622720/築造/ちくぞう",
+    "1332210/修築/しゅうちく",
+    "2035570/移築/いちく",
+    "1622710/築堤/ちくてい",
+    "2600290/再築/さいちく",
+    "2079620/増改築/ぞうかいちく",
+    "1717290/築庭/ちくてい",
+    "2529350/築後/ちくご",
+    "2851885/築年/ちくねん",
+    "2862496/版築/はんちく",
+    "1292700/再構築/さいこうちく",
+    "1714330/建築物/けんちくぶつ",
+    "1257510/建築家/けんちくか",
+    "2620200/木造建築/もくぞうけんちく",
+    "2409620/建築様式/けんちくようしき",
+    "1714320/建築士/けんちくし",
+    "1858250/礎を築く/いしずえをきずく",
+    "2834515/築年数/ちくねんすう",
+    "1578890/高層建築/こうそうけんちく"
+  ],
+  "candidates": {
+    "1257500/建築/けんちく": {
+      "id": 1257500,
+      "form": "建築",
+      "kana": "けんちく",
+      "gloss": "construction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2062,
+        1974,
+        2190,
+        11223
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "建": 4
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [
+        "チク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1422140/築く/きずく": {
+      "id": 1422140,
+      "form": "築く",
+      "kana": "きずく",
+      "gloss": "to build",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3650,
+        3748,
+        13090,
+        3269
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "きずく": {
+          "actual": "きず",
+          "dictionary": [
+            "きず.く"
+          ]
+        }
+      },
+      "official_examples": [
+        "きずく"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1201020/改築/かいちく": {
+      "id": 1201020,
+      "form": "改築",
+      "kana": "かいちく",
+      "gloss": "structural alteration (of a building)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10952,
+        18615,
+        19315,
+        25384
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "改": 4
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [
+        "チク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1422130/築き上げる/きずきあげる": {
+      "id": 1422130,
+      "form": "築き上げる",
+      "kana": "きずきあげる",
+      "gloss": "to build",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14589,
+        16073,
+        60579,
+        13331
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "きずく": {
+          "actual": "きず",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "きずく"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1622660/築港/ちっこう": {
+      "id": 1622660,
+      "form": "築港",
+      "kana": "ちっこう",
+      "gloss": "harbor construction",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41422,
+        67489,
+        160905
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "港": 3
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "チク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1622660/築港/ちくこう": {
+      "id": 1622660,
+      "form": "築港",
+      "kana": "ちくこう",
+      "gloss": "harbor construction",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41422,
+        67489,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "港": 3
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [
+        "チク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1279810/構築/こうちく": {
+      "id": 1279810,
+      "form": "構築",
+      "kana": "こうちく",
+      "gloss": "construction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5882,
+        3355,
+        3594,
+        8517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "構": 5
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1362160/新築/しんちく": {
+      "id": 1362160,
+      "form": "新築",
+      "kana": "しんちく",
+      "gloss": "new building",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        8139,
+        10436,
+        8743,
+        25860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2766780/築/ちく": {
+      "id": 2766780,
+      "form": "築",
+      "kana": "ちく",
+      "gloss": "... years since construction",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "pref"
+      ],
+      "flags": [],
+      "ranks": [
+        17364,
+        11919,
+        15185,
+        26997
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1581660/築城/ちくじょう": {
+      "id": 1581660,
+      "form": "築城",
+      "kana": "ちくじょう",
+      "gloss": "castle construction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7098,
+        32846,
+        34525,
+        56685
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "城": 4
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1403320/増築/ぞうちく": {
+      "id": 1403320,
+      "form": "増築",
+      "kana": "ぞうちく",
+      "gloss": "addition to a building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17634,
+        18001,
+        26398,
+        34518
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "増": 5
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1622720/築造/ちくぞう": {
+      "id": 1622720,
+      "form": "築造",
+      "kana": "ちくぞう",
+      "gloss": "construction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23167,
+        47603,
+        55378,
+        123245
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "造": 5
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332210/修築/しゅうちく": {
+      "id": 1332210,
+      "form": "修築",
+      "kana": "しゅうちく",
+      "gloss": "repair",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23932,
+        85382,
+        107434,
+        118126
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2035570/移築/いちく": {
+      "id": 2035570,
+      "form": "移築",
+      "kana": "いちく",
+      "gloss": "dismantling a (historic) building and reconstructing it elsewhere",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        30165,
+        46874,
+        74177
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "移": 5
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1622710/築堤/ちくてい": {
+      "id": 1622710,
+      "form": "築堤",
+      "kana": "ちくてい",
+      "gloss": "embankment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        104555,
+        199382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "堤": 7
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2600290/再築/さいちく": {
+      "id": 2600290,
+      "form": "再築",
+      "kana": "さいちく",
+      "gloss": "reconstruction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        107434,
+        175457
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "再": 5
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2079620/増改築/ぞうかいちく": {
+      "id": 2079620,
+      "form": "増改築",
+      "kana": "ぞうかいちく",
+      "gloss": "extension and structural alteration of building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        null,
+        70899
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "増": 5,
+        "改": 4
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1717290/築庭/ちくてい": {
+      "id": 1717290,
+      "form": "築庭",
+      "kana": "ちくてい",
+      "gloss": "landscape gardening",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        203403,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "庭": 3
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529350/築後/ちくご": {
+      "id": 2529350,
+      "form": "築後",
+      "kana": "ちくご",
+      "gloss": "after construction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        185909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851885/築年/ちくねん": {
+      "id": 2851885,
+      "form": "築年",
+      "kana": "ちくねん",
+      "gloss": "age of a building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        197607
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862496/版築/はんちく": {
+      "id": 2862496,
+      "form": "版築",
+      "kana": "はんちく",
+      "gloss": "rammed-earth construction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        254510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "版": 5
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1292700/再構築/さいこうちく": {
+      "id": 1292700,
+      "form": "再構築",
+      "kana": "さいこうちく",
+      "gloss": "reconstruction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        21217
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "再": 5,
+        "構": 5
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714330/建築物/けんちくぶつ": {
+      "id": 1714330,
+      "form": "建築物",
+      "kana": "けんちくぶつ",
+      "gloss": "building",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        21579
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "建": 4
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1257510/建築家/けんちくか": {
+      "id": 1257510,
+      "form": "建築家",
+      "kana": "けんちくか",
+      "gloss": "architect",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        36718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2,
+        "建": 4
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2620200/木造建築/もくぞうけんちく": {
+      "id": 2620200,
+      "form": "木造建築",
+      "kana": "もくぞうけんちく",
+      "gloss": "wooden building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        52115
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "建": 4,
+        "造": 5,
+        "木": 1
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2409620/建築様式/けんちくようしき": {
+      "id": 2409620,
+      "form": "建築様式",
+      "kana": "けんちくようしき",
+      "gloss": "architectural style",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        53352
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3,
+        "建": 4,
+        "式": 3
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1714320/建築士/けんちくし": {
+      "id": 1714320,
+      "form": "建築士",
+      "kana": "けんちくし",
+      "gloss": "authorized architect and builder",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        59851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5,
+        "建": 4
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1858250/礎を築く/いしずえをきずく": {
+      "id": 1858250,
+      "form": "礎を築く",
+      "kana": "いしずえをきずく",
+      "gloss": "to lay the foundation (for)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60484
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "礎": 7
+      },
+      "matched": {
+        "きずく": {
+          "actual": "きず",
+          "dictionary": [
+            "きず.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834515/築年数/ちくねんすう": {
+      "id": 2834515,
+      "form": "築年数",
+      "kana": "ちくねんすう",
+      "gloss": "age of a building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        61581
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1,
+        "数": 2
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1578890/高層建築/こうそうけんちく": {
+      "id": 1578890,
+      "form": "高層建築",
+      "kana": "こうそうけんちく",
+      "gloss": "tall building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65974
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2,
+        "層": 6,
+        "建": 4
+      },
+      "matched": {
+        "チク": {
+          "actual": "ちく",
+          "dictionary": [
+            "チク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1895400/堤防を築く/ていぼうをきずく": {
+      "id": 1895400,
+      "form": "堤防を築く",
+      "kana": "ていぼうをきずく",
+      "gloss": "to construct an embankment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        150508
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "堤": 7,
+        "防": 5
+      },
+      "matched": {
+        "きずく": {
+          "actual": "きず",
+          "dictionary": [
+            "きず.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1894830/堤を築く/つつみをきずく": {
+      "id": 1894830,
+      "form": "堤を築く",
+      "kana": "つつみをきずく",
+      "gloss": "to build an embankment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        153548
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "堤": 7
+      },
+      "matched": {
+        "きずく": {
+          "actual": "きず",
+          "dictionary": [
+            "きず.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1894410/塚を築く/つかをきずく": {
+      "id": 1894410,
+      "form": "塚を築く",
+      "kana": "つかをきずく",
+      "gloss": "to pile up a mound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        204727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塚": 7
+      },
+      "matched": {
+        "きずく": {
+          "actual": "きず",
+          "dictionary": [
+            "きず.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1257500:建築:けんちく",
+      "form": "建築",
+      "kana": "けんちく",
+      "cue": "construction; architecture (of buildings)",
+      "ids": [
+        1257500
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 11223,
+        "shiberu": 2062,
+        "tubelex": 1974,
+        "wordfreq": 2190
+      },
+      "alternatives_by_kanji": {
+        "建": [
+          "1257540/建物/たてもの",
+          "1257550/建立/こんりゅう",
+          "1257360/建議/けんぎ"
+        ],
+        "築": [
+          "1422140/築く/きずく",
+          "1201020/改築/かいちく",
+          "1422130/築き上げる/きずきあげる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 14
+}

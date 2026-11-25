@@ -1,0 +1,923 @@
+{
+  "character": "罵",
+  "grade": 7,
+  "meanings": [
+    "abuse",
+    "insult"
+  ],
+  "strokes": [
+    15,
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 122
+    }
+  ],
+  "components": [
+    "馬",
+    "買",
+    "杰"
+  ],
+  "on": [
+    "バ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ののし.る",
+      "stem": "ののし",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "罵",
+    "heading": "罵",
+    "readings": [
+      "バ",
+      "ののしる"
+    ],
+    "examples_by_reading": [
+      [
+        "罵声",
+        "罵倒"
+      ],
+      [
+        "罵る"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "罵",
+      "reading": "バ",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "バ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 13,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1471540/罵倒/ばとう",
+        "1471530/罵声/ばせい",
+        "1674380/罵詈/ばり",
+        "1152400/悪罵/あくば",
+        "1641420/面罵/めんば",
+        "1687650/痛罵/つうば",
+        "1742890/嘲罵/ちょうば",
+        "1812000/漫罵/まんば",
+        "1557270/冷罵/れいば",
+        "1674390/罵詈雑言/ばりぞうごん"
+      ]
+    },
+    {
+      "reading": "ののしる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1471520/罵る/ののしる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1471540/罵倒/ばとう",
+    "1471520/罵る/ののしる",
+    "1471530/罵声/ばせい",
+    "1674380/罵詈/ばり",
+    "1152400/悪罵/あくば",
+    "1641420/面罵/めんば",
+    "1687650/痛罵/つうば",
+    "1742890/嘲罵/ちょうば",
+    "1812000/漫罵/まんば",
+    "1557270/冷罵/れいば",
+    "1674390/罵詈雑言/ばりぞうごん",
+    "1674370/罵言/ばげん",
+    "2032220/罵詈讒謗/ばりざんぼう",
+    "2840528/叱罵/しつば",
+    "1812340/面罵罵倒/めんばばとう",
+    "2055630/罵り/ののしり",
+    "2859738/罵り合う/ののしりあう",
+    "2859738/罵りあう/ののしりあう",
+    "2857730/罵り言葉/ののしりことば",
+    "2857730/罵りことば/ののしりことば",
+    "2840528/𠮟罵/しつば",
+    "1601260/罵迦/ばか",
+    "2217170/卑罵語/ひばご"
+  ],
+  "candidates": {
+    "1471540/罵倒/ばとう": {
+      "id": 1471540,
+      "form": "罵倒",
+      "kana": "ばとう",
+      "gloss": "(verbal) abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13291,
+        23344,
+        14745,
+        9215
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "倒": 7
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [
+        "バ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1471520/罵る/ののしる": {
+      "id": 1471520,
+      "form": "罵る",
+      "kana": "ののしる",
+      "gloss": "to abuse (verbally)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12598,
+        17507,
+        37951,
+        8021
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ののしる": {
+          "actual": "ののし",
+          "dictionary": [
+            "ののし.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "ののしる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1471530/罵声/ばせい": {
+      "id": 1471530,
+      "form": "罵声",
+      "kana": "ばせい",
+      "gloss": "shout of abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26330,
+        31748,
+        29477,
+        14334
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "声": 2
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [
+        "バ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1674380/罵詈/ばり": {
+      "id": 1674380,
+      "form": "罵詈",
+      "kana": "ばり",
+      "gloss": "(verbal) abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31343,
+        40322,
+        37951,
+        121858
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1152400/悪罵/あくば": {
+      "id": 1152400,
+      "form": "悪罵",
+      "kana": "あくば",
+      "gloss": "curse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        120731,
+        72111
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悪": 3
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1641420/面罵/めんば": {
+      "id": 1641420,
+      "form": "面罵",
+      "kana": "めんば",
+      "gloss": "abusing someone to his (her) face",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        153062,
+        88430
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1687650/痛罵/つうば": {
+      "id": 1687650,
+      "form": "痛罵",
+      "kana": "つうば",
+      "gloss": "abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        207210,
+        98280
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "痛": 6
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1742890/嘲罵/ちょうば": {
+      "id": 1742890,
+      "form": "嘲罵",
+      "kana": "ちょうば",
+      "gloss": "(verbal) abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        115844
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "嘲": 7
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1812000/漫罵/まんば": {
+      "id": 1812000,
+      "form": "漫罵",
+      "kana": "まんば",
+      "gloss": "revilement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        233301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "漫": 7
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1557270/冷罵/れいば": {
+      "id": 1557270,
+      "form": "冷罵",
+      "kana": "れいば",
+      "gloss": "sneer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        170288
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "冷": 4
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1674390/罵詈雑言/ばりぞうごん": {
+      "id": 1674390,
+      "form": "罵詈雑言",
+      "kana": "ばりぞうごん",
+      "gloss": "all manner of (verbal) abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雑": 5,
+        "言": 2
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1674370/罵言/ばげん": {
+      "id": 1674370,
+      "form": "罵言",
+      "kana": "ばげん",
+      "gloss": "(verbal) abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        121884
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2032220/罵詈讒謗/ばりざんぼう": {
+      "id": 2032220,
+      "form": "罵詈讒謗",
+      "kana": "ばりざんぼう",
+      "gloss": "reviling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        201407
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840528/叱罵/しつば": {
+      "id": 2840528,
+      "form": "叱罵",
+      "kana": "しつば",
+      "gloss": "angry scolding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1812340/面罵罵倒/めんばばとう": {
+      "id": 1812340,
+      "form": "面罵罵倒",
+      "kana": "めんばばとう",
+      "gloss": "abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "面": 3,
+        "倒": 7
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2055630/罵り/ののしり": {
+      "id": 2055630,
+      "form": "罵り",
+      "kana": "ののしり",
+      "gloss": "abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        40548,
+        70964,
+        30598,
+        43371
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2859738/罵り合う/ののしりあう": {
+      "id": 2859738,
+      "form": "罵り合う",
+      "kana": "ののしりあう",
+      "gloss": "to insult each other",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        null,
+        36919
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2859738/罵りあう/ののしりあう": {
+      "id": 2859738,
+      "form": "罵りあう",
+      "kana": "ののしりあう",
+      "gloss": "to insult each other",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        92196
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2857730/罵り言葉/ののしりことば": {
+      "id": 2857730,
+      "form": "罵り言葉",
+      "kana": "ののしりことば",
+      "gloss": "abusive language",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        115606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2,
+        "葉": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2857730/罵りことば/ののしりことば": {
+      "id": 2857730,
+      "form": "罵りことば",
+      "kana": "ののしりことば",
+      "gloss": "abusive language",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2840528/𠮟罵/しつば": {
+      "id": 2840528,
+      "form": "𠮟罵",
+      "kana": "しつば",
+      "gloss": "angry scolding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "𠮟": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1601260/罵迦/ばか": {
+      "id": 1601260,
+      "form": "罵迦",
+      "kana": "ばか",
+      "gloss": "idiot",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        249208
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2217170/卑罵語/ひばご": {
+      "id": 2217170,
+      "form": "卑罵語",
+      "kana": "ひばご",
+      "gloss": "pejorative term",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "語": 2,
+        "卑": 7
+      },
+      "matched": {
+        "バ": {
+          "actual": "ば",
+          "dictionary": [
+            "バ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1471520:罵る:ののしる",
+      "form": "罵る",
+      "kana": "ののしる",
+      "cue": "to abuse (verbally); to curse at",
+      "ids": [
+        1471520
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 8021,
+        "shiberu": 12598,
+        "tubelex": 17507,
+        "wordfreq": 37951
+      },
+      "alternatives_by_kanji": {
+        "罵": [
+          "1471540/罵倒/ばとう",
+          "1471530/罵声/ばせい",
+          "1674380/罵詈/ばり"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

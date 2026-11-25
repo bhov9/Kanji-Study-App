@@ -1,0 +1,1256 @@
+{
+  "character": "快",
+  "grade": 5,
+  "meanings": [
+    "cheerful",
+    "pleasant",
+    "agreeable",
+    "comfortable"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "人",
+    "大",
+    "二",
+    "忙",
+    "ユ"
+  ],
+  "on": [
+    "カイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "こころよ.い",
+      "stem": "こころよ",
+      "okurigana": "い"
+    }
+  ],
+  "nanori": [
+    "よし"
+  ],
+  "government": {
+    "kanji": "快",
+    "heading": "快",
+    "readings": [
+      "カイ",
+      "こころよい"
+    ],
+    "examples_by_reading": [
+      [
+        "快活",
+        "快晴",
+        "明快"
+      ],
+      [
+        "快い"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "快",
+      "reading": "カイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 103,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1200000/快活/かいかつ",
+        "1532400/明快/めいかい",
+        "1200060/快晴/かいせい",
+        "1200120/快適/かいてき",
+        "1491570/不快/ふかい",
+        "1538560/愉快/ゆかい",
+        "2533310/快/かい",
+        "1200010/快感/かいかん",
+        "1199980/快楽/かいらく",
+        "1285540/豪快/ごうかい"
+      ]
+    },
+    {
+      "reading": "こころよい",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1199970/快い/こころよい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1199970/快い/こころよい",
+    "1200000/快活/かいかつ",
+    "1532400/明快/めいかい",
+    "1200060/快晴/かいせい",
+    "1200120/快適/かいてき",
+    "1491570/不快/ふかい",
+    "1538560/愉快/ゆかい",
+    "2533310/快/かい",
+    "1200010/快感/かいかん",
+    "1199980/快楽/かいらく",
+    "1285540/豪快/ごうかい",
+    "1399530/爽快/そうかい",
+    "1252600/軽快/けいかい",
+    "1200080/快速/かいそく",
+    "1432750/痛快/つうかい",
+    "1200100/快諾/かいだく",
+    "1394940/全快/ぜんかい",
+    "1200160/快方/かいほう",
+    "1805770/快癒/かいゆ",
+    "1976480/快気/かいき",
+    "1200140/快刀/かいとう",
+    "1200020/快挙/かいきょ",
+    "1613870/快勝/かいしょう",
+    "1200110/快調/かいちょう",
+    "1199720/快復/かいふく",
+    "1200170/快眠/かいみん",
+    "1200070/快走/かいそう",
+    "1805710/快音/かいおん",
+    "1200030/快哉/かいさい",
+    "1620660/快足/かいそく"
+  ],
+  "candidates": {
+    "1199970/快い/こころよい": {
+      "id": 1199970,
+      "form": "快い",
+      "kana": "こころよい",
+      "gloss": "pleasant",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        5265,
+        16333,
+        62361,
+        6932
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "こころよい": {
+          "actual": "こころよ",
+          "dictionary": [
+            "こころよ.い"
+          ]
+        }
+      },
+      "official_examples": [
+        "こころよい"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1200000/快活/かいかつ": {
+      "id": 1200000,
+      "form": "快活",
+      "kana": "かいかつ",
+      "gloss": "cheerful",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        7726,
+        21507,
+        36201,
+        14824
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "活": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1532400/明快/めいかい": {
+      "id": 1532400,
+      "form": "明快",
+      "kana": "めいかい",
+      "gloss": "clear",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10950,
+        21302,
+        21741,
+        21400
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1200060/快晴/かいせい": {
+      "id": 1200060,
+      "form": "快晴",
+      "kana": "かいせい",
+      "gloss": "clear weather",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18258,
+        16261,
+        21459,
+        15093
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "晴": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1200120/快適/かいてき": {
+      "id": 1200120,
+      "form": "快適",
+      "kana": "かいてき",
+      "gloss": "pleasant",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7421,
+        2302,
+        4516,
+        6332
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "適": 5
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1491570/不快/ふかい": {
+      "id": 1491570,
+      "form": "不快",
+      "kana": "ふかい",
+      "gloss": "displeasure",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        5290,
+        6260,
+        5233,
+        4492
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538560/愉快/ゆかい": {
+      "id": 1538560,
+      "form": "愉快",
+      "kana": "ゆかい",
+      "gloss": "pleasant",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3226,
+        8610,
+        10540,
+        5005
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愉": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2533310/快/かい": {
+      "id": 2533310,
+      "form": "快",
+      "kana": "かい",
+      "gloss": "pleasure",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5013,
+        16572,
+        9302,
+        39459
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200010/快感/かいかん": {
+      "id": 1200010,
+      "form": "快感",
+      "kana": "かいかん",
+      "gloss": "pleasant feeling",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10673,
+        13294,
+        8301,
+        5127
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "感": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1199980/快楽/かいらく": {
+      "id": 1199980,
+      "form": "快楽",
+      "kana": "かいらく",
+      "gloss": "pleasure",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8910,
+        14234,
+        9163,
+        6198
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "楽": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1285540/豪快/ごうかい": {
+      "id": 1285540,
+      "form": "豪快",
+      "kana": "ごうかい",
+      "gloss": "hearty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11996,
+        12419,
+        14132,
+        7462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "豪": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1399530/爽快/そうかい": {
+      "id": 1399530,
+      "form": "爽快",
+      "kana": "そうかい",
+      "gloss": "refreshing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12031,
+        11471,
+        11368,
+        16832
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "爽": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252600/軽快/けいかい": {
+      "id": 1252600,
+      "form": "軽快",
+      "kana": "けいかい",
+      "gloss": "light (of movements)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9757,
+        11083,
+        20349,
+        10351
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軽": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200080/快速/かいそく": {
+      "id": 1200080,
+      "form": "快速",
+      "kana": "かいそく",
+      "gloss": "high speed",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        31876,
+        9843,
+        11368,
+        50348
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "速": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1432750/痛快/つうかい": {
+      "id": 1432750,
+      "form": "痛快",
+      "kana": "つうかい",
+      "gloss": "exhilarating",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8683,
+        35465,
+        22289,
+        23200
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "痛": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200100/快諾/かいだく": {
+      "id": 1200100,
+      "form": "快諾",
+      "kana": "かいだく",
+      "gloss": "ready consent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23488,
+        33444,
+        29116,
+        20448
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "諾": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1394940/全快/ぜんかい": {
+      "id": 1394940,
+      "form": "全快",
+      "kana": "ぜんかい",
+      "gloss": "complete recovery of health",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        24761,
+        35006,
+        38431,
+        24744
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200160/快方/かいほう": {
+      "id": 1200160,
+      "form": "快方",
+      "kana": "かいほう",
+      "gloss": "convalescence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18110,
+        57577,
+        49881,
+        91551
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1805770/快癒/かいゆ": {
+      "id": 1805770,
+      "form": "快癒",
+      "kana": "かいゆ",
+      "gloss": "recovery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        30500,
+        78424,
+        83270,
+        57547
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "癒": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1976480/快気/かいき": {
+      "id": 1976480,
+      "form": "快気",
+      "kana": "かいき",
+      "gloss": "recovery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        37324,
+        81652,
+        72128,
+        91254
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200140/快刀/かいとう": {
+      "id": 1200140,
+      "form": "快刀",
+      "kana": "かいとう",
+      "gloss": "sharp sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34414,
+        89646,
+        101758,
+        174590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刀": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200020/快挙/かいきょ": {
+      "id": 1200020,
+      "form": "快挙",
+      "kana": "かいきょ",
+      "gloss": "brilliant achievement",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17157,
+        18515,
+        28099
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "挙": 4
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1613870/快勝/かいしょう": {
+      "id": 1613870,
+      "form": "快勝",
+      "kana": "かいしょう",
+      "gloss": "sweeping victory",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31906,
+        27016,
+        58446
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勝": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200110/快調/かいちょう": {
+      "id": 1200110,
+      "form": "快調",
+      "kana": "かいちょう",
+      "gloss": "good (condition)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29352,
+        40209,
+        29190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1199720/快復/かいふく": {
+      "id": 1199720,
+      "form": "快復",
+      "kana": "かいふく",
+      "gloss": "restoration",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        24189,
+        null,
+        57069,
+        38380
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "復": 5
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200170/快眠/かいみん": {
+      "id": 1200170,
+      "form": "快眠",
+      "kana": "かいみん",
+      "gloss": "pleasant sleep",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36550,
+        30598,
+        51727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "眠": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200070/快走/かいそう": {
+      "id": 1200070,
+      "form": "快走",
+      "kana": "かいそう",
+      "gloss": "fast moving",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37698,
+        60579,
+        99135
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "走": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1805710/快音/かいおん": {
+      "id": 1805710,
+      "form": "快音",
+      "kana": "かいおん",
+      "gloss": "pleasant sound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        114322,
+        60486
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "音": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200030/快哉/かいさい": {
+      "id": 1200030,
+      "form": "快哉",
+      "kana": "かいさい",
+      "gloss": "joy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        126439,
+        68075
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620660/快足/かいそく": {
+      "id": 1620660,
+      "form": "快足",
+      "kana": "かいそく",
+      "gloss": "being nimble-footed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        99041,
+        114595
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "足": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1199720:快復:かいふく",
+      "form": "快復",
+      "kana": "かいふく",
+      "cue": "restoration; recovery",
+      "ids": [
+        1199720
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 38380,
+        "shiberu": 24189,
+        "wordfreq": 57069
+      },
+      "alternatives_by_kanji": {
+        "快": [
+          "1199970/快い/こころよい",
+          "1200000/快活/かいかつ",
+          "1532400/明快/めいかい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1399530:爽快:そうかい",
+      "form": "爽快",
+      "kana": "そうかい",
+      "cue": "refreshing; exhilarating",
+      "ids": [
+        1399530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 16832,
+        "shiberu": 12031,
+        "tubelex": 11471,
+        "wordfreq": 11368
+      },
+      "alternatives_by_kanji": {
+        "快": [
+          "1199970/快い/こころよい",
+          "1200000/快活/かいかつ",
+          "1532400/明快/めいかい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

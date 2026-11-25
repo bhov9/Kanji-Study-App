@@ -1,0 +1,407 @@
+{
+  "reference_top1000_sizes": {
+    "bccwj": 931,
+    "cejc": 946,
+    "short": 931,
+    "long": 945,
+    "textbook": 946
+  },
+  "overlaps": {
+    "shiberu": {
+      "100": {
+        "bccwj": 84,
+        "cejc": 82,
+        "short": 84,
+        "long": 77,
+        "textbook": 54
+      },
+      "500": {
+        "bccwj": 327,
+        "cejc": 262,
+        "short": 327,
+        "long": 304,
+        "textbook": 235
+      },
+      "1000": {
+        "bccwj": 440,
+        "cejc": 365,
+        "short": 440,
+        "long": 430,
+        "textbook": 348
+      },
+      "2000": {
+        "bccwj": 539,
+        "cejc": 460,
+        "short": 539,
+        "long": 492,
+        "textbook": 478
+      },
+      "5000": {
+        "bccwj": 593,
+        "cejc": 529,
+        "short": 593,
+        "long": 524,
+        "textbook": 601
+      },
+      "10000": {
+        "bccwj": 609,
+        "cejc": 560,
+        "short": 609,
+        "long": 544,
+        "textbook": 630
+      }
+    },
+    "tubelex": {
+      "100": {
+        "bccwj": 92,
+        "cejc": 98,
+        "short": 92,
+        "long": 88,
+        "textbook": 54
+      },
+      "500": {
+        "bccwj": 382,
+        "cejc": 361,
+        "short": 382,
+        "long": 360,
+        "textbook": 254
+      },
+      "1000": {
+        "bccwj": 535,
+        "cejc": 494,
+        "short": 535,
+        "long": 497,
+        "textbook": 386
+      },
+      "2000": {
+        "bccwj": 618,
+        "cejc": 567,
+        "short": 618,
+        "long": 556,
+        "textbook": 516
+      },
+      "5000": {
+        "bccwj": 630,
+        "cejc": 586,
+        "short": 630,
+        "long": 571,
+        "textbook": 631
+      },
+      "10000": {
+        "bccwj": 635,
+        "cejc": 592,
+        "short": 635,
+        "long": 572,
+        "textbook": 651
+      }
+    },
+    "wordfreq": {
+      "100": {
+        "bccwj": 67,
+        "cejc": 65,
+        "short": 67,
+        "long": 64,
+        "textbook": 35
+      },
+      "500": {
+        "bccwj": 301,
+        "cejc": 217,
+        "short": 301,
+        "long": 236,
+        "textbook": 193
+      },
+      "1000": {
+        "bccwj": 431,
+        "cejc": 319,
+        "short": 431,
+        "long": 338,
+        "textbook": 314
+      },
+      "2000": {
+        "bccwj": 520,
+        "cejc": 407,
+        "short": 520,
+        "long": 423,
+        "textbook": 428
+      },
+      "5000": {
+        "bccwj": 575,
+        "cejc": 513,
+        "short": 575,
+        "long": 514,
+        "textbook": 565
+      },
+      "10000": {
+        "bccwj": 595,
+        "cejc": 546,
+        "short": 595,
+        "long": 545,
+        "textbook": 627
+      }
+    },
+    "jiten:global": {
+      "100": {
+        "bccwj": 61,
+        "cejc": 67,
+        "short": 61,
+        "long": 66,
+        "textbook": 35
+      },
+      "500": {
+        "bccwj": 280,
+        "cejc": 310,
+        "short": 280,
+        "long": 318,
+        "textbook": 184
+      },
+      "1000": {
+        "bccwj": 413,
+        "cejc": 447,
+        "short": 413,
+        "long": 484,
+        "textbook": 297
+      },
+      "2000": {
+        "bccwj": 553,
+        "cejc": 584,
+        "short": 553,
+        "long": 612,
+        "textbook": 432
+      },
+      "5000": {
+        "bccwj": 696,
+        "cejc": 688,
+        "short": 696,
+        "long": 686,
+        "textbook": 607
+      },
+      "10000": {
+        "bccwj": 770,
+        "cejc": 747,
+        "short": 770,
+        "long": 716,
+        "textbook": 722
+      }
+    },
+    "equal": {
+      "100": {
+        "bccwj": 84,
+        "cejc": 88,
+        "short": 84,
+        "long": 80,
+        "textbook": 48
+      },
+      "500": {
+        "bccwj": 369,
+        "cejc": 331,
+        "short": 369,
+        "long": 364,
+        "textbook": 246
+      },
+      "1000": {
+        "bccwj": 546,
+        "cejc": 489,
+        "short": 546,
+        "long": 533,
+        "textbook": 386
+      },
+      "2000": {
+        "bccwj": 679,
+        "cejc": 627,
+        "short": 679,
+        "long": 633,
+        "textbook": 540
+      },
+      "5000": {
+        "bccwj": 763,
+        "cejc": 737,
+        "short": 763,
+        "long": 730,
+        "textbook": 713
+      },
+      "10000": {
+        "bccwj": 802,
+        "cejc": 779,
+        "short": 802,
+        "long": 767,
+        "textbook": 789
+      }
+    },
+    "conversation": {
+      "100": {
+        "bccwj": 88,
+        "cejc": 91,
+        "short": 88,
+        "long": 83,
+        "textbook": 52
+      },
+      "500": {
+        "bccwj": 378,
+        "cejc": 337,
+        "short": 378,
+        "long": 354,
+        "textbook": 249
+      },
+      "1000": {
+        "bccwj": 543,
+        "cejc": 481,
+        "short": 543,
+        "long": 503,
+        "textbook": 382
+      },
+      "2000": {
+        "bccwj": 648,
+        "cejc": 598,
+        "short": 648,
+        "long": 600,
+        "textbook": 533
+      },
+      "5000": {
+        "bccwj": 715,
+        "cejc": 687,
+        "short": 715,
+        "long": 685,
+        "textbook": 692
+      },
+      "10000": {
+        "bccwj": 766,
+        "cejc": 746,
+        "short": 766,
+        "long": 736,
+        "textbook": 755
+      }
+    },
+    "general": {
+      "100": {
+        "bccwj": 85,
+        "cejc": 88,
+        "short": 85,
+        "long": 81,
+        "textbook": 51
+      },
+      "500": {
+        "bccwj": 378,
+        "cejc": 327,
+        "short": 378,
+        "long": 357,
+        "textbook": 256
+      },
+      "1000": {
+        "bccwj": 542,
+        "cejc": 466,
+        "short": 542,
+        "long": 503,
+        "textbook": 386
+      },
+      "2000": {
+        "bccwj": 638,
+        "cejc": 584,
+        "short": 638,
+        "long": 587,
+        "textbook": 528
+      },
+      "5000": {
+        "bccwj": 711,
+        "cejc": 684,
+        "short": 711,
+        "long": 673,
+        "textbook": 687
+      },
+      "10000": {
+        "bccwj": 756,
+        "cejc": 733,
+        "short": 756,
+        "long": 728,
+        "textbook": 745
+      }
+    },
+    "written": {
+      "100": {
+        "bccwj": 83,
+        "cejc": 85,
+        "short": 83,
+        "long": 80,
+        "textbook": 52
+      },
+      "500": {
+        "bccwj": 347,
+        "cejc": 301,
+        "short": 347,
+        "long": 337,
+        "textbook": 233
+      },
+      "1000": {
+        "bccwj": 511,
+        "cejc": 451,
+        "short": 511,
+        "long": 503,
+        "textbook": 386
+      },
+      "2000": {
+        "bccwj": 645,
+        "cejc": 582,
+        "short": 645,
+        "long": 597,
+        "textbook": 531
+      },
+      "5000": {
+        "bccwj": 746,
+        "cejc": 705,
+        "short": 746,
+        "long": 702,
+        "textbook": 705
+      },
+      "10000": {
+        "bccwj": 786,
+        "cejc": 761,
+        "short": 786,
+        "long": 750,
+        "textbook": 773
+      }
+    },
+    "overlap": {
+      "100": {
+        "bccwj": 88,
+        "cejc": 89,
+        "short": 88,
+        "long": 83,
+        "textbook": 53
+      },
+      "500": {
+        "bccwj": 382,
+        "cejc": 329,
+        "short": 382,
+        "long": 357,
+        "textbook": 258
+      },
+      "1000": {
+        "bccwj": 540,
+        "cejc": 468,
+        "short": 540,
+        "long": 509,
+        "textbook": 390
+      },
+      "2000": {
+        "bccwj": 642,
+        "cejc": 578,
+        "short": 642,
+        "long": 589,
+        "textbook": 534
+      },
+      "5000": {
+        "bccwj": 713,
+        "cejc": 685,
+        "short": 713,
+        "long": 674,
+        "textbook": 686
+      },
+      "10000": {
+        "bccwj": 758,
+        "cejc": 735,
+        "short": 758,
+        "long": 726,
+        "textbook": 744
+      }
+    }
+  }
+}

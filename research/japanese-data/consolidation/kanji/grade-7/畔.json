@@ -1,0 +1,651 @@
+{
+  "character": "畔",
+  "grade": 7,
+  "meanings": [
+    "paddy ridge",
+    "levee"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 102
+    }
+  ],
+  "components": [
+    "｜",
+    "田",
+    "二",
+    "并",
+    "十"
+  ],
+  "on": [
+    "ハン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あぜ",
+      "stem": "あぜ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "くろ",
+      "stem": "くろ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "ほとり",
+      "stem": "ほとり",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "ぐろ"
+  ],
+  "government": {
+    "kanji": "畔",
+    "heading": "畔",
+    "readings": [
+      "ハン"
+    ],
+    "examples_by_reading": [
+      [
+        "湖畔"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "畔",
+      "reading": "ハン",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ハン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1267320/湖畔/こはん",
+        "1193600/河畔/かはん",
+        "1622550/池畔/ちはん",
+        "1870290/橋畔/きょうはん",
+        "2137390/畦畔/けいはん",
+        "1883400/渚畔/しょはん"
+      ]
+    },
+    {
+      "reading": "あぜ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1250980/畔/あぜ",
+        "1481660/畔道/あぜみち",
+        "2867069/畔菜/あぜな",
+        "2625260/畔冬菜/あぜとうな",
+        "2625260/畔唐菜/あぜとうな"
+      ]
+    },
+    {
+      "reading": "くろ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1250980/畔/くろ"
+      ]
+    },
+    {
+      "reading": "ほとり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2842190/畔/ほとり"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1267320/湖畔/こはん",
+    "1193600/河畔/かはん",
+    "1622550/池畔/ちはん",
+    "1870290/橋畔/きょうはん",
+    "2137390/畦畔/けいはん",
+    "1250980/畔/あぜ",
+    "2842190/畔/ほとり",
+    "1481660/畔道/あぜみち",
+    "1250980/畔/くろ",
+    "1883400/渚畔/しょはん",
+    "2867069/畔菜/あぜな",
+    "2625260/畔冬菜/あぜとうな",
+    "2625260/畔唐菜/あぜとうな"
+  ],
+  "candidates": {
+    "1267320/湖畔/こはん": {
+      "id": 1267320,
+      "form": "湖畔",
+      "kana": "こはん",
+      "gloss": "lakeside",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10452,
+        25818,
+        28048,
+        28732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "湖": 3
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1193600/河畔/かはん": {
+      "id": 1193600,
+      "form": "河畔",
+      "kana": "かはん",
+      "gloss": "riverside",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16214,
+        58680,
+        66810,
+        84500
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "河": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1622550/池畔/ちはん": {
+      "id": 1622550,
+      "form": "池畔",
+      "kana": "ちはん",
+      "gloss": "near the pond",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        150239,
+        178205
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "池": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1870290/橋畔/きょうはん": {
+      "id": 1870290,
+      "form": "橋畔",
+      "kana": "きょうはん",
+      "gloss": "approach to a bridge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        188317
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "橋": 3
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2137390/畦畔/けいはん": {
+      "id": 2137390,
+      "form": "畦畔",
+      "kana": "けいはん",
+      "gloss": "ridge between rice fields",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1250980/畔/あぜ": {
+      "id": 1250980,
+      "form": "畔",
+      "kana": "あぜ",
+      "gloss": "ridge of earth between rice fields",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        46924
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あぜ": {
+          "actual": "あぜ",
+          "dictionary": [
+            "あぜ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2842190/畔/ほとり": {
+      "id": 2842190,
+      "form": "畔",
+      "kana": "ほとり",
+      "gloss": "side (esp. of a waterbody)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        61820
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ほとり": {
+          "actual": "ほとり",
+          "dictionary": [
+            "ほとり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1481660/畔道/あぜみち": {
+      "id": 1481660,
+      "form": "畔道",
+      "kana": "あぜみち",
+      "gloss": "(raised) footpath between rice fields",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        178545
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "あぜ": {
+          "actual": "あぜ",
+          "dictionary": [
+            "あぜ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1250980/畔/くろ": {
+      "id": 1250980,
+      "form": "畔",
+      "kana": "くろ",
+      "gloss": "ridge of earth between rice fields",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "くろ": {
+          "actual": "くろ",
+          "dictionary": [
+            "くろ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1883400/渚畔/しょはん": {
+      "id": 1883400,
+      "form": "渚畔",
+      "kana": "しょはん",
+      "gloss": "shore",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2867069/畔菜/あぜな": {
+      "id": 2867069,
+      "form": "畔菜",
+      "kana": "あぜな",
+      "gloss": "common false pimpernel (Lindernia procumbens)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "菜": 4
+      },
+      "matched": {
+        "あぜ": {
+          "actual": "あぜ",
+          "dictionary": [
+            "あぜ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2625260/畔冬菜/あぜとうな": {
+      "id": 2625260,
+      "form": "畔冬菜",
+      "kana": "あぜとうな",
+      "gloss": "Crepidiastrum keiskeanum (species of plant in the daisy family)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "冬": 2,
+        "菜": 4
+      },
+      "matched": {
+        "あぜ": {
+          "actual": "あぜ",
+          "dictionary": [
+            "あぜ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2625260/畔唐菜/あぜとうな": {
+      "id": 2625260,
+      "form": "畔唐菜",
+      "kana": "あぜとうな",
+      "gloss": "Crepidiastrum keiskeanum (species of plant in the daisy family)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "唐": 7,
+        "菜": 4
+      },
+      "matched": {
+        "あぜ": {
+          "actual": "あぜ",
+          "dictionary": [
+            "あぜ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1267320:湖畔:こはん",
+      "form": "湖畔",
+      "kana": "こはん",
+      "cue": "lakeside; lakeshore",
+      "ids": [
+        1267320
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 28732,
+        "shiberu": 10452,
+        "tubelex": 25818,
+        "wordfreq": 28048
+      },
+      "alternatives_by_kanji": {
+        "湖": [
+          "1267310/湖水/こすい",
+          "1267290/湖沼/こしょう",
+          "1267280/湖/みずうみ"
+        ],
+        "畔": [
+          "1193600/河畔/かはん",
+          "1622550/池畔/ちはん",
+          "1870290/橋畔/きょうはん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

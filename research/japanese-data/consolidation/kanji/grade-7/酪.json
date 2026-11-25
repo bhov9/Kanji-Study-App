@@ -1,0 +1,932 @@
+{
+  "character": "酪",
+  "grade": 7,
+  "meanings": [
+    "dairy products",
+    "whey",
+    "broth",
+    "fruit juice"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 164
+    }
+  ],
+  "components": [
+    "口",
+    "酉",
+    "夂"
+  ],
+  "on": [
+    "ラク"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "酪",
+    "heading": "酪",
+    "readings": [
+      "ラク"
+    ],
+    "examples_by_reading": [
+      [
+        "酪農"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "酪",
+      "reading": "ラク",
+      "source": "table_39_ra.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ラク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 14,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1548890/酪農/らくのう",
+        "1643900/酪酸/らくさん",
+        "2844079/酪/らく",
+        "1210170/乾酪/かんらく",
+        "5695146/酪農学園大学/らくのうがくえんだいがく",
+        "1548900/酪農家/らくのうか",
+        "1465400/乳酪/にゅうらく",
+        "1548910/酪農場/らくのうじょう",
+        "2687280/酪農業/らくのうぎょう",
+        "2853932/酪農品/らくのうひん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1548890/酪農/らくのう",
+    "1643900/酪酸/らくさん",
+    "2844079/酪/らく",
+    "1210170/乾酪/かんらく",
+    "5695146/酪農学園大学/らくのうがくえんだいがく",
+    "1548900/酪農家/らくのうか",
+    "1465400/乳酪/にゅうらく",
+    "1548910/酪農場/らくのうじょう",
+    "2687280/酪農業/らくのうぎょう",
+    "2853932/酪農品/らくのうひん",
+    "2429840/ガンマアミノ酪酸/ガンマアミノらくさん",
+    "1548920/酪農製品/らくのうせいひん",
+    "2687030/酪漿/らくしょう",
+    "2842111/製酪/せいらく",
+    "2687120/酪素/らくそ",
+    "1548880/酪製品/らくせいひん",
+    "2429920/インドール酪酸/インドールらくさん",
+    "5294642/国際酪農連盟/こくさいらくのうれんめい",
+    "2747450/乾酪化/かんらくか",
+    "1210180/乾酪素/かんらくそ",
+    "2429840/γアミノ酪酸/ガンマアミノらくさん",
+    "1651180/牛酪/ぎゅうらく",
+    "2686950/酪酸菌/らくさんきん"
+  ],
+  "candidates": {
+    "1548890/酪農/らくのう": {
+      "id": 1548890,
+      "form": "酪農",
+      "kana": "らくのう",
+      "gloss": "dairy farming",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28643,
+        24298,
+        24744,
+        66115
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ラク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1643900/酪酸/らくさん": {
+      "id": 1643900,
+      "form": "酪酸",
+      "kana": "らくさん",
+      "gloss": "butyric acid",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        61736,
+        246822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酸": 5
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2844079/酪/らく": {
+      "id": 2844079,
+      "form": "酪",
+      "kana": "らく",
+      "gloss": "acidic drink made from fermented milk (cow, sheep, mare; one of the five flavors in Buddhism)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        134699,
+        119235
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1210170/乾酪/かんらく": {
+      "id": 1210170,
+      "form": "乾酪",
+      "kana": "かんらく",
+      "gloss": "cheese",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        185634,
+        132878
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乾": 7
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5695146/酪農学園大学/らくのうがくえんだいがく": {
+      "id": 5695146,
+      "form": "酪農学園大学",
+      "kana": "らくのうがくえんだいがく",
+      "gloss": "Rakuno Gakuen University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        78707,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "園": 2,
+        "学": 1,
+        "大": 1
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1548900/酪農家/らくのうか": {
+      "id": 1548900,
+      "form": "酪農家",
+      "kana": "らくのうか",
+      "gloss": "dairy farmer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        96324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "家": 2
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1465400/乳酪/にゅうらく": {
+      "id": 1465400,
+      "form": "乳酪",
+      "kana": "にゅうらく",
+      "gloss": "dairy products (esp. butter)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147211
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乳": 6
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1548910/酪農場/らくのうじょう": {
+      "id": 1548910,
+      "form": "酪農場",
+      "kana": "らくのうじょう",
+      "gloss": "dairy farm",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        183024
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "場": 2
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2687280/酪農業/らくのうぎょう": {
+      "id": 2687280,
+      "form": "酪農業",
+      "kana": "らくのうぎょう",
+      "gloss": "dairy farming industry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        239196
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "業": 3
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853932/酪農品/らくのうひん": {
+      "id": 2853932,
+      "form": "酪農品",
+      "kana": "らくのうひん",
+      "gloss": "dairy products",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "品": 3
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2429840/ガンマアミノ酪酸/ガンマアミノらくさん": {
+      "id": 2429840,
+      "form": "ガンマアミノ酪酸",
+      "kana": "ガンマアミノらくさん",
+      "gloss": "gamma-aminobutyric acid (GABA)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酸": 5
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1548920/酪農製品/らくのうせいひん": {
+      "id": 1548920,
+      "form": "酪農製品",
+      "kana": "らくのうせいひん",
+      "gloss": "dairy produce",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "製": 5,
+        "品": 3
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2687030/酪漿/らくしょう": {
+      "id": 2687030,
+      "form": "酪漿",
+      "kana": "らくしょう",
+      "gloss": "milk",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842111/製酪/せいらく": {
+      "id": 2842111,
+      "form": "製酪",
+      "kana": "せいらく",
+      "gloss": "dairy production (butter, cheese, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "製": 5
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2687120/酪素/らくそ": {
+      "id": 2687120,
+      "form": "酪素",
+      "kana": "らくそ",
+      "gloss": "casein",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "素": 5
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1548880/酪製品/らくせいひん": {
+      "id": 1548880,
+      "form": "酪製品",
+      "kana": "らくせいひん",
+      "gloss": "dairy product",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "製": 5,
+        "品": 3
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2429920/インドール酪酸/インドールらくさん": {
+      "id": 2429920,
+      "form": "インドール酪酸",
+      "kana": "インドールらくさん",
+      "gloss": "indolebutyric acid",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "酸": 5
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5294642/国際酪農連盟/こくさいらくのうれんめい": {
+      "id": 5294642,
+      "form": "国際酪農連盟",
+      "kana": "こくさいらくのうれんめい",
+      "gloss": "International Dairy Federation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "農": 3,
+        "際": 5,
+        "盟": 6,
+        "連": 4,
+        "国": 2
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2747450/乾酪化/かんらくか": {
+      "id": 2747450,
+      "form": "乾酪化",
+      "kana": "かんらくか",
+      "gloss": "caseation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "化": 3,
+        "乾": 7
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1210180/乾酪素/かんらくそ": {
+      "id": 1210180,
+      "form": "乾酪素",
+      "kana": "かんらくそ",
+      "gloss": "casein",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "素": 5,
+        "乾": 7
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2429840/γアミノ酪酸/ガンマアミノらくさん": {
+      "id": 2429840,
+      "form": "γアミノ酪酸",
+      "kana": "ガンマアミノらくさん",
+      "gloss": "gamma-aminobutyric acid (GABA)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "酸": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1651180/牛酪/ぎゅうらく": {
+      "id": 1651180,
+      "form": "牛酪",
+      "kana": "ぎゅうらく",
+      "gloss": "butter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        141459
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "牛": 2
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2686950/酪酸菌/らくさんきん": {
+      "id": 2686950,
+      "form": "酪酸菌",
+      "kana": "らくさんきん",
+      "gloss": "butyric acid producing bacillus (Clostridium butyricum)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酸": 5,
+        "菌": 7
+      },
+      "matched": {
+        "ラク": {
+          "actual": "らく",
+          "dictionary": [
+            "ラク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1548890:酪農:らくのう",
+      "form": "酪農",
+      "kana": "らくのう",
+      "cue": "dairy farming",
+      "ids": [
+        1548890
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 66115,
+        "shiberu": 28643,
+        "tubelex": 24298,
+        "wordfreq": 24744
+      },
+      "alternatives_by_kanji": {
+        "農": [
+          "1470660/農業/のうぎょう",
+          "1643240/農具/のうぐ",
+          "1470620/農家/のうか"
+        ],
+        "酪": [
+          "1643900/酪酸/らくさん",
+          "2844079/酪/らく",
+          "1210170/乾酪/かんらく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

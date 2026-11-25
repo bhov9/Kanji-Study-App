@@ -1,0 +1,766 @@
+{
+  "character": "畿",
+  "grade": 7,
+  "meanings": [
+    "capital",
+    "suburbs of capital"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 102
+    },
+    {
+      "type": "nelson_c",
+      "value": 52
+    }
+  ],
+  "components": [
+    "田",
+    "幺",
+    "戈",
+    "丶",
+    "ノ"
+  ],
+  "on": [
+    "キ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "みやこ",
+      "stem": "みやこ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "畿",
+    "heading": "畿",
+    "readings": [
+      "キ"
+    ],
+    "examples_by_reading": [
+      [
+        "畿内",
+        "近畿"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "畿",
+      "reading": "キ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1242240/近畿/きんき",
+        "1780340/畿内/きない",
+        "2829366/京畿/けいき",
+        "5228363/近畿大学/きんきだいがく",
+        "2150670/近畿地方/きんきちほう",
+        "2855128/近畿圏/きんきけん",
+        "1268140/五畿内/ごきない",
+        "2786390/五畿七道/ごきしちどう",
+        "2786380/五畿/ごき",
+        "2845331/京畿道/けいきどう"
+      ]
+    },
+    {
+      "reading": "みやこ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1242240/近畿/きんき",
+    "1780340/畿内/きない",
+    "2829366/京畿/けいき",
+    "5228363/近畿大学/きんきだいがく",
+    "2150670/近畿地方/きんきちほう",
+    "2855128/近畿圏/きんきけん",
+    "1268140/五畿内/ごきない",
+    "2786390/五畿七道/ごきしちどう",
+    "2786380/五畿/ごき",
+    "2845331/京畿道/けいきどう",
+    "2580310/四畿内/しきない",
+    "5742854/畿央大学/きおうだいがく",
+    "5228367/近畿日本鉄道/きんきにほんてつどう",
+    "5228366/近畿日本鉄道/きんきにっぽんてつどう",
+    "5228362/近畿職業能力開発大学校/きんきしょくぎょうのうりょくかいはつだいがっこう",
+    "5228368/近畿郵政研修所/きんきゆうせいけんしゅうじょ",
+    "2845331/京畿道/キョンギド"
+  ],
+  "candidates": {
+    "1242240/近畿/きんき": {
+      "id": 1242240,
+      "form": "近畿",
+      "kana": "きんき",
+      "gloss": "Kinki (region around Osaka, Kyoto, Nara)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7961,
+        null,
+        9454,
+        61866
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "近": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1780340/畿内/きない": {
+      "id": 1780340,
+      "form": "畿内",
+      "kana": "きない",
+      "gloss": "Kinai (the five provinces in the immediate vicinity of Kyoto)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10813,
+        null,
+        59434,
+        86009
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2829366/京畿/けいき": {
+      "id": 2829366,
+      "form": "京畿",
+      "kana": "けいき",
+      "gloss": "territories in the vicinity of Kyoto",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35896,
+        28584,
+        59987,
+        156971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "京": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5228363/近畿大学/きんきだいがく": {
+      "id": 5228363,
+      "form": "近畿大学",
+      "kana": "きんきだいがく",
+      "gloss": "Kindai University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42493,
+        316980
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1,
+        "近": 2,
+        "大": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2150670/近畿地方/きんきちほう": {
+      "id": 2150670,
+      "form": "近畿地方",
+      "kana": "きんきちほう",
+      "gloss": "Kinki region (Osaka, Kyoto, Hyogo, Nara, Wakayama, Mie and Shiga prefectures)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        84704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2,
+        "近": 2,
+        "地": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855128/近畿圏/きんきけん": {
+      "id": 2855128,
+      "form": "近畿圏",
+      "kana": "きんきけん",
+      "gloss": "wider Kinki region (Osaka, Kyoto, Nara, Shiga, Wakayama and Fukui prefectures)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        218583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "圏": 7,
+        "近": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1268140/五畿内/ごきない": {
+      "id": 1268140,
+      "form": "五畿内",
+      "kana": "ごきない",
+      "gloss": "the Five Home Provinces (Yamato, Yamashiro, Settsu, Kawachi, and Izumi)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236441
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "五": 1,
+        "内": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2786390/五畿七道/ごきしちどう": {
+      "id": 2786390,
+      "form": "五畿七道",
+      "kana": "ごきしちどう",
+      "gloss": "the five home provinces and seven districts of ancient Japan",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        249208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "七": 1,
+        "五": 1,
+        "道": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2786380/五畿/ごき": {
+      "id": 2786380,
+      "form": "五畿",
+      "kana": "ごき",
+      "gloss": "the Five Home Provinces (Yamato, Yamashiro, Settsu, Kawachi, and Izumi)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        324198
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "五": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845331/京畿道/けいきどう": {
+      "id": 2845331,
+      "form": "京畿道",
+      "kana": "けいきどう",
+      "gloss": "Gyeonggi-do (South Korea)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "道": 2,
+        "京": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2580310/四畿内/しきない": {
+      "id": 2580310,
+      "form": "四畿内",
+      "kana": "しきない",
+      "gloss": "Four Home Provinces (Yamato, Yamashiro, Settsu, and Kawachi; made obsolete in 757)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "四": 1,
+        "内": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5742854/畿央大学/きおうだいがく": {
+      "id": 5742854,
+      "form": "畿央大学",
+      "kana": "きおうだいがく",
+      "gloss": "Kio University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "学": 1,
+        "央": 3,
+        "大": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5228367/近畿日本鉄道/きんきにほんてつどう": {
+      "id": 5228367,
+      "form": "近畿日本鉄道",
+      "kana": "きんきにほんてつどう",
+      "gloss": "Kinki Nihon Tetsudō (railway company)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "日": 1,
+        "鉄": 3,
+        "本": 1,
+        "道": 2,
+        "近": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5228366/近畿日本鉄道/きんきにっぽんてつどう": {
+      "id": 5228366,
+      "form": "近畿日本鉄道",
+      "kana": "きんきにっぽんてつどう",
+      "gloss": "Kinki Nippon Tetsudō (railway company)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "日": 1,
+        "鉄": 3,
+        "本": 1,
+        "道": 2,
+        "近": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5228362/近畿職業能力開発大学校/きんきしょくぎょうのうりょくかいはつだいがっこう": {
+      "id": 5228362,
+      "form": "近畿職業能力開発大学校",
+      "kana": "きんきしょくぎょうのうりょくかいはつだいがっこう",
+      "gloss": "Kinki Polytechnical College",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "力": 1,
+        "能": 5,
+        "職": 5,
+        "大": 1,
+        "学": 1,
+        "発": 3,
+        "近": 2,
+        "開": 3,
+        "校": 1,
+        "業": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5228368/近畿郵政研修所/きんきゆうせいけんしゅうじょ": {
+      "id": 5228368,
+      "form": "近畿郵政研修所",
+      "kana": "きんきゆうせいけんしゅうじょ",
+      "gloss": "Kinki Postal Training Institute",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "所": 3,
+        "修": 5,
+        "研": 3,
+        "郵": 6,
+        "近": 2,
+        "政": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845331/京畿道/キョンギド": {
+      "id": 2845331,
+      "form": "京畿道",
+      "kana": "キョンギド",
+      "gloss": "Gyeonggi-do (South Korea)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        137908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2,
+        "京": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1242240:近畿:きんき",
+      "form": "近畿",
+      "kana": "きんき",
+      "cue": "Kinki (region around Osaka, Kyoto, Nara)",
+      "ids": [
+        1242240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 61866,
+        "shiberu": 7961,
+        "wordfreq": 9454
+      },
+      "alternatives_by_kanji": {
+        "近": [
+          "1242130/近い/ちかい",
+          "1242350/近所/きんじょ",
+          "1242420/近代/きんだい"
+        ],
+        "畿": [
+          "1780340/畿内/きない",
+          "2829366/京畿/けいき",
+          "5228363/近畿大学/きんきだいがく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

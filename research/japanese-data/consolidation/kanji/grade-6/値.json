@@ -1,0 +1,1726 @@
+{
+  "character": "値",
+  "grade": 6,
+  "meanings": [
+    "price",
+    "cost",
+    "value"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "十",
+    "目",
+    "｜",
+    "一"
+  ],
+  "on": [
+    "チ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ね",
+      "stem": "ね",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "あたい",
+      "stem": "あたい",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "じ"
+  ],
+  "government": {
+    "kanji": "値",
+    "heading": "値",
+    "readings": [
+      "チ",
+      "ね",
+      "あたい"
+    ],
+    "examples_by_reading": [
+      [
+        "価値",
+        "数値",
+        "絶対値"
+      ],
+      [
+        "値",
+        "値段"
+      ],
+      [
+        "値",
+        "値する"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "",
+      "⇔価"
+    ],
+    "representative_index": {
+      "kanji": "値",
+      "reading": "チ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 145,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1189600/価値/かち",
+        "1373160/数値/すうち",
+        "2188520/値/ち",
+        "1386890/絶対値/ぜったいち",
+        "1594140/閾値/いきち",
+        "1453080/同値/どうち",
+        "2140020/値域/ちいき",
+        "1594140/閾値/しきいち",
+        "2141160/返り値/かえりち",
+        "2390810/戻り値/もどりち"
+      ]
+    },
+    {
+      "reading": "ね",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 71,
+      "frequent_unflagged_examples": 7,
+      "current_support": false,
+      "candidates": [
+        "1600160/値段/ねだん",
+        "2836242/値/ね",
+        "1283760/高値/たかね",
+        "1154080/安値/やすね",
+        "1600100/値下げ/ねさげ",
+        "1600030/値上げ/ねあげ",
+        "1420370/値動き/ねうごき",
+        "1600190/値引き/ねびき",
+        "1600020/値上がり/ねあがり",
+        "1420340/値打ち/ねうち"
+      ]
+    },
+    {
+      "reading": "あたい",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1609040/値する/あたいする",
+        "1581630/値/あたい",
+        "2851537/万死に値する/ばんしにあたいする",
+        "1620300/値千金/あたいせんきん",
+        "2398280/注目に値する/ちゅうもくにあたいする",
+        "2775030/春宵一刻値千金/しゅんしょういっこくあたいせんきん",
+        "2357780/最初の値/さいしょのあたい",
+        "2857743/値型/あたいがた",
+        "2862480/値をもどす/あたいをもどす",
+        "2374140/値参照名/あたいさんしょうめい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1189600/価値/かち",
+    "1600160/値段/ねだん",
+    "1373160/数値/すうち",
+    "1609040/値する/あたいする",
+    "1581630/値/あたい",
+    "2188520/値/ち",
+    "1386890/絶対値/ぜったいち",
+    "2836242/値/ね",
+    "1283760/高値/たかね",
+    "1154080/安値/やすね",
+    "1600100/値下げ/ねさげ",
+    "1600030/値上げ/ねあげ",
+    "1420370/値動き/ねうごき",
+    "1600190/値引き/ねびき",
+    "1600020/値上がり/ねあがり",
+    "1420340/値打ち/ねうち",
+    "1420320/値切る/ねぎる",
+    "1430770/値下がり/ねさがり",
+    "1756380/言い値/いいね",
+    "1600200/値踏み/ねぶみ",
+    "1600170/値幅/ねはば",
+    "1353880/上値/うわね",
+    "1479650/半値/はんね",
+    "1185910/下値/したね",
+    "1436060/底値/そこね",
+    "1642810/値札/ねふだ",
+    "1594140/閾値/いきち",
+    "1332930/終値/おわりね",
+    "1759740/指し値/さしね",
+    "1453080/同値/どうち"
+  ],
+  "candidates": {
+    "1189600/価値/かち": {
+      "id": 1189600,
+      "form": "価値",
+      "kana": "かち",
+      "gloss": "value",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        849,
+        990,
+        883,
+        1416
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "価": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1600160/値段/ねだん": {
+      "id": 1600160,
+      "form": "値段",
+      "kana": "ねだん",
+      "gloss": "price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3781,
+        862,
+        1712,
+        3488
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "段": 6
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [
+        "ね"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1373160/数値/すうち": {
+      "id": 1373160,
+      "form": "数値",
+      "kana": "すうち",
+      "gloss": "numerical value",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8179,
+        2146,
+        4955,
+        9003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1609040/値する/あたいする": {
+      "id": 1609040,
+      "form": "値する",
+      "kana": "あたいする",
+      "gloss": "to be worth",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "vs-i",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        12107,
+        5682
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [
+        "あたい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1581630/値/あたい": {
+      "id": 1581630,
+      "form": "値",
+      "kana": "あたい",
+      "gloss": "price",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        8322
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [
+        "ね",
+        "あたい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2188520/値/ち": {
+      "id": 2188520,
+      "form": "値",
+      "kana": "ち",
+      "gloss": "level",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        12645
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ね",
+        "あたい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1386890/絶対値/ぜったいち": {
+      "id": 1386890,
+      "form": "絶対値",
+      "kana": "ぜったいち",
+      "gloss": "absolute value",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        94234
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "対": 3,
+        "絶": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2836242/値/ね": {
+      "id": 2836242,
+      "form": "値",
+      "kana": "ね",
+      "gloss": "price",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        172721
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [
+        "ね",
+        "あたい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1283760/高値/たかね": {
+      "id": 1283760,
+      "form": "高値",
+      "kana": "たかね",
+      "gloss": "high price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12828,
+        2331,
+        10217,
+        16975
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1154080/安値/やすね": {
+      "id": 1154080,
+      "form": "安値",
+      "kana": "やすね",
+      "gloss": "low price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18780,
+        2958,
+        9302,
+        51670
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1600100/値下げ/ねさげ": {
+      "id": 1600100,
+      "form": "値下げ",
+      "kana": "ねさげ",
+      "gloss": "price reduction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9642,
+        7933,
+        10032,
+        47219
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1600030/値上げ/ねあげ": {
+      "id": 1600030,
+      "form": "値上げ",
+      "kana": "ねあげ",
+      "gloss": "price increase",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12185,
+        7771,
+        11030,
+        35360
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1420370/値動き/ねうごき": {
+      "id": 1420370,
+      "form": "値動き",
+      "kana": "ねうごき",
+      "gloss": "price movement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        36782,
+        4138,
+        36201,
+        94870
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "動": 3
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600190/値引き/ねびき": {
+      "id": 1600190,
+      "form": "値引き",
+      "kana": "ねびき",
+      "gloss": "price reduction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15982,
+        13794,
+        12695,
+        34838
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "引": 2
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600020/値上がり/ねあがり": {
+      "id": 1600020,
+      "form": "値上がり",
+      "kana": "ねあがり",
+      "gloss": "price increase",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22968,
+        9494,
+        18515,
+        37522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1420340/値打ち/ねうち": {
+      "id": 1420340,
+      "form": "値打ち",
+      "kana": "ねうち",
+      "gloss": "value",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18155,
+        10753,
+        23216,
+        22675
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1420320/値切る/ねぎる": {
+      "id": 1420320,
+      "form": "値切る",
+      "kana": "ねぎる",
+      "gloss": "to drive a bargain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21829,
+        29494,
+        86386,
+        30077
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1430770/値下がり/ねさがり": {
+      "id": 1430770,
+      "form": "値下がり",
+      "kana": "ねさがり",
+      "gloss": "price decline",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38888,
+        25936,
+        31791,
+        79660
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1756380/言い値/いいね": {
+      "id": 1756380,
+      "form": "言い値",
+      "kana": "いいね",
+      "gloss": "asking price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26490,
+        63933,
+        35359,
+        35974
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600200/値踏み/ねぶみ": {
+      "id": 1600200,
+      "form": "値踏み",
+      "kana": "ねぶみ",
+      "gloss": "appraisal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        37162,
+        65459,
+        70783,
+        16197
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "踏": 7
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600170/値幅/ねはば": {
+      "id": 1600170,
+      "form": "値幅",
+      "kana": "ねはば",
+      "gloss": "price range or fluctuation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        7933,
+        78707,
+        230894
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "幅": 7
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1353880/上値/うわね": {
+      "id": 1353880,
+      "form": "上値",
+      "kana": "うわね",
+      "gloss": "higher price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        10096,
+        75713,
+        223986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1479650/半値/はんね": {
+      "id": 1479650,
+      "form": "半値",
+      "kana": "はんね",
+      "gloss": "half price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        12955,
+        48867,
+        73155
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "半": 2
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185910/下値/したね": {
+      "id": 1185910,
+      "form": "下値",
+      "kana": "したね",
+      "gloss": "lowest price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        13070,
+        90446,
+        246822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436060/底値/そこね": {
+      "id": 1436060,
+      "form": "底値",
+      "kana": "そこね",
+      "gloss": "bottom price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17363,
+        45339,
+        83045
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "底": 4
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1642810/値札/ねふだ": {
+      "id": 1642810,
+      "form": "値札",
+      "kana": "ねふだ",
+      "gloss": "price tag",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24494,
+        33270,
+        27710
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "札": 4
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594140/閾値/いきち": {
+      "id": 1594140,
+      "form": "閾値",
+      "kana": "いきち",
+      "gloss": "threshold (amount, dose, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29195,
+        34111,
+        63985
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332930/終値/おわりね": {
+      "id": 1332930,
+      "form": "終値",
+      "kana": "おわりね",
+      "gloss": "closing price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28400,
+        null,
+        34525,
+        129776
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "終": 3
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1759740/指し値/さしね": {
+      "id": 1759740,
+      "form": "指し値",
+      "kana": "さしね",
+      "gloss": "limit price (e.g. on a stock transaction)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        20126,
+        192767,
+        198301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "指": 3
+      },
+      "matched": {
+        "ね": {
+          "actual": "ね",
+          "dictionary": [
+            "ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1453080/同値/どうち": {
+      "id": 1453080,
+      "form": "同値",
+      "kana": "どうち",
+      "gloss": "(logical) equivalence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39641,
+        61736,
+        122846
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2140020/値域/ちいき": {
+      "id": 2140020,
+      "form": "値域",
+      "kana": "ちいき",
+      "gloss": "range (of a function)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        166230,
+        261651
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "域": 6
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594140/閾値/しきいち": {
+      "id": 1594140,
+      "form": "閾値",
+      "kana": "しきいち",
+      "gloss": "threshold (amount, dose, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29195,
+        34111,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2141160/返り値/かえりち": {
+      "id": 2141160,
+      "form": "返り値",
+      "kana": "かえりち",
+      "gloss": "return value",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29352,
+        null,
+        276567
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "返": 3
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2390810/戻り値/もどりち": {
+      "id": 2390810,
+      "form": "戻り値",
+      "kana": "もどりち",
+      "gloss": "return value",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29981,
+        null,
+        201925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戻": 7
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851537/万死に値する/ばんしにあたいする": {
+      "id": 2851537,
+      "form": "万死に値する",
+      "kana": "ばんしにあたいする",
+      "gloss": "to be the worst of the worst",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31242
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "万": 2,
+        "死": 3
+      },
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620300/値千金/あたいせんきん": {
+      "id": 1620300,
+      "form": "値千金",
+      "kana": "あたいせんきん",
+      "gloss": "priceless",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        63456
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "千": 1,
+        "金": 1
+      },
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2398280/注目に値する/ちゅうもくにあたいする": {
+      "id": 2398280,
+      "form": "注目に値する",
+      "kana": "ちゅうもくにあたいする",
+      "gloss": "to be noteworthy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        87970
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1,
+        "注": 3
+      },
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2775030/春宵一刻値千金/しゅんしょういっこくあたいせんきん": {
+      "id": 2775030,
+      "form": "春宵一刻値千金",
+      "kana": "しゅんしょういっこくあたいせんきん",
+      "gloss": "a moment of time in a spring evening is worth a thousand pieces of gold",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刻": 6,
+        "金": 1,
+        "宵": 7,
+        "春": 2,
+        "千": 1,
+        "一": 1
+      },
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2357780/最初の値/さいしょのあたい": {
+      "id": 2357780,
+      "form": "最初の値",
+      "kana": "さいしょのあたい",
+      "gloss": "initial value",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4,
+        "最": 4
+      },
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857743/値型/あたいがた": {
+      "id": 2857743,
+      "form": "値型",
+      "kana": "あたいがた",
+      "gloss": "value type",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "型": 5
+      },
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862480/値をもどす/あたいをもどす": {
+      "id": 2862480,
+      "form": "値をもどす",
+      "kana": "あたいをもどす",
+      "gloss": "to return a value",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2374140/値参照名/あたいさんしょうめい": {
+      "id": 2374140,
+      "form": "値参照名",
+      "kana": "あたいさんしょうめい",
+      "gloss": "value reference name",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "参": 4,
+        "照": 4,
+        "名": 1
+      },
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1189600:価値:かち",
+      "form": "価値",
+      "kana": "かち",
+      "cue": "value; worth",
+      "ids": [
+        1189600
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1416,
+        "shiberu": 849,
+        "tubelex": 990,
+        "wordfreq": 883
+      },
+      "alternatives_by_kanji": {
+        "価": [
+          "1490010/評価/ひょうか",
+          "1189500/価格/かかく",
+          "1581630/価/あたい"
+        ],
+        "値": [
+          "1600160/値段/ねだん",
+          "1373160/数値/すうち",
+          "1609040/値する/あたいする"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1611480:偏差値:へんさち",
+      "form": "偏差値",
+      "kana": "へんさち",
+      "cue": "deviation; T-score",
+      "ids": [
+        1611480
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 22944
+      },
+      "alternatives_by_kanji": {
+        "差": [
+          "1291410/差別/さべつ",
+          "1271320/誤差/ごさ",
+          "1291340/差異/さい"
+        ],
+        "値": [
+          "1189600/価値/かち",
+          "1600160/値段/ねだん",
+          "1373160/数値/すうち"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

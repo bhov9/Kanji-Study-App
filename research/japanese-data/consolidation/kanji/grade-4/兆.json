@@ -1,0 +1,944 @@
+{
+  "character": "兆",
+  "grade": 4,
+  "meanings": [
+    "portent",
+    "10**12",
+    "trillion",
+    "sign",
+    "omen",
+    "symptoms"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 10
+    },
+    {
+      "type": "nelson_c",
+      "value": 15
+    }
+  ],
+  "components": [
+    "儿",
+    "冫"
+  ],
+  "on": [
+    "チョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "きざ.す",
+      "stem": "きざ",
+      "okurigana": "す"
+    },
+    {
+      "sourceNotation": "きざ.し",
+      "stem": "きざ",
+      "okurigana": "し"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "兆",
+    "heading": "兆",
+    "readings": [
+      "チョウ",
+      "きざす",
+      "きざし"
+    ],
+    "examples_by_reading": [
+      [
+        "兆候",
+        "前兆",
+        "億兆"
+      ],
+      [
+        "兆す"
+      ],
+      [
+        "兆し"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "兆",
+      "reading": "チョウ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チョウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 14,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1597620/兆候/ちょうこう",
+        "1596330/前兆/ぜんちょう",
+        "1182660/億兆/おくちょう",
+        "1427430/兆/ちょう",
+        "2087630/予兆/よちょう",
+        "1226310/吉兆/きっちょう",
+        "1235470/凶兆/きょうちょう",
+        "1855340/瑞兆/ずいちょう",
+        "1427450/兆民/ちょうみん",
+        "2128440/１兆/いっちょう"
+      ]
+    },
+    {
+      "reading": "きざす",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1427440/兆す/きざす"
+      ]
+    },
+    {
+      "reading": "きざし",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1591160/兆し/きざし",
+        "1870170/凶事の兆し/きょうじのきざし"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1597620/兆候/ちょうこう",
+    "1596330/前兆/ぜんちょう",
+    "1591160/兆し/きざし",
+    "1427440/兆す/きざす",
+    "1182660/億兆/おくちょう",
+    "1427430/兆/ちょう",
+    "2087630/予兆/よちょう",
+    "1226310/吉兆/きっちょう",
+    "1235470/凶兆/きょうちょう",
+    "1855340/瑞兆/ずいちょう",
+    "1427450/兆民/ちょうみん",
+    "2128440/１兆/いっちょう",
+    "2128440/一兆/いっちょう",
+    "2872600/何兆/なんちょう",
+    "2864245/死兆星/しちょうせい",
+    "2048910/前兆現象/ぜんちょうげんしょう",
+    "1870170/凶事の兆し/きょうじのきざし",
+    "1372560/衰兆/すいちょう",
+    "1686180/慶兆/けいちょう",
+    "2604620/地震前兆現象/じしんぜんちょうげんしょう",
+    "2832519/卦兆/かちょう",
+    "2244570/太兆/ふとまに"
+  ],
+  "candidates": {
+    "1597620/兆候/ちょうこう": {
+      "id": 1597620,
+      "form": "兆候",
+      "kana": "ちょうこう",
+      "gloss": "sign",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12402,
+        10235,
+        16272,
+        11235
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "候": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1596330/前兆/ぜんちょう": {
+      "id": 1596330,
+      "form": "前兆",
+      "kana": "ぜんちょう",
+      "gloss": "omen",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11962,
+        9013,
+        21741,
+        17423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1591160/兆し/きざし": {
+      "id": 1591160,
+      "form": "兆し",
+      "kana": "きざし",
+      "gloss": "sign",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11080,
+        14964,
+        17751,
+        12710
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "きざし": {
+          "actual": "きざ",
+          "dictionary": [
+            "きざ.し"
+          ]
+        }
+      },
+      "official_examples": [
+        "きざし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1427440/兆す/きざす": {
+      "id": 1427440,
+      "form": "兆す",
+      "kana": "きざす",
+      "gloss": "to show signs",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        null,
+        65539
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "きざす": {
+          "actual": "きざ",
+          "dictionary": [
+            "きざ.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "きざす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1182660/億兆/おくちょう": {
+      "id": 1182660,
+      "form": "億兆",
+      "kana": "おくちょう",
+      "gloss": "the people",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        119172
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "億": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1427430/兆/ちょう": {
+      "id": 1427430,
+      "form": "兆",
+      "kana": "ちょう",
+      "gloss": "10^12",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        38164,
+        2920,
+        4669,
+        31234
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2087630/予兆/よちょう": {
+      "id": 2087630,
+      "form": "予兆",
+      "kana": "よちょう",
+      "gloss": "omen",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26682,
+        21810,
+        27016,
+        14617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1226310/吉兆/きっちょう": {
+      "id": 1226310,
+      "form": "吉兆",
+      "kana": "きっちょう",
+      "gloss": "lucky omen",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        25422,
+        32483,
+        46387,
+        49232
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "吉": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1235470/凶兆/きょうちょう": {
+      "id": 1235470,
+      "form": "凶兆",
+      "kana": "きょうちょう",
+      "gloss": "evil omen",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33742,
+        85382,
+        103620,
+        49328
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "凶": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1855340/瑞兆/ずいちょう": {
+      "id": 1855340,
+      "form": "瑞兆",
+      "kana": "ずいちょう",
+      "gloss": "auspicious sign",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34783,
+        95069,
+        175497,
+        110027
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1427450/兆民/ちょうみん": {
+      "id": 1427450,
+      "form": "兆民",
+      "kana": "ちょうみん",
+      "gloss": "the whole nation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        132292,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2128440/１兆/いっちょう": {
+      "id": 2128440,
+      "form": "１兆",
+      "kana": "いっちょう",
+      "gloss": "1,000,000,000,000",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65936
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2128440/一兆/いっちょう": {
+      "id": 2128440,
+      "form": "一兆",
+      "kana": "いっちょう",
+      "gloss": "1,000,000,000,000",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        68322
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872600/何兆/なんちょう": {
+      "id": 2872600,
+      "form": "何兆",
+      "kana": "なんちょう",
+      "gloss": "(many) trillions",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        74802
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "何": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864245/死兆星/しちょうせい": {
+      "id": 2864245,
+      "form": "死兆星",
+      "kana": "しちょうせい",
+      "gloss": "Star of Death (nickname for Alcor)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        124961
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3,
+        "星": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2048910/前兆現象/ぜんちょうげんしょう": {
+      "id": 2048910,
+      "form": "前兆現象",
+      "kana": "ぜんちょうげんしょう",
+      "gloss": "precursor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        204289
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2,
+        "象": 5,
+        "現": 5
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1870170/凶事の兆し/きょうじのきざし": {
+      "id": 1870170,
+      "form": "凶事の兆し",
+      "kana": "きょうじのきざし",
+      "gloss": "omen of disaster",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        223986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "凶": 7
+      },
+      "matched": {
+        "きざし": {
+          "actual": "きざ",
+          "dictionary": [
+            "きざ.し"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1372560/衰兆/すいちょう": {
+      "id": 1372560,
+      "form": "衰兆",
+      "kana": "すいちょう",
+      "gloss": "signs of decline",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        294617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "衰": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1686180/慶兆/けいちょう": {
+      "id": 1686180,
+      "form": "慶兆",
+      "kana": "けいちょう",
+      "gloss": "sign of happiness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "慶": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2604620/地震前兆現象/じしんぜんちょうげんしょう": {
+      "id": 2604620,
+      "form": "地震前兆現象",
+      "kana": "じしんぜんちょうげんしょう",
+      "gloss": "earthquake precursor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "震": 7,
+        "前": 2,
+        "象": 5,
+        "現": 5,
+        "地": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832519/卦兆/かちょう": {
+      "id": 2832519,
+      "form": "卦兆",
+      "kana": "かちょう",
+      "gloss": "divination signs",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2244570/太兆/ふとまに": {
+      "id": 2244570,
+      "form": "太兆",
+      "kana": "ふとまに",
+      "gloss": "scapulimancy (divination using the cracks in the heated shoulder blade of a deer)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "太": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1591160:兆し:きざし",
+      "form": "兆し",
+      "kana": "きざし",
+      "cue": "sign; indication",
+      "ids": [
+        1591160
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 12710,
+        "shiberu": 11080,
+        "tubelex": 14964,
+        "wordfreq": 17751
+      },
+      "alternatives_by_kanji": {
+        "兆": [
+          "1597620/兆候/ちょうこう",
+          "1596330/前兆/ぜんちょう",
+          "1427440/兆す/きざす"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

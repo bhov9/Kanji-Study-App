@@ -1,0 +1,1209 @@
+{
+  "character": "卓",
+  "grade": 7,
+  "meanings": [
+    "eminent",
+    "table",
+    "desk",
+    "high"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 24
+    },
+    {
+      "type": "nelson_c",
+      "value": 25
+    }
+  ],
+  "components": [
+    "十",
+    "日",
+    "卜"
+  ],
+  "on": [
+    "タク"
+  ],
+  "kun": [],
+  "nanori": [
+    "すぐる",
+    "たか",
+    "たかし"
+  ],
+  "government": {
+    "kanji": "卓",
+    "heading": "卓",
+    "readings": [
+      "タク"
+    ],
+    "examples_by_reading": [
+      [
+        "卓越",
+        "卓球",
+        "食卓"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "卓",
+      "reading": "タク",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "タク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 43,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1358530/食卓/しょくたく",
+        "1415610/卓球/たっきゅう",
+        "1415590/卓越/たくえつ",
+        "1443600/電卓/でんたく",
+        "1415580/卓/たく",
+        "1415660/卓上/たくじょう",
+        "1175980/円卓/えんたく",
+        "1415690/卓抜/たくばつ",
+        "1761620/教卓/きょうたく",
+        "1581530/卓子/たくし"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1358530/食卓/しょくたく",
+    "1415610/卓球/たっきゅう",
+    "1415590/卓越/たくえつ",
+    "1443600/電卓/でんたく",
+    "1415580/卓/たく",
+    "1415660/卓上/たくじょう",
+    "1175980/円卓/えんたく",
+    "1415690/卓抜/たくばつ",
+    "1761620/教卓/きょうたく",
+    "1581530/卓子/たくし",
+    "1842720/座卓/ざたく",
+    "1773870/卓絶/たくぜつ",
+    "1415680/卓説/たくせつ",
+    "2870559/卓越した/たくえつした",
+    "2839400/食卓を囲む/しょくたくをかこむ",
+    "1891140/卓を囲む/たくをかこむ",
+    "1175990/円卓会議/えんたくかいぎ",
+    "2832276/電卓を叩く/でんたくをたたく",
+    "2370900/操作卓/そうさたく",
+    "2368160/制御卓/せいぎょたく",
+    "1839560/食卓塩/しょくたくえん",
+    "1415670/卓上電話/たくじょうでんわ",
+    "2859619/卓上遊戯/たくじょうゆうぎ",
+    "2815010/関数電卓/かんすうでんたく",
+    "1415600/卓越風/たくえつふう",
+    "2049920/卓上演説/たくじょうえんぜつ",
+    "2033460/聖卓/せいたく",
+    "1415640/卓識/たくしき",
+    "1919440/満卓/まんたく",
+    "1415720/卓論/たくろん"
+  ],
+  "candidates": {
+    "1358530/食卓/しょくたく": {
+      "id": 1358530,
+      "form": "食卓",
+      "kana": "しょくたく",
+      "gloss": "dining table",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3464,
+        11539,
+        13918,
+        7873
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [
+        "タク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1415610/卓球/たっきゅう": {
+      "id": 1415610,
+      "form": "卓球",
+      "kana": "たっきゅう",
+      "gloss": "table tennis",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12584,
+        7913,
+        7013,
+        29853
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "球": 3
+      },
+      "matched": {
+        "タク": {
+          "actual": "たっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "タク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1415590/卓越/たくえつ": {
+      "id": 1415590,
+      "form": "卓越",
+      "kana": "たくえつ",
+      "gloss": "preeminence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15426,
+        24391,
+        20349,
+        53472
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [
+        "タク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1443600/電卓/でんたく": {
+      "id": 1443600,
+      "form": "電卓",
+      "kana": "でんたく",
+      "gloss": "calculator (electronic)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6917,
+        18039,
+        19040,
+        42557
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415580/卓/たく": {
+      "id": 1415580,
+      "form": "卓",
+      "kana": "たく",
+      "gloss": "table",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34925,
+        15973,
+        9023,
+        21268
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415660/卓上/たくじょう": {
+      "id": 1415660,
+      "form": "卓上",
+      "kana": "たくじょう",
+      "gloss": "desktop",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        13885,
+        17249,
+        25040,
+        25702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1175980/円卓/えんたく": {
+      "id": 1175980,
+      "form": "円卓",
+      "kana": "えんたく",
+      "gloss": "round table",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29393,
+        31561,
+        27016,
+        29005
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "円": 1
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415690/卓抜/たくばつ": {
+      "id": 1415690,
+      "form": "卓抜",
+      "kana": "たくばつ",
+      "gloss": "excellence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        39449,
+        101749,
+        77923,
+        81277
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抜": 7
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1761620/教卓/きょうたく": {
+      "id": 1761620,
+      "form": "教卓",
+      "kana": "きょうたく",
+      "gloss": "teacher's desk",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        110395,
+        28209
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1581530/卓子/たくし": {
+      "id": 1581530,
+      "form": "卓子",
+      "kana": "たくし",
+      "gloss": "table",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        178773,
+        94400
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1842720/座卓/ざたく": {
+      "id": 1842720,
+      "form": "座卓",
+      "kana": "ざたく",
+      "gloss": "low table",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        null,
+        47593
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "座": 6
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1773870/卓絶/たくぜつ": {
+      "id": 1773870,
+      "form": "卓絶",
+      "kana": "たくぜつ",
+      "gloss": "excellence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        114425
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絶": 5
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415680/卓説/たくせつ": {
+      "id": 1415680,
+      "form": "卓説",
+      "kana": "たくせつ",
+      "gloss": "excellent opinion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        209179,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870559/卓越した/たくえつした": {
+      "id": 2870559,
+      "form": "卓越した",
+      "kana": "たくえつした",
+      "gloss": "outstanding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-f"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24487
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839400/食卓を囲む/しょくたくをかこむ": {
+      "id": 2839400,
+      "form": "食卓を囲む",
+      "kana": "しょくたくをかこむ",
+      "gloss": "to sit down at the dining table (with someone)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28092
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "囲": 5,
+        "食": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1891140/卓を囲む/たくをかこむ": {
+      "id": 1891140,
+      "form": "卓を囲む",
+      "kana": "たくをかこむ",
+      "gloss": "to have a meal together",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        62566
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "囲": 5
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1175990/円卓会議/えんたくかいぎ": {
+      "id": 1175990,
+      "form": "円卓会議",
+      "kana": "えんたくかいぎ",
+      "gloss": "round-table conference",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        90054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "円": 1,
+        "議": 4
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832276/電卓を叩く/でんたくをたたく": {
+      "id": 2832276,
+      "form": "電卓を叩く",
+      "kana": "でんたくをたたく",
+      "gloss": "to use a calculator",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        95468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2370900/操作卓/そうさたく": {
+      "id": 2370900,
+      "form": "操作卓",
+      "kana": "そうさたく",
+      "gloss": "(operator) console",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        118497
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2,
+        "操": 6
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2368160/制御卓/せいぎょたく": {
+      "id": 2368160,
+      "form": "制御卓",
+      "kana": "せいぎょたく",
+      "gloss": "(operator) console",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        123496
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "制": 5,
+        "御": 7
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1839560/食卓塩/しょくたくえん": {
+      "id": 1839560,
+      "form": "食卓塩",
+      "kana": "しょくたくえん",
+      "gloss": "table salt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        165583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塩": 4,
+        "食": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415670/卓上電話/たくじょうでんわ": {
+      "id": 1415670,
+      "form": "卓上電話",
+      "kana": "たくじょうでんわ",
+      "gloss": "desk phone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        168121
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1,
+        "話": 2,
+        "電": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859619/卓上遊戯/たくじょうゆうぎ": {
+      "id": 2859619,
+      "form": "卓上遊戯",
+      "kana": "たくじょうゆうぎ",
+      "gloss": "tabletop game",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        182065
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1,
+        "遊": 3,
+        "戯": 7
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2815010/関数電卓/かんすうでんたく": {
+      "id": 2815010,
+      "form": "関数電卓",
+      "kana": "かんすうでんたく",
+      "gloss": "scientific calculator",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        183024
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "関": 4,
+        "電": 2,
+        "数": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415600/卓越風/たくえつふう": {
+      "id": 1415600,
+      "form": "卓越風",
+      "kana": "たくえつふう",
+      "gloss": "prevailing wind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        261831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7,
+        "風": 2
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2049920/卓上演説/たくじょうえんぜつ": {
+      "id": 2049920,
+      "form": "卓上演説",
+      "kana": "たくじょうえんぜつ",
+      "gloss": "after-dinner speech",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        263564
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4,
+        "演": 5,
+        "上": 1
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2033460/聖卓/せいたく": {
+      "id": 2033460,
+      "form": "聖卓",
+      "kana": "せいたく",
+      "gloss": "altar (esp. Christian)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        264187
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聖": 6
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415640/卓識/たくしき": {
+      "id": 1415640,
+      "form": "卓識",
+      "kana": "たくしき",
+      "gloss": "clearsightedness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        264755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "識": 5
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1919440/満卓/まんたく": {
+      "id": 1919440,
+      "form": "満卓",
+      "kana": "まんたく",
+      "gloss": "full house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "満": 4
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415720/卓論/たくろん": {
+      "id": 1415720,
+      "form": "卓論",
+      "kana": "たくろん",
+      "gloss": "sound argument",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        294617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "タク": {
+          "actual": "たく",
+          "dictionary": [
+            "タク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1415610:卓球:たっきゅう",
+      "form": "卓球",
+      "kana": "たっきゅう",
+      "cue": "table tennis; ping-pong",
+      "ids": [
+        1415610
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 29853,
+        "shiberu": 12584,
+        "tubelex": 7913,
+        "wordfreq": 7013
+      },
+      "alternatives_by_kanji": {
+        "球": [
+          "1420970/地球/ちきゅう",
+          "1229910/球技/きゅうぎ",
+          "1229930/球形/きゅうけい"
+        ],
+        "卓": [
+          "1358530/食卓/しょくたく",
+          "1415590/卓越/たくえつ",
+          "1443600/電卓/でんたく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 14
+}

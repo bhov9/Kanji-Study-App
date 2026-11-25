@@ -1,0 +1,965 @@
+{
+  "character": "刹",
+  "grade": 7,
+  "meanings": [
+    "temple"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 18
+    }
+  ],
+  "components": [
+    "刈",
+    "木",
+    "ノ",
+    "丶"
+  ],
+  "on": [
+    "セチ",
+    "セツ",
+    "サツ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "刹",
+    "heading": "刹",
+    "readings": [
+      "サツ",
+      "セツ"
+    ],
+    "examples_by_reading": [
+      [
+        "古刹",
+        "名刹"
+      ],
+      [
+        "刹那"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "刹",
+      "reading": "サツ",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "サツ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1266230/古刹/こさつ",
+        "1752330/名刹/めいさつ",
+        "1585580/刹/さつ",
+        "2830416/禅刹/ぜんさつ",
+        "2094190/十刹/じっさつ",
+        "1232340/巨刹/きょさつ",
+        "1585760/梵刹/ぼんさつ",
+        "1583790/仏刹/ぶっさつ",
+        "2846348/寺刹/じさつ"
+      ]
+    },
+    {
+      "reading": "セツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1564500/刹那/せつな",
+        "2015340/羅刹/らせつ",
+        "1585580/刹/せつ",
+        "2094190/十刹/じっせつ",
+        "1564510/刹那的/せつなてき",
+        "2041050/悪鬼羅刹/あっきらせつ",
+        "2830416/禅刹/ぜんせつ",
+        "1167490/一刹那/いっせつな",
+        "1755090/刹那主義/せつなしゅぎ",
+        "1383770/刹那い/せつない"
+      ]
+    },
+    {
+      "reading": "セチ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1266230/古刹/こさつ",
+    "1564500/刹那/せつな",
+    "1752330/名刹/めいさつ",
+    "2015340/羅刹/らせつ",
+    "1585580/刹/さつ",
+    "1585580/刹/せつ",
+    "2830416/禅刹/ぜんさつ",
+    "2094190/十刹/じっせつ",
+    "1564510/刹那的/せつなてき",
+    "2041050/悪鬼羅刹/あっきらせつ",
+    "2094190/十刹/じっさつ",
+    "2830416/禅刹/ぜんせつ",
+    "1167490/一刹那/いっせつな",
+    "1755090/刹那主義/せつなしゅぎ",
+    "1383770/刹那い/せつない",
+    "1232340/巨刹/きょさつ",
+    "1585760/梵刹/ぼんさつ",
+    "1585760/梵刹/ぼんせつ",
+    "2863392/刹帝利/せっていり",
+    "1583790/仏刹/ぶっさつ",
+    "2846348/寺刹/じさつ",
+    "1583790/仏刹/ぶっせつ",
+    "2868505/刹鬼/せっき"
+  ],
+  "candidates": {
+    "1266230/古刹/こさつ": {
+      "id": 1266230,
+      "form": "古刹",
+      "kana": "こさつ",
+      "gloss": "ancient temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25420,
+        70964,
+        77923,
+        117149
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1564500/刹那/せつな": {
+      "id": 1564500,
+      "form": "刹那",
+      "kana": "せつな",
+      "gloss": "moment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        19992,
+        null,
+        19596,
+        8709
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "那": 7
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1752330/名刹/めいさつ": {
+      "id": 1752330,
+      "form": "名刹",
+      "kana": "めいさつ",
+      "gloss": "famous temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        88001,
+        131658
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2015340/羅刹/らせつ": {
+      "id": 2015340,
+      "form": "羅刹",
+      "kana": "らせつ",
+      "gloss": "rakshasa",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        32846,
+        47810,
+        51176
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "羅": 7
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1585580/刹/さつ": {
+      "id": 1585580,
+      "form": "刹",
+      "kana": "さつ",
+      "gloss": "temple (Buddhist)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        76428,
+        77564
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1585580/刹/せつ": {
+      "id": 1585580,
+      "form": "刹",
+      "kana": "せつ",
+      "gloss": "temple (Buddhist)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        76428,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830416/禅刹/ぜんさつ": {
+      "id": 2830416,
+      "form": "禅刹",
+      "kana": "ぜんさつ",
+      "gloss": "Zen temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        270220
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "禅": 7
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2094190/十刹/じっせつ": {
+      "id": 2094190,
+      "form": "十刹",
+      "kana": "じっせつ",
+      "gloss": "ten important Rinzai temples, second in significance to the Kyoto Gozan",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        270613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "十": 1
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1564510/刹那的/せつなてき": {
+      "id": 1564510,
+      "form": "刹那的",
+      "kana": "せつなてき",
+      "gloss": "ephemeral",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        34939
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "那": 7
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2041050/悪鬼羅刹/あっきらせつ": {
+      "id": 2041050,
+      "form": "悪鬼羅刹",
+      "kana": "あっきらせつ",
+      "gloss": "man-eating fiend",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        56417
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "羅": 7,
+        "鬼": 7,
+        "悪": 3
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2094190/十刹/じっさつ": {
+      "id": 2094190,
+      "form": "十刹",
+      "kana": "じっさつ",
+      "gloss": "ten important Rinzai temples, second in significance to the Kyoto Gozan",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "十": 1
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830416/禅刹/ぜんせつ": {
+      "id": 2830416,
+      "form": "禅刹",
+      "kana": "ぜんせつ",
+      "gloss": "Zen temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "禅": 7
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1167490/一刹那/いっせつな": {
+      "id": 1167490,
+      "form": "一刹那",
+      "kana": "いっせつな",
+      "gloss": "(a) moment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75919
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "那": 7,
+        "一": 1
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1755090/刹那主義/せつなしゅぎ": {
+      "id": 1755090,
+      "form": "刹那主義",
+      "kana": "せつなしゅぎ",
+      "gloss": "principle of living only for the moment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        115499
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "義": 5,
+        "主": 3,
+        "那": 7
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1383770/刹那い/せつない": {
+      "id": 1383770,
+      "form": "刹那い",
+      "kana": "せつない",
+      "gloss": "painful",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        173554
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "那": 7
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1232340/巨刹/きょさつ": {
+      "id": 1232340,
+      "form": "巨刹",
+      "kana": "きょさつ",
+      "gloss": "large temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        249208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巨": 7
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1585760/梵刹/ぼんさつ": {
+      "id": 1585760,
+      "form": "梵刹",
+      "kana": "ぼんさつ",
+      "gloss": "temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        270613
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1585760/梵刹/ぼんせつ": {
+      "id": 1585760,
+      "form": "梵刹",
+      "kana": "ぼんせつ",
+      "gloss": "temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2863392/刹帝利/せっていり": {
+      "id": 2863392,
+      "form": "刹帝利",
+      "kana": "せっていり",
+      "gloss": "Kshatriya (member of India's military caste)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帝": 7,
+        "利": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1583790/仏刹/ぶっさつ": {
+      "id": 1583790,
+      "form": "仏刹",
+      "kana": "ぶっさつ",
+      "gloss": "Buddhist temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        387881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仏": 5
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2846348/寺刹/じさつ": {
+      "id": 2846348,
+      "form": "寺刹",
+      "kana": "じさつ",
+      "gloss": "Buddhist temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寺": 2
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1583790/仏刹/ぶっせつ": {
+      "id": 1583790,
+      "form": "仏刹",
+      "kana": "ぶっせつ",
+      "gloss": "Buddhist temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "仏": 5
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2868505/刹鬼/せっき": {
+      "id": 2868505,
+      "form": "刹鬼",
+      "kana": "せっき",
+      "gloss": "demon",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        236392
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鬼": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1564500:刹那:せつな",
+      "form": "刹那",
+      "kana": "せつな",
+      "cue": "moment; instant",
+      "ids": [
+        1564500
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 8709,
+        "shiberu": 19992,
+        "wordfreq": 19596
+      },
+      "alternatives_by_kanji": {
+        "刹": [
+          "1266230/古刹/こさつ",
+          "1752330/名刹/めいさつ",
+          "2015340/羅刹/らせつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

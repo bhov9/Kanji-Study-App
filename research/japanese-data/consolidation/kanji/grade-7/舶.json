@@ -1,0 +1,839 @@
+{
+  "character": "舶",
+  "grade": 7,
+  "meanings": [
+    "liner",
+    "ship"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 137
+    }
+  ],
+  "components": [
+    "舟",
+    "白"
+  ],
+  "on": [
+    "ハク"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "舶",
+    "heading": "舶",
+    "readings": [
+      "ハク"
+    ],
+    "examples_by_reading": [
+      [
+        "舶来",
+        "船舶"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "舶",
+      "reading": "ハク",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ハク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1392080/船舶/せんぱく",
+        "1475450/舶来/はくらい",
+        "2849648/舶用/はくよう",
+        "1625980/舶載/はくさい",
+        "1475460/舶来品/はくらいひん",
+        "1901580/舶用機関/はくようきかん",
+        "1232260/巨舶/きょはく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1392080/船舶/せんぱく",
+    "1475450/舶来/はくらい",
+    "2849648/舶用/はくよう",
+    "1625980/舶載/はくさい",
+    "1475460/舶来品/はくらいひん",
+    "1901580/舶用機関/はくようきかん",
+    "1232260/巨舶/きょはく",
+    "1736270/船舶業/せんぱくぎょう",
+    "2618490/船舶保険/せんぱくほけん",
+    "2676580/船舶職員/せんぱくしょくいん",
+    "2831959/船舶工学/せんぱくこうがく",
+    "2233630/船舶安全法/せんぱくあんぜんほう",
+    "2866640/船舶修理/せんぱくしゅうり",
+    "2853476/船舶技師/せんぱくぎし",
+    "2038190/船舶登録証/せんぱくとうろくしょう",
+    "5468563/船舶整備公団/せんぱくせいびこうだん",
+    "5468562/船舶技術研究所/せんぱくぎじゅつけんきゅうじょ",
+    "5582801/日本船舶輸出組合/にほんせんぱくゆしゅつくみあい",
+    "5582800/日本船舶輸出組合/にっぽんせんぱくゆしゅつくみあい",
+    "5567085/特定船舶整備公団/とくていせんぱくせいびこうだん",
+    "5582710/日本小型船舶検査機構/にっぽんこがたせんぱくけんさきこう",
+    "2246850/舶/つむ"
+  ],
+  "candidates": {
+    "1392080/船舶/せんぱく": {
+      "id": 1392080,
+      "form": "船舶",
+      "kana": "せんぱく",
+      "gloss": "vessel",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11847,
+        13418,
+        16272,
+        32058
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "船": 2
+      },
+      "matched": {
+        "ハク": {
+          "actual": "ぱく",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ハク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1475450/舶来/はくらい": {
+      "id": 1475450,
+      "form": "舶来",
+      "kana": "はくらい",
+      "gloss": "imported",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        20923,
+        50117,
+        60579,
+        59257
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "ハク": {
+          "actual": "はく",
+          "dictionary": [
+            "ハク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2849648/舶用/はくよう": {
+      "id": 2849648,
+      "form": "舶用",
+      "kana": "はくよう",
+      "gloss": "marine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-f"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        101758,
+        298919
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "ハク": {
+          "actual": "はく",
+          "dictionary": [
+            "ハク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625980/舶載/はくさい": {
+      "id": 1625980,
+      "form": "舶載",
+      "kana": "はくさい",
+      "gloss": "ocean transportation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        142244,
+        195610
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "載": 7
+      },
+      "matched": {
+        "ハク": {
+          "actual": "はく",
+          "dictionary": [
+            "ハク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1475460/舶来品/はくらいひん": {
+      "id": 1475460,
+      "form": "舶来品",
+      "kana": "はくらいひん",
+      "gloss": "imported article",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        82715
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2,
+        "品": 3
+      },
+      "matched": {
+        "ハク": {
+          "actual": "はく",
+          "dictionary": [
+            "ハク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1901580/舶用機関/はくようきかん": {
+      "id": 1901580,
+      "form": "舶用機関",
+      "kana": "はくようきかん",
+      "gloss": "marine engine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "機": 4,
+        "用": 2,
+        "関": 4
+      },
+      "matched": {
+        "ハク": {
+          "actual": "はく",
+          "dictionary": [
+            "ハク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1232260/巨舶/きょはく": {
+      "id": 1232260,
+      "form": "巨舶",
+      "kana": "きょはく",
+      "gloss": "ocean liner",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "巨": 7
+      },
+      "matched": {
+        "ハク": {
+          "actual": "はく",
+          "dictionary": [
+            "ハク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1736270/船舶業/せんぱくぎょう": {
+      "id": 1736270,
+      "form": "船舶業",
+      "kana": "せんぱくぎょう",
+      "gloss": "shipping industry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3,
+        "船": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2618490/船舶保険/せんぱくほけん": {
+      "id": 2618490,
+      "form": "船舶保険",
+      "kana": "せんぱくほけん",
+      "gloss": "hull insurance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5,
+        "険": 5,
+        "船": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2676580/船舶職員/せんぱくしょくいん": {
+      "id": 2676580,
+      "form": "船舶職員",
+      "kana": "せんぱくしょくいん",
+      "gloss": "ship's personnel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        325217
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "職": 5,
+        "員": 3,
+        "船": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2831959/船舶工学/せんぱくこうがく": {
+      "id": 2831959,
+      "form": "船舶工学",
+      "kana": "せんぱくこうがく",
+      "gloss": "marine engineering",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2,
+        "学": 1,
+        "船": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2233630/船舶安全法/せんぱくあんぜんほう": {
+      "id": 2233630,
+      "form": "船舶安全法",
+      "kana": "せんぱくあんぜんほう",
+      "gloss": "Ship Safety Act",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3,
+        "法": 4,
+        "安": 3,
+        "船": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2866640/船舶修理/せんぱくしゅうり": {
+      "id": 2866640,
+      "form": "船舶修理",
+      "kana": "せんぱくしゅうり",
+      "gloss": "ship-repairing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5,
+        "船": 2,
+        "理": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2853476/船舶技師/せんぱくぎし": {
+      "id": 2853476,
+      "form": "船舶技師",
+      "kana": "せんぱくぎし",
+      "gloss": "marine engineer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "技": 5,
+        "師": 5,
+        "船": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2038190/船舶登録証/せんぱくとうろくしょう": {
+      "id": 2038190,
+      "form": "船舶登録証",
+      "kana": "せんぱくとうろくしょう",
+      "gloss": "ship's certificate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "証": 5,
+        "録": 4,
+        "船": 2,
+        "登": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5468563/船舶整備公団/せんぱくせいびこうだん": {
+      "id": 5468563,
+      "form": "船舶整備公団",
+      "kana": "せんぱくせいびこうだん",
+      "gloss": "Maritime Credit Corporation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "船": 2,
+        "備": 5,
+        "団": 5,
+        "公": 2,
+        "整": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5468562/船舶技術研究所/せんぱくぎじゅつけんきゅうじょ": {
+      "id": 5468562,
+      "form": "船舶技術研究所",
+      "kana": "せんぱくぎじゅつけんきゅうじょ",
+      "gloss": "Ship Research Institute",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "技": 5,
+        "所": 3,
+        "船": 2,
+        "究": 3,
+        "研": 3,
+        "術": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5582801/日本船舶輸出組合/にほんせんぱくゆしゅつくみあい": {
+      "id": 5582801,
+      "form": "日本船舶輸出組合",
+      "kana": "にほんせんぱくゆしゅつくみあい",
+      "gloss": "Japan Ship Exporters' Association",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "出": 1,
+        "日": 1,
+        "船": 2,
+        "組": 2,
+        "本": 1,
+        "輸": 5,
+        "合": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5582800/日本船舶輸出組合/にっぽんせんぱくゆしゅつくみあい": {
+      "id": 5582800,
+      "form": "日本船舶輸出組合",
+      "kana": "にっぽんせんぱくゆしゅつくみあい",
+      "gloss": "Japan Ship Exporter's Association",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "出": 1,
+        "日": 1,
+        "船": 2,
+        "組": 2,
+        "本": 1,
+        "輸": 5,
+        "合": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5567085/特定船舶整備公団/とくていせんぱくせいびこうだん": {
+      "id": 5567085,
+      "form": "特定船舶整備公団",
+      "kana": "とくていせんぱくせいびこうだん",
+      "gloss": "Passenger Ship Corporation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "船": 2,
+        "備": 5,
+        "団": 5,
+        "公": 2,
+        "定": 3,
+        "特": 4,
+        "整": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5582710/日本小型船舶検査機構/にっぽんこがたせんぱくけんさきこう": {
+      "id": 5582710,
+      "form": "日本小型船舶検査機構",
+      "kana": "にっぽんこがたせんぱくけんさきこう",
+      "gloss": "Japan Craft Inspection Organization",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "日": 1,
+        "船": 2,
+        "型": 5,
+        "機": 4,
+        "検": 5,
+        "本": 1,
+        "小": 1,
+        "査": 5,
+        "構": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2246850/舶/つむ": {
+      "id": 2246850,
+      "form": "舶",
+      "kana": "つむ",
+      "gloss": "large ship",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        78424,
+        163107,
+        105325
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1392080:船舶:せんぱく",
+      "form": "船舶",
+      "kana": "せんぱく",
+      "cue": "vessel; ship",
+      "ids": [
+        1392080
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 32058,
+        "shiberu": 11847,
+        "tubelex": 13418,
+        "wordfreq": 16272
+      },
+      "alternatives_by_kanji": {
+        "船": [
+          "1355360/乗船/じょうせん",
+          "1222730/汽船/きせん",
+          "1786650/大船/おおぶね"
+        ],
+        "舶": [
+          "1475450/舶来/はくらい",
+          "2849648/舶用/はくよう",
+          "1625980/舶載/はくさい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 15
+}

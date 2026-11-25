@@ -1,0 +1,1331 @@
+{
+  "character": "贈",
+  "grade": 7,
+  "meanings": [
+    "presents",
+    "send",
+    "give to",
+    "award to",
+    "confer on",
+    "presenting something"
+  ],
+  "strokes": [
+    18
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 154
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "田",
+    "日",
+    "并"
+  ],
+  "on": [
+    "ゾウ",
+    "ソウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おく.る",
+      "stem": "おく",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "贈",
+    "heading": "贈（贈）",
+    "readings": [
+      "ゾウ",
+      "ソウ",
+      "おくる"
+    ],
+    "examples_by_reading": [
+      [
+        "贈与",
+        "贈呈",
+        "贈答"
+      ],
+      [
+        "寄贈"
+      ],
+      [
+        "贈る",
+        "贈り物"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "「寄贈」は，「キゾウ」とも。",
+      "⇔送る"
+    ],
+    "representative_index": {
+      "kanji": "贈",
+      "reading": "ゾウ",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ゾウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 22,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1403570/贈呈/ぞうてい",
+        "1577730/寄贈/きぞう",
+        "1403580/贈答/ぞうとう",
+        "1403590/贈与/ぞうよ",
+        "1403610/贈賄/ぞうわい",
+        "1403560/贈収賄/ぞうしゅうわい",
+        "1159410/遺贈/いぞう",
+        "1697830/受贈/じゅぞう",
+        "1619950/追贈/ついぞう",
+        "1620210/贈位/ぞうい"
+      ]
+    },
+    {
+      "reading": "ソウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1577730/寄贈/きそう",
+        "1219800/寄贈者/きそうしゃ"
+      ]
+    },
+    {
+      "reading": "おくる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1403550/贈る/おくる",
+        "1589030/贈り物/おくりもの",
+        "1902250/花を贈る/はなをおくる",
+        "2870633/賛辞を贈る/さんじをおくる",
+        "2724940/敵に塩を贈る/てきにしおをおくる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1403550/贈る/おくる",
+    "1589030/贈り物/おくりもの",
+    "1403570/贈呈/ぞうてい",
+    "1577730/寄贈/きぞう",
+    "1403580/贈答/ぞうとう",
+    "1577730/寄贈/きそう",
+    "1403590/贈与/ぞうよ",
+    "1403610/贈賄/ぞうわい",
+    "1403560/贈収賄/ぞうしゅうわい",
+    "1159410/遺贈/いぞう",
+    "1697830/受贈/じゅぞう",
+    "1619950/追贈/ついぞう",
+    "1620210/贈位/ぞうい",
+    "1902250/花を贈る/はなをおくる",
+    "1771970/贈答品/ぞうとうひん",
+    "2870633/賛辞を贈る/さんじをおくる",
+    "1771940/贈呈式/ぞうていしき",
+    "2847816/生前贈与/せいぜんぞうよ",
+    "1771900/贈与税/ぞうよぜい",
+    "1778360/寄贈品/きぞうひん",
+    "1771960/贈呈品/ぞうていひん",
+    "1219800/寄贈者/きぞうしゃ",
+    "1771980/贈賄罪/ぞうわいざい",
+    "2724940/敵に塩を贈る/てきにしおをおくる",
+    "1771890/贈与者/ぞうよしゃ",
+    "1771950/贈呈者/ぞうていしゃ",
+    "1636780/恵贈/けいぞう",
+    "1771930/贈呈本/ぞうていぼん",
+    "1771910/贈号/ぞうごう",
+    "1155460/位記追贈/いきついぞう"
+  ],
+  "candidates": {
+    "1403550/贈る/おくる": {
+      "id": 1403550,
+      "form": "贈る",
+      "kana": "おくる",
+      "gloss": "to give (as a gift)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2176,
+        7239,
+        10217,
+        4172
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おくる": {
+          "actual": "おく",
+          "dictionary": [
+            "おく.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "おくる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1589030/贈り物/おくりもの": {
+      "id": 1589030,
+      "form": "贈り物",
+      "kana": "おくりもの",
+      "gloss": "present",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8516,
+        9127,
+        6355,
+        6294
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "おくる": {
+          "actual": "おく",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "おくる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1403570/贈呈/ぞうてい": {
+      "id": 1403570,
+      "form": "贈呈",
+      "kana": "ぞうてい",
+      "gloss": "presentation (of a gift, prize, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14472,
+        18183,
+        20349,
+        34988
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呈": 7
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゾウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1577730/寄贈/きぞう": {
+      "id": 1577730,
+      "form": "寄贈",
+      "kana": "きぞう",
+      "gloss": "donation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20373,
+        17642,
+        21459,
+        37314
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寄": 5
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1403580/贈答/ぞうとう": {
+      "id": 1403580,
+      "form": "贈答",
+      "kana": "ぞうとう",
+      "gloss": "exchange of presents",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        33493,
+        38312,
+        34525,
+        74977
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "答": 2
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゾウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1577730/寄贈/きそう": {
+      "id": 1577730,
+      "form": "寄贈",
+      "kana": "きそう",
+      "gloss": "donation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20373,
+        17642,
+        21459,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "寄": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1403590/贈与/ぞうよ": {
+      "id": 1403590,
+      "form": "贈与",
+      "kana": "ぞうよ",
+      "gloss": "donation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        14106,
+        26398,
+        64612
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "与": 7
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゾウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1403610/贈賄/ぞうわい": {
+      "id": 1403610,
+      "form": "贈賄",
+      "kana": "ぞうわい",
+      "gloss": "giving a bribe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22045,
+        65459,
+        43420,
+        73370
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賄": 7
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1403560/贈収賄/ぞうしゅうわい": {
+      "id": 1403560,
+      "form": "贈収賄",
+      "kana": "ぞうしゅうわい",
+      "gloss": "bribery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31831,
+        59850,
+        46387,
+        70589
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6,
+        "賄": 7
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1159410/遺贈/いぞう": {
+      "id": 1159410,
+      "form": "遺贈",
+      "kana": "いぞう",
+      "gloss": "bequest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        40691,
+        52075,
+        124194
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1697830/受贈/じゅぞう": {
+      "id": 1697830,
+      "form": "受贈",
+      "kana": "じゅぞう",
+      "gloss": "receiving (a donation)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        102646,
+        268647
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "受": 3
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1619950/追贈/ついぞう": {
+      "id": 1619950,
+      "form": "追贈",
+      "kana": "ついぞう",
+      "gloss": "conferring court rank posthumously",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        132292,
+        191412
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620210/贈位/ぞうい": {
+      "id": 1620210,
+      "form": "贈位",
+      "kana": "ぞうい",
+      "gloss": "conferral of a posthumous rank",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        242932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "位": 4
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1902250/花を贈る/はなをおくる": {
+      "id": 1902250,
+      "form": "花を贈る",
+      "kana": "はなをおくる",
+      "gloss": "to give flowers as a gift",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49285
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "おくる": {
+          "actual": "おく",
+          "dictionary": [
+            "おく.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771970/贈答品/ぞうとうひん": {
+      "id": 1771970,
+      "form": "贈答品",
+      "kana": "ぞうとうひん",
+      "gloss": "gift",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        73206
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "答": 2,
+        "品": 3
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870633/賛辞を贈る/さんじをおくる": {
+      "id": 2870633,
+      "form": "賛辞を贈る",
+      "kana": "さんじをおくる",
+      "gloss": "to offer a tribute",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        77333
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辞": 4,
+        "賛": 5
+      },
+      "matched": {
+        "おくる": {
+          "actual": "おく",
+          "dictionary": [
+            "おく.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771940/贈呈式/ぞうていしき": {
+      "id": 1771940,
+      "form": "贈呈式",
+      "kana": "ぞうていしき",
+      "gloss": "presentation ceremony",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        130907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呈": 7,
+        "式": 3
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847816/生前贈与/せいぜんぞうよ": {
+      "id": 2847816,
+      "form": "生前贈与",
+      "kana": "せいぜんぞうよ",
+      "gloss": "gift inter vivos",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        131447
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2,
+        "生": 1,
+        "与": 7
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771900/贈与税/ぞうよぜい": {
+      "id": 1771900,
+      "form": "贈与税",
+      "kana": "ぞうよぜい",
+      "gloss": "gift tax",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        134360
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "与": 7,
+        "税": 5
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1778360/寄贈品/きぞうひん": {
+      "id": 1778360,
+      "form": "寄贈品",
+      "kana": "きぞうひん",
+      "gloss": "gift",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        138632
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "品": 3,
+        "寄": 5
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771960/贈呈品/ぞうていひん": {
+      "id": 1771960,
+      "form": "贈呈品",
+      "kana": "ぞうていひん",
+      "gloss": "present",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        142390
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呈": 7,
+        "品": 3
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1219800/寄贈者/きぞうしゃ": {
+      "id": 1219800,
+      "form": "寄贈者",
+      "kana": "きぞうしゃ",
+      "gloss": "donor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        148354
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3,
+        "寄": 5
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771980/贈賄罪/ぞうわいざい": {
+      "id": 1771980,
+      "form": "贈賄罪",
+      "kana": "ぞうわいざい",
+      "gloss": "crime of bribery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        183080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罪": 5,
+        "賄": 7
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2724940/敵に塩を贈る/てきにしおをおくる": {
+      "id": 2724940,
+      "form": "敵に塩を贈る",
+      "kana": "てきにしおをおくる",
+      "gloss": "to save an enemy from trouble instead of taking advantage of their weakness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        192960
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塩": 4,
+        "敵": 6
+      },
+      "matched": {
+        "おくる": {
+          "actual": "おく",
+          "dictionary": [
+            "おく.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771890/贈与者/ぞうよしゃ": {
+      "id": 1771890,
+      "form": "贈与者",
+      "kana": "ぞうよしゃ",
+      "gloss": "donor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        227795
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "与": 7,
+        "者": 3
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771950/贈呈者/ぞうていしゃ": {
+      "id": 1771950,
+      "form": "贈呈者",
+      "kana": "ぞうていしゃ",
+      "gloss": "donor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        251070
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呈": 7,
+        "者": 3
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1636780/恵贈/けいぞう": {
+      "id": 1636780,
+      "form": "恵贈",
+      "kana": "けいぞう",
+      "gloss": "presenting (a gift, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        300457
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恵": 7
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771930/贈呈本/ぞうていぼん": {
+      "id": 1771930,
+      "form": "贈呈本",
+      "kana": "ぞうていぼん",
+      "gloss": "complimentary copy (of a book)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "呈": 7,
+        "本": 1
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771910/贈号/ぞうごう": {
+      "id": 1771910,
+      "form": "贈号",
+      "kana": "ぞうごう",
+      "gloss": "posthumous name",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "号": 3
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1155460/位記追贈/いきついぞう": {
+      "id": 1155460,
+      "form": "位記追贈",
+      "kana": "いきついぞう",
+      "gloss": "conferment of posthumous rank",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "追": 3,
+        "記": 2,
+        "位": 4
+      },
+      "matched": {
+        "ゾウ": {
+          "actual": "ぞう",
+          "dictionary": [
+            "ゾウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1219800/寄贈者/きそうしゃ": {
+      "id": 1219800,
+      "form": "寄贈者",
+      "kana": "きそうしゃ",
+      "gloss": "donor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "者": 3,
+        "寄": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1403550:贈る:おくる",
+      "form": "贈る",
+      "kana": "おくる",
+      "cue": "to give (as a gift); to present",
+      "ids": [
+        1403550
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4172,
+        "shiberu": 2176,
+        "tubelex": 7239,
+        "wordfreq": 10217
+      },
+      "alternatives_by_kanji": {
+        "贈": [
+          "1589030/贈り物/おくりもの",
+          "1403570/贈呈/ぞうてい",
+          "1577730/寄贈/きぞう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1403570:贈呈:ぞうてい",
+      "form": "贈呈",
+      "kana": "ぞうてい",
+      "cue": "presentation (of a gift, prize, etc.)",
+      "ids": [
+        1403570
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 34988,
+        "shiberu": 14472,
+        "tubelex": 18183,
+        "wordfreq": 20349
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

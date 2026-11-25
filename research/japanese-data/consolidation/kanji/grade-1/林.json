@@ -1,0 +1,1240 @@
+{
+  "character": "林",
+  "grade": 1,
+  "meanings": [
+    "grove",
+    "forest"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "木"
+  ],
+  "on": [
+    "リン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はやし",
+      "stem": "はやし",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "し"
+  ],
+  "government": {
+    "kanji": "林",
+    "heading": "林",
+    "readings": [
+      "リン",
+      "はやし"
+    ],
+    "examples_by_reading": [
+      [
+        "林業",
+        "林立",
+        "山林"
+      ],
+      [
+        "林",
+        "松林"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "林",
+      "reading": "リン",
+      "source": "table_40_ri.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "リン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 149,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1303230/山林/さんりん",
+        "1555470/林業/りんぎょう",
+        "1555520/林立/りんりつ",
+        "1362530/森林/しんりん",
+        "1555500/林道/りんどう",
+        "1422400/竹林/ちくりん",
+        "1950260/雨林/うりん",
+        "1470790/農林/のうりん",
+        "1641750/密林/みつりん",
+        "1555460/林間/りんかん"
+      ]
+    },
+    {
+      "reading": "はやし",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1555440/林/はやし",
+        "1349970/松林/まつばやし",
+        "5708190/林原美術館/はやしばらびじゅつかん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1555440/林/はやし",
+    "1303230/山林/さんりん",
+    "1555470/林業/りんぎょう",
+    "1555520/林立/りんりつ",
+    "1349970/松林/まつばやし",
+    "1362530/森林/しんりん",
+    "1555500/林道/りんどう",
+    "1422400/竹林/ちくりん",
+    "1950260/雨林/うりん",
+    "1470790/農林/のうりん",
+    "1641750/密林/みつりん",
+    "1555460/林間/りんかん",
+    "1357390/植林/しょくりん",
+    "1473530/梅林/ばいりん",
+    "1692500/樹林/じゅりん",
+    "1838510/林野/りんや",
+    "2849560/林地/りんち",
+    "1701760/書林/しょりん",
+    "1660740/疎林/そりん",
+    "2529260/林家/りんか",
+    "1635140/辞林/じりん",
+    "2229240/林務/りんむ",
+    "1155010/杏林/きょうりん",
+    "1403750/造林/ぞうりん",
+    "1399090/叢林/そうりん",
+    "1214610/翰林/かんりん",
+    "1555450/林学/りんがく",
+    "1838530/林産/りんさん",
+    "1838500/林政/りんせい",
+    "1820140/緑林/りょくりん"
+  ],
+  "candidates": {
+    "1555440/林/はやし": {
+      "id": 1555440,
+      "form": "林",
+      "kana": "はやし",
+      "gloss": "wood",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2157,
+        4491,
+        4117,
+        7664
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はやし": {
+          "actual": "はやし",
+          "dictionary": [
+            "はやし"
+          ]
+        }
+      },
+      "official_examples": [
+        "はやし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1303230/山林/さんりん": {
+      "id": 1303230,
+      "form": "山林",
+      "kana": "さんりん",
+      "gloss": "mountain forest",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9719,
+        23107,
+        24744,
+        37846
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [
+        "リン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1555470/林業/りんぎょう": {
+      "id": 1555470,
+      "form": "林業",
+      "kana": "りんぎょう",
+      "gloss": "forestry",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32070,
+        17547,
+        24433,
+        58842
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [
+        "リン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1555520/林立/りんりつ": {
+      "id": 1555520,
+      "form": "林立",
+      "kana": "りんりつ",
+      "gloss": "standing close together",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22657,
+        61110,
+        45339,
+        40585
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [
+        "リン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1349970/松林/まつばやし": {
+      "id": 1349970,
+      "form": "松林",
+      "kana": "まつばやし",
+      "gloss": "pine forest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        30685,
+        43420,
+        62526
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "松": 4
+      },
+      "matched": {
+        "はやし": {
+          "actual": "ばやし",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はやし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1362530/森林/しんりん": {
+      "id": 1362530,
+      "form": "森林",
+      "kana": "しんりん",
+      "gloss": "forest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5076,
+        7693,
+        9745,
+        19991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "森": 1
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1555500/林道/りんどう": {
+      "id": 1555500,
+      "form": "林道",
+      "kana": "りんどう",
+      "gloss": "path through forest",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20986,
+        12248,
+        19848,
+        41350
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1422400/竹林/ちくりん": {
+      "id": 1422400,
+      "form": "竹林",
+      "kana": "ちくりん",
+      "gloss": "bamboo thicket",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14653,
+        18950,
+        28048,
+        38969
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "竹": 1
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1950260/雨林/うりん": {
+      "id": 1950260,
+      "form": "雨林",
+      "kana": "うりん",
+      "gloss": "rainforest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10655,
+        38931,
+        29477,
+        159259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雨": 1
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1470790/農林/のうりん": {
+      "id": 1470790,
+      "form": "農林",
+      "kana": "のうりん",
+      "gloss": "agriculture and forestry",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31897,
+        14881,
+        19315,
+        89623
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1641750/密林/みつりん": {
+      "id": 1641750,
+      "form": "密林",
+      "kana": "みつりん",
+      "gloss": "close thicket",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21674,
+        31561,
+        30598,
+        31610
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "密": 6
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1555460/林間/りんかん": {
+      "id": 1555460,
+      "form": "林間",
+      "kana": "りんかん",
+      "gloss": "in the forest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21256,
+        26476,
+        34525,
+        84661
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1357390/植林/しょくりん": {
+      "id": 1357390,
+      "form": "植林",
+      "kana": "しょくりん",
+      "gloss": "afforestation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        30511,
+        20349,
+        33710,
+        68377
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "植": 3
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473530/梅林/ばいりん": {
+      "id": 1473530,
+      "form": "梅林",
+      "kana": "ばいりん",
+      "gloss": "ume grove",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22480,
+        35465,
+        28048,
+        114325
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "梅": 4
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692500/樹林/じゅりん": {
+      "id": 1692500,
+      "form": "樹林",
+      "kana": "じゅりん",
+      "gloss": "forest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39560,
+        36550,
+        42050,
+        65734
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "樹": 6
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1838510/林野/りんや": {
+      "id": 1838510,
+      "form": "林野",
+      "kana": "りんや",
+      "gloss": "forests and fields",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19352,
+        73159,
+        72128,
+        165416
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "野": 2
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849560/林地/りんち": {
+      "id": 2849560,
+      "form": "林地",
+      "kana": "りんち",
+      "gloss": "forest land",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39084,
+        70964,
+        102646,
+        187921
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1701760/書林/しょりん": {
+      "id": 1701760,
+      "form": "書林",
+      "kana": "しょりん",
+      "gloss": "vast stock of books",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33796,
+        95069,
+        115366,
+        148322
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1660740/疎林/そりん": {
+      "id": 1660740,
+      "form": "疎林",
+      "kana": "そりん",
+      "gloss": "sparse woods",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39111,
+        68915,
+        161690,
+        146118
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "疎": 7
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529260/林家/りんか": {
+      "id": 2529260,
+      "form": "林家",
+      "kana": "りんか",
+      "gloss": "family working in the forest industry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        33270,
+        94355
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1635140/辞林/じりん": {
+      "id": 1635140,
+      "form": "辞林",
+      "kana": "じりん",
+      "gloss": "dictionary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31057,
+        101749,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辞": 4
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2229240/林務/りんむ": {
+      "id": 2229240,
+      "form": "林務",
+      "kana": "りんむ",
+      "gloss": "forestry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37385,
+        89646,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "務": 5
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1155010/杏林/きょうりん": {
+      "id": 1155010,
+      "form": "杏林",
+      "kana": "きょうりん",
+      "gloss": "apricot grove",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        97220,
+        275061
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1403750/造林/ぞうりん": {
+      "id": 1403750,
+      "form": "造林",
+      "kana": "ぞうりん",
+      "gloss": "forestation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        114322,
+        203520
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "造": 5
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1399090/叢林/そうりん": {
+      "id": 1399090,
+      "form": "叢林",
+      "kana": "そうりん",
+      "gloss": "dense wood",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        135895,
+        168646
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1214610/翰林/かんりん": {
+      "id": 1214610,
+      "form": "翰林",
+      "kana": "かんりん",
+      "gloss": "literary circles",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        164653,
+        217672
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1555450/林学/りんがく": {
+      "id": 1555450,
+      "form": "林学",
+      "kana": "りんがく",
+      "gloss": "forestry",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        144865,
+        238677
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1838530/林産/りんさん": {
+      "id": 1838530,
+      "form": "林産",
+      "kana": "りんさん",
+      "gloss": "forest products",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        124069,
+        240593
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "産": 4
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1838500/林政/りんせい": {
+      "id": 1838500,
+      "form": "林政",
+      "kana": "りんせい",
+      "gloss": "forest management",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        142244,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "政": 5
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1820140/緑林/りょくりん": {
+      "id": 1820140,
+      "form": "緑林",
+      "kana": "りょくりん",
+      "gloss": "greenwood",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        190979,
+        163781
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "緑": 3
+      },
+      "matched": {
+        "リン": {
+          "actual": "りん",
+          "dictionary": [
+            "リン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5708190/林原美術館/はやしばらびじゅつかん": {
+      "id": 5708190,
+      "form": "林原美術館",
+      "kana": "はやしばらびじゅつかん",
+      "gloss": "Hayashibara Museum of Art",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "美": 3,
+        "館": 3,
+        "術": 5,
+        "原": 2
+      },
+      "matched": {
+        "はやし": {
+          "actual": "はやし",
+          "dictionary": [
+            "はやし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1555440:林:はやし",
+      "form": "林",
+      "kana": "はやし",
+      "cue": "wood; woods",
+      "ids": [
+        1555440
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7664,
+        "shiberu": 2157,
+        "tubelex": 4491,
+        "wordfreq": 4117
+      },
+      "alternatives_by_kanji": {
+        "林": [
+          "1303230/山林/さんりん",
+          "1555470/林業/りんぎょう",
+          "1555520/林立/りんりつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 12
+}

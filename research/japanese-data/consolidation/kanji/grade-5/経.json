@@ -1,0 +1,1885 @@
+{
+  "character": "経",
+  "grade": 5,
+  "meanings": [
+    "sutra",
+    "longitude",
+    "pass thru",
+    "expire",
+    "warp"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "糸",
+    "幺",
+    "小",
+    "土",
+    "又"
+  ],
+  "on": [
+    "ケイ",
+    "キョウ",
+    "キン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "へ.る",
+      "stem": "へ",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "た.つ",
+      "stem": "た",
+      "okurigana": "つ"
+    },
+    {
+      "sourceNotation": "たていと",
+      "stem": "たていと",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "はか.る",
+      "stem": "はか",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "のり",
+      "stem": "のり",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "つね",
+    "のぶ"
+  ],
+  "government": {
+    "kanji": "経",
+    "heading": "経（經）",
+    "readings": [
+      "ケイ",
+      "キョウ",
+      "へる"
+    ],
+    "examples_by_reading": [
+      [
+        "経費",
+        "経済",
+        "経験"
+      ],
+      [
+        "経文",
+        "お経",
+        "写経"
+      ],
+      [
+        "経る"
+      ]
+    ],
+    "note_lines": [
+      "読経（どきょう）"
+    ],
+    "representative_index": {
+      "kanji": "経",
+      "reading": "ケイ",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "読経"
+      ],
+      "reading": "どきょう",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ケイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 548,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1251270/経験/けいけん",
+        "1251320/経済/けいざい",
+        "1251640/経費/けいひ",
+        "1251130/経営/けいえい",
+        "1364520/神経/しんけい",
+        "1251250/経過/けいか",
+        "1251670/経由/けいゆ",
+        "1464000/日経/にっけい",
+        "1251690/経歴/けいれき",
+        "1251700/経路/けいろ"
+      ]
+    },
+    {
+      "reading": "キョウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 61,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1646390/写経/しゃきょう",
+        "1251660/経文/きょうもん",
+        "2518450/お経/おきょう",
+        "1251620/経典/きょうてん",
+        "1268150/五経/ごきょう",
+        "1870200/経蔵/きょうぞう",
+        "1816730/詩経/しきょう",
+        "1251620/経典/きょうでん",
+        "1456390/読経/どっきょう",
+        "1157040/易経/えききょう"
+      ]
+    },
+    {
+      "reading": "へる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1251110/経る/へる",
+        "1895770/手続きを経る/てつづきをへる",
+        "2827955/甲羅を経る/こうらをへる",
+        "2827956/劫臈を経る/こうろうをへる"
+      ]
+    },
+    {
+      "reading": "キン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2182520/経行/きんひん",
+        "1636330/看経/かんきん"
+      ]
+    },
+    {
+      "reading": "たつ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1251100/経つ/たつ",
+        "2847488/時間が経つ/じかんがたつ",
+        "2815270/月日が経つ/つきひがたつ",
+        "2847489/時間が経つにつれて/じかんがたつにつれて",
+        "2847489/時間が経つに連れて/じかんがたつにつれて"
+      ]
+    },
+    {
+      "reading": "たていと",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1661350/経/たていと"
+      ]
+    },
+    {
+      "reading": "はかる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "のり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1251270/経験/けいけん",
+    "1251320/経済/けいざい",
+    "1251110/経る/へる",
+    "1251640/経費/けいひ",
+    "1646390/写経/しゃきょう",
+    "1251660/経文/きょうもん",
+    "2518450/お経/おきょう",
+    "1251130/経営/けいえい",
+    "1251100/経つ/たつ",
+    "1364520/神経/しんけい",
+    "1251250/経過/けいか",
+    "1251670/経由/けいゆ",
+    "1464000/日経/にっけい",
+    "1251690/経歴/けいれき",
+    "1251700/経路/けいろ",
+    "1251680/経理/けいり",
+    "1251620/経典/きょうてん",
+    "2847790/経団連/けいだんれん",
+    "1255600/月経/げっけい",
+    "1251630/経度/けいど",
+    "1447780/東経/とうけい",
+    "1268150/五経/ごきょう",
+    "1251590/経世/けいせい",
+    "1831560/経綸/けいりん",
+    "1870200/経蔵/きょうぞう",
+    "1816730/詩経/しきょう",
+    "1617810/経略/けいりゃく",
+    "1831270/経国/けいこく",
+    "1251670/経由/けいゆう",
+    "1251620/経典/けいてん"
+  ],
+  "candidates": {
+    "1251270/経験/けいけん": {
+      "id": 1251270,
+      "form": "経験",
+      "kana": "けいけん",
+      "gloss": "experience",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        517,
+        625,
+        790,
+        984
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "験": 4
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1251320/経済/けいざい": {
+      "id": 1251320,
+      "form": "経済",
+      "kana": "けいざい",
+      "gloss": "economy",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        543,
+        760,
+        731,
+        9240
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "済": 6
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1251110/経る/へる": {
+      "id": 1251110,
+      "form": "経る",
+      "kana": "へる",
+      "gloss": "to pass",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1767,
+        3480,
+        31791,
+        3777
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "へる": {
+          "actual": "へ",
+          "dictionary": [
+            "へ.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "へる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1251640/経費/けいひ": {
+      "id": 1251640,
+      "form": "経費",
+      "kana": "けいひ",
+      "gloss": "expenses",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6390,
+        5225,
+        8301,
+        13958
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "費": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1646390/写経/しゃきょう": {
+      "id": 1646390,
+      "form": "写経",
+      "kana": "しゃきょう",
+      "gloss": "hand-copied sutras",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        31732,
+        27692,
+        42493,
+        69281
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "写": 3
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1251660/経文/きょうもん": {
+      "id": 1251660,
+      "form": "経文",
+      "kana": "きょうもん",
+      "gloss": "scriptural text",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19611,
+        42628,
+        69479,
+        67897
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2518450/お経/おきょう": {
+      "id": 2518450,
+      "form": "お経",
+      "kana": "おきょう",
+      "gloss": "sutra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        32461
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1251130/経営/けいえい": {
+      "id": 1251130,
+      "form": "経営",
+      "kana": "けいえい",
+      "gloss": "management",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1172,
+        1680,
+        1089,
+        4116
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "営": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1251100/経つ/たつ": {
+      "id": 1251100,
+      "form": "経つ",
+      "kana": "たつ",
+      "gloss": "to pass (of time)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1625,
+        768,
+        6549,
+        1805
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1364520/神経/しんけい": {
+      "id": 1364520,
+      "form": "神経",
+      "kana": "しんけい",
+      "gloss": "nerve",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1639,
+        2175,
+        2336,
+        3507
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "神": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251250/経過/けいか": {
+      "id": 1251250,
+      "form": "経過",
+      "kana": "けいか",
+      "gloss": "passage (of time)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3792,
+        2847,
+        3663,
+        3588
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "過": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251670/経由/けいゆ": {
+      "id": 1251670,
+      "form": "経由",
+      "kana": "けいゆ",
+      "gloss": "going through",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3425,
+        5251,
+        3884,
+        8086
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "由": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1464000/日経/にっけい": {
+      "id": 1464000,
+      "form": "日経",
+      "kana": "にっけい",
+      "gloss": "Nikkei (newspaper, share index)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16840,
+        3793,
+        4852,
+        78822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1251690/経歴/けいれき": {
+      "id": 1251690,
+      "form": "経歴",
+      "kana": "けいれき",
+      "gloss": "personal history",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5025,
+        9555,
+        6076,
+        9052
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歴": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1251700/経路/けいろ": {
+      "id": 1251700,
+      "form": "経路",
+      "kana": "けいろ",
+      "gloss": "course",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11811,
+        5978,
+        7635,
+        9860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251680/経理/けいり": {
+      "id": 1251680,
+      "form": "経理",
+      "kana": "けいり",
+      "gloss": "accounting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20899,
+        13574,
+        12107,
+        22299
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "理": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251620/経典/きょうてん": {
+      "id": 1251620,
+      "form": "経典",
+      "kana": "きょうてん",
+      "gloss": "sacred books",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20279,
+        17204,
+        23842,
+        49712
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "典": 4
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847790/経団連/けいだんれん": {
+      "id": 2847790,
+      "form": "経団連",
+      "kana": "けいだんれん",
+      "gloss": "Japan Business Federation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29617,
+        23673,
+        23544,
+        100724
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "団": 5,
+        "連": 4
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1255600/月経/げっけい": {
+      "id": 1255600,
+      "form": "月経",
+      "kana": "げっけい",
+      "gloss": "menstruation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36857,
+        18813,
+        28048,
+        74652
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251630/経度/けいど": {
+      "id": 1251630,
+      "form": "経度",
+      "kana": "けいど",
+      "gloss": "longitude",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25352,
+        24210,
+        30598,
+        65345
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "度": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1447780/東経/とうけい": {
+      "id": 1447780,
+      "form": "東経",
+      "kana": "とうけい",
+      "gloss": "east longitude",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28352,
+        36550,
+        21741,
+        73512
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "東": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1268150/五経/ごきょう": {
+      "id": 1268150,
+      "form": "五経",
+      "kana": "ごきょう",
+      "gloss": "The Five Classics (of Confucianism)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18057,
+        73159,
+        131059,
+        187754
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "五": 1
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251590/経世/けいせい": {
+      "id": 1251590,
+      "form": "経世",
+      "kana": "けいせい",
+      "gloss": "administration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18454,
+        75655,
+        203403,
+        167712
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "世": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1831560/経綸/けいりん": {
+      "id": 1831560,
+      "form": "経綸",
+      "kana": "けいりん",
+      "gloss": "governing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        23466,
+        95069,
+        137073,
+        183755
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1870200/経蔵/きょうぞう": {
+      "id": 1870200,
+      "form": "経蔵",
+      "kana": "きょうぞう",
+      "gloss": "scripture house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26166,
+        89646,
+        138339,
+        176679
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蔵": 6
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816730/詩経/しきょう": {
+      "id": 1816730,
+      "form": "詩経",
+      "kana": "しきょう",
+      "gloss": "The Classic of Poetry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32411,
+        75655,
+        121853,
+        153141
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "詩": 3
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1617810/経略/けいりゃく": {
+      "id": 1617810,
+      "form": "経略",
+      "kana": "けいりゃく",
+      "gloss": "administration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        37510,
+        173792,
+        175497,
+        158965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "略": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1831270/経国/けいこく": {
+      "id": 1831270,
+      "form": "経国",
+      "kana": "けいこく",
+      "gloss": "government",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39647,
+        173792,
+        192767,
+        195881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251670/経由/けいゆう": {
+      "id": 1251670,
+      "form": "経由",
+      "kana": "けいゆう",
+      "gloss": "going through",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3425,
+        5251,
+        3884,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "由": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1251620/経典/けいてん": {
+      "id": 1251620,
+      "form": "経典",
+      "kana": "けいてん",
+      "gloss": "sacred books",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20279,
+        17204,
+        23842,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "典": 4
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251620/経典/きょうでん": {
+      "id": 1251620,
+      "form": "経典",
+      "kana": "きょうでん",
+      "gloss": "sacred books",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20279,
+        17204,
+        23842,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "典": 4
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456390/読経/どっきょう": {
+      "id": 1456390,
+      "form": "読経",
+      "kana": "どっきょう",
+      "gloss": "sutra chanting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        37880,
+        36550,
+        43420,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "読": 2
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1157040/易経/えききょう": {
+      "id": 1157040,
+      "form": "易経",
+      "kana": "えききょう",
+      "gloss": "I Ching (ancient Chinese divination and philosophical text; one of the Five Classics of Confucianism)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31942,
+        61110,
+        null,
+        133451
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "易": 5
+      },
+      "matched": {
+        "キョウ": {
+          "actual": "きょう",
+          "dictionary": [
+            "キョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1895770/手続きを経る/てつづきをへる": {
+      "id": 1895770,
+      "form": "手続きを経る",
+      "kana": "てつづきをへる",
+      "gloss": "to go through formalities",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        76596
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1,
+        "続": 4
+      },
+      "matched": {
+        "へる": {
+          "actual": "へ",
+          "dictionary": [
+            "へ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827955/甲羅を経る/こうらをへる": {
+      "id": 2827955,
+      "form": "甲羅を経る",
+      "kana": "こうらをへる",
+      "gloss": "to accumulate years of experience",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        230133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "羅": 7,
+        "甲": 7
+      },
+      "matched": {
+        "へる": {
+          "actual": "へ",
+          "dictionary": [
+            "へ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827956/劫臈を経る/こうろうをへる": {
+      "id": 2827956,
+      "form": "劫臈を経る",
+      "kana": "こうろうをへる",
+      "gloss": "to become skilled through years of experience",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "へる": {
+          "actual": "へ",
+          "dictionary": [
+            "へ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2182520/経行/きんひん": {
+      "id": 2182520,
+      "form": "経行",
+      "kana": "きんひん",
+      "gloss": "meditation performed while walking",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "キン": {
+          "actual": "きん",
+          "dictionary": [
+            "キン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1636330/看経/かんきん": {
+      "id": 1636330,
+      "form": "看経",
+      "kana": "かんきん",
+      "gloss": "silent reading of the sutras",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        215637
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "看": 6
+      },
+      "matched": {
+        "キン": {
+          "actual": "きん",
+          "dictionary": [
+            "キン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847488/時間が経つ/じかんがたつ": {
+      "id": 2847488,
+      "form": "時間が経つ",
+      "kana": "じかんがたつ",
+      "gloss": "time passes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5161
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2,
+        "間": 2
+      },
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2815270/月日が経つ/つきひがたつ": {
+      "id": 2815270,
+      "form": "月日が経つ",
+      "kana": "つきひがたつ",
+      "gloss": "time passes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        33348
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1,
+        "日": 1
+      },
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847489/時間が経つにつれて/じかんがたつにつれて": {
+      "id": 2847489,
+      "form": "時間が経つにつれて",
+      "kana": "じかんがたつにつれて",
+      "gloss": "as time passes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43440
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2,
+        "間": 2
+      },
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847489/時間が経つに連れて/じかんがたつにつれて": {
+      "id": 2847489,
+      "form": "時間が経つに連れて",
+      "kana": "じかんがたつにつれて",
+      "gloss": "as time passes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        138240
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2,
+        "連": 4,
+        "間": 2
+      },
+      "matched": {
+        "たつ": {
+          "actual": "た",
+          "dictionary": [
+            "た.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661350/経/たていと": {
+      "id": 1661350,
+      "form": "経",
+      "kana": "たていと",
+      "gloss": "(weaving) warp",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "たていと": {
+          "actual": "たていと",
+          "dictionary": [
+            "たていと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1251120:経緯:けいい",
+      "form": "経緯",
+      "kana": "けいい",
+      "cue": "details; particulars",
+      "ids": [
+        1251120
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4405,
+        "shiberu": 7954,
+        "tubelex": 4292,
+        "wordfreq": 4345
+      },
+      "alternatives_by_kanji": {
+        "経": [
+          "1251270/経験/けいけん",
+          "1251320/経済/けいざい",
+          "1251110/経る/へる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1251130:経営:けいえい",
+      "form": "経営",
+      "kana": "けいえい",
+      "cue": "management; administration",
+      "ids": [
+        1251130
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4116,
+        "shiberu": 1172,
+        "tubelex": 1680,
+        "wordfreq": 1089
+      },
+      "alternatives_by_kanji": {
+        "営": [
+          "1173430/営業/えいぎょう",
+          "1173420/営む/いとなむ",
+          "1370180/陣営/じんえい"
+        ],
+        "経": [
+          "1251270/経験/けいけん",
+          "1251320/経済/けいざい",
+          "1251110/経る/へる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1251320:経済:けいざい",
+      "form": "経済",
+      "kana": "けいざい",
+      "cue": "economy; economics",
+      "ids": [
+        1251320
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9240,
+        "shiberu": 543,
+        "tubelex": 760,
+        "wordfreq": 731
+      },
+      "alternatives_by_kanji": {
+        "経": [
+          "1251270/経験/けいけん",
+          "1251110/経る/へる",
+          "1251640/経費/けいひ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 59
+}

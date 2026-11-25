@@ -1,0 +1,394 @@
+{
+  "character": "瞭",
+  "grade": 7,
+  "meanings": [
+    "clear"
+  ],
+  "strokes": [
+    17
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 109
+    }
+  ],
+  "components": [
+    "小",
+    "日",
+    "并",
+    "目",
+    "大"
+  ],
+  "on": [
+    "リョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あきらか",
+      "stem": "あきらか",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "瞭",
+    "heading": "瞭",
+    "readings": [
+      "リョウ"
+    ],
+    "examples_by_reading": [
+      [
+        "明瞭"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "瞭",
+      "reading": "リョウ",
+      "source": "table_40_ri.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "リョウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1532620/明瞭/めいりょう",
+        "1796470/瞭然/りょうぜん",
+        "1167000/一目瞭然/いちもくりょうぜん",
+        "1495080/不明瞭/ふめいりょう",
+        "2030330/簡単明瞭/かんたんめいりょう",
+        "2043220/簡潔明瞭/かんけつめいりょう",
+        "1532630/明瞭度/めいりょうど"
+      ]
+    },
+    {
+      "reading": "あきらか",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1532620/明瞭/めいりょう",
+    "1796470/瞭然/りょうぜん",
+    "1167000/一目瞭然/いちもくりょうぜん",
+    "1495080/不明瞭/ふめいりょう",
+    "2030330/簡単明瞭/かんたんめいりょう",
+    "2043220/簡潔明瞭/かんけつめいりょう",
+    "1532630/明瞭度/めいりょうど"
+  ],
+  "candidates": {
+    "1532620/明瞭/めいりょう": {
+      "id": 1532620,
+      "form": "明瞭",
+      "kana": "めいりょう",
+      "gloss": "clear",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4489,
+        12317,
+        19315,
+        18682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "リョウ": {
+          "actual": "りょう",
+          "dictionary": [
+            "リョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1796470/瞭然/りょうぜん": {
+      "id": 1796470,
+      "form": "瞭然",
+      "kana": "りょうぜん",
+      "gloss": "obvious",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        13835,
+        15110,
+        null,
+        71117
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "然": 4
+      },
+      "matched": {
+        "リョウ": {
+          "actual": "りょう",
+          "dictionary": [
+            "リョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1167000/一目瞭然/いちもくりょうぜん": {
+      "id": 1167000,
+      "form": "一目瞭然",
+      "kana": "いちもくりょうぜん",
+      "gloss": "obvious",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        25402,
+        11284
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1,
+        "然": 4,
+        "一": 1
+      },
+      "matched": {
+        "リョウ": {
+          "actual": "りょう",
+          "dictionary": [
+            "リョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1495080/不明瞭/ふめいりょう": {
+      "id": 1495080,
+      "form": "不明瞭",
+      "kana": "ふめいりょう",
+      "gloss": "unclear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        22017,
+        22082
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "明": 2
+      },
+      "matched": {
+        "リョウ": {
+          "actual": "りょう",
+          "dictionary": [
+            "リョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2030330/簡単明瞭/かんたんめいりょう": {
+      "id": 2030330,
+      "form": "簡単明瞭",
+      "kana": "かんたんめいりょう",
+      "gloss": "simple and clear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        108501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2,
+        "単": 4,
+        "簡": 6
+      },
+      "matched": {
+        "リョウ": {
+          "actual": "りょう",
+          "dictionary": [
+            "リョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2043220/簡潔明瞭/かんけつめいりょう": {
+      "id": 2043220,
+      "form": "簡潔明瞭",
+      "kana": "かんけつめいりょう",
+      "gloss": "clear and concise",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        116461
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "潔": 5,
+        "明": 2,
+        "簡": 6
+      },
+      "matched": {
+        "リョウ": {
+          "actual": "りょう",
+          "dictionary": [
+            "リョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1532630/明瞭度/めいりょうど": {
+      "id": 1532630,
+      "form": "明瞭度",
+      "kana": "めいりょうど",
+      "gloss": "intelligibility",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        244718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2,
+        "度": 3
+      },
+      "matched": {
+        "リョウ": {
+          "actual": "りょう",
+          "dictionary": [
+            "リョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1532620:明瞭:めいりょう",
+      "form": "明瞭",
+      "kana": "めいりょう",
+      "cue": "clear; plain",
+      "ids": [
+        1532620
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18682,
+        "shiberu": 4489,
+        "tubelex": 12317,
+        "wordfreq": 19315
+      },
+      "alternatives_by_kanji": {
+        "明": [
+          "1386460/説明/せつめい",
+          "1532350/明るい/あかるい",
+          "1532220/明かす/あかす"
+        ],
+        "瞭": [
+          "1796470/瞭然/りょうぜん",
+          "1167000/一目瞭然/いちもくりょうぜん",
+          "1495080/不明瞭/ふめいりょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

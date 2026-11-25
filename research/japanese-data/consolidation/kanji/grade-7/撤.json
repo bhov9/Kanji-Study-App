@@ -1,0 +1,598 @@
+{
+  "character": "撤",
+  "grade": 7,
+  "meanings": [
+    "remove",
+    "withdraw",
+    "disarm",
+    "dismantle",
+    "reject",
+    "exclude"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "月",
+    "亠",
+    "厶",
+    "扎",
+    "攵",
+    "乞"
+  ],
+  "on": [
+    "テツ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "撤",
+    "heading": "撤",
+    "readings": [
+      "テツ"
+    ],
+    "examples_by_reading": [
+      [
+        "撤去",
+        "撤回",
+        "撤兵"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "撤",
+      "reading": "テツ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1437720/撤去/てっきょ",
+        "1437710/撤回/てっかい",
+        "1437760/撤兵/てっぺい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1437720/撤去/てっきょ",
+    "1437710/撤回/てっかい",
+    "1437760/撤兵/てっぺい",
+    "1437740/撤退/てったい",
+    "1437750/撤廃/てっぱい",
+    "1437730/撤収/てっしゅう",
+    "2732250/前言撤回/ぜんげんてっかい",
+    "2406490/戦略的撤退/せんりゃくてきてったい",
+    "2051970/白紙撤回/はくしてっかい",
+    "2049030/全面撤退/ぜんめんてったい",
+    "2615620/規制撤廃/きせいてっぱい",
+    "1499450/部隊撤退/ぶたいてったい",
+    "1308450/市場撤退/しじょうてったい",
+    "1248920/軍備撤廃/ぐんびてっぱい",
+    "2443300/全艦撤退/ぜんかんてったい"
+  ],
+  "candidates": {
+    "1437720/撤去/てっきょ": {
+      "id": 1437720,
+      "form": "撤去",
+      "kana": "てっきょ",
+      "gloss": "removal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14435,
+        7428,
+        7391,
+        16215
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "去": 3
+      },
+      "matched": {
+        "テツ": {
+          "actual": "てっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "テツ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1437710/撤回/てっかい": {
+      "id": 1437710,
+      "form": "撤回",
+      "kana": "てっかい",
+      "gloss": "withdrawal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12705,
+        11697,
+        8882,
+        8342
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "回": 2
+      },
+      "matched": {
+        "テツ": {
+          "actual": "てっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "テツ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1437760/撤兵/てっぺい": {
+      "id": 1437760,
+      "form": "撤兵",
+      "kana": "てっぺい",
+      "gloss": "withdrawal of troops",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        119612,
+        105419
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4
+      },
+      "matched": {
+        "テツ": {
+          "actual": "てっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "テツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1437740/撤退/てったい": {
+      "id": 1437740,
+      "form": "撤退",
+      "kana": "てったい",
+      "gloss": "evacuation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14113,
+        5161,
+        4516,
+        6060
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "退": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1437750/撤廃/てっぱい": {
+      "id": 1437750,
+      "form": "撤廃",
+      "kana": "てっぱい",
+      "gloss": "annulment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8858,
+        14693,
+        13281,
+        37627
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "廃": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1437730/撤収/てっしゅう": {
+      "id": 1437730,
+      "form": "撤収",
+      "kana": "てっしゅう",
+      "gloss": "removal (of a building, equipment, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        13905,
+        17976,
+        10967
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2732250/前言撤回/ぜんげんてっかい": {
+      "id": 2732250,
+      "form": "前言撤回",
+      "kana": "ぜんげんてっかい",
+      "gloss": "taking back what one just said",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        16451
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2,
+        "回": 2,
+        "言": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2406490/戦略的撤退/せんりゃくてきてったい": {
+      "id": 2406490,
+      "form": "戦略的撤退",
+      "kana": "せんりゃくてきてったい",
+      "gloss": "strategic withdrawal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "退": 6,
+        "略": 5,
+        "的": 4,
+        "戦": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2051970/白紙撤回/はくしてっかい": {
+      "id": 2051970,
+      "form": "白紙撤回",
+      "kana": "はくしてっかい",
+      "gloss": "complete revocation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        103243
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紙": 2,
+        "白": 1,
+        "回": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2049030/全面撤退/ぜんめんてったい": {
+      "id": 2049030,
+      "form": "全面撤退",
+      "kana": "ぜんめんてったい",
+      "gloss": "total (full-scale) withdrawal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        136760
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3,
+        "退": 6,
+        "面": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2615620/規制撤廃/きせいてっぱい": {
+      "id": 2615620,
+      "form": "規制撤廃",
+      "kana": "きせいてっぱい",
+      "gloss": "abolition of regulations",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        223110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "規": 5,
+        "制": 5,
+        "廃": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1499450/部隊撤退/ぶたいてったい": {
+      "id": 1499450,
+      "form": "部隊撤退",
+      "kana": "ぶたいてったい",
+      "gloss": "troop withdrawal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "部": 3,
+        "退": 6,
+        "隊": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1308450/市場撤退/しじょうてったい": {
+      "id": 1308450,
+      "form": "市場撤退",
+      "kana": "しじょうてったい",
+      "gloss": "pulling out of a market",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "場": 2,
+        "退": 6,
+        "市": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1248920/軍備撤廃/ぐんびてっぱい": {
+      "id": 1248920,
+      "form": "軍備撤廃",
+      "kana": "ぐんびてっぱい",
+      "gloss": "complete disarmament",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "備": 5,
+        "軍": 4,
+        "廃": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2443300/全艦撤退/ぜんかんてったい": {
+      "id": 2443300,
+      "form": "全艦撤退",
+      "kana": "ぜんかんてったい",
+      "gloss": "All ships retreat (military command)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        234669
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3,
+        "退": 6,
+        "艦": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1437740:撤退:てったい",
+      "form": "撤退",
+      "kana": "てったい",
+      "cue": "evacuation; withdrawal",
+      "ids": [
+        1437740
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6060,
+        "shiberu": 14113,
+        "tubelex": 5161,
+        "wordfreq": 4516
+      },
+      "alternatives_by_kanji": {
+        "退": [
+          "1596750/退屈/たいくつ",
+          "1411360/退却/たいきゃく",
+          "1366110/進退/しんたい"
+        ],
+        "撤": [
+          "1437720/撤去/てっきょ",
+          "1437710/撤回/てっかい",
+          "1437760/撤兵/てっぺい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 12
+}

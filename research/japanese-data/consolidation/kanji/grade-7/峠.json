@@ -1,0 +1,561 @@
+{
+  "character": "峠",
+  "grade": 7,
+  "meanings": [
+    "mountain peak",
+    "mountain pass",
+    "climax",
+    "crest",
+    "(kokuji)"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 46
+    }
+  ],
+  "components": [
+    "｜",
+    "一",
+    "山",
+    "卜"
+  ],
+  "on": [],
+  "kun": [
+    {
+      "sourceNotation": "とうげ",
+      "stem": "とうげ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "峠",
+    "heading": "峠",
+    "readings": [
+      "とうげ"
+    ],
+    "examples_by_reading": [
+      [
+        "峠",
+        "峠道"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "峠",
+      "reading": "とうげ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "とうげ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1454420/峠/とうげ",
+        "1454440/峠道/とうげみち",
+        "2602180/峠越え/とうげごえ",
+        "5497953/大菩薩峠/だいぼさつとうげ",
+        "1896840/峠を越える/とうげをこえる",
+        "1454430/峠を越す/とうげをこす",
+        "2867811/峠バトル/とうげバトル",
+        "2832736/洞が峠を決め込む/ほらがとうげをきめこむ",
+        "2832736/洞が峠をきめこむ/ほらがとうげをきめこむ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1454420/峠/とうげ",
+    "1454440/峠道/とうげみち",
+    "2602180/峠越え/とうげごえ",
+    "5497953/大菩薩峠/だいぼさつとうげ",
+    "1896840/峠を越える/とうげをこえる",
+    "1454430/峠を越す/とうげをこす",
+    "2867811/峠バトル/とうげバトル",
+    "2832736/洞が峠を決め込む/ほらがとうげをきめこむ",
+    "2832736/洞が峠をきめこむ/ほらがとうげをきめこむ",
+    "1172270/碓氷峠/うすいとうげ",
+    "1410330/対峠/たいじ",
+    "2832736/洞ヶ峠を決め込む/ほらがとうげをきめこむ",
+    "2832736/洞ヶ峠をきめこむ/ほらがとうげをきめこむ"
+  ],
+  "candidates": {
+    "1454420/峠/とうげ": {
+      "id": 1454420,
+      "form": "峠",
+      "kana": "とうげ",
+      "gloss": "(mountain) pass",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        3114,
+        5929,
+        10707,
+        21020
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [
+        "とうげ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1454440/峠道/とうげみち": {
+      "id": 1454440,
+      "form": "峠道",
+      "kana": "とうげみち",
+      "gloss": "road over a mountain pass",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        21370,
+        null,
+        62887
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [
+        "とうげ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2602180/峠越え/とうげごえ": {
+      "id": 2602180,
+      "form": "峠越え",
+      "kana": "とうげごえ",
+      "gloss": "crossing a mountain pass",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44959,
+        null,
+        101957
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5497953/大菩薩峠/だいぼさつとうげ": {
+      "id": 5497953,
+      "form": "大菩薩峠",
+      "kana": "だいぼさつとうげ",
+      "gloss": "The Sword of Doom (1966 film)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        61164,
+        169203
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1896840/峠を越える/とうげをこえる": {
+      "id": 1896840,
+      "form": "峠を越える",
+      "kana": "とうげをこえる",
+      "gloss": "to pass the peak (of something)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        47334
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1454430/峠を越す/とうげをこす": {
+      "id": 1454430,
+      "form": "峠を越す",
+      "kana": "とうげをこす",
+      "gloss": "to pass the peak (of something)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        89147
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2867811/峠バトル/とうげバトル": {
+      "id": 2867811,
+      "form": "峠バトル",
+      "kana": "とうげバトル",
+      "gloss": "mountain-pass street race",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832736/洞が峠を決め込む/ほらがとうげをきめこむ": {
+      "id": 2832736,
+      "form": "洞が峠を決め込む",
+      "kana": "ほらがとうげをきめこむ",
+      "gloss": "to wait for a good opportunity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "洞": 7,
+        "決": 3,
+        "込": 7
+      },
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832736/洞が峠をきめこむ/ほらがとうげをきめこむ": {
+      "id": 2832736,
+      "form": "洞が峠をきめこむ",
+      "kana": "ほらがとうげをきめこむ",
+      "gloss": "to wait for a good opportunity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "洞": 7
+      },
+      "matched": {
+        "とうげ": {
+          "actual": "とうげ",
+          "dictionary": [
+            "とうげ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1172270/碓氷峠/うすいとうげ": {
+      "id": 1172270,
+      "form": "碓氷峠",
+      "kana": "うすいとうげ",
+      "gloss": "Usui Pass",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        77181,
+        119564
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "氷": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1410330/対峠/たいじ": {
+      "id": 1410330,
+      "form": "対峠",
+      "kana": "たいじ",
+      "gloss": "standing facing each other (e.g. mountains, buildings)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "対": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2832736/洞ヶ峠を決め込む/ほらがとうげをきめこむ": {
+      "id": 2832736,
+      "form": "洞ヶ峠を決め込む",
+      "kana": "ほらがとうげをきめこむ",
+      "gloss": "to wait for a good opportunity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "洞": 7,
+        "決": 3,
+        "込": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2832736/洞ヶ峠をきめこむ/ほらがとうげをきめこむ": {
+      "id": 2832736,
+      "form": "洞ヶ峠をきめこむ",
+      "kana": "ほらがとうげをきめこむ",
+      "gloss": "to wait for a good opportunity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "洞": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1454420:峠:とうげ",
+      "form": "峠",
+      "kana": "とうげ",
+      "cue": "(mountain) pass; highest point on a mountain road",
+      "ids": [
+        1454420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 21020,
+        "shiberu": 3114,
+        "tubelex": 5929,
+        "wordfreq": 10707
+      },
+      "alternatives_by_kanji": {
+        "峠": [
+          "1454440/峠道/とうげみち",
+          "2602180/峠越え/とうげごえ",
+          "5497953/大菩薩峠/だいぼさつとうげ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

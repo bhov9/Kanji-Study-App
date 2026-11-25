@@ -1,0 +1,1363 @@
+{
+  "character": "列",
+  "grade": 3,
+  "meanings": [
+    "file",
+    "row",
+    "rank",
+    "tier",
+    "column"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 18
+    },
+    {
+      "type": "nelson_c",
+      "value": 78
+    }
+  ],
+  "components": [
+    "刈",
+    "歹"
+  ],
+  "on": [
+    "レツ",
+    "レ"
+  ],
+  "kun": [],
+  "nanori": [
+    "れっ"
+  ],
+  "government": {
+    "kanji": "列",
+    "heading": "列",
+    "readings": [
+      "レツ"
+    ],
+    "examples_by_reading": [
+      [
+        "列外",
+        "列車",
+        "陳列"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "列",
+      "reading": "レツ",
+      "source": "table_42_re.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "レツ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 141,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1558370/列車/れっしゃ",
+        "1432210/陳列/ちんれつ",
+        "1558330/列/れつ",
+        "1282220/行列/ぎょうれつ",
+        "1473220/配列/はいれつ",
+        "1302650/参列/さんれつ",
+        "1376300/整列/せいれつ",
+        "1508530/並列/へいれつ",
+        "1394210/前列/ぜんれつ",
+        "1345550/序列/じょれつ"
+      ]
+    },
+    {
+      "reading": "レ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2154660/虎列刺/コレラ",
+        "2459820/加密爾列/カミツレ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1558370/列車/れっしゃ",
+    "1432210/陳列/ちんれつ",
+    "1558330/列/れつ",
+    "1282220/行列/ぎょうれつ",
+    "1473220/配列/はいれつ",
+    "1302650/参列/さんれつ",
+    "1376300/整列/せいれつ",
+    "1508530/並列/へいれつ",
+    "1394210/前列/ぜんれつ",
+    "1345550/序列/じょれつ",
+    "1547580/羅列/られつ",
+    "1373330/数列/すうれつ",
+    "1644220/列伝/れつでん",
+    "1270170/後列/こうれつ",
+    "1453600/同列/どうれつ",
+    "1713640/隊列/たいれつ",
+    "1402200/葬列/そうれつ",
+    "1709450/縦列/じゅうれつ",
+    "1251080/系列/けいれつ",
+    "1431610/直列/ちょくれつ",
+    "1313520/歯列/しれつ",
+    "1342410/順列/じゅんれつ",
+    "2835962/車列/しゃれつ",
+    "1390680/戦列/せんれつ",
+    "2039940/横列/おうれつ",
+    "1833490/陣列/じんれつ",
+    "1782150/列座/れつざ",
+    "1504490/分列/ぶんれつ",
+    "1468600/年功序列/ねんこうじょれつ",
+    "2857426/列幅/れつはば"
+  ],
+  "candidates": {
+    "1558370/列車/れっしゃ": {
+      "id": 1558370,
+      "form": "列車",
+      "kana": "れっしゃ",
+      "gloss": "train",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        732,
+        2073,
+        2681,
+        10453
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "車": 1
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "レツ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1432210/陳列/ちんれつ": {
+      "id": 1432210,
+      "form": "陳列",
+      "kana": "ちんれつ",
+      "gloss": "exhibition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8803,
+        20459,
+        20603,
+        22467
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "陳": 7
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "レツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1558330/列/れつ": {
+      "id": 1558330,
+      "form": "列",
+      "kana": "れつ",
+      "gloss": "row",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1404,
+        2105,
+        2518,
+        4851
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1282220/行列/ぎょうれつ": {
+      "id": 1282220,
+      "form": "行列",
+      "kana": "ぎょうれつ",
+      "gloss": "line",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        2923,
+        5405,
+        7146,
+        8982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473220/配列/はいれつ": {
+      "id": 1473220,
+      "form": "配列",
+      "kana": "はいれつ",
+      "gloss": "arranging",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13329,
+        6885,
+        10540,
+        33194
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "配": 3
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1302650/参列/さんれつ": {
+      "id": 1302650,
+      "form": "参列",
+      "kana": "さんれつ",
+      "gloss": "attendance",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9002,
+        21238,
+        15825,
+        25447
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "参": 4
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376300/整列/せいれつ": {
+      "id": 1376300,
+      "form": "整列",
+      "kana": "せいれつ",
+      "gloss": "standing in a row",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8653,
+        20677,
+        25402,
+        14276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "整": 3
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1508530/並列/へいれつ": {
+      "id": 1508530,
+      "form": "並列",
+      "kana": "へいれつ",
+      "gloss": "arranging in a line",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        31875,
+        13266,
+        17491,
+        35080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "並": 6
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1394210/前列/ぜんれつ": {
+      "id": 1394210,
+      "form": "前列",
+      "kana": "ぜんれつ",
+      "gloss": "front row",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15592,
+        21370,
+        19315,
+        37803
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1345550/序列/じょれつ": {
+      "id": 1345550,
+      "form": "序列",
+      "kana": "じょれつ",
+      "gloss": "rank",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20728,
+        20558,
+        22289,
+        23330
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "序": 5
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1547580/羅列/られつ": {
+      "id": 1547580,
+      "form": "羅列",
+      "kana": "られつ",
+      "gloss": "enumeration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18430,
+        25714,
+        30598,
+        15888
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "羅": 7
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1373330/数列/すうれつ": {
+      "id": 1373330,
+      "form": "数列",
+      "kana": "すうれつ",
+      "gloss": "sequence",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28606,
+        15282,
+        38864,
+        59172
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644220/列伝/れつでん": {
+      "id": 1644220,
+      "form": "列伝",
+      "kana": "れつでん",
+      "gloss": "series of biographies",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17973,
+        37110,
+        25763,
+        74865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伝": 4
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1270170/後列/こうれつ": {
+      "id": 1270170,
+      "form": "後列",
+      "kana": "こうれつ",
+      "gloss": "back row",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15848,
+        34763,
+        42493,
+        48302
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1453600/同列/どうれつ": {
+      "id": 1453600,
+      "form": "同列",
+      "kana": "どうれつ",
+      "gloss": "same row",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22681,
+        32097,
+        32548,
+        21562
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713640/隊列/たいれつ": {
+      "id": 1713640,
+      "form": "隊列",
+      "kana": "たいれつ",
+      "gloss": "rank (of troops)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24511,
+        31039,
+        35760,
+        20816
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "隊": 4
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1402200/葬列/そうれつ": {
+      "id": 1402200,
+      "form": "葬列",
+      "kana": "そうれつ",
+      "gloss": "funeral procession",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16527,
+        44010,
+        56518,
+        59728
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "葬": 7
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1709450/縦列/じゅうれつ": {
+      "id": 1709450,
+      "form": "縦列",
+      "kana": "じゅうれつ",
+      "gloss": "column",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25910,
+        30335,
+        51518,
+        71918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "縦": 6
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1251080/系列/けいれつ": {
+      "id": 1251080,
+      "form": "系列",
+      "kana": "けいれつ",
+      "gloss": "series",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        6731,
+        5790,
+        24427
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "系": 6
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1431610/直列/ちょくれつ": {
+      "id": 1431610,
+      "form": "直列",
+      "kana": "ちょくれつ",
+      "gloss": "series (e.g. electrical)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        12038,
+        26690,
+        72395
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1313520/歯列/しれつ": {
+      "id": 1313520,
+      "form": "歯列",
+      "kana": "しれつ",
+      "gloss": "row of teeth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38902,
+        30685,
+        null,
+        51779
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歯": 3
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1342410/順列/じゅんれつ": {
+      "id": 1342410,
+      "form": "順列",
+      "kana": "じゅんれつ",
+      "gloss": "permutation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        34763,
+        53687,
+        77244
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "順": 4
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835962/車列/しゃれつ": {
+      "id": 2835962,
+      "form": "車列",
+      "kana": "しゃれつ",
+      "gloss": "column of cars",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42221,
+        46387,
+        62629
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "車": 1
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1390680/戦列/せんれつ": {
+      "id": 1390680,
+      "form": "戦列",
+      "kana": "せんれつ",
+      "gloss": "line of battle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        48867,
+        41795
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2039940/横列/おうれつ": {
+      "id": 2039940,
+      "form": "横列",
+      "kana": "おうれつ",
+      "gloss": "rank (e.g. of soldiers)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        150239,
+        87934
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "横": 3
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1833490/陣列/じんれつ": {
+      "id": 1833490,
+      "form": "陣列",
+      "kana": "じんれつ",
+      "gloss": "battle formation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        173990,
+        106761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "陣": 7
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1782150/列座/れつざ": {
+      "id": 1782150,
+      "form": "列座",
+      "kana": "れつざ",
+      "gloss": "attendance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        173990,
+        139942
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "座": 6
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1504490/分列/ぶんれつ": {
+      "id": 1504490,
+      "form": "分列",
+      "kana": "ぶんれつ",
+      "gloss": "filing off (in a parade)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        160131,
+        249208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1468600/年功序列/ねんこうじょれつ": {
+      "id": 1468600,
+      "form": "年功序列",
+      "kana": "ねんこうじょれつ",
+      "gloss": "seniority by length of service",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        44849,
+        49746
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "序": 5,
+        "年": 1,
+        "功": 4
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857426/列幅/れつはば": {
+      "id": 2857426,
+      "form": "列幅",
+      "kana": "れつはば",
+      "gloss": "column width",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "幅": 7
+      },
+      "matched": {
+        "レツ": {
+          "actual": "れつ",
+          "dictionary": [
+            "レツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2154660/虎列刺/コレラ": {
+      "id": 2154660,
+      "form": "虎列刺",
+      "kana": "コレラ",
+      "gloss": "cholera",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刺": 7,
+        "虎": 7
+      },
+      "matched": {
+        "レ": {
+          "actual": "レ",
+          "dictionary": [
+            "レ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2459820/加密爾列/カミツレ": {
+      "id": 2459820,
+      "form": "加密爾列",
+      "kana": "カミツレ",
+      "gloss": "German chamomile (Matricaria recutita)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "加": 4,
+        "密": 6
+      },
+      "matched": {
+        "レ": {
+          "actual": "レ",
+          "dictionary": [
+            "レ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1251080:系列:けいれつ",
+      "form": "系列",
+      "kana": "けいれつ",
+      "cue": "series; sequence",
+      "ids": [
+        1251080
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 24427,
+        "tubelex": 6731,
+        "wordfreq": 5790
+      },
+      "alternatives_by_kanji": {
+        "列": [
+          "1558370/列車/れっしゃ",
+          "1432210/陳列/ちんれつ",
+          "1558330/列/れつ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1345550:序列:じょれつ",
+      "form": "序列",
+      "kana": "じょれつ",
+      "cue": "rank; ranking order",
+      "ids": [
+        1345550
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 23330,
+        "shiberu": 20728,
+        "tubelex": 20558,
+        "wordfreq": 22289
+      },
+      "alternatives_by_kanji": {
+        "列": [
+          "1558370/列車/れっしゃ",
+          "1432210/陳列/ちんれつ",
+          "1558330/列/れつ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1558370:列車:れっしゃ",
+      "form": "列車",
+      "kana": "れっしゃ",
+      "cue": "train; railway train",
+      "ids": [
+        1558370
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 10453,
+        "shiberu": 732,
+        "tubelex": 2073,
+        "wordfreq": 2681
+      },
+      "alternatives_by_kanji": {
+        "車": [
+          "1443530/電車/でんしゃ",
+          "1323280/車輪/しゃりん",
+          "1313350/歯車/はぐるま"
+        ],
+        "列": [
+          "1432210/陳列/ちんれつ",
+          "1558330/列/れつ",
+          "1282220/行列/ぎょうれつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 82
+}

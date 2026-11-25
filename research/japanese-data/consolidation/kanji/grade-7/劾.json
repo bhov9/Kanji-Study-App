@@ -1,0 +1,248 @@
+{
+  "character": "劾",
+  "grade": 7,
+  "meanings": [
+    "censure",
+    "criminal investigation"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 19
+    }
+  ],
+  "components": [
+    "人",
+    "力",
+    "亠",
+    "ノ",
+    "丶"
+  ],
+  "on": [
+    "ガイ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "劾",
+    "heading": "劾",
+    "readings": [
+      "ガイ"
+    ],
+    "examples_by_reading": [
+      [
+        "弾劾"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "劾",
+      "reading": "ガイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1419430/弾劾/だんがい",
+        "1203240/劾奏/がいそう",
+        "1801640/弾劾裁判所/だんがいさいばんしょ",
+        "2098800/裁判官弾劾裁判所/さいばんかんだんがいさいばんしょ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1419430/弾劾/だんがい",
+    "1203240/劾奏/がいそう",
+    "1801640/弾劾裁判所/だんがいさいばんしょ",
+    "2098800/裁判官弾劾裁判所/さいばんかんだんがいさいばんしょ"
+  ],
+  "candidates": {
+    "1419430/弾劾/だんがい": {
+      "id": 1419430,
+      "form": "弾劾",
+      "kana": "だんがい",
+      "gloss": "impeachment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32300,
+        22585,
+        24744,
+        42163
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弾": 7
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1203240/劾奏/がいそう": {
+      "id": 1203240,
+      "form": "劾奏",
+      "kana": "がいそう",
+      "gloss": "report of an official's offence to the emperor (offense)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奏": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1801640/弾劾裁判所/だんがいさいばんしょ": {
+      "id": 1801640,
+      "form": "弾劾裁判所",
+      "kana": "だんがいさいばんしょ",
+      "gloss": "(Japanese) Court of Impeachment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "所": 3,
+        "弾": 7,
+        "判": 5,
+        "裁": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2098800/裁判官弾劾裁判所/さいばんかんだんがいさいばんしょ": {
+      "id": 2098800,
+      "form": "裁判官弾劾裁判所",
+      "kana": "さいばんかんだんがいさいばんしょ",
+      "gloss": "Judge Impeachment Court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "所": 3,
+        "弾": 7,
+        "裁": 6,
+        "官": 4,
+        "判": 5
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1419430:弾劾:だんがい",
+      "form": "弾劾",
+      "kana": "だんがい",
+      "cue": "impeachment",
+      "ids": [
+        1419430
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 42163,
+        "shiberu": 32300,
+        "tubelex": 22585,
+        "wordfreq": 24744
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

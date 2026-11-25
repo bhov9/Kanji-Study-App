@@ -1,0 +1,388 @@
+{
+  "character": "緻",
+  "grade": 7,
+  "meanings": [
+    "fine (i.e. not coarse)"
+  ],
+  "strokes": [
+    16,
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "糸",
+    "幺",
+    "小",
+    "至",
+    "土",
+    "厶",
+    "攵",
+    "一",
+    "乞"
+  ],
+  "on": [
+    "チ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "こまか.い",
+      "stem": "こまか",
+      "okurigana": "い"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "緻",
+    "heading": "緻",
+    "readings": [
+      "チ"
+    ],
+    "examples_by_reading": [
+      [
+        "緻密",
+        "精緻"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "緻",
+      "reading": "チ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1570520/緻密/ちみつ",
+        "1380270/精緻/せいち",
+        "1741550/巧緻/こうち",
+        "1768520/細緻/さいち",
+        "2808330/精緻化/せいちか",
+        "2048250/精妙巧緻/せいみょうこうち"
+      ]
+    },
+    {
+      "reading": "こまかい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1570520/緻密/ちみつ",
+    "1380270/精緻/せいち",
+    "1741550/巧緻/こうち",
+    "1768520/細緻/さいち",
+    "2808330/精緻化/せいちか",
+    "2048250/精妙巧緻/せいみょうこうち",
+    "1218980/縹緻/きりょう"
+  ],
+  "candidates": {
+    "1570520/緻密/ちみつ": {
+      "id": 1570520,
+      "form": "緻密",
+      "kana": "ちみつ",
+      "gloss": "fine (grain, workmanship, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15409,
+        15282,
+        22017,
+        17790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "密": 6
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1380270/精緻/せいち": {
+      "id": 1380270,
+      "form": "精緻",
+      "kana": "せいち",
+      "gloss": "delicate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15685,
+        37400,
+        37034,
+        27119
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "精": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1741550/巧緻/こうち": {
+      "id": 1741550,
+      "form": "巧緻",
+      "kana": "こうち",
+      "gloss": "elaborate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36366,
+        61110,
+        132292,
+        86661
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巧": 7
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1768520/細緻/さいち": {
+      "id": 1768520,
+      "form": "細緻",
+      "kana": "さいち",
+      "gloss": "minute",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        null,
+        125078
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "細": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2808330/精緻化/せいちか": {
+      "id": 2808330,
+      "form": "精緻化",
+      "kana": "せいちか",
+      "gloss": "refinement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        223986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "化": 3,
+        "精": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2048250/精妙巧緻/せいみょうこうち": {
+      "id": 2048250,
+      "form": "精妙巧緻",
+      "kana": "せいみょうこうち",
+      "gloss": "exquisite and elaborate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "巧": 7,
+        "妙": 7,
+        "精": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218980/縹緻/きりょう": {
+      "id": 1218980,
+      "form": "縹緻",
+      "kana": "きりょう",
+      "gloss": "looks (esp. of a woman)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        175227
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1570520:緻密:ちみつ",
+      "form": "緻密",
+      "kana": "ちみつ",
+      "cue": "fine (grain, workmanship, etc.); close (weave)",
+      "ids": [
+        1570520
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 17790,
+        "shiberu": 15409,
+        "tubelex": 15282,
+        "wordfreq": 22017
+      },
+      "alternatives_by_kanji": {
+        "密": [
+          "1484150/秘密/ひみつ",
+          "1731460/密約/みつやく",
+          "1262830/厳密/げんみつ"
+        ],
+        "緻": [
+          "1380270/精緻/せいち",
+          "1741550/巧緻/こうち",
+          "1768520/細緻/さいち"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

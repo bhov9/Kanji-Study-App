@@ -1,0 +1,1395 @@
+{
+  "character": "理",
+  "grade": 2,
+  "meanings": [
+    "logic",
+    "arrangement",
+    "reason",
+    "justice",
+    "truth"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 96
+    }
+  ],
+  "components": [
+    "王",
+    "里"
+  ],
+  "on": [
+    "リ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ことわり",
+      "stem": "ことわり",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "あや",
+    "おさむ",
+    "さと",
+    "さとる",
+    "ただ",
+    "ただし",
+    "とおる",
+    "に",
+    "のり",
+    "ひ",
+    "まこと",
+    "まさ",
+    "まさし",
+    "まろ",
+    "みち",
+    "よし"
+  ],
+  "government": {
+    "kanji": "理",
+    "heading": "理",
+    "readings": [
+      "リ"
+    ],
+    "examples_by_reading": [
+      [
+        "理科",
+        "理由",
+        "整理"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "理",
+      "reading": "リ",
+      "source": "table_40_ri.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "リ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1084,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1550140/理由/りゆう",
+        "1376250/整理/せいり",
+        "1549900/理科/りか",
+        "1550140/理由/わけ",
+        "1530970/無理/むり",
+        "1549910/理解/りかい",
+        "1554310/料理/りょうり",
+        "1214200/管理/かんり",
+        "1342510/処理/しょり",
+        "1550160/理論/りろん"
+      ]
+    },
+    {
+      "reading": "ことわり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2412900/理/ことわり"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1550140/理由/りゆう",
+    "1376250/整理/せいり",
+    "1549900/理科/りか",
+    "1550140/理由/わけ",
+    "1530970/無理/むり",
+    "1549910/理解/りかい",
+    "1554310/料理/りょうり",
+    "1214200/管理/かんり",
+    "1342510/処理/しょり",
+    "1550160/理論/りろん",
+    "1361000/心理/しんり",
+    "1550020/理想/りそう",
+    "1502790/物理/ぶつり",
+    "1332400/修理/しゅうり",
+    "1332400/修理/しゅり",
+    "1561850/論理/ろんり",
+    "1412400/代理/だいり",
+    "1401810/総理/そうり",
+    "1429310/調理/ちょうり",
+    "1371220/推理/すいり",
+    "1421540/地理/ちり",
+    "1364400/真理/しんり",
+    "1379580/生理/せいり",
+    "1550010/理性/りせい",
+    "1262460/原理/げんり",
+    "1549980/理事/りじ",
+    "1606240/理屈/りくつ",
+    "1285330/合理/ごうり",
+    "1225920/義理/ぎり",
+    "1555390/倫理/りんり"
+  ],
+  "candidates": {
+    "1550140/理由/りゆう": {
+      "id": 1550140,
+      "form": "理由",
+      "kana": "りゆう",
+      "gloss": "reason",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        336,
+        496,
+        357,
+        369
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "由": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1376250/整理/せいり": {
+      "id": 1376250,
+      "form": "整理",
+      "kana": "せいり",
+      "gloss": "sorting",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2345,
+        2354,
+        2681,
+        2091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "整": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1549900/理科/りか": {
+      "id": 1549900,
+      "form": "理科",
+      "kana": "りか",
+      "gloss": "science (natural sciences and related fields, incl. mathematics, engineering, medicine, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4921,
+        9013,
+        11547,
+        20077
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "科": 2
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1550140/理由/わけ": {
+      "id": 1550140,
+      "form": "理由",
+      "kana": "わけ",
+      "gloss": "reason",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        336,
+        496,
+        357,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "由": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "わ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "リ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1530970/無理/むり": {
+      "id": 1530970,
+      "form": "無理",
+      "kana": "むり",
+      "gloss": "unreasonable",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        662,
+        481,
+        376,
+        259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1549910/理解/りかい": {
+      "id": 1549910,
+      "form": "理解",
+      "kana": "りかい",
+      "gloss": "understanding",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        574,
+        600,
+        459,
+        657
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1554310/料理/りょうり": {
+      "id": 1554310,
+      "form": "料理",
+      "kana": "りょうり",
+      "gloss": "cooking",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        474,
+        753,
+        952,
+        902
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1214200/管理/かんり": {
+      "id": 1214200,
+      "form": "管理",
+      "kana": "かんり",
+      "gloss": "control",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1641,
+        779,
+        600,
+        2099
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "管": 4
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1342510/処理/しょり": {
+      "id": 1342510,
+      "form": "処理",
+      "kana": "しょり",
+      "gloss": "processing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1741,
+        1045,
+        1377,
+        2491
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "処": 6
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1550160/理論/りろん": {
+      "id": 1550160,
+      "form": "理論",
+      "kana": "りろん",
+      "gloss": "theory",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1073,
+        3151,
+        2476,
+        6597
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1361000/心理/しんり": {
+      "id": 1361000,
+      "form": "心理",
+      "kana": "しんり",
+      "gloss": "state of mind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1414,
+        2756,
+        2190,
+        8986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1550020/理想/りそう": {
+      "id": 1550020,
+      "form": "理想",
+      "kana": "りそう",
+      "gloss": "ideal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        1958,
+        2226,
+        2428,
+        2308
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "想": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1502790/物理/ぶつり": {
+      "id": 1502790,
+      "form": "物理",
+      "kana": "ぶつり",
+      "gloss": "laws of nature",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1446,
+        2491,
+        3167,
+        11468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332400/修理/しゅうり": {
+      "id": 1332400,
+      "form": "修理",
+      "kana": "しゅうり",
+      "gloss": "repair",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2593,
+        2688,
+        2809,
+        5007
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1332400/修理/しゅり": {
+      "id": 1332400,
+      "form": "修理",
+      "kana": "しゅり",
+      "gloss": "repair",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2593,
+        2688,
+        2809,
+        197142
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1561850/論理/ろんり": {
+      "id": 1561850,
+      "form": "論理",
+      "kana": "ろんり",
+      "gloss": "logic",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2324,
+        5048,
+        4415,
+        12649
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1412400/代理/だいり": {
+      "id": 1412400,
+      "form": "代理",
+      "kana": "だいり",
+      "gloss": "representation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3109,
+        4898,
+        3663,
+        6897
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1401810/総理/そうり": {
+      "id": 1401810,
+      "form": "総理",
+      "kana": "そうり",
+      "gloss": "prime minister (as the head of a cabinet government)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5043,
+        2944,
+        3374,
+        29813
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "総": 5
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1429310/調理/ちょうり": {
+      "id": 1429310,
+      "form": "調理",
+      "kana": "ちょうり",
+      "gloss": "cooking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4768,
+        3208,
+        5154,
+        6954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1371220/推理/すいり": {
+      "id": 1371220,
+      "form": "推理",
+      "kana": "すいり",
+      "gloss": "reasoning",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2587,
+        11061,
+        7509,
+        6484
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "推": 6
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421540/地理/ちり": {
+      "id": 1421540,
+      "form": "地理",
+      "kana": "ちり",
+      "gloss": "geography",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2322,
+        11048,
+        10860,
+        14968
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1364400/真理/しんり": {
+      "id": 1364400,
+      "form": "真理",
+      "kana": "しんり",
+      "gloss": "truth",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3104,
+        7172,
+        8611,
+        9733
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "真": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1379580/生理/せいり": {
+      "id": 1379580,
+      "form": "生理",
+      "kana": "せいり",
+      "gloss": "physiology",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4383,
+        6046,
+        5154,
+        18246
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1550010/理性/りせい": {
+      "id": 1550010,
+      "form": "理性",
+      "kana": "りせい",
+      "gloss": "reason",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3436,
+        9503,
+        8450,
+        4219
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1262460/原理/げんり": {
+      "id": 1262460,
+      "form": "原理",
+      "kana": "げんり",
+      "gloss": "principle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5542,
+        5422,
+        5679,
+        10884
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1549980/理事/りじ": {
+      "id": 1549980,
+      "form": "理事",
+      "kana": "りじ",
+      "gloss": "director",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10232,
+        5158,
+        3961,
+        26741
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1606240/理屈/りくつ": {
+      "id": 1606240,
+      "form": "理屈",
+      "kana": "りくつ",
+      "gloss": "theory",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5282,
+        6789,
+        10217,
+        2906
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屈": 7
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1285330/合理/ごうり": {
+      "id": 1285330,
+      "form": "合理",
+      "kana": "ごうり",
+      "gloss": "rationality",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5256,
+        6138,
+        5555,
+        59726
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1225920/義理/ぎり": {
+      "id": 1225920,
+      "form": "義理",
+      "kana": "ぎり",
+      "gloss": "duty",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4096,
+        10563,
+        9614,
+        4578
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "義": 5
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1555390/倫理/りんり": {
+      "id": 1555390,
+      "form": "倫理",
+      "kana": "りんり",
+      "gloss": "ethics",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7697,
+        9331,
+        6169,
+        16459
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "倫": 7
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2412900/理/ことわり": {
+      "id": 2412900,
+      "form": "理",
+      "kana": "ことわり",
+      "gloss": "reason",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        39381
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ことわり": {
+          "actual": "ことわり",
+          "dictionary": [
+            "ことわり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1214200:管理:かんり",
+      "form": "管理",
+      "kana": "かんり",
+      "cue": "control; management (e.g. of a business)",
+      "ids": [
+        1214200
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2099,
+        "shiberu": 1641,
+        "tubelex": 779,
+        "wordfreq": 600
+      },
+      "alternatives_by_kanji": {
+        "理": [
+          "1550140/理由/りゆう",
+          "1376250/整理/せいり",
+          "1549900/理科/りか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1555390:倫理:りんり",
+      "form": "倫理",
+      "kana": "りんり",
+      "cue": "ethics; morals",
+      "ids": [
+        1555390
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 16459,
+        "shiberu": 7697,
+        "tubelex": 9331,
+        "wordfreq": 6169
+      },
+      "alternatives_by_kanji": {
+        "理": [
+          "1550140/理由/りゆう",
+          "1376250/整理/せいり",
+          "1549900/理科/りか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1606240:理屈:りくつ",
+      "form": "理屈",
+      "kana": "りくつ",
+      "cue": "theory; reason",
+      "ids": [
+        1606240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2906,
+        "shiberu": 5282,
+        "tubelex": 6789,
+        "wordfreq": 10217
+      },
+      "alternatives_by_kanji": {
+        "理": [
+          "1550140/理由/りゆう",
+          "1376250/整理/せいり",
+          "1549900/理科/りか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1606240:理窟:りくつ",
+      "form": "理窟",
+      "kana": "りくつ",
+      "cue": "theory; reason",
+      "ids": [
+        1606240
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 107116,
+        "wordfreq": 178773
+      },
+      "alternatives_by_kanji": {
+        "理": [
+          "1550140/理由/りゆう",
+          "1376250/整理/せいり",
+          "1549900/理科/りか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1957060:理:り",
+      "form": "理",
+      "kana": "り",
+      "cue": "reason; principle",
+      "ids": [
+        1957060
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6988,
+        "shiberu": 2744,
+        "tubelex": 4985,
+        "wordfreq": 4345
+      },
+      "alternatives_by_kanji": {
+        "理": [
+          "1550140/理由/りゆう",
+          "1376250/整理/せいり",
+          "1549900/理科/りか"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 30
+}

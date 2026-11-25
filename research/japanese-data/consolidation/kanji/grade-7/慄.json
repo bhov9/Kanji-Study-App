@@ -1,0 +1,579 @@
+{
+  "character": "慄",
+  "grade": 7,
+  "meanings": [
+    "fear"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "西",
+    "忙",
+    "木"
+  ],
+  "on": [
+    "リツ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ふる.える",
+      "stem": "ふる",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "おそ.れる",
+      "stem": "おそ",
+      "okurigana": "れる"
+    },
+    {
+      "sourceNotation": "おのの.く",
+      "stem": "おのの",
+      "okurigana": "く"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "慄",
+    "heading": "慄",
+    "readings": [
+      "リツ"
+    ],
+    "examples_by_reading": [
+      [
+        "慄然",
+        "戦慄"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "慄",
+      "reading": "リツ",
+      "source": "table_40_ri.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "リツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1390690/戦慄/せんりつ",
+        "1566910/慄然/りつぜん",
+        "2819430/震慄/しんりつ",
+        "2040550/戦戦慄慄/せんせんりつりつ",
+        "2040550/戦々慄々/せんせんりつりつ"
+      ]
+    },
+    {
+      "reading": "ふるえる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1366310/慄える/ふるえる"
+      ]
+    },
+    {
+      "reading": "おそれる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "おののく",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1236670/畏れ慄く/おそれおののく",
+        "1390130/慄く/おののく",
+        "1236670/恐れ慄く/おそれおののく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1390690/戦慄/せんりつ",
+    "1566910/慄然/りつぜん",
+    "1366310/慄える/ふるえる",
+    "2819430/震慄/しんりつ",
+    "1236670/畏れ慄く/おそれおののく",
+    "1366300/慄え/ふるえ",
+    "1390130/慄く/おののく",
+    "1236670/恐れ慄く/おそれおののく",
+    "2040550/戦戦慄慄/せんせんりつりつ",
+    "2040550/戦々慄々/せんせんりつりつ",
+    "1390700/戦慄く/わななく",
+    "2075910/慄き/おののき"
+  ],
+  "candidates": {
+    "1390690/戦慄/せんりつ": {
+      "id": 1390690,
+      "form": "戦慄",
+      "kana": "せんりつ",
+      "gloss": "shudder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15998,
+        19084,
+        16272,
+        10720
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "リツ": {
+          "actual": "りつ",
+          "dictionary": [
+            "リツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1566910/慄然/りつぜん": {
+      "id": 1566910,
+      "form": "慄然",
+      "kana": "りつぜん",
+      "gloss": "terrified",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        51509,
+        101758,
+        42506
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "然": 4
+      },
+      "matched": {
+        "リツ": {
+          "actual": "りつ",
+          "dictionary": [
+            "リツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1366310/慄える/ふるえる": {
+      "id": 1366310,
+      "form": "慄える",
+      "kana": "ふるえる",
+      "gloss": "to shiver",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        109455
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ふるえる": {
+          "actual": "ふる",
+          "dictionary": [
+            "ふる.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2819430/震慄/しんりつ": {
+      "id": 2819430,
+      "form": "震慄",
+      "kana": "しんりつ",
+      "gloss": "tremble",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        206516
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "震": 7
+      },
+      "matched": {
+        "リツ": {
+          "actual": "りつ",
+          "dictionary": [
+            "リツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1236670/畏れ慄く/おそれおののく": {
+      "id": 1236670,
+      "form": "畏れ慄く",
+      "kana": "おそれおののく",
+      "gloss": "to tremble with fear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        261831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "畏": 7
+      },
+      "matched": {
+        "おののく": {
+          "actual": "おのの",
+          "dictionary": [
+            "おのの.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1366300/慄え/ふるえ": {
+      "id": 1366300,
+      "form": "慄え",
+      "kana": "ふるえ",
+      "gloss": "shivering",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        168179
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1390130/慄く/おののく": {
+      "id": 1390130,
+      "form": "慄く",
+      "kana": "おののく",
+      "gloss": "to shake (from fear, cold, excitement, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        33274
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おののく": {
+          "actual": "おのの",
+          "dictionary": [
+            "おのの.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1236670/恐れ慄く/おそれおののく": {
+      "id": 1236670,
+      "form": "恐れ慄く",
+      "kana": "おそれおののく",
+      "gloss": "to tremble with fear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        71712
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恐": 7
+      },
+      "matched": {
+        "おののく": {
+          "actual": "おのの",
+          "dictionary": [
+            "おのの.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2040550/戦戦慄慄/せんせんりつりつ": {
+      "id": 2040550,
+      "form": "戦戦慄慄",
+      "kana": "せんせんりつりつ",
+      "gloss": "trembling with fear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "リツ": {
+          "actual": "りつ",
+          "dictionary": [
+            "リツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2040550/戦々慄々/せんせんりつりつ": {
+      "id": 2040550,
+      "form": "戦々慄々",
+      "kana": "せんせんりつりつ",
+      "gloss": "trembling with fear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "リツ": {
+          "actual": "りつ",
+          "dictionary": [
+            "リツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1390700/戦慄く/わななく": {
+      "id": 1390700,
+      "form": "戦慄く",
+      "kana": "わななく",
+      "gloss": "to tremble",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        37892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2075910/慄き/おののき": {
+      "id": 2075910,
+      "form": "慄き",
+      "kana": "おののき",
+      "gloss": "shudder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        99930
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1366310:慄える:ふるえる",
+      "form": "慄える",
+      "kana": "ふるえる",
+      "cue": "to shiver; to shake",
+      "ids": [
+        1366310
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 109455
+      },
+      "alternatives_by_kanji": {
+        "慄": [
+          "1390690/戦慄/せんりつ",
+          "1566910/慄然/りつぜん",
+          "2819430/震慄/しんりつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

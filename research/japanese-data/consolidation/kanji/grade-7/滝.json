@@ -1,0 +1,845 @@
+{
+  "character": "滝",
+  "grade": 7,
+  "meanings": [
+    "waterfall",
+    "rapids",
+    "cascade"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "汁",
+    "田",
+    "立",
+    "竜"
+  ],
+  "on": [
+    "ロウ",
+    "ソウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たき",
+      "stem": "たき",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "らき"
+  ],
+  "government": {
+    "kanji": "滝",
+    "heading": "滝（瀧）",
+    "readings": [
+      "たき"
+    ],
+    "examples_by_reading": [
+      [
+        "滝",
+        "滝つぼ"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "滝",
+      "reading": "たき",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "たき",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1415550/滝つぼ/たきつぼ",
+        "1415540/滝川/たきがわ",
+        "1415530/滝口/たきぐち",
+        "1415550/滝壺/たきつぼ",
+        "1415560/滝登り/たきのぼり",
+        "2845783/滝行/たきぎょう",
+        "2832462/滝汗/たきあせ",
+        "1415550/滝壷/たきつぼ",
+        "2849026/滝に打たれる/たきにうたれる",
+        "2827179/涸滝/かれたき"
+      ]
+    },
+    {
+      "reading": "ロウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "ソウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1415550/滝つぼ/たきつぼ",
+    "1415540/滝川/たきがわ",
+    "1415530/滝口/たきぐち",
+    "1415550/滝壺/たきつぼ",
+    "1415560/滝登り/たきのぼり",
+    "2845783/滝行/たきぎょう",
+    "2832462/滝汗/たきあせ",
+    "1415550/滝壷/たきつぼ",
+    "2849026/滝に打たれる/たきにうたれる",
+    "2827179/涸滝/かれたき",
+    "2827179/涸れ滝/かれたき",
+    "2827179/枯滝/かれたき",
+    "2827179/枯れ滝/かれたき",
+    "1348510/小滝/こだき",
+    "1608700/雄滝/おだき",
+    "1608620/雌滝/めだき",
+    "1608700/男滝/おだき",
+    "1608620/女滝/めだき",
+    "1415520/滝/たき",
+    "1475290/白滝/しらたき",
+    "1475290/白滝/シラタキ"
+  ],
+  "candidates": {
+    "1415550/滝つぼ/たきつぼ": {
+      "id": 1415550,
+      "form": "滝つぼ",
+      "kana": "たきつぼ",
+      "gloss": "plunge basin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        70783,
+        68729
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [
+        "たき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1415540/滝川/たきがわ": {
+      "id": 1415540,
+      "form": "滝川",
+      "kana": "たきがわ",
+      "gloss": "rapids",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12152,
+        null,
+        22895,
+        64276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "川": 1
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415530/滝口/たきぐち": {
+      "id": 1415530,
+      "form": "滝口",
+      "kana": "たきぐち",
+      "gloss": "top of a waterfall",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        45882,
+        96905
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415550/滝壺/たきつぼ": {
+      "id": 1415550,
+      "form": "滝壺",
+      "kana": "たきつぼ",
+      "gloss": "plunge basin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37110,
+        null,
+        49216
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415560/滝登り/たきのぼり": {
+      "id": 1415560,
+      "form": "滝登り",
+      "kana": "たきのぼり",
+      "gloss": "(fish) climbing (swimming) up waterfall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39641,
+        null,
+        99795
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "登": 3
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845783/滝行/たきぎょう": {
+      "id": 2845783,
+      "form": "滝行",
+      "kana": "たきぎょう",
+      "gloss": "ritual acts performed under a waterfall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        null,
+        66207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832462/滝汗/たきあせ": {
+      "id": 2832462,
+      "form": "滝汗",
+      "kana": "たきあせ",
+      "gloss": "profuse sweating",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        130964
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "汗": 7
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415550/滝壷/たきつぼ": {
+      "id": 1415550,
+      "form": "滝壷",
+      "kana": "たきつぼ",
+      "gloss": "plunge basin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        164653,
+        121695
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849026/滝に打たれる/たきにうたれる": {
+      "id": 2849026,
+      "form": "滝に打たれる",
+      "kana": "たきにうたれる",
+      "gloss": "to stand under a waterfall (as spiritual training)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        56066
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827179/涸滝/かれたき": {
+      "id": 2827179,
+      "form": "涸滝",
+      "kana": "かれたき",
+      "gloss": "dried up waterfall",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827179/涸れ滝/かれたき": {
+      "id": 2827179,
+      "form": "涸れ滝",
+      "kana": "かれたき",
+      "gloss": "dried up waterfall",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827179/枯滝/かれたき": {
+      "id": 2827179,
+      "form": "枯滝",
+      "kana": "かれたき",
+      "gloss": "dried up waterfall",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "枯": 7
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827179/枯れ滝/かれたき": {
+      "id": 2827179,
+      "form": "枯れ滝",
+      "kana": "かれたき",
+      "gloss": "dried up waterfall",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "枯": 7
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1348510/小滝/こだき": {
+      "id": 1348510,
+      "form": "小滝",
+      "kana": "こだき",
+      "gloss": "small waterfall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37846,
+        70964,
+        60579,
+        151896
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1608700/雄滝/おだき": {
+      "id": 1608700,
+      "form": "雄滝",
+      "kana": "おだき",
+      "gloss": "greater waterfall (of the two)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        57577,
+        142244,
+        294617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雄": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1608620/雌滝/めだき": {
+      "id": 1608620,
+      "form": "雌滝",
+      "kana": "めだき",
+      "gloss": "smaller waterfall (of the two)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        192767,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雌": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1608700/男滝/おだき": {
+      "id": 1608700,
+      "form": "男滝",
+      "kana": "おだき",
+      "gloss": "greater waterfall (of the two)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        166230,
+        252422
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "男": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1608620/女滝/めだき": {
+      "id": 1608620,
+      "form": "女滝",
+      "kana": "めだき",
+      "gloss": "smaller waterfall (of the two)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        167679,
+        247805
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "女": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1415520/滝/たき": {
+      "id": 1415520,
+      "form": "滝",
+      "kana": "たき",
+      "gloss": "waterfall",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        4480,
+        3216,
+        6355,
+        7792
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [
+        "たき"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1475290/白滝/しらたき": {
+      "id": 1475290,
+      "form": "白滝",
+      "kana": "しらたき",
+      "gloss": "shirataki noodles",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        32483,
+        50386,
+        98685
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "たき": {
+          "actual": "たき",
+          "dictionary": [
+            "たき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1475290/白滝/シラタキ": {
+      "id": 1475290,
+      "form": "白滝",
+      "kana": "シラタキ",
+      "gloss": "shirataki noodles",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        32483,
+        50386,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1415520:滝:たき",
+      "form": "滝",
+      "kana": "たき",
+      "cue": "waterfall",
+      "ids": [
+        1415520
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "arch"
+      ],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 7792,
+        "shiberu": 4480,
+        "tubelex": 3216,
+        "wordfreq": 6355
+      },
+      "alternatives_by_kanji": {
+        "滝": [
+          "1415550/滝つぼ/たきつぼ",
+          "1415540/滝川/たきがわ",
+          "1415530/滝口/たきぐち"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

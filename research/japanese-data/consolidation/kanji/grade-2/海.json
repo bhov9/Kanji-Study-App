@@ -1,0 +1,1574 @@
+{
+  "character": "海",
+  "grade": 2,
+  "meanings": [
+    "sea",
+    "ocean"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "汁",
+    "母",
+    "毋",
+    "乞"
+  ],
+  "on": [
+    "カイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "うみ",
+      "stem": "うみ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "あ",
+    "あま",
+    "うな",
+    "うん",
+    "え",
+    "か",
+    "た",
+    "ひろ",
+    "ひろし",
+    "ぶ",
+    "まち",
+    "まま",
+    "み",
+    "め",
+    "わたる"
+  ],
+  "government": {
+    "kanji": "海",
+    "heading": "海（海）",
+    "readings": [
+      "カイ",
+      "うみ"
+    ],
+    "examples_by_reading": [
+      [
+        "海岸",
+        "海水浴",
+        "航海"
+      ],
+      [
+        "海",
+        "海鳴り"
+      ]
+    ],
+    "note_lines": [
+      "海女・海士（あま）",
+      "海原（うなばら）"
+    ],
+    "representative_index": {
+      "kanji": "海",
+      "reading": "カイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "海女",
+        "海士"
+      ],
+      "reading": "あま",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "海原"
+      ],
+      "reading": "うなばら",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "カイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 472,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1201280/海岸/かいがん",
+        "1281250/航海/こうかい",
+        "1201520/海水浴/かいすいよく",
+        "1201260/海外/かいがい",
+        "1201600/海賊/かいぞく",
+        "1201330/海軍/かいぐん",
+        "1201490/海水/かいすい",
+        "1201460/海上/かいじょう",
+        "1201650/海底/かいてい",
+        "1201790/海洋/かいよう"
+      ]
+    },
+    {
+      "reading": "うみ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 68,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1201760/海鳴り/うみなり",
+        "1201190/海/うみ",
+        "1201750/海辺/うみべ",
+        "1201240/海沿い/うみぞい",
+        "1650280/海風/うみかぜ",
+        "1413200/大海/おおうみ",
+        "1650550/外海/そとうみ",
+        "1201830/海路/うみじ",
+        "1201580/海草/うみぐさ",
+        "1201580/海草/うみくさ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1201280/海岸/かいがん",
+    "1281250/航海/こうかい",
+    "1201760/海鳴り/うみなり",
+    "1201520/海水浴/かいすいよく",
+    "1201190/海/うみ",
+    "1201260/海外/かいがい",
+    "1201600/海賊/かいぞく",
+    "1201330/海軍/かいぐん",
+    "1201490/海水/かいすい",
+    "1201460/海上/かいじょう",
+    "1201650/海底/かいてい",
+    "1201790/海洋/かいよう",
+    "1201320/海峡/かいきょう",
+    "1201750/海辺/うみべ",
+    "1460020/南海/なんかい",
+    "1201780/海面/かいめん",
+    "1201210/海域/かいいき",
+    "1201640/海中/かいちゅう",
+    "1362710/深海/しんかい",
+    "1201730/海兵/かいへい",
+    "2423710/海鮮/かいせん",
+    "1582460/内海/ないかい",
+    "1613900/海戦/かいせん",
+    "1201240/海沿い/うみぞい",
+    "1520800/北海/ほっかい",
+    "1413200/大海/たいかい",
+    "1201590/海藻/かいそう",
+    "1201700/海抜/かいばつ",
+    "1628370/樹海/じゅかい",
+    "1613910/海道/かいどう"
+  ],
+  "candidates": {
+    "1201280/海岸/かいがん": {
+      "id": 1201280,
+      "form": "海岸",
+      "kana": "かいがん",
+      "gloss": "seashore",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1480,
+        4493,
+        4852,
+        9208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岸": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1281250/航海/こうかい": {
+      "id": 1281250,
+      "form": "航海",
+      "kana": "こうかい",
+      "gloss": "(sea) voyage",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2724,
+        11919,
+        7391,
+        20659
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "航": 5
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1201760/海鳴り/うみなり": {
+      "id": 1201760,
+      "form": "海鳴り",
+      "kana": "うみなり",
+      "gloss": "oceanic noise",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        125270,
+        73125
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鳴": 2
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "うみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1201520/海水浴/かいすいよく": {
+      "id": 1201520,
+      "form": "海水浴",
+      "kana": "かいすいよく",
+      "gloss": "swimming in the ocean",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        14937,
+        19495
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "浴": 4
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1201190/海/うみ": {
+      "id": 1201190,
+      "form": "海",
+      "kana": "うみ",
+      "gloss": "sea",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        815
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "うみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1201260/海外/かいがい": {
+      "id": 1201260,
+      "form": "海外",
+      "kana": "かいがい",
+      "gloss": "foreign",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        616,
+        899,
+        685,
+        3319
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1201600/海賊/かいぞく": {
+      "id": 1201600,
+      "form": "海賊",
+      "kana": "かいぞく",
+      "gloss": "pirate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6482,
+        5428,
+        3961,
+        14266
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賊": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1201330/海軍/かいぐん": {
+      "id": 1201330,
+      "form": "海軍",
+      "kana": "かいぐん",
+      "gloss": "navy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5334,
+        5151,
+        5555,
+        23986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軍": 4
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1201490/海水/かいすい": {
+      "id": 1201490,
+      "form": "海水",
+      "kana": "かいすい",
+      "gloss": "seawater",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3338,
+        7210,
+        11740,
+        13421
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1201460/海上/かいじょう": {
+      "id": 1201460,
+      "form": "海上",
+      "kana": "かいじょう",
+      "gloss": "(on the) sea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5346,
+        7324,
+        9023,
+        16239
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1201650/海底/かいてい": {
+      "id": 1201650,
+      "form": "海底",
+      "kana": "かいてい",
+      "gloss": "bottom of the ocean",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5778,
+        6854,
+        10707,
+        16867
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "底": 4
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201790/海洋/かいよう": {
+      "id": 1201790,
+      "form": "海洋",
+      "kana": "かいよう",
+      "gloss": "ocean",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7251,
+        7505,
+        9023,
+        32323
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "洋": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1201320/海峡/かいきょう": {
+      "id": 1201320,
+      "form": "海峡",
+      "kana": "かいきょう",
+      "gloss": "channel (e.g. between two land masses)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5261,
+        9000,
+        17251,
+        45127
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "峡": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1201750/海辺/うみべ": {
+      "id": 1201750,
+      "form": "海辺",
+      "kana": "うみべ",
+      "gloss": "beach",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5563,
+        12591,
+        15825,
+        13710
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辺": 4
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1460020/南海/なんかい": {
+      "id": 1460020,
+      "form": "南海",
+      "kana": "なんかい",
+      "gloss": "southern sea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10746,
+        7428,
+        12479,
+        46142
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "南": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201780/海面/かいめん": {
+      "id": 1201780,
+      "form": "海面",
+      "kana": "かいめん",
+      "gloss": "sea level",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6778,
+        14853,
+        22289,
+        16930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201210/海域/かいいき": {
+      "id": 1201210,
+      "form": "海域",
+      "kana": "かいいき",
+      "gloss": "area of sea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14355,
+        10474,
+        9888,
+        27967
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "域": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201640/海中/かいちゅう": {
+      "id": 1201640,
+      "form": "海中",
+      "kana": "かいちゅう",
+      "gloss": "in the sea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        6810,
+        14409,
+        23216,
+        19977
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1362710/深海/しんかい": {
+      "id": 1362710,
+      "form": "深海",
+      "kana": "しんかい",
+      "gloss": "deep sea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12776,
+        10235,
+        12275,
+        21196
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "深": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201730/海兵/かいへい": {
+      "id": 1201730,
+      "form": "海兵",
+      "kana": "かいへい",
+      "gloss": "sailor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27695,
+        17007,
+        7509,
+        67397
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2423710/海鮮/かいせん": {
+      "id": 2423710,
+      "form": "海鮮",
+      "kana": "かいせん",
+      "gloss": "seafood",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31552,
+        7898,
+        16052,
+        32828
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鮮": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1582460/内海/ないかい": {
+      "id": 1582460,
+      "form": "内海",
+      "kana": "ないかい",
+      "gloss": "inland sea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13362,
+        14777,
+        21741,
+        47506
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1613900/海戦/かいせん": {
+      "id": 1613900,
+      "form": "海戦",
+      "kana": "かいせん",
+      "gloss": "naval battle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11857,
+        16073,
+        25040,
+        48513
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201240/海沿い/うみぞい": {
+      "id": 1201240,
+      "form": "海沿い",
+      "kana": "うみぞい",
+      "gloss": "seaside",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15604,
+        13932,
+        27689,
+        22708
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "沿": 6
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1520800/北海/ほっかい": {
+      "id": 1520800,
+      "form": "北海",
+      "kana": "ほっかい",
+      "gloss": "northern sea",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11923,
+        19048,
+        24433,
+        50496
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "北": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1413200/大海/たいかい": {
+      "id": 1413200,
+      "form": "大海",
+      "kana": "たいかい",
+      "gloss": "ocean",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10672,
+        33233,
+        25040,
+        26656
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201590/海藻/かいそう": {
+      "id": 1201590,
+      "form": "海藻",
+      "kana": "かいそう",
+      "gloss": "seaweed",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26427,
+        12688,
+        23544,
+        33860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "藻": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201700/海抜/かいばつ": {
+      "id": 1201700,
+      "form": "海抜",
+      "kana": "かいばつ",
+      "gloss": "height above sea level",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11737,
+        35465,
+        29477,
+        71704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抜": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1628370/樹海/じゅかい": {
+      "id": 1628370,
+      "form": "樹海",
+      "kana": "じゅかい",
+      "gloss": "sea of trees",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19779,
+        23941,
+        30598,
+        32420
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "樹": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1613910/海道/かいどう": {
+      "id": 1613910,
+      "form": "海道",
+      "kana": "かいどう",
+      "gloss": "sea route",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15895,
+        25818,
+        36201,
+        62732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1650280/海風/うみかぜ": {
+      "id": 1650280,
+      "form": "海風",
+      "kana": "うみかぜ",
+      "gloss": "sea breeze",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17778,
+        31203,
+        32914,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1413200/大海/おおうみ": {
+      "id": 1413200,
+      "form": "大海",
+      "kana": "おおうみ",
+      "gloss": "ocean",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10672,
+        33233,
+        25040,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1650550/外海/そとうみ": {
+      "id": 1650550,
+      "form": "外海",
+      "kana": "そとうみ",
+      "gloss": "ocean",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15203,
+        68915,
+        77923,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201830/海路/うみじ": {
+      "id": 1201830,
+      "form": "海路",
+      "kana": "うみじ",
+      "gloss": "sea route",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        17660,
+        57577,
+        58194,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "路": 3
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201580/海草/うみぐさ": {
+      "id": 1201580,
+      "form": "海草",
+      "kana": "うみぐさ",
+      "gloss": "marine plant",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21331,
+        56591,
+        42493,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "草": 1
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201580/海草/うみくさ": {
+      "id": 1201580,
+      "form": "海草",
+      "kana": "うみくさ",
+      "gloss": "marine plant",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21331,
+        56591,
+        42493,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "草": 1
+      },
+      "matched": {
+        "うみ": {
+          "actual": "うみ",
+          "dictionary": [
+            "うみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1201260:海外:かいがい",
+      "form": "海外",
+      "kana": "かいがい",
+      "cue": "foreign; abroad",
+      "ids": [
+        1201260
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3319,
+        "shiberu": 616,
+        "tubelex": 899,
+        "wordfreq": 685
+      },
+      "alternatives_by_kanji": {
+        "海": [
+          "1201280/海岸/かいがん",
+          "1281250/航海/こうかい",
+          "1201760/海鳴り/うみなり"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1201280:海岸:かいがん",
+      "form": "海岸",
+      "kana": "かいがん",
+      "cue": "seashore; coast",
+      "ids": [
+        1201280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9208,
+        "shiberu": 1480,
+        "tubelex": 4493,
+        "wordfreq": 4852
+      },
+      "alternatives_by_kanji": {
+        "海": [
+          "1281250/航海/こうかい",
+          "1201760/海鳴り/うみなり",
+          "1201520/海水浴/かいすいよく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1201320:海峡:かいきょう",
+      "form": "海峡",
+      "kana": "かいきょう",
+      "cue": "channel (e.g. between two land masses); strait",
+      "ids": [
+        1201320
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 45127,
+        "shiberu": 5261,
+        "tubelex": 9000,
+        "wordfreq": 17251
+      },
+      "alternatives_by_kanji": {
+        "海": [
+          "1201280/海岸/かいがん",
+          "1281250/航海/こうかい",
+          "1201760/海鳴り/うみなり"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1201600:海賊:かいぞく",
+      "form": "海賊",
+      "kana": "かいぞく",
+      "cue": "pirate",
+      "ids": [
+        1201600
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 14266,
+        "shiberu": 6482,
+        "tubelex": 5428,
+        "wordfreq": 3961
+      },
+      "alternatives_by_kanji": {
+        "海": [
+          "1201280/海岸/かいがん",
+          "1281250/航海/こうかい",
+          "1201760/海鳴り/うみなり"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1399770:掃海:そうかい",
+      "form": "掃海",
+      "kana": "そうかい",
+      "cue": "sweeping the sea for mines; dragging for mines",
+      "ids": [
+        1399770
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 163752,
+        "tubelex": 75655,
+        "wordfreq": 52075
+      },
+      "alternatives_by_kanji": {
+        "海": [
+          "1201280/海岸/かいがん",
+          "1281250/航海/こうかい",
+          "1201760/海鳴り/うみなり"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 321
+}

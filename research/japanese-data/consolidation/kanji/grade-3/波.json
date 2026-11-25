@@ -1,0 +1,1304 @@
+{
+  "character": "波",
+  "grade": 3,
+  "meanings": [
+    "waves",
+    "billows",
+    "Poland"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "汁",
+    "皮",
+    "又"
+  ],
+  "on": [
+    "ハ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "なみ",
+      "stem": "なみ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "ひら",
+    "みな",
+    "みなみ",
+    "わ"
+  ],
+  "government": {
+    "kanji": "波",
+    "heading": "波",
+    "readings": [
+      "ハ",
+      "なみ"
+    ],
+    "examples_by_reading": [
+      [
+        "波浪",
+        "波及",
+        "電波"
+      ],
+      [
+        "波",
+        "波立つ",
+        "荒波"
+      ]
+    ],
+    "note_lines": [
+      "波止場（はとば）"
+    ],
+    "representative_index": {
+      "kanji": "波",
+      "reading": "ハ",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "波止場"
+      ],
+      "reading": "はとば",
+      "stage": "junior_high",
+      "pdf_page": 52,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ハ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 161,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1443720/電波/でんぱ",
+        "1470990/波及/はきゅう",
+        "1471100/波浪/はろう",
+        "2844141/波/は",
+        "1471080/波動/はどう",
+        "1331250/周波/しゅうは",
+        "1471060/波長/はちょう",
+        "1582930/波形/はけい",
+        "1471090/波紋/はもん",
+        "1470510/脳波/のうは"
+      ]
+    },
+    {
+      "reading": "なみ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 75,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1281610/荒波/あらなみ",
+        "1633850/波立つ/なみだつ",
+        "1470970/波/なみ",
+        "2826950/波/ぽ",
+        "1432220/津波/つなみ",
+        "5196029/岩波/いわなみ",
+        "1471040/波打つ/なみうつ",
+        "1414760/大波/おおなみ",
+        "1841330/白波/しらなみ",
+        "1283890/高波/たかなみ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1443720/電波/でんぱ",
+    "1470990/波及/はきゅう",
+    "1281610/荒波/あらなみ",
+    "1633850/波立つ/なみだつ",
+    "1471100/波浪/はろう",
+    "1470970/波/なみ",
+    "2844141/波/は",
+    "2826950/波/ぽ",
+    "1432220/津波/つなみ",
+    "1471080/波動/はどう",
+    "1331250/周波/しゅうは",
+    "1471060/波長/はちょう",
+    "1582930/波形/はけい",
+    "1471090/波紋/はもん",
+    "5196029/岩波/いわなみ",
+    "1471040/波打つ/なみうつ",
+    "1470510/脳波/のうは",
+    "1414760/大波/おおなみ",
+    "1544470/余波/よは",
+    "1841330/白波/しらなみ",
+    "1283890/高波/たかなみ",
+    "1771490/波風/なみかぜ",
+    "1625800/波状/はじょう",
+    "1368980/人波/ひとなみ",
+    "1771510/波面/はめん",
+    "1273130/光波/こうは",
+    "1624620/風波/ふうは",
+    "1734050/秋波/しゅうは",
+    "1582930/波形/なみがた",
+    "1295700/さざ波/さざなみ"
+  ],
+  "candidates": {
+    "1443720/電波/でんぱ": {
+      "id": 1443720,
+      "form": "電波",
+      "kana": "でんぱ",
+      "gloss": "radio wave",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8199,
+        4999,
+        3884,
+        6065
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "ハ": {
+          "actual": "ぱ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ハ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1470990/波及/はきゅう": {
+      "id": 1470990,
+      "form": "波及",
+      "kana": "はきゅう",
+      "gloss": "spread",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13447,
+        19084,
+        20349,
+        34491
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "及": 7
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1281610/荒波/あらなみ": {
+      "id": 1281610,
+      "form": "荒波",
+      "kana": "あらなみ",
+      "gloss": "raging waves",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18765,
+        25300,
+        29854,
+        22404
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "荒": 7
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "なみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1633850/波立つ/なみだつ": {
+      "id": 1633850,
+      "form": "波立つ",
+      "kana": "なみだつ",
+      "gloss": "to be choppy (of waves)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17811,
+        43098,
+        121853,
+        25539
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "なみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1471100/波浪/はろう": {
+      "id": 1471100,
+      "form": "波浪",
+      "kana": "はろう",
+      "gloss": "waves",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32874,
+        70964,
+        45339,
+        90579
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "浪": 7
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1470970/波/なみ": {
+      "id": 1470970,
+      "form": "波",
+      "kana": "なみ",
+      "gloss": "wave",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2374
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "なみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2844141/波/は": {
+      "id": 2844141,
+      "form": "波",
+      "kana": "は",
+      "gloss": "counter for waves (of a repeated occurrence)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60713
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [
+        "なみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2826950/波/ぽ": {
+      "id": 2826950,
+      "form": "波",
+      "kana": "ぽ",
+      "gloss": "Poland",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "なみ": {
+          "actual": "ぽ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "なみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1432220/津波/つなみ": {
+      "id": 1432220,
+      "form": "津波",
+      "kana": "つなみ",
+      "gloss": "tsunami",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4224,
+        4338,
+        6779,
+        18712
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "津": 7
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1471080/波動/はどう": {
+      "id": 1471080,
+      "form": "波動",
+      "kana": "はどう",
+      "gloss": "wave motion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        13341,
+        3990,
+        12695,
+        14104
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "動": 3
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1331250/周波/しゅうは": {
+      "id": 1331250,
+      "form": "周波",
+      "kana": "しゅうは",
+      "gloss": "cycle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26977,
+        4580,
+        25402,
+        77700
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "周": 4
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1471060/波長/はちょう": {
+      "id": 1471060,
+      "form": "波長",
+      "kana": "はちょう",
+      "gloss": "wavelength",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11300,
+        10464,
+        15595,
+        21725
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1582930/波形/はけい": {
+      "id": 1582930,
+      "form": "波形",
+      "kana": "はけい",
+      "gloss": "wavy form",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18008,
+        6809,
+        20349,
+        39319
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "形": 2
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1471090/波紋/はもん": {
+      "id": 1471090,
+      "form": "波紋",
+      "kana": "はもん",
+      "gloss": "ripple",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10777,
+        15219,
+        19315,
+        14819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紋": 7
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5196029/岩波/いわなみ": {
+      "id": 5196029,
+      "form": "岩波",
+      "kana": "いわなみ",
+      "gloss": "Iwanami (publisher)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7528,
+        37400,
+        20096,
+        68764
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岩": 2
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1471040/波打つ/なみうつ": {
+      "id": 1471040,
+      "form": "波打つ",
+      "kana": "なみうつ",
+      "gloss": "to dash against (of waves)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13033,
+        17547,
+        60579,
+        9717
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1470510/脳波/のうは": {
+      "id": 1470510,
+      "form": "脳波",
+      "kana": "のうは",
+      "gloss": "brain waves",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17800,
+        19278,
+        21173,
+        26459
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脳": 6
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1414760/大波/おおなみ": {
+      "id": 1414760,
+      "form": "大波",
+      "kana": "おおなみ",
+      "gloss": "billow",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14900,
+        35749,
+        38431,
+        28890
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1544470/余波/よは": {
+      "id": 1544470,
+      "form": "余波",
+      "kana": "よは",
+      "gloss": "waves that remain after the wind has subsided",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23615,
+        26925,
+        33710,
+        18734
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "余": 5
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1841330/白波/しらなみ": {
+      "id": 1841330,
+      "form": "白波",
+      "kana": "しらなみ",
+      "gloss": "whitecaps",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21391,
+        41067,
+        53182,
+        48989
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1283890/高波/たかなみ": {
+      "id": 1283890,
+      "form": "高波",
+      "kana": "たかなみ",
+      "gloss": "high waves",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29059,
+        42628,
+        33270,
+        43214
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771490/波風/なみかぜ": {
+      "id": 1771490,
+      "form": "波風",
+      "kana": "なみかぜ",
+      "gloss": "wind and waves",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38445,
+        38931,
+        39319,
+        26702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625800/波状/はじょう": {
+      "id": 1625800,
+      "form": "波状",
+      "kana": "はじょう",
+      "gloss": "wavelike",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        33824,
+        37110,
+        52621,
+        65754
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1368980/人波/ひとなみ": {
+      "id": 1368980,
+      "form": "人波",
+      "kana": "ひとなみ",
+      "gloss": "surging crowd",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28666,
+        53060,
+        88816,
+        23903
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771510/波面/はめん": {
+      "id": 1771510,
+      "form": "波面",
+      "kana": "はめん",
+      "gloss": "wave surface",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19353,
+        62423,
+        127540,
+        147178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1273130/光波/こうは": {
+      "id": 1273130,
+      "form": "光波",
+      "kana": "こうは",
+      "gloss": "light waves",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25230,
+        61110,
+        93840,
+        84956
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "光": 2
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1624620/風波/ふうは": {
+      "id": 1624620,
+      "form": "風波",
+      "kana": "ふうは",
+      "gloss": "wind and waves",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24404,
+        81652,
+        108425,
+        115749
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1734050/秋波/しゅうは": {
+      "id": 1734050,
+      "form": "秋波",
+      "kana": "しゅうは",
+      "gloss": "amorous glance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39629,
+        139593,
+        148871,
+        115085
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秋": 2
+      },
+      "matched": {
+        "ハ": {
+          "actual": "は",
+          "dictionary": [
+            "ハ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1582930/波形/なみがた": {
+      "id": 1582930,
+      "form": "波形",
+      "kana": "なみがた",
+      "gloss": "wavy form",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18008,
+        6809,
+        20349,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "形": 2
+      },
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1295700/さざ波/さざなみ": {
+      "id": 1295700,
+      "form": "さざ波",
+      "kana": "さざなみ",
+      "gloss": "ripple (on water)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18871,
+        null,
+        60579,
+        23426
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なみ": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1432220:津波:つなみ",
+      "form": "津波",
+      "kana": "つなみ",
+      "cue": "tsunami; tidal wave",
+      "ids": [
+        1432220
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18712,
+        "shiberu": 4224,
+        "tubelex": 4338,
+        "wordfreq": 6779
+      },
+      "alternatives_by_kanji": {
+        "波": [
+          "1443720/電波/でんぱ",
+          "1470990/波及/はきゅう",
+          "1281610/荒波/あらなみ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1470970:波:なみ",
+      "form": "波",
+      "kana": "なみ",
+      "cue": "wave; billow",
+      "ids": [
+        1470970
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2374,
+        "shiberu": 907,
+        "tubelex": 1254,
+        "wordfreq": 2625
+      },
+      "alternatives_by_kanji": {
+        "波": [
+          "1443720/電波/でんぱ",
+          "1470990/波及/はきゅう",
+          "1281610/荒波/あらなみ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1471090:波紋:はもん",
+      "form": "波紋",
+      "kana": "はもん",
+      "cue": "ripple; ring on the water",
+      "ids": [
+        1471090
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 14819,
+        "shiberu": 10777,
+        "tubelex": 15219,
+        "wordfreq": 19315
+      },
+      "alternatives_by_kanji": {
+        "波": [
+          "1443720/電波/でんぱ",
+          "1470990/波及/はきゅう",
+          "1281610/荒波/あらなみ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 145
+}

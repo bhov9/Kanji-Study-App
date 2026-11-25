@@ -1,0 +1,568 @@
+{
+  "character": "愉",
+  "grade": 7,
+  "meanings": [
+    "pleasure",
+    "happy",
+    "rejoice"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "刈",
+    "月",
+    "忙",
+    "个",
+    "一"
+  ],
+  "on": [
+    "ユ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たの.しい",
+      "stem": "たの",
+      "okurigana": "しい"
+    },
+    {
+      "sourceNotation": "たの.しむ",
+      "stem": "たの",
+      "okurigana": "しむ"
+    }
+  ],
+  "nanori": [
+    "ゆう"
+  ],
+  "government": {
+    "kanji": "愉",
+    "heading": "愉",
+    "readings": [
+      "ユ"
+    ],
+    "examples_by_reading": [
+      [
+        "愉快",
+        "愉悦"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "愉",
+      "reading": "ユ",
+      "source": "table_37_yu.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ユ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1538560/愉快/ゆかい",
+        "1653260/愉悦/ゆえつ",
+        "1538570/愉楽/ゆらく",
+        "1495160/不愉快/ふゆかい",
+        "1947770/愉快犯/ゆかいはん",
+        "5745073/愉快な牧場/ゆかいなぼくじょう",
+        "1914120/愉色/ゆしょく"
+      ]
+    },
+    {
+      "reading": "たのしい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1207240/愉しい/たのしい"
+      ]
+    },
+    {
+      "reading": "たのしむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1207270/愉しむ/たのしむ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1538560/愉快/ゆかい",
+    "1653260/愉悦/ゆえつ",
+    "1538570/愉楽/ゆらく",
+    "1495160/不愉快/ふゆかい",
+    "1947770/愉快犯/ゆかいはん",
+    "5745073/愉快な牧場/ゆかいなぼくじょう",
+    "1597140/愉しげ/たのしげ",
+    "2872429/愉しがる/たのしがる",
+    "1207240/愉しい/たのしい",
+    "1207270/愉しむ/たのしむ",
+    "1914120/愉色/ゆしょく",
+    "1207250/愉しみ/たのしみ"
+  ],
+  "candidates": {
+    "1538560/愉快/ゆかい": {
+      "id": 1538560,
+      "form": "愉快",
+      "kana": "ゆかい",
+      "gloss": "pleasant",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3226,
+        8610,
+        10540,
+        5005
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "快": 5
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ユ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1653260/愉悦/ゆえつ": {
+      "id": 1653260,
+      "form": "愉悦",
+      "kana": "ゆえつ",
+      "gloss": "joy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        60579,
+        17751
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悦": 7
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ユ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1538570/愉楽/ゆらく": {
+      "id": 1538570,
+      "form": "愉楽",
+      "kana": "ゆらく",
+      "gloss": "pleasure",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        118546,
+        97004
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "楽": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1495160/不愉快/ふゆかい": {
+      "id": 1495160,
+      "form": "不愉快",
+      "kana": "ふゆかい",
+      "gloss": "unpleasant",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        9888,
+        5714
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "快": 5,
+        "不": 4
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1947770/愉快犯/ゆかいはん": {
+      "id": 1947770,
+      "form": "愉快犯",
+      "kana": "ゆかいはん",
+      "gloss": "crime committed for fun",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37864
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "快": 5,
+        "犯": 5
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5745073/愉快な牧場/ゆかいなぼくじょう": {
+      "id": 5745073,
+      "form": "愉快な牧場",
+      "kana": "ゆかいなぼくじょう",
+      "gloss": "Old MacDonald Had a Farm (children's song)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "快": 5,
+        "牧": 4,
+        "場": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597140/愉しげ/たのしげ": {
+      "id": 1597140,
+      "form": "愉しげ",
+      "kana": "たのしげ",
+      "gloss": "happy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        47020
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2872429/愉しがる/たのしがる": {
+      "id": 2872429,
+      "form": "愉しがる",
+      "kana": "たのしがる",
+      "gloss": "to seem to enjoy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1207240/愉しい/たのしい": {
+      "id": 1207240,
+      "form": "愉しい",
+      "kana": "たのしい",
+      "gloss": "enjoyable",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        26150,
+        null,
+        66155,
+        29490
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たのしい": {
+          "actual": "たの",
+          "dictionary": [
+            "たの.しい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1207270/愉しむ/たのしむ": {
+      "id": 1207270,
+      "form": "愉しむ",
+      "kana": "たのしむ",
+      "gloss": "to enjoy",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [
+        "dated",
+        "rK"
+      ],
+      "ranks": [
+        33422,
+        null,
+        null,
+        20946
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たのしむ": {
+          "actual": "たの",
+          "dictionary": [
+            "たの.しむ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1914120/愉色/ゆしょく": {
+      "id": 1914120,
+      "form": "愉色",
+      "kana": "ゆしょく",
+      "gloss": "cheerful expression",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        173792,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1207250/愉しみ/たのしみ": {
+      "id": 1207250,
+      "form": "愉しみ",
+      "kana": "たのしみ",
+      "gloss": "enjoyment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        33421,
+        null,
+        null,
+        43179
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1207250:愉しみ:たのしみ",
+      "form": "愉しみ",
+      "kana": "たのしみ",
+      "cue": "enjoyment; pleasure",
+      "ids": [
+        1207250
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 43179,
+        "shiberu": 33421
+      },
+      "alternatives_by_kanji": {
+        "愉": [
+          "1538560/愉快/ゆかい",
+          "1653260/愉悦/ゆえつ",
+          "1538570/愉楽/ゆらく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

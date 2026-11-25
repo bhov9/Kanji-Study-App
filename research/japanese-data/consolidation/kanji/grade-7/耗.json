@@ -1,0 +1,996 @@
+{
+  "character": "耗",
+  "grade": 7,
+  "meanings": [
+    "decrease"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 127
+    }
+  ],
+  "components": [
+    "｜",
+    "士",
+    "ハ",
+    "毛",
+    "木",
+    "耒",
+    "ノ"
+  ],
+  "on": [
+    "モウ",
+    "コウ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "耗",
+    "heading": "耗",
+    "readings": [
+      "モウ",
+      "コウ"
+    ],
+    "examples_by_reading": [
+      [
+        "消耗"
+      ],
+      [
+        "心神耗弱"
+      ]
+    ],
+    "note_lines": [
+      "「モウ」は，慣用音。"
+    ],
+    "representative_index": {
+      "kanji": "耗",
+      "reading": "モウ",
+      "source": "table_35_mo.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "モウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 13,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1580310/消耗/しょうもう",
+        "1604200/摩耗/まもう",
+        "1406800/損耗/そんもう",
+        "1625210/減耗/げんもう",
+        "1604200/磨耗/まもう",
+        "1350400/消耗品/しょうもうひん",
+        "1743190/消耗戦/しょうもうせん",
+        "2858657/耐摩耗性/たいまもうせい",
+        "1350410/消耗品費/しょうもうひんひ",
+        "1372600/衰耗/すいもう"
+      ]
+    },
+    {
+      "reading": "コウ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1580310/消耗/しょうこう",
+        "1360730/心神耗弱/しんしんこうじゃく",
+        "1406800/損耗/そんこう",
+        "1625210/減耗/げんこう",
+        "1360740/心神耗弱者/しんしんこうじゃくしゃ",
+        "1350390/消耗的/しょうこうてき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1580310/消耗/しょうもう",
+    "1580310/消耗/しょうこう",
+    "1360730/心神耗弱/しんしんこうじゃく",
+    "1604200/摩耗/まもう",
+    "1406800/損耗/そんもう",
+    "1625210/減耗/げんもう",
+    "1406800/損耗/そんこう",
+    "1604200/磨耗/まもう",
+    "1625210/減耗/げんこう",
+    "1350400/消耗品/しょうもうひん",
+    "1743190/消耗戦/しょうもうせん",
+    "2858657/耐摩耗性/たいまもうせい",
+    "1350410/消耗品費/しょうもうひんひ",
+    "1372600/衰耗/すいもう",
+    "1360740/心神耗弱者/しんしんこうじゃくしゃ",
+    "1350390/消耗的/しょうもうてき",
+    "2866016/咬耗/こうもう",
+    "1406810/損耗人員/そんもうじんいん",
+    "2866018/咬耗症/こうもうしょう",
+    "1350390/消耗的/しょうこうてき",
+    "2854589/自然損耗/しぜんそんもう",
+    "2202430/石油減耗/せきゆげんもう",
+    "2860558/慢性消耗病/まんせいしょうもうびょう"
+  ],
+  "candidates": {
+    "1580310/消耗/しょうもう": {
+      "id": 1580310,
+      "form": "消耗",
+      "kana": "しょうもう",
+      "gloss": "exhaustion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15442,
+        7021,
+        8882,
+        5890
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "消": 3
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "モウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1580310/消耗/しょうこう": {
+      "id": 1580310,
+      "form": "消耗",
+      "kana": "しょうこう",
+      "gloss": "exhaustion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15442,
+        7021,
+        8882,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "消": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "モウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1360730/心神耗弱/しんしんこうじゃく": {
+      "id": 1360730,
+      "form": "心神耗弱",
+      "kana": "しんしんこうじゃく",
+      "gloss": "diminished capacity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        135895,
+        108155
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弱": 2,
+        "心": 2,
+        "神": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1604200/摩耗/まもう": {
+      "id": 1604200,
+      "form": "摩耗",
+      "kana": "まもう",
+      "gloss": "wear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        16927,
+        29854,
+        30450
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "摩": 7
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1406800/損耗/そんもう": {
+      "id": 1406800,
+      "form": "損耗",
+      "kana": "そんもう",
+      "gloss": "wear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        35006,
+        68819,
+        39636
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "損": 5
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625210/減耗/げんもう": {
+      "id": 1625210,
+      "form": "減耗",
+      "kana": "げんもう",
+      "gloss": "natural decrease",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        142244,
+        176224
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "減": 5
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1406800/損耗/そんこう": {
+      "id": 1406800,
+      "form": "損耗",
+      "kana": "そんこう",
+      "gloss": "wear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        35006,
+        68819,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "損": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1604200/磨耗/まもう": {
+      "id": 1604200,
+      "form": "磨耗",
+      "kana": "まもう",
+      "gloss": "wear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        43420,
+        62479
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "磨": 7
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625210/減耗/げんこう": {
+      "id": 1625210,
+      "form": "減耗",
+      "kana": "げんこう",
+      "gloss": "natural decrease",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        142244,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "減": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1350400/消耗品/しょうもうひん": {
+      "id": 1350400,
+      "form": "消耗品",
+      "kana": "しょうもうひん",
+      "gloss": "consumable goods",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24850
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "品": 3,
+        "消": 3
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1743190/消耗戦/しょうもうせん": {
+      "id": 1743190,
+      "form": "消耗戦",
+      "kana": "しょうもうせん",
+      "gloss": "war of attrition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        39986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4,
+        "消": 3
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858657/耐摩耗性/たいまもうせい": {
+      "id": 2858657,
+      "form": "耐摩耗性",
+      "kana": "たいまもうせい",
+      "gloss": "abrasion resistance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        209954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5,
+        "耐": 7,
+        "摩": 7
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1350410/消耗品費/しょうもうひんひ": {
+      "id": 1350410,
+      "form": "消耗品費",
+      "kana": "しょうもうひんひ",
+      "gloss": "expenses for consumable goods",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        219495
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "費": 5,
+        "品": 3,
+        "消": 3
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1372600/衰耗/すいもう": {
+      "id": 1372600,
+      "form": "衰耗",
+      "kana": "すいもう",
+      "gloss": "weaken and decline",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        232989
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "衰": 7
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1360740/心神耗弱者/しんしんこうじゃくしゃ": {
+      "id": 1360740,
+      "form": "心神耗弱者",
+      "kana": "しんしんこうじゃくしゃ",
+      "gloss": "person of diminished capacity (e.g. drugs, alcohol, mental retardation, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236626
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弱": 2,
+        "心": 2,
+        "者": 3,
+        "神": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1350390/消耗的/しょうもうてき": {
+      "id": 1350390,
+      "form": "消耗的",
+      "kana": "しょうもうてき",
+      "gloss": "exhaustive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "消": 3
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866016/咬耗/こうもう": {
+      "id": 2866016,
+      "form": "咬耗",
+      "kana": "こうもう",
+      "gloss": "attrition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        289602
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1406810/損耗人員/そんもうじんいん": {
+      "id": 1406810,
+      "form": "損耗人員",
+      "kana": "そんもうじんいん",
+      "gloss": "casualty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "損": 5,
+        "員": 3
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866018/咬耗症/こうもうしょう": {
+      "id": 2866018,
+      "form": "咬耗症",
+      "kana": "こうもうしょう",
+      "gloss": "attrition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "症": 7
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1350390/消耗的/しょうこうてき": {
+      "id": 1350390,
+      "form": "消耗的",
+      "kana": "しょうこうてき",
+      "gloss": "exhaustive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "的": 4,
+        "消": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854589/自然損耗/しぜんそんもう": {
+      "id": 2854589,
+      "form": "自然損耗",
+      "kana": "しぜんそんもう",
+      "gloss": "normal wear and tear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "自": 2,
+        "損": 5,
+        "然": 4
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2202430/石油減耗/せきゆげんもう": {
+      "id": 2202430,
+      "form": "石油減耗",
+      "kana": "せきゆげんもう",
+      "gloss": "oil depletion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "減": 5,
+        "油": 3,
+        "石": 1
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860558/慢性消耗病/まんせいしょうもうびょう": {
+      "id": 2860558,
+      "form": "慢性消耗病",
+      "kana": "まんせいしょうもうびょう",
+      "gloss": "chronic wasting disease",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "慢": 7,
+        "性": 5,
+        "病": 3,
+        "消": 3
+      },
+      "matched": {
+        "モウ": {
+          "actual": "もう",
+          "dictionary": [
+            "モウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1580310:消耗:しょうもう",
+      "form": "消耗",
+      "kana": "しょうもう",
+      "cue": "exhaustion; consumption",
+      "ids": [
+        1580310
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5890,
+        "shiberu": 15442,
+        "tubelex": 7021,
+        "wordfreq": 8882
+      },
+      "alternatives_by_kanji": {
+        "消": [
+          "1350040/消える/きえる",
+          "1350110/消す/けす",
+          "1350380/消滅/しょうめつ"
+        ],
+        "耗": [
+          "1360730/心神耗弱/しんしんこうじゃく",
+          "1604200/摩耗/まもう",
+          "1406800/損耗/そんもう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

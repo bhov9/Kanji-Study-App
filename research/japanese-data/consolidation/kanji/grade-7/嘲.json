@@ -1,0 +1,669 @@
+{
+  "character": "嘲",
+  "grade": 7,
+  "meanings": [
+    "ridicule",
+    "insult"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    }
+  ],
+  "components": [
+    "月",
+    "口",
+    "十",
+    "日"
+  ],
+  "on": [
+    "チョウ",
+    "トウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あざけ.る",
+      "stem": "あざけ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "嘲",
+    "heading": "嘲",
+    "readings": [
+      "チョウ",
+      "あざける"
+    ],
+    "examples_by_reading": [
+      [
+        "嘲笑",
+        "自嘲"
+      ],
+      [
+        "嘲る"
+      ]
+    ],
+    "note_lines": [
+      "＊［（付）第２の３参照］"
+    ],
+    "representative_index": {
+      "kanji": "嘲",
+      "reading": "チョウ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チョウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1565600/嘲笑/ちょうしょう",
+        "1318920/自嘲/じちょう",
+        "1742880/嘲弄/ちょうろう",
+        "1742890/嘲罵/ちょうば",
+        "2850231/自嘲的/じちょうてき",
+        "2054460/揶揄嘲笑/やゆちょうしょう",
+        "1557330/冷嘲/れいちょう"
+      ]
+    },
+    {
+      "reading": "あざける",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1565590/嘲る/あざける"
+      ]
+    },
+    {
+      "reading": "トウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1565600/嘲笑/ちょうしょう",
+    "1318920/自嘲/じちょう",
+    "1565590/嘲る/あざける",
+    "1742880/嘲弄/ちょうろう",
+    "1742890/嘲罵/ちょうば",
+    "2850231/自嘲的/じちょうてき",
+    "2054460/揶揄嘲笑/やゆちょうしょう",
+    "1565570/嘲り/あざけり",
+    "1565580/嘲り笑う/あざけりわらう",
+    "1565610/嘲笑う/あざわらう",
+    "2454130/嘲笑い/せせらわらい",
+    "1565610/嘲う/あざわらう",
+    "1565590/嘲ける/あざける",
+    "1565570/嘲けり/あざけり",
+    "1557330/冷嘲/れいちょう",
+    "2831380/嘲笑う/せせらわらう"
+  ],
+  "candidates": {
+    "1565600/嘲笑/ちょうしょう": {
+      "id": 1565600,
+      "form": "嘲笑",
+      "kana": "ちょうしょう",
+      "gloss": "scornful laughter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8837,
+        22063,
+        21741,
+        11068
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "笑": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1318920/自嘲/じちょう": {
+      "id": 1318920,
+      "form": "自嘲",
+      "kana": "じちょう",
+      "gloss": "self-deprecation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        24707,
+        46460,
+        55378,
+        8818
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1565590/嘲る/あざける": {
+      "id": 1565590,
+      "form": "嘲る",
+      "kana": "あざける",
+      "gloss": "to scoff",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        24593,
+        26476,
+        101758,
+        18901
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あざける": {
+          "actual": "あざけ",
+          "dictionary": [
+            "あざけ.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "あざける"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1742880/嘲弄/ちょうろう": {
+      "id": 1742880,
+      "form": "嘲弄",
+      "kana": "ちょうろう",
+      "gloss": "scorn",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        128722,
+        47691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弄": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1742890/嘲罵/ちょうば": {
+      "id": 1742890,
+      "form": "嘲罵",
+      "kana": "ちょうば",
+      "gloss": "(verbal) abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        115844
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罵": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2850231/自嘲的/じちょうてき": {
+      "id": 2850231,
+      "form": "自嘲的",
+      "kana": "じちょうてき",
+      "gloss": "self-deprecating",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        38558
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "的": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2054460/揶揄嘲笑/やゆちょうしょう": {
+      "id": 2054460,
+      "form": "揶揄嘲笑",
+      "kana": "やゆちょうしょう",
+      "gloss": "ridicule and sneering",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "笑": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1565570/嘲り/あざけり": {
+      "id": 1565570,
+      "form": "嘲り",
+      "kana": "あざけり",
+      "gloss": "ridicule",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        64910,
+        25481
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1565580/嘲り笑う/あざけりわらう": {
+      "id": 1565580,
+      "form": "嘲り笑う",
+      "kana": "あざけりわらう",
+      "gloss": "to laugh at someone scornfully",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        null,
+        64119
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "笑": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1565610/嘲笑う/あざわらう": {
+      "id": 1565610,
+      "form": "嘲笑う",
+      "kana": "あざわらう",
+      "gloss": "to laugh at",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        12961
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "笑": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2454130/嘲笑い/せせらわらい": {
+      "id": 2454130,
+      "form": "嘲笑い",
+      "kana": "せせらわらい",
+      "gloss": "sardonic laugh",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        116428,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "笑": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1565610/嘲う/あざわらう": {
+      "id": 1565610,
+      "form": "嘲う",
+      "kana": "あざわらう",
+      "gloss": "to laugh at",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        54223
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1565590/嘲ける/あざける": {
+      "id": 1565590,
+      "form": "嘲ける",
+      "kana": "あざける",
+      "gloss": "to scoff",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        109587
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1565570/嘲けり/あざけり": {
+      "id": 1565570,
+      "form": "嘲けり",
+      "kana": "あざけり",
+      "gloss": "ridicule",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1557330/冷嘲/れいちょう": {
+      "id": 1557330,
+      "form": "冷嘲",
+      "kana": "れいちょう",
+      "gloss": "sneer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        197950
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "冷": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2831380/嘲笑う/せせらわらう": {
+      "id": 2831380,
+      "form": "嘲笑う",
+      "kana": "せせらわらう",
+      "gloss": "to laugh mockingly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "笑": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1565590:嘲る:あざける",
+      "form": "嘲る",
+      "kana": "あざける",
+      "cue": "to scoff; to laugh at",
+      "ids": [
+        1565590
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18901,
+        "shiberu": 24593,
+        "tubelex": 26476,
+        "wordfreq": 101758
+      },
+      "alternatives_by_kanji": {
+        "嘲": [
+          "1565600/嘲笑/ちょうしょう",
+          "1318920/自嘲/じちょう",
+          "1742880/嘲弄/ちょうろう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

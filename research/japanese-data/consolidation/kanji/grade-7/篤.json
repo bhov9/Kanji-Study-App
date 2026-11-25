@@ -1,0 +1,957 @@
+{
+  "character": "篤",
+  "grade": 7,
+  "meanings": [
+    "fervent",
+    "kind",
+    "cordial",
+    "serious",
+    "deliberate"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 118
+    }
+  ],
+  "components": [
+    "竹",
+    "杰",
+    "馬",
+    "乞"
+  ],
+  "on": [
+    "トク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あつ.い",
+      "stem": "あつ",
+      "okurigana": "い"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "篤",
+    "heading": "篤",
+    "readings": [
+      "トク"
+    ],
+    "examples_by_reading": [
+      [
+        "篤農",
+        "危篤",
+        "懇篤"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "篤",
+      "reading": "トク",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "トク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 15,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1218680/危篤/きとく",
+        "1289920/懇篤/こんとく",
+        "1717300/篤志/とくし",
+        "1336610/重篤/じゅうとく",
+        "1655610/篤実/とくじつ",
+        "1655620/篤信/とくしん",
+        "1990270/危篤状態/きとくじょうたい",
+        "1455480/篤志家/とくしか",
+        "2030180/温厚篤実/おんこうとくじつ",
+        "1455460/篤学/とくがく"
+      ]
+    },
+    {
+      "reading": "あつい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1275320/篤い/あつい",
+        "1913370/病が篤い/やまいがあつい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1218680/危篤/きとく",
+    "1289920/懇篤/こんとく",
+    "1717300/篤志/とくし",
+    "1336610/重篤/じゅうとく",
+    "1275320/篤い/あつい",
+    "1655610/篤実/とくじつ",
+    "1655620/篤信/とくしん",
+    "1990270/危篤状態/きとくじょうたい",
+    "1455480/篤志家/とくしか",
+    "2030180/温厚篤実/おんこうとくじつ",
+    "1455460/篤学/とくがく",
+    "1913370/病が篤い/やまいがあつい",
+    "1455490/篤農家/とくのうか",
+    "1897340/篤学の士/とくがくのし",
+    "2869998/重篤気分調節症/じゅうとくきぶんちょうせつしょう",
+    "5746050/篤姫/あつひめ",
+    "2808610/篤厚/とっこう",
+    "1455470/篤行/とっこう",
+    "1717310/篤農/とくのう",
+    "2009100/篤と/とくと",
+    "2829357/篤疾/とくしつ",
+    "1289920/悃篤/こんとく",
+    "1071060/士篤恒/ストックホルム"
+  ],
+  "candidates": {
+    "1218680/危篤/きとく": {
+      "id": 1218680,
+      "form": "危篤",
+      "kana": "きとく",
+      "gloss": "critical condition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12058,
+        36842,
+        34111,
+        37554
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "危": 6
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [
+        "トク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1289920/懇篤/こんとく": {
+      "id": 1289920,
+      "form": "懇篤",
+      "kana": "こんとく",
+      "gloss": "cordial",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169270
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "懇": 7
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [
+        "トク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1717300/篤志/とくし": {
+      "id": 1717300,
+      "form": "篤志",
+      "kana": "とくし",
+      "gloss": "charity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35757,
+        62423,
+        38864,
+        108914
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "志": 5
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1336610/重篤/じゅうとく": {
+      "id": 1336610,
+      "form": "重篤",
+      "kana": "じゅうとく",
+      "gloss": "critical (condition)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30727,
+        18572,
+        null,
+        37967
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "重": 3
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1275320/篤い/あつい": {
+      "id": 1275320,
+      "form": "篤い",
+      "kana": "あつい",
+      "gloss": "kind",
+      "senses": [
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        22182,
+        null,
+        76428,
+        35384
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あつい": {
+          "actual": "あつ",
+          "dictionary": [
+            "あつ.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655610/篤実/とくじつ": {
+      "id": 1655610,
+      "form": "篤実",
+      "kana": "とくじつ",
+      "gloss": "sincerity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        160131,
+        95711
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655620/篤信/とくしん": {
+      "id": 1655620,
+      "form": "篤信",
+      "kana": "とくしん",
+      "gloss": "devoutness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        199909,
+        157003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "信": 4
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1990270/危篤状態/きとくじょうたい": {
+      "id": 1990270,
+      "form": "危篤状態",
+      "kana": "きとくじょうたい",
+      "gloss": "critical condition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        59872
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5,
+        "危": 6,
+        "態": 5
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1455480/篤志家/とくしか": {
+      "id": 1455480,
+      "form": "篤志家",
+      "kana": "とくしか",
+      "gloss": "charitable person",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        87380
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2,
+        "志": 5
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2030180/温厚篤実/おんこうとくじつ": {
+      "id": 2030180,
+      "form": "温厚篤実",
+      "kana": "おんこうとくじつ",
+      "gloss": "having a gentle and sincere personality",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        128241
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3,
+        "温": 3,
+        "厚": 5
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1455460/篤学/とくがく": {
+      "id": 1455460,
+      "form": "篤学",
+      "kana": "とくがく",
+      "gloss": "love of learning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        179107
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1913370/病が篤い/やまいがあつい": {
+      "id": 1913370,
+      "form": "病が篤い",
+      "kana": "やまいがあつい",
+      "gloss": "seriously ill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        198301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "病": 3
+      },
+      "matched": {
+        "あつい": {
+          "actual": "あつ",
+          "dictionary": [
+            "あつ.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1455490/篤農家/とくのうか": {
+      "id": 1455490,
+      "form": "篤農家",
+      "kana": "とくのうか",
+      "gloss": "exemplary farmer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        237648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "家": 2
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1897340/篤学の士/とくがくのし": {
+      "id": 1897340,
+      "form": "篤学の士",
+      "kana": "とくがくのし",
+      "gloss": "devoted scholar",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        239196
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5,
+        "学": 1
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2869998/重篤気分調節症/じゅうとくきぶんちょうせつしょう": {
+      "id": 2869998,
+      "form": "重篤気分調節症",
+      "kana": "じゅうとくきぶんちょうせつしょう",
+      "gloss": "disruptive mood dysregulation disorder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "分": 2,
+        "重": 3,
+        "気": 1,
+        "調": 3,
+        "症": 7,
+        "節": 4
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5746050/篤姫/あつひめ": {
+      "id": 5746050,
+      "form": "篤姫",
+      "kana": "あつひめ",
+      "gloss": "Atsuhime (TV series)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        153865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "姫": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2808610/篤厚/とっこう": {
+      "id": 2808610,
+      "form": "篤厚",
+      "kana": "とっこう",
+      "gloss": "helpful and sincere",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        246822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "厚": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1455470/篤行/とっこう": {
+      "id": 1455470,
+      "form": "篤行",
+      "kana": "とっこう",
+      "gloss": "virtuous conduct",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        264433
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1717310/篤農/とくのう": {
+      "id": 1717310,
+      "form": "篤農",
+      "kana": "とくのう",
+      "gloss": "exemplary farmer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        173792,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [
+        "トク"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2009100/篤と/とくと": {
+      "id": 2009100,
+      "form": "篤と",
+      "kana": "とくと",
+      "gloss": "carefully",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        18263,
+        121853,
+        93172
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2829357/篤疾/とくしつ": {
+      "id": 2829357,
+      "form": "篤疾",
+      "kana": "とくしつ",
+      "gloss": "serious illness",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "疾": 7
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1289920/悃篤/こんとく": {
+      "id": 1289920,
+      "form": "悃篤",
+      "kana": "こんとく",
+      "gloss": "cordial",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1071060/士篤恒/ストックホルム": {
+      "id": 1071060,
+      "form": "士篤恒",
+      "kana": "ストックホルム",
+      "gloss": "Stockholm (Sweden)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "士": 5,
+        "恒": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1218680:危篤:きとく",
+      "form": "危篤",
+      "kana": "きとく",
+      "cue": "critical condition; being on the verge of death",
+      "ids": [
+        1218680
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 37554,
+        "shiberu": 12058,
+        "tubelex": 36842,
+        "wordfreq": 34111
+      },
+      "alternatives_by_kanji": {
+        "危": [
+          "1218560/危険/きけん",
+          "1218380/危ない/あぶない",
+          "1218360/危うい/あやうい"
+        ],
+        "篤": [
+          "1289920/懇篤/こんとく",
+          "1717300/篤志/とくし",
+          "1336610/重篤/じゅうとく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

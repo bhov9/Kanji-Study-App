@@ -1,0 +1,1345 @@
+{
+  "character": "具",
+  "grade": 3,
+  "meanings": [
+    "tool",
+    "utensil",
+    "means",
+    "possess",
+    "ingredients",
+    "counter for armor, suits, sets of furniture"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 12
+    },
+    {
+      "type": "nelson_c",
+      "value": 109
+    }
+  ],
+  "components": [
+    "一",
+    "ハ",
+    "目"
+  ],
+  "on": [
+    "グ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "そな.える",
+      "stem": "そな",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "つぶさ.に",
+      "stem": "つぶさ",
+      "okurigana": "に"
+    }
+  ],
+  "nanori": [
+    "とも"
+  ],
+  "government": {
+    "kanji": "具",
+    "heading": "具",
+    "readings": [
+      "グ"
+    ],
+    "examples_by_reading": [
+      [
+        "具体的",
+        "具備",
+        "道具"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "具",
+      "reading": "グ",
+      "source": "table_08_ku.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "グ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 232,
+      "frequent_unflagged_examples": 9,
+      "current_support": false,
+      "candidates": [
+        "1454180/道具/どうぐ",
+        "1608160/具備/ぐび",
+        "1245050/具体的/ぐたいてき",
+        "1245020/具体/ぐたい",
+        "1592500/具合/ぐあい",
+        "1191870/家具/かぐ",
+        "1218920/器具/きぐ",
+        "1278070/工具/こうぐ",
+        "1608990/防具/ぼうぐ",
+        "1202290/絵の具/えのぐ"
+      ]
+    },
+    {
+      "reading": "そなえる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1244960/具える/そなえる"
+      ]
+    },
+    {
+      "reading": "つぶさに",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1598060/具に/つぶさに"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1454180/道具/どうぐ",
+    "1608160/具備/ぐび",
+    "1245050/具体的/ぐたいてき",
+    "1245020/具体/ぐたい",
+    "1592500/具合/ぐあい",
+    "1191870/家具/かぐ",
+    "1218920/器具/きぐ",
+    "1278070/工具/こうぐ",
+    "1608990/防具/ぼうぐ",
+    "1202290/絵の具/えのぐ",
+    "1242790/金具/かなぐ",
+    "1360080/寝具/しんぐ",
+    "2401740/遊具/ゆうぐ",
+    "1546240/用具/ようぐ",
+    "1498540/武具/ぶぐ",
+    "1244970/具現/ぐげん",
+    "1257370/建具/たてぐ",
+    "1245010/具足/ぐそく",
+    "1643240/農具/のうぐ",
+    "1171940/雨具/あまぐ",
+    "1471600/馬具/ばぐ",
+    "1583520/不具/ふぐ",
+    "1536660/夜具/やぐ",
+    "1244980/具象/ぐしょう",
+    "1501950/仏具/ぶつぐ",
+    "1245090/具有/ぐゆう",
+    "1250740/敬具/けいぐ",
+    "1489440/表具/ひょうぐ",
+    "2415590/具材/ぐざい",
+    "2000550/文具/ぶんぐ"
+  ],
+  "candidates": {
+    "1454180/道具/どうぐ": {
+      "id": 1454180,
+      "form": "道具",
+      "kana": "どうぐ",
+      "gloss": "tool",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1412,
+        1885,
+        3315,
+        1730
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [
+        "グ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1608160/具備/ぐび": {
+      "id": 1608160,
+      "form": "具備",
+      "kana": "ぐび",
+      "gloss": "possessing (what is required)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50803,
+        80148,
+        158277
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "備": 5
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [
+        "グ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1245050/具体的/ぐたいてき": {
+      "id": 1245050,
+      "form": "具体的",
+      "kana": "ぐたいてき",
+      "gloss": "concrete",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2171
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "体": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [
+        "グ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1245020/具体/ぐたい": {
+      "id": 1245020,
+      "form": "具体",
+      "kana": "ぐたい",
+      "gloss": "concreteness",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2281,
+        1211,
+        2375,
+        53293
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1592500/具合/ぐあい": {
+      "id": 1592500,
+      "form": "具合",
+      "kana": "ぐあい",
+      "gloss": "condition",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3044,
+        1959,
+        3048,
+        1507
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1191870/家具/かぐ": {
+      "id": 1191870,
+      "form": "家具",
+      "kana": "かぐ",
+      "gloss": "furniture",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4821,
+        3817,
+        7265,
+        6354
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1218920/器具/きぐ": {
+      "id": 1218920,
+      "form": "器具",
+      "kana": "きぐ",
+      "gloss": "utensil",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6384,
+        6388,
+        8743,
+        10981
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1278070/工具/こうぐ": {
+      "id": 1278070,
+      "form": "工具",
+      "kana": "こうぐ",
+      "gloss": "tool",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10710,
+        4632,
+        13682,
+        18939
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1608990/防具/ぼうぐ": {
+      "id": 1608990,
+      "form": "防具",
+      "kana": "ぼうぐ",
+      "gloss": "guard",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20342,
+        5679,
+        14533,
+        15363
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "防": 5
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202290/絵の具/えのぐ": {
+      "id": 1202290,
+      "form": "絵の具",
+      "kana": "えのぐ",
+      "gloss": "paint",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18403,
+        5549,
+        24744,
+        17060
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絵": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1242790/金具/かなぐ": {
+      "id": 1242790,
+      "form": "金具",
+      "kana": "かなぐ",
+      "gloss": "metal fittings",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16343,
+        6830,
+        23842,
+        20257
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1360080/寝具/しんぐ": {
+      "id": 1360080,
+      "form": "寝具",
+      "kana": "しんぐ",
+      "gloss": "bedding",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13526,
+        14378,
+        32914,
+        27272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寝": 7
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2401740/遊具/ゆうぐ": {
+      "id": 2401740,
+      "form": "遊具",
+      "kana": "ゆうぐ",
+      "gloss": "play equipment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21239,
+        14355,
+        19040,
+        23576
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遊": 3
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1546240/用具/ようぐ": {
+      "id": 1546240,
+      "form": "用具",
+      "kana": "ようぐ",
+      "gloss": "tool",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20738,
+        30685,
+        16515,
+        18228
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1498540/武具/ぶぐ": {
+      "id": 1498540,
+      "form": "武具",
+      "kana": "ぶぐ",
+      "gloss": "arms",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13763,
+        25023,
+        38864,
+        20034
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244970/具現/ぐげん": {
+      "id": 1244970,
+      "form": "具現",
+      "kana": "ぐげん",
+      "gloss": "incarnation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32294,
+        17330,
+        19040,
+        37665
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "現": 5
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1257370/建具/たてぐ": {
+      "id": 1257370,
+      "form": "建具",
+      "kana": "たてぐ",
+      "gloss": "fittings that open and close (doors, windows, shoji, fusuma, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26835,
+        22935,
+        49383,
+        90807
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "建": 4
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1245010/具足/ぐそく": {
+      "id": 1245010,
+      "form": "具足",
+      "kana": "ぐそく",
+      "gloss": "completeness",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22105,
+        30504,
+        53182,
+        55688
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "足": 1
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1643240/農具/のうぐ": {
+      "id": 1643240,
+      "form": "農具",
+      "kana": "のうぐ",
+      "gloss": "farming implement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24504,
+        31748,
+        59434,
+        40077
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1171940/雨具/あまぐ": {
+      "id": 1171940,
+      "form": "雨具",
+      "kana": "あまぐ",
+      "gloss": "rain gear",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24014,
+        40691,
+        55378,
+        59884
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雨": 1
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1471600/馬具/ばぐ": {
+      "id": 1471600,
+      "form": "馬具",
+      "kana": "ばぐ",
+      "gloss": "horse tack",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26350,
+        39979,
+        50941,
+        59946
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "馬": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1583520/不具/ふぐ": {
+      "id": 1583520,
+      "form": "不具",
+      "kana": "ふぐ",
+      "gloss": "deformity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        20504,
+        48192,
+        77181,
+        78715
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1536660/夜具/やぐ": {
+      "id": 1536660,
+      "form": "夜具",
+      "kana": "やぐ",
+      "gloss": "bedding",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27092,
+        30685,
+        172358,
+        69432
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "夜": 2
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244980/具象/ぐしょう": {
+      "id": 1244980,
+      "form": "具象",
+      "kana": "ぐしょう",
+      "gloss": "concreteness",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32391,
+        39979,
+        58194,
+        86558
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "象": 5
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1501950/仏具/ぶつぐ": {
+      "id": 1501950,
+      "form": "仏具",
+      "kana": "ぶつぐ",
+      "gloss": "Buddhist ritual implements (esp. altar fittings)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35897,
+        51509,
+        48867,
+        89485
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仏": 5
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1245090/具有/ぐゆう": {
+      "id": 1245090,
+      "form": "具有",
+      "kana": "ぐゆう",
+      "gloss": "preparedness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25407,
+        89646,
+        60579,
+        173409
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "有": 3
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1250740/敬具/けいぐ": {
+      "id": 1250740,
+      "form": "敬具",
+      "kana": "けいぐ",
+      "gloss": "yours sincerely",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31294,
+        52268,
+        78707,
+        65351
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敬": 6
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1489440/表具/ひょうぐ": {
+      "id": 1489440,
+      "form": "表具",
+      "kana": "ひょうぐ",
+      "gloss": "mounting (a picture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40600,
+        63933,
+        88001,
+        164539
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "表": 3
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2415590/具材/ぐざい": {
+      "id": 2415590,
+      "form": "具材",
+      "kana": "ぐざい",
+      "gloss": "material",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30414,
+        6190,
+        null,
+        18638
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "材": 4
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2000550/文具/ぶんぐ": {
+      "id": 2000550,
+      "form": "文具",
+      "kana": "ぶんぐ",
+      "gloss": "stationery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        14693,
+        23544,
+        48799
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244960/具える/そなえる": {
+      "id": 1244960,
+      "form": "具える",
+      "kana": "そなえる",
+      "gloss": "to furnish with",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        19039,
+        null,
+        189078,
+        78301
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "そなえる": {
+          "actual": "そな",
+          "dictionary": [
+            "そな.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1598060/具に/つぶさに": {
+      "id": 1598060,
+      "form": "具に",
+      "kana": "つぶさに",
+      "gloss": "in detail",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        35006,
+        93840,
+        155774
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つぶさに": {
+          "actual": "つぶさ",
+          "dictionary": [
+            "つぶさ.に"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1217070:玩具:おもちゃ",
+      "form": "玩具",
+      "kana": "おもちゃ",
+      "cue": "toy",
+      "ids": [
+        1217070
+      ],
+      "mapping": "needs-review",
+      "flags": [
+        "uk"
+      ],
+      "issues": [
+        "check segmentation",
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 10142,
+        "shiberu": 3385,
+        "tubelex": 3287,
+        "wordfreq": 7265
+      },
+      "alternatives_by_kanji": {
+        "具": [
+          "1454180/道具/どうぐ",
+          "1608160/具備/ぐび",
+          "1245050/具体的/ぐたいてき"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1294330:具:つま",
+      "form": "具",
+      "kana": "つま",
+      "cue": "garnish (esp. one served with sashimi); trimmings",
+      "ids": [
+        1294330
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 301757,
+        "shiberu": 4440,
+        "tubelex": 2737,
+        "wordfreq": 3663
+      },
+      "alternatives_by_kanji": {
+        "具": [
+          "1454180/道具/どうぐ",
+          "1608160/具備/ぐび",
+          "1245050/具体的/ぐたいてき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 29
+}

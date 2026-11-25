@@ -1,0 +1,1356 @@
+{
+  "character": "訴",
+  "grade": 7,
+  "meanings": [
+    "accusation",
+    "sue",
+    "complain of pain",
+    "appeal to"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "斤",
+    "言",
+    "丶"
+  ],
+  "on": [
+    "ソ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "うった.える",
+      "stem": "うった",
+      "okurigana": "える"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "訴",
+    "heading": "訴",
+    "readings": [
+      "ソ",
+      "うったえる"
+    ],
+    "examples_by_reading": [
+      [
+        "訴訟",
+        "告訴",
+        "哀訴"
+      ],
+      [
+        "訴える",
+        "訴え"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "訴",
+      "reading": "ソ",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 92,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1397740/訴訟/そしょう",
+        "1286030/告訴/こくそ",
+        "1150310/哀訴/あいそ",
+        "1223840/起訴/きそ",
+        "1279090/控訴/こうそ",
+        "1472580/敗訴/はいそ",
+        "1397770/訴状/そじょう",
+        "1274240/公訴/こうそ",
+        "1625310/強訴/ごうそ",
+        "1798670/訴因/そいん"
+      ]
+    },
+    {
+      "reading": "うったえる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1397720/訴える/うったえる",
+        "1397710/訴え/うったえ",
+        "1909040/暴力に訴える/ぼうりょくにうったえる",
+        "1915670/理性に訴える/りせいにうったえる",
+        "1400600/争い訴える/あらそいうったえる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1397720/訴える/うったえる",
+    "1397740/訴訟/そしょう",
+    "1397710/訴え/うったえ",
+    "1286030/告訴/こくそ",
+    "1150310/哀訴/あいそ",
+    "1223840/起訴/きそ",
+    "1279090/控訴/こうそ",
+    "1472580/敗訴/はいそ",
+    "1397770/訴状/そじょう",
+    "1274240/公訴/こうそ",
+    "1625310/強訴/ごうそ",
+    "1798670/訴因/そいん",
+    "1436440/提訴/ていそ",
+    "1346210/勝訴/しょうそ",
+    "1638040/訴求/そきゅう",
+    "1397790/訴追/そつい",
+    "1431340/直訴/じきそ",
+    "1353680/上訴/じょうそ",
+    "1480630/反訴/はんそ",
+    "1332510/愁訴/しゅうそ",
+    "2849582/民訴/みんそ",
+    "1522890/本訴/ほんそ",
+    "1397780/訴人/そにん",
+    "2831243/訴額/そがく",
+    "1533300/免訴/めんそ",
+    "2849583/刑訴/けいそ",
+    "1684450/応訴/おうそ",
+    "1861340/越訴/えっそ",
+    "1325830/主訴/しゅそ",
+    "2871934/密訴/みっそ"
+  ],
+  "candidates": {
+    "1397720/訴える/うったえる": {
+      "id": 1397720,
+      "form": "訴える",
+      "kana": "うったえる",
+      "gloss": "to raise",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2046,
+        3585,
+        8450,
+        2212
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うったえる": {
+          "actual": "うった",
+          "dictionary": [
+            "うった.える"
+          ]
+        }
+      },
+      "official_examples": [
+        "うったえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1397740/訴訟/そしょう": {
+      "id": 1397740,
+      "form": "訴訟",
+      "kana": "そしょう",
+      "gloss": "lawsuit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6843,
+        6355,
+        3315,
+        26300
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訟": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1397710/訴え/うったえ": {
+      "id": 1397710,
+      "form": "訴え",
+      "kana": "うったえ",
+      "gloss": "lawsuit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8429,
+        12955,
+        3594,
+        12459
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うったえる": {
+          "actual": "うった",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "うったえる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1286030/告訴/こくそ": {
+      "id": 1286030,
+      "form": "告訴",
+      "kana": "こくそ",
+      "gloss": "accusation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11663,
+        18001,
+        13918,
+        36821
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "告": 5
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1150310/哀訴/あいそ": {
+      "id": 1150310,
+      "form": "哀訴",
+      "kana": "あいそ",
+      "gloss": "appeal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        null,
+        94397
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "哀": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1223840/起訴/きそ": {
+      "id": 1223840,
+      "form": "起訴",
+      "kana": "きそ",
+      "gloss": "prosecution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8034,
+        11408,
+        5988,
+        28609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "起": 3
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1279090/控訴/こうそ": {
+      "id": 1279090,
+      "form": "控訴",
+      "kana": "こうそ",
+      "gloss": "appeal to a higher court",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        20395,
+        25501,
+        15390,
+        60712
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "控": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472580/敗訴/はいそ": {
+      "id": 1472580,
+      "form": "敗訴",
+      "kana": "はいそ",
+      "gloss": "loss of a (legal) case",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        28635,
+        28755,
+        26068,
+        81477
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敗": 4
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1397770/訴状/そじょう": {
+      "id": 1397770,
+      "form": "訴状",
+      "kana": "そじょう",
+      "gloss": "petition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24150,
+        34060,
+        28763,
+        64664
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1274240/公訴/こうそ": {
+      "id": 1274240,
+      "form": "公訴",
+      "kana": "こうそ",
+      "gloss": "(public) prosecution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25406,
+        56591,
+        68122,
+        116387
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625310/強訴/ごうそ": {
+      "id": 1625310,
+      "form": "強訴",
+      "kana": "ごうそ",
+      "gloss": "direct petition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22580,
+        81652,
+        135895,
+        138202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "強": 2
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1798670/訴因/そいん": {
+      "id": 1798670,
+      "form": "訴因",
+      "kana": "そいん",
+      "gloss": "charge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37566,
+        63933,
+        56518,
+        176555
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "因": 5
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436440/提訴/ていそ": {
+      "id": 1436440,
+      "form": "提訴",
+      "kana": "ていそ",
+      "gloss": "presenting a case",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15588,
+        14325,
+        74940
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "提": 5
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1346210/勝訴/しょうそ": {
+      "id": 1346210,
+      "form": "勝訴",
+      "kana": "しょうそ",
+      "gloss": "winning a (legal) case",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25211,
+        25402,
+        67199
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勝": 3
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1638040/訴求/そきゅう": {
+      "id": 1638040,
+      "form": "訴求",
+      "kana": "そきゅう",
+      "gloss": "appeal (to customers)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26254,
+        30980,
+        112399
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "求": 4
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1397790/訴追/そつい": {
+      "id": 1397790,
+      "form": "訴追",
+      "kana": "そつい",
+      "gloss": "prosecution",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37110,
+        23544,
+        100993
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1431340/直訴/じきそ": {
+      "id": 1431340,
+      "form": "直訴",
+      "kana": "じきそ",
+      "gloss": "direct appeal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        38864,
+        32994
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1353680/上訴/じょうそ": {
+      "id": 1353680,
+      "form": "上訴",
+      "kana": "じょうそ",
+      "gloss": "appeal (in court)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        47810,
+        109016
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1480630/反訴/はんそ": {
+      "id": 1480630,
+      "form": "反訴",
+      "kana": "はんそ",
+      "gloss": "counteraction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        67489,
+        170993
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "反": 3
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332510/愁訴/しゅうそ": {
+      "id": 1332510,
+      "form": "愁訴",
+      "kana": "しゅうそ",
+      "gloss": "complaint (of pain, suffering, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        80148,
+        168375
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愁": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849582/民訴/みんそ": {
+      "id": 2849582,
+      "form": "民訴",
+      "kana": "みんそ",
+      "gloss": "civil action",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        90446,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522890/本訴/ほんそ": {
+      "id": 1522890,
+      "form": "本訴",
+      "kana": "ほんそ",
+      "gloss": "original suit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        117502,
+        316980
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1397780/訴人/そにん": {
+      "id": 1397780,
+      "form": "訴人",
+      "kana": "そにん",
+      "gloss": "a suitor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        91294,
+        121475
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831243/訴額/そがく": {
+      "id": 2831243,
+      "form": "訴額",
+      "kana": "そがく",
+      "gloss": "amount in controversy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        140911,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "額": 5
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1533300/免訴/めんそ": {
+      "id": 1533300,
+      "form": "免訴",
+      "kana": "めんそ",
+      "gloss": "acquittal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        182076,
+        324198
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "免": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849583/刑訴/けいそ": {
+      "id": 2849583,
+      "form": "刑訴",
+      "kana": "けいそ",
+      "gloss": "criminal action",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        146219,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刑": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1684450/応訴/おうそ": {
+      "id": 1684450,
+      "form": "応訴",
+      "kana": "おうそ",
+      "gloss": "countersuit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        160131,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1861340/越訴/えっそ": {
+      "id": 1861340,
+      "form": "越訴",
+      "kana": "えっそ",
+      "gloss": "appeal made directly to a senior official without going through formalities",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        177277,
+        287635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1325830/主訴/しゅそ": {
+      "id": 1325830,
+      "form": "主訴",
+      "kana": "しゅそ",
+      "gloss": "chief complaint",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        null,
+        149608
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2871934/密訴/みっそ": {
+      "id": 2871934,
+      "form": "密訴",
+      "kana": "みっそ",
+      "gloss": "tip-off",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        null,
+        178687
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "密": 6
+      },
+      "matched": {
+        "ソ": {
+          "actual": "そ",
+          "dictionary": [
+            "ソ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1909040/暴力に訴える/ぼうりょくにうったえる": {
+      "id": 1909040,
+      "form": "暴力に訴える",
+      "kana": "ぼうりょくにうったえる",
+      "gloss": "to resort to violence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42703
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暴": 5,
+        "力": 1
+      },
+      "matched": {
+        "うったえる": {
+          "actual": "うった",
+          "dictionary": [
+            "うった.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1915670/理性に訴える/りせいにうったえる": {
+      "id": 1915670,
+      "form": "理性に訴える",
+      "kana": "りせいにうったえる",
+      "gloss": "to appeal to one's reason",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        167276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5,
+        "理": 2
+      },
+      "matched": {
+        "うったえる": {
+          "actual": "うった",
+          "dictionary": [
+            "うった.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400600/争い訴える/あらそいうったえる": {
+      "id": 1400600,
+      "form": "争い訴える",
+      "kana": "あらそいうったえる",
+      "gloss": "to accuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "争": 4
+      },
+      "matched": {
+        "うったえる": {
+          "actual": "うった",
+          "dictionary": [
+            "うった.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1397740:訴訟:そしょう",
+      "form": "訴訟",
+      "kana": "そしょう",
+      "cue": "lawsuit; suit",
+      "ids": [
+        1397740
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 26300,
+        "shiberu": 6843,
+        "tubelex": 6355,
+        "wordfreq": 3315
+      },
+      "alternatives_by_kanji": {
+        "訟": [
+          "1400660/争訟/そうしょう",
+          "2062610/訟務/しょうむ",
+          "1528770/民事訴訟/みんじそしょう"
+        ],
+        "訴": [
+          "1397720/訴える/うったえる",
+          "1397710/訴え/うったえ",
+          "1286030/告訴/こくそ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 7
+}

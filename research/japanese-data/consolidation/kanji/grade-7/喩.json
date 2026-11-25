@@ -1,0 +1,903 @@
+{
+  "character": "喩",
+  "grade": 7,
+  "meanings": [
+    "metaphor",
+    "compare"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    }
+  ],
+  "components": [
+    "刈",
+    "月",
+    "口",
+    "个",
+    "一"
+  ],
+  "on": [
+    "ユ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たと.える",
+      "stem": "たと",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "さと.す",
+      "stem": "さと",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "喩",
+    "heading": "喩",
+    "readings": [
+      "ユ"
+    ],
+    "examples_by_reading": [
+      [
+        "比喩"
+      ]
+    ],
+    "note_lines": [
+      "＊［（付）第２の３参照］"
+    ],
+    "representative_index": {
+      "kanji": "喩",
+      "reading": "ユ",
+      "source": "table_37_yu.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ユ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 14,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1602260/比喩/ひゆ",
+        "1170920/隠喩/いんゆ",
+        "1154750/暗喩/あんゆ",
+        "1431630/直喩/ちょくゆ",
+        "1747560/換喩/かんゆ",
+        "2255910/比喩表現/ひゆひょうげん",
+        "1731770/比喩的/ひゆてき",
+        "1859770/引喩/いんゆ",
+        "2828409/寓喩/ぐうゆ",
+        "2614610/提喩/ていゆ"
+      ]
+    },
+    {
+      "reading": "たとえる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1597130/喩える/たとえる"
+      ]
+    },
+    {
+      "reading": "さとす",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1602260/比喩/ひゆ",
+    "1170920/隠喩/いんゆ",
+    "1597130/喩える/たとえる",
+    "1154750/暗喩/あんゆ",
+    "1431630/直喩/ちょくゆ",
+    "1747560/換喩/かんゆ",
+    "2255910/比喩表現/ひゆひょうげん",
+    "1731770/比喩的/ひゆてき",
+    "1859770/引喩/いんゆ",
+    "2828409/寓喩/ぐうゆ",
+    "2614610/提喩/ていゆ",
+    "1625110/諷喩/ふうゆ",
+    "2828508/明喩/めいゆ",
+    "2839923/音喩/おんゆ",
+    "2224530/譬喩歌/ひゆか",
+    "1237360/教喩/きょうゆ",
+    "2857630/換喩語/かんゆご",
+    "1597120/喩/たとえ",
+    "1597120/喩え/たとえ",
+    "2224540/喩え歌/たとえうた",
+    "1602260/譬喩/ひゆ",
+    "1625110/風喩/ふうゆ"
+  ],
+  "candidates": {
+    "1602260/比喩/ひゆ": {
+      "id": 1602260,
+      "form": "比喩",
+      "kana": "ひゆ",
+      "gloss": "simile",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14516,
+        16927,
+        17976,
+        14207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "比": 5
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ユ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1170920/隠喩/いんゆ": {
+      "id": 1170920,
+      "form": "隠喩",
+      "kana": "いんゆ",
+      "gloss": "metaphor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31063,
+        101749,
+        47321,
+        75059
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "隠": 7
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597130/喩える/たとえる": {
+      "id": 1597130,
+      "form": "喩える",
+      "kana": "たとえる",
+      "gloss": "to compare (something) to",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32852,
+        null,
+        81694,
+        25932
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たとえる": {
+          "actual": "たと",
+          "dictionary": [
+            "たと.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1154750/暗喩/あんゆ": {
+      "id": 1154750,
+      "form": "暗喩",
+      "kana": "あんゆ",
+      "gloss": "metaphor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        45882,
+        52932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暗": 3
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1431630/直喩/ちょくゆ": {
+      "id": 1431630,
+      "form": "直喩",
+      "kana": "ちょくゆ",
+      "gloss": "simile",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        87205,
+        146907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1747560/換喩/かんゆ": {
+      "id": 1747560,
+      "form": "換喩",
+      "kana": "かんゆ",
+      "gloss": "metonymy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        307815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "換": 7
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2255910/比喩表現/ひゆひょうげん": {
+      "id": 2255910,
+      "form": "比喩表現",
+      "kana": "ひゆひょうげん",
+      "gloss": "figurative expression",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        48508
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "表": 3,
+        "比": 5,
+        "現": 5
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1731770/比喩的/ひゆてき": {
+      "id": 1731770,
+      "form": "比喩的",
+      "kana": "ひゆてき",
+      "gloss": "figurative",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        52872
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "比": 5
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1859770/引喩/いんゆ": {
+      "id": 1859770,
+      "form": "引喩",
+      "kana": "いんゆ",
+      "gloss": "allusion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        280166
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "引": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828409/寓喩/ぐうゆ": {
+      "id": 2828409,
+      "form": "寓喩",
+      "kana": "ぐうゆ",
+      "gloss": "allegory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        294617
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2614610/提喩/ていゆ": {
+      "id": 2614610,
+      "form": "提喩",
+      "kana": "ていゆ",
+      "gloss": "synecdoche",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        307815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "提": 5
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625110/諷喩/ふうゆ": {
+      "id": 1625110,
+      "form": "諷喩",
+      "kana": "ふうゆ",
+      "gloss": "hint",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828508/明喩/めいゆ": {
+      "id": 2828508,
+      "form": "明喩",
+      "kana": "めいゆ",
+      "gloss": "simile",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839923/音喩/おんゆ": {
+      "id": 2839923,
+      "form": "音喩",
+      "kana": "おんゆ",
+      "gloss": "mimetic word (esp. in manga)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "音": 1
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2224530/譬喩歌/ひゆか": {
+      "id": 2224530,
+      "form": "譬喩歌",
+      "kana": "ひゆか",
+      "gloss": "metaphorical poem (of the Man'yōshū)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歌": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237360/教喩/きょうゆ": {
+      "id": 1237360,
+      "form": "教喩",
+      "kana": "きょうゆ",
+      "gloss": "(licensed) teacher",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857630/換喩語/かんゆご": {
+      "id": 2857630,
+      "form": "換喩語",
+      "kana": "かんゆご",
+      "gloss": "metonym",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "換": 7,
+        "語": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597120/喩/たとえ": {
+      "id": 1597120,
+      "form": "喩",
+      "kana": "たとえ",
+      "gloss": "example",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        93020,
+        102855
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1597120/喩え/たとえ": {
+      "id": 1597120,
+      "form": "喩え",
+      "kana": "たとえ",
+      "gloss": "example",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        32914,
+        31789
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2224540/喩え歌/たとえうた": {
+      "id": 2224540,
+      "form": "喩え歌",
+      "kana": "たとえうた",
+      "gloss": "metaphorical poem (of the Man'yōshū)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "歌": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1602260/譬喩/ひゆ": {
+      "id": 1602260,
+      "form": "譬喩",
+      "kana": "ひゆ",
+      "gloss": "simile",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        157245,
+        164222
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1625110/風喩/ふうゆ": {
+      "id": 1625110,
+      "form": "風喩",
+      "kana": "ふうゆ",
+      "gloss": "hint",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [
+        "iK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "ユ": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ユ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1237360:教喩:きょうゆ",
+      "form": "教喩",
+      "kana": "きょうゆ",
+      "cue": "(licensed) teacher",
+      "ids": [
+        1237360
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "no primary exact-form evidence",
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {},
+      "alternatives_by_kanji": {
+        "教": [
+          "1236900/教える/おしえる",
+          "1236950/教育/きょういく",
+          "1236890/教え/おしえ"
+        ],
+        "喩": [
+          "1602260/比喩/ひゆ",
+          "1170920/隠喩/いんゆ",
+          "1597130/喩える/たとえる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

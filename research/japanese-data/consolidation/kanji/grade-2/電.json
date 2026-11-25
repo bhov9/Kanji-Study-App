@@ -1,0 +1,1220 @@
+{
+  "character": "電",
+  "grade": 2,
+  "meanings": [
+    "electricity"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 173
+    }
+  ],
+  "components": [
+    "雨",
+    "田",
+    "乙"
+  ],
+  "on": [
+    "デン"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "電",
+    "heading": "電",
+    "readings": [
+      "デン"
+    ],
+    "examples_by_reading": [
+      [
+        "電気",
+        "電報",
+        "発電"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "電",
+      "reading": "デン",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "デン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 938,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1443000/電気/でんき",
+        "1477750/発電/はつでん",
+        "1443760/電報/でんぽう",
+        "1443840/電話/でんわ",
+        "1443530/電車/でんしゃ",
+        "1443320/電子/でんし",
+        "1443220/電源/でんげん",
+        "1334390/充電/じゅうでん",
+        "1443810/電力/でんりょく",
+        "1443620/電池/でんち"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1443000/電気/でんき",
+    "1477750/発電/はつでん",
+    "1443760/電報/でんぽう",
+    "1443840/電話/でんわ",
+    "1443530/電車/でんしゃ",
+    "1443320/電子/でんし",
+    "1443220/電源/でんげん",
+    "1334390/充電/じゅうでん",
+    "1443810/電力/でんりょく",
+    "1443620/電池/でんち",
+    "1443720/電波/でんぱ",
+    "1443670/電動/でんどう",
+    "1443660/電灯/でんとう",
+    "1435020/停電/ていでん",
+    "1443790/電流/でんりゅう",
+    "1442850/電圧/でんあつ",
+    "1443560/電信/でんしん",
+    "1443170/電球/でんきゅう",
+    "1443200/電撃/でんげき",
+    "1443570/電線/でんせん",
+    "1443260/電光/でんこう",
+    "1443500/電磁/でんじ",
+    "1443630/電柱/でんちゅう",
+    "1443600/電卓/でんたく",
+    "1516800/放電/ほうでん",
+    "1442890/電化/でんか",
+    "1332960/終電/しゅうでん",
+    "1443650/電鉄/でんてつ",
+    "1442990/電機/でんき",
+    "1402830/送電/そうでん"
+  ],
+  "candidates": {
+    "1443000/電気/でんき": {
+      "id": 1443000,
+      "form": "電気",
+      "kana": "でんき",
+      "gloss": "electricity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        804,
+        1074,
+        1403,
+        2825
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [
+        "デン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1477750/発電/はつでん": {
+      "id": 1477750,
+      "form": "発電",
+      "kana": "はつでん",
+      "gloss": "generation of electricity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4583,
+        2395,
+        2681,
+        30238
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [
+        "デン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1443760/電報/でんぽう": {
+      "id": 1443760,
+      "form": "電報",
+      "kana": "でんぽう",
+      "gloss": "telegram",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3806,
+        27692,
+        18515,
+        35826
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "報": 5
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [
+        "デン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1443840/電話/でんわ": {
+      "id": 1443840,
+      "form": "電話",
+      "kana": "でんわ",
+      "gloss": "telephone call",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        353,
+        909,
+        521,
+        786
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "話": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443530/電車/でんしゃ": {
+      "id": 1443530,
+      "form": "電車",
+      "kana": "でんしゃ",
+      "gloss": "train",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1360,
+        1516,
+        1089,
+        2738
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "車": 1
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1443320/電子/でんし": {
+      "id": 1443320,
+      "form": "電子",
+      "kana": "でんし",
+      "gloss": "electron",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2487,
+        1936,
+        1403,
+        11601
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443220/電源/でんげん": {
+      "id": 1443220,
+      "form": "電源",
+      "kana": "でんげん",
+      "gloss": "source of electricity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3941,
+        1355,
+        3232,
+        6441
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "源": 6
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1334390/充電/じゅうでん": {
+      "id": 1334390,
+      "form": "充電",
+      "kana": "じゅうでん",
+      "gloss": "charging (electrically)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4291,
+        1378,
+        3103,
+        11419
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "充": 7
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443810/電力/でんりょく": {
+      "id": 1443810,
+      "form": "電力",
+      "kana": "でんりょく",
+      "gloss": "electric power",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4573,
+        2662,
+        2809,
+        19873
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1443620/電池/でんち": {
+      "id": 1443620,
+      "form": "電池",
+      "kana": "でんち",
+      "gloss": "battery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3236,
+        2606,
+        4117,
+        12625
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "池": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1443720/電波/でんぱ": {
+      "id": 1443720,
+      "form": "電波",
+      "kana": "でんぱ",
+      "gloss": "radio wave",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8199,
+        4999,
+        3884,
+        6065
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "波": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443670/電動/でんどう": {
+      "id": 1443670,
+      "form": "電動",
+      "kana": "でんどう",
+      "gloss": "electrically powered",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8811,
+        4502,
+        5047,
+        28652
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "動": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1443660/電灯/でんとう": {
+      "id": 1443660,
+      "form": "電灯",
+      "kana": "でんとう",
+      "gloss": "electric light",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3506,
+        6314,
+        13918,
+        19622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1435020/停電/ていでん": {
+      "id": 1435020,
+      "form": "停電",
+      "kana": "ていでん",
+      "gloss": "power outage",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6662,
+        6074,
+        7753,
+        14166
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "停": 5
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1443790/電流/でんりゅう": {
+      "id": 1443790,
+      "form": "電流",
+      "kana": "でんりゅう",
+      "gloss": "electric current",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11802,
+        4462,
+        9454,
+        10220
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1442850/電圧/でんあつ": {
+      "id": 1442850,
+      "form": "電圧",
+      "kana": "でんあつ",
+      "gloss": "voltage",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27011,
+        3591,
+        9163,
+        34993
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "圧": 5
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1443560/電信/でんしん": {
+      "id": 1443560,
+      "form": "電信",
+      "kana": "でんしん",
+      "gloss": "(electric) telegraph",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3620,
+        21370,
+        27344,
+        58538
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "信": 4
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443170/電球/でんきゅう": {
+      "id": 1443170,
+      "form": "電球",
+      "kana": "でんきゅう",
+      "gloss": "light bulb",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7821,
+        8319,
+        14132,
+        19974
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "球": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1443200/電撃/でんげき": {
+      "id": 1443200,
+      "form": "電撃",
+      "kana": "でんげき",
+      "gloss": "electric shock",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17976,
+        12898,
+        7896,
+        11481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "撃": 7
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443570/電線/でんせん": {
+      "id": 1443570,
+      "form": "電線",
+      "kana": "でんせん",
+      "gloss": "electric line",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9333,
+        10909,
+        14325,
+        28096
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "線": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443260/電光/でんこう": {
+      "id": 1443260,
+      "form": "電光",
+      "kana": "でんこう",
+      "gloss": "lightning",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5624,
+        18263,
+        31791,
+        37552
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "光": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443500/電磁/でんじ": {
+      "id": 1443500,
+      "form": "電磁",
+      "kana": "でんじ",
+      "gloss": "electromagnetic",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-f"
+      ],
+      "flags": [],
+      "ranks": [
+        16683,
+        8133,
+        12892,
+        34904
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "磁": 6
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443630/電柱/でんちゅう": {
+      "id": 1443630,
+      "form": "電柱",
+      "kana": "でんちゅう",
+      "gloss": "utility pole",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7410,
+        15674,
+        19040,
+        18185
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "柱": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443600/電卓/でんたく": {
+      "id": 1443600,
+      "form": "電卓",
+      "kana": "でんたく",
+      "gloss": "calculator (electronic)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6917,
+        18039,
+        19040,
+        42557
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "卓": 7
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1516800/放電/ほうでん": {
+      "id": 1516800,
+      "form": "放電",
+      "kana": "ほうでん",
+      "gloss": "discharging (electrically; e.g. of a battery)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        23095,
+        12161,
+        14132,
+        30559
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "放": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442890/電化/でんか": {
+      "id": 1442890,
+      "form": "電化",
+      "kana": "でんか",
+      "gloss": "electrification",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        20170,
+        11724,
+        15185,
+        108928
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "化": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332960/終電/しゅうでん": {
+      "id": 1332960,
+      "form": "終電",
+      "kana": "しゅうでん",
+      "gloss": "last train (of the day)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16312,
+        18667,
+        16770,
+        20420
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "終": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443650/電鉄/でんてつ": {
+      "id": 1443650,
+      "form": "電鉄",
+      "kana": "でんてつ",
+      "gloss": "electric railway",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31866,
+        12523,
+        16272,
+        68745
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉄": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442990/電機/でんき": {
+      "id": 1442990,
+      "form": "電機",
+      "kana": "でんき",
+      "gloss": "electrical machinery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27026,
+        15319,
+        15390,
+        56619
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1402830/送電/そうでん": {
+      "id": 1402830,
+      "form": "送電",
+      "kana": "そうでん",
+      "gloss": "transmission of electricity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        23188,
+        19278,
+        15825,
+        54165
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "送": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "densha",
+      "form": "電車",
+      "kana": "でんしゃ",
+      "cue": "Electric train",
+      "ids": [
+        1443530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2738,
+        "shiberu": 1360,
+        "tubelex": 1516,
+        "wordfreq": 1089
+      },
+      "alternatives_by_kanji": {
+        "車": [
+          "1323280/車輪/しゃりん",
+          "1313350/歯車/はぐるま",
+          "1323120/車庫/しゃこ"
+        ],
+        "電": [
+          "1443000/電気/でんき",
+          "1477750/発電/はつでん",
+          "1443760/電報/でんぽう"
+        ]
+      }
+    },
+    {
+      "wordId": "denwa",
+      "form": "電話",
+      "kana": "でんわ",
+      "cue": "Telephone call",
+      "ids": [
+        1443840
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 786,
+        "shiberu": 353,
+        "tubelex": 909,
+        "wordfreq": 521
+      }
+    }
+  ],
+  "unassigned_form_count": 16
+}

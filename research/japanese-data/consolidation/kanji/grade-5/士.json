@@ -1,0 +1,1368 @@
+{
+  "character": "士",
+  "grade": 5,
+  "meanings": [
+    "gentleman",
+    "scholar",
+    "samurai",
+    "samurai radical (no. 33)"
+  ],
+  "strokes": [
+    3
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 33
+    }
+  ],
+  "components": [
+    "士"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "さむらい",
+      "stem": "さむらい",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "お",
+    "ま"
+  ],
+  "government": {
+    "kanji": "士",
+    "heading": "士",
+    "readings": [
+      "シ"
+    ],
+    "examples_by_reading": [
+      [
+        "士官",
+        "武士",
+        "紳士"
+      ]
+    ],
+    "note_lines": [
+      "海士（あま）",
+      "居士（こじ）",
+      "博士（はかせ）"
+    ],
+    "representative_index": {
+      "kanji": "士",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "海女",
+        "海士"
+      ],
+      "reading": "あま",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "居士"
+      ],
+      "reading": "こじ",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "博士"
+      ],
+      "reading": "はかせ",
+      "stage": "elementary",
+      "pdf_page": 52,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 305,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1364950/紳士/しんし",
+        "1307430/士官/しかん",
+        "1583680/武士/ぶし",
+        "1452400/同士/どうし",
+        "1506420/兵士/へいし",
+        "1390240/戦士/せんし",
+        "1224110/騎士/きし",
+        "1256850/剣士/けんし",
+        "1206760/学士/がくし",
+        "1555000/力士/りきし"
+      ]
+    },
+    {
+      "reading": "さむらい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1314780/士/さむらい",
+        "2682050/二四六九士/にしむくさむらい",
+        "2682050/西向く士/にしむくさむらい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1364950/紳士/しんし",
+    "1307430/士官/しかん",
+    "1583680/武士/ぶし",
+    "1452400/同士/どうし",
+    "1506420/兵士/へいし",
+    "1390240/戦士/せんし",
+    "1224110/騎士/きし",
+    "1256850/剣士/けんし",
+    "1206760/学士/がくし",
+    "1555000/力士/りきし",
+    "1220640/棋士/きし",
+    "1307450/士気/しき",
+    "1817440/士族/しぞく",
+    "1653030/闘士/とうし",
+    "1539790/勇士/ゆうし",
+    "1309120/志士/しし",
+    "1332020/修士/しゅうし",
+    "2097270/浪士/ろうし",
+    "1531560/名士/めいし",
+    "1298270/策士/さくし",
+    "1512960/弁士/べんし",
+    "1820480/郷士/ごうし",
+    "1755880/義士/ぎし",
+    "1723020/文士/ぶんし",
+    "1286620/国士/こくし",
+    "1185100/下士/かし",
+    "1207380/楽士/がくし",
+    "1644210/烈士/れっし",
+    "1817450/士道/しどう",
+    "1367850/人士/じんし"
+  ],
+  "candidates": {
+    "1364950/紳士/しんし": {
+      "id": 1364950,
+      "form": "紳士",
+      "kana": "しんし",
+      "gloss": "gentleman",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1522,
+        8410,
+        5346,
+        7262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紳": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1307430/士官/しかん": {
+      "id": 1307430,
+      "form": "士官",
+      "kana": "しかん",
+      "gloss": "officer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5859,
+        22356,
+        10372,
+        28094
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "官": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1583680/武士/ぶし": {
+      "id": 1583680,
+      "form": "武士",
+      "kana": "ぶし",
+      "gloss": "samurai",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        13404
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1452400/同士/どうし": {
+      "id": 1452400,
+      "form": "同士",
+      "kana": "どうし",
+      "gloss": "fellow",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        2233,
+        1745,
+        1587,
+        1190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1506420/兵士/へいし": {
+      "id": 1506420,
+      "form": "兵士",
+      "kana": "へいし",
+      "gloss": "soldier",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1569,
+        4012,
+        3809,
+        5407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1390240/戦士/せんし": {
+      "id": 1390240,
+      "form": "戦士",
+      "kana": "せんし",
+      "gloss": "soldier",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10222,
+        5231,
+        2863,
+        5351
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1224110/騎士/きし": {
+      "id": 1224110,
+      "form": "騎士",
+      "kana": "きし",
+      "gloss": "(medieval) knight",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11184,
+        4465,
+        3232,
+        5515
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "騎": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1256850/剣士/けんし": {
+      "id": 1256850,
+      "form": "剣士",
+      "kana": "けんし",
+      "gloss": "swordsman",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9353,
+        13294,
+        17002,
+        12161
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "剣": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1206760/学士/がくし": {
+      "id": 1206760,
+      "form": "学士",
+      "kana": "がくし",
+      "gloss": "university graduate",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6065,
+        29059,
+        26690,
+        65930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1555000/力士/りきし": {
+      "id": 1555000,
+      "form": "力士",
+      "kana": "りきし",
+      "gloss": "sumo wrestler",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14126,
+        13335,
+        11740,
+        40510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220640/棋士/きし": {
+      "id": 1220640,
+      "form": "棋士",
+      "kana": "きし",
+      "gloss": "professional shogi player",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14175,
+        13640,
+        13918,
+        51533
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "棋": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1307450/士気/しき": {
+      "id": 1307450,
+      "form": "士気",
+      "kana": "しき",
+      "gloss": "morale (of troops, team, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14439,
+        15531,
+        20603,
+        12520
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1817440/士族/しぞく": {
+      "id": 1817440,
+      "form": "士族",
+      "kana": "しぞく",
+      "gloss": "family of samurai lineage",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6316,
+        38312,
+        55378,
+        67692
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "族": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1653030/闘士/とうし": {
+      "id": 1653030,
+      "form": "闘士",
+      "kana": "とうし",
+      "gloss": "fighter (for)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11908,
+        24494,
+        15390,
+        34447
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "闘": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1539790/勇士/ゆうし": {
+      "id": 1539790,
+      "form": "勇士",
+      "kana": "ゆうし",
+      "gloss": "brave warrior",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11044,
+        27052,
+        20096,
+        29364
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勇": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1309120/志士/しし": {
+      "id": 1309120,
+      "form": "志士",
+      "kana": "しし",
+      "gloss": "imperial loyalist samurai of the Bakumatsu-era",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9084,
+        39286,
+        30598,
+        54718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "志": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332020/修士/しゅうし": {
+      "id": 1332020,
+      "form": "修士",
+      "kana": "しゅうし",
+      "gloss": "master's (degree)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17103,
+        21302,
+        15825,
+        85863
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2097270/浪士/ろうし": {
+      "id": 2097270,
+      "form": "浪士",
+      "kana": "ろうし",
+      "gloss": "ronin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9269,
+        47007,
+        50941,
+        61740
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "浪": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1531560/名士/めいし": {
+      "id": 1531560,
+      "form": "名士",
+      "kana": "めいし",
+      "gloss": "celebrity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16423,
+        42221,
+        31382,
+        33951
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1298270/策士/さくし": {
+      "id": 1298270,
+      "form": "策士",
+      "kana": "さくし",
+      "gloss": "tactician",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26056,
+        45909,
+        33710,
+        19820
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "策": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1512960/弁士/べんし": {
+      "id": 1512960,
+      "form": "弁士",
+      "kana": "べんし",
+      "gloss": "lecturer",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15102,
+        70964,
+        58194,
+        93525
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弁": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1820480/郷士/ごうし": {
+      "id": 1820480,
+      "form": "郷士",
+      "kana": "ごうし",
+      "gloss": "country samurai",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15993,
+        55605,
+        75713,
+        81246
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "郷": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1755880/義士/ぎし": {
+      "id": 1755880,
+      "form": "義士",
+      "kana": "ぎし",
+      "gloss": "loyal retainer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18857,
+        65459,
+        69479,
+        97038
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "義": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1723020/文士/ぶんし": {
+      "id": 1723020,
+      "form": "文士",
+      "kana": "ぶんし",
+      "gloss": "man of letters",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19426,
+        56591,
+        90446,
+        81284
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1286620/国士/こくし": {
+      "id": 1286620,
+      "form": "国士",
+      "kana": "こくし",
+      "gloss": "distinguished citizen",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35917,
+        39286,
+        50941,
+        95867
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185100/下士/かし": {
+      "id": 1185100,
+      "form": "下士",
+      "kana": "かし",
+      "gloss": "non-commissioned officer",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24431,
+        53857,
+        134699,
+        105325
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1207380/楽士/がくし": {
+      "id": 1207380,
+      "form": "楽士",
+      "kana": "がくし",
+      "gloss": "musician",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24944,
+        78424,
+        103620,
+        67321
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "楽": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644210/烈士/れっし": {
+      "id": 1644210,
+      "form": "烈士",
+      "kana": "れっし",
+      "gloss": "upright man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38778,
+        55605,
+        58194,
+        114894
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "烈": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1817450/士道/しどう": {
+      "id": 1817450,
+      "form": "士道",
+      "kana": "しどう",
+      "gloss": "chivalry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33761,
+        109954,
+        53182,
+        72560
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1367850/人士/じんし": {
+      "id": 1367850,
+      "form": "人士",
+      "kana": "じんし",
+      "gloss": "gentleman",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35408,
+        73159,
+        78707,
+        122758
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1314780/士/さむらい": {
+      "id": 1314780,
+      "form": "士",
+      "kana": "さむらい",
+      "gloss": "warrior (esp. of military retainers of daimyos in the Edo period)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        110537
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さむらい": {
+          "actual": "さむらい",
+          "dictionary": [
+            "さむらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2682050/二四六九士/にしむくさむらい": {
+      "id": 2682050,
+      "form": "二四六九士",
+      "kana": "にしむくさむらい",
+      "gloss": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "四": 1,
+        "二": 1,
+        "六": 1,
+        "九": 1
+      },
+      "matched": {
+        "さむらい": {
+          "actual": "さむらい",
+          "dictionary": [
+            "さむらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2682050/西向く士/にしむくさむらい": {
+      "id": 2682050,
+      "form": "西向く士",
+      "kana": "にしむくさむらい",
+      "gloss": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "向": 3,
+        "西": 2
+      },
+      "matched": {
+        "さむらい": {
+          "actual": "さむらい",
+          "dictionary": [
+            "さむらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1364950:紳士:しんし",
+      "form": "紳士",
+      "kana": "しんし",
+      "cue": "gentleman",
+      "ids": [
+        1364950
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7262,
+        "shiberu": 1522,
+        "tubelex": 8410,
+        "wordfreq": 5346
+      },
+      "alternatives_by_kanji": {
+        "士": [
+          "1307430/士官/しかん",
+          "1583680/武士/ぶし",
+          "1452400/同士/どうし"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1512850:弁護士:べんごし",
+      "form": "弁護士",
+      "kana": "べんごし",
+      "cue": "lawyer; attorney",
+      "ids": [
+        1512850
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7887,
+        "wordfreq": 1209
+      },
+      "alternatives_by_kanji": {
+        "護": [
+          "1513530/保護/ほご",
+          "1271510/護衛/ごえい",
+          "1229120/救護/きゅうご"
+        ],
+        "士": [
+          "1364950/紳士/しんし",
+          "1307430/士官/しかん",
+          "1583680/武士/ぶし"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 89
+}

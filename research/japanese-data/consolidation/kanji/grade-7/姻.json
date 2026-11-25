@@ -1,0 +1,707 @@
+{
+  "character": "姻",
+  "grade": 7,
+  "meanings": [
+    "matrimony",
+    "marry"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 38
+    }
+  ],
+  "components": [
+    "女",
+    "大",
+    "囗"
+  ],
+  "on": [
+    "イン"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "姻",
+    "heading": "姻",
+    "readings": [
+      "イン"
+    ],
+    "examples_by_reading": [
+      [
+        "姻族",
+        "婚姻"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "姻",
+      "reading": "イン",
+      "source": "table_02_i.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "イン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 13,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1289650/婚姻/こんいん",
+        "1168790/姻族/いんぞく",
+        "1168780/姻戚/いんせき",
+        "1289660/婚姻届/こんいんとどけ",
+        "2835702/婚姻関係/こんいんかんけい",
+        "2409150/姻戚関係/いんせきかんけい",
+        "2236900/婚姻色/こんいんしょく",
+        "1289670/婚姻法/こんいんほう",
+        "2158700/婚姻手続き/こんいんてつづき",
+        "2158680/婚姻届書/こんいんとどけしょ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1289650/婚姻/こんいん",
+    "1168790/姻族/いんぞく",
+    "1168780/姻戚/いんせき",
+    "1289660/婚姻届/こんいんとどけ",
+    "2835702/婚姻関係/こんいんかんけい",
+    "2409150/姻戚関係/いんせきかんけい",
+    "2236900/婚姻色/こんいんしょく",
+    "1289670/婚姻法/こんいんほう",
+    "2158700/婚姻手続き/こんいんてつづき",
+    "2158680/婚姻届書/こんいんとどけしょ",
+    "2854293/婚姻受理証明書/こんいんじゅりしょうめいしょ",
+    "2636190/婚姻適齢/こんいんてきれい",
+    "2158710/婚姻要件具備証明書/こんいんようけんぐびしょうめいしょ",
+    "2158700/婚姻手続/こんいんてつづき",
+    "2404020/婚姻挙行者/こんいんきょこうしゃ",
+    "2158680/婚姻届け書/こんいんとどけしょ"
+  ],
+  "candidates": {
+    "1289650/婚姻/こんいん": {
+      "id": 1289650,
+      "form": "婚姻",
+      "kana": "こんいん",
+      "gloss": "marriage",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14413,
+        14523,
+        11204,
+        16084
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [
+        "イン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1168790/姻族/いんぞく": {
+      "id": 1168790,
+      "form": "姻族",
+      "kana": "いんぞく",
+      "gloss": "in-law",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        106463,
+        164835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "族": 3
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [
+        "イン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1168780/姻戚/いんせき": {
+      "id": 1168780,
+      "form": "姻戚",
+      "kana": "いんせき",
+      "gloss": "in-law",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40303,
+        73159,
+        103620,
+        98120
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戚": 7
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1289660/婚姻届/こんいんとどけ": {
+      "id": 1289660,
+      "form": "婚姻届",
+      "kana": "こんいんとどけ",
+      "gloss": "marriage registration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31748
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "届": 6,
+        "婚": 7
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835702/婚姻関係/こんいんかんけい": {
+      "id": 2835702,
+      "form": "婚姻関係",
+      "kana": "こんいんかんけい",
+      "gloss": "marital relationship",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        48534
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7,
+        "関": 4,
+        "係": 3
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2409150/姻戚関係/いんせきかんけい": {
+      "id": 2409150,
+      "form": "姻戚関係",
+      "kana": "いんせきかんけい",
+      "gloss": "relation by marriage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        91998
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "関": 4,
+        "戚": 7,
+        "係": 3
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2236900/婚姻色/こんいんしょく": {
+      "id": 2236900,
+      "form": "婚姻色",
+      "kana": "こんいんしょく",
+      "gloss": "nuptial coloration (colouration)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        241892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7,
+        "色": 2
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1289670/婚姻法/こんいんほう": {
+      "id": 1289670,
+      "form": "婚姻法",
+      "kana": "こんいんほう",
+      "gloss": "marriage laws",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        251642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7,
+        "法": 4
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2158700/婚姻手続き/こんいんてつづき": {
+      "id": 2158700,
+      "form": "婚姻手続き",
+      "kana": "こんいんてつづき",
+      "gloss": "marriage procedures",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7,
+        "手": 1,
+        "続": 4
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2158680/婚姻届書/こんいんとどけしょ": {
+      "id": 2158680,
+      "form": "婚姻届書",
+      "kana": "こんいんとどけしょ",
+      "gloss": "marriage registration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "届": 6,
+        "婚": 7,
+        "書": 2
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854293/婚姻受理証明書/こんいんじゅりしょうめいしょ": {
+      "id": 2854293,
+      "form": "婚姻受理証明書",
+      "kana": "こんいんじゅりしょうめいしょ",
+      "gloss": "marriage acceptance certificate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7,
+        "書": 2,
+        "受": 3,
+        "証": 5,
+        "明": 2,
+        "理": 2
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2636190/婚姻適齢/こんいんてきれい": {
+      "id": 2636190,
+      "form": "婚姻適齢",
+      "kana": "こんいんてきれい",
+      "gloss": "legal age of marriage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7,
+        "齢": 7,
+        "適": 5
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2158710/婚姻要件具備証明書/こんいんようけんぐびしょうめいしょ": {
+      "id": 2158710,
+      "form": "婚姻要件具備証明書",
+      "kana": "こんいんようけんぐびしょうめいしょ",
+      "gloss": "certificate of legal capacity to contract marriage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7,
+        "備": 5,
+        "書": 2,
+        "要": 4,
+        "証": 5,
+        "具": 3,
+        "件": 5,
+        "明": 2
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2158700/婚姻手続/こんいんてつづき": {
+      "id": 2158700,
+      "form": "婚姻手続",
+      "kana": "こんいんてつづき",
+      "gloss": "marriage procedures",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "婚": 7,
+        "手": 1,
+        "続": 4
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2404020/婚姻挙行者/こんいんきょこうしゃ": {
+      "id": 2404020,
+      "form": "婚姻挙行者",
+      "kana": "こんいんきょこうしゃ",
+      "gloss": "marriage solemnizer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "行": 2,
+        "婚": 7,
+        "挙": 4,
+        "者": 3
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2158680/婚姻届け書/こんいんとどけしょ": {
+      "id": 2158680,
+      "form": "婚姻届け書",
+      "kana": "こんいんとどけしょ",
+      "gloss": "marriage registration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "届": 6,
+        "婚": 7,
+        "書": 2
+      },
+      "matched": {
+        "イン": {
+          "actual": "いん",
+          "dictionary": [
+            "イン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1289650:婚姻:こんいん",
+      "form": "婚姻",
+      "kana": "こんいん",
+      "cue": "marriage; matrimony",
+      "ids": [
+        1289650
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 16084,
+        "shiberu": 14413,
+        "tubelex": 14523,
+        "wordfreq": 11204
+      },
+      "alternatives_by_kanji": {
+        "姻": [
+          "1168790/姻族/いんぞく",
+          "1168780/姻戚/いんせき",
+          "1289660/婚姻届/こんいんとどけ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

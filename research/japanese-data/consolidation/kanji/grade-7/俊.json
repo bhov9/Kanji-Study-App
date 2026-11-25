@@ -1,0 +1,725 @@
+{
+  "character": "俊",
+  "grade": 7,
+  "meanings": [
+    "sagacious",
+    "genius",
+    "excellence"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "儿",
+    "厶",
+    "夂"
+  ],
+  "on": [
+    "シュン"
+  ],
+  "kun": [],
+  "nanori": [
+    "すぐる",
+    "とし"
+  ],
+  "government": {
+    "kanji": "俊",
+    "heading": "俊",
+    "readings": [
+      "シュン"
+    ],
+    "examples_by_reading": [
+      [
+        "俊敏",
+        "俊秀",
+        "俊才"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "俊",
+      "reading": "シュン",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シュン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 13,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1340980/俊敏/しゅんびん",
+        "1594890/俊秀/しゅんしゅう",
+        "1340920/俊才/しゅんさい",
+        "1340940/俊足/しゅんそく",
+        "1340880/俊英/しゅんえい",
+        "1340890/俊傑/しゅんけつ",
+        "1784490/英俊/えいしゅん",
+        "1340960/俊徳/しゅんとく",
+        "1340910/俊豪/しゅんごう",
+        "1340870/俊逸/しゅんいつ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1340980/俊敏/しゅんびん",
+    "1594890/俊秀/しゅんしゅう",
+    "1340920/俊才/しゅんさい",
+    "1340940/俊足/しゅんそく",
+    "1340880/俊英/しゅんえい",
+    "1340890/俊傑/しゅんけつ",
+    "1784490/英俊/えいしゅん",
+    "1340960/俊徳/しゅんとく",
+    "1340910/俊豪/しゅんごう",
+    "1340870/俊逸/しゅんいつ",
+    "1340950/俊童/しゅんどう",
+    "1340930/俊士/しゅんし",
+    "1340970/俊抜/しゅんばつ",
+    "1340900/俊賢/しゅんけん",
+    "1340860/俊偉/しゅんい",
+    "1580160/俊/しゅん",
+    "1882280/俊彦/しゅんげん"
+  ],
+  "candidates": {
+    "1340980/俊敏/しゅんびん": {
+      "id": 1340980,
+      "form": "俊敏",
+      "kana": "しゅんびん",
+      "gloss": "quick-witted and agile",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23339,
+        25936,
+        35359,
+        16732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敏": 7
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [
+        "シュン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1594890/俊秀/しゅんしゅう": {
+      "id": 1594890,
+      "form": "俊秀",
+      "kana": "しゅんしゅう",
+      "gloss": "genius",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        104555,
+        153548
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秀": 7
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [
+        "シュン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1340920/俊才/しゅんさい": {
+      "id": 1340920,
+      "form": "俊才",
+      "kana": "しゅんさい",
+      "gloss": "prodigy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        143561,
+        105774
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "才": 2
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [
+        "シュン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1340940/俊足/しゅんそく": {
+      "id": 1340940,
+      "form": "俊足",
+      "kana": "しゅんそく",
+      "gloss": "swiftness of foot",
+      "senses": [
+        0,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48192,
+        53687,
+        39429
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "足": 1
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340880/俊英/しゅんえい": {
+      "id": 1340880,
+      "form": "俊英",
+      "kana": "しゅんえい",
+      "gloss": "excellence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        59434,
+        68820
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "英": 4
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340890/俊傑/しゅんけつ": {
+      "id": 1340890,
+      "form": "俊傑",
+      "kana": "しゅんけつ",
+      "gloss": "hero",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        203403,
+        177639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "傑": 7
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1784490/英俊/えいしゅん": {
+      "id": 1784490,
+      "form": "英俊",
+      "kana": "えいしゅん",
+      "gloss": "genius",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        93020,
+        138047
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "英": 4
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340960/俊徳/しゅんとく": {
+      "id": 1340960,
+      "form": "俊徳",
+      "kana": "しゅんとく",
+      "gloss": "great virtue",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        105543,
+        300061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "徳": 4
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340910/俊豪/しゅんごう": {
+      "id": 1340910,
+      "form": "俊豪",
+      "kana": "しゅんごう",
+      "gloss": "talent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "豪": 7
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340870/俊逸/しゅんいつ": {
+      "id": 1340870,
+      "form": "俊逸",
+      "kana": "しゅんいつ",
+      "gloss": "excellence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "逸": 7
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340950/俊童/しゅんどう": {
+      "id": 1340950,
+      "form": "俊童",
+      "kana": "しゅんどう",
+      "gloss": "precocious child",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "童": 3
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340930/俊士/しゅんし": {
+      "id": 1340930,
+      "form": "俊士",
+      "kana": "しゅんし",
+      "gloss": "genius",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "士": 5
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340970/俊抜/しゅんばつ": {
+      "id": 1340970,
+      "form": "俊抜",
+      "kana": "しゅんばつ",
+      "gloss": "uncommon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "抜": 7
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340900/俊賢/しゅんけん": {
+      "id": 1340900,
+      "form": "俊賢",
+      "kana": "しゅんけん",
+      "gloss": "excellent wisdom",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "賢": 7
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1340860/俊偉/しゅんい": {
+      "id": 1340860,
+      "form": "俊偉",
+      "kana": "しゅんい",
+      "gloss": "large and excellent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "偉": 7
+      },
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1580160/俊/しゅん": {
+      "id": 1580160,
+      "form": "俊",
+      "kana": "しゅん",
+      "gloss": "excellence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        12892,
+        56817
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1882280/俊彦/しゅんげん": {
+      "id": 1882280,
+      "form": "俊彦",
+      "kana": "しゅんげん",
+      "gloss": "gifted man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        32185,
+        91012
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シュン": {
+          "actual": "しゅん",
+          "dictionary": [
+            "シュン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1340940:俊足:しゅんそく",
+      "form": "俊足",
+      "kana": "しゅんそく",
+      "cue": "swiftness of foot; fast runner",
+      "ids": [
+        1340940
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 39429,
+        "tubelex": 48192,
+        "wordfreq": 53687
+      },
+      "alternatives_by_kanji": {
+        "足": [
+          "1404740/足りる/たりる",
+          "1404700/足す/たす",
+          "1581330/足跡/あしあと"
+        ],
+        "俊": [
+          "1340980/俊敏/しゅんびん",
+          "1594890/俊秀/しゅんしゅう",
+          "1340920/俊才/しゅんさい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

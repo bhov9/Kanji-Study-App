@@ -1,0 +1,1352 @@
+{
+  "character": "価",
+  "grade": 5,
+  "meanings": [
+    "value",
+    "price"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "西"
+  ],
+  "on": [
+    "カ",
+    "ケ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あたい",
+      "stem": "あたい",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "価",
+    "heading": "価（價）",
+    "readings": [
+      "カ",
+      "あたい"
+    ],
+    "examples_by_reading": [
+      [
+        "価値",
+        "価格",
+        "評価"
+      ],
+      [
+        "価"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔値"
+    ],
+    "representative_index": {
+      "kanji": "価",
+      "reading": "カ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 278,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1490010/評価/ひょうか",
+        "1189600/価値/かち",
+        "1189500/価格/かかく",
+        "2827787/価/か",
+        "1283300/高価/こうか",
+        "1208950/株価/かぶか",
+        "1502430/物価/ぶっか",
+        "1153740/安価/あんか",
+        "1435410/定価/ていか",
+        "1417190/単価/たんか"
+      ]
+    },
+    {
+      "reading": "あたい",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1581630/価/あたい",
+        "1609040/価する/あたいする",
+        "1620300/価千金/あたいせんきん"
+      ]
+    },
+    {
+      "reading": "ケ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1490010/評価/ひょうか",
+    "1189600/価値/かち",
+    "1189500/価格/かかく",
+    "1581630/価/あたい",
+    "2827787/価/か",
+    "1283300/高価/こうか",
+    "1208950/株価/かぶか",
+    "1502430/物価/ぶっか",
+    "1153740/安価/あんか",
+    "1435410/定価/ていか",
+    "1417190/単価/たんか",
+    "1655380/対価/たいか",
+    "1592820/原価/げんか",
+    "1661650/特価/とっか",
+    "1558650/廉価/れんか",
+    "1420930/地価/ちか",
+    "1363470/真価/しんか",
+    "1449400/等価/とうか",
+    "1411660/代価/だいか",
+    "1745450/有価/ゆうか",
+    "1189590/価額/かがく",
+    "1508810/米価/べいか",
+    "1753120/売価/ばいか",
+    "1507100/平価/へいか",
+    "1315910/時価/じか",
+    "1263140/減価/げんか",
+    "1538180/薬価/やっか",
+    "1308140/市価/しか",
+    "2789990/換価/かんか",
+    "1655120/予価/よか"
+  ],
+  "candidates": {
+    "1490010/評価/ひょうか": {
+      "id": 1490010,
+      "form": "評価",
+      "kana": "ひょうか",
+      "gloss": "valuation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1299,
+        477,
+        685,
+        2233
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "評": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1189600/価値/かち": {
+      "id": 1189600,
+      "form": "価値",
+      "kana": "かち",
+      "gloss": "value",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        849,
+        990,
+        883,
+        1416
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "値": 6
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1189500/価格/かかく": {
+      "id": 1189500,
+      "form": "価格",
+      "kana": "かかく",
+      "gloss": "price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1077,
+        710,
+        1089,
+        9681
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "格": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1581630/価/あたい": {
+      "id": 1581630,
+      "form": "価",
+      "kana": "あたい",
+      "gloss": "price",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        51201
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [
+        "あたい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2827787/価/か": {
+      "id": 2827787,
+      "form": "価",
+      "kana": "か",
+      "gloss": "valence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n-suf",
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        53876
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あたい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1283300/高価/こうか": {
+      "id": 1283300,
+      "form": "高価",
+      "kana": "こうか",
+      "gloss": "highly priced",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2248,
+        6206,
+        7146,
+        6563
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1208950/株価/かぶか": {
+      "id": 1208950,
+      "form": "株価",
+      "kana": "かぶか",
+      "gloss": "stock prices",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4201,
+        3558,
+        6169,
+        30266
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "株": 6
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1502430/物価/ぶっか": {
+      "id": 1502430,
+      "form": "物価",
+      "kana": "ぶっか",
+      "gloss": "prices of commodities",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8376,
+        4153,
+        12479,
+        31424
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1153740/安価/あんか": {
+      "id": 1153740,
+      "form": "安価",
+      "kana": "あんか",
+      "gloss": "low-priced",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9780,
+        8027,
+        8031,
+        23370
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435410/定価/ていか": {
+      "id": 1435410,
+      "form": "定価",
+      "kana": "ていか",
+      "gloss": "list price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11833,
+        9836,
+        7509,
+        23523
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1417190/単価/たんか": {
+      "id": 1417190,
+      "form": "単価",
+      "kana": "たんか",
+      "gloss": "unit price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        28336,
+        7133,
+        13090,
+        40312
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "単": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655380/対価/たいか": {
+      "id": 1655380,
+      "form": "対価",
+      "kana": "たいか",
+      "gloss": "compensation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29215,
+        13039,
+        13682,
+        10725
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "対": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592820/原価/げんか": {
+      "id": 1592820,
+      "form": "原価",
+      "kana": "げんか",
+      "gloss": "cost price",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17786,
+        12746,
+        16052,
+        38279
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661650/特価/とっか": {
+      "id": 1661650,
+      "form": "特価",
+      "kana": "とっか",
+      "gloss": "special price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39265,
+        14777,
+        11740,
+        69326
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "特": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1558650/廉価/れんか": {
+      "id": 1558650,
+      "form": "廉価",
+      "kana": "れんか",
+      "gloss": "low price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        15345,
+        20507,
+        19040,
+        90851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "廉": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1420930/地価/ちか": {
+      "id": 1420930,
+      "form": "地価",
+      "kana": "ちか",
+      "gloss": "the price of land",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15150,
+        23499,
+        19596,
+        54845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1363470/真価/しんか": {
+      "id": 1363470,
+      "form": "真価",
+      "kana": "しんか",
+      "gloss": "true value",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19525,
+        25604,
+        27016,
+        19776
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "真": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449400/等価/とうか": {
+      "id": 1449400,
+      "form": "等価",
+      "kana": "とうか",
+      "gloss": "equivalence",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27354,
+        22935,
+        26690,
+        42836
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "等": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1411660/代価/だいか": {
+      "id": 1411660,
+      "form": "代価",
+      "kana": "だいか",
+      "gloss": "price",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20598,
+        28068,
+        39764,
+        29447
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1745450/有価/ゆうか": {
+      "id": 1745450,
+      "form": "有価",
+      "kana": "ゆうか",
+      "gloss": "valuable (object)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        32684,
+        23835,
+        27344,
+        192721
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "有": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1189590/価額/かがく": {
+      "id": 1189590,
+      "form": "価額",
+      "kana": "かがく",
+      "gloss": "valuation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37158,
+        36842,
+        46387,
+        155378
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "額": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1508810/米価/べいか": {
+      "id": 1508810,
+      "form": "米価",
+      "kana": "べいか",
+      "gloss": "rice price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21203,
+        67088,
+        92126,
+        149563
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "米": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753120/売価/ばいか": {
+      "id": 1753120,
+      "form": "売価",
+      "kana": "ばいか",
+      "gloss": "selling price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37234,
+        51509,
+        53182,
+        123159
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "売": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1507100/平価/へいか": {
+      "id": 1507100,
+      "form": "平価",
+      "kana": "へいか",
+      "gloss": "normal prices",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29605,
+        70964,
+        71447,
+        184644
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1315910/時価/じか": {
+      "id": 1315910,
+      "form": "時価",
+      "kana": "じか",
+      "gloss": "current value",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        10407,
+        22289,
+        49780
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1263140/減価/げんか": {
+      "id": 1263140,
+      "form": "減価",
+      "kana": "げんか",
+      "gloss": "price reduction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        21060,
+        41163,
+        208167
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "減": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538180/薬価/やっか": {
+      "id": 1538180,
+      "form": "薬価",
+      "kana": "やっか",
+      "gloss": "drug price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45909,
+        52075,
+        200001
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1308140/市価/しか": {
+      "id": 1308140,
+      "form": "市価",
+      "kana": "しか",
+      "gloss": "market price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        93020,
+        115464
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "市": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2789990/換価/かんか": {
+      "id": 2789990,
+      "form": "換価",
+      "kana": "かんか",
+      "gloss": "appraisal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        100834,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "換": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655120/予価/よか": {
+      "id": 1655120,
+      "form": "予価",
+      "kana": "よか",
+      "gloss": "probable (predetermined) price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        98142,
+        140780
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1609040/価する/あたいする": {
+      "id": 1609040,
+      "form": "価する",
+      "kana": "あたいする",
+      "gloss": "to be worth",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "vs-i",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        84816,
+        69111
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620300/価千金/あたいせんきん": {
+      "id": 1620300,
+      "form": "価千金",
+      "kana": "あたいせんきん",
+      "gloss": "priceless",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        210253
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "千": 1,
+        "金": 1
+      },
+      "matched": {
+        "あたい": {
+          "actual": "あたい",
+          "dictionary": [
+            "あたい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1189500:価格:かかく",
+      "form": "価格",
+      "kana": "かかく",
+      "cue": "price; value",
+      "ids": [
+        1189500
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9681,
+        "shiberu": 1077,
+        "tubelex": 710,
+        "wordfreq": 1089
+      },
+      "alternatives_by_kanji": {
+        "価": [
+          "1490010/評価/ひょうか",
+          "1189600/価値/かち",
+          "1581630/価/あたい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1189600:価値:かち",
+      "form": "価値",
+      "kana": "かち",
+      "cue": "value; worth",
+      "ids": [
+        1189600
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1416,
+        "shiberu": 849,
+        "tubelex": 990,
+        "wordfreq": 883
+      },
+      "alternatives_by_kanji": {
+        "価": [
+          "1490010/評価/ひょうか",
+          "1189500/価格/かかく",
+          "1581630/価/あたい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1490010:評価:ひょうか",
+      "form": "評価",
+      "kana": "ひょうか",
+      "cue": "valuation; appraisal",
+      "ids": [
+        1490010
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2233,
+        "shiberu": 1299,
+        "tubelex": 477,
+        "wordfreq": 685
+      },
+      "alternatives_by_kanji": {
+        "価": [
+          "1189600/価値/かち",
+          "1189500/価格/かかく",
+          "1581630/価/あたい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

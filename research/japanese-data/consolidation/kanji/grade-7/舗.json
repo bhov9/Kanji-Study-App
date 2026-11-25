@@ -1,0 +1,1133 @@
+{
+  "character": "舗",
+  "grade": 7,
+  "meanings": [
+    "shop",
+    "store",
+    "pave"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "口",
+    "十",
+    "土",
+    "用",
+    "个",
+    "丶"
+  ],
+  "on": [
+    "ホ"
+  ],
+  "kun": [],
+  "nanori": [
+    "き"
+  ],
+  "government": {
+    "kanji": "舗",
+    "heading": "舗",
+    "readings": [
+      "ホ"
+    ],
+    "examples_by_reading": [
+      [
+        "舗装",
+        "店舗"
+      ]
+    ],
+    "note_lines": [
+      "老舗（しにせ）"
+    ],
+    "representative_index": {
+      "kanji": "舗",
+      "reading": "ホ",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "老舗"
+      ],
+      "reading": "しにせ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ホ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 16,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1440800/店舗/てんぽ",
+        "1514070/舗装/ほそう",
+        "1514050/舗/ほ",
+        "1514100/舗道/ほどう",
+        "1422860/茶舗/ちゃほ",
+        "1662080/薬舗/やくほ",
+        "1514060/舗石/ほせき",
+        "1514080/舗装道路/ほそうどうろ",
+        "2651620/未舗装/みほそう",
+        "2271150/舗装路/ほそうろ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1440800/店舗/てんぽ",
+    "1514070/舗装/ほそう",
+    "1514050/舗/ほ",
+    "1514100/舗道/ほどう",
+    "1422860/茶舗/ちゃほ",
+    "1662080/薬舗/やくほ",
+    "1514060/舗石/ほせき",
+    "1514080/舗装道路/ほそうどうろ",
+    "2651620/未舗装/みほそう",
+    "2271150/舗装路/ほそうろ",
+    "2864259/未舗装路/みほそうろ",
+    "1347360/商舗/しょうほ",
+    "1911690/名舗/めいほ",
+    "2464470/質舗/しちほ",
+    "1514090/舗装煉瓦/ほそうれんが",
+    "1884260/新聞舗/しんぶんほ",
+    "2864063/老舗/ろうほ",
+    "2844296/印舗/いんほ",
+    "2855753/舗装機械/ほそうきかい",
+    "2851723/カラー舗装/カラーほそう",
+    "1627400/本舗/ほんぽ",
+    "1585290/老舗/しにせ",
+    "2850669/新店舗/しんてんぽ",
+    "2867607/空き店舗/あきてんぽ",
+    "2768200/実店舗/じってんぽ",
+    "2801920/老舗店/しにせてん",
+    "1865220/貸店舗/かしてんぽ",
+    "2852876/仮店舗/かりてんぽ",
+    "2851850/店舗名/てんぽめい",
+    "1865220/貸し店舗/かしてんぽ"
+  ],
+  "candidates": {
+    "1440800/店舗/てんぽ": {
+      "id": 1440800,
+      "form": "店舗",
+      "kana": "てんぽ",
+      "gloss": "shop",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9399,
+        2006,
+        1504,
+        9442
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ぽ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ホ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1514070/舗装/ほそう": {
+      "id": 1514070,
+      "form": "舗装",
+      "kana": "ほそう",
+      "gloss": "paving (a road)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17041,
+        11471,
+        16052,
+        17965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "装": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1514050/舗/ほ": {
+      "id": 1514050,
+      "form": "舗",
+      "kana": "ほ",
+      "gloss": "shop",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24498,
+        44959,
+        63618,
+        72770
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1514100/舗道/ほどう": {
+      "id": 1514100,
+      "form": "舗道",
+      "kana": "ほどう",
+      "gloss": "paved road",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28594,
+        58680,
+        69479,
+        74635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1422860/茶舗/ちゃほ": {
+      "id": 1422860,
+      "form": "茶舗",
+      "kana": "ちゃほ",
+      "gloss": "tea store",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        120731,
+        196797
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "茶": 2
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1662080/薬舗/やくほ": {
+      "id": 1662080,
+      "form": "薬舗",
+      "kana": "やくほ",
+      "gloss": "drugstore",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        158644,
+        183401
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1514060/舗石/ほせき": {
+      "id": 1514060,
+      "form": "舗石",
+      "kana": "ほせき",
+      "gloss": "paving stone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        null,
+        212373
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1514080/舗装道路/ほそうどうろ": {
+      "id": 1514080,
+      "form": "舗装道路",
+      "kana": "ほそうどうろ",
+      "gloss": "paved road",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        73406
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3,
+        "道": 2,
+        "装": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2651620/未舗装/みほそう": {
+      "id": 2651620,
+      "form": "未舗装",
+      "kana": "みほそう",
+      "gloss": "unpaved",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        73701
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "未": 4,
+        "装": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2271150/舗装路/ほそうろ": {
+      "id": 2271150,
+      "form": "舗装路",
+      "kana": "ほそうろ",
+      "gloss": "paved road",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        74075
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3,
+        "装": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864259/未舗装路/みほそうろ": {
+      "id": 2864259,
+      "form": "未舗装路",
+      "kana": "みほそうろ",
+      "gloss": "unpaved road",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147365
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "未": 4,
+        "路": 3,
+        "装": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1347360/商舗/しょうほ": {
+      "id": 1347360,
+      "form": "商舗",
+      "kana": "しょうほ",
+      "gloss": "shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        280627
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "商": 3
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1911690/名舗/めいほ": {
+      "id": 1911690,
+      "form": "名舗",
+      "kana": "めいほ",
+      "gloss": "quality shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2464470/質舗/しちほ": {
+      "id": 2464470,
+      "form": "質舗",
+      "kana": "しちほ",
+      "gloss": "pawnshop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "質": 5
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1514090/舗装煉瓦/ほそうれんが": {
+      "id": 1514090,
+      "form": "舗装煉瓦",
+      "kana": "ほそうれんが",
+      "gloss": "paving brick",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "瓦": 7,
+        "装": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1884260/新聞舗/しんぶんほ": {
+      "id": 1884260,
+      "form": "新聞舗",
+      "kana": "しんぶんほ",
+      "gloss": "newspaper distributor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "新": 2,
+        "聞": 2
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864063/老舗/ろうほ": {
+      "id": 2864063,
+      "form": "老舗",
+      "kana": "ろうほ",
+      "gloss": "long-established shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "老": 4
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2844296/印舗/いんほ": {
+      "id": 2844296,
+      "form": "印舗",
+      "kana": "いんほ",
+      "gloss": "seal shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "印": 4
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855753/舗装機械/ほそうきかい": {
+      "id": 2855753,
+      "form": "舗装機械",
+      "kana": "ほそうきかい",
+      "gloss": "paving machine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "械": 4,
+        "機": 4,
+        "装": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851723/カラー舗装/カラーほそう": {
+      "id": 2851723,
+      "form": "カラー舗装",
+      "kana": "カラーほそう",
+      "gloss": "coloured pavement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "装": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1627400/本舗/ほんぽ": {
+      "id": 1627400,
+      "form": "本舗",
+      "kana": "ほんぽ",
+      "gloss": "head office",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32775,
+        20809,
+        17251,
+        81399
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1585290/老舗/しにせ": {
+      "id": 1585290,
+      "form": "老舗",
+      "kana": "しにせ",
+      "gloss": "long-established shop",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "老": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2850669/新店舗/しんてんぽ": {
+      "id": 2850669,
+      "form": "新店舗",
+      "kana": "しんてんぽ",
+      "gloss": "new shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        72974
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2,
+        "店": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2867607/空き店舗/あきてんぽ": {
+      "id": 2867607,
+      "form": "空き店舗",
+      "kana": "あきてんぽ",
+      "gloss": "vacant store",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        94986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1,
+        "店": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2768200/実店舗/じってんぽ": {
+      "id": 2768200,
+      "form": "実店舗",
+      "kana": "じってんぽ",
+      "gloss": "brick and mortar business",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114901
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3,
+        "店": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2801920/老舗店/しにせてん": {
+      "id": 2801920,
+      "form": "老舗店",
+      "kana": "しにせてん",
+      "gloss": "long-established shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        138312
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "老": 4,
+        "店": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1865220/貸店舗/かしてんぽ": {
+      "id": 1865220,
+      "form": "貸店舗",
+      "kana": "かしてんぽ",
+      "gloss": "store for rent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        150754
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2,
+        "貸": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2852876/仮店舗/かりてんぽ": {
+      "id": 2852876,
+      "form": "仮店舗",
+      "kana": "かりてんぽ",
+      "gloss": "temporary store",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        168522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2,
+        "仮": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2851850/店舗名/てんぽめい": {
+      "id": 2851850,
+      "form": "店舗名",
+      "kana": "てんぽめい",
+      "gloss": "store name",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        171324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2,
+        "名": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1865220/貸し店舗/かしてんぽ": {
+      "id": 1865220,
+      "form": "貸し店舗",
+      "kana": "かしてんぽ",
+      "gloss": "store for rent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        199240
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2,
+        "貸": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1440800:店舗:てんぽ",
+      "form": "店舗",
+      "kana": "てんぽ",
+      "cue": "shop; store",
+      "ids": [
+        1440800
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9442,
+        "shiberu": 9399,
+        "tubelex": 2006,
+        "wordfreq": 1504
+      },
+      "alternatives_by_kanji": {
+        "店": [
+          "1202870/開店/かいてん",
+          "1523020/本店/ほんてん",
+          "1606030/夜店/よみせ"
+        ],
+        "舗": [
+          "1514070/舗装/ほそう",
+          "1514050/舗/ほ",
+          "1514100/舗道/ほどう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 29
+}

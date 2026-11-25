@@ -1,0 +1,1329 @@
+{
+  "character": "炊",
+  "grade": 7,
+  "meanings": [
+    "cook",
+    "boil"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 86
+    }
+  ],
+  "components": [
+    "火",
+    "欠"
+  ],
+  "on": [
+    "スイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "た.く",
+      "stem": "た",
+      "okurigana": "く"
+    },
+    {
+      "sourceNotation": "-だ.き",
+      "stem": "-だ",
+      "okurigana": "き"
+    }
+  ],
+  "nanori": [
+    "い"
+  ],
+  "government": {
+    "kanji": "炊",
+    "heading": "炊",
+    "readings": [
+      "スイ",
+      "たく"
+    ],
+    "examples_by_reading": [
+      [
+        "炊事",
+        "自炊",
+        "雑炊"
+      ],
+      [
+        "炊く",
+        "飯炊き"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "炊",
+      "reading": "スイ",
+      "source": "table_13_su.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "スイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 20,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1318010/自炊/じすい",
+        "1372350/炊事/すいじ",
+        "1299440/雑炊/ぞうすい",
+        "2447800/炊飯/すいはん",
+        "1713630/炊爨/すいさん",
+        "2860160/炊煙/すいえん",
+        "1713630/炊さん/すいさん",
+        "1372360/炊飯器/すいはんき",
+        "1713620/炊事場/すいじば",
+        "2749070/炊飯ジャー/すいはんジャー"
+      ]
+    },
+    {
+      "reading": "たく",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1656580/飯炊き/めしたき",
+        "1596830/炊く/たく"
+      ]
+    },
+    {
+      "reading": "だき",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1371690/水炊き/みずだき",
+        "2780710/湯炊き/ゆだき",
+        "1738100/追い炊き/おいだき",
+        "2851397/早炊き/はやだき",
+        "2142140/関東炊き/かんとうだき",
+        "2424260/みそ炊き/みそだき",
+        "1738100/追炊き/おいだき",
+        "1620560/一リットル炊き/いちリットルだき",
+        "2424260/味噌炊き/みそだき",
+        "2142140/関東炊き/かんとだき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1318010/自炊/じすい",
+    "1372350/炊事/すいじ",
+    "1299440/雑炊/ぞうすい",
+    "1656580/飯炊き/めしたき",
+    "1596830/炊く/たく",
+    "2447800/炊飯/すいはん",
+    "1371690/水炊き/みずだき",
+    "1713630/炊爨/すいさん",
+    "2860160/炊煙/すいえん",
+    "1713630/炊さん/すいさん",
+    "2780710/湯炊き/ゆだき",
+    "1372360/炊飯器/すいはんき",
+    "1713620/炊事場/すいじば",
+    "2749070/炊飯ジャー/すいはんジャー",
+    "1738100/追い炊き/おいだき",
+    "2866544/炊事係/すいじがかり",
+    "2851397/早炊き/はやだき",
+    "2639090/電気炊飯器/でんきすいはんき",
+    "1163920/一炊の夢/いっすいのゆめ",
+    "1234910/共同炊事場/きょうどうすいじば",
+    "2831950/炊事婦/すいじぶ",
+    "1372360/炊飯機/すいはんき",
+    "2854718/炊飯棟/すいはんとう",
+    "2142140/関東炊き/かんとうだき",
+    "2860160/炊烟/すいえん",
+    "2424260/みそ炊き/みそだき",
+    "1713610/炊夫/すいふ",
+    "1738100/追炊き/おいだき",
+    "1655290/炊婦/すいふ",
+    "1620560/一リットル炊き/いちリットルだき"
+  ],
+  "candidates": {
+    "1318010/自炊/じすい": {
+      "id": 1318010,
+      "form": "自炊",
+      "kana": "じすい",
+      "gloss": "cooking for oneself",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17204,
+        17427,
+        17491,
+        19547
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "スイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1372350/炊事/すいじ": {
+      "id": 1372350,
+      "form": "炊事",
+      "kana": "すいじ",
+      "gloss": "cooking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        19506,
+        25604,
+        36201,
+        23938
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "スイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1299440/雑炊/ぞうすい": {
+      "id": 1299440,
+      "form": "雑炊",
+      "kana": "ぞうすい",
+      "gloss": "rice porridge made by simmering cooked rice in a seasoned broth, often containing vegetables, fish, etc. (usu. made from leftovers)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36552,
+        25300,
+        32914,
+        37265
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雑": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "スイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1656580/飯炊き/めしたき": {
+      "id": 1656580,
+      "form": "飯炊き",
+      "kana": "めしたき",
+      "gloss": "cooking rice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39745,
+        58680,
+        93020,
+        70598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4
+      },
+      "matched": {
+        "たく": {
+          "actual": "た",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "たく"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1596830/炊く/たく": {
+      "id": 1596830,
+      "form": "炊く",
+      "kana": "たく",
+      "gloss": "to cook (grains, e.g. rice)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6255,
+        null,
+        25402,
+        12705
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たく": {
+          "actual": "た",
+          "dictionary": [
+            "た.く"
+          ]
+        }
+      },
+      "official_examples": [
+        "たく"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2447800/炊飯/すいはん": {
+      "id": 2447800,
+      "form": "炊飯",
+      "kana": "すいはん",
+      "gloss": "rice cooking",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12387,
+        9910,
+        12107,
+        67548
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371690/水炊き/みずだき": {
+      "id": 1371690,
+      "form": "水炊き",
+      "kana": "みずだき",
+      "gloss": "food (esp. chicken and vegetables) boiled in plain water (or sometimes dashi, etc.) and served with dipping sauce (esp. ponzu)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44959,
+        42050,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713630/炊爨/すいさん": {
+      "id": 1713630,
+      "form": "炊爨",
+      "kana": "すいさん",
+      "gloss": "cooking (rice, grains)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        126439,
+        117334
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860160/炊煙/すいえん": {
+      "id": 2860160,
+      "form": "炊煙",
+      "kana": "すいえん",
+      "gloss": "smoke from cooking",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        123100
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "煙": 7
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713630/炊さん/すいさん": {
+      "id": 1713630,
+      "form": "炊さん",
+      "kana": "すいさん",
+      "gloss": "cooking (rice, grains)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        209179,
+        120719
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2780710/湯炊き/ゆだき": {
+      "id": 2780710,
+      "form": "湯炊き",
+      "kana": "ゆだき",
+      "gloss": "boiling (esp. rice)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "湯": 3
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1372360/炊飯器/すいはんき": {
+      "id": 1372360,
+      "form": "炊飯器",
+      "kana": "すいはんき",
+      "gloss": "rice cooker",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28185
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4,
+        "器": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713620/炊事場/すいじば": {
+      "id": 1713620,
+      "form": "炊事場",
+      "kana": "すいじば",
+      "gloss": "kitchen",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49879
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "場": 2,
+        "事": 3
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2749070/炊飯ジャー/すいはんジャー": {
+      "id": 2749070,
+      "form": "炊飯ジャー",
+      "kana": "すいはんジャー",
+      "gloss": "rice cooker and warmer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        91172
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1738100/追い炊き/おいだき": {
+      "id": 1738100,
+      "form": "追い炊き",
+      "kana": "おいだき",
+      "gloss": "reheating bathwater",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        116883
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866544/炊事係/すいじがかり": {
+      "id": 2866544,
+      "form": "炊事係",
+      "kana": "すいじがかり",
+      "gloss": "cook",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        123955
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "係": 3
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851397/早炊き/はやだき": {
+      "id": 2851397,
+      "form": "早炊き",
+      "kana": "はやだき",
+      "gloss": "cooking (rice) quickly (e.g. by using a quick cook function on a rice cooker)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        124728
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "早": 1
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2639090/電気炊飯器/でんきすいはんき": {
+      "id": 2639090,
+      "form": "電気炊飯器",
+      "kana": "でんきすいはんき",
+      "gloss": "electric rice-cooker",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        167860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4,
+        "飯": 4,
+        "気": 1,
+        "電": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1163920/一炊の夢/いっすいのゆめ": {
+      "id": 1163920,
+      "form": "一炊の夢",
+      "kana": "いっすいのゆめ",
+      "gloss": "empty dream",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        175346
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "夢": 5,
+        "一": 1
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1234910/共同炊事場/きょうどうすいじば": {
+      "id": 1234910,
+      "form": "共同炊事場",
+      "kana": "きょうどうすいじば",
+      "gloss": "community kitchen",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        197950
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "場": 2,
+        "事": 3,
+        "同": 2,
+        "共": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831950/炊事婦/すいじぶ": {
+      "id": 2831950,
+      "form": "炊事婦",
+      "kana": "すいじぶ",
+      "gloss": "woman who assists in food preparation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        245648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "婦": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1372360/炊飯機/すいはんき": {
+      "id": 1372360,
+      "form": "炊飯機",
+      "kana": "すいはんき",
+      "gloss": "rice cooker",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        255434
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4,
+        "機": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854718/炊飯棟/すいはんとう": {
+      "id": 2854718,
+      "form": "炊飯棟",
+      "kana": "すいはんとう",
+      "gloss": "campground cooking pavilion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        270613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4,
+        "棟": 7
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2142140/関東炊き/かんとうだき": {
+      "id": 2142140,
+      "form": "関東炊き",
+      "kana": "かんとうだき",
+      "gloss": "oden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "関": 4,
+        "東": 2
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860160/炊烟/すいえん": {
+      "id": 2860160,
+      "form": "炊烟",
+      "kana": "すいえん",
+      "gloss": "smoke from cooking",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2424260/みそ炊き/みそだき": {
+      "id": 2424260,
+      "form": "みそ炊き",
+      "kana": "みそだき",
+      "gloss": "food cooked in miso",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713610/炊夫/すいふ": {
+      "id": 1713610,
+      "form": "炊夫",
+      "kana": "すいふ",
+      "gloss": "male cook",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        389790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "夫": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1738100/追炊き/おいだき": {
+      "id": 1738100,
+      "form": "追炊き",
+      "kana": "おいだき",
+      "gloss": "reheating bathwater",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655290/炊婦/すいふ": {
+      "id": 1655290,
+      "form": "炊婦",
+      "kana": "すいふ",
+      "gloss": "(female) cook",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婦": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620560/一リットル炊き/いちリットルだき": {
+      "id": 1620560,
+      "form": "一リットル炊き",
+      "kana": "いちリットルだき",
+      "gloss": "having a cooking capacity of one liter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2424260/味噌炊き/みそだき": {
+      "id": 2424260,
+      "form": "味噌炊き",
+      "kana": "みそだき",
+      "gloss": "food cooked in miso",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "味": 3
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2142140/関東炊き/かんとだき": {
+      "id": 2142140,
+      "form": "関東炊き",
+      "kana": "かんとだき",
+      "gloss": "oden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "関": 4,
+        "東": 2
+      },
+      "matched": {
+        "だき": {
+          "actual": "だ",
+          "dictionary": [
+            "-だ.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1372360:炊飯器:すいはんき",
+      "form": "炊飯器",
+      "kana": "すいはんき",
+      "cue": "rice cooker",
+      "ids": [
+        1372360
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 28185
+      },
+      "alternatives_by_kanji": {
+        "器": [
+          "1218960/器用/きよう",
+          "1218980/器量/きりょう",
+          "1218880/器/うつわ"
+        ],
+        "飯": [
+          "2447800/炊飯/すいはん",
+          "1383580/赤飯/せきはん",
+          "1641470/飯粒/めしつぶ"
+        ],
+        "炊": [
+          "1318010/自炊/じすい",
+          "1372350/炊事/すいじ",
+          "1299440/雑炊/ぞうすい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 36
+}

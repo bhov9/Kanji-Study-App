@@ -1,0 +1,1629 @@
+{
+  "character": "多",
+  "grade": 2,
+  "meanings": [
+    "many",
+    "frequent",
+    "much"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 36
+    }
+  ],
+  "components": [
+    "夕"
+  ],
+  "on": [
+    "タ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おお.い",
+      "stem": "おお",
+      "okurigana": "い"
+    },
+    {
+      "sourceNotation": "まさ.に",
+      "stem": "まさ",
+      "okurigana": "に"
+    },
+    {
+      "sourceNotation": "まさ.る",
+      "stem": "まさ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "多",
+    "heading": "多",
+    "readings": [
+      "タ",
+      "おおい"
+    ],
+    "examples_by_reading": [
+      [
+        "多少",
+        "多数",
+        "雑多"
+      ],
+      [
+        "多い"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "多",
+      "reading": "タ",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "タ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 371,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1407860/多数/たすう",
+        "1407810/多少/たしょう",
+        "1299470/雑多/ざった",
+        "1407980/多分/たぶん",
+        "1407450/多/た",
+        "1408100/多様/たよう",
+        "1407900/多大/ただい",
+        "1787860/多発/たはつ",
+        "1407520/多額/たがく",
+        "1596940/多々/たた"
+      ]
+    },
+    {
+      "reading": "おおい",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 21,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1407460/多い/おおい",
+        "1676410/恐れ多い/おそれおおい",
+        "2011740/数多い/かずおおい",
+        "1676410/畏れ多い/おそれおおい",
+        "1166030/一番多い/いちばんおおい",
+        "2827265/一言多い/ひとことおおい",
+        "2859824/血の気の多い/ちのけのおおい",
+        "2860120/血の気が多い/ちのけがおおい",
+        "2088160/口数が多い/くちかずがおおい",
+        "2749370/注文が多い/ちゅうもんがおおい"
+      ]
+    },
+    {
+      "reading": "まさに",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "まさる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1407460/多い/おおい",
+    "1407860/多数/たすう",
+    "1407810/多少/たしょう",
+    "1299470/雑多/ざった",
+    "1407980/多分/たぶん",
+    "1407450/多/た",
+    "1408100/多様/たよう",
+    "1407900/多大/ただい",
+    "1787860/多発/たはつ",
+    "1407520/多額/たがく",
+    "1596940/多々/たた",
+    "1408040/多忙/たぼう",
+    "1408170/多量/たりょう",
+    "1407750/多種/たしゅ",
+    "1407680/多彩/たさい",
+    "1408130/多用/たよう",
+    "1407530/多岐/たき",
+    "1407770/多重/たじゅう",
+    "1610200/多角/たかく",
+    "1220040/幾多/いくた",
+    "1196230/過多/かた",
+    "1407950/多年/たねん",
+    "1408050/多面/ためん",
+    "1407940/多難/たなん",
+    "1676410/恐れ多い/おそれおおい",
+    "1407560/多元/たげん",
+    "1407730/多湿/たしつ",
+    "1787980/多感/たかん",
+    "1407500/多寡/たか",
+    "1407690/多才/たさい"
+  ],
+  "candidates": {
+    "1407460/多い/おおい": {
+      "id": 1407460,
+      "form": "多い",
+      "kana": "おおい",
+      "gloss": "many",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        175,
+        154,
+        214,
+        320
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [
+        "おおい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1407860/多数/たすう": {
+      "id": 1407860,
+      "form": "多数",
+      "kana": "たすう",
+      "gloss": "large number (of)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        1755,
+        3213,
+        1122,
+        5052
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [
+        "タ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1407810/多少/たしょう": {
+      "id": 1407810,
+      "form": "多少",
+      "kana": "たしょう",
+      "gloss": "a little",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        2809,
+        2235,
+        3000,
+        1735
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "少": 2
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [
+        "タ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1299470/雑多/ざった": {
+      "id": 1299470,
+      "form": "雑多",
+      "kana": "ざった",
+      "gloss": "miscellaneous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16025,
+        24811,
+        25402,
+        17660
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雑": 5
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [
+        "タ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1407980/多分/たぶん": {
+      "id": 1407980,
+      "form": "多分",
+      "kana": "たぶん",
+      "gloss": "probably",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        951,
+        187,
+        790,
+        1354
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407450/多/た": {
+      "id": 1407450,
+      "form": "多",
+      "kana": "た",
+      "gloss": "multi-",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "pref"
+      ],
+      "flags": [],
+      "ranks": [
+        1737,
+        4055,
+        1059,
+        11544
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1408100/多様/たよう": {
+      "id": 1408100,
+      "form": "多様",
+      "kana": "たよう",
+      "gloss": "diverse",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3835,
+        3640,
+        3531,
+        20388
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1407900/多大/ただい": {
+      "id": 1407900,
+      "form": "多大",
+      "kana": "ただい",
+      "gloss": "great (quantity, amount, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4208,
+        13353,
+        10860,
+        9514
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1787860/多発/たはつ": {
+      "id": 1787860,
+      "form": "多発",
+      "kana": "たはつ",
+      "gloss": "repeated occurrence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10302,
+        5080,
+        9745,
+        21438
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1407520/多額/たがく": {
+      "id": 1407520,
+      "form": "多額",
+      "kana": "たがく",
+      "gloss": "large (amount of money)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4637,
+        14024,
+        11547,
+        14061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "額": 5
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1596940/多々/たた": {
+      "id": 1596940,
+      "form": "多々",
+      "kana": "たた",
+      "gloss": "very much",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        9873,
+        8276,
+        9614,
+        11790
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1408040/多忙/たぼう": {
+      "id": 1408040,
+      "form": "多忙",
+      "kana": "たぼう",
+      "gloss": "being very busy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        6220,
+        16486,
+        14132,
+        11328
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "忙": 7
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1408170/多量/たりょう": {
+      "id": 1408170,
+      "form": "多量",
+      "kana": "たりょう",
+      "gloss": "large quantity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        5798,
+        28481,
+        15185,
+        22870
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407750/多種/たしゅ": {
+      "id": 1407750,
+      "form": "多種",
+      "kana": "たしゅ",
+      "gloss": "many kinds",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10355,
+        15219,
+        16515,
+        57025
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407680/多彩/たさい": {
+      "id": 1407680,
+      "form": "多彩",
+      "kana": "たさい",
+      "gloss": "colourful",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27182,
+        11471,
+        12107,
+        21366
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "彩": 7
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1408130/多用/たよう": {
+      "id": 1408130,
+      "form": "多用",
+      "kana": "たよう",
+      "gloss": "busyness",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        27009,
+        13932,
+        11547,
+        24578
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407530/多岐/たき": {
+      "id": 1407530,
+      "form": "多岐",
+      "kana": "たき",
+      "gloss": "diverse",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20164,
+        16004,
+        16272,
+        58980
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岐": 4
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407770/多重/たじゅう": {
+      "id": 1407770,
+      "form": "多重",
+      "kana": "たじゅう",
+      "gloss": "multiple",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        27048,
+        20677,
+        12275,
+        27930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "重": 3
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1610200/多角/たかく": {
+      "id": 1610200,
+      "form": "多角",
+      "kana": "たかく",
+      "gloss": "many-sided",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        14741,
+        18183,
+        21173,
+        103398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "角": 2
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220040/幾多/いくた": {
+      "id": 1220040,
+      "form": "幾多",
+      "kana": "いくた",
+      "gloss": "many",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "adv",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11036,
+        34763,
+        29854,
+        19452
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "幾": 7
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1196230/過多/かた": {
+      "id": 1196230,
+      "form": "過多",
+      "kana": "かた",
+      "gloss": "excess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        19679,
+        24210,
+        21741,
+        29468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "過": 5
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407950/多年/たねん": {
+      "id": 1407950,
+      "form": "多年",
+      "kana": "たねん",
+      "gloss": "many years",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        11342,
+        30504,
+        80148,
+        96252
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1408050/多面/ためん": {
+      "id": 1408050,
+      "form": "多面",
+      "kana": "ためん",
+      "gloss": "many-sided",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        16213,
+        26050,
+        40664,
+        92918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407940/多難/たなん": {
+      "id": 1407940,
+      "form": "多難",
+      "kana": "たなん",
+      "gloss": "full of troubles, difficulties",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24076,
+        23107,
+        58810,
+        40529
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "難": 6
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1676410/恐れ多い/おそれおおい": {
+      "id": 1676410,
+      "form": "恐れ多い",
+      "kana": "おそれおおい",
+      "gloss": "awesome",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        29305,
+        28755,
+        64314,
+        17562
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恐": 7
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407560/多元/たげん": {
+      "id": 1407560,
+      "form": "多元",
+      "kana": "たげん",
+      "gloss": "pluralism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        20688,
+        34763,
+        48867,
+        92176
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407730/多湿/たしつ": {
+      "id": 1407730,
+      "form": "多湿",
+      "kana": "たしつ",
+      "gloss": "high humidity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        21235,
+        41831,
+        44357,
+        110118
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "湿": 7
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1787980/多感/たかん": {
+      "id": 1787980,
+      "form": "多感",
+      "kana": "たかん",
+      "gloss": "sensitive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35682,
+        27692,
+        46874,
+        32590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "感": 3
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407500/多寡/たか": {
+      "id": 1407500,
+      "form": "多寡",
+      "kana": "たか",
+      "gloss": "degree (of something)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24881,
+        46460,
+        53182,
+        49012
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寡": 7
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1407690/多才/たさい": {
+      "id": 1407690,
+      "form": "多才",
+      "kana": "たさい",
+      "gloss": "talented",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36808,
+        38312,
+        42960,
+        49596
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "才": 2
+      },
+      "matched": {
+        "タ": {
+          "actual": "た",
+          "dictionary": [
+            "タ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2011740/数多い/かずおおい": {
+      "id": 2011740,
+      "form": "数多い",
+      "kana": "かずおおい",
+      "gloss": "many",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        25040,
+        35824
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1676410/畏れ多い/おそれおおい": {
+      "id": 1676410,
+      "form": "畏れ多い",
+      "kana": "おそれおおい",
+      "gloss": "awesome",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        100834,
+        32603
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "畏": 7
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1166030/一番多い/いちばんおおい": {
+      "id": 1166030,
+      "form": "一番多い",
+      "kana": "いちばんおおい",
+      "gloss": "most numerous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19305
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "番": 2,
+        "一": 1
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827265/一言多い/ひとことおおい": {
+      "id": 2827265,
+      "form": "一言多い",
+      "kana": "ひとことおおい",
+      "gloss": "saying too much",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        33141
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2,
+        "一": 1
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859824/血の気の多い/ちのけのおおい": {
+      "id": 2859824,
+      "form": "血の気の多い",
+      "kana": "ちのけのおおい",
+      "gloss": "hot-blooded",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35730
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1,
+        "血": 3
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860120/血の気が多い/ちのけがおおい": {
+      "id": 2860120,
+      "form": "血の気が多い",
+      "kana": "ちのけがおおい",
+      "gloss": "hot-blooded",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37394
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1,
+        "血": 3
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2088160/口数が多い/くちかずがおおい": {
+      "id": 2088160,
+      "form": "口数が多い",
+      "kana": "くちかずがおおい",
+      "gloss": "talkative",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1,
+        "数": 2
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2749370/注文が多い/ちゅうもんがおおい": {
+      "id": 2749370,
+      "form": "注文が多い",
+      "kana": "ちゅうもんがおおい",
+      "gloss": "demanding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43264
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1,
+        "注": 3
+      },
+      "matched": {
+        "おおい": {
+          "actual": "おお",
+          "dictionary": [
+            "おお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1407680:多彩:たさい",
+      "form": "多彩",
+      "kana": "たさい",
+      "cue": "colourful; colorful",
+      "ids": [
+        1407680
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 21366,
+        "shiberu": 27182,
+        "tubelex": 11471,
+        "wordfreq": 12107
+      },
+      "alternatives_by_kanji": {
+        "多": [
+          "1407460/多い/おおい",
+          "1407860/多数/たすう",
+          "1407810/多少/たしょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1407860:多数:たすう",
+      "form": "多数",
+      "kana": "たすう",
+      "cue": "large number (of); many",
+      "ids": [
+        1407860
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5052,
+        "shiberu": 1755,
+        "tubelex": 3213,
+        "wordfreq": 1122
+      },
+      "alternatives_by_kanji": {
+        "数": [
+          "1373060/数字/すうじ",
+          "1372900/数える/かぞえる",
+          "1373320/数量/すうりょう"
+        ],
+        "多": [
+          "1407460/多い/おおい",
+          "1407810/多少/たしょう",
+          "1299470/雑多/ざった"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1610200:多角:たかく",
+      "form": "多角",
+      "kana": "たかく",
+      "cue": "many-sided; versatile",
+      "ids": [
+        1610200
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 103398,
+        "shiberu": 14741,
+        "tubelex": 18183,
+        "wordfreq": 21173
+      },
+      "alternatives_by_kanji": {
+        "角": [
+          "1206190/角度/かくど",
+          "1299970/三角/さんかく",
+          "1450790/頭角/とうかく"
+        ],
+        "多": [
+          "1407460/多い/おおい",
+          "1407860/多数/たすう",
+          "1407810/多少/たしょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 62
+}

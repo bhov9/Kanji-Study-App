@@ -1,0 +1,1229 @@
+{
+  "character": "責",
+  "grade": 5,
+  "meanings": [
+    "blame",
+    "condemn",
+    "censure"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 154
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "土",
+    "亠",
+    "二"
+  ],
+  "on": [
+    "セキ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "せ.める",
+      "stem": "せ",
+      "okurigana": "める"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "責",
+    "heading": "責",
+    "readings": [
+      "セキ",
+      "せめる"
+    ],
+    "examples_by_reading": [
+      [
+        "責務",
+        "責任",
+        "職責"
+      ],
+      [
+        "責める",
+        "責め"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "責",
+      "reading": "セキ",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セキ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 110,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1383180/責任/せきにん",
+        "1383230/責務/せきむ",
+        "1660350/職責/しょくせき",
+        "1319590/叱責/しっせき",
+        "1533260/免責/めんせき",
+        "2592730/責/せき",
+        "1318040/自責/じせき",
+        "1169580/引責/いんせき",
+        "2853624/自賠責/じばいせき",
+        "1336440/重責/じゅうせき"
+      ]
+    },
+    {
+      "reading": "せめる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1383160/責める/せめる",
+        "1383150/責め/せめ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1383180/責任/せきにん",
+    "1383160/責める/せめる",
+    "1383150/責め/せめ",
+    "1383230/責務/せきむ",
+    "1660350/職責/しょくせき",
+    "1319590/叱責/しっせき",
+    "1533260/免責/めんせき",
+    "2592730/責/せき",
+    "1318040/自責/じせき",
+    "1169580/引責/いんせき",
+    "2853624/自賠責/じばいせき",
+    "1336440/重責/じゅうせき",
+    "1642110/問責/もんせき",
+    "1505480/文責/ぶんせき",
+    "1572970/譴責/けんせき",
+    "1700690/罪責/ざいせき",
+    "2418660/責了/せきりょう",
+    "2828901/有責/ゆうせき",
+    "2829030/帰責/きせき",
+    "1530360/無責任/むせきにん",
+    "1888240/責任を取る/せきにんをとる",
+    "1383190/責任者/せきにんしゃ",
+    "1645890/責任感/せきにんかん",
+    "2103390/責任を持って/せきにんをもって",
+    "2104360/責任を持つ/せきにんをもつ",
+    "2829227/責任を負う/せきにんをおう",
+    "1888240/責任をとる/せきにんをとる",
+    "2528070/自己責任/じこせきにん",
+    "2522390/自責の念/じせきのねん",
+    "2104370/責任を果たす/せきにんをはたす"
+  ],
+  "candidates": {
+    "1383180/責任/せきにん": {
+      "id": 1383180,
+      "form": "責任",
+      "kana": "せきにん",
+      "gloss": "duty",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1142,
+        1593,
+        790,
+        922
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1383160/責める/せめる": {
+      "id": 1383160,
+      "form": "責める",
+      "kana": "せめる",
+      "gloss": "to condemn",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2372,
+        5773,
+        13090,
+        1658
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "せめる": {
+          "actual": "せ",
+          "dictionary": [
+            "せ.める"
+          ]
+        }
+      },
+      "official_examples": [
+        "せめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1383150/責め/せめ": {
+      "id": 1383150,
+      "form": "責め",
+      "kana": "せめ",
+      "gloss": "responsibility",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10580,
+        21507,
+        4034,
+        16731
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "せめる": {
+          "actual": "せ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "せめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1383230/責務/せきむ": {
+      "id": 1383230,
+      "form": "責務",
+      "kana": "せきむ",
+      "gloss": "duty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14779,
+        18888,
+        17491,
+        11883
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "務": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1660350/職責/しょくせき": {
+      "id": 1660350,
+      "form": "職責",
+      "kana": "しょくせき",
+      "gloss": "one's duty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30523,
+        34060,
+        37951,
+        56395
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "職": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1319590/叱責/しっせき": {
+      "id": 1319590,
+      "form": "叱責",
+      "kana": "しっせき",
+      "gloss": "reprimand",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13565,
+        28907,
+        32185,
+        15171
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1533260/免責/めんせき": {
+      "id": 1533260,
+      "form": "免責",
+      "kana": "めんせき",
+      "gloss": "exemption from responsibility",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28545,
+        33233,
+        19040,
+        72708
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "免": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2592730/責/せき": {
+      "id": 2592730,
+      "form": "責",
+      "kana": "せき",
+      "gloss": "responsibility",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18861,
+        63933,
+        27689,
+        20402
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1318040/自責/じせき": {
+      "id": 1318040,
+      "form": "自責",
+      "kana": "じせき",
+      "gloss": "self-condemnation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22487,
+        32292,
+        31382,
+        40183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1169580/引責/いんせき": {
+      "id": 1169580,
+      "form": "引責",
+      "kana": "いんせき",
+      "gloss": "taking responsibility",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        23948,
+        101749,
+        49881,
+        120185
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "引": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853624/自賠責/じばいせき": {
+      "id": 2853624,
+      "form": "自賠責",
+      "kana": "じばいせき",
+      "gloss": "mandatory vehicle liability insurance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        33444,
+        30598,
+        211909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "賠": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1336440/重責/じゅうせき": {
+      "id": 1336440,
+      "form": "重責",
+      "kana": "じゅうせき",
+      "gloss": "heavy responsibility",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47007,
+        48344,
+        27099
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "重": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1642110/問責/もんせき": {
+      "id": 1642110,
+      "form": "問責",
+      "kana": "もんせき",
+      "gloss": "blame",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        49881,
+        106376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505480/文責/ぶんせき": {
+      "id": 1505480,
+      "form": "文責",
+      "kana": "ぶんせき",
+      "gloss": "responsibility for wording of an article",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        70104,
+        130624
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1572970/譴責/けんせき": {
+      "id": 1572970,
+      "form": "譴責",
+      "kana": "けんせき",
+      "gloss": "reprimand",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        102646,
+        102900
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1700690/罪責/ざいせき": {
+      "id": 1700690,
+      "form": "罪責",
+      "kana": "ざいせき",
+      "gloss": "responsibility or liability for a crime",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        126439,
+        166481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罪": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2418660/責了/せきりょう": {
+      "id": 2418660,
+      "form": "責了",
+      "kana": "せきりょう",
+      "gloss": "leaving the remaining corrections up to the printer after having finished proofreading",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        254510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "了": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828901/有責/ゆうせき": {
+      "id": 2828901,
+      "form": "有責",
+      "kana": "ゆうせき",
+      "gloss": "fault",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        147178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "有": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829030/帰責/きせき": {
+      "id": 2829030,
+      "form": "帰責",
+      "kana": "きせき",
+      "gloss": "imputation of responsibility",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帰": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1530360/無責任/むせきにん": {
+      "id": 1530360,
+      "form": "無責任",
+      "kana": "むせきにん",
+      "gloss": "irresponsibility",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5368
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "任": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1888240/責任を取る/せきにんをとる": {
+      "id": 1888240,
+      "form": "責任を取る",
+      "kana": "せきにんをとる",
+      "gloss": "to take responsibility (for a fallout)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3,
+        "任": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1383190/責任者/せきにんしゃ": {
+      "id": 1383190,
+      "form": "責任者",
+      "kana": "せきにんしゃ",
+      "gloss": "person in charge (including a supervisory role for other staff)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6874
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5,
+        "者": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1645890/責任感/せきにんかん": {
+      "id": 1645890,
+      "form": "責任感",
+      "kana": "せきにんかん",
+      "gloss": "sense of responsibility",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        9850
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5,
+        "感": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2103390/責任を持って/せきにんをもって": {
+      "id": 2103390,
+      "form": "責任を持って",
+      "kana": "せきにんをもって",
+      "gloss": "responsibly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        10668
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "持": 3,
+        "任": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2104360/責任を持つ/せきにんをもつ": {
+      "id": 2104360,
+      "form": "責任を持つ",
+      "kana": "せきにんをもつ",
+      "gloss": "to be responsible for",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17255
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "持": 3,
+        "任": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829227/責任を負う/せきにんをおう": {
+      "id": 2829227,
+      "form": "責任を負う",
+      "kana": "せきにんをおう",
+      "gloss": "to bear responsibility for",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17803
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5,
+        "負": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1888240/責任をとる/せきにんをとる": {
+      "id": 1888240,
+      "form": "責任をとる",
+      "kana": "せきにんをとる",
+      "gloss": "to take responsibility (for a fallout)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        21117
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2528070/自己責任/じこせきにん": {
+      "id": 2528070,
+      "form": "自己責任",
+      "kana": "じこせきにん",
+      "gloss": "self-responsibility",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24233
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "任": 5,
+        "己": 6
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2522390/自責の念/じせきのねん": {
+      "id": 2522390,
+      "form": "自責の念",
+      "kana": "じせきのねん",
+      "gloss": "guilty conscience",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24452
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "念": 4
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2104370/責任を果たす/せきにんをはたす": {
+      "id": 2104370,
+      "form": "責任を果たす",
+      "kana": "せきにんをはたす",
+      "gloss": "to fulfill one's responsibilities",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        27453
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "果": 4,
+        "任": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1383180:責任:せきにん",
+      "form": "責任",
+      "kana": "せきにん",
+      "cue": "duty; responsibility (incl. supervision of staff)",
+      "ids": [
+        1383180
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 922,
+        "shiberu": 1142,
+        "tubelex": 1593,
+        "wordfreq": 790
+      },
+      "alternatives_by_kanji": {
+        "責": [
+          "1383160/責める/せめる",
+          "1383150/責め/せめ",
+          "1383230/責務/せきむ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 43
+}

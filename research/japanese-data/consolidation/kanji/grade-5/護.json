@@ -1,0 +1,1365 @@
+{
+  "character": "護",
+  "grade": 5,
+  "meanings": [
+    "safeguard",
+    "protect"
+  ],
+  "strokes": [
+    20
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "又",
+    "艾",
+    "隹"
+  ],
+  "on": [
+    "ゴ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "まも.る",
+      "stem": "まも",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "もり"
+  ],
+  "government": {
+    "kanji": "護",
+    "heading": "護",
+    "readings": [
+      "ゴ"
+    ],
+    "examples_by_reading": [
+      [
+        "護衛",
+        "救護",
+        "保護"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "護",
+      "reading": "ゴ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ゴ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 278,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1513530/保護/ほご",
+        "1271510/護衛/ごえい",
+        "1229120/救護/きゅうご",
+        "1512830/弁護/べんご",
+        "1213810/看護/かんご",
+        "1198060/介護/かいご",
+        "1327150/守護/しゅご",
+        "1588790/援護/えんご",
+        "1252350/警護/けいご",
+        "1190110/加護/かご"
+      ]
+    },
+    {
+      "reading": "まもる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1855750/身を護る/みをまもる",
+        "1327120/護る/まもる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1513530/保護/ほご",
+    "1271510/護衛/ごえい",
+    "1229120/救護/きゅうご",
+    "1512830/弁護/べんご",
+    "1213810/看護/かんご",
+    "1198060/介護/かいご",
+    "1327150/守護/しゅご",
+    "1588790/援護/えんご",
+    "1252350/警護/けいご",
+    "1190110/加護/かご",
+    "1710300/防護/ぼうご",
+    "1605847/養護/ようご",
+    "1731810/庇護/ひご",
+    "1150670/愛護/あいご",
+    "1271560/護身/ごしん",
+    "1271570/護送/ごそう",
+    "1271580/護符/ごふ",
+    "1271590/護摩/ごま",
+    "1631120/護国/ごこく",
+    "1829540/護法/ごほう",
+    "1705190/鎮護/ちんご",
+    "1327150/守護/すご",
+    "1271530/護岸/ごがん",
+    "1815450/監護/かんご",
+    "1271540/護憲/ごけん",
+    "1271550/護持/ごじ",
+    "1512850/弁護士/べんごし",
+    "1697510/守護神/しゅごじん",
+    "1229140/救護班/きゅうごはん",
+    "1513620/保護司/ほごし"
+  ],
+  "candidates": {
+    "1513530/保護/ほご": {
+      "id": 1513530,
+      "form": "保護",
+      "kana": "ほご",
+      "gloss": "protection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2060,
+        1676,
+        883,
+        3505
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1271510/護衛/ごえい": {
+      "id": 1271510,
+      "form": "護衛",
+      "kana": "ごえい",
+      "gloss": "guard",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11437,
+        8673,
+        6453,
+        5197
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "衛": 5
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1229120/救護/きゅうご": {
+      "id": 1229120,
+      "form": "救護",
+      "kana": "きゅうご",
+      "gloss": "relief",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22702,
+        27831,
+        27689,
+        26913
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "救": 5
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1512830/弁護/べんご": {
+      "id": 1512830,
+      "form": "弁護",
+      "kana": "べんご",
+      "gloss": "advocacy",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1345,
+        3734,
+        7753,
+        19287
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弁": 5
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1213810/看護/かんご": {
+      "id": 1213810,
+      "form": "看護",
+      "kana": "かんご",
+      "gloss": "nursing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2055,
+        4426,
+        2625,
+        22587
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "看": 6
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1198060/介護/かいご": {
+      "id": 1198060,
+      "form": "介護",
+      "kana": "かいご",
+      "gloss": "nursing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6263,
+        2565,
+        3232,
+        15982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "介": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1327150/守護/しゅご": {
+      "id": 1327150,
+      "form": "守護",
+      "kana": "しゅご",
+      "gloss": "protection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "adj-no",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5776,
+        5961,
+        7509,
+        11480
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "守": 3
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1588790/援護/えんご": {
+      "id": 1588790,
+      "form": "援護",
+      "kana": "えんご",
+      "gloss": "support",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15606,
+        10870,
+        10707,
+        8017
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "援": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252350/警護/けいご": {
+      "id": 1252350,
+      "form": "警護",
+      "kana": "けいご",
+      "gloss": "bodyguard",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12293,
+        24904,
+        14745,
+        10611
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "警": 6
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1190110/加護/かご": {
+      "id": 1190110,
+      "form": "加護",
+      "kana": "かご",
+      "gloss": "divine protection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        19747,
+        13838,
+        17491,
+        9686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "加": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1710300/防護/ぼうご": {
+      "id": 1710300,
+      "form": "防護",
+      "kana": "ぼうご",
+      "gloss": "protection",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        32026,
+        15187,
+        12275,
+        28108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "防": 5
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1605847/養護/ようご": {
+      "id": 1605847,
+      "form": "養護",
+      "kana": "ようご",
+      "gloss": "nursing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        29237,
+        13932,
+        14937,
+        62907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "養": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1731810/庇護/ひご": {
+      "id": 1731810,
+      "form": "庇護",
+      "kana": "ひご",
+      "gloss": "patronage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13627,
+        32483,
+        22590,
+        16137
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1150670/愛護/あいご": {
+      "id": 1150670,
+      "form": "愛護",
+      "kana": "あいご",
+      "gloss": "protection",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21558,
+        19920,
+        16770,
+        80868
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271560/護身/ごしん": {
+      "id": 1271560,
+      "form": "護身",
+      "kana": "ごしん",
+      "gloss": "self-protection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17748,
+        34308,
+        23544,
+        39018
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271570/護送/ごそう": {
+      "id": 1271570,
+      "form": "護送",
+      "kana": "ごそう",
+      "gloss": "escort (e.g. under guard)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18792,
+        39979,
+        23216,
+        28381
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "送": 3
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271580/護符/ごふ": {
+      "id": 1271580,
+      "form": "護符",
+      "kana": "ごふ",
+      "gloss": "talisman",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25604,
+        29494,
+        42960,
+        34725
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "符": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271590/護摩/ごま": {
+      "id": 1271590,
+      "form": "護摩",
+      "kana": "ごま",
+      "gloss": "homa",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35775,
+        19173,
+        57615,
+        85328
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "摩": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1631120/護国/ごこく": {
+      "id": 1631120,
+      "form": "護国",
+      "kana": "ごこく",
+      "gloss": "defense of one's country",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33865,
+        44959,
+        39764,
+        68374
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1829540/護法/ごほう": {
+      "id": 1829540,
+      "form": "護法",
+      "kana": "ごほう",
+      "gloss": "defence of Buddhist doctrines",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24292,
+        46460,
+        100834,
+        81285
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1705190/鎮護/ちんご": {
+      "id": 1705190,
+      "form": "鎮護",
+      "kana": "ちんご",
+      "gloss": "guarding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        34885,
+        68915,
+        95507,
+        104368
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鎮": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1327150/守護/すご": {
+      "id": 1327150,
+      "form": "守護",
+      "kana": "すご",
+      "gloss": "protection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "adj-no",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5776,
+        5961,
+        7509,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "守": 3
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271530/護岸/ごがん": {
+      "id": 1271530,
+      "form": "護岸",
+      "kana": "ごがん",
+      "gloss": "river dike",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        35749,
+        42050,
+        85461
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岸": 3
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1815450/監護/かんご": {
+      "id": 1815450,
+      "form": "監護",
+      "kana": "かんご",
+      "gloss": "custody and care",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36550,
+        45882,
+        126528
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "監": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271540/護憲/ごけん": {
+      "id": 1271540,
+      "form": "護憲",
+      "kana": "ごけん",
+      "gloss": "protecting the constitution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        52268,
+        33710,
+        209954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憲": 6
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271550/護持/ごじ": {
+      "id": 1271550,
+      "form": "護持",
+      "kana": "ごじ",
+      "gloss": "defend and maintain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        51518,
+        90860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "持": 3
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1512850/弁護士/べんごし": {
+      "id": 1512850,
+      "form": "弁護士",
+      "kana": "べんごし",
+      "gloss": "lawyer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        1209,
+        7887
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5,
+        "弁": 5
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1697510/守護神/しゅごじん": {
+      "id": 1697510,
+      "form": "守護神",
+      "kana": "しゅごじん",
+      "gloss": "guardian deity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        21459,
+        29701
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "神": 3,
+        "守": 3
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1229140/救護班/きゅうごはん": {
+      "id": 1229140,
+      "form": "救護班",
+      "kana": "きゅうごはん",
+      "gloss": "relief squad",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        75713,
+        46845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "救": 5,
+        "班": 6
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513620/保護司/ほごし": {
+      "id": 1513620,
+      "form": "保護司",
+      "kana": "ほごし",
+      "gloss": "probation officer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        102646,
+        85982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5,
+        "司": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1855750/身を護る/みをまもる": {
+      "id": 1855750,
+      "form": "身を護る",
+      "kana": "みをまもる",
+      "gloss": "to defend oneself",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50472
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3
+      },
+      "matched": {
+        "まもる": {
+          "actual": "まも",
+          "dictionary": [
+            "まも.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1327120/護る/まもる": {
+      "id": 1327120,
+      "form": "護る",
+      "kana": "まもる",
+      "gloss": "to protect",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        15985,
+        null,
+        20890,
+        11869
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まもる": {
+          "actual": "まも",
+          "dictionary": [
+            "まも.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1213810:看護:かんご",
+      "form": "看護",
+      "kana": "かんご",
+      "cue": "nursing; (army) nurse",
+      "ids": [
+        1213810
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 22587,
+        "shiberu": 2055,
+        "tubelex": 4426,
+        "wordfreq": 2625
+      },
+      "alternatives_by_kanji": {
+        "護": [
+          "1513530/保護/ほご",
+          "1271510/護衛/ごえい",
+          "1229120/救護/きゅうご"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1512850:弁護士:べんごし",
+      "form": "弁護士",
+      "kana": "べんごし",
+      "cue": "lawyer; attorney",
+      "ids": [
+        1512850
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7887,
+        "wordfreq": 1209
+      },
+      "alternatives_by_kanji": {
+        "護": [
+          "1513530/保護/ほご",
+          "1271510/護衛/ごえい",
+          "1229120/救護/きゅうご"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1513530:保護:ほご",
+      "form": "保護",
+      "kana": "ほご",
+      "cue": "protection; safeguard",
+      "ids": [
+        1513530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3505,
+        "shiberu": 2060,
+        "tubelex": 1676,
+        "wordfreq": 883
+      },
+      "alternatives_by_kanji": {
+        "護": [
+          "1271510/護衛/ごえい",
+          "1229120/救護/きゅうご",
+          "1512830/弁護/べんご"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 21
+}

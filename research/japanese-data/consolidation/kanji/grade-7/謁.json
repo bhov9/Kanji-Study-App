@@ -1,0 +1,483 @@
+{
+  "character": "謁",
+  "grade": 7,
+  "meanings": [
+    "audience",
+    "audience (with king)"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "日",
+    "勹",
+    "匕"
+  ],
+  "on": [
+    "エツ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "謁",
+    "heading": "謁（謁）",
+    "readings": [
+      "エツ"
+    ],
+    "examples_by_reading": [
+      [
+        "謁見",
+        "拝謁",
+        "謁する"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "謁",
+      "reading": "エツ",
+      "source": "table_04_e.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "エツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1175290/謁見/えっけん",
+        "1472240/拝謁/はいえつ",
+        "1175280/謁する/えっする",
+        "2842898/謁/えつ",
+        "1457770/内謁/ないえつ",
+        "1618860/請謁/せいえつ",
+        "2842349/面謁/めんえつ",
+        "2683370/来謁/らいえつ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1175290/謁見/えっけん",
+    "1472240/拝謁/はいえつ",
+    "1175280/謁する/えっする",
+    "2842898/謁/えつ",
+    "1457770/内謁/ないえつ",
+    "1618860/請謁/せいえつ",
+    "2868737/謁見の間/えっけんのま",
+    "2409870/謁す/えっす",
+    "2842349/面謁/めんえつ",
+    "2683370/来謁/らいえつ",
+    "2056520/謁える/まみえる"
+  ],
+  "candidates": {
+    "1175290/謁見/えっけん": {
+      "id": 1175290,
+      "form": "謁見",
+      "kana": "えっけん",
+      "gloss": "audience (with a superior, e.g. nobility)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15645,
+        36283,
+        34111,
+        19928
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "見": 1
+      },
+      "matched": {
+        "エツ": {
+          "actual": "えっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "エツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1472240/拝謁/はいえつ": {
+      "id": 1472240,
+      "form": "拝謁",
+      "kana": "はいえつ",
+      "gloss": "audience with someone of high rank (e.g. the emperor)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        23782,
+        58680,
+        42493,
+        40149
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拝": 6
+      },
+      "matched": {
+        "エツ": {
+          "actual": "えつ",
+          "dictionary": [
+            "エツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "エツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1175280/謁する/えっする": {
+      "id": 1175280,
+      "form": "謁する",
+      "kana": "えっする",
+      "gloss": "to have an audience (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "vs-s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        null,
+        151120
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "エツ": {
+          "actual": "えっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "エツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2842898/謁/えつ": {
+      "id": 2842898,
+      "form": "謁",
+      "kana": "えつ",
+      "gloss": "audience (with a superior, e.g. nobility)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        153062,
+        125406
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "エツ": {
+          "actual": "えつ",
+          "dictionary": [
+            "エツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1457770/内謁/ないえつ": {
+      "id": 1457770,
+      "form": "内謁",
+      "kana": "ないえつ",
+      "gloss": "private audience",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "エツ": {
+          "actual": "えつ",
+          "dictionary": [
+            "エツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1618860/請謁/せいえつ": {
+      "id": 1618860,
+      "form": "請謁",
+      "kana": "せいえつ",
+      "gloss": "beseeching",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        309576
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "請": 7
+      },
+      "matched": {
+        "エツ": {
+          "actual": "えつ",
+          "dictionary": [
+            "エツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2868737/謁見の間/えっけんのま": {
+      "id": 2868737,
+      "form": "謁見の間",
+      "kana": "えっけんのま",
+      "gloss": "throne room",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31364
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "見": 1,
+        "間": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2409870/謁す/えっす": {
+      "id": 2409870,
+      "form": "謁す",
+      "kana": "えっす",
+      "gloss": "to have an audience (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "vs-c",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2842349/面謁/めんえつ": {
+      "id": 2842349,
+      "form": "面謁",
+      "kana": "めんえつ",
+      "gloss": "audience with someone of high rank",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        121818,
+        null,
+        264755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "エツ": {
+          "actual": "えつ",
+          "dictionary": [
+            "エツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2683370/来謁/らいえつ": {
+      "id": 2683370,
+      "form": "来謁",
+      "kana": "らいえつ",
+      "gloss": "visiting and meeting someone (of higher status)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "エツ": {
+          "actual": "えつ",
+          "dictionary": [
+            "エツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2056520/謁える/まみえる": {
+      "id": 2056520,
+      "form": "謁える",
+      "kana": "まみえる",
+      "gloss": "to have an audience",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [
+        "iK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        269742
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:2842898:謁:えつ",
+      "form": "謁",
+      "kana": "えつ",
+      "cue": "audience (with a superior, e.g. nobility)",
+      "ids": [
+        2842898
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 125406,
+        "tubelex": 95069,
+        "wordfreq": 153062
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

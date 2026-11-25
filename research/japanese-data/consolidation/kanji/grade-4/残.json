@@ -1,0 +1,1993 @@
+{
+  "character": "残",
+  "grade": 4,
+  "meanings": [
+    "remainder",
+    "leftover",
+    "balance"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 78
+    }
+  ],
+  "components": [
+    "歹",
+    "戈",
+    "二"
+  ],
+  "on": [
+    "ザン",
+    "サン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "のこ.る",
+      "stem": "のこ",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "のこ.す",
+      "stem": "のこ",
+      "okurigana": "す"
+    },
+    {
+      "sourceNotation": "そこな.う",
+      "stem": "そこな",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "のこ.り",
+      "stem": "のこ",
+      "okurigana": "り"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "残",
+    "heading": "残（殘）",
+    "readings": [
+      "ザン",
+      "のこる",
+      "のこす"
+    ],
+    "examples_by_reading": [
+      [
+        "残留",
+        "残念",
+        "敗残"
+      ],
+      [
+        "残る",
+        "残り"
+      ],
+      [
+        "残す",
+        "食べ残し"
+      ]
+    ],
+    "note_lines": [
+      "名残（なごり）"
+    ],
+    "representative_index": {
+      "kanji": "残",
+      "reading": "ザン",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "名残"
+      ],
+      "reading": "なごり",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ザン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 125,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1304680/残念/ざんねん",
+        "1304740/残留/ざんりゅう",
+        "1472530/敗残/はいざん",
+        "1304600/残酷/ざんこく",
+        "1304560/残業/ざんぎょう",
+        "2081390/残/ざん",
+        "1304590/残高/ざんだか",
+        "1304520/残骸/ざんがい",
+        "1304540/残虐/ざんぎゃく",
+        "1304670/残忍/ざんにん"
+      ]
+    },
+    {
+      "reading": "のこる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 17,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1304510/残る/のこる",
+        "1378560/生き残る/いきのこる",
+        "1231790/居残る/いのこる",
+        "1706720/勝ち残る/かちのこる",
+        "2036310/売れ残る/うれのこる",
+        "1847660/焼け残る/やけのこる",
+        "1847670/消え残る/きえのこる",
+        "2840175/印象に残る/いんしょうにのこる",
+        "2668990/心に残る/こころにのこる",
+        "2830079/耳に残る/みみにのこる"
+      ]
+    },
+    {
+      "reading": "のこす",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 20,
+      "frequent_unflagged_examples": 3,
+      "current_support": false,
+      "candidates": [
+        "1600260/残す/のこす",
+        "1358320/食べ残し/たべのこし",
+        "1630980/言い残す/いいのこす",
+        "1701810/書き残す/かきのこす",
+        "1326740/取り残す/とりのこす",
+        "1309240/思い残す/おもいのこす",
+        "2115920/やり残す/やりのこす",
+        "2115920/遣り残す/やりのこす",
+        "1326740/とり残す/とりのこす",
+        "1852340/食べ残す/たべのこす"
+      ]
+    },
+    {
+      "reading": "サン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "そこなう",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "のこり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 22,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1304480/残り/のこり",
+        "1830250/生き残り/いきのこり",
+        "1304500/残り物/のこりもの",
+        "1231780/居残り/いのこり",
+        "1473970/売れ残り/うれのこり",
+        "1951900/残り香/のこりが",
+        "1304490/残り火/のこりび",
+        "2023610/勝ち残り/かちのこり",
+        "2206870/残り少ない/のこりすくない",
+        "1951900/残り香/のこりか"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1304510/残る/のこる",
+    "1600260/残す/のこす",
+    "1304680/残念/ざんねん",
+    "1304480/残り/のこり",
+    "1304740/残留/ざんりゅう",
+    "1358320/食べ残し/たべのこし",
+    "1472530/敗残/はいざん",
+    "1378560/生き残る/いきのこる",
+    "1304600/残酷/ざんこく",
+    "1304560/残業/ざんぎょう",
+    "2081390/残/ざん",
+    "1304590/残高/ざんだか",
+    "1304520/残骸/ざんがい",
+    "1304540/残虐/ざんぎゃく",
+    "1830250/生き残り/いきのこり",
+    "1304670/残忍/ざんにん",
+    "1662610/残党/ざんとう",
+    "1530010/無残/むざん",
+    "1304640/残像/ざんぞう",
+    "1304650/残存/ざんぞん",
+    "1630980/言い残す/いいのこす",
+    "1231790/居残る/いのこる",
+    "1701810/書き残す/かきのこす",
+    "1304620/残暑/ざんしょ",
+    "1304500/残り物/のこりもの",
+    "1231780/居残り/いのこり",
+    "1754140/残余/ざんよ",
+    "1706720/勝ち残る/かちのこる",
+    "1650060/残滓/ざんし",
+    "1304710/残飯/ざんぱん"
+  ],
+  "candidates": {
+    "1304510/残る/のこる": {
+      "id": 1304510,
+      "form": "残る",
+      "kana": "のこる",
+      "gloss": "to remain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        504,
+        483,
+        2241,
+        316
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "のこる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1600260/残す/のこす": {
+      "id": 1600260,
+      "form": "残す",
+      "kana": "のこす",
+      "gloss": "to leave (behind)",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        688,
+        855,
+        4596,
+        530
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "のこす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1304680/残念/ざんねん": {
+      "id": 1304680,
+      "form": "残念",
+      "kana": "ざんねん",
+      "gloss": "regrettable",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1781,
+        1036,
+        814,
+        655
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ザン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1304480/残り/のこり": {
+      "id": 1304480,
+      "form": "残り",
+      "kana": "のこり",
+      "gloss": "remainder",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        1808,
+        1244,
+        1753,
+        1198
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [
+        "のこる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1304740/残留/ざんりゅう": {
+      "id": 1304740,
+      "form": "残留",
+      "kana": "ざんりゅう",
+      "gloss": "staying behind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12757,
+        16004,
+        11547,
+        22047
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "留": 5
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ザン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1358320/食べ残し/たべのこし": {
+      "id": 1358320,
+      "form": "食べ残し",
+      "kana": "たべのこし",
+      "gloss": "leftovers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        32735,
+        35006,
+        null,
+        40059
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "のこす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1472530/敗残/はいざん": {
+      "id": 1472530,
+      "form": "敗残",
+      "kana": "はいざん",
+      "gloss": "survival after defeat",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        54233,
+        59288
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敗": 4
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ザン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1378560/生き残る/いきのこる": {
+      "id": 1378560,
+      "form": "生き残る",
+      "kana": "いきのこる",
+      "gloss": "to survive",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4465,
+        4354,
+        11547,
+        2794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1304600/残酷/ざんこく": {
+      "id": 1304600,
+      "form": "残酷",
+      "kana": "ざんこく",
+      "gloss": "cruel",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4677,
+        9843,
+        8031,
+        3531
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酷": 7
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1304560/残業/ざんぎょう": {
+      "id": 1304560,
+      "form": "残業",
+      "kana": "ざんぎょう",
+      "gloss": "overtime (work)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16336,
+        6450,
+        4034,
+        10594
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2081390/残/ざん": {
+      "id": 2081390,
+      "form": "残",
+      "kana": "ざん",
+      "gloss": "remainder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "pref"
+      ],
+      "flags": [],
+      "ranks": [
+        12330,
+        9718,
+        5790,
+        23408
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304590/残高/ざんだか": {
+      "id": 1304590,
+      "form": "残高",
+      "kana": "ざんだか",
+      "gloss": "(bank) balance",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14607,
+        8769,
+        14325,
+        36256
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304520/残骸/ざんがい": {
+      "id": 1304520,
+      "form": "残骸",
+      "kana": "ざんがい",
+      "gloss": "ruins",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12001,
+        15050,
+        16515,
+        9182
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "骸": 7
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304540/残虐/ざんぎゃく": {
+      "id": 1304540,
+      "form": "残虐",
+      "kana": "ざんぎゃく",
+      "gloss": "cruel",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12941,
+        18312,
+        13682,
+        16512
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "虐": 7
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1830250/生き残り/いきのこり": {
+      "id": 1830250,
+      "form": "生き残り",
+      "kana": "いきのこり",
+      "gloss": "survival",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27696,
+        17330,
+        11917,
+        9861
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304670/残忍/ざんにん": {
+      "id": 1304670,
+      "form": "残忍",
+      "kana": "ざんにん",
+      "gloss": "brutal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8973,
+        25714,
+        24154,
+        18343
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "忍": 7
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1662610/残党/ざんとう": {
+      "id": 1662610,
+      "form": "残党",
+      "kana": "ざんとう",
+      "gloss": "remnants",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11769,
+        19567,
+        23544,
+        16436
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "党": 6
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1530010/無残/むざん": {
+      "id": 1530010,
+      "form": "無残",
+      "kana": "むざん",
+      "gloss": "cruel",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14346,
+        16786,
+        26690,
+        10430
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304640/残像/ざんぞう": {
+      "id": 1304640,
+      "form": "残像",
+      "kana": "ざんぞう",
+      "gloss": "afterimage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13797,
+        21007,
+        26690,
+        16439
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "像": 5
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304650/残存/ざんぞん": {
+      "id": 1304650,
+      "form": "残存",
+      "kana": "ざんぞん",
+      "gloss": "survival",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        11903,
+        25116,
+        24433,
+        25488
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "存": 6
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1630980/言い残す/いいのこす": {
+      "id": 1630980,
+      "form": "言い残す",
+      "kana": "いいのこす",
+      "gloss": "to leave word with (a person)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16215,
+        21437,
+        83270,
+        6101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1231790/居残る/いのこる": {
+      "id": 1231790,
+      "form": "居残る",
+      "kana": "いのこる",
+      "gloss": "to stay behind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12853,
+        35465,
+        95507,
+        19713
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "居": 5
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1701810/書き残す/かきのこす": {
+      "id": 1701810,
+      "form": "書き残す",
+      "kana": "かきのこす",
+      "gloss": "to leave (a note, will, etc.) behind",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16524,
+        28907,
+        93020,
+        24400
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304620/残暑/ざんしょ": {
+      "id": 1304620,
+      "form": "残暑",
+      "kana": "ざんしょ",
+      "gloss": "late summer heat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28031,
+        36550,
+        27689,
+        35263
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暑": 3
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304500/残り物/のこりもの": {
+      "id": 1304500,
+      "form": "残り物",
+      "kana": "のこりもの",
+      "gloss": "leftovers (esp. food)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38318,
+        26803,
+        34111,
+        22046
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1231780/居残り/いのこり": {
+      "id": 1231780,
+      "form": "居残り",
+      "kana": "いのこり",
+      "gloss": "working overtime",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        31259,
+        34763,
+        35760,
+        23861
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "居": 5
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1754140/残余/ざんよ": {
+      "id": 1754140,
+      "form": "残余",
+      "kana": "ざんよ",
+      "gloss": "remainder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18849,
+        42628,
+        60579,
+        101859
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "余": 5
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1706720/勝ち残る/かちのこる": {
+      "id": 1706720,
+      "form": "勝ち残る",
+      "kana": "かちのこる",
+      "gloss": "to win and advance to the next round",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        29595,
+        30165,
+        68819,
+        23491
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勝": 3
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1650060/残滓/ざんし": {
+      "id": 1650060,
+      "form": "残滓",
+      "kana": "ざんし",
+      "gloss": "remains",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        38543,
+        41831,
+        47810,
+        14749
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304710/残飯/ざんぱん": {
+      "id": 1304710,
+      "form": "残飯",
+      "kana": "ざんぱん",
+      "gloss": "leftover food",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32567,
+        44959,
+        35760,
+        32413
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4
+      },
+      "matched": {
+        "ザン": {
+          "actual": "ざん",
+          "dictionary": [
+            "ザン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2036310/売れ残る/うれのこる": {
+      "id": 2036310,
+      "form": "売れ残る",
+      "kana": "うれのこる",
+      "gloss": "to remain unsold",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22134,
+        80922,
+        27241
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "売": 2
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1847660/焼け残る/やけのこる": {
+      "id": 1847660,
+      "form": "焼け残る",
+      "kana": "やけのこる",
+      "gloss": "to escape being burned (esp. of a building or the items in it)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        34214,
+        65459,
+        null,
+        49461
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "焼": 4
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1847670/消え残る/きえのこる": {
+      "id": 1847670,
+      "form": "消え残る",
+      "kana": "きえのこる",
+      "gloss": "to remain unextinguished",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        104204
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "消": 3
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840175/印象に残る/いんしょうにのこる": {
+      "id": 2840175,
+      "form": "印象に残る",
+      "kana": "いんしょうにのこる",
+      "gloss": "to make a lasting impression",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        12412
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "象": 5,
+        "印": 4
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2668990/心に残る/こころにのこる": {
+      "id": 2668990,
+      "form": "心に残る",
+      "kana": "こころにのこる",
+      "gloss": "to stay in one's heart",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20339
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830079/耳に残る/みみにのこる": {
+      "id": 2830079,
+      "form": "耳に残る",
+      "kana": "みみにのこる",
+      "gloss": "to remain in memory (of sounds and words)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20687
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "耳": 1
+      },
+      "matched": {
+        "のこる": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1326740/取り残す/とりのこす": {
+      "id": 1326740,
+      "form": "取り残す",
+      "kana": "とりのこす",
+      "gloss": "to leave behind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9888,
+        10837,
+        null,
+        5643
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1309240/思い残す/おもいのこす": {
+      "id": 1309240,
+      "form": "思い残す",
+      "kana": "おもいのこす",
+      "gloss": "to regret",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41831,
+        58194,
+        18221
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "思": 2
+      },
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2115920/やり残す/やりのこす": {
+      "id": 2115920,
+      "form": "やり残す",
+      "kana": "やりのこす",
+      "gloss": "to leave undone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        26072,
+        null,
+        null,
+        15464
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2115920/遣り残す/やりのこす": {
+      "id": 2115920,
+      "form": "遣り残す",
+      "kana": "やりのこす",
+      "gloss": "to leave undone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22063,
+        null,
+        112993
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遣": 7
+      },
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1326740/とり残す/とりのこす": {
+      "id": 1326740,
+      "form": "とり残す",
+      "kana": "とりのこす",
+      "gloss": "to leave behind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31124,
+        null,
+        null,
+        66395
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1852340/食べ残す/たべのこす": {
+      "id": 1852340,
+      "form": "食べ残す",
+      "kana": "たべのこす",
+      "gloss": "to leave a dish half-eaten",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        49441,
+        null,
+        52239
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "のこす": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473970/売れ残り/うれのこり": {
+      "id": 1473970,
+      "form": "売れ残り",
+      "kana": "うれのこり",
+      "gloss": "unsold items",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26810,
+        48192,
+        42050,
+        39384
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "売": 2
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1951900/残り香/のこりが": {
+      "id": 1951900,
+      "form": "残り香",
+      "kana": "のこりが",
+      "gloss": "lingering scent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        59987,
+        21347
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "香": 4
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304490/残り火/のこりび": {
+      "id": 1304490,
+      "form": "残り火",
+      "kana": "のこりび",
+      "gloss": "embers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        81694,
+        44289
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2023610/勝ち残り/かちのこり": {
+      "id": 2023610,
+      "form": "勝ち残り",
+      "kana": "かちのこり",
+      "gloss": "winning wrestler who remains ringside in case his involvement is needed in pre-bout rituals",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        74977,
+        98587
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勝": 3
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2206870/残り少ない/のこりすくない": {
+      "id": 2206870,
+      "form": "残り少ない",
+      "kana": "のこりすくない",
+      "gloss": "having little left",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        36648,
+        15404
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "少": 2
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1951900/残り香/のこりか": {
+      "id": 1951900,
+      "form": "残り香",
+      "kana": "のこりか",
+      "gloss": "lingering scent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        59987,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "香": 4
+      },
+      "matched": {
+        "のこり": {
+          "actual": "のこ",
+          "dictionary": [
+            "のこ.り"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1304740:残留:ざんりゅう",
+      "form": "残留",
+      "kana": "ざんりゅう",
+      "cue": "staying behind; remaining",
+      "ids": [
+        1304740
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 22047,
+        "shiberu": 12757,
+        "tubelex": 16004,
+        "wordfreq": 11547
+      },
+      "alternatives_by_kanji": {
+        "残": [
+          "1304510/残る/のこる",
+          "1600260/残す/のこす",
+          "1304680/残念/ざんねん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1900970:残った分:のこったぶん",
+      "form": "残った分",
+      "kana": "のこったぶん",
+      "cue": "amount left over; remaining portion",
+      "ids": [
+        1900970
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 60612
+      },
+      "alternatives_by_kanji": {
+        "分": [
+          "1318610/自分/じぶん",
+          "1606600/分かれる/わかれる",
+          "1372010/水分/すいぶん"
+        ],
+        "残": [
+          "1304510/残る/のこる",
+          "1600260/残す/のこす",
+          "1304680/残念/ざんねん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 39
+}

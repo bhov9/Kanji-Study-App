@@ -1,0 +1,1286 @@
+{
+  "character": "巣",
+  "grade": 4,
+  "meanings": [
+    "nest",
+    "rookery",
+    "hive",
+    "cobweb",
+    "den"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 47
+    },
+    {
+      "type": "nelson_c",
+      "value": 3
+    }
+  ],
+  "components": [
+    "尚",
+    "田",
+    "木"
+  ],
+  "on": [
+    "ソウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "す",
+      "stem": "す",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "す.くう",
+      "stem": "す",
+      "okurigana": "くう"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "巣",
+    "heading": "巣（巢）",
+    "readings": [
+      "ソウ",
+      "す"
+    ],
+    "examples_by_reading": [
+      [
+        "営巣",
+        "卵巣",
+        "病巣"
+      ],
+      [
+        "巣",
+        "巣箱",
+        "巣立つ"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "巣",
+      "reading": "ソウ",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソウ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 21,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1549260/卵巣/らんそう",
+        "1490370/病巣/びょうそう",
+        "1173530/営巣/えいそう",
+        "1400430/巣窟/そうくつ",
+        "1380090/精巣/せいそう",
+        "2107200/帰巣/きそう",
+        "2549390/巣穴/そうけつ",
+        "1907930/蜂巣/ほうそう",
+        "1668930/帰巣本能/きそうほんのう",
+        "2520140/営巣地/えいそうち"
+      ]
+    },
+    {
+      "reading": "す",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 32,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1400390/巣/す",
+        "1400480/巣立つ/すだつ",
+        "1400460/巣箱/すばこ",
+        "1517850/蜂の巣/はちのす",
+        "1265720/古巣/ふるす",
+        "1586220/空き巣/あきす",
+        "2549390/巣穴/すあな",
+        "1819400/巣ごもり/すごもり",
+        "1400470/巣立ち/すだち",
+        "2276830/巣作り/すづくり"
+      ]
+    },
+    {
+      "reading": "すくう",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1400390/巣/す",
+    "1549260/卵巣/らんそう",
+    "1400480/巣立つ/すだつ",
+    "1400460/巣箱/すばこ",
+    "1490370/病巣/びょうそう",
+    "1173530/営巣/えいそう",
+    "1517850/蜂の巣/はちのす",
+    "1265720/古巣/ふるす",
+    "1400430/巣窟/そうくつ",
+    "1586220/空き巣/あきす",
+    "2549390/巣穴/すあな",
+    "1380090/精巣/せいそう",
+    "1819400/巣ごもり/すごもり",
+    "1400470/巣立ち/すだち",
+    "2107200/帰巣/きそう",
+    "2549390/巣穴/そうけつ",
+    "2276830/巣作り/すづくり",
+    "1939780/クモの巣/くものす",
+    "1819400/巣籠もり/すごもり",
+    "1907930/蜂巣/はちす",
+    "2833795/巣離れ/すばなれ",
+    "1939780/蜘蛛の巣/くものす",
+    "1929110/愛の巣/あいのす",
+    "1907930/蜂巣/ほうそう",
+    "1517850/ハチの巣/はちのす",
+    "1668930/帰巣本能/きそうほんのう",
+    "2861185/アリの巣/ありのす",
+    "2861185/蟻の巣/ありのす",
+    "2174160/ツバメの巣/つばめのす",
+    "1400400/巣喰う/すくう"
+  ],
+  "candidates": {
+    "1400390/巣/す": {
+      "id": 1400390,
+      "form": "巣",
+      "kana": "す",
+      "gloss": "nest",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2818,
+        2653,
+        5790,
+        7382
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [
+        "す"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1549260/卵巣/らんそう": {
+      "id": 1549260,
+      "form": "卵巣",
+      "kana": "らんそう",
+      "gloss": "ovary",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22034,
+        18183,
+        28385,
+        59376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "卵": 6
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400480/巣立つ/すだつ": {
+      "id": 1400480,
+      "form": "巣立つ",
+      "kana": "すだつ",
+      "gloss": "to leave the nest",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        34404,
+        22134,
+        66155,
+        29391
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [
+        "す"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400460/巣箱/すばこ": {
+      "id": 1400460,
+      "form": "巣箱",
+      "kana": "すばこ",
+      "gloss": "birdhouse",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28755,
+        45882,
+        64295
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "箱": 3
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [
+        "す"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1490370/病巣/びょうそう": {
+      "id": 1490370,
+      "form": "病巣",
+      "kana": "びょうそう",
+      "gloss": "focus",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        47321,
+        52573
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "病": 3
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1173530/営巣/えいそう": {
+      "id": 1173530,
+      "form": "営巣",
+      "kana": "えいそう",
+      "gloss": "building a nest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38931,
+        65516,
+        126005
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "営": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1517850/蜂の巣/はちのす": {
+      "id": 1517850,
+      "form": "蜂の巣",
+      "kana": "はちのす",
+      "gloss": "beehive",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40599,
+        12875,
+        33710,
+        21096
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蜂": 7
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1265720/古巣/ふるす": {
+      "id": 1265720,
+      "form": "古巣",
+      "kana": "ふるす",
+      "gloss": "old haunts",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18250,
+        28340,
+        23544,
+        36863
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400430/巣窟/そうくつ": {
+      "id": 1400430,
+      "form": "巣窟",
+      "kana": "そうくつ",
+      "gloss": "den",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35932,
+        32292,
+        21459,
+        21051
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "窟": 7
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586220/空き巣/あきす": {
+      "id": 1586220,
+      "form": "空き巣",
+      "kana": "あきす",
+      "gloss": "empty nest",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26721,
+        35006,
+        32548,
+        30806
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2549390/巣穴/すあな": {
+      "id": 2549390,
+      "form": "巣穴",
+      "kana": "すあな",
+      "gloss": "nesting hole",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31757,
+        30504,
+        null,
+        30586
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "穴": 6
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1380090/精巣/せいそう": {
+      "id": 1380090,
+      "form": "精巣",
+      "kana": "せいそう",
+      "gloss": "testicle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50803,
+        40209,
+        53329
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "精": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1819400/巣ごもり/すごもり": {
+      "id": 1819400,
+      "form": "巣ごもり",
+      "kana": "すごもり",
+      "gloss": "nesting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31529,
+        null,
+        144865,
+        132062
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400470/巣立ち/すだち": {
+      "id": 1400470,
+      "form": "巣立ち",
+      "kana": "すだち",
+      "gloss": "leaving the nest",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        55378,
+        55649
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2107200/帰巣/きそう": {
+      "id": 2107200,
+      "form": "帰巣",
+      "kana": "きそう",
+      "gloss": "homing (instinct)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        121853,
+        123587
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帰": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2549390/巣穴/そうけつ": {
+      "id": 2549390,
+      "form": "巣穴",
+      "kana": "そうけつ",
+      "gloss": "nesting hole",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31757,
+        30504,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "穴": 6
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2276830/巣作り/すづくり": {
+      "id": 2276830,
+      "form": "巣作り",
+      "kana": "すづくり",
+      "gloss": "nest-building",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44959,
+        null,
+        70587
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1939780/クモの巣/くものす": {
+      "id": 1939780,
+      "form": "クモの巣",
+      "kana": "くものす",
+      "gloss": "spiderweb",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        61736,
+        41478
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1819400/巣籠もり/すごもり": {
+      "id": 1819400,
+      "form": "巣籠もり",
+      "kana": "すごもり",
+      "gloss": "nesting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        null,
+        231426
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "籠": 7
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1907930/蜂巣/はちす": {
+      "id": 1907930,
+      "form": "蜂巣",
+      "kana": "はちす",
+      "gloss": "hive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        134699,
+        181972
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蜂": 7
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2833795/巣離れ/すばなれ": {
+      "id": 2833795,
+      "form": "巣離れ",
+      "kana": "すばなれ",
+      "gloss": "leaving the nest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        252796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "離": 7
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1939780/蜘蛛の巣/くものす": {
+      "id": 1939780,
+      "form": "蜘蛛の巣",
+      "kana": "くものす",
+      "gloss": "spiderweb",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        21661
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1929110/愛の巣/あいのす": {
+      "id": 1929110,
+      "form": "愛の巣",
+      "kana": "あいのす",
+      "gloss": "love nest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        41695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1907930/蜂巣/ほうそう": {
+      "id": 1907930,
+      "form": "蜂巣",
+      "kana": "ほうそう",
+      "gloss": "hive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        134699,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "蜂": 7
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1517850/ハチの巣/はちのす": {
+      "id": 1517850,
+      "form": "ハチの巣",
+      "kana": "はちのす",
+      "gloss": "beehive",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49658
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1668930/帰巣本能/きそうほんのう": {
+      "id": 1668930,
+      "form": "帰巣本能",
+      "kana": "きそうほんのう",
+      "gloss": "homing instinct",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        61427
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帰": 2,
+        "本": 1,
+        "能": 5
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2861185/アリの巣/ありのす": {
+      "id": 2861185,
+      "form": "アリの巣",
+      "kana": "ありのす",
+      "gloss": "anthill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65474
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2861185/蟻の巣/ありのす": {
+      "id": 2861185,
+      "form": "蟻の巣",
+      "kana": "ありのす",
+      "gloss": "anthill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        68185
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2174160/ツバメの巣/つばめのす": {
+      "id": 2174160,
+      "form": "ツバメの巣",
+      "kana": "つばめのす",
+      "gloss": "swallow's nest",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        80910
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400400/巣喰う/すくう": {
+      "id": 1400400,
+      "form": "巣喰う",
+      "kana": "すくう",
+      "gloss": "to build a nest",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        81782
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "す": {
+          "actual": "す",
+          "dictionary": [
+            "す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2520140/営巣地/えいそうち": {
+      "id": 2520140,
+      "form": "営巣地",
+      "kana": "えいそうち",
+      "gloss": "nesting place",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        143085
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "営": 5,
+        "地": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1400390:巣:す",
+      "form": "巣",
+      "kana": "す",
+      "cue": "nest; rookery",
+      "ids": [
+        1400390
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7382,
+        "shiberu": 2818,
+        "tubelex": 2653,
+        "wordfreq": 5790
+      },
+      "alternatives_by_kanji": {
+        "巣": [
+          "1549260/卵巣/らんそう",
+          "1400480/巣立つ/すだつ",
+          "1400460/巣箱/すばこ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

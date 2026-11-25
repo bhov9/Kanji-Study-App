@@ -1,0 +1,1191 @@
+{
+  "character": "冊",
+  "grade": 6,
+  "meanings": [
+    "tome",
+    "counter for books",
+    "volume"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 13
+    },
+    {
+      "type": "nelson_c",
+      "value": 2
+    }
+  ],
+  "components": [
+    "｜",
+    "一",
+    "亅",
+    "冂",
+    "廾",
+    "冊"
+  ],
+  "on": [
+    "サツ",
+    "サク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ふみ",
+      "stem": "ふみ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "冊",
+    "heading": "冊",
+    "readings": [
+      "サツ",
+      "サク"
+    ],
+    "examples_by_reading": [
+      [
+        "冊子",
+        "別冊"
+      ],
+      [
+        "短冊"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "冊",
+      "reading": "サツ",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "サツ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 15,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1509790/別冊/べっさつ",
+        "1298530/冊子/さっし",
+        "1503570/分冊/ぶんさつ",
+        "1661080/大冊/たいさつ",
+        "1578930/合冊/がっさつ",
+        "1578930/合冊/ごうさつ",
+        "1701620/書冊/しょさつ",
+        "2847084/簿冊/ぼさつ",
+        "1743530/小冊/しょうさつ",
+        "1162680/一冊/いっさつ"
+      ]
+    },
+    {
+      "reading": "サク",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1418700/短冊/たんざく",
+        "2786450/冊封/さくほう",
+        "1298560/冊立/さくりつ",
+        "1298560/冊立/さくりゅう",
+        "2748870/冊封使/さくほうし",
+        "2844418/冊封体制/さくほうたいせい",
+        "2786440/冊/さく"
+      ]
+    },
+    {
+      "reading": "ふみ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1418700/短冊/たんざく",
+    "1509790/別冊/べっさつ",
+    "1298530/冊子/さっし",
+    "1503570/分冊/ぶんさつ",
+    "1661080/大冊/たいさつ",
+    "1578930/合冊/がっさつ",
+    "2786450/冊封/さくほう",
+    "1578930/合冊/ごうさつ",
+    "1298560/冊立/さくりつ",
+    "1701620/書冊/しょさつ",
+    "2847084/簿冊/ぼさつ",
+    "1743530/小冊/しょうさつ",
+    "1162680/一冊/いっさつ",
+    "1162680/１冊/いっさつ",
+    "1373040/数冊/すうさつ",
+    "1298560/冊立/さくりゅう",
+    "1946560/別冊付録/べっさつふろく",
+    "2748870/冊封使/さくほうし",
+    "2844418/冊封体制/さくほうたいせい",
+    "1864630/各冊/かくさつ",
+    "2786440/冊/さく",
+    "2828555/野冊/やさつ",
+    "1418700/短冊/たんじゃく",
+    "1298540/冊子/そうし",
+    "1298550/冊数/さっすう",
+    "2786450/冊封/さっぽう",
+    "1660440/小冊子/しょうさっし",
+    "2650070/短冊形/たんざくがた",
+    "2855251/冊子体/さっしたい",
+    "2844820/冊子版/さっしばん"
+  ],
+  "candidates": {
+    "1418700/短冊/たんざく": {
+      "id": 1418700,
+      "form": "短冊",
+      "kana": "たんざく",
+      "gloss": "tanzaku",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10916,
+        21007,
+        33710,
+        31630
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "短": 3
+      },
+      "matched": {
+        "サク": {
+          "actual": "ざく",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "サク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1509790/別冊/べっさつ": {
+      "id": 1509790,
+      "form": "別冊",
+      "kana": "べっさつ",
+      "gloss": "separate volume",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26948,
+        30165,
+        18794,
+        59679
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1298530/冊子/さっし": {
+      "id": 1298530,
+      "form": "冊子",
+      "kana": "さっし",
+      "gloss": "book",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26711
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "サツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1503570/分冊/ぶんさつ": {
+      "id": 1503570,
+      "form": "分冊",
+      "kana": "ぶんさつ",
+      "gloss": "separate volume",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20791,
+        63933,
+        32185,
+        93954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661080/大冊/たいさつ": {
+      "id": 1661080,
+      "form": "大冊",
+      "kana": "たいさつ",
+      "gloss": "large or bulky book or volume",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31242,
+        139593,
+        201647,
+        183423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1578930/合冊/がっさつ": {
+      "id": 1578930,
+      "form": "合冊",
+      "kana": "がっさつ",
+      "gloss": "collection in one volume",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        99903,
+        249208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2786450/冊封/さくほう": {
+      "id": 2786450,
+      "form": "冊封",
+      "kana": "さくほう",
+      "gloss": "bestowing peerage by imperial edict (in ancient China)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        null,
+        143810
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "封": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1578930/合冊/ごうさつ": {
+      "id": 1578930,
+      "form": "合冊",
+      "kana": "ごうさつ",
+      "gloss": "collection in one volume",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        99903,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1298560/冊立/さくりつ": {
+      "id": 1298560,
+      "form": "冊立",
+      "kana": "さくりつ",
+      "gloss": "imperial investiture",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        171448
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1701620/書冊/しょさつ": {
+      "id": 1701620,
+      "form": "書冊",
+      "kana": "しょさつ",
+      "gloss": "book",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        177021
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847084/簿冊/ぼさつ": {
+      "id": 2847084,
+      "form": "簿冊",
+      "kana": "ぼさつ",
+      "gloss": "(bound) book",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        229977
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "簿": 7
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1743530/小冊/しょうさつ": {
+      "id": 1743530,
+      "form": "小冊",
+      "kana": "しょうさつ",
+      "gloss": "pamphlet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1162680/一冊/いっさつ": {
+      "id": 1162680,
+      "form": "一冊",
+      "kana": "いっさつ",
+      "gloss": "one copy (of a book, magazine, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6537
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1162680/１冊/いっさつ": {
+      "id": 1162680,
+      "form": "１冊",
+      "kana": "いっさつ",
+      "gloss": "one copy (of a book, magazine, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20295
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1373040/数冊/すうさつ": {
+      "id": 1373040,
+      "form": "数冊",
+      "kana": "すうさつ",
+      "gloss": "several volumes (books)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26226
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1298560/冊立/さくりゅう": {
+      "id": 1298560,
+      "form": "冊立",
+      "kana": "さくりゅう",
+      "gloss": "imperial investiture",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1946560/別冊付録/べっさつふろく": {
+      "id": 1946560,
+      "form": "別冊付録",
+      "kana": "べっさつふろく",
+      "gloss": "separate-volume supplement (to)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        149731
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4,
+        "録": 4,
+        "付": 4
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2748870/冊封使/さくほうし": {
+      "id": 2748870,
+      "form": "冊封使",
+      "kana": "さくほうし",
+      "gloss": "accredited Chinese envoy to neighbouring kingdoms",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        193163
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "封": 7,
+        "使": 3
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2844418/冊封体制/さくほうたいせい": {
+      "id": 2844418,
+      "form": "冊封体制",
+      "kana": "さくほうたいせい",
+      "gloss": "tributary system (of Imperial China)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        226995
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "封": 7,
+        "制": 5,
+        "体": 2
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1864630/各冊/かくさつ": {
+      "id": 1864630,
+      "form": "各冊",
+      "kana": "かくさつ",
+      "gloss": "each book (volume or copy)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        233928
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "各": 4
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2786440/冊/さく": {
+      "id": 2786440,
+      "form": "冊",
+      "kana": "さく",
+      "gloss": "imperial edict to confer nobility titles (in ancient China)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828555/野冊/やさつ": {
+      "id": 2828555,
+      "form": "野冊",
+      "kana": "やさつ",
+      "gloss": "plant press",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "野": 2
+      },
+      "matched": {
+        "サツ": {
+          "actual": "さつ",
+          "dictionary": [
+            "サツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418700/短冊/たんじゃく": {
+      "id": 1418700,
+      "form": "短冊",
+      "kana": "たんじゃく",
+      "gloss": "tanzaku",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10916,
+        21007,
+        33710,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "短": 3
+      },
+      "matched": {},
+      "official_examples": [
+        "サク"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1298540/冊子/そうし": {
+      "id": 1298540,
+      "form": "冊子",
+      "kana": "そうし",
+      "gloss": "written work (esp. a bound text, as opposed to a scroll)",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {},
+      "official_examples": [
+        "サツ"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1298550/冊数/さっすう": {
+      "id": 1298550,
+      "form": "冊数",
+      "kana": "さっすう",
+      "gloss": "number of books",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24034,
+        52268,
+        41605,
+        61627
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2786450/冊封/さっぽう": {
+      "id": 2786450,
+      "form": "冊封",
+      "kana": "さっぽう",
+      "gloss": "bestowing peerage by imperial edict (in ancient China)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "封": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1660440/小冊子/しょうさっし": {
+      "id": 1660440,
+      "form": "小冊子",
+      "kana": "しょうさっし",
+      "gloss": "booklet",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        45604
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1,
+        "小": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2650070/短冊形/たんざくがた": {
+      "id": 2650070,
+      "form": "短冊形",
+      "kana": "たんざくがた",
+      "gloss": "thin rectangle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        176574
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "短": 3,
+        "形": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2855251/冊子体/さっしたい": {
+      "id": 2855251,
+      "form": "冊子体",
+      "kana": "さっしたい",
+      "gloss": "bound form (of a magazine or book; as opposed to a single sheet, scroll, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1,
+        "体": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2844820/冊子版/さっしばん": {
+      "id": 2844820,
+      "form": "冊子版",
+      "kana": "さっしばん",
+      "gloss": "printed edition (as opposed to digital)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        287635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1,
+        "版": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1298530:冊子:さっし",
+      "form": "冊子",
+      "kana": "さっし",
+      "cue": "book; booklet",
+      "ids": [
+        1298530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 26711,
+        "shiberu": 15357,
+        "tubelex": 12631,
+        "wordfreq": 12892
+      },
+      "alternatives_by_kanji": {
+        "子": [
+          "1545820/様子/ようす",
+          "1365170/親子/おやこ",
+          "1307990/子孫/しそん"
+        ],
+        "冊": [
+          "1418700/短冊/たんざく",
+          "1509790/別冊/べっさつ",
+          "1503570/分冊/ぶんさつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 13
+}

@@ -1,0 +1,318 @@
+{
+  "character": "賂",
+  "grade": 7,
+  "meanings": [
+    "bribe"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 154
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "口",
+    "夂"
+  ],
+  "on": [
+    "ロ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "まいな.い",
+      "stem": "まいな",
+      "okurigana": "い"
+    },
+    {
+      "sourceNotation": "まいな.う",
+      "stem": "まいな",
+      "okurigana": "う"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "賂",
+    "heading": "賂",
+    "readings": [
+      "ロ"
+    ],
+    "examples_by_reading": [
+      [
+        "賄賂"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "賂",
+      "reading": "ロ",
+      "source": "table_43_ro.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ロ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1562520/賄賂/わいろ",
+        "2864787/賄賂罪/わいろざい",
+        "2832562/貨賂/かろ"
+      ]
+    },
+    {
+      "reading": "まいない",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2513770/賂い/まいない"
+      ]
+    },
+    {
+      "reading": "まいなう",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1562520/賄賂/わいろ",
+    "2864787/賄賂罪/わいろざい",
+    "2513770/賂い/まいない",
+    "2832562/貨賂/かろ",
+    "2513770/賂/まいない"
+  ],
+  "candidates": {
+    "1562520/賄賂/わいろ": {
+      "id": 1562520,
+      "form": "賄賂",
+      "kana": "わいろ",
+      "gloss": "bribe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13162,
+        19278,
+        14325,
+        18879
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賄": 7
+      },
+      "matched": {
+        "ロ": {
+          "actual": "ろ",
+          "dictionary": [
+            "ロ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ロ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2864787/賄賂罪/わいろざい": {
+      "id": 2864787,
+      "form": "賄賂罪",
+      "kana": "わいろざい",
+      "gloss": "(crime of) bribery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罪": 5,
+        "賄": 7
+      },
+      "matched": {
+        "ロ": {
+          "actual": "ろ",
+          "dictionary": [
+            "ロ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2513770/賂い/まいない": {
+      "id": 2513770,
+      "form": "賂い",
+      "kana": "まいない",
+      "gloss": "bribe",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch",
+        "dated"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まいない": {
+          "actual": "まいな",
+          "dictionary": [
+            "まいな.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2832562/貨賂/かろ": {
+      "id": 2832562,
+      "form": "貨賂",
+      "kana": "かろ",
+      "gloss": "bribe",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "貨": 4
+      },
+      "matched": {
+        "ロ": {
+          "actual": "ろ",
+          "dictionary": [
+            "ロ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2513770/賂/まいない": {
+      "id": 2513770,
+      "form": "賂",
+      "kana": "まいない",
+      "gloss": "bribe",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch",
+        "dated"
+      ],
+      "ranks": [
+        null,
+        121818,
+        196196,
+        90894
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1562520:賄賂:わいろ",
+      "form": "賄賂",
+      "kana": "わいろ",
+      "cue": "bribe; sweetener",
+      "ids": [
+        1562520
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18879,
+        "shiberu": 13162,
+        "tubelex": 19278,
+        "wordfreq": 14325
+      },
+      "alternatives_by_kanji": {
+        "賂": [
+          "2864787/賄賂罪/わいろざい",
+          "2513770/賂い/まいない",
+          "2832562/貨賂/かろ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

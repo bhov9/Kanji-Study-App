@@ -1,0 +1,2993 @@
+[
+  {
+    "wordId": "jmdict:1429050:調べ:しらべ",
+    "form": "調べ",
+    "kana": "しらべ",
+    "cue": "investigation; inspection",
+    "ids": [
+      1429050
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 4234,
+      "shiberu": 5739,
+      "tubelex": 7353,
+      "wordfreq": 883
+    },
+    "alternatives_by_kanji": {
+      "調": [
+        "1429120/調査/ちょうさ",
+        "1429330/調和/ちょうわ",
+        "1277730/好調/こうちょう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1429080:調印:ちょういん",
+    "form": "調印",
+    "kana": "ちょういん",
+    "cue": "signature; signing",
+    "ids": [
+      1429080
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 51950,
+      "shiberu": 11208,
+      "tubelex": 25211,
+      "wordfreq": 27344
+    },
+    "alternatives_by_kanji": {
+      "調": [
+        "1429120/調査/ちょうさ",
+        "1429050/調べ/しらべ",
+        "1429330/調和/ちょうわ"
+      ],
+      "印": [
+        "1168390/印象/いんしょう",
+        "1168190/印刷/いんさつ",
+        "1537770/矢印/やじるし"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1429120:調査:ちょうさ",
+    "form": "調査",
+    "kana": "ちょうさ",
+    "cue": "investigation; examination",
+    "ids": [
+      1429120
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2037,
+      "shiberu": 941,
+      "tubelex": 1082,
+      "wordfreq": 552
+    },
+    "alternatives_by_kanji": {
+      "調": [
+        "1429050/調べ/しらべ",
+        "1429330/調和/ちょうわ",
+        "1277730/好調/こうちょう"
+      ],
+      "査": [
+        "1342110/巡査/じゅんさ",
+        "1291430/査察/ささつ",
+        "1257890/検査/けんさ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1429200:調整:ちょうせい",
+    "form": "調整",
+    "kana": "ちょうせい",
+    "cue": "adjustment; regulation",
+    "ids": [
+      1429200
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 3112,
+      "shiberu": 3024,
+      "tubelex": 691,
+      "wordfreq": 2148
+    },
+    "alternatives_by_kanji": {
+      "整": [
+        "1376250/整理/せいり",
+        "1376140/整える/ととのえる",
+        "1598800/整う/ととのう"
+      ],
+      "調": [
+        "1429120/調査/ちょうさ",
+        "1429050/調べ/しらべ",
+        "1429330/調和/ちょうわ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1429250:調達:ちょうたつ",
+    "form": "調達",
+    "kana": "ちょうたつ",
+    "cue": "supply; provision",
+    "ids": [
+      1429250
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 6098,
+      "shiberu": 9469,
+      "tubelex": 5110,
+      "wordfreq": 5555
+    },
+    "alternatives_by_kanji": {
+      "調": [
+        "1429120/調査/ちょうさ",
+        "1429050/調べ/しらべ",
+        "1429330/調和/ちょうわ"
+      ],
+      "達": [
+        "1442240/伝達/でんたつ",
+        "1416250/達人/たつじん",
+        "1449860/到達/とうたつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1429820:長官:ちょうかん",
+    "form": "長官",
+    "kana": "ちょうかん",
+    "cue": "secretary (government); director",
+    "ids": [
+      1429820
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 22913,
+      "shiberu": 3603,
+      "tubelex": 5080,
+      "wordfreq": 2934
+    },
+    "alternatives_by_kanji": {
+      "長": [
+        "1429750/長い/ながい",
+        "1375790/成長/せいちょう",
+        "1430040/長女/ちょうじょ"
+      ],
+      "官": [
+        "1211760/官能/かんのう",
+        "1237050/教官/きょうかん",
+        "1211730/官庁/かんちょう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1430100:永年:ながねん",
+    "form": "永年",
+    "kana": "ながねん",
+    "cue": "many years; a long time",
+    "ids": [
+      1430100
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 58786,
+      "shiberu": 27587,
+      "tubelex": 40322,
+      "wordfreq": 31382
+    },
+    "alternatives_by_kanji": {
+      "年": [
+        "1349170/少年/しょうねん",
+        "1468950/年代/ねんだい",
+        "1598750/年寄り/としより"
+      ],
+      "永": [
+        "1174230/永続/えいぞく",
+        "1429750/永い/ながい",
+        "1626850/日永/ひなが"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1430200:戴き:いただき",
+    "form": "戴き",
+    "kana": "いただき",
+    "cue": "crown (of head); summit (of mountain)",
+    "ids": [
+      1430200
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 397947,
+      "wordfreq": 38864
+    },
+    "alternatives_by_kanji": {
+      "戴": [
+        "2628760/戴冠/たいかん",
+        "1619470/推戴/すいたい",
+        "1516050/奉戴/ほうたい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1430240:頂点:ちょうてん",
+    "form": "頂点",
+    "kana": "ちょうてん",
+    "cue": "vertex; apex",
+    "ids": [
+      1430240
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 5089,
+      "shiberu": 10756,
+      "tubelex": 5795,
+      "wordfreq": 9888
+    },
+    "alternatives_by_kanji": {
+      "点": [
+        "1294850/採点/さいてん",
+        "1441690/点線/てんせん",
+        "1441440/点火/てんか"
+      ],
+      "頂": [
+        "1430220/頂上/ちょうじょう",
+        "1386930/絶頂/ぜっちょう",
+        "1430200/頂/いただき"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1430250:鳥:とり",
+    "form": "鳥",
+    "kana": "とり",
+    "cue": "bird",
+    "ids": [
+      1430250
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 2273,
+      "shiberu": 717,
+      "tubelex": 1523,
+      "wordfreq": 1838
+    }
+  },
+  {
+    "wordId": "jmdict:1430250:鶏:とり",
+    "form": "鶏",
+    "kana": "とり",
+    "cue": "bird",
+    "ids": [
+      1252990,
+      1430250
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "dictionary identity needs review",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 350054,
+      "shiberu": 3237,
+      "tubelex": 3669,
+      "wordfreq": 4766
+    },
+    "alternatives_by_kanji": {
+      "鶏": [
+        "1253040/鶏卵/けいらん",
+        "1547120/養鶏/ようけい",
+        "1253000/鶏舎/けいしゃ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1430570:捗る:はかどる",
+    "form": "捗る",
+    "kana": "はかどる",
+    "cue": "to make (good) progress; to move right ahead (with the work)",
+    "ids": [
+      1430570
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "uk"
+    ],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 20850,
+      "shiberu": 29312,
+      "tubelex": 13194,
+      "wordfreq": 17002
+    },
+    "alternatives_by_kanji": {
+      "捗": [
+        "1366140/進捗/しんちょく",
+        "2026560/進捗状況/しんちょくじょうきょう",
+        "2858870/進捗報告/しんちょくほうこく"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1431110:直接:ちょくせつ",
+    "form": "直接",
+    "kana": "ちょくせつ",
+    "cue": "direct; immediate",
+    "ids": [
+      1431110
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 877,
+      "shiberu": 1339,
+      "tubelex": 1277,
+      "wordfreq": 1268
+    },
+    "alternatives_by_kanji": {
+      "直": [
+        "1377590/正直/しょうじき",
+        "2846390/直る/なおる",
+        "1430670/直ちに/ただちに"
+      ],
+      "接": [
+        "1385450/接触/せっしょく",
+        "1385530/接待/せったい",
+        "1815150/接ぎ木/つぎき"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1431650:朕:ちん",
+    "form": "朕",
+    "kana": "ちん",
+    "cue": "We (first person pronoun used by the Emperor)",
+    "ids": [
+      1431650
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "dated"
+    ],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 54937,
+      "shiberu": 15978,
+      "tubelex": 53060,
+      "wordfreq": 40209
+    },
+    "alternatives_by_kanji": {
+      "朕": []
+    }
+  },
+  {
+    "wordId": "jmdict:1431810:沈黙:ちんもく",
+    "form": "沈黙",
+    "kana": "ちんもく",
+    "cue": "silence; being silent",
+    "ids": [
+      1431810,
+      5531003
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "dictionary identity needs review",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2755,
+      "shiberu": 2296,
+      "tubelex": 8482,
+      "wordfreq": 8169
+    },
+    "alternatives_by_kanji": {
+      "沈": [
+        "1431670/沈む/しずむ",
+        "1431680/沈める/しずめる",
+        "1748590/浮き沈み/うきしずみ"
+      ],
+      "黙": [
+        "1534930/黙る/だまる",
+        "1154700/暗黙/あんもく",
+        "1534920/黙り込む/だまりこむ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1431840:珍:ちん",
+    "form": "珍",
+    "kana": "ちん",
+    "cue": "rare",
+    "ids": [
+      1431840
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 25817,
+      "shiberu": 6335,
+      "tubelex": 21923,
+      "wordfreq": 8301
+    }
+  },
+  {
+    "wordId": "jmdict:1431990:賃金:ちんぎん",
+    "form": "賃金",
+    "kana": "ちんぎん",
+    "cue": "wages; pay",
+    "ids": [
+      1431990
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 27533,
+      "shiberu": 5022,
+      "tubelex": 4848,
+      "wordfreq": 6076
+    },
+    "alternatives_by_kanji": {
+      "金": [
+        "1243040/金属/きんぞく",
+        "1242970/金持ち/かねもち",
+        "1243020/金銭/きんせん"
+      ],
+      "賃": [
+        "1172820/運賃/うんちん",
+        "1432020/賃上げ/ちんあげ",
+        "1192270/家賃/やちん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1432040:鎮圧:ちんあつ",
+    "form": "鎮圧",
+    "kana": "ちんあつ",
+    "cue": "suppression (of a riot, revolt, etc.); repression",
+    "ids": [
+      1432040
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 18821,
+      "shiberu": 7739,
+      "tubelex": 25023,
+      "wordfreq": 18515
+    },
+    "alternatives_by_kanji": {
+      "圧": [
+        "1153340/圧力/あつりょく",
+        "1221880/気圧/きあつ",
+        "1153310/圧迫/あっぱく"
+      ],
+      "鎮": [
+        "1432120/鎮静/ちんせい",
+        "1594280/鎮める/しずめる",
+        "1432100/鎮座/ちんざ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1432180:陳述:ちんじゅつ",
+    "form": "陳述",
+    "kana": "ちんじゅつ",
+    "cue": "statement; declaration",
+    "ids": [
+      1432180
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 64443,
+      "shiberu": 7411,
+      "tubelex": 25407,
+      "wordfreq": 25763
+    },
+    "alternatives_by_kanji": {
+      "述": [
+        "1340820/述べる/のべる",
+        "1427120/著述/ちょじゅつ",
+        "1344880/叙述/じょじゅつ"
+      ],
+      "陳": [
+        "1432210/陳列/ちんれつ",
+        "1432170/陳謝/ちんしゃ",
+        "1617420/開陳/かいちん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1432220:津波:つなみ",
+    "form": "津波",
+    "kana": "つなみ",
+    "cue": "tsunami; tidal wave",
+    "ids": [
+      1432220
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 18712,
+      "shiberu": 4224,
+      "tubelex": 4338,
+      "wordfreq": 6779
+    },
+    "alternatives_by_kanji": {
+      "波": [
+        "1443720/電波/でんぱ",
+        "1470990/波及/はきゅう",
+        "1281610/荒波/あらなみ"
+      ],
+      "津": [
+        "1591690/興味津々/きょうみしんしん",
+        "1597990/津々浦々/つつうらうら",
+        "1597990/津々浦々/つづうらうら"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1432240:墜落:ついらく",
+    "form": "墜落",
+    "kana": "ついらく",
+    "cue": "fall; crash (of an aircraft)",
+    "ids": [
+      1432240
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 13073,
+      "shiberu": 3499,
+      "tubelex": 11593,
+      "wordfreq": 6549
+    },
+    "alternatives_by_kanji": {
+      "落": [
+        "1589260/落とす/おとす",
+        "1589220/落ち着く/おちつく",
+        "1333800/集落/しゅうらく"
+      ],
+      "墜": [
+        "1253610/撃墜/げきつい",
+        "1432230/墜死/ついし",
+        "1320090/失墜/しっつい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1432410:追う:おう",
+    "form": "追う",
+    "kana": "おう",
+    "cue": "to chase; to run after",
+    "ids": [
+      1432410
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 764,
+      "shiberu": 1578,
+      "tubelex": 1720,
+      "wordfreq": 7635
+    },
+    "alternatives_by_kanji": {
+      "追": [
+        "1432560/追跡/ついせき",
+        "1432670/追放/ついほう",
+        "1397790/訴追/そつい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1432410:逐う:おう",
+    "form": "逐う",
+    "kana": "おう",
+    "cue": "to chase; to run after",
+    "ids": [
+      1432410
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "rK"
+    ],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 94131,
+      "shiberu": 37913
+    },
+    "alternatives_by_kanji": {
+      "逐": [
+        "1244870/駆逐/くちく",
+        "1422480/逐一/ちくいち",
+        "1422500/逐次/ちくじ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1432610:追悼:ついとう",
+    "form": "追悼",
+    "kana": "ついとう",
+    "cue": "mourning",
+    "ids": [
+      1432610
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 39917,
+      "shiberu": 7124,
+      "tubelex": 16786,
+      "wordfreq": 10217
+    },
+    "alternatives_by_kanji": {
+      "追": [
+        "1432410/追う/おう",
+        "1432560/追跡/ついせき",
+        "1432670/追放/ついほう"
+      ],
+      "悼": [
+        "1150350/哀悼/あいとう",
+        "1446980/悼む/いたむ",
+        "1446990/悼辞/とうじ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1432680:甚い:いたい",
+    "form": "甚い",
+    "kana": "いたい",
+    "cue": "painful; sore",
+    "ids": [
+      1432680
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "rK"
+    ],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 254196
+    },
+    "alternatives_by_kanji": {
+      "甚": [
+        "1370040/甚大/じんだい",
+        "1370000/甚だ/はなはだ",
+        "1592750/激甚/げきじん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1433050:通貨:つうか",
+    "form": "通貨",
+    "kana": "つうか",
+    "cue": "currency",
+    "ids": [
+      1433050
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 25286,
+      "shiberu": 4759,
+      "tubelex": 1799,
+      "wordfreq": 3809
+    },
+    "alternatives_by_kanji": {
+      "通": [
+        "1497190/普通/ふつう",
+        "1432900/通す/とおす",
+        "1432850/通う/かよう"
+      ],
+      "貨": [
+        "1195890/貨物/かもつ",
+        "1195930/貨幣/かへい",
+        "1195890/貨物/かぶつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1433230:通算:つうさん",
+    "form": "通算",
+    "kana": "つうさん",
+    "cue": "total; sum",
+    "ids": [
+      1433230
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 37714,
+      "shiberu": 31871,
+      "tubelex": 9822,
+      "wordfreq": 10372
+    },
+    "alternatives_by_kanji": {
+      "算": [
+        "1252140/計算/けいさん",
+        "1543000/予算/よさん",
+        "1303930/算数/さんすう"
+      ],
+      "通": [
+        "1497190/普通/ふつう",
+        "1432900/通す/とおす",
+        "1432850/通う/かよう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1433560:通訳:つうやく",
+    "form": "通訳",
+    "kana": "つうやく",
+    "cue": "interpretation (i.e. oral translation)",
+    "ids": [
+      1433560
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 17757,
+      "shiberu": 6687,
+      "tubelex": 7220,
+      "wordfreq": 8031
+    },
+    "alternatives_by_kanji": {
+      "通": [
+        "1497190/普通/ふつう",
+        "1432900/通す/とおす",
+        "1432850/通う/かよう"
+      ],
+      "訳": [
+        "1523400/翻訳/ほんやく",
+        "1363050/申し訳/もうしわけ",
+        "1459360/内訳/うちわけ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1433620:塚:つか",
+    "form": "塚",
+    "kana": "つか",
+    "cue": "mound; heap",
+    "ids": [
+      1433620
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 33232,
+      "shiberu": 2930,
+      "tubelex": 9180,
+      "wordfreq": 14325
+    },
+    "alternatives_by_kanji": {
+      "塚": [
+        "1628020/貝塚/かいづか",
+        "1628020/貝塚/かいずか",
+        "2850886/高塚/たかつか"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1433680:漬ける:つける",
+    "form": "漬ける",
+    "kana": "つける",
+    "cue": "to soak (in); to steep",
+    "ids": [
+      1433680
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 20582,
+      "shiberu": 15629,
+      "wordfreq": 47810
+    },
+    "alternatives_by_kanji": {
+      "漬": [
+        "1433670/漬かる/つかる",
+        "1433700/漬物/つけもの",
+        "2083400/漬け/づけ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1433840:坪:つぼ",
+    "form": "坪",
+    "kana": "つぼ",
+    "cue": "tsubo; traditional unit of land area, approx. 3.3 square meters",
+    "ids": [
+      1433840
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 37196,
+      "shiberu": 11623,
+      "tubelex": 9349,
+      "wordfreq": 11547
+    },
+    "alternatives_by_kanji": {
+      "坪": [
+        "1433850/坪数/つぼすう",
+        "1597100/建坪/たてつぼ",
+        "2559210/坪庭/つぼにわ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1434040:釣:つり",
+    "form": "釣",
+    "kana": "つり",
+    "cue": "fishing; angling",
+    "ids": [
+      1434040
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "uk"
+    ],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 49822,
+      "shiberu": 20056,
+      "wordfreq": 24433
+    },
+    "alternatives_by_kanji": {
+      "釣": [
+        "1598110/釣り合い/つりあい",
+        "1622990/釣魚/ちょうぎょ",
+        "1434120/釣る/つる"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1434130:鶴:つる",
+    "form": "鶴",
+    "kana": "つる",
+    "cue": "crane (any bird of the family Gruidae, esp. the red-crowned crane, Grus japonensis)",
+    "ids": [
+      1434130
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 20466,
+      "shiberu": 10884,
+      "tubelex": 23673,
+      "wordfreq": 5446
+    }
+  },
+  {
+    "wordId": "jmdict:1434250:低下:ていか",
+    "form": "低下",
+    "kana": "ていか",
+    "cue": "fall; decline",
+    "ids": [
+      1434250
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 6752,
+      "shiberu": 4904,
+      "tubelex": 3104,
+      "wordfreq": 3167
+    },
+    "alternatives_by_kanji": {
+      "下": [
+        "1184170/下げる/さげる",
+        "1589500/下りる/おりる",
+        "1589580/下ろす/おろす"
+      ],
+      "低": [
+        "1434180/低い/ひくい",
+        "1283810/高低/こうてい",
+        "1434350/低級/ていきゅう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1434730:低迷:ていめい",
+    "form": "低迷",
+    "kana": "ていめい",
+    "cue": "hanging low (of clouds)",
+    "ids": [
+      1434730
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 47200,
+      "shiberu": 12663,
+      "tubelex": 12003,
+      "wordfreq": 12275
+    },
+    "alternatives_by_kanji": {
+      "低": [
+        "1434180/低い/ひくい",
+        "1283810/高低/こうてい",
+        "1434350/低級/ていきゅう"
+      ],
+      "迷": [
+        "1532800/迷惑/めいわく",
+        "1532710/迷う/まよう",
+        "1641170/迷い/まよい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1434920:停止:ていし",
+    "form": "停止",
+    "kana": "ていし",
+    "cue": "stoppage; coming to a stop",
+    "ids": [
+      1434920
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 3413,
+      "shiberu": 3935,
+      "tubelex": 2597,
+      "wordfreq": 1587
+    },
+    "alternatives_by_kanji": {
+      "止": [
+        "1424410/中止/ちゅうし",
+        "1381870/静止/せいし",
+        "1578820/行き止まり/いきどまり"
+      ],
+      "停": [
+        "1434960/停車/ていしゃ",
+        "1429260/調停/ちょうてい",
+        "1435020/停電/ていでん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1435100:偵察:ていさつ",
+    "form": "偵察",
+    "kana": "ていさつ",
+    "cue": "scouting; reconnaissance",
+    "ids": [
+      1435100
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 9016,
+      "shiberu": 7219,
+      "tubelex": 7821,
+      "wordfreq": 8169
+    },
+    "alternatives_by_kanji": {
+      "察": [
+        "1214900/観察/かんさつ",
+        "1281150/考察/こうさつ",
+        "1298750/察知/さっち"
+      ],
+      "偵": [
+        "1418380/探偵/たんてい",
+        "1458910/内偵/ないてい",
+        "1641760/密偵/みってい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1435920:帝国:ていこく",
+    "form": "帝国",
+    "kana": "ていこく",
+    "cue": "empire",
+    "ids": [
+      1435920
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 9835,
+      "shiberu": 3684,
+      "tubelex": 4009,
+      "wordfreq": 3048
+    },
+    "alternatives_by_kanji": {
+      "国": [
+        "1203620/外国/がいこく",
+        "1286170/国家/こっか",
+        "1582260/島国/しまぐに"
+      ],
+      "帝": [
+        "1280490/皇帝/こうてい",
+        "1435840/帝王/ていおう",
+        "1435810/帝/みかど"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1436050:底:そこ",
+    "form": "底",
+    "kana": "そこ",
+    "cue": "bottom; sole",
+    "ids": [
+      1436050
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2312,
+      "shiberu": 2169,
+      "tubelex": 2258,
+      "wordfreq": 3315
+    },
+    "alternatives_by_kanji": {
+      "底": [
+        "1201650/海底/かいてい",
+        "1576700/奥底/おくそこ",
+        "1661430/底流/ていりゅう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1436260:抵抗:ていこう",
+    "form": "抵抗",
+    "kana": "ていこう",
+    "cue": "resistance; opposition",
+    "ids": [
+      1436260
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 1632,
+      "shiberu": 2943,
+      "tubelex": 2325,
+      "wordfreq": 2289
+    },
+    "alternatives_by_kanji": {
+      "抗": [
+        "1278860/抗議/こうぎ",
+        "1410020/対抗/たいこう",
+        "1278950/抗争/こうそう"
+      ],
+      "抵": [
+        "1436290/抵当/ていとう",
+        "1508450/並大抵/なみたいてい",
+        "1672410/無抵抗/むていこう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1436410:堤出:ていしゅつ",
+    "form": "堤出",
+    "kana": "ていしゅつ",
+    "cue": "presentation (of documents); submission (of an application, report, etc.)",
+    "ids": [
+      1436410
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "no primary exact-form evidence",
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {},
+    "alternatives_by_kanji": {
+      "出": [
+        "1338180/出す/だす",
+        "1436410/提出/ていしゅつ",
+        "1338820/出現/しゅつげん"
+      ],
+      "堤": [
+        "1435350/堤防/ていぼう",
+        "1435340/堤/つつみ",
+        "1520560/防波堤/ぼうはてい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1436540:程度:ていど",
+    "form": "程度",
+    "kana": "ていど",
+    "cue": "degree; amount",
+    "ids": [
+      1436540
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 868,
+      "shiberu": 1036,
+      "tubelex": 502,
+      "wordfreq": 773
+    },
+    "alternatives_by_kanji": {
+      "度": [
+        "1374880/制度/せいど",
+        "1310260/支度/したく",
+        "1264690/限度/げんど"
+      ],
+      "程": [
+        "1196270/過程/かてい",
+        "1464300/日程/にってい",
+        "1735870/程遠い/ほどとおい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1436710:訂正:ていせい",
+    "form": "訂正",
+    "kana": "ていせい",
+    "cue": "correction; revision",
+    "ids": [
+      1436710
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 5914,
+      "shiberu": 5116,
+      "tubelex": 8308,
+      "wordfreq": 7265
+    },
+    "alternatives_by_kanji": {
+      "正": [
+        "1377590/正直/しょうじき",
+        "1376600/正しい/ただしい",
+        "1376910/正義/せいぎ"
+      ],
+      "訂": [
+        "1201060/改訂/かいてい",
+        "1593010/校訂/こうてい",
+        "1690240/補訂/ほてい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1436730:諦める:あきらめる",
+    "form": "諦める",
+    "kana": "あきらめる",
+    "cue": "to give up; to abandon (hope, plans)",
+    "ids": [
+      1436730
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 674,
+      "shiberu": 2874,
+      "tubelex": 1798,
+      "wordfreq": 7753
+    },
+    "alternatives_by_kanji": {
+      "諦": [
+        "1436740/諦観/ていかん",
+        "2015510/諦念/ていねん",
+        "1836250/要諦/ようてい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1436780:逓信:ていしん",
+    "form": "逓信",
+    "kana": "ていしん",
+    "cue": "communications (e.g. post, telegraph)",
+    "ids": [
+      1436780
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 146843,
+      "shiberu": 23139,
+      "tubelex": 59850,
+      "wordfreq": 81694
+    },
+    "alternatives_by_kanji": {
+      "信": [
+        "1359730/信頼/しんらい",
+        "1359620/信用/しんよう",
+        "1433330/通信/つうしん"
+      ],
+      "逓": [
+        "1436770/逓減/ていげん",
+        "1436790/逓送/ていそう",
+        "1739520/駅逓/えきてい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1436900:泥:どろ",
+    "form": "泥",
+    "kana": "どろ",
+    "cue": "mud; (wet) dirt",
+    "ids": [
+      1436900
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 5430,
+      "shiberu": 3149,
+      "tubelex": 3900,
+      "wordfreq": 5346
+    },
+    "alternatives_by_kanji": {
+      "泥": [
+        "1599340/泥棒/どろぼう",
+        "1436950/泥沼/どろぬま",
+        "1279030/拘泥/こうでい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1437310:笛:ふえ",
+    "form": "笛",
+    "kana": "ふえ",
+    "cue": "flute; fife",
+    "ids": [
+      1437310
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 10811,
+      "shiberu": 6109,
+      "tubelex": 8111,
+      "wordfreq": 10217
+    },
+    "alternatives_by_kanji": {
+      "笛": [
+        "1276630/口笛/くちぶえ",
+        "1222740/汽笛/きてき",
+        "1252480/警笛/けいてき"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1437560:溺れる:おぼれる",
+    "form": "溺れる",
+    "kana": "おぼれる",
+    "cue": "to struggle in the water; to be drowning",
+    "ids": [
+      1437560
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 3814,
+      "shiberu": 4846,
+      "tubelex": 9599,
+      "wordfreq": 16515
+    },
+    "alternatives_by_kanji": {
+      "溺": [
+        "1437590/溺死/できし",
+        "1437580/溺愛/できあい",
+        "1768720/耽溺/たんでき"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1437610:哲学:てつがく",
+    "form": "哲学",
+    "kana": "てつがく",
+    "cue": "philosophy",
+    "ids": [
+      1437610
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 15552,
+      "shiberu": 1650,
+      "tubelex": 4791,
+      "wordfreq": 4117
+    },
+    "alternatives_by_kanji": {
+      "学": [
+        "1413240/大学/だいがく",
+        "1192700/科学/かがく",
+        "1206530/学ぶ/まなぶ"
+      ],
+      "哲": [
+        "1437640/哲人/てつじん",
+        "1388180/先哲/せんてつ",
+        "1843190/変哲/へんてつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1437740:徹退:てったい",
+    "form": "徹退",
+    "kana": "てったい",
+    "cue": "evacuation; withdrawal",
+    "ids": [
+      1437740
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "no primary exact-form evidence",
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {},
+    "alternatives_by_kanji": {
+      "退": [
+        "1596750/退屈/たいくつ",
+        "1411360/退却/たいきゃく",
+        "1366110/進退/しんたい"
+      ],
+      "徹": [
+        "1437670/徹底/てってい",
+        "1437700/徹夜/てつや",
+        "1215090/貫徹/かんてつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1437740:撤退:てったい",
+    "form": "撤退",
+    "kana": "てったい",
+    "cue": "evacuation; withdrawal",
+    "ids": [
+      1437740
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 6060,
+      "shiberu": 14113,
+      "tubelex": 5161,
+      "wordfreq": 4516
+    },
+    "alternatives_by_kanji": {
+      "退": [
+        "1596750/退屈/たいくつ",
+        "1411360/退却/たいきゃく",
+        "1366110/進退/しんたい"
+      ],
+      "撤": [
+        "1437720/撤去/てっきょ",
+        "1437710/撤回/てっかい",
+        "1437760/撤兵/てっぺい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1437880:鉄鋼:てっこう",
+    "form": "鉄鋼",
+    "kana": "てっこう",
+    "cue": "iron and steel",
+    "ids": [
+      1437880
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 51953,
+      "shiberu": 7396,
+      "tubelex": 13016,
+      "wordfreq": 21459
+    },
+    "alternatives_by_kanji": {
+      "鉄": [
+        "1437960/鉄道/てつどう",
+        "1282740/鋼鉄/こうてつ",
+        "1437830/鉄筋/てっきん"
+      ],
+      "鋼": [
+        "1282680/鋼/はがね",
+        "1282680/鋼/こう",
+        "1282740/鋼鉄/こうてつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1437960:鉄道:てつどう",
+    "form": "鉄道",
+    "kana": "てつどう",
+    "cue": "railroad; railway",
+    "ids": [
+      1437960
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 17054,
+      "shiberu": 2547,
+      "tubelex": 2545,
+      "wordfreq": 2863
+    },
+    "alternatives_by_kanji": {
+      "道": [
+        "1454290/道路/どうろ",
+        "1515730/報道/ほうどう",
+        "1454240/道徳/どうとく"
+      ],
+      "鉄": [
+        "1282740/鋼鉄/こうてつ",
+        "1437830/鉄筋/てっきん",
+        "1443650/電鉄/でんてつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1438210:天:てん",
+    "form": "天",
+    "kana": "てん",
+    "cue": "sky",
+    "ids": [
+      1438210
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "obs"
+    ],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 2190,
+      "shiberu": 1556,
+      "tubelex": 2082,
+      "wordfreq": 1439
+    },
+    "alternatives_by_kanji": {
+      "天": [
+        "1439580/天然/てんねん",
+        "1582090/天地/てんち",
+        "1172100/雨天/うてん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1438340:天井:てんじょう",
+    "form": "天井",
+    "kana": "てんじょう",
+    "cue": "ceiling",
+    "ids": [
+      1438340
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2476,
+      "shiberu": 2603,
+      "tubelex": 2463,
+      "wordfreq": 5988
+    },
+    "alternatives_by_kanji": {
+      "天": [
+        "1439580/天然/てんねん",
+        "1582090/天地/てんち",
+        "1172100/雨天/うてん"
+      ],
+      "井": [
+        "1160330/井戸/いど",
+        "1308100/市井/しせい",
+        "1308100/市井/いちい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1439090:天才:てんさい",
+    "form": "天才",
+    "kana": "てんさい",
+    "cue": "genius; prodigy",
+    "ids": [
+      1439090
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2383,
+      "shiberu": 1942,
+      "tubelex": 3390,
+      "wordfreq": 2569
+    },
+    "alternatives_by_kanji": {
+      "天": [
+        "1439580/天然/てんねん",
+        "1582090/天地/てんち",
+        "1172100/雨天/うてん"
+      ],
+      "才": [
+        "1294630/才能/さいのう",
+        "1332630/秀才/しゅうさい",
+        "1294430/才覚/さいかく"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1440600:展開:てんかい",
+    "form": "展開",
+    "kana": "てんかい",
+    "cue": "development; evolution",
+    "ids": [
+      1440600
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 1608,
+      "shiberu": 3289,
+      "tubelex": 829,
+      "wordfreq": 906
+    },
+    "alternatives_by_kanji": {
+      "開": [
+        "1202760/開始/かいし",
+        "1202830/開拓/かいたく",
+        "1811610/川開き/かわびらき"
+      ],
+      "展": [
+        "1477720/発展/はってん",
+        "1440610/展示/てんじ",
+        "2233010/展/てん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1440660:展覧会:てんらんかい",
+    "form": "展覧会",
+    "kana": "てんらんかい",
+    "cue": "exhibition",
+    "ids": [
+      1440660
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 37066
+    },
+    "alternatives_by_kanji": {
+      "会": [
+        "1322700/社会/しゃかい",
+        "1198880/会話/かいわ",
+        "1198430/会計/かいけい"
+      ],
+      "展": [
+        "1440600/展開/てんかい",
+        "1477720/発展/はってん",
+        "1440610/展示/てんじ"
+      ],
+      "覧": [
+        "1167180/一覧/いちらん",
+        "1619690/展覧/てんらん",
+        "1215040/観覧/かんらん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1440800:店舗:てんぽ",
+    "form": "店舗",
+    "kana": "てんぽ",
+    "cue": "shop; store",
+    "ids": [
+      1440800
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 9442,
+      "shiberu": 9399,
+      "tubelex": 2006,
+      "wordfreq": 1504
+    },
+    "alternatives_by_kanji": {
+      "店": [
+        "1202870/開店/かいてん",
+        "1523020/本店/ほんてん",
+        "1606030/夜店/よみせ"
+      ],
+      "舗": [
+        "1514070/舗装/ほそう",
+        "1514050/舗/ほ",
+        "1514100/舗道/ほどう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1441720:点滴:てんてき",
+    "form": "点滴",
+    "kana": "てんてき",
+    "cue": "raindrops; falling drop of water",
+    "ids": [
+      1441720
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 18609,
+      "shiberu": 14974,
+      "tubelex": 15018,
+      "wordfreq": 14937
+    },
+    "alternatives_by_kanji": {
+      "点": [
+        "1294850/採点/さいてん",
+        "1441690/点線/てんせん",
+        "1441440/点火/てんか"
+      ],
+      "滴": [
+        "1371880/水滴/すいてき",
+        "1437230/滴る/したたる",
+        "1165010/一滴/いってき"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1442100:伝説:でんせつ",
+    "form": "伝説",
+    "kana": "でんせつ",
+    "cue": "legend; folklore",
+    "ids": [
+      1442100
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2536,
+      "shiberu": 2350,
+      "tubelex": 2718,
+      "wordfreq": 1922
+    },
+    "alternatives_by_kanji": {
+      "説": [
+        "1386460/説明/せつめい",
+        "1348430/小説/しょうせつ",
+        "1176960/演説/えんぜつ"
+      ],
+      "伝": [
+        "1441870/伝える/つたえる",
+        "1441900/伝わる/つたわる",
+        "1442260/伝統/でんとう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1442520:殿下:でんか",
+    "form": "殿下",
+    "kana": "でんか",
+    "cue": "Your Highness; His Highness",
+    "ids": [
+      1442520
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 17787,
+      "shiberu": 15054,
+      "tubelex": 15110,
+      "wordfreq": 14325
+    },
+    "alternatives_by_kanji": {
+      "下": [
+        "1184170/下げる/さげる",
+        "1589500/下りる/おりる",
+        "1589580/下ろす/おろす"
+      ],
+      "殿": [
+        "1228470/宮殿/きゅうでん",
+        "1270560/御殿/ごてん",
+        "1442630/殿堂/でんどう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1444120:吐気:はきけ",
+    "form": "吐気",
+    "kana": "はきけ",
+    "cue": "nausea; feeling like throwing up",
+    "ids": [
+      1444120
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 102636,
+      "wordfreq": 125270
+    },
+    "alternatives_by_kanji": {
+      "気": [
+        "1222510/気配/けはい",
+        "1193620/火の気/ひのけ",
+        "1193620/火の気/ほのけ"
+      ],
+      "吐": [
+        "1444120/吐き気/はきけ",
+        "1444190/吐露/とろ",
+        "1444170/吐血/とけつ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1444290:塗装:とそう",
+    "form": "塗装",
+    "kana": "とそう",
+    "cue": "coating; painting",
+    "ids": [
+      1444290
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 22607,
+      "shiberu": 11277,
+      "tubelex": 1693,
+      "wordfreq": 5233
+    },
+    "alternatives_by_kanji": {
+      "装": [
+        "1402360/装置/そうち",
+        "1158760/衣装/いしょう",
+        "1500970/服装/ふくそう"
+      ],
+      "塗": [
+        "2265610/塗り/ぬり",
+        "1444340/塗料/とりょう",
+        "1444320/塗布/とふ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1444990:都市:とし",
+    "form": "都市",
+    "kana": "とし",
+    "cue": "town; city",
+    "ids": [
+      1444990
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 5226,
+      "shiberu": 663,
+      "tubelex": 1685,
+      "wordfreq": 1342
+    },
+    "alternatives_by_kanji": {
+      "市": [
+        "1308690/市民/しみん",
+        "1308230/市況/しきょう",
+        "1799950/競り市/せりいち"
+      ],
+      "都": [
+        "1444980/都合/つごう",
+        "1329340/首都/しゅと",
+        "1444970/都会/とかい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445030:都道府県:とどうふけん",
+    "form": "都道府県",
+    "kana": "とどうふけん",
+    "cue": "prefectures (of Japan)",
+    "ids": [
+      1445030
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 50152,
+      "wordfreq": 6263
+    },
+    "alternatives_by_kanji": {
+      "道": [
+        "1454290/道路/どうろ",
+        "1515730/報道/ほうどう",
+        "1454240/道徳/どうとく"
+      ],
+      "県": [
+        "1258880/県庁/けんちょう",
+        "1258940/県立/けんりつ",
+        "1258920/県民/けんみん"
+      ],
+      "都": [
+        "1444980/都合/つごう",
+        "1329340/首都/しゅと",
+        "1444970/都会/とかい"
+      ],
+      "府": [
+        "1376070/政府/せいふ",
+        "1329410/首府/しゅふ",
+        "1496900/府県/ふけん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445130:努力:どりょく",
+    "form": "努力",
+    "kana": "どりょく",
+    "cue": "effort; exertion",
+    "ids": [
+      1445130
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 1184,
+      "shiberu": 1473,
+      "tubelex": 1568,
+      "wordfreq": 1545
+    },
+    "alternatives_by_kanji": {
+      "力": [
+        "1258220/権力/けんりょく",
+        "1555260/力量/りきりょう",
+        "1436120/底力/そこぢから"
+      ],
+      "努": [
+        "1240820/努める/つとめる",
+        "1445140/努力家/どりょくか",
+        "2834174/努力の賜物/どりょくのたまもの"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445270:土:つち",
+    "form": "土",
+    "kana": "つち",
+    "cue": "earth; soil",
+    "ids": [
+      1445270
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2593,
+      "shiberu": 2264,
+      "tubelex": 1469,
+      "wordfreq": 1342
+    },
+    "alternatives_by_kanji": {
+      "土": [
+        "1445470/土地/とち",
+        "1286890/国土/こくど",
+        "1469760/粘土/ねんど"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445460:土壇場:どたんば",
+    "form": "土壇場",
+    "kana": "どたんば",
+    "cue": "last moment; eleventh hour",
+    "ids": [
+      1445460
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 16154,
+      "shiberu": 24665,
+      "tubelex": 32846,
+      "wordfreq": 32185
+    },
+    "alternatives_by_kanji": {
+      "土": [
+        "1445470/土地/とち",
+        "1286890/国土/こくど",
+        "1469760/粘土/ねんど"
+      ],
+      "場": [
+        "1355850/場所/ばしょ",
+        "1198660/会場/かいじょう",
+        "1278590/広場/ひろば"
+      ],
+      "壇": [
+        "1590460/花壇/かだん",
+        "1505520/文壇/ぶんだん",
+        "1802300/壇上/だんじょう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445470:土地:とち",
+    "form": "土地",
+    "kana": "とち",
+    "cue": "plot of land; lot",
+    "ids": [
+      1445470
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 2419,
+      "shiberu": 1090,
+      "tubelex": 1650,
+      "wordfreq": 1626
+    },
+    "alternatives_by_kanji": {
+      "土": [
+        "1286890/国土/こくど",
+        "1469760/粘土/ねんど",
+        "1445570/土木/どぼく"
+      ],
+      "地": [
+        "1421060/地元/じもと",
+        "1421510/地面/じめん",
+        "1582090/天地/てんち"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445550:土俵:どひょう",
+    "form": "土俵",
+    "kana": "どひょう",
+    "cue": "(wrestling) ring",
+    "ids": [
+      1445550
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 20621,
+      "shiberu": 15440,
+      "tubelex": 15352,
+      "wordfreq": 13918
+    },
+    "alternatives_by_kanji": {
+      "土": [
+        "1445470/土地/とち",
+        "1286890/国土/こくど",
+        "1469760/粘土/ねんど"
+      ],
+      "俵": [
+        "1583390/俵/たわら",
+        "1583390/俵/ひょう",
+        "1509020/米俵/こめだわら"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445580:土曜:どよう",
+    "form": "土曜",
+    "kana": "どよう",
+    "cue": "Saturday",
+    "ids": [
+      1445580
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 11224,
+      "shiberu": 1956,
+      "tubelex": 2997,
+      "wordfreq": 4669
+    },
+    "alternatives_by_kanji": {
+      "土": [
+        "1445470/土地/とち",
+        "1286890/国土/こくど",
+        "1469760/粘土/ねんど"
+      ],
+      "曜": [
+        "1464880/日曜/にちよう",
+        "1545770/曜日/ようび",
+        "1853390/七曜表/しちようひょう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445650:奴隷:どれい",
+    "form": "奴隷",
+    "kana": "どれい",
+    "cue": "slave; servant",
+    "ids": [
+      1445650
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 6328,
+      "shiberu": 3625,
+      "tubelex": 4967,
+      "wordfreq": 2428
+    },
+    "alternatives_by_kanji": {
+      "奴": [
+        "1327170/守銭奴/しゅせんど",
+        "1470750/農奴/のうど",
+        "2844276/奴婢/どひ"
+      ],
+      "隷": [
+        "1557620/隷属/れいぞく",
+        "1628220/隷書/れいしょ",
+        "1557610/隷従/れいじゅう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1445670:怒り:いかり",
+    "form": "怒り",
+    "kana": "いかり",
+    "cue": "anger; rage",
+    "ids": [
+      1445670
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 1406,
+      "shiberu": 2054,
+      "tubelex": 2890,
+      "wordfreq": 2428
+    },
+    "alternatives_by_kanji": {
+      "怒": [
+        "1253700/激怒/げきど",
+        "1445710/怒号/どごう",
+        "1857820/怒り狂う/いかりくるう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1446070:冬:ふゆ",
+    "form": "冬",
+    "kana": "ふゆ",
+    "cue": "winter",
+    "ids": [
+      1446070
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 2334,
+      "shiberu": 880,
+      "tubelex": 1559,
+      "wordfreq": 1473
+    }
+  },
+  {
+    "wordId": "jmdict:1446300:凍結:とうけつ",
+    "form": "凍結",
+    "kana": "とうけつ",
+    "cue": "freezing (e.g. water)",
+    "ids": [
+      1446300
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 15720,
+      "shiberu": 7746,
+      "tubelex": 8236,
+      "wordfreq": 6675
+    },
+    "alternatives_by_kanji": {
+      "結": [
+        "1254790/結婚/けっこん",
+        "1254670/結ぶ/むすぶ",
+        "1255020/結論/けつろん"
+      ],
+      "凍": [
+        "1557170/冷凍/れいとう",
+        "1593100/凍る/こおる",
+        "1446180/凍える/こごえる"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1446420:刀:とう",
+    "form": "刀",
+    "kana": "とう",
+    "cue": "sword (esp. Japanese single-edged); katana",
+    "ids": [
+      1446420
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "shiberu": 2797,
+      "tubelex": 2947,
+      "wordfreq": 3103
+    },
+    "alternatives_by_kanji": {
+      "刀": [
+        "1446490/刀剣/とうけん",
+        "1418800/短刀/たんとう",
+        "1641360/名刀/めいとう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1446710:唐突:とうとつ",
+    "form": "唐突",
+    "kana": "とうとつ",
+    "cue": "abrupt; sudden",
+    "ids": [
+      1446710
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 3674,
+      "shiberu": 13180,
+      "tubelex": 11421,
+      "wordfreq": 10217
+    },
+    "alternatives_by_kanji": {
+      "唐": [
+        "2829728/唐織/からおり",
+        "1774640/唐本/とうほん",
+        "1446700/唐草模様/からくさもよう"
+      ],
+      "突": [
+        "1457040/突然/とつぜん",
+        "1351560/衝突/しょうとつ",
+        "1582420/突端/とったん"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1446740:塔:とう",
+    "form": "塔",
+    "kana": "とう",
+    "cue": "tower; steeple",
+    "ids": [
+      1446740
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 6429,
+      "shiberu": 1720,
+      "tubelex": 3272,
+      "wordfreq": 4596
+    },
+    "alternatives_by_kanji": {
+      "塔": [
+        "1703230/石塔/せきとう",
+        "1593560/五重の塔/ごじゅうのとう",
+        "1628800/鉄塔/てっとう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1446760:島:しま",
+    "form": "島",
+    "kana": "しま",
+    "cue": "island",
+    "ids": [
+      1446760
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "uk"
+    ],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 3511,
+      "shiberu": 812,
+      "tubelex": 831,
+      "wordfreq": 1019
+    },
+    "alternatives_by_kanji": {
+      "島": [
+        "1479770/半島/はんとう",
+        "1558390/列島/れっとう",
+        "1582260/島国/しまぐに"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1447260:投手:とうしゅ",
+    "form": "投手",
+    "kana": "とうしゅ",
+    "cue": "pitcher",
+    "ids": [
+      1447260
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 38338,
+      "shiberu": 8204,
+      "tubelex": 3902,
+      "wordfreq": 5047
+    },
+    "alternatives_by_kanji": {
+      "手": [
+        "1327190/手/て",
+        "1392250/選手/せんしゅ",
+        "1328350/手柄/てがら"
+      ],
+      "投": [
+        "1447230/投資/とうし",
+        "1619780/投下/とうか",
+        "2114200/暴投/ぼうとう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1447320:投票:とうひょう",
+    "form": "投票",
+    "kana": "とうひょう",
+    "cue": "voting; ballot",
+    "ids": [
+      1447320
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 12274,
+      "shiberu": 1748,
+      "tubelex": 2671,
+      "wordfreq": 1311
+    },
+    "alternatives_by_kanji": {
+      "投": [
+        "1447230/投資/とうし",
+        "1619780/投下/とうか",
+        "2114200/暴投/ぼうとう"
+      ],
+      "票": [
+        "1442410/伝票/でんぴょう",
+        "1489330/票決/ひょうけつ",
+        "1489320/票/ひょう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1447390:搭載:とうさい",
+    "form": "搭載",
+    "kana": "とうさい",
+    "cue": "loading (on a ship); equipping (an aircraft, car, etc.) with",
+    "ids": [
+      1447390
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 12426,
+      "shiberu": 11124,
+      "tubelex": 1639,
+      "wordfreq": 2067
+    },
+    "alternatives_by_kanji": {
+      "載": [
+        "1250610/掲載/けいさい",
+        "1223230/記載/きさい",
+        "1383040/積載/せきさい"
+      ],
+      "搭": [
+        "1447400/搭乗/とうじょう",
+        "1447420/搭乗券/とうじょうけん",
+        "1943900/搭乗者/とうじょうしゃ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1447440:東:ひがし",
+    "form": "東",
+    "kana": "ひがし",
+    "cue": "east",
+    "ids": [
+      1447440
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 3165,
+      "shiberu": 798,
+      "tubelex": 1443,
+      "wordfreq": 1545
+    }
+  },
+  {
+    "wordId": "jmdict:1448290:桃:もも",
+    "form": "桃",
+    "kana": "もも",
+    "cue": "peach (Prunus persica)",
+    "ids": [
+      1448290
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 10059,
+      "shiberu": 3431,
+      "tubelex": 3173,
+      "wordfreq": 5154
+    }
+  },
+  {
+    "wordId": "jmdict:1448350:棟:むね",
+    "form": "棟",
+    "kana": "むね",
+    "cue": "ridge (of roof)",
+    "ids": [
+      1448350
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 8524,
+      "shiberu": 4850,
+      "tubelex": 4107,
+      "wordfreq": 6263
+    }
+  },
+  {
+    "wordId": "jmdict:1448580:湯:ゆ",
+    "form": "湯",
+    "kana": "ゆ",
+    "cue": "hot water",
+    "ids": [
+      1448580
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [],
+    "raw_form_ranks": {
+      "jiten:global": 5571,
+      "shiberu": 2339,
+      "tubelex": 1695,
+      "wordfreq": 4192
+    }
+  },
+  {
+    "wordId": "jmdict:1448820:宛:あて",
+    "form": "宛",
+    "kana": "あて",
+    "cue": "aim; object",
+    "ids": [
+      1448820
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "uk"
+    ],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 10563,
+      "shiberu": 5492,
+      "wordfreq": 9745
+    },
+    "alternatives_by_kanji": {
+      "宛": [
+        "1153480/宛てる/あてる",
+        "1586500/宛先/あてさき",
+        "1586520/宛名/あてな"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1449030:当局:とうきょく",
+    "form": "当局",
+    "kana": "とうきょく",
+    "cue": "authorities; relevant authorities",
+    "ids": [
+      1449030
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 26221,
+      "shiberu": 3393,
+      "tubelex": 6718,
+      "wordfreq": 5154
+    },
+    "alternatives_by_kanji": {
+      "当": [
+        "1449190/当然/とうぜん",
+        "1448810/当たる/あたる",
+        "1408540/妥当/だとう"
+      ],
+      "局": [
+        "1254730/結局/けっきょく",
+        "1239670/局部/きょくぶ",
+        "1316110/時局/じきょく"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1449090:当時:とうじ",
+    "form": "当時",
+    "kana": "とうじ",
+    "cue": "at that time; in those days",
+    "ids": [
+      1449090
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 1417,
+      "shiberu": 466,
+      "tubelex": 718,
+      "wordfreq": 952
+    },
+    "alternatives_by_kanji": {
+      "時": [
+        "1315920/時間/じかん",
+        "1598680/時々/ときどき",
+        "1635010/時候/じこう"
+      ],
+      "当": [
+        "1449190/当然/とうぜん",
+        "1448810/当たる/あたる",
+        "1408540/妥当/だとう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1449560:答申:とうしん",
+    "form": "答申",
+    "kana": "とうしん",
+    "cue": "report; reply",
+    "ids": [
+      1449560
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 128598,
+      "shiberu": 18206,
+      "tubelex": 21810,
+      "wordfreq": 34111
+    },
+    "alternatives_by_kanji": {
+      "答": [
+        "1180000/応答/おうとう",
+        "1536060/問答/もんどう",
+        "1449570/答弁/とうべん"
+      ],
+      "申": [
+        "1362950/申し上げる/もうしあげる",
+        "1363090/申す/もうす",
+        "1363130/申請/しんせい"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1449640:糖尿病:とうにょうびょう",
+    "form": "糖尿病",
+    "kana": "とうにょうびょう",
+    "cue": "diabetes; diabetes mellitus",
+    "ids": [
+      1449640
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 43590
+    },
+    "alternatives_by_kanji": {
+      "病": [
+        "1490210/病む/やむ",
+        "1214030/看病/かんびょう",
+        "1320600/疾病/しっぺい"
+      ],
+      "糖": [
+        "1291600/砂糖/さとう",
+        "1449650/糖分/とうぶん",
+        "1380730/製糖/せいとう"
+      ],
+      "尿": [
+        "1467070/尿素/にょうそ",
+        "1828380/尿意/にょうい",
+        "1537060/夜尿症/やにょうしょう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1449670:統一:とういつ",
+    "form": "統一",
+    "kana": "とういつ",
+    "cue": "unity; consolidation",
+    "ids": [
+      1449670,
+      5560631
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "dictionary identity needs review",
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 7434,
+      "shiberu": 4145,
+      "tubelex": 2924,
+      "wordfreq": 2809
+    },
+    "alternatives_by_kanji": {
+      "一": [
+        "1451900/同一/どういつ",
+        "1164390/一息/ひといき",
+        "1415270/第一/だいいち"
+      ],
+      "統": [
+        "1442260/伝統/でんとう",
+        "1449710/統計/とうけい",
+        "1449660/統べる/すべる"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1449870:到着:とうちゃく",
+    "form": "到着",
+    "kana": "とうちゃく",
+    "cue": "arrival",
+    "ids": [
+      1449870
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 1558,
+      "shiberu": 2218,
+      "tubelex": 1368,
+      "wordfreq": 1838
+    },
+    "alternatives_by_kanji": {
+      "着": [
+        "1423000/着る/きる",
+        "1423270/着用/ちゃくよう",
+        "1594740/執着/しゅうちゃく"
+      ],
+      "到": [
+        "1331230/周到/しゅうとう",
+        "1449860/到達/とうたつ",
+        "1299190/殺到/さっとう"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1449910:藤:ふじ",
+    "form": "藤",
+    "kana": "ふじ",
+    "cue": "wisteria (esp. Japanese wisteria, Wisteria floribunda); wistaria",
+    "ids": [
+      1449910
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 19574,
+      "shiberu": 5188,
+      "tubelex": 8888,
+      "wordfreq": 4415
+    },
+    "alternatives_by_kanji": {
+      "藤": [
+        "1449920/藤色/ふじいろ",
+        "1208780/葛藤/かっとう",
+        "1624650/藤棚/ふじだな"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1450030:豆:まめ",
+    "form": "豆",
+    "kana": "まめ",
+    "cue": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses); bean",
+    "ids": [
+      1450030
+    ],
+    "mapping": "mapped",
+    "flags": [
+      "uk"
+    ],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 7834,
+      "shiberu": 3644,
+      "tubelex": 2915,
+      "wordfreq": 3884
+    },
+    "alternatives_by_kanji": {
+      "豆": [
+        "1450070/豆腐/とうふ",
+        "1470070/納豆/なっとう",
+        "1414680/大豆/だいず"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1450110:踏まえる:ふまえる",
+    "form": "踏まえる",
+    "kana": "ふまえる",
+    "cue": "to be based on; to take into account",
+    "ids": [
+      1450110
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 9043,
+      "shiberu": 18004,
+      "tubelex": 2760,
+      "wordfreq": 42050
+    },
+    "alternatives_by_kanji": {
+      "踏": [
+        "1450270/踏む/ふむ",
+        "1619900/踏襲/とうしゅう",
+        "1404930/足踏み/あしぶみ"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1450330:逃げる:にげる",
+    "form": "逃げる",
+    "kana": "にげる",
+    "cue": "to run away; to flee",
+    "ids": [
+      1450330
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 248,
+      "shiberu": 709,
+      "tubelex": 722,
+      "wordfreq": 3884
+    },
+    "alternatives_by_kanji": {
+      "逃": [
+        "1604670/見逃す/みのがす",
+        "1450440/逃れる/のがれる",
+        "1450430/逃す/のがす"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1450620:陶芸:とうげい",
+    "form": "陶芸",
+    "kana": "とうげい",
+    "cue": "ceramic art; ceramics",
+    "ids": [
+      1450620
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "contains later-grade kanji",
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 47503,
+      "shiberu": 17032,
+      "tubelex": 15912,
+      "wordfreq": 19315
+    },
+    "alternatives_by_kanji": {
+      "芸": [
+        "1253060/芸術/げいじゅつ",
+        "1253130/芸能/げいのう",
+        "1505290/文芸/ぶんげい"
+      ],
+      "陶": [
+        "1450680/陶酔/とうすい",
+        "1247360/薫陶/くんとう",
+        "1450610/陶器/とうき"
+      ]
+    }
+  },
+  {
+    "wordId": "jmdict:1451180:動き:うごき",
+    "form": "動き",
+    "kana": "うごき",
+    "cue": "movement; move",
+    "ids": [
+      1451180
+    ],
+    "mapping": "mapped",
+    "flags": [],
+    "issues": [
+      "check cue ambiguity"
+    ],
+    "raw_form_ranks": {
+      "jiten:global": 766,
+      "shiberu": 2053,
+      "tubelex": 569,
+      "wordfreq": 1311
+    },
+    "alternatives_by_kanji": {
+      "動": [
+        "1451210/動く/うごく",
+        "1451470/動物/どうぶつ",
+        "1451170/動かす/うごかす"
+      ]
+    }
+  }
+]

@@ -1,0 +1,693 @@
+{
+  "character": "墳",
+  "grade": 7,
+  "meanings": [
+    "tomb",
+    "mound"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 32
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "十",
+    "土",
+    "艾"
+  ],
+  "on": [
+    "フン"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "墳",
+    "heading": "墳",
+    "readings": [
+      "フン"
+    ],
+    "examples_by_reading": [
+      [
+        "墳墓",
+        "古墳"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "墳",
+      "reading": "フン",
+      "source": "table_28_hu.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "フン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1266100/古墳/こふん",
+        "1504630/墳墓/ふんぼ",
+        "1906700/墳丘/ふんきゅう",
+        "2261040/方墳/ほうふん",
+        "1176170/円墳/えんふん",
+        "1394030/前方後円墳/ぜんぽうこうえんふん",
+        "1934690/古墳時代/こふんじだい",
+        "2870094/墳墓発掘/ふんぼはっくつ",
+        "2573060/上円下方墳/じょうえんかほうふん",
+        "2538680/墳丘墓/ふんきゅうぼ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1266100/古墳/こふん",
+    "1504630/墳墓/ふんぼ",
+    "1906700/墳丘/ふんきゅう",
+    "2261040/方墳/ほうふん",
+    "1176170/円墳/えんふん",
+    "1394030/前方後円墳/ぜんぽうこうえんふん",
+    "1934690/古墳時代/こふんじだい",
+    "2870094/墳墓発掘/ふんぼはっくつ",
+    "2573060/上円下方墳/じょうえんかほうふん",
+    "2538680/墳丘墓/ふんきゅうぼ",
+    "2852871/八角墳/はっかくふん",
+    "2850532/古墳人/こふんじん",
+    "2870095/墳墓発掘罪/ふんぼはっくつざい",
+    "1176170/円墳/えんぷん",
+    "2850880/土墳/どふん",
+    "2835250/墳塋/ふんえい"
+  ],
+  "candidates": {
+    "1266100/古墳/こふん": {
+      "id": 1266100,
+      "form": "古墳",
+      "kana": "こふん",
+      "gloss": "ancient burial mound",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13331,
+        9802,
+        12892,
+        62981
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [
+        "フン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1504630/墳墓/ふんぼ": {
+      "id": 1504630,
+      "form": "墳墓",
+      "kana": "ふんぼ",
+      "gloss": "grave",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12073,
+        31039,
+        56518,
+        66407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "墓": 5
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [
+        "フン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1906700/墳丘/ふんきゅう": {
+      "id": 1906700,
+      "form": "墳丘",
+      "kana": "ふんきゅう",
+      "gloss": "tumulus",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50803,
+        74212,
+        275061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丘": 7
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2261040/方墳/ほうふん": {
+      "id": 2261040,
+      "form": "方墳",
+      "kana": "ほうふん",
+      "gloss": "flat-topped burial mound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        105543,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1176170/円墳/えんふん": {
+      "id": 1176170,
+      "form": "円墳",
+      "kana": "えんふん",
+      "gloss": "round burial mound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30680,
+        55605,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "円": 1
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1394030/前方後円墳/ぜんぽうこうえんふん": {
+      "id": 1394030,
+      "form": "前方後円墳",
+      "kana": "ぜんぽうこうえんふん",
+      "gloss": "keyhole-shaped ancient Japanese tumulus",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        61736,
+        116160
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2,
+        "後": 2,
+        "円": 1,
+        "前": 2
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1934690/古墳時代/こふんじだい": {
+      "id": 1934690,
+      "form": "古墳時代",
+      "kana": "こふんじだい",
+      "gloss": "Kofun period (of Japanese history, 250-538 CE)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        104423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2,
+        "時": 2,
+        "代": 3
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870094/墳墓発掘/ふんぼはっくつ": {
+      "id": 2870094,
+      "form": "墳墓発掘",
+      "kana": "ふんぼはっくつ",
+      "gloss": "desecration of a tomb",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掘": 7,
+        "発": 3,
+        "墓": 5
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2573060/上円下方墳/じょうえんかほうふん": {
+      "id": 2573060,
+      "form": "上円下方墳",
+      "kana": "じょうえんかほうふん",
+      "gloss": "burial mound with square flat base and round top",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2,
+        "上": 1,
+        "円": 1,
+        "下": 1
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2538680/墳丘墓/ふんきゅうぼ": {
+      "id": 2538680,
+      "form": "墳丘墓",
+      "kana": "ふんきゅうぼ",
+      "gloss": "tomb embedded in a Yayoi period barrow",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丘": 7,
+        "墓": 5
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2852871/八角墳/はっかくふん": {
+      "id": 2852871,
+      "form": "八角墳",
+      "kana": "はっかくふん",
+      "gloss": "octagonal burial mound (Kofun period)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "八": 1,
+        "角": 2
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2850532/古墳人/こふんじん": {
+      "id": 2850532,
+      "form": "古墳人",
+      "kana": "こふんじん",
+      "gloss": "Kofun people",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "古": 2,
+        "人": 1
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870095/墳墓発掘罪/ふんぼはっくつざい": {
+      "id": 2870095,
+      "form": "墳墓発掘罪",
+      "kana": "ふんぼはっくつざい",
+      "gloss": "(crime of) grave excavation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "掘": 7,
+        "罪": 5,
+        "発": 3,
+        "墓": 5
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1176170/円墳/えんぷん": {
+      "id": 1176170,
+      "form": "円墳",
+      "kana": "えんぷん",
+      "gloss": "round burial mound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30680,
+        55605,
+        null,
+        181868
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "円": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2850880/土墳/どふん": {
+      "id": 2850880,
+      "form": "土墳",
+      "kana": "どふん",
+      "gloss": "burial mound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "土": 1
+      },
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2835250/墳塋/ふんえい": {
+      "id": 2835250,
+      "form": "墳塋",
+      "kana": "ふんえい",
+      "gloss": "grave",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "フン": {
+          "actual": "ふん",
+          "dictionary": [
+            "フン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1266100:古墳:こふん",
+      "form": "古墳",
+      "kana": "こふん",
+      "cue": "ancient burial mound; barrow",
+      "ids": [
+        1266100
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 62981,
+        "shiberu": 13331,
+        "tubelex": 9802,
+        "wordfreq": 12892
+      },
+      "alternatives_by_kanji": {
+        "古": [
+          "1265760/古代/こだい",
+          "1265860/古典/こてん",
+          "1408260/太古/たいこ"
+        ],
+        "墳": [
+          "1504630/墳墓/ふんぼ",
+          "1906700/墳丘/ふんきゅう",
+          "2261040/方墳/ほうふん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

@@ -1,0 +1,315 @@
+{
+  "character": "錮",
+  "grade": 7,
+  "meanings": [
+    "confinement",
+    "to tie"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 167
+    }
+  ],
+  "components": [
+    "金",
+    "口",
+    "十",
+    "囗"
+  ],
+  "on": [
+    "コ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ふさ.ぐ",
+      "stem": "ふさ",
+      "okurigana": "ぐ"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "錮",
+    "heading": "錮",
+    "readings": [
+      "コ"
+    ],
+    "examples_by_reading": [
+      [
+        "禁錮"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "錮",
+      "reading": "コ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1241540/禁錮/きんこ",
+        "2139750/禁錮刑/きんこけい",
+        "2842290/無期禁錮/むききんこ",
+        "1336120/重禁錮/じゅうきんこ",
+        "2834367/軽禁錮/けいきんこ"
+      ]
+    },
+    {
+      "reading": "ふさぐ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1241540/禁錮/きんこ",
+    "2139750/禁錮刑/きんこけい",
+    "2842290/無期禁錮/むききんこ",
+    "1336120/重禁錮/じゅうきんこ",
+    "2834367/軽禁錮/けいきんこ"
+  ],
+  "candidates": {
+    "1241540/禁錮/きんこ": {
+      "id": 1241540,
+      "form": "禁錮",
+      "kana": "きんこ",
+      "gloss": "imprisonment (without forced labour)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        15284,
+        null,
+        40209,
+        96584
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "禁": 5
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2139750/禁錮刑/きんこけい": {
+      "id": 2139750,
+      "form": "禁錮刑",
+      "kana": "きんこけい",
+      "gloss": "(penalty of) imprisonment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        181297
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刑": 7,
+        "禁": 5
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842290/無期禁錮/むききんこ": {
+      "id": 2842290,
+      "form": "無期禁錮",
+      "kana": "むききんこ",
+      "gloss": "life imprisonment without work",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "禁": 5,
+        "期": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1336120/重禁錮/じゅうきんこ": {
+      "id": 1336120,
+      "form": "重禁錮",
+      "kana": "じゅうきんこ",
+      "gloss": "major imprisonment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "禁": 5,
+        "重": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2834367/軽禁錮/けいきんこ": {
+      "id": 2834367,
+      "form": "軽禁錮",
+      "kana": "けいきんこ",
+      "gloss": "minor imprisonment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軽": 3,
+        "禁": 5
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1241540:禁錮:きんこ",
+      "form": "禁錮",
+      "kana": "きんこ",
+      "cue": "imprisonment (without forced labour); incarceration",
+      "ids": [
+        1241540
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 96584,
+        "shiberu": 15284,
+        "wordfreq": 40209
+      },
+      "alternatives_by_kanji": {
+        "禁": [
+          "1241550/禁止/きんし",
+          "1241490/禁煙/きんえん",
+          "1262590/厳禁/げんきん"
+        ],
+        "錮": [
+          "2139750/禁錮刑/きんこけい",
+          "2842290/無期禁錮/むききんこ",
+          "1336120/重禁錮/じゅうきんこ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

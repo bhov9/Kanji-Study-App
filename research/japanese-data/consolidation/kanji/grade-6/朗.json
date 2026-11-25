@@ -1,0 +1,963 @@
+{
+  "character": "朗",
+  "grade": 6,
+  "meanings": [
+    "melodious",
+    "clear",
+    "bright",
+    "serene",
+    "cheerful"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 74
+    },
+    {
+      "type": "nelson_c",
+      "value": 130
+    }
+  ],
+  "components": [
+    "月",
+    "艮"
+  ],
+  "on": [
+    "ロウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ほが.らか",
+      "stem": "ほが",
+      "okurigana": "らか"
+    },
+    {
+      "sourceNotation": "あき.らか",
+      "stem": "あき",
+      "okurigana": "らか"
+    }
+  ],
+  "nanori": [
+    "あき",
+    "あきら",
+    "お",
+    "さえ",
+    "ろ"
+  ],
+  "government": {
+    "kanji": "朗",
+    "heading": "朗（朗）",
+    "readings": [
+      "ロウ",
+      "ほがらか"
+    ],
+    "examples_by_reading": [
+      [
+        "朗読",
+        "朗々と",
+        "明朗"
+      ],
+      [
+        "朗らかだ",
+        "朗らかさ"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "朗",
+      "reading": "ロウ",
+      "source": "table_43_ro.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ロウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 15,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1560730/朗読/ろうどく",
+        "1532640/明朗/めいろう",
+        "1560740/朗報/ろうほう",
+        "1606460/朗々/ろうろう",
+        "1376580/晴朗/せいろう",
+        "1560720/朗詠/ろうえい",
+        "1664430/朗唱/ろうしょう",
+        "1664430/朗誦/ろうしょう",
+        "1495090/不明朗/ふめいろう",
+        "1618660/朗吟/ろうぎん"
+      ]
+    },
+    {
+      "reading": "ほがらか",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1560710/朗らか/ほがらか"
+      ]
+    },
+    {
+      "reading": "あきらか",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1560730/朗読/ろうどく",
+    "1532640/明朗/めいろう",
+    "1560710/朗らか/ほがらか",
+    "1560740/朗報/ろうほう",
+    "1606460/朗々/ろうろう",
+    "1376580/晴朗/せいろう",
+    "1560720/朗詠/ろうえい",
+    "1664430/朗唱/ろうしょう",
+    "1664430/朗誦/ろうしょう",
+    "1495090/不明朗/ふめいろう",
+    "1618660/朗吟/ろうぎん",
+    "2645570/朗読会/ろうどくかい",
+    "2054210/明朗快活/めいろうかいかつ",
+    "2054220/明朗会計/めいろうかいけい",
+    "2032800/明朗闊達/めいろうかったつ",
+    "1684000/音吐朗々/おんとろうろう",
+    "1606460/朗朗/ろうろう",
+    "2562690/朗読ＣＤ/ろうどくシーディー",
+    "1875980/晃朗/こうろう",
+    "1913980/融朗/ゆうろう",
+    "1684000/音吐朗朗/おんとろうろう",
+    "1568080/福来朗/ふくろう"
+  ],
+  "candidates": {
+    "1560730/朗読/ろうどく": {
+      "id": 1560730,
+      "form": "朗読",
+      "kana": "ろうどく",
+      "gloss": "reading aloud",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9138,
+        8175,
+        12107,
+        21489
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "読": 2
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ロウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1532640/明朗/めいろう": {
+      "id": 1532640,
+      "form": "明朗",
+      "kana": "めいろう",
+      "gloss": "cheerful",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        15175,
+        56591,
+        42960,
+        45895
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ロウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1560710/朗らか/ほがらか": {
+      "id": 1560710,
+      "form": "朗らか",
+      "kana": "ほがらか",
+      "gloss": "cheerful",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        11414,
+        26689,
+        44357,
+        11714
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ほがらか": {
+          "actual": "ほが",
+          "dictionary": [
+            "ほが.らか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1560740/朗報/ろうほう": {
+      "id": 1560740,
+      "form": "朗報",
+      "kana": "ろうほう",
+      "gloss": "good news",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17969,
+        11368,
+        15624
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "報": 5
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1606460/朗々/ろうろう": {
+      "id": 1606460,
+      "form": "朗々",
+      "kana": "ろうろう",
+      "gloss": "clear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        76428,
+        26849
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376580/晴朗/せいろう": {
+      "id": 1376580,
+      "form": "晴朗",
+      "kana": "せいろう",
+      "gloss": "clear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        127540,
+        106179
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "晴": 2
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1560720/朗詠/ろうえい": {
+      "id": 1560720,
+      "form": "朗詠",
+      "kana": "ろうえい",
+      "gloss": "recitation (of Japanese or Chinese poem)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        128722,
+        140145
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "詠": 7
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1664430/朗唱/ろうしょう": {
+      "id": 1664430,
+      "form": "朗唱",
+      "kana": "ろうしょう",
+      "gloss": "recitation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        132292,
+        133254
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "唱": 4
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1664430/朗誦/ろうしょう": {
+      "id": 1664430,
+      "form": "朗誦",
+      "kana": "ろうしょう",
+      "gloss": "recitation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        180417,
+        150204
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1495090/不明朗/ふめいろう": {
+      "id": 1495090,
+      "form": "不明朗",
+      "kana": "ふめいろう",
+      "gloss": "gloominess",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        94653,
+        205891
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "明": 2
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1618660/朗吟/ろうぎん": {
+      "id": 1618660,
+      "form": "朗吟",
+      "kana": "ろうぎん",
+      "gloss": "recitation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        206400
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "吟": 7
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2645570/朗読会/ろうどくかい": {
+      "id": 2645570,
+      "form": "朗読会",
+      "kana": "ろうどくかい",
+      "gloss": "recital",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        74288
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "読": 2
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2054210/明朗快活/めいろうかいかつ": {
+      "id": 2054210,
+      "form": "明朗快活",
+      "kana": "めいろうかいかつ",
+      "gloss": "cheerful and openhearted",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        88841
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "快": 5,
+        "活": 2,
+        "明": 2
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2054220/明朗会計/めいろうかいけい": {
+      "id": 2054220,
+      "form": "明朗会計",
+      "kana": "めいろうかいけい",
+      "gloss": "clear accounting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        98108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "明": 2,
+        "計": 2
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2032800/明朗闊達/めいろうかったつ": {
+      "id": 2032800,
+      "form": "明朗闊達",
+      "kana": "めいろうかったつ",
+      "gloss": "upbeat and freehearted",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        156193
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2,
+        "達": 4
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1684000/音吐朗々/おんとろうろう": {
+      "id": 1684000,
+      "form": "音吐朗々",
+      "kana": "おんとろうろう",
+      "gloss": "in a clear voice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        197374
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "音": 1,
+        "吐": 7
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1606460/朗朗/ろうろう": {
+      "id": 1606460,
+      "form": "朗朗",
+      "kana": "ろうろう",
+      "gloss": "clear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        222101
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562690/朗読ＣＤ/ろうどくシーディー": {
+      "id": 2562690,
+      "form": "朗読ＣＤ",
+      "kana": "ろうどくシーディー",
+      "gloss": "audiobook on a CD-ROM",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "読": 2
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1875980/晃朗/こうろう": {
+      "id": 1875980,
+      "form": "晃朗",
+      "kana": "こうろう",
+      "gloss": "bright and brilliant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1913980/融朗/ゆうろう": {
+      "id": 1913980,
+      "form": "融朗",
+      "kana": "ゆうろう",
+      "gloss": "brightness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "融": 7
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1684000/音吐朗朗/おんとろうろう": {
+      "id": 1684000,
+      "form": "音吐朗朗",
+      "kana": "おんとろうろう",
+      "gloss": "in a clear voice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "音": 1,
+        "吐": 7
+      },
+      "matched": {
+        "ロウ": {
+          "actual": "ろう",
+          "dictionary": [
+            "ロウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1568080/福来朗/ふくろう": {
+      "id": 1568080,
+      "form": "福来朗",
+      "kana": "ふくろう",
+      "gloss": "owl (esp. the Ural owl, Strix uralensis)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "来": 2,
+        "福": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1560730:朗読:ろうどく",
+      "form": "朗読",
+      "kana": "ろうどく",
+      "cue": "reading aloud; recitation",
+      "ids": [
+        1560730
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 21489,
+        "shiberu": 9138,
+        "tubelex": 8175,
+        "wordfreq": 12107
+      },
+      "alternatives_by_kanji": {
+        "読": [
+          "1456360/読む/よむ",
+          "1456130/読み/よみ",
+          "1456420/読書/どくしょ"
+        ],
+        "朗": [
+          "1532640/明朗/めいろう",
+          "1560710/朗らか/ほがらか",
+          "1560740/朗報/ろうほう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

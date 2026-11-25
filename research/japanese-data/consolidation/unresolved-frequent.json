@@ -1,0 +1,1142 @@
+{
+  "shiberu": {
+    "counts": {
+      "no exact form": 141,
+      "ambiguous": 264,
+      "unique": 595
+    },
+    "examples": [
+      {
+        "word": "の",
+        "kana": null,
+        "rank": 1,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "た",
+        "kana": null,
+        "rank": 2,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2654250,
+          2871946
+        ]
+      },
+      {
+        "word": "は",
+        "kana": null,
+        "rank": 4,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028920,
+          2069620
+        ]
+      },
+      {
+        "word": "だ",
+        "kana": null,
+        "rank": 5,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2089020,
+          2654250
+        ]
+      },
+      {
+        "word": "て",
+        "kana": null,
+        "rank": 7,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2086960,
+          2654270
+        ]
+      },
+      {
+        "word": "が",
+        "kana": null,
+        "rank": 8,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028930,
+          2872273
+        ]
+      },
+      {
+        "word": "する",
+        "kana": null,
+        "rank": 9,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "と",
+        "kana": null,
+        "rank": 10,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1008490,
+          2872968
+        ]
+      },
+      {
+        "word": "で",
+        "kana": null,
+        "rank": 11,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028980,
+          2654270,
+          2844355
+        ]
+      },
+      {
+        "word": "ない",
+        "kana": null,
+        "rank": 12,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2257550,
+          2861097
+        ]
+      },
+      {
+        "word": "いる",
+        "kana": null,
+        "rank": 13,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ある",
+        "kana": null,
+        "rank": 14,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ます",
+        "kana": null,
+        "rank": 17,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "その",
+        "kana": null,
+        "rank": 19,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ぬ",
+        "kana": null,
+        "rank": 25,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2441300,
+          2861095
+        ]
+      },
+      {
+        "word": "この",
+        "kana": null,
+        "rank": 26,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "いう",
+        "kana": null,
+        "rank": 27,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "人",
+        "kana": null,
+        "rank": 28,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1366410,
+          1366420,
+          2149890,
+          1580640
+        ]
+      },
+      {
+        "word": "よう",
+        "kana": null,
+        "rank": 30,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2654310,
+          2853599
+        ]
+      },
+      {
+        "word": "私",
+        "kana": null,
+        "rank": 31,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2858384,
+          1311125,
+          2079310,
+          2858397,
+          2728300,
+          2217330,
+          2015370,
+          2217340,
+          2842390,
+          1311110,
+          2864027,
+          2845454,
+          2858221,
+          1347580
+        ]
+      },
+      {
+        "word": "何",
+        "kana": null,
+        "rank": 37,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1577100,
+          2846738
+        ]
+      },
+      {
+        "word": "ん",
+        "kana": null,
+        "rank": 39,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2139720,
+          2441300,
+          2759530,
+          2843960
+        ]
+      },
+      {
+        "word": "家",
+        "kana": null,
+        "rank": 41,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1191730,
+          1191740,
+          1457730,
+          2220280,
+          1191750,
+          2858378,
+          2082160,
+          2220300
+        ]
+      },
+      {
+        "word": "彼",
+        "kana": null,
+        "rank": 42,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1000580,
+          2845746,
+          1483070
+        ]
+      },
+      {
+        "word": "まで",
+        "kana": null,
+        "rank": 46,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "時",
+        "kana": null,
+        "rank": 47,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2020680,
+          1315840,
+          2273940
+        ]
+      },
+      {
+        "word": "できる",
+        "kana": null,
+        "rank": 48,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "日",
+        "kana": null,
+        "rank": 49,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2083110,
+          2856786,
+          2083100,
+          1463770
+        ]
+      },
+      {
+        "word": "中",
+        "kana": null,
+        "rank": 50,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1457730,
+          2083570,
+          1620400,
+          1423310,
+          2754230
+        ]
+      },
+      {
+        "word": "また",
+        "kana": null,
+        "rank": 52,
+        "reason": "no exact form",
+        "candidate_ids": []
+      }
+    ]
+  },
+  "tubelex": {
+    "counts": {
+      "no exact form": 116,
+      "ambiguous": 256,
+      "unique": 628
+    },
+    "examples": [
+      {
+        "word": "の",
+        "kana": null,
+        "rank": 1,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "て",
+        "kana": null,
+        "rank": 2,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2086960,
+          2654270
+        ]
+      },
+      {
+        "word": "だ",
+        "kana": null,
+        "rank": 3,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2089020,
+          2654250
+        ]
+      },
+      {
+        "word": "と",
+        "kana": null,
+        "rank": 4,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1008490,
+          2872968
+        ]
+      },
+      {
+        "word": "は",
+        "kana": null,
+        "rank": 6,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028920,
+          2069620
+        ]
+      },
+      {
+        "word": "が",
+        "kana": null,
+        "rank": 7,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028930,
+          2872273
+        ]
+      },
+      {
+        "word": "た",
+        "kana": null,
+        "rank": 8,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2654250,
+          2871946
+        ]
+      },
+      {
+        "word": "為る",
+        "kana": null,
+        "rank": 10,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1157170,
+          1375610
+        ]
+      },
+      {
+        "word": "ます",
+        "kana": null,
+        "rank": 11,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "で",
+        "kana": null,
+        "rank": 13,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028980,
+          2654270,
+          2844355
+        ]
+      },
+      {
+        "word": "ね",
+        "kana": null,
+        "rank": 14,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2029080,
+          2841117
+        ]
+      },
+      {
+        "word": "<num>",
+        "kana": null,
+        "rank": 17,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "居る",
+        "kana": null,
+        "rank": 19,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1577980,
+          1577985
+        ]
+      },
+      {
+        "word": "ない",
+        "kana": null,
+        "rank": 22,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2257550,
+          2861097
+        ]
+      },
+      {
+        "word": "事",
+        "kana": null,
+        "rank": 23,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1313580,
+          2613010,
+          2187200
+        ]
+      },
+      {
+        "word": "御",
+        "kana": null,
+        "rank": 30,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2826528,
+          2259720,
+          2259690,
+          1270190,
+          2259710
+        ]
+      },
+      {
+        "word": "様",
+        "kana": null,
+        "rank": 38,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1545790,
+          1410750,
+          2713240,
+          1605840
+        ]
+      },
+      {
+        "word": "何",
+        "kana": null,
+        "rank": 39,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1577100,
+          2846738
+        ]
+      },
+      {
+        "word": "来る",
+        "kana": null,
+        "rank": 40,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1591270,
+          1547720
+        ]
+      },
+      {
+        "word": "方",
+        "kana": null,
+        "rank": 46,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1516925,
+          2253290,
+          1545790,
+          2254960,
+          1516930
+        ]
+      },
+      {
+        "word": "一寸",
+        "kana": null,
+        "rank": 47,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1163930,
+          1163940
+        ]
+      },
+      {
+        "word": "人",
+        "kana": null,
+        "rank": 48,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1366410,
+          1366420,
+          2149890,
+          1580640
+        ]
+      },
+      {
+        "word": "ず",
+        "kana": null,
+        "rank": 51,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2731770,
+          2829645
+        ]
+      },
+      {
+        "word": "所",
+        "kana": null,
+        "rank": 56,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2273780,
+          1343100
+        ]
+      },
+      {
+        "word": "物",
+        "kana": null,
+        "rank": 57,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2095920,
+          1502390
+        ]
+      },
+      {
+        "word": "時",
+        "kana": null,
+        "rank": 59,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2020680,
+          1315840,
+          2273940
+        ]
+      },
+      {
+        "word": "私-代名詞",
+        "kana": null,
+        "rank": 60,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "今",
+        "kana": null,
+        "rank": 62,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1288850,
+          1288860
+        ]
+      },
+      {
+        "word": "あー",
+        "kana": null,
+        "rank": 63,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "こう",
+        "kana": null,
+        "rank": 65,
+        "reason": "no exact form",
+        "candidate_ids": []
+      }
+    ]
+  },
+  "wordfreq": {
+    "counts": {
+      "no exact form": 257,
+      "unique": 537,
+      "ambiguous": 224
+    },
+    "examples": [
+      {
+        "word": "の",
+        "kana": null,
+        "rank": 1,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "て",
+        "kana": null,
+        "rank": 3,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2086960,
+          2654270
+        ]
+      },
+      {
+        "word": "は",
+        "kana": null,
+        "rank": 4,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028920,
+          2069620
+        ]
+      },
+      {
+        "word": "が",
+        "kana": null,
+        "rank": 5,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028930,
+          2872273
+        ]
+      },
+      {
+        "word": "た",
+        "kana": null,
+        "rank": 6,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2654250,
+          2871946
+        ]
+      },
+      {
+        "word": "で",
+        "kana": null,
+        "rank": 8,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028980,
+          2654270,
+          2844355
+        ]
+      },
+      {
+        "word": "し",
+        "kana": null,
+        "rank": 9,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2086640,
+          2843516
+        ]
+      },
+      {
+        "word": "と",
+        "kana": null,
+        "rank": 10,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1008490,
+          2872968
+        ]
+      },
+      {
+        "word": "ない",
+        "kana": null,
+        "rank": 12,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2257550,
+          2861097
+        ]
+      },
+      {
+        "word": "だ",
+        "kana": null,
+        "rank": 14,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2089020,
+          2654250
+        ]
+      },
+      {
+        "word": "00",
+        "kana": null,
+        "rank": 15,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ん",
+        "kana": null,
+        "rank": 17,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2139720,
+          2441300,
+          2759530,
+          2843960
+        ]
+      },
+      {
+        "word": "する",
+        "kana": null,
+        "rank": 20,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ます",
+        "kana": null,
+        "rank": 22,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "いる",
+        "kana": null,
+        "rank": 25,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "れ",
+        "kana": null,
+        "rank": 26,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ね",
+        "kana": null,
+        "rank": 27,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2029080,
+          2841117
+        ]
+      },
+      {
+        "word": "ある",
+        "kana": null,
+        "rank": 29,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "人",
+        "kana": null,
+        "rank": 32,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1366410,
+          1366420,
+          2149890,
+          1580640
+        ]
+      },
+      {
+        "word": "1",
+        "kana": null,
+        "rank": 33,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "000",
+        "kana": null,
+        "rank": 35,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "0000",
+        "kana": null,
+        "rank": 36,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "2",
+        "kana": null,
+        "rank": 36,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "日",
+        "kana": null,
+        "rank": 36,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2083110,
+          2856786,
+          2083100,
+          1463770
+        ]
+      },
+      {
+        "word": "なっ",
+        "kana": null,
+        "rank": 39,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "この",
+        "kana": null,
+        "rank": 42,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "よう",
+        "kana": null,
+        "rank": 49,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2654310,
+          2853599
+        ]
+      },
+      {
+        "word": "3",
+        "kana": null,
+        "rank": 51,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "じゃ",
+        "kana": null,
+        "rank": 51,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1005900,
+          2851029
+        ]
+      },
+      {
+        "word": "年",
+        "kana": null,
+        "rank": 53,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1468060,
+          2220370,
+          2084840
+        ]
+      }
+    ]
+  },
+  "jiten:global": {
+    "counts": {
+      "no exact form": 220,
+      "ambiguous": 19,
+      "unique": 749
+    },
+    "examples": [
+      {
+        "word": "の",
+        "kana": "の",
+        "rank": 1,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "は",
+        "kana": "は",
+        "rank": 2,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028920,
+          2069620
+        ]
+      },
+      {
+        "word": "が",
+        "kana": "が",
+        "rank": 5,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028930,
+          2872273
+        ]
+      },
+      {
+        "word": "と",
+        "kana": "と",
+        "rank": 6,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1008490,
+          2872968
+        ]
+      },
+      {
+        "word": "で",
+        "kana": "で",
+        "rank": 7,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2028980,
+          2654270,
+          2844355
+        ]
+      },
+      {
+        "word": "だ",
+        "kana": "だ",
+        "rank": 9,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2089020,
+          2654250
+        ]
+      },
+      {
+        "word": "する",
+        "kana": "する",
+        "rank": 11,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ね",
+        "kana": "ね",
+        "rank": 17,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2029080,
+          2841117
+        ]
+      },
+      {
+        "word": "ある",
+        "kana": "ある",
+        "rank": 18,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "んだ",
+        "kana": "んだ",
+        "rank": 21,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2849370,
+          2849387
+        ]
+      },
+      {
+        "word": "その",
+        "kana": "その",
+        "rank": 24,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ん",
+        "kana": "ん",
+        "rank": 25,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2139720,
+          2441300,
+          2759530,
+          2843960
+        ]
+      },
+      {
+        "word": "この",
+        "kana": "この",
+        "rank": 27,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ない",
+        "kana": "ない",
+        "rank": 35,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2257550,
+          2861097
+        ]
+      },
+      {
+        "word": "いる",
+        "kana": "いる",
+        "rank": 37,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "だけ",
+        "kana": "だけ",
+        "rank": 38,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "まで",
+        "kana": "まで",
+        "rank": 43,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "し",
+        "kana": "し",
+        "rank": 44,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          2086640,
+          2843516
+        ]
+      },
+      {
+        "word": "ここ",
+        "kana": "ここ",
+        "rank": 45,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "じゃない",
+        "kana": "じゃない",
+        "rank": 46,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "やる",
+        "kana": "やる",
+        "rank": 54,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "できる",
+        "kana": "できる",
+        "rank": 61,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ちょっと",
+        "kana": "ちょっと",
+        "rank": 75,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "また",
+        "kana": "また",
+        "rank": 76,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "という",
+        "kana": "という",
+        "rank": 77,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "まだ",
+        "kana": "まだ",
+        "rank": 80,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ように",
+        "kana": "ように",
+        "rank": 88,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "うん",
+        "kana": "うん",
+        "rank": 90,
+        "reason": "ambiguous",
+        "candidate_ids": [
+          1001090,
+          2759530
+        ]
+      },
+      {
+        "word": "そこ",
+        "kana": "そこ",
+        "rank": 92,
+        "reason": "no exact form",
+        "candidate_ids": []
+      },
+      {
+        "word": "ような",
+        "kana": "ような",
+        "rank": 93,
+        "reason": "no exact form",
+        "candidate_ids": []
+      }
+    ]
+  }
+}

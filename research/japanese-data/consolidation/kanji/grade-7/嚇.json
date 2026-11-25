@@ -1,0 +1,695 @@
+{
+  "character": "嚇",
+  "grade": 7,
+  "meanings": [
+    "menacing",
+    "dignity",
+    "majesty",
+    "threaten"
+  ],
+  "strokes": [
+    17
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    }
+  ],
+  "components": [
+    "口",
+    "赤",
+    "土"
+  ],
+  "on": [
+    "カク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おど.す",
+      "stem": "おど",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "嚇",
+    "heading": "嚇",
+    "readings": [
+      "カク"
+    ],
+    "examples_by_reading": [
+      [
+        "威嚇"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "嚇",
+      "reading": "カク",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1156220/威嚇/いかく",
+        "1614960/嚇怒/かくど",
+        "1156230/威嚇射撃/いかくしゃげき",
+        "1781250/威嚇的/いかくてき",
+        "2832034/威嚇行動/いかくこうどう",
+        "1590000/嚇々/かくかく",
+        "1590000/嚇嚇/かっかく",
+        "1590000/嚇嚇/かくかく",
+        "1608610/恐嚇/きょうかく",
+        "1608610/脅嚇/きょうかく"
+      ]
+    },
+    {
+      "reading": "おどす",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1238070/嚇す/おどす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1156220/威嚇/いかく",
+    "1614960/嚇怒/かくど",
+    "1156230/威嚇射撃/いかくしゃげき",
+    "1781250/威嚇的/いかくてき",
+    "2832034/威嚇行動/いかくこうどう",
+    "1590000/嚇々/かくかく",
+    "1590000/嚇嚇/かっかく",
+    "1590000/嚇嚇/かくかく",
+    "1630260/嚇し/おどし",
+    "1238050/嚇しつける/おどしつける",
+    "1590000/嚇々/かっかく",
+    "1238050/嚇し付ける/おどしつける",
+    "1238070/嚇す/おどす",
+    "1608610/恐嚇/きょうかく",
+    "1608610/脅嚇/きょうかく",
+    "2429050/嚇す/かくす",
+    "1578070/嚇かす/おどかす"
+  ],
+  "candidates": {
+    "1156220/威嚇/いかく": {
+      "id": 1156220,
+      "form": "威嚇",
+      "kana": "いかく",
+      "gloss": "threat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10684,
+        9477,
+        14533,
+        7389
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "威": 7
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [
+        "カク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1614960/嚇怒/かくど": {
+      "id": 1614960,
+      "form": "嚇怒",
+      "kana": "かくど",
+      "gloss": "rage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        130949
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "怒": 7
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1156230/威嚇射撃/いかくしゃげき": {
+      "id": 1156230,
+      "form": "威嚇射撃",
+      "kana": "いかくしゃげき",
+      "gloss": "warning shot",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "射": 6,
+        "威": 7,
+        "撃": 7
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1781250/威嚇的/いかくてき": {
+      "id": 1781250,
+      "form": "威嚇的",
+      "kana": "いかくてき",
+      "gloss": "threatening",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        87702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "威": 7,
+        "的": 4
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832034/威嚇行動/いかくこうどう": {
+      "id": 2832034,
+      "form": "威嚇行動",
+      "kana": "いかくこうどう",
+      "gloss": "threat behavior",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        107189
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "威": 7,
+        "動": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590000/嚇々/かくかく": {
+      "id": 1590000,
+      "form": "嚇々",
+      "kana": "かくかく",
+      "gloss": "brilliant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590000/嚇嚇/かっかく": {
+      "id": 1590000,
+      "form": "嚇嚇",
+      "kana": "かっかく",
+      "gloss": "brilliant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590000/嚇嚇/かくかく": {
+      "id": 1590000,
+      "form": "嚇嚇",
+      "kana": "かくかく",
+      "gloss": "brilliant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1630260/嚇し/おどし": {
+      "id": 1630260,
+      "form": "嚇し",
+      "kana": "おどし",
+      "gloss": "threat",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        209513
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1238050/嚇しつける/おどしつける": {
+      "id": 1238050,
+      "form": "嚇しつける",
+      "kana": "おどしつける",
+      "gloss": "to threaten",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1590000/嚇々/かっかく": {
+      "id": 1590000,
+      "form": "嚇々",
+      "kana": "かっかく",
+      "gloss": "brilliant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1238050/嚇し付ける/おどしつける": {
+      "id": 1238050,
+      "form": "嚇し付ける",
+      "kana": "おどしつける",
+      "gloss": "to threaten",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1238070/嚇す/おどす": {
+      "id": 1238070,
+      "form": "嚇す",
+      "kana": "おどす",
+      "gloss": "to threaten",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        131367
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おどす": {
+          "actual": "おど",
+          "dictionary": [
+            "おど.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1608610/恐嚇/きょうかく": {
+      "id": 1608610,
+      "form": "恐嚇",
+      "kana": "きょうかく",
+      "gloss": "intimidation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恐": 7
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1608610/脅嚇/きょうかく": {
+      "id": 1608610,
+      "form": "脅嚇",
+      "kana": "きょうかく",
+      "gloss": "intimidation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脅": 7
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2429050/嚇す/かくす": {
+      "id": 2429050,
+      "form": "嚇す",
+      "kana": "かくす",
+      "gloss": "to threaten",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "vs-c",
+        "vt"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1578070/嚇かす/おどかす": {
+      "id": 1578070,
+      "form": "嚇かす",
+      "kana": "おどかす",
+      "gloss": "to threaten",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        144615
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1630260:嚇し:おどし",
+      "form": "嚇し",
+      "kana": "おどし",
+      "cue": "threat",
+      "ids": [
+        1630260
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 209513
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

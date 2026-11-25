@@ -1,0 +1,488 @@
+{
+  "character": "媛",
+  "grade": 4,
+  "meanings": [
+    "beautiful woman",
+    "princess"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 38
+    }
+  ],
+  "components": [
+    "ノ",
+    "女",
+    "爪",
+    "又"
+  ],
+  "on": [
+    "エン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ひめ",
+      "stem": "ひめ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "媛",
+    "heading": "媛",
+    "readings": [
+      "エン"
+    ],
+    "examples_by_reading": [
+      [
+        "才媛"
+      ]
+    ],
+    "note_lines": [
+      "愛媛（えひめ）県"
+    ],
+    "representative_index": {
+      "kanji": "媛",
+      "reading": "エン",
+      "source": "table_04_e.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "愛媛"
+      ],
+      "reading": "えひめ",
+      "stage": "elementary",
+      "pdf_page": 52,
+      "appendix": 2
+    }
+  ],
+  "readings": [
+    {
+      "reading": "エン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1294650/才媛/さいえん"
+      ]
+    },
+    {
+      "reading": "ひめ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "2872618/瀬織津媛/せおりつひめ",
+        "1602150/媛/ひめ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1294650/才媛/さいえん",
+    "2872618/瀬織津媛/せおりつひめ",
+    "2845092/愛媛/えひめ",
+    "5104432/愛媛大学/えひめだいがく",
+    "1151050/愛媛県/えひめけん",
+    "5743574/愛媛県警/えひめけんけい",
+    "5104435/愛媛大/えひめだい",
+    "1151050/愛媛縣/えひめけん",
+    "5104429/愛媛女子短大/えひめじょしたんだい",
+    "5742892/愛媛県立医療技術大学/えひめけんりついりょうぎじゅつだいがく",
+    "1602150/媛/ひめ"
+  ],
+  "candidates": {
+    "1294650/才媛/さいえん": {
+      "id": 1294650,
+      "form": "才媛",
+      "kana": "さいえん",
+      "gloss": "literary woman",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38747,
+        109954,
+        109403,
+        46916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "才": 2
+      },
+      "matched": {
+        "エン": {
+          "actual": "えん",
+          "dictionary": [
+            "エン"
+          ]
+        }
+      },
+      "official_examples": [
+        "エン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2872618/瀬織津媛/せおりつひめ": {
+      "id": 2872618,
+      "form": "瀬織津媛",
+      "kana": "せおりつひめ",
+      "gloss": "Seoritsuhime (goddess of purification, water, waterfalls and rivers)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        316980
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "織": 5,
+        "津": 7,
+        "瀬": 7
+      },
+      "matched": {
+        "ひめ": {
+          "actual": "ひめ",
+          "dictionary": [
+            "ひめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845092/愛媛/えひめ": {
+      "id": 2845092,
+      "form": "愛媛",
+      "kana": "えひめ",
+      "gloss": "Ehime (prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27003,
+        null,
+        4955,
+        57647
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5104432/愛媛大学/えひめだいがく": {
+      "id": 5104432,
+      "form": "愛媛大学",
+      "kana": "えひめだいがく",
+      "gloss": "Ehime University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        55944,
+        341108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4,
+        "学": 1,
+        "大": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1151050/愛媛県/えひめけん": {
+      "id": 1151050,
+      "form": "愛媛県",
+      "kana": "えひめけん",
+      "gloss": "Ehime Prefecture (Shikoku)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75097
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4,
+        "県": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5743574/愛媛県警/えひめけんけい": {
+      "id": 5743574,
+      "form": "愛媛県警",
+      "kana": "えひめけんけい",
+      "gloss": "Ehime Prefectural Police (abbr)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        246405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4,
+        "県": 3,
+        "警": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5104435/愛媛大/えひめだい": {
+      "id": 5104435,
+      "form": "愛媛大",
+      "kana": "えひめだい",
+      "gloss": "Ehime University (abbr)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        338783
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4,
+        "大": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1151050/愛媛縣/えひめけん": {
+      "id": 1151050,
+      "form": "愛媛縣",
+      "kana": "えひめけん",
+      "gloss": "Ehime Prefecture (Shikoku)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5104429/愛媛女子短大/えひめじょしたんだい": {
+      "id": 5104429,
+      "form": "愛媛女子短大",
+      "kana": "えひめじょしたんだい",
+      "gloss": "Ehime Women's Junior College",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "短": 3,
+        "大": 1,
+        "愛": 4,
+        "子": 1,
+        "女": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5742892/愛媛県立医療技術大学/えひめけんりついりょうぎじゅつだいがく": {
+      "id": 5742892,
+      "form": "愛媛県立医療技術大学",
+      "kana": "えひめけんりついりょうぎじゅつだいがく",
+      "gloss": "Ehime Prefectural University of Health Science",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "技": 5,
+        "大": 1,
+        "愛": 4,
+        "立": 1,
+        "学": 1,
+        "術": 5,
+        "医": 3,
+        "県": 3,
+        "療": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1602150/媛/ひめ": {
+      "id": 1602150,
+      "form": "媛",
+      "kana": "ひめ",
+      "gloss": "young lady of noble birth",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch",
+        "oK"
+      ],
+      "ranks": [
+        null,
+        null,
+        43883,
+        73151
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ひめ": {
+          "actual": "ひめ",
+          "dictionary": [
+            "ひめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1602150:媛:ひめ",
+      "form": "媛",
+      "kana": "ひめ",
+      "cue": "young lady of noble birth; princess (esp. in Western contexts, tales, etc.)",
+      "ids": [
+        1602150
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "arch",
+        "oK"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 73151,
+        "wordfreq": 43883
+      },
+      "alternatives_by_kanji": {
+        "媛": [
+          "1294650/才媛/さいえん",
+          "2872618/瀬織津媛/せおりつひめ",
+          "2845092/愛媛/えひめ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

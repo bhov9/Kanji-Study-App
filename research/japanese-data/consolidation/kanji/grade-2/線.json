@@ -1,0 +1,1256 @@
+{
+  "character": "線",
+  "grade": 2,
+  "meanings": [
+    "line",
+    "track"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "糸",
+    "幺",
+    "小",
+    "水",
+    "白"
+  ],
+  "on": [
+    "セン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "すじ",
+      "stem": "すじ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "線",
+    "heading": "線",
+    "readings": [
+      "セン"
+    ],
+    "examples_by_reading": [
+      [
+        "線路",
+        "点線",
+        "光線"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "線",
+      "reading": "セン",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "三味線"
+      ],
+      "reading": "しゃみせん",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "セン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 693,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1273030/光線/こうせん",
+        "1391880/線路/せんろ",
+        "1441690/点線/てんせん",
+        "1391780/線/せん",
+        "1560040/路線/ろせん",
+        "1312060/視線/しせん",
+        "1808280/目線/めせん",
+        "1431310/直線/ちょくせん",
+        "1530380/無線/むせん",
+        "1212140/幹線/かんせん"
+      ]
+    },
+    {
+      "reading": "すじ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1273030/光線/こうせん",
+    "1391880/線路/せんろ",
+    "1441690/点線/てんせん",
+    "1391780/線/せん",
+    "1560040/路線/ろせん",
+    "1312060/視線/しせん",
+    "1808280/目線/めせん",
+    "1431310/直線/ちょくせん",
+    "1530380/無線/むせん",
+    "1212140/幹線/かんせん",
+    "1239970/曲線/きょくせん",
+    "1199570/回線/かいせん",
+    "1473110/配線/はいせん",
+    "1393510/前線/ぜんせん",
+    "1323180/車線/しゃせん",
+    "1390340/戦線/せんせん",
+    "1164280/一線/いっせん",
+    "1522830/本線/ほんせん",
+    "1416560/脱線/だっせん",
+    "1443570/電線/でんせん",
+    "1176750/沿線/えんせん",
+    "1482330/番線/ばんせん",
+    "1500290/伏線/ふくせん",
+    "1391840/線香/せんこう",
+    "2114790/線引き/せんびき",
+    "1391870/線量/せんりょう",
+    "1458650/内線/ないせん",
+    "1185640/下線/かせん",
+    "1180870/横線/おうせん",
+    "1475280/白線/はくせん"
+  ],
+  "candidates": {
+    "1273030/光線/こうせん": {
+      "id": 1273030,
+      "form": "光線",
+      "kana": "こうせん",
+      "gloss": "ray (of light)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2119,
+        10051,
+        13090,
+        14347
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "光": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1391880/線路/せんろ": {
+      "id": 1391880,
+      "form": "線路",
+      "kana": "せんろ",
+      "gloss": "railway track",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5417,
+        4537,
+        9163,
+        14851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1441690/点線/てんせん": {
+      "id": 1441690,
+      "form": "点線",
+      "kana": "てんせん",
+      "gloss": "dotted line",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40471,
+        15352,
+        58194,
+        81606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1391780/線/せん": {
+      "id": 1391780,
+      "form": "線",
+      "kana": "せん",
+      "gloss": "line",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        749,
+        330,
+        674,
+        2270
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1560040/路線/ろせん": {
+      "id": 1560040,
+      "form": "路線",
+      "kana": "ろせん",
+      "gloss": "route (bus, train, air, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3934,
+        3264,
+        3167,
+        12373
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312060/視線/しせん": {
+      "id": 1312060,
+      "form": "視線",
+      "kana": "しせん",
+      "gloss": "one's line of sight",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3157,
+        4588,
+        6894,
+        1517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1808280/目線/めせん": {
+      "id": 1808280,
+      "form": "目線",
+      "kana": "めせん",
+      "gloss": "(one's) gaze",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15194,
+        2655,
+        5047,
+        4207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1431310/直線/ちょくせん": {
+      "id": 1431310,
+      "form": "直線",
+      "kana": "ちょくせん",
+      "gloss": "straight line",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5906,
+        3058,
+        8301,
+        12194
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1530380/無線/むせん": {
+      "id": 1530380,
+      "form": "無線",
+      "kana": "むせん",
+      "gloss": "radio (communication)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10241,
+        4949,
+        3232,
+        13803
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1212140/幹線/かんせん": {
+      "id": 1212140,
+      "form": "幹線",
+      "kana": "かんせん",
+      "gloss": "main line",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4426,
+        3315,
+        21173,
+        84204
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "幹": 5
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1239970/曲線/きょくせん": {
+      "id": 1239970,
+      "form": "曲線",
+      "kana": "きょくせん",
+      "gloss": "curve",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4527,
+        6431,
+        12892,
+        12826
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "曲": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1199570/回線/かいせん": {
+      "id": 1199570,
+      "form": "回線",
+      "kana": "かいせん",
+      "gloss": "circuit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14165,
+        6070,
+        5047,
+        15130
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "回": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1473110/配線/はいせん": {
+      "id": 1473110,
+      "form": "配線",
+      "kana": "はいせん",
+      "gloss": "wiring",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14279,
+        3568,
+        10860,
+        24609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "配": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1393510/前線/ぜんせん": {
+      "id": 1393510,
+      "form": "前線",
+      "kana": "ぜんせん",
+      "gloss": "(weather) front",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7148,
+        6004,
+        9745,
+        11750
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1323180/車線/しゃせん": {
+      "id": 1323180,
+      "form": "車線",
+      "kana": "しゃせん",
+      "gloss": "traffic lane",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14876,
+        5457,
+        11030,
+        33396
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "車": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1390340/戦線/せんせん": {
+      "id": 1390340,
+      "form": "戦線",
+      "kana": "せんせん",
+      "gloss": "(war) front",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7544,
+        9688,
+        10707,
+        16324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1164280/一線/いっせん": {
+      "id": 1164280,
+      "form": "一線",
+      "kana": "いっせん",
+      "gloss": "one line",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7167,
+        12858,
+        11030,
+        13219
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522830/本線/ほんせん": {
+      "id": 1522830,
+      "form": "本線",
+      "kana": "ほんせん",
+      "gloss": "main line",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31869,
+        6039,
+        10860,
+        55376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1416560/脱線/だっせん": {
+      "id": 1416560,
+      "form": "脱線",
+      "kana": "だっせん",
+      "gloss": "derailment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8414,
+        11613,
+        15595,
+        13617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脱": 7
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1443570/電線/でんせん": {
+      "id": 1443570,
+      "form": "電線",
+      "kana": "でんせん",
+      "gloss": "electric line",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9333,
+        10909,
+        14325,
+        28096
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1176750/沿線/えんせん": {
+      "id": 1176750,
+      "form": "沿線",
+      "kana": "えんせん",
+      "gloss": "places alongside a railway line, bus route, major thoroughfare, etc.",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        11841,
+        14881,
+        12275,
+        53212
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "沿": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482330/番線/ばんせん": {
+      "id": 1482330,
+      "form": "番線",
+      "kana": "ばんせん",
+      "gloss": "track number",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22286,
+        8604,
+        16052,
+        48600
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "番": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1500290/伏線/ふくせん": {
+      "id": 1500290,
+      "form": "伏線",
+      "kana": "ふくせん",
+      "gloss": "foreshadowing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23451,
+        10988,
+        17751,
+        23998
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伏": 7
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1391840/線香/せんこう": {
+      "id": 1391840,
+      "form": "線香",
+      "kana": "せんこう",
+      "gloss": "incense stick",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16956,
+        14428,
+        20603,
+        22818
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "香": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2114790/線引き/せんびき": {
+      "id": 2114790,
+      "form": "線引き",
+      "kana": "せんびき",
+      "gloss": "delineation",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        21035,
+        19447,
+        24744,
+        20929
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "引": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1391870/線量/せんりょう": {
+      "id": 1391870,
+      "form": "線量",
+      "kana": "せんりょう",
+      "gloss": "dose (of radioactivity)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31565,
+        19389,
+        18234,
+        109916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1458650/内線/ないせん": {
+      "id": 1458650,
+      "form": "内線",
+      "kana": "ないせん",
+      "gloss": "phone extension",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13129,
+        42628,
+        33710,
+        37936
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185640/下線/かせん": {
+      "id": 1185640,
+      "form": "下線",
+      "kana": "かせん",
+      "gloss": "underline",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19186,
+        26254,
+        56518,
+        109881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1180870/横線/おうせん": {
+      "id": 1180870,
+      "form": "横線",
+      "kana": "おうせん",
+      "gloss": "horizontal line",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32990,
+        18349,
+        51518,
+        58864
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "横": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1475280/白線/はくせん": {
+      "id": 1475280,
+      "form": "白線",
+      "kana": "はくせん",
+      "gloss": "white line",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26249,
+        28584,
+        39764,
+        35004
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1391780:線:せん",
+      "form": "線",
+      "kana": "せん",
+      "cue": "line; stripe",
+      "ids": [
+        1391780
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2270,
+        "shiberu": 749,
+        "tubelex": 330,
+        "wordfreq": 674
+      },
+      "alternatives_by_kanji": {
+        "線": [
+          "1273030/光線/こうせん",
+          "1391880/線路/せんろ",
+          "1441690/点線/てんせん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1408930:打線:だせん",
+      "form": "打線",
+      "kana": "だせん",
+      "cue": "batting line-up; batting order",
+      "ids": [
+        1408930
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 74826,
+        "tubelex": 16073,
+        "wordfreq": 12479
+      },
+      "alternatives_by_kanji": {
+        "線": [
+          "1273030/光線/こうせん",
+          "1391880/線路/せんろ",
+          "1441690/点線/てんせん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 43
+}

@@ -1,0 +1,1228 @@
+{
+  "character": "区",
+  "grade": 3,
+  "meanings": [
+    "ward",
+    "district"
+  ],
+  "strokes": [
+    4
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 23
+    },
+    {
+      "type": "nelson_c",
+      "value": 22
+    }
+  ],
+  "components": [
+    "匚",
+    "丶",
+    "ノ"
+  ],
+  "on": [
+    "ク",
+    "オウ",
+    "コウ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "区",
+    "heading": "区（區）",
+    "readings": [
+      "ク"
+    ],
+    "examples_by_reading": [
+      [
+        "区別",
+        "区々",
+        "地区"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "区",
+      "reading": "ク",
+      "source": "table_08_ku.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 177,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1244250/区別/くべつ",
+        "1421020/地区/ちく",
+        "1592150/区々/くく",
+        "1244080/区/く",
+        "1244090/区域/くいき",
+        "1244120/区間/くかん",
+        "1244230/区分/くぶん",
+        "1592110/区画/くかく",
+        "1244180/区切り/くぎり",
+        "1592130/区切る/くぎる"
+      ]
+    },
+    {
+      "reading": "オウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "コウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1244250/区別/くべつ",
+    "1421020/地区/ちく",
+    "1592150/区々/くく",
+    "1244080/区/く",
+    "1244090/区域/くいき",
+    "1244120/区間/くかん",
+    "1244230/区分/くぶん",
+    "1592110/区画/くかく",
+    "1244180/区切り/くぎり",
+    "1592130/区切る/くぎる",
+    "1244190/区長/くちょう",
+    "1237070/教区/きょうく",
+    "2013960/同区/どうく",
+    "1951070/区割り/くわり",
+    "2407130/特区/とっく",
+    "1244260/区民/くみん",
+    "1206710/学区/がっく",
+    "1244210/区内/くない",
+    "1214110/管区/かんく",
+    "1244240/区分け/くわけ",
+    "2719860/校区/こうく",
+    "1620890/区立/くりつ",
+    "1631460/鉱区/こうく",
+    "2665330/線区/せんく",
+    "2839301/都区/とく",
+    "2857940/区営/くえい",
+    "1244100/区会/くかい",
+    "1308240/市区/しく",
+    "1244270/区役所/くやくしょ",
+    "1204590/街区/がいく"
+  ],
+  "candidates": {
+    "1244250/区別/くべつ": {
+      "id": 1244250,
+      "form": "区別",
+      "kana": "くべつ",
+      "gloss": "distinction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1427,
+        5730,
+        4415,
+        6151
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1421020/地区/ちく": {
+      "id": 1421020,
+      "form": "地区",
+      "kana": "ちく",
+      "gloss": "district",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4177,
+        3140,
+        2569,
+        7300
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1592150/区々/くく": {
+      "id": 1592150,
+      "form": "区々",
+      "kana": "くく",
+      "gloss": "various",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1244080/区/く": {
+      "id": 1244080,
+      "form": "区",
+      "kana": "く",
+      "gloss": "ward",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2035,
+        1242,
+        459,
+        10085
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244090/区域/くいき": {
+      "id": 1244090,
+      "form": "区域",
+      "kana": "くいき",
+      "gloss": "area",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2625,
+        6942,
+        6453,
+        13346
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "域": 6
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1244120/区間/くかん": {
+      "id": 1244120,
+      "form": "区間",
+      "kana": "くかん",
+      "gloss": "section (of track, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        12518,
+        4392,
+        10032,
+        39564
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244230/区分/くぶん": {
+      "id": 1244230,
+      "form": "区分",
+      "kana": "くぶん",
+      "gloss": "division",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11777,
+        8228,
+        6779,
+        29725
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592110/区画/くかく": {
+      "id": 1592110,
+      "form": "区画",
+      "kana": "くかく",
+      "gloss": "division",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20252,
+        8200,
+        9745,
+        11845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1244180/区切り/くぎり": {
+      "id": 1244180,
+      "form": "区切り",
+      "kana": "くぎり",
+      "gloss": "pause (in speech, writing, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15380,
+        9300,
+        16515,
+        13314
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592130/区切る/くぎる": {
+      "id": 1592130,
+      "form": "区切る",
+      "kana": "くぎる",
+      "gloss": "to divide",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11834,
+        9055,
+        40209,
+        10667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244190/区長/くちょう": {
+      "id": 1244190,
+      "form": "区長",
+      "kana": "くちょう",
+      "gloss": "head of a ward",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8635,
+        13545,
+        20349,
+        67653
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237070/教区/きょうく": {
+      "id": 1237070,
+      "form": "教区",
+      "kana": "きょうく",
+      "gloss": "parish",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        31769,
+        37400,
+        22017,
+        68857
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2013960/同区/どうく": {
+      "id": 2013960,
+      "form": "同区",
+      "kana": "どうく",
+      "gloss": "same ward",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33393,
+        50803,
+        61164,
+        137676
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1951070/区割り/くわり": {
+      "id": 1951070,
+      "form": "区割り",
+      "kana": "くわり",
+      "gloss": "demarcation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31512,
+        70964,
+        75713,
+        153732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "割": 6
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2407130/特区/とっく": {
+      "id": 2407130,
+      "form": "特区",
+      "kana": "とっく",
+      "gloss": "special ward",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        21120,
+        17751,
+        55737
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "特": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244260/区民/くみん": {
+      "id": 1244260,
+      "form": "区民",
+      "kana": "くみん",
+      "gloss": "ward residents",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        32292,
+        18794,
+        61797
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1206710/学区/がっく": {
+      "id": 1206710,
+      "form": "学区",
+      "kana": "がっく",
+      "gloss": "school district",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29810,
+        24154,
+        44183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244210/区内/くない": {
+      "id": 1244210,
+      "form": "区内",
+      "kana": "くない",
+      "gloss": "in a ward",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        16272,
+        51283
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1214110/管区/かんく": {
+      "id": 1214110,
+      "form": "管区",
+      "kana": "かんく",
+      "gloss": "jurisdiction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41422,
+        25763,
+        63605
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "管": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244240/区分け/くわけ": {
+      "id": 1244240,
+      "form": "区分け",
+      "kana": "くわけ",
+      "gloss": "division",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        30165,
+        40664,
+        43097
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2719860/校区/こうく": {
+      "id": 2719860,
+      "form": "校区",
+      "kana": "こうく",
+      "gloss": "school district",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        27831,
+        47810,
+        105538
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "校": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620890/区立/くりつ": {
+      "id": 1620890,
+      "form": "区立",
+      "kana": "くりつ",
+      "gloss": "established by a ward",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        30216,
+        87478
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1631460/鉱区/こうく": {
+      "id": 1631460,
+      "form": "鉱区",
+      "kana": "こうく",
+      "gloss": "mining area",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        158644,
+        128672
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉱": 5
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2665330/線区/せんく": {
+      "id": 2665330,
+      "form": "線区",
+      "kana": "せんく",
+      "gloss": "train line",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        66810,
+        208167
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "線": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839301/都区/とく": {
+      "id": 2839301,
+      "form": "都区",
+      "kana": "とく",
+      "gloss": "(the 23) wards of Tokyo",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        70104,
+        108142
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "都": 3
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857940/区営/くえい": {
+      "id": 2857940,
+      "form": "区営",
+      "kana": "くえい",
+      "gloss": "administered by a ward",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        98142,
+        137651
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "営": 5
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244100/区会/くかい": {
+      "id": 1244100,
+      "form": "区会",
+      "kana": "くかい",
+      "gloss": "ward assembly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        205487,
+        252422
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1308240/市区/しく": {
+      "id": 1308240,
+      "form": "市区",
+      "kana": "しく",
+      "gloss": "municipal district",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        17491,
+        163055
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "市": 2
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244270/区役所/くやくしょ": {
+      "id": 1244270,
+      "form": "区役所",
+      "kana": "くやくしょ",
+      "gloss": "ward office",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        21741,
+        44875
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3,
+        "役": 3
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204590/街区/がいく": {
+      "id": 1204590,
+      "form": "街区",
+      "kana": "がいく",
+      "gloss": "block (of land)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        27692,
+        null,
+        56699
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "街": 4
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1421020:地区:ちく",
+      "form": "地区",
+      "kana": "ちく",
+      "cue": "district; area",
+      "ids": [
+        1421020
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7300,
+        "shiberu": 4177,
+        "tubelex": 3140,
+        "wordfreq": 2569
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ],
+        "区": [
+          "1244250/区別/くべつ",
+          "1592150/区々/くく",
+          "1244080/区/く"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

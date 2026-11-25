@@ -1,0 +1,662 @@
+{
+  "character": "茂",
+  "grade": 7,
+  "meanings": [
+    "overgrown",
+    "grow thick",
+    "be luxuriant"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 140
+    }
+  ],
+  "components": [
+    "ノ",
+    "戈",
+    "艾"
+  ],
+  "on": [
+    "モ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "しげ.る",
+      "stem": "しげ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "うむさ",
+    "き",
+    "し",
+    "つとむ",
+    "む",
+    "もて"
+  ],
+  "government": {
+    "kanji": "茂",
+    "heading": "茂",
+    "readings": [
+      "モ",
+      "しげる"
+    ],
+    "examples_by_reading": [
+      [
+        "繁茂"
+      ],
+      [
+        "茂る",
+        "茂み"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "茂",
+      "reading": "モ",
+      "source": "table_35_mo.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "モ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1481740/繁茂/はんも",
+        "1227210/逆茂木/さかもぎ",
+        "1533750/茂林/もりん",
+        "2840701/賀茂茄子/かもなす",
+        "2840701/賀茂なす/かもなす",
+        "2840701/賀茂ナス/かもなす",
+        "2840701/加茂なす/かもなす",
+        "2840701/加茂ナス/かもなす"
+      ]
+    },
+    {
+      "reading": "しげる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1533730/茂み/しげみ",
+        "1533740/茂る/しげる",
+        "1378460/生い茂る/おいしげる",
+        "1378460/おい茂る/おいしげる",
+        "1378460/生茂る/おいしげる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1533730/茂み/しげみ",
+    "1533740/茂る/しげる",
+    "1481740/繁茂/はんも",
+    "1378460/生い茂る/おいしげる",
+    "1227210/逆茂木/さかもぎ",
+    "1533750/茂林/もりん",
+    "1378460/おい茂る/おいしげる",
+    "1378460/生茂る/おいしげる",
+    "2840701/賀茂茄子/かもなす",
+    "2840701/賀茂なす/かもなす",
+    "2840701/賀茂ナス/かもなす",
+    "2840701/加茂なす/かもなす",
+    "2840701/加茂ナス/かもなす",
+    "2514070/茂り/しげり",
+    "2840701/加茂茄/かもなす"
+  ],
+  "candidates": {
+    "1533730/茂み/しげみ": {
+      "id": 1533730,
+      "form": "茂み",
+      "kana": "しげみ",
+      "gloss": "thicket",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7830,
+        16679,
+        38431,
+        9170
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "しげる": {
+          "actual": "しげ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "しげる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1533740/茂る/しげる": {
+      "id": 1533740,
+      "form": "茂る",
+      "kana": "しげる",
+      "gloss": "to grow thickly",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        11260,
+        16165,
+        63004,
+        16295
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "しげる": {
+          "actual": "しげ",
+          "dictionary": [
+            "しげ.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "しげる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1481740/繁茂/はんも": {
+      "id": 1481740,
+      "form": "繁茂",
+      "kana": "はんも",
+      "gloss": "flourishing (of plants)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16247,
+        50803,
+        64910,
+        55007
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "繁": 7
+      },
+      "matched": {
+        "モ": {
+          "actual": "も",
+          "dictionary": [
+            "モ"
+          ]
+        }
+      },
+      "official_examples": [
+        "モ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1378460/生い茂る/おいしげる": {
+      "id": 1378460,
+      "form": "生い茂る",
+      "kana": "おいしげる",
+      "gloss": "to grow thickly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17626,
+        19084,
+        60579,
+        13945
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "しげる": {
+          "actual": "しげ",
+          "dictionary": [
+            "しげ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1227210/逆茂木/さかもぎ": {
+      "id": 1227210,
+      "form": "逆茂木",
+      "kana": "さかもぎ",
+      "gloss": "abatis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        115020
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1,
+        "逆": 5
+      },
+      "matched": {
+        "モ": {
+          "actual": "も",
+          "dictionary": [
+            "モ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1533750/茂林/もりん": {
+      "id": 1533750,
+      "form": "茂林",
+      "kana": "もりん",
+      "gloss": "luxuriant (dense) forest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "林": 1
+      },
+      "matched": {
+        "モ": {
+          "actual": "も",
+          "dictionary": [
+            "モ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1378460/おい茂る/おいしげる": {
+      "id": 1378460,
+      "form": "おい茂る",
+      "kana": "おいしげる",
+      "gloss": "to grow thickly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        179893
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "しげる": {
+          "actual": "しげ",
+          "dictionary": [
+            "しげ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1378460/生茂る/おいしげる": {
+      "id": 1378460,
+      "form": "生茂る",
+      "kana": "おいしげる",
+      "gloss": "to grow thickly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        181842
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "しげる": {
+          "actual": "しげ",
+          "dictionary": [
+            "しげ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840701/賀茂茄子/かもなす": {
+      "id": 2840701,
+      "form": "賀茂茄子",
+      "kana": "かもなす",
+      "gloss": "Kamo eggplant (Solanum melongena; round variety originally grown in Kyoto)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        249208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1,
+        "賀": 4
+      },
+      "matched": {
+        "モ": {
+          "actual": "も",
+          "dictionary": [
+            "モ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840701/賀茂なす/かもなす": {
+      "id": 2840701,
+      "form": "賀茂なす",
+      "kana": "かもなす",
+      "gloss": "Kamo eggplant (Solanum melongena; round variety originally grown in Kyoto)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賀": 4
+      },
+      "matched": {
+        "モ": {
+          "actual": "も",
+          "dictionary": [
+            "モ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840701/賀茂ナス/かもなす": {
+      "id": 2840701,
+      "form": "賀茂ナス",
+      "kana": "かもなす",
+      "gloss": "Kamo eggplant (Solanum melongena; round variety originally grown in Kyoto)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賀": 4
+      },
+      "matched": {
+        "モ": {
+          "actual": "も",
+          "dictionary": [
+            "モ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840701/加茂なす/かもなす": {
+      "id": 2840701,
+      "form": "加茂なす",
+      "kana": "かもなす",
+      "gloss": "Kamo eggplant (Solanum melongena; round variety originally grown in Kyoto)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "加": 4
+      },
+      "matched": {
+        "モ": {
+          "actual": "も",
+          "dictionary": [
+            "モ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840701/加茂ナス/かもなす": {
+      "id": 2840701,
+      "form": "加茂ナス",
+      "kana": "かもなす",
+      "gloss": "Kamo eggplant (Solanum melongena; round variety originally grown in Kyoto)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "加": 4
+      },
+      "matched": {
+        "モ": {
+          "actual": "も",
+          "dictionary": [
+            "モ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2514070/茂り/しげり": {
+      "id": 2514070,
+      "form": "茂り",
+      "kana": "しげり",
+      "gloss": "growing thick",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        65516,
+        109450
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2840701/加茂茄/かもなす": {
+      "id": 2840701,
+      "form": "加茂茄",
+      "kana": "かもなす",
+      "gloss": "Kamo eggplant (Solanum melongena; round variety originally grown in Kyoto)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "加": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1533740:茂る:しげる",
+      "form": "茂る",
+      "kana": "しげる",
+      "cue": "to grow thickly; to be in full leaf",
+      "ids": [
+        1533740
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 16295,
+        "shiberu": 11260,
+        "tubelex": 16165,
+        "wordfreq": 63004
+      },
+      "alternatives_by_kanji": {
+        "茂": [
+          "1533730/茂み/しげみ",
+          "1481740/繁茂/はんも",
+          "1378460/生い茂る/おいしげる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

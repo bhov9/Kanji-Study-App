@@ -1,0 +1,1390 @@
+{
+  "character": "換",
+  "grade": 7,
+  "meanings": [
+    "interchange",
+    "period",
+    "change",
+    "convert",
+    "replace",
+    "renew"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "大",
+    "儿",
+    "冂",
+    "勹",
+    "扎"
+  ],
+  "on": [
+    "カン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "か.える",
+      "stem": "か",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "-か.える",
+      "stem": "-か",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "か.わる",
+      "stem": "か",
+      "okurigana": "わる"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "換",
+    "heading": "換",
+    "readings": [
+      "カン",
+      "かえる",
+      "かわる"
+    ],
+    "examples_by_reading": [
+      [
+        "換気",
+        "換算",
+        "交換"
+      ],
+      [
+        "換える"
+      ],
+      [
+        "換わる"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔代える，替える，変える",
+      "⇔代わる，替わる，変わる"
+    ],
+    "representative_index": {
+      "kanji": "換",
+      "reading": "カン",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 163,
+      "frequent_unflagged_examples": 6,
+      "current_support": true,
+      "candidates": [
+        "1271750/交換/こうかん",
+        "1212820/換算/かんさん",
+        "1212780/換気/かんき",
+        "1212820/換算/かんざん",
+        "1510950/変換/へんかん",
+        "1441080/転換/てんかん",
+        "1268830/互換/ごかん",
+        "1421860/置換/ちかん",
+        "1747530/換言/かんげん",
+        "1564210/兌換/だかん"
+      ]
+    },
+    {
+      "reading": "かえる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 22,
+      "frequent_unflagged_examples": 5,
+      "current_support": false,
+      "candidates": [
+        "1589780/換える/かえる",
+        "1421820/置き換える/おきかえる",
+        "1600470/乗り換える/のりかえる",
+        "2012810/買い換える/かいかえる",
+        "1610580/言い換える/いいかえる",
+        "1589920/書き換える/かきかえる",
+        "1587790/入れ換える/いれかえる",
+        "1326830/取り換える/とりかえる",
+        "1601560/引き換える/ひきかえる",
+        "1600470/乗換える/のりかえる"
+      ]
+    },
+    {
+      "reading": "かわる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1590820/換わる/かわる",
+        "2060490/置き換わる/おきかわる",
+        "2858431/書き換わる/かきかわる",
+        "1587800/入れ換わる/いれかわる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1271750/交換/こうかん",
+    "1212820/換算/かんさん",
+    "1212780/換気/かんき",
+    "1212820/換算/かんざん",
+    "1589780/換える/かえる",
+    "1590820/換わる/かわる",
+    "1510950/変換/へんかん",
+    "1441080/転換/てんかん",
+    "1421820/置き換える/おきかえる",
+    "1600470/乗り換える/のりかえる",
+    "1268830/互換/ごかん",
+    "1421860/置換/ちかん",
+    "2012810/買い換える/かいかえる",
+    "2060490/置き換わる/おきかわる",
+    "1747530/換言/かんげん",
+    "1564210/兌換/だかん",
+    "1610580/言い換える/いいかえる",
+    "1589920/書き換える/かきかえる",
+    "1212800/換金/かんきん",
+    "2518830/換装/かんそう",
+    "2829395/可換/かかん",
+    "1587790/入れ換える/いれかえる",
+    "1326830/取り換える/とりかえる",
+    "1601560/引き換える/ひきかえる",
+    "1600470/乗換える/のりかえる",
+    "2829108/換地/かんち",
+    "1979650/換羽/かんう",
+    "2789990/換価/かんか",
+    "1212790/換気扇/かんきせん",
+    "1722650/物々交換/ぶつぶつこうかん"
+  ],
+  "candidates": {
+    "1271750/交換/こうかん": {
+      "id": 1271750,
+      "form": "交換",
+      "kana": "こうかん",
+      "gloss": "exchange",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1521,
+        1034,
+        927,
+        2110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1212820/換算/かんさん": {
+      "id": 1212820,
+      "form": "換算",
+      "kana": "かんさん",
+      "gloss": "conversion (e.g. yen to dollars)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8872,
+        10014,
+        10217,
+        22195
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "算": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1212780/換気/かんき": {
+      "id": 1212780,
+      "form": "換気",
+      "kana": "かんき",
+      "gloss": "ventilation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22366,
+        6028,
+        15390,
+        19292
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1212820/換算/かんざん": {
+      "id": 1212820,
+      "form": "換算",
+      "kana": "かんざん",
+      "gloss": "conversion (e.g. yen to dollars)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8872,
+        10014,
+        10217,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "算": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1589780/換える/かえる": {
+      "id": 1589780,
+      "form": "換える",
+      "kana": "かえる",
+      "gloss": "to replace",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6230,
+        null,
+        42493,
+        11495
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [
+        "かえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1590820/換わる/かわる": {
+      "id": 1590820,
+      "form": "換わる",
+      "kana": "かわる",
+      "gloss": "to succeed",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        37340,
+        null,
+        104555,
+        60849
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かわる": {
+          "actual": "か",
+          "dictionary": [
+            "か.わる"
+          ]
+        }
+      },
+      "official_examples": [
+        "かわる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1510950/変換/へんかん": {
+      "id": 1510950,
+      "form": "変換",
+      "kana": "へんかん",
+      "gloss": "change",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14098,
+        2811,
+        2863,
+        8128
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "変": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441080/転換/てんかん": {
+      "id": 1441080,
+      "form": "転換",
+      "kana": "てんかん",
+      "gloss": "conversion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3937,
+        3709,
+        4415,
+        12028
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "転": 3
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1421820/置き換える/おきかえる": {
+      "id": 1421820,
+      "form": "置き換える",
+      "kana": "おきかえる",
+      "gloss": "to move (something) to another location",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9779,
+        6602,
+        16272,
+        13719
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "置": 4
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600470/乗り換える/のりかえる": {
+      "id": 1600470,
+      "form": "乗り換える",
+      "kana": "のりかえる",
+      "gloss": "to transfer (trains)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11016,
+        6327,
+        18794,
+        11460
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1268830/互換/ごかん": {
+      "id": 1268830,
+      "form": "互換",
+      "kana": "ごかん",
+      "gloss": "interchange",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        26947,
+        9047,
+        7013,
+        102569
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "互": 7
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421860/置換/ちかん": {
+      "id": 1421860,
+      "form": "置換",
+      "kana": "ちかん",
+      "gloss": "substitution",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18058,
+        15465,
+        17751,
+        51916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "置": 4
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2012810/買い換える/かいかえる": {
+      "id": 2012810,
+      "form": "買い換える",
+      "kana": "かいかえる",
+      "gloss": "to buy a replacement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        38915,
+        9822,
+        29854,
+        33172
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "買": 2
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2060490/置き換わる/おきかわる": {
+      "id": 2060490,
+      "form": "置き換わる",
+      "kana": "おきかわる",
+      "gloss": "to be rearranged",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        27806,
+        20197,
+        49881,
+        39742
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "置": 4
+      },
+      "matched": {
+        "かわる": {
+          "actual": "か",
+          "dictionary": [
+            "か.わる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1747530/換言/かんげん": {
+      "id": 1747530,
+      "form": "換言",
+      "kana": "かんげん",
+      "gloss": "saying in other words",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25870,
+        57577,
+        78707,
+        108088
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1564210/兌換/だかん": {
+      "id": 1564210,
+      "form": "兌換",
+      "kana": "だかん",
+      "gloss": "conversion (of paper money, esp. into specie)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        34106,
+        54711,
+        82481,
+        164407
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1610580/言い換える/いいかえる": {
+      "id": 1610580,
+      "form": "言い換える",
+      "kana": "いいかえる",
+      "gloss": "to say in other words",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5754,
+        null,
+        25763,
+        11131
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589920/書き換える/かきかえる": {
+      "id": 1589920,
+      "form": "書き換える",
+      "kana": "かきかえる",
+      "gloss": "to rewrite",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11213,
+        null,
+        30216,
+        11166
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1212800/換金/かんきん": {
+      "id": 1212800,
+      "form": "換金",
+      "kana": "かんきん",
+      "gloss": "realization (of goods into money)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        18039,
+        13090,
+        26137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2518830/換装/かんそう": {
+      "id": 2518830,
+      "form": "換装",
+      "kana": "かんそう",
+      "gloss": "exchanging parts or equipment to effect a change in performance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17642,
+        22289,
+        44825
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "装": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829395/可換/かかん": {
+      "id": 2829395,
+      "form": "可換",
+      "kana": "かかん",
+      "gloss": "commutative",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        20610,
+        62423,
+        null,
+        341108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "可": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587790/入れ換える/いれかえる": {
+      "id": 1587790,
+      "form": "入れ換える",
+      "kana": "いれかえる",
+      "gloss": "to replace",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23992,
+        null,
+        93840,
+        49207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1326830/取り換える/とりかえる": {
+      "id": 1326830,
+      "form": "取り換える",
+      "kana": "とりかえる",
+      "gloss": "to exchange",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        26293,
+        null,
+        94653,
+        35890
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1601560/引き換える/ひきかえる": {
+      "id": 1601560,
+      "form": "引き換える",
+      "kana": "ひきかえる",
+      "gloss": "to exchange (things)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        36381,
+        null,
+        86386,
+        26892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "引": 2
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600470/乗換える/のりかえる": {
+      "id": 1600470,
+      "form": "乗換える",
+      "kana": "のりかえる",
+      "gloss": "to transfer (trains)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        39412,
+        null,
+        197911,
+        154743
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3
+      },
+      "matched": {
+        "かえる": {
+          "actual": "か",
+          "dictionary": [
+            "か.える",
+            "-か.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829108/換地/かんち": {
+      "id": 2829108,
+      "form": "換地",
+      "kana": "かんち",
+      "gloss": "replotting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50117,
+        92126,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1979650/換羽/かんう": {
+      "id": 1979650,
+      "form": "換羽",
+      "kana": "かんう",
+      "gloss": "molting (of birds)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        95507,
+        229180
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "羽": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2789990/換価/かんか": {
+      "id": 2789990,
+      "form": "換価",
+      "kana": "かんか",
+      "gloss": "appraisal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        100834,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "価": 5
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1212790/換気扇/かんきせん": {
+      "id": 1212790,
+      "form": "換気扇",
+      "kana": "かんきせん",
+      "gloss": "ventilation fan",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        33270,
+        34916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1,
+        "扇": 7
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1722650/物々交換/ぶつぶつこうかん": {
+      "id": 1722650,
+      "form": "物々交換",
+      "kana": "ぶつぶつこうかん",
+      "gloss": "barter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42050,
+        39168
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "交": 2
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858431/書き換わる/かきかわる": {
+      "id": 2858431,
+      "form": "書き換わる",
+      "kana": "かきかわる",
+      "gloss": "to be rewritten",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42628,
+        null,
+        51315
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "かわる": {
+          "actual": "か",
+          "dictionary": [
+            "か.わる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587800/入れ換わる/いれかわる": {
+      "id": 1587800,
+      "form": "入れ換わる",
+      "kana": "いれかわる",
+      "gloss": "to change places (with)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        128883
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "かわる": {
+          "actual": "か",
+          "dictionary": [
+            "か.わる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1271750:交換:こうかん",
+      "form": "交換",
+      "kana": "こうかん",
+      "cue": "exchange; interchange",
+      "ids": [
+        1271750
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2110,
+        "shiberu": 1521,
+        "tubelex": 1034,
+        "wordfreq": 927
+      },
+      "alternatives_by_kanji": {
+        "交": [
+          "1272280/交通/こうつう",
+          "1290310/交ぜる/まぜる",
+          "1590750/交わす/かわす"
+        ],
+        "換": [
+          "1212820/換算/かんさん",
+          "1212780/換気/かんき",
+          "1212820/換算/かんざん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 106
+}

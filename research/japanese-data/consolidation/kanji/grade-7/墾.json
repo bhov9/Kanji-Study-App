@@ -1,0 +1,481 @@
+{
+  "character": "墾",
+  "grade": 7,
+  "meanings": [
+    "ground-breaking",
+    "open up farmland"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 32
+    }
+  ],
+  "components": [
+    "艮",
+    "爪",
+    "土",
+    "犯",
+    "豸"
+  ],
+  "on": [
+    "コン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "は.る",
+      "stem": "は",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "ひら.く",
+      "stem": "ひら",
+      "okurigana": "く"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "墾",
+    "heading": "墾",
+    "readings": [
+      "コン"
+    ],
+    "examples_by_reading": [
+      [
+        "開墾"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "墾",
+      "reading": "コン",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1202690/開墾/かいこん",
+        "1877640/墾田/こんでん",
+        "1527460/未墾/みこん",
+        "1202700/開墾地/かいこんち",
+        "1527210/未開墾地/みかいこんち",
+        "1527200/未開墾/みかいこん",
+        "1527470/未墾地/みこんち"
+      ]
+    },
+    {
+      "reading": "はる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "ひらく",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1383920/切り墾く/きりひらく",
+        "2832593/墾く/ひらく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1202690/開墾/かいこん",
+    "1877640/墾田/こんでん",
+    "1527460/未墾/みこん",
+    "1202700/開墾地/かいこんち",
+    "1527210/未開墾地/みかいこんち",
+    "1527200/未開墾/みかいこん",
+    "1383920/切り墾く/きりひらく",
+    "1527470/未墾地/みこんち",
+    "2832593/墾く/ひらく"
+  ],
+  "candidates": {
+    "1202690/開墾/かいこん": {
+      "id": 1202690,
+      "form": "開墾",
+      "kana": "かいこん",
+      "gloss": "cultivating new land",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10617,
+        27951,
+        45882,
+        44361
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "開": 3
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [
+        "コン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1877640/墾田/こんでん": {
+      "id": 1877640,
+      "form": "墾田",
+      "kana": "こんでん",
+      "gloss": "new rice field",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        80148,
+        138524
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "田": 1
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1527460/未墾/みこん": {
+      "id": 1527460,
+      "form": "未墾",
+      "kana": "みこん",
+      "gloss": "uncultivated",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "未": 4
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202700/開墾地/かいこんち": {
+      "id": 1202700,
+      "form": "開墾地",
+      "kana": "かいこんち",
+      "gloss": "cultivated land",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        138459
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2,
+        "開": 3
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1527210/未開墾地/みかいこんち": {
+      "id": 1527210,
+      "form": "未開墾地",
+      "kana": "みかいこんち",
+      "gloss": "virgin soil",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2,
+        "未": 4,
+        "開": 3
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1527200/未開墾/みかいこん": {
+      "id": 1527200,
+      "form": "未開墾",
+      "kana": "みかいこん",
+      "gloss": "uncultivated",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        387881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "未": 4,
+        "開": 3
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1383920/切り墾く/きりひらく": {
+      "id": 1383920,
+      "form": "切り墾く",
+      "kana": "きりひらく",
+      "gloss": "to cut open",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "ひらく": {
+          "actual": "ひら",
+          "dictionary": [
+            "ひら.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1527470/未墾地/みこんち": {
+      "id": 1527470,
+      "form": "未墾地",
+      "kana": "みこんち",
+      "gloss": "uncultivated land",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "未": 4,
+        "地": 2
+      },
+      "matched": {
+        "コン": {
+          "actual": "こん",
+          "dictionary": [
+            "コン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832593/墾く/ひらく": {
+      "id": 2832593,
+      "form": "墾く",
+      "kana": "ひらく",
+      "gloss": "to cultivate (land)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ひらく": {
+          "actual": "ひら",
+          "dictionary": [
+            "ひら.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1202690:開墾:かいこん",
+      "form": "開墾",
+      "kana": "かいこん",
+      "cue": "cultivating new land; clearing",
+      "ids": [
+        1202690
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 44361,
+        "shiberu": 10617,
+        "tubelex": 27951,
+        "wordfreq": 45882
+      },
+      "alternatives_by_kanji": {
+        "開": [
+          "1202760/開始/かいし",
+          "1440600/展開/てんかい",
+          "1202830/開拓/かいたく"
+        ],
+        "墾": [
+          "1877640/墾田/こんでん",
+          "1527460/未墾/みこん",
+          "1202700/開墾地/かいこんち"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

@@ -1,0 +1,867 @@
+{
+  "character": "奔",
+  "grade": 7,
+  "meanings": [
+    "run",
+    "bustle"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 37
+    }
+  ],
+  "components": [
+    "ノ",
+    "一",
+    "十",
+    "大",
+    "廾"
+  ],
+  "on": [
+    "ホン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はし.る",
+      "stem": "はし",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "奔",
+    "heading": "奔",
+    "readings": [
+      "ホン"
+    ],
+    "examples_by_reading": [
+      [
+        "奔走",
+        "奔放",
+        "出奔"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "奔",
+      "reading": "ホン",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ホン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 17,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1522100/奔走/ほんそう",
+        "1522120/奔放/ほんぽう",
+        "1340340/出奔/しゅっぽん",
+        "1522140/奔流/ほんりゅう",
+        "1237650/狂奔/きょうほん",
+        "1522110/奔馬/ほんば",
+        "1448200/東奔西走/とうほんせいそう",
+        "1689510/奔命/ほんめい",
+        "1627410/奔騰/ほんとう",
+        "2031180/自由奔放/じゆうほんぽう"
+      ]
+    },
+    {
+      "reading": "はしる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1402540/奔る/はしる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1522100/奔走/ほんそう",
+    "1522120/奔放/ほんぽう",
+    "1340340/出奔/しゅっぽん",
+    "1522140/奔流/ほんりゅう",
+    "1237650/狂奔/きょうほん",
+    "1522110/奔馬/ほんば",
+    "1448200/東奔西走/とうほんせいそう",
+    "1689510/奔命/ほんめい",
+    "1627410/奔騰/ほんとう",
+    "2031180/自由奔放/じゆうほんぽう",
+    "1689500/奔出/ほんしゅつ",
+    "2111040/奔逸/ほんいつ",
+    "1522130/奔放不羈/ほんぽうふき",
+    "2053690/奔放自在/ほんぽうじざい",
+    "1495520/不羈奔放/ふきほんぽう",
+    "2044810/豪快奔放/ごうかいほんぽう",
+    "2049760/大胆奔放/だいたんほんぽう",
+    "1170090/淫奔/いんぽん",
+    "1340350/出奔者/しゅっぽんしゃ",
+    "1402540/奔る/はしる"
+  ],
+  "candidates": {
+    "1522100/奔走/ほんそう": {
+      "id": 1522100,
+      "form": "奔走",
+      "kana": "ほんそう",
+      "gloss": "running about",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9765,
+        23941,
+        24154,
+        15408
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "走": 2
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1522120/奔放/ほんぽう": {
+      "id": 1522120,
+      "form": "奔放",
+      "kana": "ほんぽう",
+      "gloss": "wild",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12422,
+        27177,
+        23842,
+        16468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "放": 3
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1340340/出奔/しゅっぽん": {
+      "id": 1340340,
+      "form": "出奔",
+      "kana": "しゅっぽん",
+      "gloss": "flight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        19497,
+        41831,
+        71447,
+        36114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ぽん",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ホン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1522140/奔流/ほんりゅう": {
+      "id": 1522140,
+      "form": "奔流",
+      "kana": "ほんりゅう",
+      "gloss": "torrent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35687,
+        61110,
+        63618,
+        14599
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237650/狂奔/きょうほん": {
+      "id": 1237650,
+      "form": "狂奔",
+      "kana": "きょうほん",
+      "gloss": "rushing around",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        40483,
+        78424,
+        85597,
+        75190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "狂": 7
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522110/奔馬/ほんば": {
+      "id": 1522110,
+      "form": "奔馬",
+      "kana": "ほんば",
+      "gloss": "runaway horse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        126439,
+        114389
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "馬": 2
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1448200/東奔西走/とうほんせいそう": {
+      "id": 1448200,
+      "form": "東奔西走",
+      "kana": "とうほんせいそう",
+      "gloss": "busying oneself about (something)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        88816,
+        64353
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "走": 2,
+        "東": 2,
+        "西": 2
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1689510/奔命/ほんめい": {
+      "id": 1689510,
+      "form": "奔命",
+      "kana": "ほんめい",
+      "gloss": "wearing oneself out with work",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        173409
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "命": 3
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1627410/奔騰/ほんとう": {
+      "id": 1627410,
+      "form": "奔騰",
+      "kana": "ほんとう",
+      "gloss": "soar (e.g. in price)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        124984
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "騰": 7
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2031180/自由奔放/じゆうほんぽう": {
+      "id": 2031180,
+      "form": "自由奔放",
+      "kana": "じゆうほんぽう",
+      "gloss": "free and uncontrolled",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37194
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "由": 3,
+        "放": 3
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1689500/奔出/ほんしゅつ": {
+      "id": 1689500,
+      "form": "奔出",
+      "kana": "ほんしゅつ",
+      "gloss": "gushing out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        125570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2111040/奔逸/ほんいつ": {
+      "id": 2111040,
+      "form": "奔逸",
+      "kana": "ほんいつ",
+      "gloss": "running quickly",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "逸": 7
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522130/奔放不羈/ほんぽうふき": {
+      "id": 1522130,
+      "form": "奔放不羈",
+      "kana": "ほんぽうふき",
+      "gloss": "free-spirited and uninhibited",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        261831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "放": 3
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2053690/奔放自在/ほんぽうじざい": {
+      "id": 2053690,
+      "form": "奔放自在",
+      "kana": "ほんぽうじざい",
+      "gloss": "free and uncontrolled",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "在": 5,
+        "放": 3
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1495520/不羈奔放/ふきほんぽう": {
+      "id": 1495520,
+      "form": "不羈奔放",
+      "kana": "ふきほんぽう",
+      "gloss": "free-spirited and uninhibited",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        285742
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "放": 3
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2044810/豪快奔放/ごうかいほんぽう": {
+      "id": 2044810,
+      "form": "豪快奔放",
+      "kana": "ごうかいほんぽう",
+      "gloss": "big-hearted and free-spirited",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "快": 5,
+        "豪": 7,
+        "放": 3
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2049760/大胆奔放/だいたんほんぽう": {
+      "id": 2049760,
+      "form": "大胆奔放",
+      "kana": "だいたんほんぽう",
+      "gloss": "bold and unrestrained",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "胆": 7,
+        "放": 3,
+        "大": 1
+      },
+      "matched": {
+        "ホン": {
+          "actual": "ほん",
+          "dictionary": [
+            "ホン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1170090/淫奔/いんぽん": {
+      "id": 1170090,
+      "form": "淫奔",
+      "kana": "いんぽん",
+      "gloss": "lewdness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        189078,
+        114313
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "淫": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1340350/出奔者/しゅっぽんしゃ": {
+      "id": 1340350,
+      "form": "出奔者",
+      "kana": "しゅっぽんしゃ",
+      "gloss": "runaway",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1,
+        "者": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1402540/奔る/はしる": {
+      "id": 1402540,
+      "form": "奔る",
+      "kana": "はしる",
+      "gloss": "to run",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        19168,
+        68915,
+        null,
+        31923
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はしる": {
+          "actual": "はし",
+          "dictionary": [
+            "はし.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1402540:奔る:はしる",
+      "form": "奔る",
+      "kana": "はしる",
+      "cue": "to run",
+      "ids": [
+        1402540
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 31923,
+        "shiberu": 19168,
+        "tubelex": 68915
+      },
+      "alternatives_by_kanji": {
+        "奔": [
+          "1522100/奔走/ほんそう",
+          "1522120/奔放/ほんぽう",
+          "1340340/出奔/しゅっぽん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

@@ -1,0 +1,660 @@
+{
+  "character": "搭",
+  "grade": 7,
+  "meanings": [
+    "board",
+    "load (a vehicle)",
+    "ride"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "口",
+    "个",
+    "扎",
+    "艾",
+    "一"
+  ],
+  "on": [
+    "トウ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "搭",
+    "heading": "搭",
+    "readings": [
+      "トウ"
+    ],
+    "examples_by_reading": [
+      [
+        "搭載",
+        "搭乗",
+        "搭乗券"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "搭",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1447390/搭載/とうさい",
+        "1447400/搭乗/とうじょう",
+        "1447420/搭乗券/とうじょうけん",
+        "1943900/搭乗者/とうじょうしゃ",
+        "1637370/搭乗員/とうじょういん",
+        "2786690/搭乗口/とうじょうぐち",
+        "2152600/搭乗手続き/とうじょうてつづき",
+        "2864213/標準搭載/ひょうじゅんとうさい",
+        "1447410/搭乗案内/とうじょうあんない",
+        "1744870/搭乗橋/とうじょうきょう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1447390/搭載/とうさい",
+    "1447400/搭乗/とうじょう",
+    "1447420/搭乗券/とうじょうけん",
+    "1943900/搭乗者/とうじょうしゃ",
+    "1637370/搭乗員/とうじょういん",
+    "2786690/搭乗口/とうじょうぐち",
+    "2152600/搭乗手続き/とうじょうてつづき",
+    "2864213/標準搭載/ひょうじゅんとうさい",
+    "1447410/搭乗案内/とうじょうあんない",
+    "1744870/搭乗橋/とうじょうきょう",
+    "2151340/搭乗手続きカウンター/とうじょうてつづきカウンター",
+    "1447400/搭乘/とうじょう",
+    "2837814/搭乗ブリッジ/とうじょうブリッジ",
+    "2818600/搭乗率/とうじょうりつ",
+    "2754270/搭子/ターツ"
+  ],
+  "candidates": {
+    "1447390/搭載/とうさい": {
+      "id": 1447390,
+      "form": "搭載",
+      "kana": "とうさい",
+      "gloss": "loading (on a ship)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11124,
+        1639,
+        2067,
+        12426
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "載": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1447400/搭乗/とうじょう": {
+      "id": 1447400,
+      "form": "搭乗",
+      "kana": "とうじょう",
+      "gloss": "embarkation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3586,
+        7245,
+        8743,
+        21551
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1447420/搭乗券/とうじょうけん": {
+      "id": 1447420,
+      "form": "搭乗券",
+      "kana": "とうじょうけん",
+      "gloss": "boarding pass",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        103343
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3,
+        "券": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1943900/搭乗者/とうじょうしゃ": {
+      "id": 1943900,
+      "form": "搭乗者",
+      "kana": "とうじょうしゃ",
+      "gloss": "passenger (on a ship or aircraft)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        52098
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3,
+        "者": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1637370/搭乗員/とうじょういん": {
+      "id": 1637370,
+      "form": "搭乗員",
+      "kana": "とうじょういん",
+      "gloss": "crew member",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60931
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3,
+        "員": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2786690/搭乗口/とうじょうぐち": {
+      "id": 2786690,
+      "form": "搭乗口",
+      "kana": "とうじょうぐち",
+      "gloss": "boarding gate (airport)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65052
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1,
+        "乗": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2152600/搭乗手続き/とうじょうてつづき": {
+      "id": 2152600,
+      "form": "搭乗手続き",
+      "kana": "とうじょうてつづき",
+      "gloss": "boarding procedures",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75021
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3,
+        "手": 1,
+        "続": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864213/標準搭載/ひょうじゅんとうさい": {
+      "id": 2864213,
+      "form": "標準搭載",
+      "kana": "ひょうじゅんとうさい",
+      "gloss": "standard feature",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        122096
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "準": 5,
+        "載": 7,
+        "標": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1447410/搭乗案内/とうじょうあんない": {
+      "id": 1447410,
+      "form": "搭乗案内",
+      "kana": "とうじょうあんない",
+      "gloss": "boarding announcement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        177085
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2,
+        "乗": 3,
+        "案": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1744870/搭乗橋/とうじょうきょう": {
+      "id": 1744870,
+      "form": "搭乗橋",
+      "kana": "とうじょうきょう",
+      "gloss": "gangway",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        233301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3,
+        "橋": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2151340/搭乗手続きカウンター/とうじょうてつづきカウンター": {
+      "id": 2151340,
+      "form": "搭乗手続きカウンター",
+      "kana": "とうじょうてつづきカウンター",
+      "gloss": "check-in counter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3,
+        "手": 1,
+        "続": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1447400/搭乘/とうじょう": {
+      "id": 1447400,
+      "form": "搭乘",
+      "kana": "とうじょう",
+      "gloss": "embarkation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837814/搭乗ブリッジ/とうじょうブリッジ": {
+      "id": 2837814,
+      "form": "搭乗ブリッジ",
+      "kana": "とうじょうブリッジ",
+      "gloss": "gangway",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2818600/搭乗率/とうじょうりつ": {
+      "id": 2818600,
+      "form": "搭乗率",
+      "kana": "とうじょうりつ",
+      "gloss": "(passenger) load factor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "率": 5,
+        "乗": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2754270/搭子/ターツ": {
+      "id": 2754270,
+      "form": "搭子",
+      "kana": "ターツ",
+      "gloss": "chow missing one tile",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1447390:搭載:とうさい",
+      "form": "搭載",
+      "kana": "とうさい",
+      "cue": "loading (on a ship); equipping (an aircraft, car, etc.) with",
+      "ids": [
+        1447390
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 12426,
+        "shiberu": 11124,
+        "tubelex": 1639,
+        "wordfreq": 2067
+      },
+      "alternatives_by_kanji": {
+        "載": [
+          "1250610/掲載/けいさい",
+          "1223230/記載/きさい",
+          "1383040/積載/せきさい"
+        ],
+        "搭": [
+          "1447400/搭乗/とうじょう",
+          "1447420/搭乗券/とうじょうけん",
+          "1943900/搭乗者/とうじょうしゃ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

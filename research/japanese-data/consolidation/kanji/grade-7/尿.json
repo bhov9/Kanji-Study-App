@@ -1,0 +1,1417 @@
+{
+  "character": "尿",
+  "grade": 7,
+  "meanings": [
+    "urine"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 44
+    }
+  ],
+  "components": [
+    "水",
+    "尸"
+  ],
+  "on": [
+    "ニョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ゆばり",
+      "stem": "ゆばり",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "いばり",
+      "stem": "いばり",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "しと",
+      "stem": "しと",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "尿",
+    "heading": "尿",
+    "readings": [
+      "ニョウ"
+    ],
+    "examples_by_reading": [
+      [
+        "尿意",
+        "尿素",
+        "夜尿症"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "尿",
+      "reading": "ニョウ",
+      "source": "table_22_ni.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ニョウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 85,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1467070/尿素/にょうそ",
+        "1828380/尿意/にょうい",
+        "1537060/夜尿症/やにょうしょう",
+        "2643270/糖尿/とうにょう",
+        "1472460/排尿/はいにょう",
+        "1467080/尿道/にょうどう",
+        "1549640/利尿/りにょう",
+        "1516820/放尿/ほうにょう",
+        "1504940/糞尿/ふんにょう",
+        "1669900/血尿/けつにょう"
+      ]
+    },
+    {
+      "reading": "ゆばり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2872471/尿/ゆばり",
+        "2558670/尿袋/ゆばりぶくろ"
+      ]
+    },
+    {
+      "reading": "いばり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2872471/尿/いばり",
+        "2558670/尿袋/いばりぶくろ"
+      ]
+    },
+    {
+      "reading": "しと",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2872472/尿/しと"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1467070/尿素/にょうそ",
+    "1828380/尿意/にょうい",
+    "1537060/夜尿症/やにょうしょう",
+    "2643270/糖尿/とうにょう",
+    "1472460/排尿/はいにょう",
+    "1467080/尿道/にょうどう",
+    "1549640/利尿/りにょう",
+    "1516820/放尿/ほうにょう",
+    "1504940/糞尿/ふんにょう",
+    "1669900/血尿/けつにょう",
+    "2668120/泌尿/ひにょう",
+    "2586670/採尿/さいにょう",
+    "1566370/屎尿/しにょう",
+    "1258020/検尿/けんにょう",
+    "2668120/泌尿/ひつにょう",
+    "1602070/泌尿器/ひにょうき",
+    "1828390/尿路/にょうろ",
+    "1467060/尿酸/にょうさん",
+    "1626880/頻尿/ひんにょう",
+    "1467050/尿管/にょうかん",
+    "2872480/尿量/にょうりょう",
+    "2532170/尿中/にょうちゅう",
+    "2081400/残尿/ざんにょう",
+    "2866353/導尿/どうにょう",
+    "2866367/尿閉/にょうへい",
+    "2860075/尿石/にょうせき",
+    "2443510/多尿/たにょう",
+    "1643380/尿毒症/にょうどくしょう",
+    "1566370/し尿/しにょう",
+    "2538800/尿糖/にょうとう"
+  ],
+  "candidates": {
+    "1467070/尿素/にょうそ": {
+      "id": 1467070,
+      "form": "尿素",
+      "kana": "にょうそ",
+      "gloss": "urea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15404,
+        42493,
+        130840
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "素": 5
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ニョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1828380/尿意/にょうい": {
+      "id": 1828380,
+      "form": "尿意",
+      "kana": "にょうい",
+      "gloss": "urge to urinate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38931,
+        37490,
+        32734
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ニョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1537060/夜尿症/やにょうしょう": {
+      "id": 1537060,
+      "form": "夜尿症",
+      "kana": "やにょうしょう",
+      "gloss": "bed-wetting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        103620,
+        158326
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "夜": 2,
+        "症": 7
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ニョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2643270/糖尿/とうにょう": {
+      "id": 2643270,
+      "form": "糖尿",
+      "kana": "とうにょう",
+      "gloss": "glycosuria",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8362,
+        6622,
+        9163,
+        68643
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "糖": 6
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472460/排尿/はいにょう": {
+      "id": 1472460,
+      "form": "排尿",
+      "kana": "はいにょう",
+      "gloss": "urination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25984,
+        35224,
+        36201,
+        60601
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "排": 7
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1467080/尿道/にょうどう": {
+      "id": 1467080,
+      "form": "尿道",
+      "kana": "にょうどう",
+      "gloss": "urethra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29981,
+        22590,
+        21653
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1549640/利尿/りにょう": {
+      "id": 1549640,
+      "form": "利尿",
+      "kana": "りにょう",
+      "gloss": "diuresis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        23499,
+        34922,
+        141888
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "利": 4
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1516820/放尿/ほうにょう": {
+      "id": 1516820,
+      "form": "放尿",
+      "kana": "ほうにょう",
+      "gloss": "urination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        23216,
+        36815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "放": 3
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1504940/糞尿/ふんにょう": {
+      "id": 1504940,
+      "form": "糞尿",
+      "kana": "ふんにょう",
+      "gloss": "feces and urine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38312,
+        37951,
+        45465
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1669900/血尿/けつにょう": {
+      "id": 1669900,
+      "form": "血尿",
+      "kana": "けつにょう",
+      "gloss": "bloody urine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42628,
+        51518,
+        89105
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "血": 3
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2668120/泌尿/ひにょう": {
+      "id": 2668120,
+      "form": "泌尿",
+      "kana": "ひにょう",
+      "gloss": "urination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29195,
+        146219,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "泌": 7
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2586670/採尿/さいにょう": {
+      "id": 2586670,
+      "form": "採尿",
+      "kana": "さいにょう",
+      "gloss": "urine sampling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        80922,
+        144615
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "採": 5
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1566370/屎尿/しにょう": {
+      "id": 1566370,
+      "form": "屎尿",
+      "kana": "しにょう",
+      "gloss": "excreta",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        93020,
+        176796
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1258020/検尿/けんにょう": {
+      "id": 1258020,
+      "form": "検尿",
+      "kana": "けんにょう",
+      "gloss": "urinalysis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        93840,
+        109069
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "検": 5
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2668120/泌尿/ひつにょう": {
+      "id": 2668120,
+      "form": "泌尿",
+      "kana": "ひつにょう",
+      "gloss": "urination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29195,
+        146219,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "泌": 7
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1602070/泌尿器/ひにょうき": {
+      "id": 1602070,
+      "form": "泌尿器",
+      "kana": "ひにょうき",
+      "gloss": "urinary organs",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        26398,
+        138678
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4,
+        "泌": 7
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1828390/尿路/にょうろ": {
+      "id": 1828390,
+      "form": "尿路",
+      "kana": "にょうろ",
+      "gloss": "urinary tract",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25936,
+        null,
+        199240
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1467060/尿酸/にょうさん": {
+      "id": 1467060,
+      "form": "尿酸",
+      "kana": "にょうさん",
+      "gloss": "uric acid",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26925,
+        null,
+        161945
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酸": 5
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1626880/頻尿/ひんにょう": {
+      "id": 1626880,
+      "form": "頻尿",
+      "kana": "ひんにょう",
+      "gloss": "pollakiuria",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39286,
+        null,
+        107094
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頻": 7
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1467050/尿管/にょうかん": {
+      "id": 1467050,
+      "form": "尿管",
+      "kana": "にょうかん",
+      "gloss": "urinary duct",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        49441,
+        null,
+        103465
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "管": 4
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872480/尿量/にょうりょう": {
+      "id": 2872480,
+      "form": "尿量",
+      "kana": "にょうりょう",
+      "gloss": "urine volume",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        null,
+        128615
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2532170/尿中/にょうちゅう": {
+      "id": 2532170,
+      "form": "尿中",
+      "kana": "にょうちゅう",
+      "gloss": "in the urine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        null,
+        186682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2081400/残尿/ざんにょう": {
+      "id": 2081400,
+      "form": "残尿",
+      "kana": "ざんにょう",
+      "gloss": "urine remaining in the bladder after urination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        null,
+        125213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "残": 4
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866353/導尿/どうにょう": {
+      "id": 2866353,
+      "form": "導尿",
+      "kana": "どうにょう",
+      "gloss": "urethral catheterization (catheterisation)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        null,
+        189489
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "導": 5
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866367/尿閉/にょうへい": {
+      "id": 2866367,
+      "form": "尿閉",
+      "kana": "にょうへい",
+      "gloss": "urinary retention",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閉": 6
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860075/尿石/にょうせき": {
+      "id": 2860075,
+      "form": "尿石",
+      "kana": "にょうせき",
+      "gloss": "urinary calculus",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2443510/多尿/たにょう": {
+      "id": 2443510,
+      "form": "多尿",
+      "kana": "たにょう",
+      "gloss": "polyuria",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        null,
+        341108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "多": 2
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1643380/尿毒症/にょうどくしょう": {
+      "id": 1643380,
+      "form": "尿毒症",
+      "kana": "にょうどくしょう",
+      "gloss": "uremia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        102646,
+        150285
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "症": 7,
+        "毒": 5
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1566370/し尿/しにょう": {
+      "id": 1566370,
+      "form": "し尿",
+      "kana": "しにょう",
+      "gloss": "excreta",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        105543,
+        211909
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2538800/尿糖/にょうとう": {
+      "id": 2538800,
+      "form": "尿糖",
+      "kana": "にょうとう",
+      "gloss": "urinary sugar",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "糖": 6
+      },
+      "matched": {
+        "ニョウ": {
+          "actual": "にょう",
+          "dictionary": [
+            "ニョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872471/尿/ゆばり": {
+      "id": 2872471,
+      "form": "尿",
+      "kana": "ゆばり",
+      "gloss": "urine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ゆばり": {
+          "actual": "ゆばり",
+          "dictionary": [
+            "ゆばり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2558670/尿袋/ゆばりぶくろ": {
+      "id": 2558670,
+      "form": "尿袋",
+      "kana": "ゆばりぶくろ",
+      "gloss": "urinary bladder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "袋": 7
+      },
+      "matched": {
+        "ゆばり": {
+          "actual": "ゆばり",
+          "dictionary": [
+            "ゆばり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2872471/尿/いばり": {
+      "id": 2872471,
+      "form": "尿",
+      "kana": "いばり",
+      "gloss": "urine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "いばり": {
+          "actual": "いばり",
+          "dictionary": [
+            "いばり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2558670/尿袋/いばりぶくろ": {
+      "id": 2558670,
+      "form": "尿袋",
+      "kana": "いばりぶくろ",
+      "gloss": "urinary bladder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "袋": 7
+      },
+      "matched": {
+        "いばり": {
+          "actual": "いばり",
+          "dictionary": [
+            "いばり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2872472/尿/しと": {
+      "id": 2872472,
+      "form": "尿",
+      "kana": "しと",
+      "gloss": "urine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "しと": {
+          "actual": "しと",
+          "dictionary": [
+            "しと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1449640:糖尿病:とうにょうびょう",
+      "form": "糖尿病",
+      "kana": "とうにょうびょう",
+      "cue": "diabetes; diabetes mellitus",
+      "ids": [
+        1449640
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 43590
+      },
+      "alternatives_by_kanji": {
+        "病": [
+          "1490210/病む/やむ",
+          "1214030/看病/かんびょう",
+          "1320600/疾病/しっぺい"
+        ],
+        "糖": [
+          "1291600/砂糖/さとう",
+          "1449650/糖分/とうぶん",
+          "1380730/製糖/せいとう"
+        ],
+        "尿": [
+          "1467070/尿素/にょうそ",
+          "1828380/尿意/にょうい",
+          "1537060/夜尿症/やにょうしょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

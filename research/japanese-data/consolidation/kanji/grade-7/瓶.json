@@ -1,0 +1,1435 @@
+{
+  "character": "瓶",
+  "grade": 7,
+  "meanings": [
+    "bottle",
+    "vial",
+    "jar",
+    "jug",
+    "vat",
+    "urn"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 98
+    }
+  ],
+  "components": [
+    "瓦",
+    "并",
+    "二",
+    "一",
+    "ノ"
+  ],
+  "on": [
+    "ビン",
+    "ヘイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "かめ",
+      "stem": "かめ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "べ",
+    "ぺ"
+  ],
+  "government": {
+    "kanji": "瓶",
+    "heading": "瓶（甁）",
+    "readings": [
+      "ビン"
+    ],
+    "examples_by_reading": [
+      [
+        "瓶",
+        "瓶詰",
+        "花瓶"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "瓶",
+      "reading": "ビン",
+      "source": "table_27_hi.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ビン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 45,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1491130/瓶詰/びんづめ",
+        "1491120/瓶/びん",
+        "1194870/花瓶/かびん",
+        "1194870/花瓶/はながめ",
+        "1491130/瓶詰め/びんづめ",
+        "1348720/小瓶/こびん",
+        "1586240/空き瓶/あきびん",
+        "2742590/酒瓶/さかびん",
+        "1437990/鉄瓶/てつびん",
+        "1654090/土瓶/どびん"
+      ]
+    },
+    {
+      "reading": "ヘイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1194870/花瓶/かへい",
+        "1954530/瓶子/へいじ",
+        "2742590/酒瓶/しゅへい",
+        "1954530/瓶子/へいし",
+        "2230650/宝瓶宮/ほうへいきゅう",
+        "2849055/大瓶/たいへい",
+        "2845755/瓶/へい",
+        "2507300/瓶子草/へいしそう",
+        "2847754/瓶首効果/へいしゅこうか"
+      ]
+    },
+    {
+      "reading": "かめ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1491110/瓶/かめ",
+        "2847263/瓶覗/かめのぞき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1491130/瓶詰/びんづめ",
+    "1491120/瓶/びん",
+    "1194870/花瓶/かびん",
+    "1491110/瓶/かめ",
+    "1194870/花瓶/はながめ",
+    "1194870/花瓶/かへい",
+    "1491130/瓶詰め/びんづめ",
+    "1348720/小瓶/こびん",
+    "1586240/空き瓶/あきびん",
+    "2742590/酒瓶/さかびん",
+    "1437990/鉄瓶/てつびん",
+    "1654090/土瓶/どびん",
+    "1954530/瓶子/へいじ",
+    "2208110/尿瓶/しびん",
+    "2742590/酒瓶/しゅへい",
+    "2742590/酒瓶/しゅびん",
+    "2742590/酒瓶/さけびん",
+    "1193720/火炎瓶/かえんびん",
+    "2835181/ガラス瓶/ガラスびん",
+    "1524260/魔法瓶/まほうびん",
+    "1163470/一升瓶/いっしょうびん",
+    "1104580/ビール瓶/ビールびん",
+    "1954530/瓶子/へいし",
+    "1796740/薬瓶/くすりびん",
+    "2273390/瓶ビール/びんビール",
+    "1425380/中瓶/ちゅうびん",
+    "1836810/角瓶/かくびん",
+    "1711520/茶瓶/ちゃびん",
+    "2835181/ガラス瓶/ガラスビン",
+    "1796740/薬瓶/やくびん"
+  ],
+  "candidates": {
+    "1491130/瓶詰/びんづめ": {
+      "id": 1491130,
+      "form": "瓶詰",
+      "kana": "びんづめ",
+      "gloss": "bottling",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        61736,
+        82082
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "詰": 7
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ビン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1491120/瓶/びん": {
+      "id": 1491120,
+      "form": "瓶",
+      "kana": "びん",
+      "gloss": "bottle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6244
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ビン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1194870/花瓶/かびん": {
+      "id": 1194870,
+      "form": "花瓶",
+      "kana": "かびん",
+      "gloss": "(flower) vase",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        13695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ビン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1491110/瓶/かめ": {
+      "id": 1491110,
+      "form": "瓶",
+      "kana": "かめ",
+      "gloss": "earthenware pot",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        158747
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かめ": {
+          "actual": "かめ",
+          "dictionary": [
+            "かめ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ビン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1194870/花瓶/はながめ": {
+      "id": 1194870,
+      "form": "花瓶",
+      "kana": "はながめ",
+      "gloss": "(flower) vase",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "ビン": {
+          "actual": "がめ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ビン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1194870/花瓶/かへい": {
+      "id": 1194870,
+      "form": "花瓶",
+      "kana": "かへい",
+      "gloss": "(flower) vase",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ビン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1491130/瓶詰め/びんづめ": {
+      "id": 1491130,
+      "form": "瓶詰め",
+      "kana": "びんづめ",
+      "gloss": "bottling",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22789,
+        22272,
+        43883,
+        51694
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "詰": 7
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1348720/小瓶/こびん": {
+      "id": 1348720,
+      "form": "小瓶",
+      "kana": "こびん",
+      "gloss": "small bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31256,
+        27692,
+        44357,
+        18412
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586240/空き瓶/あきびん": {
+      "id": 1586240,
+      "form": "空き瓶",
+      "kana": "あきびん",
+      "gloss": "empty bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37485,
+        30335,
+        null,
+        40698
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2742590/酒瓶/さかびん": {
+      "id": 2742590,
+      "form": "酒瓶",
+      "kana": "さかびん",
+      "gloss": "sake bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38589,
+        48192,
+        null,
+        21898
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酒": 3
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1437990/鉄瓶/てつびん": {
+      "id": 1437990,
+      "form": "鉄瓶",
+      "kana": "てつびん",
+      "gloss": "iron kettle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44489,
+        77923,
+        78007
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉄": 3
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1654090/土瓶/どびん": {
+      "id": 1654090,
+      "form": "土瓶",
+      "kana": "どびん",
+      "gloss": "earthenware teapot",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        90446,
+        89252
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "土": 1
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1954530/瓶子/へいじ": {
+      "id": 1954530,
+      "form": "瓶子",
+      "kana": "へいじ",
+      "gloss": "earthenware pot (used as a decanter)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        104555,
+        117647
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2208110/尿瓶/しびん": {
+      "id": 2208110,
+      "form": "尿瓶",
+      "kana": "しびん",
+      "gloss": "urine bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        85597,
+        91755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "尿": 7
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2742590/酒瓶/しゅへい": {
+      "id": 2742590,
+      "form": "酒瓶",
+      "kana": "しゅへい",
+      "gloss": "sake bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38589,
+        48192,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "酒": 3
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2742590/酒瓶/しゅびん": {
+      "id": 2742590,
+      "form": "酒瓶",
+      "kana": "しゅびん",
+      "gloss": "sake bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38589,
+        48192,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "酒": 3
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2742590/酒瓶/さけびん": {
+      "id": 2742590,
+      "form": "酒瓶",
+      "kana": "さけびん",
+      "gloss": "sake bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38589,
+        48192,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "酒": 3
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193720/火炎瓶/かえんびん": {
+      "id": 1193720,
+      "form": "火炎瓶",
+      "kana": "かえんびん",
+      "gloss": "Molotov cocktail",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        36648,
+        63667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1,
+        "炎": 7
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835181/ガラス瓶/ガラスびん": {
+      "id": 2835181,
+      "form": "ガラス瓶",
+      "kana": "ガラスびん",
+      "gloss": "glass bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42960,
+        38742
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1524260/魔法瓶/まほうびん": {
+      "id": 1524260,
+      "form": "魔法瓶",
+      "kana": "まほうびん",
+      "gloss": "thermos bottle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        44357,
+        48218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "魔": 7
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1163470/一升瓶/いっしょうびん": {
+      "id": 1163470,
+      "form": "一升瓶",
+      "kana": "いっしょうびん",
+      "gloss": "one-shō bottle (approx. 1.8 litres)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        48867,
+        42315
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "升": 7,
+        "一": 1
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1104580/ビール瓶/ビールびん": {
+      "id": 1104580,
+      "form": "ビール瓶",
+      "kana": "ビールびん",
+      "gloss": "beer bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        49881,
+        49400
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1954530/瓶子/へいし": {
+      "id": 1954530,
+      "form": "瓶子",
+      "kana": "へいし",
+      "gloss": "earthenware pot (used as a decanter)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        104555,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1796740/薬瓶/くすりびん": {
+      "id": 1796740,
+      "form": "薬瓶",
+      "kana": "くすりびん",
+      "gloss": "medicine bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        null,
+        48169
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2273390/瓶ビール/びんビール": {
+      "id": 2273390,
+      "form": "瓶ビール",
+      "kana": "びんビール",
+      "gloss": "bottled beer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        60579,
+        68239
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1425380/中瓶/ちゅうびん": {
+      "id": 1425380,
+      "form": "中瓶",
+      "kana": "ちゅうびん",
+      "gloss": "medium-sized bottle (of beer)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        137886
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1836810/角瓶/かくびん": {
+      "id": 1836810,
+      "form": "角瓶",
+      "kana": "かくびん",
+      "gloss": "rectangular bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        157157
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "角": 2
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1711520/茶瓶/ちゃびん": {
+      "id": 1711520,
+      "form": "茶瓶",
+      "kana": "ちゃびん",
+      "gloss": "teapot",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        167766
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "茶": 2
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835181/ガラス瓶/ガラスビン": {
+      "id": 2835181,
+      "form": "ガラス瓶",
+      "kana": "ガラスビン",
+      "gloss": "glass bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42960,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ビン": {
+          "actual": "ビン",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1796740/薬瓶/やくびん": {
+      "id": 1796740,
+      "form": "薬瓶",
+      "kana": "やくびん",
+      "gloss": "medicine bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {
+        "ビン": {
+          "actual": "びん",
+          "dictionary": [
+            "ビン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2230650/宝瓶宮/ほうへいきゅう": {
+      "id": 2230650,
+      "form": "宝瓶宮",
+      "kana": "ほうへいきゅう",
+      "gloss": "Aquarius (11th zodiacal sign)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        144170
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宝": 6,
+        "宮": 3
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849055/大瓶/たいへい": {
+      "id": 2849055,
+      "form": "大瓶",
+      "kana": "たいへい",
+      "gloss": "large earthenware pot",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845755/瓶/へい": {
+      "id": 2845755,
+      "form": "瓶",
+      "kana": "へい",
+      "gloss": "jar or vase with a long narrow neck",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ビン"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2507300/瓶子草/へいしそう": {
+      "id": 2507300,
+      "form": "瓶子草",
+      "kana": "へいしそう",
+      "gloss": "sarracenia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "子": 1,
+        "草": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2847754/瓶首効果/へいしゅこうか": {
+      "id": 2847754,
+      "form": "瓶首効果",
+      "kana": "へいしゅこうか",
+      "gloss": "bottleneck effect",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "果": 4,
+        "首": 2,
+        "効": 5
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2847263/瓶覗/かめのぞき": {
+      "id": 2847263,
+      "form": "瓶覗",
+      "kana": "かめのぞき",
+      "gloss": "faint indigo blue (traditional Japanese color name)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かめ": {
+          "actual": "かめ",
+          "dictionary": [
+            "かめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1491120:瓶:びん",
+      "form": "瓶",
+      "kana": "びん",
+      "cue": "bottle; jar",
+      "ids": [
+        1491120
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6244,
+        "shiberu": 2452,
+        "tubelex": 3983,
+        "wordfreq": 6453
+      },
+      "alternatives_by_kanji": {
+        "瓶": [
+          "1491130/瓶詰/びんづめ",
+          "1194870/花瓶/かびん",
+          "1194870/花瓶/はながめ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 31
+}

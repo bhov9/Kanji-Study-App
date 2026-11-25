@@ -1,0 +1,811 @@
+{
+  "character": "悼",
+  "grade": 7,
+  "meanings": [
+    "lament",
+    "grieve over"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "十",
+    "日",
+    "忙",
+    "卜"
+  ],
+  "on": [
+    "トウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "いた.む",
+      "stem": "いた",
+      "okurigana": "む"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "悼",
+    "heading": "悼",
+    "readings": [
+      "トウ",
+      "いたむ"
+    ],
+    "examples_by_reading": [
+      [
+        "悼辞",
+        "哀悼",
+        "追悼"
+      ],
+      [
+        "悼む"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔痛む，傷む"
+    ],
+    "representative_index": {
+      "kanji": "悼",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 13,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1432610/追悼/ついとう",
+        "1150350/哀悼/あいとう",
+        "1446990/悼辞/とうじ",
+        "2823720/哀悼の意/あいとうのい",
+        "1432630/追悼式/ついとうしき",
+        "1432620/追悼会/ついとうかい",
+        "2128000/追悼ミサ/ついとうミサ",
+        "2530000/追悼碑/ついとうひ",
+        "2079410/戦没者追悼/せんぼつしゃついとう",
+        "2858700/追悼の辞/ついとうのじ"
+      ]
+    },
+    {
+      "reading": "いたむ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1446980/悼む/いたむ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1432610/追悼/ついとう",
+    "1150350/哀悼/あいとう",
+    "1446980/悼む/いたむ",
+    "1446990/悼辞/とうじ",
+    "2823720/哀悼の意/あいとうのい",
+    "1432630/追悼式/ついとうしき",
+    "1432620/追悼会/ついとうかい",
+    "2128000/追悼ミサ/ついとうミサ",
+    "2530000/追悼碑/ついとうひ",
+    "2079410/戦没者追悼/せんぼつしゃついとう",
+    "2858700/追悼の辞/ついとうのじ",
+    "2529980/追悼施設/ついとうしせつ",
+    "2529960/追悼演説/ついとうえんぜつ",
+    "1390570/戦没者追悼記念日/せんぼつしゃついとうきねんび",
+    "2029810/哀悼痛惜/あいとうつうせき",
+    "1980780/戦没者追悼式/せんぼつしゃついとうしき",
+    "2839268/悼惜/とうせき",
+    "2213240/悼み悲しむ/いたみかなしむ"
+  ],
+  "candidates": {
+    "1432610/追悼/ついとう": {
+      "id": 1432610,
+      "form": "追悼",
+      "kana": "ついとう",
+      "gloss": "mourning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7124,
+        16786,
+        10217,
+        39917
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1150350/哀悼/あいとう": {
+      "id": 1150350,
+      "form": "哀悼",
+      "kana": "あいとう",
+      "gloss": "condolence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        16208,
+        24022,
+        32185,
+        59406
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "哀": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1446980/悼む/いたむ": {
+      "id": 1446980,
+      "form": "悼む",
+      "kana": "いたむ",
+      "gloss": "to grieve over",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15208,
+        36283,
+        42960,
+        21609
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いたむ": {
+          "actual": "いた",
+          "dictionary": [
+            "いた.む"
+          ]
+        }
+      },
+      "official_examples": [
+        "いたむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1446990/悼辞/とうじ": {
+      "id": 1446990,
+      "form": "悼辞",
+      "kana": "とうじ",
+      "gloss": "funeral address",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236626
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辞": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2823720/哀悼の意/あいとうのい": {
+      "id": 2823720,
+      "form": "哀悼の意",
+      "kana": "あいとうのい",
+      "gloss": "one's condolences",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65669
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3,
+        "哀": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1432630/追悼式/ついとうしき": {
+      "id": 1432630,
+      "form": "追悼式",
+      "kana": "ついとうしき",
+      "gloss": "memorial services",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        102989
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "式": 3,
+        "追": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1432620/追悼会/ついとうかい": {
+      "id": 1432620,
+      "form": "追悼会",
+      "kana": "ついとうかい",
+      "gloss": "memorial services",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        156519
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "追": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2128000/追悼ミサ/ついとうミサ": {
+      "id": 2128000,
+      "form": "追悼ミサ",
+      "kana": "ついとうミサ",
+      "gloss": "(Catholic) memorial mass",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        197226
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2530000/追悼碑/ついとうひ": {
+      "id": 2530000,
+      "form": "追悼碑",
+      "kana": "ついとうひ",
+      "gloss": "memorial (to the dead)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        244135
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "碑": 7,
+        "追": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2079410/戦没者追悼/せんぼつしゃついとう": {
+      "id": 2079410,
+      "form": "戦没者追悼",
+      "kana": "せんぼつしゃついとう",
+      "gloss": "war memorial",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        257771
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "没": 7,
+        "追": 3,
+        "者": 3,
+        "戦": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858700/追悼の辞/ついとうのじ": {
+      "id": 2858700,
+      "form": "追悼の辞",
+      "kana": "ついとうのじ",
+      "gloss": "memorial address",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辞": 4,
+        "追": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529980/追悼施設/ついとうしせつ": {
+      "id": 2529980,
+      "form": "追悼施設",
+      "kana": "ついとうしせつ",
+      "gloss": "memorial site",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "設": 5,
+        "施": 7,
+        "追": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529960/追悼演説/ついとうえんぜつ": {
+      "id": 2529960,
+      "form": "追悼演説",
+      "kana": "ついとうえんぜつ",
+      "gloss": "funeral oration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4,
+        "演": 5,
+        "追": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1390570/戦没者追悼記念日/せんぼつしゃついとうきねんび": {
+      "id": 1390570,
+      "form": "戦没者追悼記念日",
+      "kana": "せんぼつしゃついとうきねんび",
+      "gloss": "Memorial Day (US)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1,
+        "戦": 4,
+        "者": 3,
+        "記": 2,
+        "念": 4,
+        "追": 3,
+        "没": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2029810/哀悼痛惜/あいとうつうせき": {
+      "id": 2029810,
+      "form": "哀悼痛惜",
+      "kana": "あいとうつうせき",
+      "gloss": "condolence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "惜": 7,
+        "哀": 7,
+        "痛": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1980780/戦没者追悼式/せんぼつしゃついとうしき": {
+      "id": 1980780,
+      "form": "戦没者追悼式",
+      "kana": "せんぼつしゃついとうしき",
+      "gloss": "memorial service for the war dead",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "戦": 4,
+        "者": 3,
+        "式": 3,
+        "追": 3,
+        "没": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839268/悼惜/とうせき": {
+      "id": 2839268,
+      "form": "悼惜",
+      "kana": "とうせき",
+      "gloss": "mourning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "惜": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2213240/悼み悲しむ/いたみかなしむ": {
+      "id": 2213240,
+      "form": "悼み悲しむ",
+      "kana": "いたみかなしむ",
+      "gloss": "to mourn",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        139593,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悲": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1432610:追悼:ついとう",
+      "form": "追悼",
+      "kana": "ついとう",
+      "cue": "mourning",
+      "ids": [
+        1432610
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 39917,
+        "shiberu": 7124,
+        "tubelex": 16786,
+        "wordfreq": 10217
+      },
+      "alternatives_by_kanji": {
+        "追": [
+          "1432410/追う/おう",
+          "1432560/追跡/ついせき",
+          "1432670/追放/ついほう"
+        ],
+        "悼": [
+          "1150350/哀悼/あいとう",
+          "1446980/悼む/いたむ",
+          "1446990/悼辞/とうじ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

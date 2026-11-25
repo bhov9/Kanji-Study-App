@@ -1,0 +1,1420 @@
+{
+  "character": "街",
+  "grade": 4,
+  "meanings": [
+    "boulevard",
+    "street",
+    "town"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 144
+    },
+    {
+      "type": "nelson_c",
+      "value": 60
+    }
+  ],
+  "components": [
+    "行",
+    "土",
+    "彳"
+  ],
+  "on": [
+    "ガイ",
+    "カイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "まち",
+      "stem": "まち",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "また"
+  ],
+  "government": {
+    "kanji": "街",
+    "heading": "街",
+    "readings": [
+      "ガイ",
+      "カイ",
+      "まち"
+    ],
+    "examples_by_reading": [
+      [
+        "街頭",
+        "市街",
+        "商店街"
+      ],
+      [
+        "街道"
+      ],
+      [
+        "街",
+        "街角"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "",
+      "⇔町"
+    ],
+    "representative_index": {
+      "kanji": "街",
+      "reading": "ガイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 79,
+      "frequent_unflagged_examples": 5,
+      "current_support": false,
+      "candidates": [
+        "1308190/市街/しがい",
+        "1204640/街頭/がいとう",
+        "1347190/商店街/しょうてんがい",
+        "1204570/街/がい",
+        "1204660/街路/がいろ",
+        "1204620/街灯/がいとう",
+        "2748460/街宣/がいせん",
+        "1577340/花街/かがい",
+        "1308210/市街地/しがいち",
+        "1420870/地下街/ちかがい"
+      ]
+    },
+    {
+      "reading": "カイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1204650/街道/かいどう",
+        "1955140/裏街道/うらかいどう",
+        "2046750/出世街道/しゅっせかいどう",
+        "2830911/街道筋/かいどうすじ",
+        "1522300/本街道/ほんかいどう",
+        "2794910/五街道/ごかいどう",
+        "1960730/アッピア街道/アッピアかいどう"
+      ]
+    },
+    {
+      "reading": "まち",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 23,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1204580/街角/まちかど",
+        "1603990/街/まち",
+        "1817930/色街/いろまち",
+        "2014390/街々/まちまち",
+        "1604000/街並み/まちなみ",
+        "1577340/花街/はなまち",
+        "1428760/街外れ/まちはずれ",
+        "1611620/街なか/まちなか",
+        "2237390/街金/まちきん",
+        "1611620/街中/まちなか"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1204650/街道/かいどう",
+    "1308190/市街/しがい",
+    "1204640/街頭/がいとう",
+    "1204580/街角/まちかど",
+    "1603990/街/まち",
+    "1347190/商店街/しょうてんがい",
+    "1204570/街/がい",
+    "1204660/街路/がいろ",
+    "1204620/街灯/がいとう",
+    "1817930/色街/いろまち",
+    "2748460/街宣/がいせん",
+    "1577340/花街/かがい",
+    "2014390/街々/まちまち",
+    "1604000/街並み/まちなみ",
+    "1308210/市街地/しがいち",
+    "1577340/花街/はなまち",
+    "1420870/地下街/ちかがい",
+    "1204590/街区/がいく",
+    "1428760/街外れ/まちはずれ",
+    "1613010/ウォール街/ウォールがい",
+    "1212940/歓楽街/かんらくがい",
+    "1611620/街なか/まちなか",
+    "1955140/裏街道/うらかいどう",
+    "1204600/街娼/がいしょう",
+    "2454330/どや街/どやがい",
+    "1752300/名店街/めいてんがい",
+    "2237390/街金/まちきん",
+    "1334690/十字街/じゅうじがい",
+    "1611620/街中/まちなか",
+    "1334160/住宅街/じゅうたくがい"
+  ],
+  "candidates": {
+    "1204650/街道/かいどう": {
+      "id": 1204650,
+      "form": "街道",
+      "kana": "かいどう",
+      "gloss": "highway (esp. one existing from the Edo period)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2311,
+        6995,
+        11740,
+        10686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1308190/市街/しがい": {
+      "id": 1308190,
+      "form": "市街",
+      "kana": "しがい",
+      "gloss": "urban areas",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        6732,
+        5592,
+        13462,
+        24283
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "市": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1204640/街頭/がいとう": {
+      "id": 1204640,
+      "form": "街頭",
+      "kana": "がいとう",
+      "gloss": "(on the) street",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9070,
+        17837,
+        13090,
+        31526
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頭": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1204580/街角/まちかど": {
+      "id": 1204580,
+      "form": "街角",
+      "kana": "まちかど",
+      "gloss": "street corner",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13630,
+        null,
+        19040,
+        23189
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "角": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [
+        "まち"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1603990/街/まち": {
+      "id": 1603990,
+      "form": "街",
+      "kana": "まち",
+      "gloss": "town",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        1050
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [
+        "まち"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1347190/商店街/しょうてんがい": {
+      "id": 1347190,
+      "form": "商店街",
+      "kana": "しょうてんがい",
+      "gloss": "shopping district",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6519
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2,
+        "商": 3
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1204570/街/がい": {
+      "id": 1204570,
+      "form": "街",
+      "kana": "がい",
+      "gloss": "street",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        8244
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "まち"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1204660/街路/がいろ": {
+      "id": 1204660,
+      "form": "街路",
+      "kana": "がいろ",
+      "gloss": "road",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8288,
+        15812,
+        25040,
+        32120
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204620/街灯/がいとう": {
+      "id": 1204620,
+      "form": "街灯",
+      "kana": "がいとう",
+      "gloss": "street light",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18366,
+        12988,
+        26398,
+        11210
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1817930/色街/いろまち": {
+      "id": 1817930,
+      "form": "色街",
+      "kana": "いろまち",
+      "gloss": "red-light district",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36494,
+        95069,
+        128722,
+        82093
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2748460/街宣/がいせん": {
+      "id": 2748460,
+      "form": "街宣",
+      "kana": "がいせん",
+      "gloss": "carrying out (political) propaganda activity on the streets",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36283,
+        23842,
+        150508
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宣": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1577340/花街/かがい": {
+      "id": 1577340,
+      "form": "花街",
+      "kana": "かがい",
+      "gloss": "red-light district",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39641,
+        53687,
+        59478
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2014390/街々/まちまち": {
+      "id": 2014390,
+      "form": "街々",
+      "kana": "まちまち",
+      "gloss": "streets",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39151,
+        89646,
+        null,
+        83836
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1604000/街並み/まちなみ": {
+      "id": 1604000,
+      "form": "街並み",
+      "kana": "まちなみ",
+      "gloss": "townscape",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13117,
+        null,
+        null,
+        11732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "並": 6
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1308210/市街地/しがいち": {
+      "id": 1308210,
+      "form": "市街地",
+      "kana": "しがいち",
+      "gloss": "town area",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        12695,
+        19090
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2,
+        "市": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1577340/花街/はなまち": {
+      "id": 1577340,
+      "form": "花街",
+      "kana": "はなまち",
+      "gloss": "red-light district",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39641,
+        53687,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1420870/地下街/ちかがい": {
+      "id": 1420870,
+      "form": "地下街",
+      "kana": "ちかがい",
+      "gloss": "underground shopping center",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        28048,
+        48870
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1,
+        "地": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204590/街区/がいく": {
+      "id": 1204590,
+      "form": "街区",
+      "kana": "がいく",
+      "gloss": "block (of land)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        27692,
+        null,
+        56699
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "区": 3
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428760/街外れ/まちはずれ": {
+      "id": 1428760,
+      "form": "街外れ",
+      "kana": "まちはずれ",
+      "gloss": "outskirts (of a town)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30011,
+        null,
+        null,
+        41668
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1613010/ウォール街/ウォールがい": {
+      "id": 1613010,
+      "form": "ウォール街",
+      "kana": "ウォールがい",
+      "gloss": "Wall Street",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        30216,
+        82989
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1212940/歓楽街/かんらくがい": {
+      "id": 1212940,
+      "form": "歓楽街",
+      "kana": "かんらくがい",
+      "gloss": "entertainment district",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        43883,
+        35614
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歓": 7,
+        "楽": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1611620/街なか/まちなか": {
+      "id": 1611620,
+      "form": "街なか",
+      "kana": "まちなか",
+      "gloss": "downtown",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        71447,
+        46424
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1955140/裏街道/うらかいどう": {
+      "id": 1955140,
+      "form": "裏街道",
+      "kana": "うらかいどう",
+      "gloss": "byroad",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        108425,
+        73841
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2,
+        "裏": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204600/街娼/がいしょう": {
+      "id": 1204600,
+      "form": "街娼",
+      "kana": "がいしょう",
+      "gloss": "prostitute",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        105543,
+        101478
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2454330/どや街/どやがい": {
+      "id": 2454330,
+      "form": "どや街",
+      "kana": "どやがい",
+      "gloss": "flophouse area",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1752300/名店街/めいてんがい": {
+      "id": 1752300,
+      "form": "名店街",
+      "kana": "めいてんがい",
+      "gloss": "street of well-known stores",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        106463,
+        180529
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2,
+        "名": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2237390/街金/まちきん": {
+      "id": 2237390,
+      "form": "街金",
+      "kana": "まちきん",
+      "gloss": "loan shark",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        98266
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1334690/十字街/じゅうじがい": {
+      "id": 1334690,
+      "form": "十字街",
+      "kana": "じゅうじがい",
+      "gloss": "crossroads",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        153062,
+        206400
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "字": 1,
+        "十": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1611620/街中/まちなか": {
+      "id": 1611620,
+      "form": "街中",
+      "kana": "まちなか",
+      "gloss": "downtown",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6234
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "まち": {
+          "actual": "まち",
+          "dictionary": [
+            "まち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1334160/住宅街/じゅうたくがい": {
+      "id": 1334160,
+      "form": "住宅街",
+      "kana": "じゅうたくがい",
+      "gloss": "residential area",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11374
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "住": 3,
+        "宅": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2046750/出世街道/しゅっせかいどう": {
+      "id": 2046750,
+      "form": "出世街道",
+      "kana": "しゅっせかいどう",
+      "gloss": "highway to success",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        64488
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1,
+        "世": 3,
+        "道": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830911/街道筋/かいどうすじ": {
+      "id": 2830911,
+      "form": "街道筋",
+      "kana": "かいどうすじ",
+      "gloss": "highway route (Edo period)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        78913
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2,
+        "筋": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522300/本街道/ほんかいどう": {
+      "id": 1522300,
+      "form": "本街道",
+      "kana": "ほんかいどう",
+      "gloss": "main road",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        131738
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2,
+        "本": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2794910/五街道/ごかいどう": {
+      "id": 2794910,
+      "form": "五街道",
+      "kana": "ごかいどう",
+      "gloss": "the Five Highways (radiating from Edo)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        134813
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "五": 1,
+        "道": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1960730/アッピア街道/アッピアかいどう": {
+      "id": 1960730,
+      "form": "アッピア街道",
+      "kana": "アッピアかいどう",
+      "gloss": "Appian Way",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        218583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1603990:街:まち",
+      "form": "街",
+      "kana": "まち",
+      "cue": "town; block",
+      "ids": [
+        1603990
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1050,
+        "shiberu": 795,
+        "tubelex": 765,
+        "wordfreq": 600
+      },
+      "alternatives_by_kanji": {
+        "街": [
+          "1204650/街道/かいどう",
+          "1308190/市街/しがい",
+          "1204640/街頭/がいとう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

@@ -1,0 +1,2015 @@
+{
+  "character": "火",
+  "grade": 1,
+  "meanings": [
+    "fire"
+  ],
+  "strokes": [
+    4
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 86
+    }
+  ],
+  "components": [
+    "火"
+  ],
+  "on": [
+    "カ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ひ",
+      "stem": "ひ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "-び",
+      "stem": "-び",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "ほ-",
+      "stem": "ほ-",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "火",
+    "heading": "火",
+    "readings": [
+      "カ",
+      "ひ",
+      "ほ"
+    ],
+    "examples_by_reading": [
+      [
+        "火災",
+        "灯火",
+        "発火"
+      ],
+      [
+        "火",
+        "火花",
+        "炭火"
+      ],
+      [
+        "火影"
+      ]
+    ],
+    "note_lines": [
+      "⇔灯"
+    ],
+    "representative_index": {
+      "kanji": "火",
+      "reading": "カ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 310,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1193880/火災/かさい",
+        "1477180/発火/はっか",
+        "2850327/灯火/とうか",
+        "2248560/火/か",
+        "1193950/火事/かじ",
+        "1194060/火星/かせい",
+        "1194280/火曜/かよう",
+        "1193910/火山/かざん",
+        "1194300/火力/かりょく",
+        "1504560/噴火/ふんか"
+      ]
+    },
+    {
+      "reading": "ひ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 131,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1193760/火花/ひばな",
+        "1193610/火/ひ",
+        "1193700/火の粉/ひのこ",
+        "1193980/火種/ひだね",
+        "1193630/火の玉/ひのたま",
+        "1194210/火鉢/ひばち",
+        "1193840/火元/ひもと",
+        "1724480/火消し/ひけし",
+        "1194180/火入れ/ひいれ",
+        "1194270/火遊び/ひあそび"
+      ]
+    },
+    {
+      "reading": "ほ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1193710/火影/ほかげ",
+        "1194010/火照る/ほてる",
+        "1193700/火の粉/ほのこ",
+        "1194140/火中/ほなか",
+        "1193620/火の気/ほのけ",
+        "1724590/火照り/ほてり",
+        "1193740/火屋/ほや",
+        "1193790/火気/ほけ",
+        "1194080/火先/ほさき",
+        "2706740/火口/ほくち"
+      ]
+    },
+    {
+      "reading": "び",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 62,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1837240/炭火/すみび",
+        "2850328/灯火/ともしび",
+        "1194580/花火/はなび",
+        "1504680/焚き火/たきび",
+        "1184580/下火/したび",
+        "1224210/鬼火/おにび",
+        "1275860/口火/くちび",
+        "1950080/とろ火/とろび",
+        "1662360/弱火/よわび",
+        "1695550/中火/ちゅうび"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1193880/火災/かさい",
+    "1193760/火花/ひばな",
+    "1477180/発火/はっか",
+    "1837240/炭火/すみび",
+    "1193710/火影/ほかげ",
+    "1193610/火/ひ",
+    "2850327/灯火/とうか",
+    "2850328/灯火/ともしび",
+    "2248560/火/か",
+    "1193950/火事/かじ",
+    "1194580/花火/はなび",
+    "1194060/火星/かせい",
+    "1194280/火曜/かよう",
+    "1193910/火山/かざん",
+    "1194300/火力/かりょく",
+    "1504560/噴火/ふんか",
+    "1194260/火薬/かやく",
+    "1516560/放火/ほうか",
+    "1504680/焚き火/たきび",
+    "1350160/消火/しょうか",
+    "1589790/火炎/かえん",
+    "1194100/火葬/かそう",
+    "1645510/聖火/せいか",
+    "1193700/火の粉/ひのこ",
+    "1338330/出火/しゅっか",
+    "1193780/火器/かき",
+    "1194010/火照る/ほてる",
+    "1390150/戦火/せんか",
+    "1193980/火種/ひだね",
+    "1193630/火の玉/ひのたま"
+  ],
+  "candidates": {
+    "1193880/火災/かさい": {
+      "id": 1193880,
+      "form": "火災",
+      "kana": "かさい",
+      "gloss": "conflagration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2537,
+        6546,
+        4955,
+        13692
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "災": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1193760/火花/ひばな": {
+      "id": 1193760,
+      "form": "火花",
+      "kana": "ひばな",
+      "gloss": "spark",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12373,
+        13182,
+        21173,
+        8284
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ひ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1477180/発火/はっか": {
+      "id": 1477180,
+      "form": "発火",
+      "kana": "はっか",
+      "gloss": "ignition",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        28500,
+        15440,
+        15595,
+        22701
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1837240/炭火/すみび": {
+      "id": 1837240,
+      "form": "炭火",
+      "kana": "すみび",
+      "gloss": "charcoal fire",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26049,
+        18183,
+        27689,
+        39106
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "炭": 3
+      },
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [
+        "ひ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1193710/火影/ほかげ": {
+      "id": 1193710,
+      "form": "火影",
+      "kana": "ほかげ",
+      "gloss": "firelight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43098,
+        54820,
+        78282
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "影": 7
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [
+        "ほ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1193610/火/ひ": {
+      "id": 1193610,
+      "form": "火",
+      "kana": "ひ",
+      "gloss": "fire",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        1293
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ひ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2850327/灯火/とうか": {
+      "id": 2850327,
+      "form": "灯火",
+      "kana": "とうか",
+      "gloss": "light",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        22373
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2850328/灯火/ともしび": {
+      "id": 2850328,
+      "form": "灯火",
+      "kana": "ともしび",
+      "gloss": "light",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        80739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2248560/火/か": {
+      "id": 2248560,
+      "form": "火",
+      "kana": "か",
+      "gloss": "Tuesday",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        177426
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ひ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1193950/火事/かじ": {
+      "id": 1193950,
+      "form": "火事",
+      "kana": "かじ",
+      "gloss": "fire",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1619,
+        6367,
+        7753,
+        6140
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1194580/花火/はなび": {
+      "id": 1194580,
+      "form": "花火",
+      "kana": "はなび",
+      "gloss": "fireworks",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3733,
+        3969,
+        4596,
+        4776
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "花": 1
+      },
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1194060/火星/かせい": {
+      "id": 1194060,
+      "form": "火星",
+      "kana": "かせい",
+      "gloss": "Mars (planet)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2613,
+        6848,
+        6453,
+        26030
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "星": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1194280/火曜/かよう": {
+      "id": 1194280,
+      "form": "火曜",
+      "kana": "かよう",
+      "gloss": "Tuesday",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3251,
+        4377,
+        9614,
+        30698
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "曜": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1193910/火山/かざん": {
+      "id": 1193910,
+      "form": "火山",
+      "kana": "かざん",
+      "gloss": "volcano",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3645,
+        4874,
+        7265,
+        17484
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1194300/火力/かりょく": {
+      "id": 1194300,
+      "form": "火力",
+      "kana": "かりょく",
+      "gloss": "heating power",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23065,
+        2556,
+        6169,
+        12025
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1504560/噴火/ふんか": {
+      "id": 1504560,
+      "form": "噴火",
+      "kana": "ふんか",
+      "gloss": "eruption",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4978,
+        4838,
+        8611,
+        20506
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "噴": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1194260/火薬/かやく": {
+      "id": 1194260,
+      "form": "火薬",
+      "kana": "かやく",
+      "gloss": "gunpowder",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6704,
+        8477,
+        13682,
+        12946
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1516560/放火/ほうか": {
+      "id": 1516560,
+      "form": "放火",
+      "kana": "ほうか",
+      "gloss": "arson",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        6601,
+        16416,
+        9745,
+        19541
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "放": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1504680/焚き火/たきび": {
+      "id": 1504680,
+      "form": "焚き火",
+      "kana": "たきび",
+      "gloss": "open-air fire (e.g. for garden refuse)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15143,
+        5584,
+        28763,
+        21693
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1350160/消火/しょうか": {
+      "id": 1350160,
+      "form": "消火",
+      "kana": "しょうか",
+      "gloss": "extinguishing a fire",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10517,
+        14003,
+        12695,
+        20329
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "消": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589790/火炎/かえん": {
+      "id": 1589790,
+      "form": "火炎",
+      "kana": "かえん",
+      "gloss": "flame",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22887,
+        8961,
+        16272,
+        18987
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "炎": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194100/火葬/かそう": {
+      "id": 1194100,
+      "form": "火葬",
+      "kana": "かそう",
+      "gloss": "cremation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12198,
+        16333,
+        13462,
+        29806
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "葬": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1645510/聖火/せいか": {
+      "id": 1645510,
+      "form": "聖火",
+      "kana": "せいか",
+      "gloss": "sacred fire",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20691,
+        15588,
+        24433,
+        66239
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聖": 6
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193700/火の粉/ひのこ": {
+      "id": 1193700,
+      "form": "火の粉",
+      "kana": "ひのこ",
+      "gloss": "sparks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14796,
+        23941,
+        46874,
+        15015
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "粉": 5
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1338330/出火/しゅっか": {
+      "id": 1338330,
+      "form": "出火",
+      "kana": "しゅっか",
+      "gloss": "outbreak of fire",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12319,
+        35224,
+        28763,
+        41177
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193780/火器/かき": {
+      "id": 1193780,
+      "form": "火器",
+      "kana": "かき",
+      "gloss": "firearms",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16540,
+        21507,
+        27689,
+        36691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194010/火照る/ほてる": {
+      "id": 1194010,
+      "form": "火照る",
+      "kana": "ほてる",
+      "gloss": "to feel hot",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        21291,
+        21732,
+        90446,
+        8018
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "照": 4
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1390150/戦火/せんか": {
+      "id": 1390150,
+      "form": "戦火",
+      "kana": "せんか",
+      "gloss": "wartime fire",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15723,
+        28481,
+        32185,
+        23029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193980/火種/ひだね": {
+      "id": 1193980,
+      "form": "火種",
+      "kana": "ひだね",
+      "gloss": "live coals (for firelighting)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26474,
+        22356,
+        33270,
+        12789
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193630/火の玉/ひのたま": {
+      "id": 1193630,
+      "form": "火の玉",
+      "kana": "ひのたま",
+      "gloss": "fireball",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23115,
+        21007,
+        31791,
+        22427
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "玉": 1
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194210/火鉢/ひばち": {
+      "id": 1194210,
+      "form": "火鉢",
+      "kana": "ひばち",
+      "gloss": "brazier",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19966,
+        17716,
+        53687,
+        44288
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉢": 7
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193840/火元/ひもと": {
+      "id": 1193840,
+      "form": "火元",
+      "kana": "ひもと",
+      "gloss": "origin of a fire",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17552,
+        57577,
+        47810,
+        38271
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1724480/火消し/ひけし": {
+      "id": 1724480,
+      "form": "火消し",
+      "kana": "ひけし",
+      "gloss": "extinguishing a fire",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38777,
+        26144,
+        38431,
+        39882
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "消": 3
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194180/火入れ/ひいれ": {
+      "id": 1194180,
+      "form": "火入れ",
+      "kana": "ひいれ",
+      "gloss": "fire pan",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35734,
+        21370,
+        60579,
+        81622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194270/火遊び/ひあそび": {
+      "id": 1194270,
+      "form": "火遊び",
+      "kana": "ひあそび",
+      "gloss": "playing with fire",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38446,
+        33233,
+        35359,
+        32390
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遊": 3
+      },
+      "matched": {
+        "ひ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ひ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193700/火の粉/ほのこ": {
+      "id": 1193700,
+      "form": "火の粉",
+      "kana": "ほのこ",
+      "gloss": "sparks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14796,
+        23941,
+        46874,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "粉": 5
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194140/火中/ほなか": {
+      "id": 1194140,
+      "form": "火中",
+      "kana": "ほなか",
+      "gloss": "in the fire",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35551,
+        61110,
+        55944,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193620/火の気/ほのけ": {
+      "id": 1193620,
+      "form": "火の気",
+      "kana": "ほのけ",
+      "gloss": "source of fire",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29713,
+        70964,
+        122877,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1724590/火照り/ほてり": {
+      "id": 1724590,
+      "form": "火照り",
+      "kana": "ほてり",
+      "gloss": "a glow",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        80922,
+        25053
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "照": 4
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193740/火屋/ほや": {
+      "id": 1193740,
+      "form": "火屋",
+      "kana": "ほや",
+      "gloss": "lamp chimney",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        211356,
+        151288
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193790/火気/ほけ": {
+      "id": 1193790,
+      "form": "火気",
+      "kana": "ほけ",
+      "gloss": "fire",
+      "senses": [
+        0,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        57069,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194080/火先/ほさき": {
+      "id": 1194080,
+      "form": "火先",
+      "kana": "ほさき",
+      "gloss": "flames",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "先": 1
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2706740/火口/ほくち": {
+      "id": 2706740,
+      "form": "火口",
+      "kana": "ほくち",
+      "gloss": "tinder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        153030
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "ほ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ほ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1184580/下火/したび": {
+      "id": 1184580,
+      "form": "下火",
+      "kana": "したび",
+      "gloss": "dying down (of a fire)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18511,
+        33644,
+        32914,
+        79706
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1224210/鬼火/おにび": {
+      "id": 1224210,
+      "form": "鬼火",
+      "kana": "おにび",
+      "gloss": "will-o'-the-wisp",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19303,
+        29059,
+        66155,
+        40552
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鬼": 7
+      },
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1275860/口火/くちび": {
+      "id": 1275860,
+      "form": "口火",
+      "kana": "くちび",
+      "gloss": "fuse",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18561,
+        47603,
+        58810,
+        71794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1950080/とろ火/とろび": {
+      "id": 1950080,
+      "form": "とろ火",
+      "kana": "とろび",
+      "gloss": "low flame",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34339,
+        47603,
+        116428,
+        86517
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1662360/弱火/よわび": {
+      "id": 1662360,
+      "form": "弱火",
+      "kana": "よわび",
+      "gloss": "low flame (cooking)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        9411,
+        31791,
+        37827
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弱": 2
+      },
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1695550/中火/ちゅうび": {
+      "id": 1695550,
+      "form": "中火",
+      "kana": "ちゅうび",
+      "gloss": "medium flame (cooking)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        9180,
+        47810,
+        58944
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "び": {
+          "actual": "び",
+          "dictionary": [
+            "-び"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "hanabi",
+      "form": "花火",
+      "kana": "はなび",
+      "cue": "Fireworks",
+      "ids": [
+        1194580
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 4776,
+        "shiberu": 3733,
+        "tubelex": 3969,
+        "wordfreq": 4596
+      }
+    },
+    {
+      "wordId": "kazan",
+      "form": "火山",
+      "kana": "かざん",
+      "cue": "Volcano",
+      "ids": [
+        1193910
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 17484,
+        "shiberu": 3645,
+        "tubelex": 4874,
+        "wordfreq": 7265
+      }
+    },
+    {
+      "wordId": "jmdict:1504560:噴火:ふんか",
+      "form": "噴火",
+      "kana": "ふんか",
+      "cue": "eruption; volcanic eruption",
+      "ids": [
+        1504560
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 20506,
+        "shiberu": 4978,
+        "tubelex": 4838,
+        "wordfreq": 8611
+      },
+      "alternatives_by_kanji": {
+        "火": [
+          "1193880/火災/かさい",
+          "1193760/火花/ひばな",
+          "1477180/発火/はっか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1590210:火砕流:かさいりゅう",
+      "form": "火砕流",
+      "kana": "かさいりゅう",
+      "cue": "pyroclastic flow",
+      "ids": [
+        1590210
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 110610,
+        "wordfreq": 37490
+      },
+      "alternatives_by_kanji": {
+        "火": [
+          "1193880/火災/かさい",
+          "1193760/火花/ひばな",
+          "1477180/発火/はっか"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 58
+}

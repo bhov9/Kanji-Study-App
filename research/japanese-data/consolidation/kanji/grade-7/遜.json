@@ -1,0 +1,695 @@
+{
+  "character": "遜",
+  "grade": 7,
+  "meanings": [
+    "humble",
+    "modest"
+  ],
+  "strokes": [
+    13,
+    12,
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 162
+    }
+  ],
+  "components": [
+    "ノ",
+    "込",
+    "子",
+    "糸",
+    "幺",
+    "小"
+  ],
+  "on": [
+    "ソン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "したが.う",
+      "stem": "したが",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "へりくだ.る",
+      "stem": "へりくだ",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "ゆず.る",
+      "stem": "ゆず",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "遜",
+    "heading": "遜［遜］",
+    "readings": [
+      "ソン"
+    ],
+    "examples_by_reading": [
+      [
+        "謙遜",
+        "不遜"
+      ]
+    ],
+    "note_lines": [
+      "［遜］＝許容字体，",
+      "＊［（付）第２の１参照］"
+    ],
+    "representative_index": {
+      "kanji": "遜",
+      "reading": "ソン",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1260240/謙遜/けんそん",
+        "1493730/不遜/ふそん",
+        "1406870/遜色/そんしょく",
+        "2840116/遜色ない/そんしょくない",
+        "1742070/傲岸不遜/ごうがんふそん",
+        "2239230/遜色のない/そんしょくのない",
+        "1406890/遜色がない/そんしょくがない",
+        "1563970/傲慢不遜/ごうまんふそん",
+        "2840116/遜色無い/そんしょくない",
+        "1406890/遜色が無い/そんしょくがない"
+      ]
+    },
+    {
+      "reading": "したがう",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "へりくだる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1603220/遜る/へりくだる"
+      ]
+    },
+    {
+      "reading": "ゆずる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1260240/謙遜/けんそん",
+    "1493730/不遜/ふそん",
+    "1406870/遜色/そんしょく",
+    "2840116/遜色ない/そんしょくない",
+    "1742070/傲岸不遜/ごうがんふそん",
+    "2239230/遜色のない/そんしょくのない",
+    "1406890/遜色がない/そんしょくがない",
+    "1563970/傲慢不遜/ごうまんふそん",
+    "2840116/遜色無い/そんしょくない",
+    "1406890/遜色が無い/そんしょくがない",
+    "1406880/遜色がある/そんしょくがある",
+    "2049460/尊大不遜/そんだいふそん",
+    "1603220/遜る/へりくだる",
+    "1260250/謙遜語/けんそんご"
+  ],
+  "candidates": {
+    "1260240/謙遜/けんそん": {
+      "id": 1260240,
+      "form": "謙遜",
+      "kana": "けんそん",
+      "gloss": "modesty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        12891,
+        15846,
+        27689,
+        7352
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "謙": 7
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1493730/不遜/ふそん": {
+      "id": 1493730,
+      "form": "不遜",
+      "kana": "ふそん",
+      "gloss": "haughty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19713,
+        42221,
+        44357,
+        15980
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1406870/遜色/そんしょく": {
+      "id": 1406870,
+      "form": "遜色",
+      "kana": "そんしょく",
+      "gloss": "inferiority",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23553,
+        19709,
+        34111,
+        60876
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840116/遜色ない/そんしょくない": {
+      "id": 2840116,
+      "form": "遜色ない",
+      "kana": "そんしょくない",
+      "gloss": "standing comparison with",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        27701
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1742070/傲岸不遜/ごうがんふそん": {
+      "id": 1742070,
+      "form": "傲岸不遜",
+      "kana": "ごうがんふそん",
+      "gloss": "haughty arrogance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50601
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岸": 3,
+        "不": 4,
+        "傲": 7
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2239230/遜色のない/そんしょくのない": {
+      "id": 2239230,
+      "form": "遜色のない",
+      "kana": "そんしょくのない",
+      "gloss": "standing comparison with",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-f"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        57845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1406890/遜色がない/そんしょくがない": {
+      "id": 1406890,
+      "form": "遜色がない",
+      "kana": "そんしょくがない",
+      "gloss": "standing comparison with",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        66096
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1563970/傲慢不遜/ごうまんふそん": {
+      "id": 1563970,
+      "form": "傲慢不遜",
+      "kana": "ごうまんふそん",
+      "gloss": "haughty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        122649
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慢": 7,
+        "不": 4,
+        "傲": 7
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840116/遜色無い/そんしょくない": {
+      "id": 2840116,
+      "form": "遜色無い",
+      "kana": "そんしょくない",
+      "gloss": "standing comparison with",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        145201
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "色": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1406890/遜色が無い/そんしょくがない": {
+      "id": 1406890,
+      "form": "遜色が無い",
+      "kana": "そんしょくがない",
+      "gloss": "standing comparison with",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        170739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "色": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1406880/遜色がある/そんしょくがある": {
+      "id": 1406880,
+      "form": "遜色がある",
+      "kana": "そんしょくがある",
+      "gloss": "inferior to",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        223986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2049460/尊大不遜/そんだいふそん": {
+      "id": 2049460,
+      "form": "尊大不遜",
+      "kana": "そんだいふそん",
+      "gloss": "arrogant and presumptuous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "尊": 6,
+        "大": 1
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1603220/遜る/へりくだる": {
+      "id": 1603220,
+      "form": "遜る",
+      "kana": "へりくだる",
+      "gloss": "to deprecate oneself and praise the listener",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        25407,
+        null,
+        87331
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "へりくだる": {
+          "actual": "へりくだ",
+          "dictionary": [
+            "へりくだ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1260250/謙遜語/けんそんご": {
+      "id": 1260250,
+      "form": "謙遜語",
+      "kana": "けんそんご",
+      "gloss": "humble language",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "語": 2,
+        "謙": 7
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1260240:謙遜:けんそん",
+      "form": "謙遜",
+      "kana": "けんそん",
+      "cue": "modesty; humility",
+      "ids": [
+        1260240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7352,
+        "shiberu": 12891,
+        "tubelex": 15846,
+        "wordfreq": 27689
+      },
+      "alternatives_by_kanji": {
+        "謙": [
+          "1260190/謙虚/けんきょ",
+          "1260210/謙譲/けんじょう",
+          "1260200/謙称/けんしょう"
+        ],
+        "遜": [
+          "1493730/不遜/ふそん",
+          "1406870/遜色/そんしょく",
+          "2840116/遜色ない/そんしょくない"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

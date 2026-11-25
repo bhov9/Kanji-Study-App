@@ -1,0 +1,1290 @@
+{
+  "character": "推",
+  "grade": 6,
+  "meanings": [
+    "conjecture",
+    "infer",
+    "guess",
+    "suppose",
+    "support",
+    "push (for)"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "扎",
+    "隹"
+  ],
+  "on": [
+    "スイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "お.す",
+      "stem": "お",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "推",
+    "heading": "推",
+    "readings": [
+      "スイ",
+      "おす"
+    ],
+    "examples_by_reading": [
+      [
+        "推進",
+        "推薦"
+      ],
+      [
+        "推す"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔押す"
+    ],
+    "representative_index": {
+      "kanji": "推",
+      "reading": "スイ",
+      "source": "table_13_su.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "スイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 84,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1371140/推進/すいしん",
+        "1371170/推薦/すいせん",
+        "1371200/推測/すいそく",
+        "1371220/推理/すいり",
+        "1371080/推移/すいい",
+        "1371210/推定/すいてい",
+        "1371120/推奨/すいしょう",
+        "1371110/推察/すいさつ",
+        "1371240/推論/すいろん",
+        "1371100/推計/すいけい"
+      ]
+    },
+    {
+      "reading": "おす",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1371070/推す/おす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1371140/推進/すいしん",
+    "1371170/推薦/すいせん",
+    "1371070/推す/おす",
+    "1371200/推測/すいそく",
+    "1371220/推理/すいり",
+    "1371080/推移/すいい",
+    "1371210/推定/すいてい",
+    "1371120/推奨/すいしょう",
+    "1371110/推察/すいさつ",
+    "1371240/推論/すいろん",
+    "1371100/推計/すいけい",
+    "1556120/類推/るいすい",
+    "1371090/推挙/すいきょ",
+    "1323480/邪推/じゃすい",
+    "1371230/推量/すいりょう",
+    "1619470/推戴/すいたい",
+    "1655240/推力/すいりょく",
+    "1371250/推敲/すいこう",
+    "2439510/推認/すいにん",
+    "1713040/推算/すいさん",
+    "1713010/推断/すいだん",
+    "1712950/推知/すいち",
+    "2846011/推拿/すいな",
+    "1712990/推賞/すいしょう",
+    "1712970/推服/すいふく",
+    "1713000/推理小説/すいりしょうせつ",
+    "1713020/推進力/すいしんりょく",
+    "2828564/死亡推定時刻/しぼうすいていじこく",
+    "2446900/推理力/すいりりょく",
+    "1371190/推薦状/すいせんじょう"
+  ],
+  "candidates": {
+    "1371140/推進/すいしん": {
+      "id": 1371140,
+      "form": "推進",
+      "kana": "すいしん",
+      "gloss": "propulsion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7238,
+        2933,
+        2809,
+        18459
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "進": 3
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "スイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1371170/推薦/すいせん": {
+      "id": 1371170,
+      "form": "推薦",
+      "kana": "すいせん",
+      "gloss": "recommendation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4212,
+        6701,
+        6076,
+        6595
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薦": 7
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "スイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1371070/推す/おす": {
+      "id": 1371070,
+      "form": "推す",
+      "kana": "おす",
+      "gloss": "to recommend",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5863,
+        null,
+        22590,
+        8107
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おす": {
+          "actual": "お",
+          "dictionary": [
+            "お.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "おす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1371200/推測/すいそく": {
+      "id": 1371200,
+      "form": "推測",
+      "kana": "すいそく",
+      "gloss": "guess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3065,
+        5294,
+        4345,
+        3642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "測": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1371220/推理/すいり": {
+      "id": 1371220,
+      "form": "推理",
+      "kana": "すいり",
+      "gloss": "reasoning",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2587,
+        11061,
+        7509,
+        6484
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "理": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371080/推移/すいい": {
+      "id": 1371080,
+      "form": "推移",
+      "kana": "すいい",
+      "gloss": "transition",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4051,
+        3790,
+        7753,
+        24991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "移": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371210/推定/すいてい": {
+      "id": 1371210,
+      "form": "推定",
+      "kana": "すいてい",
+      "gloss": "presumption",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4827,
+        6652,
+        6263,
+        13797
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371120/推奨/すいしょう": {
+      "id": 1371120,
+      "form": "推奨",
+      "kana": "すいしょう",
+      "gloss": "recommendation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16717,
+        4732,
+        4415,
+        14157
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奨": 7
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1371110/推察/すいさつ": {
+      "id": 1371110,
+      "form": "推察",
+      "kana": "すいさつ",
+      "gloss": "guess",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10148,
+        17837,
+        21741,
+        13178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371240/推論/すいろん": {
+      "id": 1371240,
+      "form": "推論",
+      "kana": "すいろん",
+      "gloss": "inference",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        11810,
+        18888,
+        20096,
+        18773
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371100/推計/すいけい": {
+      "id": 1371100,
+      "form": "推計",
+      "kana": "すいけい",
+      "gloss": "estimate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27090,
+        18888,
+        17751,
+        101029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "計": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1556120/類推/るいすい": {
+      "id": 1556120,
+      "form": "類推",
+      "kana": "るいすい",
+      "gloss": "analogy",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15251,
+        33040,
+        38864,
+        41779
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "類": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371090/推挙/すいきょ": {
+      "id": 1371090,
+      "form": "推挙",
+      "kana": "すいきょ",
+      "gloss": "recommendation (of a person for a position)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15872,
+        63933,
+        46874,
+        40815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "挙": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1323480/邪推/じゃすい": {
+      "id": 1323480,
+      "form": "邪推",
+      "kana": "じゃすい",
+      "gloss": "distrust",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        35302,
+        34308,
+        52075,
+        22093
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "邪": 7
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371230/推量/すいりょう": {
+      "id": 1371230,
+      "form": "推量",
+      "kana": "すいりょう",
+      "gloss": "guess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27639,
+        39286,
+        60579,
+        63663
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1619470/推戴/すいたい": {
+      "id": 1619470,
+      "form": "推戴",
+      "kana": "すいたい",
+      "gloss": "(being) presided over by",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31768,
+        95069,
+        148871,
+        148100
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戴": 7
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655240/推力/すいりょく": {
+      "id": 1655240,
+      "form": "推力",
+      "kana": "すいりょく",
+      "gloss": "thrust",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        23344,
+        29477,
+        48126
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371250/推敲/すいこう": {
+      "id": 1371250,
+      "form": "推敲",
+      "kana": "すいこう",
+      "gloss": "polishing (a piece of writing)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        40664,
+        52718
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2439510/推認/すいにん": {
+      "id": 2439510,
+      "form": "推認",
+      "kana": "すいにん",
+      "gloss": "presumption",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        90446,
+        194494
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "認": 6
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713040/推算/すいさん": {
+      "id": 1713040,
+      "form": "推算",
+      "kana": "すいさん",
+      "gloss": "estimation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        131059,
+        137293
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "算": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713010/推断/すいだん": {
+      "id": 1713010,
+      "form": "推断",
+      "kana": "すいだん",
+      "gloss": "inference",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        207210,
+        142101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "断": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1712950/推知/すいち": {
+      "id": 1712950,
+      "form": "推知",
+      "kana": "すいち",
+      "gloss": "a conjecture",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        173990,
+        172966
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "知": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846011/推拿/すいな": {
+      "id": 2846011,
+      "form": "推拿",
+      "kana": "すいな",
+      "gloss": "tui na (Chinese massage)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        148871,
+        275061
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1712990/推賞/すいしょう": {
+      "id": 1712990,
+      "form": "推賞",
+      "kana": "すいしょう",
+      "gloss": "admiration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        177732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賞": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1712970/推服/すいふく": {
+      "id": 1712970,
+      "form": "推服",
+      "kana": "すいふく",
+      "gloss": "admiration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        229560
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "服": 3
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713000/推理小説/すいりしょうせつ": {
+      "id": 1713000,
+      "form": "推理小説",
+      "kana": "すいりしょうせつ",
+      "gloss": "mystery novel",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26730
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4,
+        "小": 1,
+        "理": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713020/推進力/すいしんりょく": {
+      "id": 1713020,
+      "form": "推進力",
+      "kana": "すいしんりょく",
+      "gloss": "propulsive power",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "進": 3,
+        "力": 1
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828564/死亡推定時刻/しぼうすいていじこく": {
+      "id": 2828564,
+      "form": "死亡推定時刻",
+      "kana": "しぼうすいていじこく",
+      "gloss": "estimated time of death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        32319
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刻": 6,
+        "時": 2,
+        "死": 3,
+        "亡": 6,
+        "定": 3
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446900/推理力/すいりりょく": {
+      "id": 2446900,
+      "form": "推理力",
+      "kana": "すいりりょく",
+      "gloss": "deductive powers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42120
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1,
+        "理": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371190/推薦状/すいせんじょう": {
+      "id": 1371190,
+      "form": "推薦状",
+      "kana": "すいせんじょう",
+      "gloss": "letter of invitation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5,
+        "薦": 7
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1371140:推進:すいしん",
+      "form": "推進",
+      "kana": "すいしん",
+      "cue": "propulsion; drive",
+      "ids": [
+        1371140
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18459,
+        "shiberu": 7238,
+        "tubelex": 2933,
+        "wordfreq": 2809
+      },
+      "alternatives_by_kanji": {
+        "進": [
+          "1365990/進める/すすめる",
+          "1393350/前進/ぜんしん",
+          "1365960/進み/すすみ"
+        ],
+        "推": [
+          "1371170/推薦/すいせん",
+          "1371070/推す/おす",
+          "1371200/推測/すいそく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1371170:推薦:すいせん",
+      "form": "推薦",
+      "kana": "すいせん",
+      "cue": "recommendation; referral",
+      "ids": [
+        1371170
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6595,
+        "shiberu": 4212,
+        "tubelex": 6701,
+        "wordfreq": 6076
+      },
+      "alternatives_by_kanji": {
+        "推": [
+          "1371140/推進/すいしん",
+          "1371070/推す/おす",
+          "1371200/推測/すいそく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 25
+}

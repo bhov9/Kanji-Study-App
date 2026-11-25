@@ -1,0 +1,749 @@
+{
+  "character": "塀",
+  "grade": 7,
+  "meanings": [
+    "fence",
+    "wall",
+    "(kokuji)"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 32
+    }
+  ],
+  "components": [
+    "｜",
+    "ノ",
+    "一",
+    "土",
+    "二",
+    "ハ",
+    "尸",
+    "廾"
+  ],
+  "on": [
+    "ヘイ",
+    "ベイ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "塀",
+    "heading": "塀（塀）",
+    "readings": [
+      "ヘイ"
+    ],
+    "examples_by_reading": [
+      [
+        "塀",
+        "板塀"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "塀",
+      "reading": "ヘイ",
+      "source": "table_29_he.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヘイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1506870/塀/へい",
+        "2755380/塀越し/へいごし",
+        "2861329/塀の中/へいのなか",
+        "1907380/塀を巡らす/へいをめぐらす"
+      ]
+    },
+    {
+      "reading": "ベイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1481410/板塀/いたべい",
+        "1445560/土塀/どべい",
+        "1382810/石塀/いしべい",
+        "1781470/練り塀/ねりべい",
+        "1781470/練塀/ねりべい",
+        "1622240/ブロック塀/ブロックべい",
+        "1916620/レンガ塀/レンガべい",
+        "2575090/高塀/たかべい",
+        "1736150/船板塀/ふないたべい",
+        "2846723/万年塀/まんねんべい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1506870/塀/へい",
+    "1481410/板塀/いたべい",
+    "1445560/土塀/どべい",
+    "1382810/石塀/いしべい",
+    "2755380/塀越し/へいごし",
+    "1781470/練り塀/ねりべい",
+    "1781470/練塀/ねりべい",
+    "2861329/塀の中/へいのなか",
+    "1622240/ブロック塀/ブロックべい",
+    "1916620/レンガ塀/レンガべい",
+    "2575090/高塀/たかべい",
+    "1736150/船板塀/ふないたべい",
+    "2846723/万年塀/まんねんべい",
+    "1907380/塀を巡らす/へいをめぐらす",
+    "1781470/煉り塀/ねりべい",
+    "1916620/れんが塀/れんがべい",
+    "1916620/煉瓦塀/れんがべい",
+    "2597090/築地塀/ついじべい"
+  ],
+  "candidates": {
+    "1506870/塀/へい": {
+      "id": 1506870,
+      "form": "塀",
+      "kana": "へい",
+      "gloss": "wall",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2568,
+        6866,
+        13462,
+        9990
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1481410/板塀/いたべい": {
+      "id": 1481410,
+      "form": "板塀",
+      "kana": "いたべい",
+      "gloss": "wooden fence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        null,
+        75319
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "板": 3
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1445560/土塀/どべい": {
+      "id": 1445560,
+      "form": "土塀",
+      "kana": "どべい",
+      "gloss": "mud wall",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        34763,
+        110395,
+        75309
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "土": 1
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1382810/石塀/いしべい": {
+      "id": 1382810,
+      "form": "石塀",
+      "kana": "いしべい",
+      "gloss": "stone wall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        null,
+        83009
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2755380/塀越し/へいごし": {
+      "id": 2755380,
+      "form": "塀越し",
+      "kana": "へいごし",
+      "gloss": "over a wall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        null,
+        110048
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1781470/練り塀/ねりべい": {
+      "id": 1781470,
+      "form": "練り塀",
+      "kana": "ねりべい",
+      "gloss": "mud and tile wall topped with tiles",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "練": 3
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1781470/練塀/ねりべい": {
+      "id": 1781470,
+      "form": "練塀",
+      "kana": "ねりべい",
+      "gloss": "mud and tile wall topped with tiles",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        153062,
+        171088
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "練": 3
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2861329/塀の中/へいのなか": {
+      "id": 2861329,
+      "form": "塀の中",
+      "kana": "へいのなか",
+      "gloss": "place surrounded by walls",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        44893
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1622240/ブロック塀/ブロックべい": {
+      "id": 1622240,
+      "form": "ブロック塀",
+      "kana": "ブロックべい",
+      "gloss": "concrete-block wall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        53008
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1916620/レンガ塀/レンガべい": {
+      "id": 1916620,
+      "form": "レンガ塀",
+      "kana": "レンガべい",
+      "gloss": "brick wall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        153548
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2575090/高塀/たかべい": {
+      "id": 2575090,
+      "form": "高塀",
+      "kana": "たかべい",
+      "gloss": "tall fence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        174290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1736150/船板塀/ふないたべい": {
+      "id": 1736150,
+      "form": "船板塀",
+      "kana": "ふないたべい",
+      "gloss": "fence made from disused ship planks",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        270613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "板": 3,
+        "船": 2
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846723/万年塀/まんねんべい": {
+      "id": 2846723,
+      "form": "万年塀",
+      "kana": "まんねんべい",
+      "gloss": "precast concrete fence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        387881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "万": 2,
+        "年": 1
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1907380/塀を巡らす/へいをめぐらす": {
+      "id": 1907380,
+      "form": "塀を巡らす",
+      "kana": "へいをめぐらす",
+      "gloss": "to fence in",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巡": 7
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1781470/煉り塀/ねりべい": {
+      "id": 1781470,
+      "form": "煉り塀",
+      "kana": "ねりべい",
+      "gloss": "mud and tile wall topped with tiles",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1916620/れんが塀/れんがべい": {
+      "id": 1916620,
+      "form": "れんが塀",
+      "kana": "れんがべい",
+      "gloss": "brick wall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1916620/煉瓦塀/れんがべい": {
+      "id": 1916620,
+      "form": "煉瓦塀",
+      "kana": "れんがべい",
+      "gloss": "brick wall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "瓦": 7
+      },
+      "matched": {
+        "ベイ": {
+          "actual": "べい",
+          "dictionary": [
+            "ベイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2597090/築地塀/ついじべい": {
+      "id": 2597090,
+      "form": "築地塀",
+      "kana": "ついじべい",
+      "gloss": "mud wall with a roof",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        145178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "築": 5,
+        "地": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1506870:塀:へい",
+      "form": "塀",
+      "kana": "へい",
+      "cue": "wall",
+      "ids": [
+        1506870
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 9990,
+        "shiberu": 2568,
+        "tubelex": 6866,
+        "wordfreq": 13462
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

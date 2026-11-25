@@ -1,0 +1,1418 @@
+{
+  "character": "学",
+  "grade": 1,
+  "meanings": [
+    "study",
+    "learning",
+    "science"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 39
+    }
+  ],
+  "components": [
+    "子",
+    "尚",
+    "冖"
+  ],
+  "on": [
+    "ガク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "まな.ぶ",
+      "stem": "まな",
+      "okurigana": "ぶ"
+    }
+  ],
+  "nanori": [
+    "たか",
+    "のり"
+  ],
+  "government": {
+    "kanji": "学",
+    "heading": "学（學）",
+    "readings": [
+      "ガク",
+      "まなぶ"
+    ],
+    "examples_by_reading": [
+      [
+        "学習",
+        "科学",
+        "大学"
+      ],
+      [
+        "学ぶ"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "学",
+      "reading": "ガク",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2077,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1413240/大学/だいがく",
+        "1192700/科学/かがく",
+        "1206820/学習/がくしゅう",
+        "1955900/学/がく",
+        "1505190/文学/ぶんがく",
+        "1372980/数学/すうがく",
+        "1423640/中学/ちゅうがく",
+        "1465850/入学/にゅうがく",
+        "1186760/化学/かがく",
+        "1206800/学者/がくしゃ"
+      ]
+    },
+    {
+      "reading": "まなぶ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1206530/学ぶ/まなぶ",
+        "2416970/教うるは学ぶの半ば/おしうるはまなぶのなかば"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1413240/大学/だいがく",
+    "1192700/科学/かがく",
+    "1206530/学ぶ/まなぶ",
+    "1206820/学習/がくしゅう",
+    "1955900/学/がく",
+    "1505190/文学/ぶんがく",
+    "1372980/数学/すうがく",
+    "1423640/中学/ちゅうがく",
+    "1465850/入学/にゅうがく",
+    "1186760/化学/かがく",
+    "1206800/学者/がくしゃ",
+    "1437610/哲学/てつがく",
+    "1207130/学問/がくもん",
+    "1206570/学園/がくえん",
+    "1159810/医学/いがく",
+    "1552740/留学/りゅうがく",
+    "1347850/小学/しょうがく",
+    "1366010/進学/しんがく",
+    "1259440/見学/けんがく",
+    "1206560/学院/がくいん",
+    "1207030/学年/がくねん",
+    "1433090/通学/つうがく",
+    "1278010/工学/こうがく",
+    "1207200/学歴/がくれき",
+    "1207080/学部/がくぶ",
+    "1206870/学術/がくじゅつ",
+    "1554910/力学/りきがく",
+    "1271010/語学/ごがく",
+    "1799060/奨学/しょうがく",
+    "1206700/学業/がくぎょう"
+  ],
+  "candidates": {
+    "1413240/大学/だいがく": {
+      "id": 1413240,
+      "form": "大学",
+      "kana": "だいがく",
+      "gloss": "university",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        227,
+        571,
+        613,
+        1577
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1192700/科学/かがく": {
+      "id": 1192700,
+      "form": "科学",
+      "kana": "かがく",
+      "gloss": "science",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        480,
+        1697,
+        997,
+        6585
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "科": 2
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1206530/学ぶ/まなぶ": {
+      "id": 1206530,
+      "form": "学ぶ",
+      "kana": "まなぶ",
+      "gloss": "to learn",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5b",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1187,
+        907,
+        3000,
+        1727
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まなぶ": {
+          "actual": "まな",
+          "dictionary": [
+            "まな.ぶ"
+          ]
+        }
+      },
+      "official_examples": [
+        "まなぶ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1206820/学習/がくしゅう": {
+      "id": 1206820,
+      "form": "学習",
+      "kana": "がくしゅう",
+      "gloss": "learning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1773,
+        1902,
+        2518,
+        6969
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "習": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1955900/学/がく": {
+      "id": 1955900,
+      "form": "学",
+      "kana": "がく",
+      "gloss": "learning",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        514,
+        1193,
+        1089,
+        8095
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505190/文学/ぶんがく": {
+      "id": 1505190,
+      "form": "文学",
+      "kana": "ぶんがく",
+      "gloss": "literature",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        340,
+        6670,
+        4955,
+        16858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1372980/数学/すうがく": {
+      "id": 1372980,
+      "form": "数学",
+      "kana": "すうがく",
+      "gloss": "mathematics",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        546,
+        4014,
+        3315,
+        6965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1423640/中学/ちゅうがく": {
+      "id": 1423640,
+      "form": "中学",
+      "kana": "ちゅうがく",
+      "gloss": "junior high school",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1545,
+        2543,
+        2863,
+        3108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1465850/入学/にゅうがく": {
+      "id": 1465850,
+      "form": "入学",
+      "kana": "にゅうがく",
+      "gloss": "admission (to a school or university)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1645,
+        4758,
+        3167,
+        4268
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1186760/化学/かがく": {
+      "id": 1186760,
+      "form": "化学",
+      "kana": "かがく",
+      "gloss": "chemistry",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1610,
+        4273,
+        3048,
+        15683
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "化": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1206800/学者/がくしゃ": {
+      "id": 1206800,
+      "form": "学者",
+      "kana": "がくしゃ",
+      "gloss": "scholar",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1636,
+        7814,
+        2809,
+        9736
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1437610/哲学/てつがく": {
+      "id": 1437610,
+      "form": "哲学",
+      "kana": "てつがく",
+      "gloss": "philosophy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1650,
+        4791,
+        4117,
+        15552
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "哲": 7
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1207130/学問/がくもん": {
+      "id": 1207130,
+      "form": "学問",
+      "kana": "がくもん",
+      "gloss": "study",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1294,
+        7339,
+        8169,
+        12141
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1206570/学園/がくえん": {
+      "id": 1206570,
+      "form": "学園",
+      "kana": "がくえん",
+      "gloss": "educational institution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5891,
+        4684,
+        1838,
+        4312
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "園": 2
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1159810/医学/いがく": {
+      "id": 1159810,
+      "form": "医学",
+      "kana": "いがく",
+      "gloss": "medicine",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2315,
+        4047,
+        4117,
+        14098
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "医": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1552740/留学/りゅうがく": {
+      "id": 1552740,
+      "form": "留学",
+      "kana": "りゅうがく",
+      "gloss": "studying abroad",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2932,
+        4001,
+        4516,
+        9481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "留": 5
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1347850/小学/しょうがく": {
+      "id": 1347850,
+      "form": "小学",
+      "kana": "しょうがく",
+      "gloss": "elementary school",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5128,
+        3040,
+        8450,
+        12922
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1366010/進学/しんがく": {
+      "id": 1366010,
+      "form": "進学",
+      "kana": "しんがく",
+      "gloss": "advancing to the next stage of education",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3952,
+        6885,
+        6894,
+        7580
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "進": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1259440/見学/けんがく": {
+      "id": 1259440,
+      "form": "見学",
+      "kana": "けんがく",
+      "gloss": "inspection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6130,
+        5671,
+        6453,
+        4309
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "見": 1
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1206560/学院/がくいん": {
+      "id": 1206560,
+      "form": "学院",
+      "kana": "がくいん",
+      "gloss": "institute",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3701,
+        7494,
+        7013,
+        17597
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "院": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1207030/学年/がくねん": {
+      "id": 1207030,
+      "form": "学年",
+      "kana": "がくねん",
+      "gloss": "academic year",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5274,
+        6682,
+        7013,
+        5820
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1433090/通学/つうがく": {
+      "id": 1433090,
+      "form": "通学",
+      "kana": "つうがく",
+      "gloss": "commuting to school",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4882,
+        8319,
+        6549,
+        12030
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1278010/工学/こうがく": {
+      "id": 1278010,
+      "form": "工学",
+      "kana": "こうがく",
+      "gloss": "engineering",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8168,
+        7073,
+        7013,
+        34152
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1207200/学歴/がくれき": {
+      "id": 1207200,
+      "form": "学歴",
+      "kana": "がくれき",
+      "gloss": "academic background",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7937,
+        11578,
+        7013,
+        22283
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歴": 5
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1207080/学部/がくぶ": {
+      "id": 1207080,
+      "form": "学部",
+      "kana": "がくぶ",
+      "gloss": "faculty (of a university)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9562,
+        12267,
+        6169,
+        24477
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "部": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1206870/学術/がくじゅつ": {
+      "id": 1206870,
+      "form": "学術",
+      "kana": "がくじゅつ",
+      "gloss": "science",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6725,
+        11097,
+        9163,
+        35121
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "術": 5
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1554910/力学/りきがく": {
+      "id": 1554910,
+      "form": "力学",
+      "kana": "りきがく",
+      "gloss": "mechanics",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5758,
+        10271,
+        16770,
+        51010
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271010/語学/ごがく": {
+      "id": 1271010,
+      "form": "語学",
+      "kana": "ごがく",
+      "gloss": "study of foreign languages",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7073,
+        11578,
+        12275,
+        30091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "語": 2
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1799060/奨学/しょうがく": {
+      "id": 1799060,
+      "form": "奨学",
+      "kana": "しょうがく",
+      "gloss": "encouragement to study",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12180,
+        11302,
+        8882,
+        113432
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奨": 7
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1206700/学業/がくぎょう": {
+      "id": 1206700,
+      "form": "学業",
+      "kana": "がくぎょう",
+      "gloss": "studies",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7014,
+        17837,
+        20096,
+        15038
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3
+      },
+      "matched": {
+        "ガク": {
+          "actual": "がく",
+          "dictionary": [
+            "ガク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2416970/教うるは学ぶの半ば/おしうるはまなぶのなかば": {
+      "id": 2416970,
+      "form": "教うるは学ぶの半ば",
+      "kana": "おしうるはまなぶのなかば",
+      "gloss": "we learn by teaching",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "半": 2,
+        "教": 2
+      },
+      "matched": {
+        "まなぶ": {
+          "actual": "まな",
+          "dictionary": [
+            "まな.ぶ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "gakusei",
+      "form": "学生",
+      "kana": "がくせい",
+      "cue": "Student",
+      "ids": [
+        1206900
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 1996,
+        "shiberu": 829,
+        "tubelex": 1441,
+        "wordfreq": 927
+      }
+    },
+    {
+      "wordId": "gakkou",
+      "form": "学校",
+      "kana": "がっこう",
+      "cue": "School",
+      "ids": [
+        1206730
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 672,
+        "shiberu": 159,
+        "tubelex": 408,
+        "wordfreq": 404
+      }
+    },
+    {
+      "wordId": "jmdict:1159810:医学:いがく",
+      "form": "医学",
+      "kana": "いがく",
+      "cue": "medicine; medical science",
+      "ids": [
+        1159810
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 14098,
+        "shiberu": 2315,
+        "tubelex": 4047,
+        "wordfreq": 4117
+      },
+      "alternatives_by_kanji": {
+        "学": [
+          "1413240/大学/だいがく",
+          "1192700/科学/かがく",
+          "1206530/学ぶ/まなぶ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1192700:科学:かがく",
+      "form": "科学",
+      "kana": "かがく",
+      "cue": "science",
+      "ids": [
+        1192700
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6585,
+        "shiberu": 480,
+        "tubelex": 1697,
+        "wordfreq": 997
+      },
+      "alternatives_by_kanji": {
+        "学": [
+          "1413240/大学/だいがく",
+          "1206530/学ぶ/まなぶ",
+          "1206820/学習/がくしゅう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1347870:小学校:しょうがっこう",
+      "form": "小学校",
+      "kana": "しょうがっこう",
+      "cue": "primary school; elementary school",
+      "ids": [
+        1347870
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3202,
+        "wordfreq": 2067
+      },
+      "alternatives_by_kanji": {
+        "学": [
+          "1413240/大学/だいがく",
+          "1192700/科学/かがく",
+          "1206530/学ぶ/まなぶ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1423640:中学:ちゅうがく",
+      "form": "中学",
+      "kana": "ちゅうがく",
+      "cue": "junior high school; middle school",
+      "ids": [
+        1423640
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3108,
+        "shiberu": 1545,
+        "tubelex": 2543,
+        "wordfreq": 2863
+      },
+      "alternatives_by_kanji": {
+        "学": [
+          "1413240/大学/だいがく",
+          "1192700/科学/かがく",
+          "1206530/学ぶ/まなぶ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1437610:哲学:てつがく",
+      "form": "哲学",
+      "kana": "てつがく",
+      "cue": "philosophy",
+      "ids": [
+        1437610
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 15552,
+        "shiberu": 1650,
+        "tubelex": 4791,
+        "wordfreq": 4117
+      },
+      "alternatives_by_kanji": {
+        "学": [
+          "1413240/大学/だいがく",
+          "1192700/科学/かがく",
+          "1206530/学ぶ/まなぶ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1505190:文学:ぶんがく",
+      "form": "文学",
+      "kana": "ぶんがく",
+      "cue": "literature",
+      "ids": [
+        1505190
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 16858,
+        "shiberu": 340,
+        "tubelex": 6670,
+        "wordfreq": 4955
+      }
+    }
+  ],
+  "unassigned_form_count": 878
+}

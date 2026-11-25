@@ -1,0 +1,469 @@
+{
+  "character": "且",
+  "grade": 7,
+  "meanings": [
+    "moreover",
+    "also",
+    "furthermore"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 1
+    }
+  ],
+  "components": [
+    "一",
+    "目"
+  ],
+  "on": [
+    "ショ",
+    "ソ",
+    "ショウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "か.つ",
+      "stem": "か",
+      "okurigana": "つ"
+    }
+  ],
+  "nanori": [
+    "あき",
+    "かつ"
+  ],
+  "government": {
+    "kanji": "且",
+    "heading": "且",
+    "readings": [
+      "かつ"
+    ],
+    "examples_by_reading": [
+      [
+        "且つ"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "且",
+      "reading": "かつ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "かつ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1208840/且つ/かつ",
+        "1349310/尚且つ/なおかつ",
+        "1349310/なお且つ/なおかつ",
+        "1590490/且つ又/かつまた"
+      ]
+    },
+    {
+      "reading": "ショ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2744740/暫且/ざんしょ",
+        "2847852/苟且/こうしょ"
+      ]
+    },
+    {
+      "reading": "ソ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "ショウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1208840/且つ/かつ",
+    "1349310/尚且つ/なおかつ",
+    "1349310/なお且つ/なおかつ",
+    "1590490/且つ又/かつまた",
+    "2744740/暫且/ざんしょ",
+    "2847852/苟且/こうしょ",
+    "1208840/且/かつ",
+    "1590490/且又/かつまた",
+    "1187590/苟且/かりそめ"
+  ],
+  "candidates": {
+    "1208840/且つ/かつ": {
+      "id": 1208840,
+      "form": "且つ",
+      "kana": "かつ",
+      "gloss": "and",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "conj",
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        13145,
+        2024,
+        14937,
+        37484
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かつ": {
+          "actual": "か",
+          "dictionary": [
+            "か.つ"
+          ]
+        }
+      },
+      "official_examples": [
+        "かつ"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1349310/尚且つ/なおかつ": {
+      "id": 1349310,
+      "form": "尚且つ",
+      "kana": "なおかつ",
+      "gloss": "besides",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        34680,
+        5653,
+        null,
+        48666
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "尚": 7
+      },
+      "matched": {
+        "かつ": {
+          "actual": "か",
+          "dictionary": [
+            "か.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1349310/なお且つ/なおかつ": {
+      "id": 1349310,
+      "form": "なお且つ",
+      "kana": "なおかつ",
+      "gloss": "besides",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        174319
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かつ": {
+          "actual": "か",
+          "dictionary": [
+            "か.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1590490/且つ又/かつまた": {
+      "id": 1590490,
+      "form": "且つ又",
+      "kana": "かつまた",
+      "gloss": "besides",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "conj"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "又": 7
+      },
+      "matched": {
+        "かつ": {
+          "actual": "か",
+          "dictionary": [
+            "か.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2744740/暫且/ざんしょ": {
+      "id": 2744740,
+      "form": "暫且",
+      "kana": "ざんしょ",
+      "gloss": "short while",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暫": 7
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2847852/苟且/こうしょ": {
+      "id": 2847852,
+      "form": "苟且",
+      "kana": "こうしょ",
+      "gloss": "stopgap",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1208840/且/かつ": {
+      "id": 1208840,
+      "form": "且",
+      "kana": "かつ",
+      "gloss": "and",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "conj",
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        22104,
+        null,
+        49383,
+        81273
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1590490/且又/かつまた": {
+      "id": 1590490,
+      "form": "且又",
+      "kana": "かつまた",
+      "gloss": "besides",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "conj"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        237434
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "又": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1187590/苟且/かりそめ": {
+      "id": 1187590,
+      "form": "苟且",
+      "kana": "かりそめ",
+      "gloss": "temporary",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        249695
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1208840:且:かつ",
+      "form": "且",
+      "kana": "かつ",
+      "cue": "and; moreover",
+      "ids": [
+        1208840
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 81273,
+        "shiberu": 22104,
+        "wordfreq": 49383
+      },
+      "alternatives_by_kanji": {
+        "且": [
+          "1208840/且つ/かつ",
+          "1349310/尚且つ/なおかつ",
+          "1349310/なお且つ/なおかつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

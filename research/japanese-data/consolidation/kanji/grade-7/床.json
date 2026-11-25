@@ -1,0 +1,1483 @@
+{
+  "character": "床",
+  "grade": 7,
+  "meanings": [
+    "bed",
+    "counter for beds",
+    "floor",
+    "padding",
+    "tatami"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 53
+    }
+  ],
+  "components": [
+    "木",
+    "广"
+  ],
+  "on": [
+    "ショウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "とこ",
+      "stem": "とこ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "ゆか",
+      "stem": "ゆか",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "床",
+    "heading": "床",
+    "readings": [
+      "ショウ",
+      "とこ",
+      "ゆか"
+    ],
+    "examples_by_reading": [
+      [
+        "起床",
+        "病床",
+        "温床"
+      ],
+      [
+        "床",
+        "床の間",
+        "寝床"
+      ],
+      [
+        "床",
+        "床下"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "床",
+      "reading": "ショウ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ショウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 58,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1490330/病床/びょうしょう",
+        "1223820/起床/きしょう",
+        "1183410/温床/おんしょう",
+        "2085520/床/しょう",
+        "1555640/臨床/りんしょう",
+        "1853650/視床/ししょう",
+        "1770690/道床/どうしょう",
+        "1282610/鉱床/こうしょう",
+        "1193500/河床/かしょう",
+        "1635930/銃床/じゅうしょう"
+      ]
+    },
+    {
+      "reading": "とこ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 29,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1360150/寝床/ねどこ",
+        "1349400/床の間/とこのま",
+        "1349370/床/とこ",
+        "1349410/床屋/とこや",
+        "1661700/床擦れ/とこずれ",
+        "1799330/床柱/とこばしら",
+        "1799280/床山/とこやま",
+        "1799240/床入り/とこいり",
+        "1661700/床ずれ/とこずれ",
+        "1799270/床上げ/とこあげ"
+      ]
+    },
+    {
+      "reading": "ゆか",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 27,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1349420/床下/ゆかした",
+        "1349380/床/ゆか",
+        "1799250/床上/ゆかうえ",
+        "1193500/川床/かわゆか",
+        "2429250/床材/ゆかざい",
+        "2831497/床面/ゆかめん",
+        "2835032/床暖/ゆかだん",
+        "1349430/床板/ゆかいた",
+        "2193720/床掃除/ゆかそうじ",
+        "1799320/床面積/ゆかめんせき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1490330/病床/びょうしょう",
+    "1360150/寝床/ねどこ",
+    "1349420/床下/ゆかした",
+    "1223820/起床/きしょう",
+    "1349400/床の間/とこのま",
+    "1183410/温床/おんしょう",
+    "1349380/床/ゆか",
+    "2085520/床/しょう",
+    "1349370/床/とこ",
+    "1555640/臨床/りんしょう",
+    "1349410/床屋/とこや",
+    "1853650/視床/ししょう",
+    "1799250/床上/ゆかうえ",
+    "1770690/道床/どうしょう",
+    "1193500/川床/かわゆか",
+    "1282610/鉱床/こうしょう",
+    "1193500/河床/かしょう",
+    "1635930/銃床/じゅうしょう",
+    "1821600/離床/りしょう",
+    "1661700/床擦れ/とこずれ",
+    "1799330/床柱/とこばしら",
+    "1197690/臥床/がしょう",
+    "1799280/床山/とこやま",
+    "1799240/床入り/とこいり",
+    "2429250/床材/ゆかざい",
+    "2831497/床面/ゆかめん",
+    "2059450/低床/ていしょう",
+    "1622480/着床/ちゃくしょう",
+    "1594910/床机/しょうぎ",
+    "2266630/増床/ぞうしょう"
+  ],
+  "candidates": {
+    "1490330/病床/びょうしょう": {
+      "id": 1490330,
+      "form": "病床",
+      "kana": "びょうしょう",
+      "gloss": "sickbed",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10443,
+        7735,
+        25402,
+        27466
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "病": 3
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1360150/寝床/ねどこ": {
+      "id": 1360150,
+      "form": "寝床",
+      "kana": "ねどこ",
+      "gloss": "bed",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11219,
+        12540,
+        25040,
+        9408
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寝": 7
+      },
+      "matched": {
+        "とこ": {
+          "actual": "どこ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "とこ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1349420/床下/ゆかした": {
+      "id": 1349420,
+      "form": "床下",
+      "kana": "ゆかした",
+      "gloss": "under the floor",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15057,
+        13156,
+        18794,
+        25443
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゆか"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1223820/起床/きしょう": {
+      "id": 1223820,
+      "form": "起床",
+      "kana": "きしょう",
+      "gloss": "rising (from one's bed)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16082,
+        21732,
+        18234,
+        16570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "起": 3
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1349400/床の間/とこのま": {
+      "id": 1349400,
+      "form": "床の間",
+      "kana": "とこのま",
+      "gloss": "tokonoma",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24532,
+        22485,
+        53687,
+        37860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2
+      },
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [
+        "とこ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1183410/温床/おんしょう": {
+      "id": 1183410,
+      "form": "温床",
+      "kana": "おんしょう",
+      "gloss": "hotbed",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25464,
+        38018,
+        32914,
+        39856
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "温": 3
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1349380/床/ゆか": {
+      "id": 1349380,
+      "form": "床",
+      "kana": "ゆか",
+      "gloss": "floor",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        1569
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [
+        "とこ",
+        "ゆか"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2085520/床/しょう": {
+      "id": 2085520,
+      "form": "床",
+      "kana": "しょう",
+      "gloss": "counter for beds",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        96017
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "とこ",
+        "ゆか"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1349370/床/とこ": {
+      "id": 1349370,
+      "form": "床",
+      "kana": "とこ",
+      "gloss": "bed",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        103335
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [
+        "とこ",
+        "ゆか"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1555640/臨床/りんしょう": {
+      "id": 1555640,
+      "form": "臨床",
+      "kana": "りんしょう",
+      "gloss": "clinical (e.g. pathology, training, trial)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22928,
+        7545,
+        7265,
+        44553
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "臨": 6
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1349410/床屋/とこや": {
+      "id": 1349410,
+      "form": "床屋",
+      "kana": "とこや",
+      "gloss": "barbershop",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10854,
+        21173,
+        21459,
+        36959
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1853650/視床/ししょう": {
+      "id": 1853650,
+      "form": "視床",
+      "kana": "ししょう",
+      "gloss": "thalamus",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30721,
+        38018,
+        47321,
+        137090
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1799250/床上/ゆかうえ": {
+      "id": 1799250,
+      "form": "床上",
+      "kana": "ゆかうえ",
+      "gloss": "on a floor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32768,
+        47603,
+        40664,
+        71594
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1770690/道床/どうしょう": {
+      "id": 1770690,
+      "form": "道床",
+      "kana": "どうしょう",
+      "gloss": "roadbed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26925,
+        121818,
+        140911,
+        219067
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193500/川床/かわゆか": {
+      "id": 1193500,
+      "form": "川床",
+      "kana": "かわゆか",
+      "gloss": "raised platform on the bank of a river for enjoying the cool in summer",
+      "senses": [
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31265,
+        48192,
+        57069,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "川": 1
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1282610/鉱床/こうしょう": {
+      "id": 1282610,
+      "form": "鉱床",
+      "kana": "こうしょう",
+      "gloss": "mineral deposit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37400,
+        63004,
+        70181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉱": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193500/河床/かしょう": {
+      "id": 1193500,
+      "form": "河床",
+      "kana": "かしょう",
+      "gloss": "riverbed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33820,
+        null,
+        77181,
+        116636
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "河": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1635930/銃床/じゅうしょう": {
+      "id": 1635930,
+      "form": "銃床",
+      "kana": "じゅうしょう",
+      "gloss": "stock (of a gun)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        78707,
+        62696
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "銃": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1821600/離床/りしょう": {
+      "id": 1821600,
+      "form": "離床",
+      "kana": "りしょう",
+      "gloss": "getting out of bed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        93840,
+        151944
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "離": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661700/床擦れ/とこずれ": {
+      "id": 1661700,
+      "form": "床擦れ",
+      "kana": "とこずれ",
+      "gloss": "bedsore",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        164653,
+        164133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "擦": 7
+      },
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1799330/床柱/とこばしら": {
+      "id": 1799330,
+      "form": "床柱",
+      "kana": "とこばしら",
+      "gloss": "alcove post",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        139652,
+        117828
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "柱": 3
+      },
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197690/臥床/がしょう": {
+      "id": 1197690,
+      "form": "臥床",
+      "kana": "がしょう",
+      "gloss": "retiring to bed (esp. due to illness)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        140911,
+        155063
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1799280/床山/とこやま": {
+      "id": 1799280,
+      "form": "床山",
+      "kana": "とこやま",
+      "gloss": "hairdresser (for sumo wrestlers and actors)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        139652,
+        182516
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1799240/床入り/とこいり": {
+      "id": 1799240,
+      "form": "床入り",
+      "kana": "とこいり",
+      "gloss": "consummation of a marriage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        185634,
+        107501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2429250/床材/ゆかざい": {
+      "id": 2429250,
+      "form": "床材",
+      "kana": "ゆかざい",
+      "gloss": "flooring (material)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        18214,
+        null,
+        68486
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "材": 4
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831497/床面/ゆかめん": {
+      "id": 2831497,
+      "form": "床面",
+      "kana": "ゆかめん",
+      "gloss": "floor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28202,
+        null,
+        49811
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2059450/低床/ていしょう": {
+      "id": 2059450,
+      "form": "低床",
+      "kana": "ていしょう",
+      "gloss": "low floor (platform, vehicle, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25211,
+        null,
+        240798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "低": 4
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1622480/着床/ちゃくしょう": {
+      "id": 1622480,
+      "form": "着床",
+      "kana": "ちゃくしょう",
+      "gloss": "implantation (of an embryo)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        33040,
+        null,
+        58601
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "着": 3
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594910/床机/しょうぎ": {
+      "id": 1594910,
+      "form": "床机",
+      "kana": "しょうぎ",
+      "gloss": "camp stool",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38018,
+        null,
+        155910
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "机": 6
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2266630/増床/ぞうしょう": {
+      "id": 2266630,
+      "form": "増床",
+      "kana": "ぞうしょう",
+      "gloss": "expansion (in space) of a sales area",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        null,
+        251642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "増": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661700/床ずれ/とこずれ": {
+      "id": 1661700,
+      "form": "床ずれ",
+      "kana": "とこずれ",
+      "gloss": "bedsore",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        77181,
+        97724
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1799270/床上げ/とこあげ": {
+      "id": 1799270,
+      "form": "床上げ",
+      "kana": "とこあげ",
+      "gloss": "recovery from an illness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        129392
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "とこ": {
+          "actual": "とこ",
+          "dictionary": [
+            "とこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835032/床暖/ゆかだん": {
+      "id": 2835032,
+      "form": "床暖",
+      "kana": "ゆかだん",
+      "gloss": "underfloor heating",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        null,
+        154279
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暖": 6
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1349430/床板/ゆかいた": {
+      "id": 1349430,
+      "form": "床板",
+      "kana": "ゆかいた",
+      "gloss": "floorboard",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26597
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "板": 3
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2193720/床掃除/ゆかそうじ": {
+      "id": 2193720,
+      "form": "床掃除",
+      "kana": "ゆかそうじ",
+      "gloss": "cleaning the floor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        57103
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掃": 7,
+        "除": 6
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1799320/床面積/ゆかめんせき": {
+      "id": 1799320,
+      "form": "床面積",
+      "kana": "ゆかめんせき",
+      "gloss": "floor space",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        82522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "積": 4,
+        "面": 3
+      },
+      "matched": {
+        "ゆか": {
+          "actual": "ゆか",
+          "dictionary": [
+            "ゆか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1349370:床:とこ",
+      "form": "床",
+      "kana": "とこ",
+      "cue": "bed; bedding",
+      "ids": [
+        1349370
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 103335,
+        "shiberu": 679,
+        "tubelex": 1582,
+        "wordfreq": 2428
+      },
+      "alternatives_by_kanji": {
+        "床": [
+          "1490330/病床/びょうしょう",
+          "1360150/寝床/ねどこ",
+          "1349420/床下/ゆかした"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 35
+}

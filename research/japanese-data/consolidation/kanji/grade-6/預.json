@@ -1,0 +1,1353 @@
+{
+  "character": "預",
+  "grade": 6,
+  "meanings": [
+    "deposit",
+    "custody",
+    "leave with",
+    "entrust to"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 181
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "欠",
+    "マ",
+    "一",
+    "亅",
+    "頁"
+  ],
+  "on": [
+    "ヨ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あず.ける",
+      "stem": "あず",
+      "okurigana": "ける"
+    },
+    {
+      "sourceNotation": "あず.かる",
+      "stem": "あず",
+      "okurigana": "かる"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "預",
+    "heading": "預",
+    "readings": [
+      "ヨ",
+      "あずける",
+      "あずかる"
+    ],
+    "examples_by_reading": [
+      [
+        "預金",
+        "預託"
+      ],
+      [
+        "預ける"
+      ],
+      [
+        "預かる",
+        "預かり"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "預",
+      "reading": "ヨ",
+      "source": "table_38_yo.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヨ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 31,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1545020/預金/よきん",
+        "1620080/預託/よたく",
+        "2826480/預言/よげん",
+        "1655170/預貯金/よちょきん",
+        "2621470/現預金/げんよきん",
+        "2828224/預流/よる",
+        "2868866/預貸/よたい",
+        "5690527/預金保険機構/よきんほけんきこう",
+        "1542940/預言者/よげんしゃ",
+        "1948240/預金通帳/よきんつうちょう"
+      ]
+    },
+    {
+      "reading": "あずける",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1544990/預ける/あずける",
+        "1185790/下駄を預ける/げたをあずける",
+        "1185790/ゲタを預ける/げたをあずける",
+        "1185790/げたを預ける/げたをあずける"
+      ]
+    },
+    {
+      "reading": "あずかる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1544970/預かる/あずかる",
+        "1544950/預かり/あずかり",
+        "2130950/留守を預かる/るすをあずかる",
+        "2642240/おこぼれに預かる/おこぼれにあずかる",
+        "2642240/お零れに預かる/おこぼれにあずかる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1544990/預ける/あずける",
+    "1544970/預かる/あずかる",
+    "1545020/預金/よきん",
+    "1620080/預託/よたく",
+    "1544950/預かり/あずかり",
+    "2826480/預言/よげん",
+    "1655170/預貯金/よちょきん",
+    "2621470/現預金/げんよきん",
+    "2828224/預流/よる",
+    "2868866/預貸/よたい",
+    "5690527/預金保険機構/よきんほけんきこう",
+    "1542940/預言者/よげんしゃ",
+    "2130950/留守を預かる/るすをあずかる",
+    "1948240/預金通帳/よきんつうちょう",
+    "1777290/定期預金/ていきよきん",
+    "2620130/預金残高/よきんざんだか",
+    "2642240/おこぼれに預かる/おこぼれにあずかる",
+    "2399960/預言書/よげんしょ",
+    "1991080/銀行預金/ぎんこうよきん",
+    "1948230/預金口座/よきんこうざ",
+    "1712190/預金者/よきんしゃ",
+    "1497280/普通預金/ふつうよきん",
+    "1185790/下駄を預ける/げたをあずける",
+    "2839231/タンス預金/タンスよきん",
+    "1784130/当座預金/とうざよきん",
+    "2857012/預金封鎖/よきんふうさ",
+    "1948250/預託金/よたくきん",
+    "1185790/ゲタを預ける/げたをあずける",
+    "2648400/預金保険/よきんほけん",
+    "1999120/当座預金口座/とうざよきんこうざ"
+  ],
+  "candidates": {
+    "1544990/預ける/あずける": {
+      "id": 1544990,
+      "form": "預ける",
+      "kana": "あずける",
+      "gloss": "to leave (in someone's keeping)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2473,
+        4375,
+        17491,
+        1764
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あずける": {
+          "actual": "あず",
+          "dictionary": [
+            "あず.ける"
+          ]
+        }
+      },
+      "official_examples": [
+        "あずける"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1544970/預かる/あずかる": {
+      "id": 1544970,
+      "form": "預かる",
+      "kana": "あずかる",
+      "gloss": "to look after",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3247,
+        6296,
+        25040,
+        1531
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あずかる": {
+          "actual": "あず",
+          "dictionary": [
+            "あず.かる"
+          ]
+        }
+      },
+      "official_examples": [
+        "あずかる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1545020/預金/よきん": {
+      "id": 1545020,
+      "form": "預金",
+      "kana": "よきん",
+      "gloss": "deposit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10640,
+        7414,
+        8301,
+        37056
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヨ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1620080/預託/よたく": {
+      "id": 1620080,
+      "form": "預託",
+      "kana": "よたく",
+      "gloss": "depositing (of money, valuables, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        32888,
+        49441,
+        46387,
+        136089
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "託": 7
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヨ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1544950/預かり/あずかり": {
+      "id": 1544950,
+      "form": "預かり",
+      "kana": "あずかり",
+      "gloss": "safekeeping",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        12892,
+        59622
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あずかる": {
+          "actual": "あず",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "あずかる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2826480/預言/よげん": {
+      "id": 2826480,
+      "form": "預言",
+      "kana": "よげん",
+      "gloss": "(religious) prophecy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11471,
+        6388,
+        13462,
+        44872
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655170/預貯金/よちょきん": {
+      "id": 1655170,
+      "form": "預貯金",
+      "kana": "よちょきん",
+      "gloss": "deposits and savings",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31039,
+        46874,
+        99149
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貯": 5,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2621470/現預金/げんよきん": {
+      "id": 2621470,
+      "form": "現預金",
+      "kana": "げんよきん",
+      "gloss": "cash equivalent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36842,
+        null,
+        221430
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1,
+        "現": 5
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828224/預流/よる": {
+      "id": 2828224,
+      "form": "預流",
+      "kana": "よる",
+      "gloss": "sotāpanna",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37400,
+        null,
+        312289
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2868866/預貸/よたい": {
+      "id": 2868866,
+      "form": "預貸",
+      "kana": "よたい",
+      "gloss": "loans and deposits",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貸": 5
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5690527/預金保険機構/よきんほけんきこう": {
+      "id": 5690527,
+      "form": "預金保険機構",
+      "kana": "よきんほけんきこう",
+      "gloss": "Deposit Insurance Corporation (DIC)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        107434,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5,
+        "険": 5,
+        "金": 1,
+        "機": 4,
+        "構": 5
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1542940/預言者/よげんしゃ": {
+      "id": 1542940,
+      "form": "預言者",
+      "kana": "よげんしゃ",
+      "gloss": "prophet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        40280
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2,
+        "者": 3
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2130950/留守を預かる/るすをあずかる": {
+      "id": 2130950,
+      "form": "留守を預かる",
+      "kana": "るすをあずかる",
+      "gloss": "to take charge during someone's absence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        53219
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "留": 5,
+        "守": 3
+      },
+      "matched": {
+        "あずかる": {
+          "actual": "あず",
+          "dictionary": [
+            "あず.かる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1948240/預金通帳/よきんつうちょう": {
+      "id": 1948240,
+      "form": "預金通帳",
+      "kana": "よきんつうちょう",
+      "gloss": "(deposit) passbook",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60992
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2,
+        "帳": 3,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1777290/定期預金/ていきよきん": {
+      "id": 1777290,
+      "form": "定期預金",
+      "kana": "ていきよきん",
+      "gloss": "term deposit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        79983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1,
+        "定": 3,
+        "期": 3
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2620130/預金残高/よきんざんだか": {
+      "id": 2620130,
+      "form": "預金残高",
+      "kana": "よきんざんだか",
+      "gloss": "account balance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        86098
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2,
+        "残": 4,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2642240/おこぼれに預かる/おこぼれにあずかる": {
+      "id": 2642240,
+      "form": "おこぼれに預かる",
+      "kana": "おこぼれにあずかる",
+      "gloss": "to get a tiny share of the profits",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        91691
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あずかる": {
+          "actual": "あず",
+          "dictionary": [
+            "あず.かる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2399960/預言書/よげんしょ": {
+      "id": 2399960,
+      "form": "預言書",
+      "kana": "よげんしょ",
+      "gloss": "prophetic writing (e.g. Biblical)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        99970
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2,
+        "書": 2
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1991080/銀行預金/ぎんこうよきん": {
+      "id": 1991080,
+      "form": "銀行預金",
+      "kana": "ぎんこうよきん",
+      "gloss": "bank deposit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        103568
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "銀": 3,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1948230/預金口座/よきんこうざ": {
+      "id": 1948230,
+      "form": "預金口座",
+      "kana": "よきんこうざ",
+      "gloss": "bank account",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        105226
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1,
+        "座": 6,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1712190/預金者/よきんしゃ": {
+      "id": 1712190,
+      "form": "預金者",
+      "kana": "よきんしゃ",
+      "gloss": "depositor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        116171
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1497280/普通預金/ふつうよきん": {
+      "id": 1497280,
+      "form": "普通預金",
+      "kana": "ふつうよきん",
+      "gloss": "ordinary deposit",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        119967
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2,
+        "普": 7,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185790/下駄を預ける/げたをあずける": {
+      "id": 1185790,
+      "form": "下駄を預ける",
+      "kana": "げたをあずける",
+      "gloss": "to leave everything to (someone)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        134849
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "駄": 7,
+        "下": 1
+      },
+      "matched": {
+        "あずける": {
+          "actual": "あず",
+          "dictionary": [
+            "あず.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839231/タンス預金/タンスよきん": {
+      "id": 2839231,
+      "form": "タンス預金",
+      "kana": "タンスよきん",
+      "gloss": "mattress money",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147275
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1784130/当座預金/とうざよきん": {
+      "id": 1784130,
+      "form": "当座預金",
+      "kana": "とうざよきん",
+      "gloss": "checking account",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169977
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1,
+        "当": 2,
+        "座": 6
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857012/預金封鎖/よきんふうさ": {
+      "id": 2857012,
+      "form": "預金封鎖",
+      "kana": "よきんふうさ",
+      "gloss": "freezing a bank account",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        203204
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "封": 7,
+        "鎖": 7,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1948250/預託金/よたくきん": {
+      "id": 1948250,
+      "form": "預託金",
+      "kana": "よたくきん",
+      "gloss": "deposit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        217090
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "託": 7,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185790/ゲタを預ける/げたをあずける": {
+      "id": 1185790,
+      "form": "ゲタを預ける",
+      "kana": "げたをあずける",
+      "gloss": "to leave everything to (someone)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        222101
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あずける": {
+          "actual": "あず",
+          "dictionary": [
+            "あず.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2648400/預金保険/よきんほけん": {
+      "id": 2648400,
+      "form": "預金保険",
+      "kana": "よきんほけん",
+      "gloss": "deposit insurance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        251070
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5,
+        "険": 5,
+        "金": 1
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1999120/当座預金口座/とうざよきんこうざ": {
+      "id": 1999120,
+      "form": "当座預金口座",
+      "kana": "とうざよきんこうざ",
+      "gloss": "checking account",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1,
+        "当": 2,
+        "口": 1,
+        "座": 6
+      },
+      "matched": {
+        "ヨ": {
+          "actual": "よ",
+          "dictionary": [
+            "ヨ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185790/げたを預ける/げたをあずける": {
+      "id": 1185790,
+      "form": "げたを預ける",
+      "kana": "げたをあずける",
+      "gloss": "to leave everything to (someone)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あずける": {
+          "actual": "あず",
+          "dictionary": [
+            "あず.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2642240/お零れに預かる/おこぼれにあずかる": {
+      "id": 2642240,
+      "form": "お零れに預かる",
+      "kana": "おこぼれにあずかる",
+      "gloss": "to get a tiny share of the profits",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "零": 7
+      },
+      "matched": {
+        "あずかる": {
+          "actual": "あず",
+          "dictionary": [
+            "あず.かる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1545020:預金:よきん",
+      "form": "預金",
+      "kana": "よきん",
+      "cue": "deposit; bank account",
+      "ids": [
+        1545020
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 37056,
+        "shiberu": 10640,
+        "tubelex": 7414,
+        "wordfreq": 8301
+      },
+      "alternatives_by_kanji": {
+        "金": [
+          "1243040/金属/きんぞく",
+          "1242970/金持ち/かねもち",
+          "1243020/金銭/きんせん"
+        ],
+        "預": [
+          "1544990/預ける/あずける",
+          "1544970/預かる/あずかる",
+          "1620080/預託/よたく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 39
+}

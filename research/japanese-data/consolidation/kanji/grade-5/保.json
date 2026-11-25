@@ -1,0 +1,1679 @@
+{
+  "character": "保",
+  "grade": 5,
+  "meanings": [
+    "protect",
+    "guarantee",
+    "keep",
+    "preserve",
+    "sustain",
+    "support"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "口",
+    "木"
+  ],
+  "on": [
+    "ホ",
+    "ホウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たも.つ",
+      "stem": "たも",
+      "okurigana": "つ"
+    }
+  ],
+  "nanori": [
+    "う",
+    "お",
+    "ぶ",
+    "もり",
+    "やす",
+    "やすし"
+  ],
+  "government": {
+    "kanji": "保",
+    "heading": "保",
+    "readings": [
+      "ホ",
+      "たもつ"
+    ],
+    "examples_by_reading": [
+      [
+        "保護",
+        "保存",
+        "担保"
+      ],
+      [
+        "保つ"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "保",
+      "reading": "ホ",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ホ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 512,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1513530/保護/ほご",
+        "1513940/保存/ほぞん",
+        "1418210/担保/たんぽ",
+        "1513440/保険/ほけん",
+        "1205920/確保/かくほ",
+        "1603500/保証/ほしょう",
+        "1603500/保障/ほしょう",
+        "1513320/保管/ほかん",
+        "1513750/保守/ほしゅ",
+        "1513410/保健/ほけん"
+      ]
+    },
+    {
+      "reading": "たもつ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1513250/保つ/たもつ",
+        "1513250/保つ/もつ",
+        "2790310/平静を保つ/へいせいをたもつ",
+        "1907340/平和を保つ/へいわをたもつ",
+        "1859230/命を保つ/いのちをたもつ"
+      ]
+    },
+    {
+      "reading": "ホウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 14,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "2091990/享保/きょうほう",
+        "2090750/保元/ほうげん",
+        "2091860/正保/しょうほう",
+        "2090350/長保/ちょうほう",
+        "2090510/永保/えいほう",
+        "2090230/康保/こうほう",
+        "2090680/保延/ほうえん",
+        "2090780/応保/おうほう",
+        "1513210/保する/ほうする",
+        "2092350/承保/じょうほう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1513530/保護/ほご",
+    "1513940/保存/ほぞん",
+    "1513250/保つ/たもつ",
+    "1418210/担保/たんぽ",
+    "1513250/保つ/もつ",
+    "1513440/保険/ほけん",
+    "1205920/確保/かくほ",
+    "1603500/保証/ほしょう",
+    "1603500/保障/ほしょう",
+    "1513320/保管/ほかん",
+    "1513750/保守/ほしゅ",
+    "1513410/保健/ほけん",
+    "1513970/保有/ほゆう",
+    "1513700/保持/ほじ",
+    "1514030/保留/ほりゅう",
+    "1513910/保全/ほぜん",
+    "1514000/保養/ほよう",
+    "1513310/保温/ほおん",
+    "1552830/留保/りゅうほ",
+    "1513720/保釈/ほしゃく",
+    "1513850/保身/ほしん",
+    "2077730/保湿/ほしつ",
+    "2091990/享保/きょうほう",
+    "1514040/保冷/ほれい",
+    "2090750/保元/ほうげん",
+    "2262610/国保/こくほ",
+    "1379500/生保/せいほ",
+    "2818520/保水/ほすい",
+    "2623710/海保/かいほ",
+    "1513900/保線/ほせん"
+  ],
+  "candidates": {
+    "1513530/保護/ほご": {
+      "id": 1513530,
+      "form": "保護",
+      "kana": "ほご",
+      "gloss": "protection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2060,
+        1676,
+        883,
+        3505
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "護": 5
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1513940/保存/ほぞん": {
+      "id": 1513940,
+      "form": "保存",
+      "kana": "ほぞん",
+      "gloss": "preservation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2528,
+        1549,
+        1626,
+        4997
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "存": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1513250/保つ/たもつ": {
+      "id": 1513250,
+      "form": "保つ",
+      "kana": "たもつ",
+      "gloss": "to keep",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5t",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2316,
+        2306,
+        7146,
+        1900
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たもつ": {
+          "actual": "たも",
+          "dictionary": [
+            "たも.つ"
+          ]
+        }
+      },
+      "official_examples": [
+        "たもつ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418210/担保/たんぽ": {
+      "id": 1418210,
+      "form": "担保",
+      "kana": "たんぽ",
+      "gloss": "security",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28340,
+        7274,
+        9454,
+        22866
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "担": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ぽ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ホ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1513250/保つ/もつ": {
+      "id": 1513250,
+      "form": "保つ",
+      "kana": "もつ",
+      "gloss": "to keep",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5t",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2316,
+        2306,
+        7146,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "たもつ": {
+          "actual": "も",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "たもつ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1513440/保険/ほけん": {
+      "id": 1513440,
+      "form": "保険",
+      "kana": "ほけん",
+      "gloss": "insurance",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1911,
+        1477,
+        1626,
+        7845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "険": 5
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1205920/確保/かくほ": {
+      "id": 1205920,
+      "form": "確保",
+      "kana": "かくほ",
+      "gloss": "securing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4310,
+        1605,
+        1838,
+        2309
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "確": 5
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1603500/保証/ほしょう": {
+      "id": 1603500,
+      "form": "保証",
+      "kana": "ほしょう",
+      "gloss": "guarantee",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2344,
+        3270,
+        2518,
+        2484
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "証": 5
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1603500/保障/ほしょう": {
+      "id": 1603500,
+      "form": "保障",
+      "kana": "ほしょう",
+      "gloss": "guarantee",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5669,
+        3645,
+        2681,
+        12468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "障": 6
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1513320/保管/ほかん": {
+      "id": 1513320,
+      "form": "保管",
+      "kana": "ほかん",
+      "gloss": "charge",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4597,
+        3637,
+        3663,
+        5186
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "管": 4
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1513750/保守/ほしゅ": {
+      "id": 1513750,
+      "form": "保守",
+      "kana": "ほしゅ",
+      "gloss": "maintenance",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3579,
+        6307,
+        4345,
+        41950
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "守": 3
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513410/保健/ほけん": {
+      "id": 1513410,
+      "form": "保健",
+      "kana": "ほけん",
+      "gloss": "preservation of health",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5714,
+        4282,
+        5892,
+        20141
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "健": 4
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513970/保有/ほゆう": {
+      "id": 1513970,
+      "form": "保有",
+      "kana": "ほゆう",
+      "gloss": "possession",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9405,
+        4637,
+        5679,
+        16645
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "有": 3
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1513700/保持/ほじ": {
+      "id": 1513700,
+      "form": "保持",
+      "kana": "ほじ",
+      "gloss": "retention",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9390,
+        6051,
+        4852,
+        13268
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "持": 3
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1514030/保留/ほりゅう": {
+      "id": 1514030,
+      "form": "保留",
+      "kana": "ほりゅう",
+      "gloss": "reservation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12832,
+        13266,
+        11030,
+        9251
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "留": 5
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513910/保全/ほぜん": {
+      "id": 1513910,
+      "form": "保全",
+      "kana": "ほぜん",
+      "gloss": "preservation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16959,
+        10929,
+        10372,
+        34018
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1514000/保養/ほよう": {
+      "id": 1514000,
+      "form": "保養",
+      "kana": "ほよう",
+      "gloss": "health preservation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12415,
+        26575,
+        17751,
+        57954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "養": 4
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513310/保温/ほおん": {
+      "id": 1513310,
+      "form": "保温",
+      "kana": "ほおん",
+      "gloss": "retaining warmth",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21548,
+        12631,
+        24744,
+        34400
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "温": 3
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1552830/留保/りゅうほ": {
+      "id": 1552830,
+      "form": "留保",
+      "kana": "りゅうほ",
+      "gloss": "reserving",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23417,
+        20014,
+        23842,
+        70097
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "留": 5
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513720/保釈/ほしゃく": {
+      "id": 1513720,
+      "form": "保釈",
+      "kana": "ほしゃく",
+      "gloss": "bail",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        19251,
+        45909,
+        19848,
+        58505
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "釈": 7
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513850/保身/ほしん": {
+      "id": 1513850,
+      "form": "保身",
+      "kana": "ほしん",
+      "gloss": "self-protection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33926,
+        26144,
+        23544,
+        18719
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2077730/保湿/ほしつ": {
+      "id": 2077730,
+      "form": "保湿",
+      "kana": "ほしつ",
+      "gloss": "moisturizing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        31500,
+        6061,
+        null,
+        44956
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "湿": 7
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2091990/享保/きょうほう": {
+      "id": 2091990,
+      "form": "享保",
+      "kana": "きょうほう",
+      "gloss": "Kyōhō era (1716.6.22-1736.4.28)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8028,
+        34308,
+        null,
+        103648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "享": 7
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1514040/保冷/ほれい": {
+      "id": 1514040,
+      "form": "保冷",
+      "kana": "ほれい",
+      "gloss": "keeping (something) cool",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        18214,
+        29477,
+        51699
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "冷": 4
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2090750/保元/ほうげん": {
+      "id": 2090750,
+      "form": "保元",
+      "kana": "ほうげん",
+      "gloss": "Hōgen era (1156.4.27-1159.4.20)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15881,
+        51509,
+        null,
+        120020
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2262610/国保/こくほ": {
+      "id": 2262610,
+      "form": "国保",
+      "kana": "こくほ",
+      "gloss": "national health insurance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28755,
+        35760,
+        164835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1379500/生保/せいほ": {
+      "id": 1379500,
+      "form": "生保",
+      "kana": "せいほ",
+      "gloss": "life insurance",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        49441,
+        28048,
+        122023
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2818520/保水/ほすい": {
+      "id": 2818520,
+      "form": "保水",
+      "kana": "ほすい",
+      "gloss": "water retention",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26476,
+        57069,
+        105711
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2623710/海保/かいほ": {
+      "id": 2623710,
+      "form": "海保",
+      "kana": "かいほ",
+      "gloss": "Japan Coast Guard",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        31382,
+        110413
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "海": 2
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513900/保線/ほせん": {
+      "id": 1513900,
+      "form": "保線",
+      "kana": "ほせん",
+      "gloss": "track maintenance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        68122,
+        139526
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "線": 2
+      },
+      "matched": {
+        "ホ": {
+          "actual": "ほ",
+          "dictionary": [
+            "ホ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2790310/平静を保つ/へいせいをたもつ": {
+      "id": 2790310,
+      "form": "平静を保つ",
+      "kana": "へいせいをたもつ",
+      "gloss": "to keep one's temper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23775
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3,
+        "静": 4
+      },
+      "matched": {
+        "たもつ": {
+          "actual": "たも",
+          "dictionary": [
+            "たも.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1907340/平和を保つ/へいわをたもつ": {
+      "id": 1907340,
+      "form": "平和を保つ",
+      "kana": "へいわをたもつ",
+      "gloss": "to maintain (preserve) peace",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71375
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3,
+        "和": 3
+      },
+      "matched": {
+        "たもつ": {
+          "actual": "たも",
+          "dictionary": [
+            "たも.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1859230/命を保つ/いのちをたもつ": {
+      "id": 1859230,
+      "form": "命を保つ",
+      "kana": "いのちをたもつ",
+      "gloss": "to preserve life",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        94118
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "命": 3
+      },
+      "matched": {
+        "たもつ": {
+          "actual": "たも",
+          "dictionary": [
+            "たも.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2091860/正保/しょうほう": {
+      "id": 2091860,
+      "form": "正保",
+      "kana": "しょうほう",
+      "gloss": "Shōhō era (1644.12.16-1648.2.15)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        91294,
+        178205
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "正": 1
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2090350/長保/ちょうほう": {
+      "id": 2090350,
+      "form": "長保",
+      "kana": "ちょうほう",
+      "gloss": "Chōhō era (999.1.13-1004.7.20)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        189078,
+        260838
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2090510/永保/えいほう": {
+      "id": 2090510,
+      "form": "永保",
+      "kana": "えいほう",
+      "gloss": "Eihō era (1081.2.10-1084.2.7)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        null,
+        270613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "永": 5
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2090230/康保/こうほう": {
+      "id": 2090230,
+      "form": "康保",
+      "kana": "こうほう",
+      "gloss": "Kōhō era (964.7.10-968.8.13)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "康": 4
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2090680/保延/ほうえん": {
+      "id": 2090680,
+      "form": "保延",
+      "kana": "ほうえん",
+      "gloss": "Hōen era (1135.4.27-1141.7.10)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        196365
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "延": 6
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2090780/応保/おうほう": {
+      "id": 2090780,
+      "form": "応保",
+      "kana": "おうほう",
+      "gloss": "Ōhō era (1161.9.4-1163.3.29)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1513210/保する/ほうする": {
+      "id": 1513210,
+      "form": "保する",
+      "kana": "ほうする",
+      "gloss": "to guarantee",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "vs-s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2092350/承保/じょうほう": {
+      "id": 2092350,
+      "form": "承保",
+      "kana": "じょうほう",
+      "gloss": "Jōhō era (1074.8.23-1077.11.17)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "承": 6
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1513440:保険:ほけん",
+      "form": "保険",
+      "kana": "ほけん",
+      "cue": "insurance",
+      "ids": [
+        1513440
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 7845,
+        "shiberu": 1911,
+        "tubelex": 1477,
+        "wordfreq": 1626
+      }
+    },
+    {
+      "wordId": "jmdict:1513530:保護:ほご",
+      "form": "保護",
+      "kana": "ほご",
+      "cue": "protection; safeguard",
+      "ids": [
+        1513530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3505,
+        "shiberu": 2060,
+        "tubelex": 1676,
+        "wordfreq": 883
+      },
+      "alternatives_by_kanji": {
+        "護": [
+          "1271510/護衛/ごえい",
+          "1229120/救護/きゅうご",
+          "1512830/弁護/べんご"
+        ],
+        "保": [
+          "1513940/保存/ほぞん",
+          "1513250/保つ/たもつ",
+          "1418210/担保/たんぽ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 73
+}

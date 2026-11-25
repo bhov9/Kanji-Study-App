@@ -1,0 +1,1048 @@
+{
+  "character": "刈",
+  "grade": 7,
+  "meanings": [
+    "reap",
+    "cut",
+    "clip",
+    "trim",
+    "prune"
+  ],
+  "strokes": [
+    4
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 18
+    }
+  ],
+  "components": [
+    "刈"
+  ],
+  "on": [
+    "ガイ",
+    "カイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "か.る",
+      "stem": "か",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "かっ",
+    "かり"
+  ],
+  "government": {
+    "kanji": "刈",
+    "heading": "刈",
+    "readings": [
+      "かる"
+    ],
+    "examples_by_reading": [
+      [
+        "刈る",
+        "刈り入れ"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "刈",
+      "reading": "かる",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "かる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1209540/刈る/かる",
+        "1209480/刈り入れ/かりいれ",
+        "1856580/頭を刈る/あたまをかる",
+        "1914680/羊毛を刈る/ようもうをかる"
+      ]
+    },
+    {
+      "reading": "ガイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1209550/刈除/がいじょ"
+      ]
+    },
+    {
+      "reading": "カイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1209550/刈除/かいじょ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1209540/刈る/かる",
+    "1209480/刈り入れ/かりいれ",
+    "1856580/頭を刈る/あたまをかる",
+    "1914680/羊毛を刈る/ようもうをかる",
+    "1209550/刈除/がいじょ",
+    "1209550/刈除/かいじょ",
+    "1818270/草刈り/くさかり",
+    "1209430/刈り取る/かりとる",
+    "1167840/稲刈り/いねかり",
+    "1209400/刈り込む/かりこむ",
+    "1209360/刈/かり",
+    "1216340/丸刈り/まるがり",
+    "1209390/刈り込み/かりこみ",
+    "1842970/刈り上げ/かりあげ",
+    "1842980/刈り取り/かりとり",
+    "1209470/刈田/かりた",
+    "1836670/角刈り/かくがり",
+    "1476150/麦刈り/むぎかり",
+    "1209450/刈り上げる/かりあげる",
+    "1881290/柴刈り/しばかり",
+    "1816860/芝刈り/しばかり",
+    "2415060/刈り払い/かりはらい",
+    "2856222/毛刈り/けがり",
+    "2415040/草刈り機/くさかりき",
+    "1209490/刈り入れる/かりいれる",
+    "1816860/芝刈/しばかり",
+    "2856223/手刈り/てがり",
+    "1267640/虎刈り/とらがり",
+    "1209480/刈入れ/かりいれ",
+    "1209520/刈穂/かりほ"
+  ],
+  "candidates": {
+    "1209540/刈る/かる": {
+      "id": 1209540,
+      "form": "刈る",
+      "kana": "かる",
+      "gloss": "to cut (grass, hair, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6011,
+        11711,
+        49881,
+        17074
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かる": {
+          "actual": "か",
+          "dictionary": [
+            "か.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "かる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1209480/刈り入れ/かりいれ": {
+      "id": 1209480,
+      "form": "刈り入れ",
+      "kana": "かりいれ",
+      "gloss": "harvest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        135895,
+        78567
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "かる": {
+          "actual": "か",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "かる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1856580/頭を刈る/あたまをかる": {
+      "id": 1856580,
+      "form": "頭を刈る",
+      "kana": "あたまをかる",
+      "gloss": "to have one's hair cut",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        140992
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頭": 2
+      },
+      "matched": {
+        "かる": {
+          "actual": "か",
+          "dictionary": [
+            "か.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1914680/羊毛を刈る/ようもうをかる": {
+      "id": 1914680,
+      "form": "羊毛を刈る",
+      "kana": "ようもうをかる",
+      "gloss": "to shear sheep",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        239196
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "毛": 2,
+        "羊": 3
+      },
+      "matched": {
+        "かる": {
+          "actual": "か",
+          "dictionary": [
+            "か.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1209550/刈除/がいじょ": {
+      "id": 1209550,
+      "form": "刈除",
+      "kana": "がいじょ",
+      "gloss": "removal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "除": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1209550/刈除/かいじょ": {
+      "id": 1209550,
+      "form": "刈除",
+      "kana": "かいじょ",
+      "gloss": "removal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "除": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1818270/草刈り/くさかり": {
+      "id": 1818270,
+      "form": "草刈り",
+      "kana": "くさかり",
+      "gloss": "mowing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37545,
+        9363,
+        33270,
+        46767
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "草": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209430/刈り取る/かりとる": {
+      "id": 1209430,
+      "form": "刈り取る",
+      "kana": "かりとる",
+      "gloss": "to mow",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18401,
+        20879,
+        59434,
+        18450
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1167840/稲刈り/いねかり": {
+      "id": 1167840,
+      "form": "稲刈り",
+      "kana": "いねかり",
+      "gloss": "rice reaping",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34466,
+        30165,
+        45882,
+        73047
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "稲": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209400/刈り込む/かりこむ": {
+      "id": 1209400,
+      "form": "刈り込む",
+      "kana": "かりこむ",
+      "gloss": "to prune",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        35668,
+        31561,
+        101758,
+        45250
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "込": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209360/刈/かり": {
+      "id": 1209360,
+      "form": "刈",
+      "kana": "かり",
+      "gloss": "cut",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19154,
+        null,
+        24154,
+        69838
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1216340/丸刈り/まるがり": {
+      "id": 1216340,
+      "form": "丸刈り",
+      "kana": "まるがり",
+      "gloss": "buzz cut",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        42050,
+        57553
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丸": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209390/刈り込み/かりこみ": {
+      "id": 1209390,
+      "form": "刈り込み",
+      "kana": "かりこみ",
+      "gloss": "haircut",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38018,
+        62361,
+        117248
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "込": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1842970/刈り上げ/かりあげ": {
+      "id": 1842970,
+      "form": "刈り上げ",
+      "kana": "かりあげ",
+      "gloss": "close-cropped hair",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        46460,
+        51518,
+        100711
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1842980/刈り取り/かりとり": {
+      "id": 1842980,
+      "form": "刈り取り",
+      "kana": "かりとり",
+      "gloss": "harvesting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        40322,
+        69479,
+        70796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209470/刈田/かりた": {
+      "id": 1209470,
+      "form": "刈田",
+      "kana": "かりた",
+      "gloss": "harvested rice field",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37181,
+        null,
+        81694,
+        167157
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "田": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1836670/角刈り/かくがり": {
+      "id": 1836670,
+      "form": "角刈り",
+      "kana": "かくがり",
+      "gloss": "crew cut",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        51518,
+        60741
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "角": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1476150/麦刈り/むぎかり": {
+      "id": 1476150,
+      "form": "麦刈り",
+      "kana": "むぎかり",
+      "gloss": "wheat harvest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34313,
+        139593,
+        null,
+        184024
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "麦": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209450/刈り上げる/かりあげる": {
+      "id": 1209450,
+      "form": "刈り上げる",
+      "kana": "かりあげる",
+      "gloss": "to harvest all of (a crop)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43098,
+        124069,
+        62219
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1881290/柴刈り/しばかり": {
+      "id": 1881290,
+      "form": "柴刈り",
+      "kana": "しばかり",
+      "gloss": "firewood gathering",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        153062,
+        119870
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1816860/芝刈り/しばかり": {
+      "id": 1816860,
+      "form": "芝刈り",
+      "kana": "しばかり",
+      "gloss": "lawn mowing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        23030,
+        null,
+        73506
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "芝": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2415060/刈り払い/かりはらい": {
+      "id": 2415060,
+      "form": "刈り払い",
+      "kana": "かりはらい",
+      "gloss": "weeding (prior to tree-planting)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        35006,
+        null,
+        313008
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "払": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2856222/毛刈り/けがり": {
+      "id": 2856222,
+      "form": "毛刈り",
+      "kana": "けがり",
+      "gloss": "shearing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        null,
+        97083
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "毛": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2415040/草刈り機/くさかりき": {
+      "id": 2415040,
+      "form": "草刈り機",
+      "kana": "くさかりき",
+      "gloss": "weed cutter",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        66810,
+        109270
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4,
+        "草": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209490/刈り入れる/かりいれる": {
+      "id": 1209490,
+      "form": "刈り入れる",
+      "kana": "かりいれる",
+      "gloss": "to harvest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        103074
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1816860/芝刈/しばかり": {
+      "id": 1816860,
+      "form": "芝刈",
+      "kana": "しばかり",
+      "gloss": "lawn mowing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        87205,
+        211035
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "芝": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2856223/手刈り/てがり": {
+      "id": 2856223,
+      "form": "手刈り",
+      "kana": "てがり",
+      "gloss": "cutting rice plants with a sickle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1267640/虎刈り/とらがり": {
+      "id": 1267640,
+      "form": "虎刈り",
+      "kana": "とらがり",
+      "gloss": "unevenly cropped (hair)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        181405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "虎": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209480/刈入れ/かりいれ": {
+      "id": 1209480,
+      "form": "刈入れ",
+      "kana": "かりいれ",
+      "gloss": "harvest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        161690,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1209520/刈穂/かりほ": {
+      "id": 1209520,
+      "form": "刈穂",
+      "kana": "かりほ",
+      "gloss": "harvested grain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        180417,
+        240145
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "穂": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1216340:丸刈:まるがり",
+      "form": "丸刈",
+      "kana": "まるがり",
+      "cue": "buzz cut; close crop",
+      "ids": [
+        1216340
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 235321
+      },
+      "alternatives_by_kanji": {
+        "丸": [
+          "1419440/弾丸/だんがん",
+          "1216290/丸み/まるみ",
+          "1216760/丸薬/がんやく"
+        ],
+        "刈": [
+          "1209540/刈る/かる",
+          "1209480/刈り入れ/かりいれ",
+          "1856580/頭を刈る/あたまをかる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 94
+}

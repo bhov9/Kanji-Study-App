@@ -1,0 +1,666 @@
+{
+  "character": "妃",
+  "grade": 7,
+  "meanings": [
+    "queen",
+    "princess"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 38
+    }
+  ],
+  "components": [
+    "女",
+    "已"
+  ],
+  "on": [
+    "ヒ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "きさき",
+      "stem": "きさき",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "き",
+    "ぴ",
+    "み"
+  ],
+  "government": {
+    "kanji": "妃",
+    "heading": "妃",
+    "readings": [
+      "ヒ"
+    ],
+    "examples_by_reading": [
+      [
+        "妃殿下",
+        "王妃"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "妃",
+      "reading": "ヒ",
+      "source": "table_27_hi.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヒ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1181670/王妃/おうひ",
+        "1483050/妃殿下/ひでんか",
+        "2870686/正妃/せいひ",
+        "1655760/后妃/こうひ",
+        "1655760/皇妃/こうひ",
+        "2856540/寵妃/ちょうひ",
+        "2742040/公妃/こうひ",
+        "1956860/妃/ひ",
+        "2014180/王太子妃/おうたいしひ",
+        "1280480/皇太子妃/こうたいしひ"
+      ]
+    },
+    {
+      "reading": "きさき",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1277320/妃/きさき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1181670/王妃/おうひ",
+    "1483050/妃殿下/ひでんか",
+    "2870686/正妃/せいひ",
+    "1655760/后妃/こうひ",
+    "1655760/皇妃/こうひ",
+    "2856540/寵妃/ちょうひ",
+    "2742040/公妃/こうひ",
+    "1956860/妃/ひ",
+    "1277320/妃/きさき",
+    "2014180/王太子妃/おうたいしひ",
+    "1280480/皇太子妃/こうたいしひ",
+    "1884180/親王妃/しんのうひ",
+    "2014190/王太妃/おうたいひ",
+    "1475000/白衣明妃/びゃくえみょうひ",
+    "2856829/妃嬪/ひひん"
+  ],
+  "candidates": {
+    "1181670/王妃/おうひ": {
+      "id": 1181670,
+      "form": "王妃",
+      "kana": "おうひ",
+      "gloss": "queen (consort)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20374,
+        15734,
+        9888,
+        20663
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1483050/妃殿下/ひでんか": {
+      "id": 1483050,
+      "form": "妃殿下",
+      "kana": "ひでんか",
+      "gloss": "princess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        98142,
+        73785
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1,
+        "殿": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2870686/正妃/せいひ": {
+      "id": 2870686,
+      "form": "正妃",
+      "kana": "せいひ",
+      "gloss": "legal wife of an emperor or king",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        192767,
+        64219
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "正": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655760/后妃/こうひ": {
+      "id": 1655760,
+      "form": "后妃",
+      "kana": "こうひ",
+      "gloss": "empress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        163107,
+        147854
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "后": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655760/皇妃/こうひ": {
+      "id": 1655760,
+      "form": "皇妃",
+      "kana": "こうひ",
+      "gloss": "empress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        null,
+        76395
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "皇": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856540/寵妃/ちょうひ": {
+      "id": 2856540,
+      "form": "寵妃",
+      "kana": "ちょうひ",
+      "gloss": "favourite concubine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        126496
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2742040/公妃/こうひ": {
+      "id": 2742040,
+      "form": "公妃",
+      "kana": "こうひ",
+      "gloss": "noble's consort",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        106351
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1956860/妃/ひ": {
+      "id": 1956860,
+      "form": "妃",
+      "kana": "ひ",
+      "gloss": "princess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        22783
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1277320/妃/きさき": {
+      "id": 1277320,
+      "form": "妃",
+      "kana": "きさき",
+      "gloss": "empress (consort)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49326
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "きさき": {
+          "actual": "きさき",
+          "dictionary": [
+            "きさき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2014180/王太子妃/おうたいしひ": {
+      "id": 2014180,
+      "form": "王太子妃",
+      "kana": "おうたいしひ",
+      "gloss": "crown princess",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        91199
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1,
+        "子": 1,
+        "太": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1280480/皇太子妃/こうたいしひ": {
+      "id": 1280480,
+      "form": "皇太子妃",
+      "kana": "こうたいしひ",
+      "gloss": "crown princess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        115493
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1,
+        "皇": 6,
+        "太": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1884180/親王妃/しんのうひ": {
+      "id": 1884180,
+      "form": "親王妃",
+      "kana": "しんのうひ",
+      "gloss": "Imperial princess",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        338783
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "親": 2,
+        "王": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2014190/王太妃/おうたいひ": {
+      "id": 2014190,
+      "form": "王太妃",
+      "kana": "おうたいひ",
+      "gloss": "crown princess",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1,
+        "太": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1475000/白衣明妃/びゃくえみょうひ": {
+      "id": 1475000,
+      "form": "白衣明妃",
+      "kana": "びゃくえみょうひ",
+      "gloss": "Pandara",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "衣": 4,
+        "明": 2,
+        "白": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856829/妃嬪/ひひん": {
+      "id": 2856829,
+      "form": "妃嬪",
+      "kana": "ひひん",
+      "gloss": "emperor's wife and concubines",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        121818,
+        null,
+        117689
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1956860:妃:ひ",
+      "form": "妃",
+      "kana": "ひ",
+      "cue": "princess; consort",
+      "ids": [
+        1956860
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 22783,
+        "shiberu": 3211,
+        "tubelex": 12351,
+        "wordfreq": 9888
+      },
+      "alternatives_by_kanji": {
+        "妃": [
+          "1181670/王妃/おうひ",
+          "1483050/妃殿下/ひでんか",
+          "2870686/正妃/せいひ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

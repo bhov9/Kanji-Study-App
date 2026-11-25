@@ -1,0 +1,846 @@
+{
+  "character": "叔",
+  "grade": 7,
+  "meanings": [
+    "uncle",
+    "youth"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 29
+    }
+  ],
+  "components": [
+    "小",
+    "卜",
+    "又"
+  ],
+  "on": [
+    "シュク"
+  ],
+  "kun": [],
+  "nanori": [
+    "よし"
+  ],
+  "government": {
+    "kanji": "叔",
+    "heading": "叔",
+    "readings": [
+      "シュク"
+    ],
+    "examples_by_reading": [
+      [
+        "伯叔"
+      ]
+    ],
+    "note_lines": [
+      "叔父（おじ）",
+      "叔母（おば）"
+    ],
+    "representative_index": {
+      "kanji": "叔",
+      "reading": "シュク",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "叔父",
+        "伯父"
+      ],
+      "reading": "おじ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "叔母",
+        "伯母"
+      ],
+      "reading": "おば",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "シュク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1474270/伯叔/はくしゅく",
+        "1607100/叔母/しゅくぼ",
+        "1607070/叔父/しゅくふ",
+        "1881990/叔世/しゅくせい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1474270/伯叔/はくしゅく",
+    "1607100/叔母/しゅくぼ",
+    "1607070/叔父/しゅくふ",
+    "1607100/叔母/おば",
+    "2157320/叔父貴/おじき",
+    "1588860/大叔父/おおおじ",
+    "1588870/大叔母/おおおば",
+    "1607070/叔父/おじ",
+    "2872058/叔父上/おじうえ",
+    "2785160/叔母ちゃん/おばちゃん",
+    "2838629/叔父者人/おじじゃひと",
+    "1881990/叔世/しゅくせい",
+    "2261490/叔父さん/おじさん",
+    "2261500/叔母さん/おばさん",
+    "2863377/叔父様/おじさま",
+    "2774820/叔父ちゃん/おじちゃん",
+    "2863377/叔父さま/おじさま",
+    "2648930/叔父御/おじご",
+    "2648960/阿叔/おとおじ",
+    "2648960/叔父/おとおじ",
+    "2863377/叔父さま/オジさま",
+    "2863377/叔父様/オジさま",
+    "2733220/叔母者人/おばじゃひと"
+  ],
+  "candidates": {
+    "1474270/伯叔/はくしゅく": {
+      "id": 1474270,
+      "form": "伯叔",
+      "kana": "はくしゅく",
+      "gloss": "brothers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伯": 7
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [
+        "シュク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1607100/叔母/しゅくぼ": {
+      "id": 1607100,
+      "form": "叔母",
+      "kana": "しゅくぼ",
+      "gloss": "aunt",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3125,
+        101749,
+        14132,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "母": 2
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1607070/叔父/しゅくふ": {
+      "id": 1607070,
+      "form": "叔父",
+      "kana": "しゅくふ",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "父": 2
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1607100/叔母/おば": {
+      "id": 1607100,
+      "form": "叔母",
+      "kana": "おば",
+      "gloss": "aunt",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3125,
+        101749,
+        14132,
+        19165
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "母": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2157320/叔父貴/おじき": {
+      "id": 2157320,
+      "form": "叔父貴",
+      "kana": "おじき",
+      "gloss": "uncle (younger than one's parent)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37199,
+        null,
+        null,
+        60321
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2,
+        "貴": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1588860/大叔父/おおおじ": {
+      "id": 1588860,
+      "form": "大叔父",
+      "kana": "おおおじ",
+      "gloss": "granduncle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        63004,
+        71816
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2,
+        "大": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1588870/大叔母/おおおば": {
+      "id": 1588870,
+      "form": "大叔母",
+      "kana": "おおおば",
+      "gloss": "grandaunt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        98142,
+        83971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "母": 2,
+        "大": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1607070/叔父/おじ": {
+      "id": 1607070,
+      "form": "叔父",
+      "kana": "おじ",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        14655
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2872058/叔父上/おじうえ": {
+      "id": 2872058,
+      "form": "叔父上",
+      "kana": "おじうえ",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42758
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2,
+        "上": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2785160/叔母ちゃん/おばちゃん": {
+      "id": 2785160,
+      "form": "叔母ちゃん",
+      "kana": "おばちゃん",
+      "gloss": "auntie",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75270
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "母": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2838629/叔父者人/おじじゃひと": {
+      "id": 2838629,
+      "form": "叔父者人",
+      "kana": "おじじゃひと",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "父": 2,
+        "人": 1,
+        "者": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1881990/叔世/しゅくせい": {
+      "id": 1881990,
+      "form": "叔世",
+      "kana": "しゅくせい",
+      "gloss": "age of decline",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "世": 3
+      },
+      "matched": {
+        "シュク": {
+          "actual": "しゅく",
+          "dictionary": [
+            "シュク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2261490/叔父さん/おじさん": {
+      "id": 2261490,
+      "form": "叔父さん",
+      "kana": "おじさん",
+      "gloss": "uncle",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        24433,
+        17688
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2261500/叔母さん/おばさん": {
+      "id": 2261500,
+      "form": "叔母さん",
+      "kana": "おばさん",
+      "gloss": "aunt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        37034,
+        24202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "母": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2863377/叔父様/おじさま": {
+      "id": 2863377,
+      "form": "叔父様",
+      "kana": "おじさま",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "dated",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        46864
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2,
+        "様": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2774820/叔父ちゃん/おじちゃん": {
+      "id": 2774820,
+      "form": "叔父ちゃん",
+      "kana": "おじちゃん",
+      "gloss": "middle-aged man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        79436
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2863377/叔父さま/おじさま": {
+      "id": 2863377,
+      "form": "叔父さま",
+      "kana": "おじさま",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "dated",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        81732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2648930/叔父御/おじご": {
+      "id": 2648930,
+      "form": "叔父御",
+      "kana": "おじご",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        118983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "父": 2,
+        "御": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2648960/阿叔/おとおじ": {
+      "id": 2648960,
+      "form": "阿叔",
+      "kana": "おとおじ",
+      "gloss": "uncle (one's father's younger brother)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2648960/叔父/おとおじ": {
+      "id": 2648960,
+      "form": "叔父",
+      "kana": "おとおじ",
+      "gloss": "uncle (one's father's younger brother)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "父": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2863377/叔父さま/オジさま": {
+      "id": 2863377,
+      "form": "叔父さま",
+      "kana": "オジさま",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "dated",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "父": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2863377/叔父様/オジさま": {
+      "id": 2863377,
+      "form": "叔父様",
+      "kana": "オジさま",
+      "gloss": "uncle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "dated",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "父": 2,
+        "様": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2733220/叔母者人/おばじゃひと": {
+      "id": 2733220,
+      "form": "叔母者人",
+      "kana": "おばじゃひと",
+      "gloss": "aunt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch",
+        "ateji"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "母": 2,
+        "人": 1,
+        "者": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1607070:叔父:おじ",
+      "form": "叔父",
+      "kana": "おじ",
+      "cue": "uncle",
+      "ids": [
+        1607070
+      ],
+      "mapping": "needs-review",
+      "flags": [],
+      "issues": [
+        "check segmentation",
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 14655,
+        "shiberu": 2303,
+        "tubelex": 109954,
+        "wordfreq": 7753
+      },
+      "alternatives_by_kanji": {
+        "父": [
+          "1497680/父親/ちちおや",
+          "1396840/祖父/そふ",
+          "1497690/父母/ふぼ"
+        ],
+        "叔": [
+          "1474270/伯叔/はくしゅく",
+          "1607100/叔母/しゅくぼ",
+          "1607100/叔母/おば"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 19
+}

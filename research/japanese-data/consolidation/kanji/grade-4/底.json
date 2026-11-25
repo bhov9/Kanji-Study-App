@@ -1,0 +1,1240 @@
+{
+  "character": "底",
+  "grade": 4,
+  "meanings": [
+    "bottom",
+    "sole",
+    "depth",
+    "bottom price",
+    "base",
+    "kind",
+    "sort"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 53
+    }
+  ],
+  "components": [
+    "氏",
+    "广"
+  ],
+  "on": [
+    "テイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "そこ",
+      "stem": "そこ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "底",
+    "heading": "底",
+    "readings": [
+      "テイ",
+      "そこ"
+    ],
+    "examples_by_reading": [
+      [
+        "底流",
+        "海底",
+        "到底"
+      ],
+      [
+        "底",
+        "奥底"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "底",
+      "reading": "テイ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 75,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1201650/海底/かいてい",
+        "1661430/底流/ていりゅう",
+        "1576700/奥底/おうてい",
+        "2238220/底/てい",
+        "1437670/徹底/てってい",
+        "1290260/根底/こんてい",
+        "1763610/地底/ちてい",
+        "1661390/底辺/ていへん",
+        "1759010/底面/ていめん",
+        "1219140/基底/きてい"
+      ]
+    },
+    {
+      "reading": "そこ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 47,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1576700/奥底/おくそこ",
+        "1436050/底/そこ",
+        "1360860/心底/しんそこ",
+        "1436120/底力/そこぢから",
+        "1436090/底抜け/そこぬけ",
+        "1648650/底上げ/そこあげ",
+        "1436110/底なし/そこなし",
+        "1436100/底本/そこぼん",
+        "1436100/底本/そこほん",
+        "1581080/船底/ふなそこ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1201650/海底/かいてい",
+    "1576700/奥底/おくそこ",
+    "1661430/底流/ていりゅう",
+    "1576700/奥底/おうてい",
+    "1436050/底/そこ",
+    "2238220/底/てい",
+    "1437670/徹底/てってい",
+    "1360860/心底/しんそこ",
+    "1290260/根底/こんてい",
+    "1763610/地底/ちてい",
+    "1661390/底辺/ていへん",
+    "1759010/底面/ていめん",
+    "1436120/底力/そこぢから",
+    "1219140/基底/きてい",
+    "1436100/底本/ていほん",
+    "1436090/底抜け/そこぬけ",
+    "1581080/船底/せんてい",
+    "1804020/眼底/がんてい",
+    "1360860/心底/しんてい",
+    "1648650/底上げ/そこあげ",
+    "1436110/底なし/そこなし",
+    "1436100/底本/そこぼん",
+    "1436100/底本/そこほん",
+    "1581080/船底/ふなそこ",
+    "1436060/底値/そこね",
+    "2821360/底部/ていぶ",
+    "1660690/底堅い/そこがたい",
+    "1436110/底無し/そこなし",
+    "1718100/湖底/こてい",
+    "1759000/底冷え/そこびえ"
+  ],
+  "candidates": {
+    "1201650/海底/かいてい": {
+      "id": 1201650,
+      "form": "海底",
+      "kana": "かいてい",
+      "gloss": "bottom of the ocean",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5778,
+        6854,
+        10707,
+        16867
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "海": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1576700/奥底/おくそこ": {
+      "id": 1576700,
+      "form": "奥底",
+      "kana": "おくそこ",
+      "gloss": "depths",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14752,
+        17882,
+        23216,
+        9534
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奥": 7
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [
+        "そこ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1661430/底流/ていりゅう": {
+      "id": 1661430,
+      "form": "底流",
+      "kana": "ていりゅう",
+      "gloss": "undercurrent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        36376,
+        95069,
+        79465,
+        118603
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1576700/奥底/おうてい": {
+      "id": 1576700,
+      "form": "奥底",
+      "kana": "おうてい",
+      "gloss": "depths",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14752,
+        17882,
+        23216,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "奥": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "そこ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1436050/底/そこ": {
+      "id": 1436050,
+      "form": "底",
+      "kana": "そこ",
+      "gloss": "bottom",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2312
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [
+        "そこ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2238220/底/てい": {
+      "id": 2238220,
+      "form": "底",
+      "kana": "てい",
+      "gloss": "base (logarithmic, exponential, number system)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "そこ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1437670/徹底/てってい": {
+      "id": 1437670,
+      "form": "徹底",
+      "kana": "てってい",
+      "gloss": "thoroughness",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3153,
+        2743,
+        5047,
+        5697
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "徹": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1360860/心底/しんそこ": {
+      "id": 1360860,
+      "form": "心底",
+      "kana": "しんそこ",
+      "gloss": "bottom of one's heart",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8336,
+        21173,
+        14937,
+        4088
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1290260/根底/こんてい": {
+      "id": 1290260,
+      "form": "根底",
+      "kana": "こんてい",
+      "gloss": "root",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7892,
+        11613,
+        15595,
+        13716
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "根": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1763610/地底/ちてい": {
+      "id": 1763610,
+      "form": "地底",
+      "kana": "ちてい",
+      "gloss": "depths of the earth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7089,
+        18615,
+        28048,
+        27819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661390/底辺/ていへん": {
+      "id": 1661390,
+      "form": "底辺",
+      "kana": "ていへん",
+      "gloss": "base (of a polygon)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23619,
+        13418,
+        16052,
+        18330
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辺": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1759010/底面/ていめん": {
+      "id": 1759010,
+      "form": "底面",
+      "kana": "ていめん",
+      "gloss": "bottom",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28863,
+        12571,
+        34525,
+        53579
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436120/底力/そこぢから": {
+      "id": 1436120,
+      "form": "底力",
+      "kana": "そこぢから",
+      "gloss": "hidden reserves of strength",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24624,
+        25023,
+        32548,
+        26998
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1219140/基底/きてい": {
+      "id": 1219140,
+      "form": "基底",
+      "kana": "きてい",
+      "gloss": "base",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27002,
+        32846,
+        36201,
+        70487
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "基": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436100/底本/ていほん": {
+      "id": 1436100,
+      "form": "底本",
+      "kana": "ていほん",
+      "gloss": "original text",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24460,
+        36550,
+        55944,
+        35737
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436090/底抜け/そこぬけ": {
+      "id": 1436090,
+      "form": "底抜け",
+      "kana": "そこぬけ",
+      "gloss": "bottomless (bucket, etc.)",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29015,
+        44959,
+        40209,
+        24759
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抜": 7
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1581080/船底/せんてい": {
+      "id": 1581080,
+      "form": "船底",
+      "kana": "せんてい",
+      "gloss": "ship's bottom",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25793,
+        38931,
+        47321,
+        37133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "船": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1804020/眼底/がんてい": {
+      "id": 1804020,
+      "form": "眼底",
+      "kana": "がんてい",
+      "gloss": "fundus of the eye",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31331,
+        54711,
+        84059,
+        83816
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "眼": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1360860/心底/しんてい": {
+      "id": 1360860,
+      "form": "心底",
+      "kana": "しんてい",
+      "gloss": "bottom of one's heart",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8336,
+        21173,
+        14937,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1648650/底上げ/そこあげ": {
+      "id": 1648650,
+      "form": "底上げ",
+      "kana": "そこあげ",
+      "gloss": "raising (the standard)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        16004,
+        26398,
+        26101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436110/底なし/そこなし": {
+      "id": 1436110,
+      "form": "底なし",
+      "kana": "そこなし",
+      "gloss": "bottomless",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23882,
+        null,
+        32914,
+        14803
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436100/底本/そこぼん": {
+      "id": 1436100,
+      "form": "底本",
+      "kana": "そこぼん",
+      "gloss": "original text",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24460,
+        36550,
+        55944,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436100/底本/そこほん": {
+      "id": 1436100,
+      "form": "底本",
+      "kana": "そこほん",
+      "gloss": "original text",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24460,
+        36550,
+        55944,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1581080/船底/ふなそこ": {
+      "id": 1581080,
+      "form": "船底",
+      "kana": "ふなそこ",
+      "gloss": "ship's bottom",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25793,
+        38931,
+        47321,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "船": 2
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436060/底値/そこね": {
+      "id": 1436060,
+      "form": "底値",
+      "kana": "そこね",
+      "gloss": "bottom price",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17363,
+        45339,
+        83045
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "値": 6
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2821360/底部/ていぶ": {
+      "id": 2821360,
+      "form": "底部",
+      "kana": "ていぶ",
+      "gloss": "base",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32984,
+        28068,
+        null,
+        53119
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "部": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1660690/底堅い/そこがたい": {
+      "id": 1660690,
+      "form": "底堅い",
+      "kana": "そこがたい",
+      "gloss": "stable (market) after having bottomed out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26476,
+        97220,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "堅": 7
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436110/底無し/そこなし": {
+      "id": 1436110,
+      "form": "底無し",
+      "kana": "そこなし",
+      "gloss": "bottomless",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37698,
+        68819,
+        48185
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1718100/湖底/こてい": {
+      "id": 1718100,
+      "form": "湖底",
+      "kana": "こてい",
+      "gloss": "bottom of a lake",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        68122,
+        54510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "湖": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1759000/底冷え/そこびえ": {
+      "id": 1759000,
+      "form": "底冷え",
+      "kana": "そこびえ",
+      "gloss": "penetrating cold",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        138339,
+        29703
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "冷": 4
+      },
+      "matched": {
+        "そこ": {
+          "actual": "そこ",
+          "dictionary": [
+            "そこ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1436050:底:そこ",
+      "form": "底",
+      "kana": "そこ",
+      "cue": "bottom; sole",
+      "ids": [
+        1436050
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2312,
+        "shiberu": 2169,
+        "tubelex": 2258,
+        "wordfreq": 3315
+      },
+      "alternatives_by_kanji": {
+        "底": [
+          "1201650/海底/かいてい",
+          "1576700/奥底/おくそこ",
+          "1661430/底流/ていりゅう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 44
+}

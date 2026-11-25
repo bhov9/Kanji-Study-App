@@ -1,0 +1,1652 @@
+{
+  "character": "豆",
+  "grade": 3,
+  "meanings": [
+    "beans",
+    "pea",
+    "midget"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 151
+    }
+  ],
+  "components": [
+    "口",
+    "豆",
+    "并"
+  ],
+  "on": [
+    "トウ",
+    "ズ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "まめ",
+      "stem": "まめ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "まめ-",
+      "stem": "まめ-",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "ど",
+    "ま"
+  ],
+  "government": {
+    "kanji": "豆",
+    "heading": "豆",
+    "readings": [
+      "トウ",
+      "ズ",
+      "まめ"
+    ],
+    "examples_by_reading": [
+      [
+        "豆腐",
+        "納豆"
+      ],
+      [
+        "大豆"
+      ],
+      [
+        "豆",
+        "豆粒",
+        "煮豆"
+      ]
+    ],
+    "note_lines": [
+      "小豆（あずき）"
+    ],
+    "representative_index": {
+      "kanji": "豆",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "小豆"
+      ],
+      "reading": "あずき",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 28,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1450070/豆腐/とうふ",
+        "1470070/納豆/なっとう",
+        "1450060/豆乳/とうにゅう",
+        "1820130/緑豆/りょくとう",
+        "2738880/豆苗/とうみょう",
+        "1790110/甘納豆/あまなっとう",
+        "1944050/豆腐屋/とうふや",
+        "2841703/豆腐メンタル/とうふメンタル",
+        "2845702/納豆ご飯/なっとうごはん",
+        "2136270/納豆菌/なっとうきん"
+      ]
+    },
+    {
+      "reading": "ズ",
+      "official": true,
+      "stage": "elementary",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 16,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1414680/大豆/だいず",
+        "2845049/伊豆/いず",
+        "1348560/小豆/しょうず",
+        "5115734/伊豆急行/いずきゅうこう",
+        "2851150/駿豆/すんず",
+        "2831817/黒大豆/くろだいず",
+        "2820970/丸大豆/まるだいず",
+        "2841388/大豆ミート/だいずミート",
+        "2154710/大豆粉/だいずこ",
+        "1785750/大豆油/だいずゆ"
+      ]
+    },
+    {
+      "reading": "まめ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 75,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1322600/煮豆/にまめ",
+        "1692230/豆粒/まめつぶ",
+        "1310570/枝豆/えだまめ",
+        "1288020/黒豆/くろまめ",
+        "1450040/豆撒き/まめまき",
+        "1692200/豆板/まめいた",
+        "1450080/豆本/まめほん",
+        "1255370/血豆/ちまめ",
+        "1692260/豆蔵/まめぞう",
+        "1750120/青豆/あおまめ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1450070/豆腐/とうふ",
+    "1470070/納豆/なっとう",
+    "1414680/大豆/だいず",
+    "1322600/煮豆/にまめ",
+    "1692230/豆粒/まめつぶ",
+    "1450060/豆乳/とうにゅう",
+    "1310570/枝豆/えだまめ",
+    "2845049/伊豆/いず",
+    "1348560/小豆/しょうず",
+    "1288020/黒豆/くろまめ",
+    "1820130/緑豆/りょくとう",
+    "1450040/豆撒き/まめまき",
+    "1692200/豆板/まめいた",
+    "1450080/豆本/まめほん",
+    "1255370/血豆/ちまめ",
+    "1692260/豆蔵/まめぞう",
+    "1750120/青豆/あおまめ",
+    "2834527/福豆/ふくまめ",
+    "1692220/豆炭/まめたん",
+    "2035690/炒り豆/いりまめ",
+    "1178810/塩豆/しおまめ",
+    "1944040/豆粕/まめかす",
+    "1922730/雛豆/ひよこまめ",
+    "2738880/豆苗/とうみょう",
+    "1450100/豆類/まめるい",
+    "1450050/豆鉄砲/まめでっぽう",
+    "1790110/甘納豆/あまなっとう",
+    "2866202/豆餅/まめもち",
+    "2273870/豆球/まめきゅう",
+    "1731690/蜜豆/みつまめ"
+  ],
+  "candidates": {
+    "1450070/豆腐/とうふ": {
+      "id": 1450070,
+      "form": "豆腐",
+      "kana": "とうふ",
+      "gloss": "tofu",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5040,
+        3179,
+        5790,
+        11888
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腐": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1470070/納豆/なっとう": {
+      "id": 1470070,
+      "form": "納豆",
+      "kana": "なっとう",
+      "gloss": "natto (fermented soybeans)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15044,
+        6063,
+        8169,
+        16993
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "納": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1414680/大豆/だいず": {
+      "id": 1414680,
+      "form": "大豆",
+      "kana": "だいず",
+      "gloss": "soya bean (Glycine max)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23154,
+        6528,
+        12695,
+        31943
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ズ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1322600/煮豆/にまめ": {
+      "id": 1322600,
+      "form": "煮豆",
+      "kana": "にまめ",
+      "gloss": "simmered beans",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39598,
+        81652,
+        80148,
+        74618
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "煮": 7
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [
+        "まめ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1692230/豆粒/まめつぶ": {
+      "id": 1692230,
+      "form": "豆粒",
+      "kana": "まめつぶ",
+      "gloss": "(single) bean",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        49441,
+        73498,
+        32127
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "粒": 7
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [
+        "まめ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1450060/豆乳/とうにゅう": {
+      "id": 1450060,
+      "form": "豆乳",
+      "kana": "とうにゅう",
+      "gloss": "soy milk",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39279,
+        10224,
+        12275,
+        39816
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乳": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1310570/枝豆/えだまめ": {
+      "id": 1310570,
+      "form": "枝豆",
+      "kana": "えだまめ",
+      "gloss": "edamame (green soybeans)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30129,
+        12188,
+        20603,
+        36784
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "枝": 5
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845049/伊豆/いず": {
+      "id": 2845049,
+      "form": "伊豆",
+      "kana": "いず",
+      "gloss": "Izu (former province located on the Izu Peninsula in present-day Shizuoka Prefecture, and the Izu Islands)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2991,
+        null,
+        12892,
+        31524
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1348560/小豆/しょうず": {
+      "id": 1348560,
+      "form": "小豆",
+      "kana": "しょうず",
+      "gloss": "adzuki bean (Vigna angularis)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10172,
+        8819,
+        19315,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1288020/黒豆/くろまめ": {
+      "id": 1288020,
+      "form": "黒豆",
+      "kana": "くろまめ",
+      "gloss": "black soybean",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19130,
+        37951,
+        50965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "黒": 2
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1820130/緑豆/りょくとう": {
+      "id": 1820130,
+      "form": "緑豆",
+      "kana": "りょくとう",
+      "gloss": "mung bean (Vigna radiata)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50117,
+        83270,
+        132368
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "緑": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450040/豆撒き/まめまき": {
+      "id": 1450040,
+      "form": "豆撒き",
+      "kana": "まめまき",
+      "gloss": "sowing beans (or pulses, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41067,
+        170790,
+        168713
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692200/豆板/まめいた": {
+      "id": 1692200,
+      "form": "豆板",
+      "kana": "まめいた",
+      "gloss": "candied bean slab",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        46387,
+        138487
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "板": 3
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450080/豆本/まめほん": {
+      "id": 1450080,
+      "form": "豆本",
+      "kana": "まめほん",
+      "gloss": "miniature book",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        70783,
+        160746
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1255370/血豆/ちまめ": {
+      "id": 1255370,
+      "form": "血豆",
+      "kana": "ちまめ",
+      "gloss": "blood blister",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        82481,
+        98155
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "血": 3
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692260/豆蔵/まめぞう": {
+      "id": 1692260,
+      "form": "豆蔵",
+      "kana": "まめぞう",
+      "gloss": "loquacious man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        103620,
+        193991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蔵": 6
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1750120/青豆/あおまめ": {
+      "id": 1750120,
+      "form": "青豆",
+      "kana": "あおまめ",
+      "gloss": "large green soybean",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        125270,
+        118088
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "青": 1
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834527/福豆/ふくまめ": {
+      "id": 2834527,
+      "form": "福豆",
+      "kana": "ふくまめ",
+      "gloss": "parched beans scattered on Setsubun",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        142244,
+        157412
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "福": 3
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692220/豆炭/まめたん": {
+      "id": 1692220,
+      "form": "豆炭",
+      "kana": "まめたん",
+      "gloss": "(oval) charcoal briquette",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        140911,
+        219495
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "炭": 3
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2035690/炒り豆/いりまめ": {
+      "id": 2035690,
+      "form": "炒り豆",
+      "kana": "いりまめ",
+      "gloss": "parched or roasted beans (or soybeans)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        187348,
+        130053
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1178810/塩豆/しおまめ": {
+      "id": 1178810,
+      "form": "塩豆",
+      "kana": "しおまめ",
+      "gloss": "salted beans",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        173990,
+        173409
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塩": 4
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1944040/豆粕/まめかす": {
+      "id": 1944040,
+      "form": "豆粕",
+      "kana": "まめかす",
+      "gloss": "bean cake",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        189078,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1922730/雛豆/ひよこまめ": {
+      "id": 1922730,
+      "form": "雛豆",
+      "kana": "ひよこまめ",
+      "gloss": "chickpea (Cicer arietinum)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31906,
+        null,
+        263564
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2738880/豆苗/とうみょう": {
+      "id": 2738880,
+      "form": "豆苗",
+      "kana": "とうみょう",
+      "gloss": "pea sprouts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39641,
+        null,
+        108562
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "苗": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450100/豆類/まめるい": {
+      "id": 1450100,
+      "form": "豆類",
+      "kana": "まめるい",
+      "gloss": "pulse (edible seeds of various leguminous crops)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        47810,
+        92735
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "類": 4
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450050/豆鉄砲/まめでっぽう": {
+      "id": 1450050,
+      "form": "豆鉄砲",
+      "kana": "まめでっぽう",
+      "gloss": "peashooter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        78707,
+        31001
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉄": 3,
+        "砲": 7
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1790110/甘納豆/あまなっとう": {
+      "id": 1790110,
+      "form": "甘納豆",
+      "kana": "あまなっとう",
+      "gloss": "amanatto",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        74977,
+        94342
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "納": 6,
+        "甘": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866202/豆餅/まめもち": {
+      "id": 2866202,
+      "form": "豆餅",
+      "kana": "まめもち",
+      "gloss": "mame mochi",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        148706
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "餅": 7
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2273870/豆球/まめきゅう": {
+      "id": 2273870,
+      "form": "豆球",
+      "kana": "まめきゅう",
+      "gloss": "miniature light bulb",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        null,
+        130193
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "球": 3
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1731690/蜜豆/みつまめ": {
+      "id": 1731690,
+      "form": "蜜豆",
+      "kana": "みつまめ",
+      "gloss": "mixture of boiled beans, agar cubes, fruit pieces and syrup",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        null,
+        142967
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蜜": 7
+      },
+      "matched": {
+        "まめ": {
+          "actual": "まめ",
+          "dictionary": [
+            "まめ",
+            "まめ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1944050/豆腐屋/とうふや": {
+      "id": 1944050,
+      "form": "豆腐屋",
+      "kana": "とうふや",
+      "gloss": "tofu shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50620
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腐": 7,
+        "屋": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841703/豆腐メンタル/とうふメンタル": {
+      "id": 2841703,
+      "form": "豆腐メンタル",
+      "kana": "とうふメンタル",
+      "gloss": "(extreme) mental weakness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        101664
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腐": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845702/納豆ご飯/なっとうごはん": {
+      "id": 2845702,
+      "form": "納豆ご飯",
+      "kana": "なっとうごはん",
+      "gloss": "natto served on rice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114211
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4,
+        "納": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2136270/納豆菌/なっとうきん": {
+      "id": 2136270,
+      "form": "納豆菌",
+      "kana": "なっとうきん",
+      "gloss": "natto bacteria (Bacillus subtilis var. natto)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114773
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "菌": 7,
+        "納": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5115734/伊豆急行/いずきゅうこう": {
+      "id": 5115734,
+      "form": "伊豆急行",
+      "kana": "いずきゅうこう",
+      "gloss": "Izukyu Corporation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        121853,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "急": 3
+      },
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851150/駿豆/すんず": {
+      "id": 2851150,
+      "form": "駿豆",
+      "kana": "すんず",
+      "gloss": "Suruga and Izu (provinces)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        271957
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831817/黒大豆/くろだいず": {
+      "id": 2831817,
+      "form": "黒大豆",
+      "kana": "くろだいず",
+      "gloss": "black soybean",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169203
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "黒": 2,
+        "大": 1
+      },
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2820970/丸大豆/まるだいず": {
+      "id": 2820970,
+      "form": "丸大豆",
+      "kana": "まるだいず",
+      "gloss": "whole soybeans",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        196402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丸": 2,
+        "大": 1
+      },
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841388/大豆ミート/だいずミート": {
+      "id": 2841388,
+      "form": "大豆ミート",
+      "kana": "だいずミート",
+      "gloss": "soy meat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        196622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2154710/大豆粉/だいずこ": {
+      "id": 2154710,
+      "form": "大豆粉",
+      "kana": "だいずこ",
+      "gloss": "soy flour",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        198571
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "粉": 5,
+        "大": 1
+      },
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1785750/大豆油/だいずゆ": {
+      "id": 1785750,
+      "form": "大豆油",
+      "kana": "だいずゆ",
+      "gloss": "soybean oil",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        240798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "油": 3,
+        "大": 1
+      },
+      "matched": {
+        "ズ": {
+          "actual": "ず",
+          "dictionary": [
+            "ズ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1450030:豆:まめ",
+      "form": "豆",
+      "kana": "まめ",
+      "cue": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses); bean",
+      "ids": [
+        1450030
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7834,
+        "shiberu": 3644,
+        "tubelex": 2915,
+        "wordfreq": 3884
+      },
+      "alternatives_by_kanji": {
+        "豆": [
+          "1450070/豆腐/とうふ",
+          "1470070/納豆/なっとう",
+          "1414680/大豆/だいず"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 127
+}

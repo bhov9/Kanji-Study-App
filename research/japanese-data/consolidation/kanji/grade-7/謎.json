@@ -1,0 +1,873 @@
+{
+  "character": "謎",
+  "grade": 7,
+  "meanings": [
+    "riddle",
+    "puzzle",
+    "enigma",
+    "hint",
+    "tip"
+  ],
+  "strokes": [
+    16,
+    17
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "込",
+    "米"
+  ],
+  "on": [
+    "メイ",
+    "ベイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "なぞ",
+      "stem": "なぞ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "謎",
+    "heading": "謎［謎］",
+    "readings": [
+      "なぞ"
+    ],
+    "examples_by_reading": [
+      [
+        "謎"
+      ]
+    ],
+    "note_lines": [
+      "［謎］＝許容字体，",
+      "＊［（付）第２の１参照］"
+    ],
+    "representative_index": {
+      "kanji": "謎",
+      "reading": "なぞ",
+      "source": "table_21_na.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "なぞ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1459690/謎/なぞ",
+        "1642750/謎解き/なぞとき",
+        "2402210/謎を解く/なぞをとく",
+        "2839150/謎めいた/なぞめいた",
+        "2038810/謎めく/なぞめく",
+        "2833848/謎い/なぞい",
+        "1899100/謎をかける/なぞをかける",
+        "2402210/謎をとく/なぞをとく",
+        "2838942/謎仕様/なぞしよう",
+        "1899100/謎を掛ける/なぞをかける"
+      ]
+    },
+    {
+      "reading": "メイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2834516/謎語/めいご"
+      ]
+    },
+    {
+      "reading": "ベイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1459690/謎/なぞ",
+    "1642750/謎解き/なぞとき",
+    "2402210/謎を解く/なぞをとく",
+    "2839150/謎めいた/なぞめいた",
+    "2038810/謎めく/なぞめく",
+    "2833848/謎い/なぞい",
+    "1899100/謎をかける/なぞをかける",
+    "2402210/謎をとく/なぞをとく",
+    "2838942/謎仕様/なぞしよう",
+    "1899100/謎を掛ける/なぞをかける",
+    "2402210/謎を説く/なぞをとく",
+    "1642750/謎解/なぞとき",
+    "2837478/謎染/なぞぞめ",
+    "2837478/謎染め/なぞぞめ",
+    "2873275/謎本/なぞぼん",
+    "2873275/謎本/なぞほん",
+    "1599500/謎々/なぞなぞ",
+    "2211740/謎掛け/なぞかけ",
+    "2211740/謎かけ/なぞかけ",
+    "1599500/謎謎/なぞなぞ",
+    "2834516/謎語/めいご"
+  ],
+  "candidates": {
+    "1459690/謎/なぞ": {
+      "id": 1459690,
+      "form": "謎",
+      "kana": "なぞ",
+      "gloss": "riddle",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2208,
+        1541,
+        1342,
+        1464
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [
+        "なぞ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1642750/謎解き/なぞとき": {
+      "id": 1642750,
+      "form": "謎解き",
+      "kana": "なぞとき",
+      "gloss": "solving a riddle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        9000,
+        null,
+        24315
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2402210/謎を解く/なぞをとく": {
+      "id": 2402210,
+      "form": "謎を解く",
+      "kana": "なぞをとく",
+      "gloss": "to solve a mystery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        18662
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839150/謎めいた/なぞめいた": {
+      "id": 2839150,
+      "form": "謎めいた",
+      "kana": "なぞめいた",
+      "gloss": "enigmatic",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-f"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23010
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2038810/謎めく/なぞめく": {
+      "id": 2038810,
+      "form": "謎めく",
+      "kana": "なぞめく",
+      "gloss": "to be enigmatic",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        41300
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2833848/謎い/なぞい": {
+      "id": 2833848,
+      "form": "謎い",
+      "kana": "なぞい",
+      "gloss": "mystifying",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        92297
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1899100/謎をかける/なぞをかける": {
+      "id": 1899100,
+      "form": "謎をかける",
+      "kana": "なぞをかける",
+      "gloss": "to pose a riddle",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        121896
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2402210/謎をとく/なぞをとく": {
+      "id": 2402210,
+      "form": "謎をとく",
+      "kana": "なぞをとく",
+      "gloss": "to solve a mystery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        134039
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2838942/謎仕様/なぞしよう": {
+      "id": 2838942,
+      "form": "謎仕様",
+      "kana": "なぞしよう",
+      "gloss": "confusing set-up",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        184494
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3,
+        "仕": 3
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1899100/謎を掛ける/なぞをかける": {
+      "id": 1899100,
+      "form": "謎を掛ける",
+      "kana": "なぞをかける",
+      "gloss": "to pose a riddle",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        192960
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掛": 7
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2402210/謎を説く/なぞをとく": {
+      "id": 2402210,
+      "form": "謎を説く",
+      "kana": "なぞをとく",
+      "gloss": "to solve a mystery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1642750/謎解/なぞとき": {
+      "id": 1642750,
+      "form": "謎解",
+      "kana": "なぞとき",
+      "gloss": "solving a riddle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837478/謎染/なぞぞめ": {
+      "id": 2837478,
+      "form": "謎染",
+      "kana": "なぞぞめ",
+      "gloss": "dyeing pattern incorporating a riddle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "染": 6
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837478/謎染め/なぞぞめ": {
+      "id": 2837478,
+      "form": "謎染め",
+      "kana": "なぞぞめ",
+      "gloss": "dyeing pattern incorporating a riddle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "染": 6
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2873275/謎本/なぞぼん": {
+      "id": 2873275,
+      "form": "謎本",
+      "kana": "なぞぼん",
+      "gloss": "book analyzing the mysteries of a work of fiction or other popular subject",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2873275/謎本/なぞほん": {
+      "id": 2873275,
+      "form": "謎本",
+      "kana": "なぞほん",
+      "gloss": "book analyzing the mysteries of a work of fiction or other popular subject",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1599500/謎々/なぞなぞ": {
+      "id": 1599500,
+      "form": "謎々",
+      "kana": "なぞなぞ",
+      "gloss": "riddle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        23266,
+        null,
+        94981
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2211740/謎掛け/なぞかけ": {
+      "id": 2211740,
+      "form": "謎掛け",
+      "kana": "なぞかけ",
+      "gloss": "telling a riddle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        43563,
+        null,
+        72923
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掛": 7
+      },
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2211740/謎かけ/なぞかけ": {
+      "id": 2211740,
+      "form": "謎かけ",
+      "kana": "なぞかけ",
+      "gloss": "telling a riddle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        32565
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1599500/謎謎/なぞなぞ": {
+      "id": 1599500,
+      "form": "謎謎",
+      "kana": "なぞなぞ",
+      "gloss": "riddle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        220114
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なぞ": {
+          "actual": "なぞ",
+          "dictionary": [
+            "なぞ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2834516/謎語/めいご": {
+      "id": 2834516,
+      "form": "謎語",
+      "kana": "めいご",
+      "gloss": "mysterious words",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "語": 2
+      },
+      "matched": {
+        "メイ": {
+          "actual": "めい",
+          "dictionary": [
+            "メイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1459690:謎:なぞ",
+      "form": "謎",
+      "kana": "なぞ",
+      "cue": "riddle; puzzle",
+      "ids": [
+        1459690
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1464,
+        "shiberu": 2208,
+        "tubelex": 1541,
+        "wordfreq": 1342
+      },
+      "alternatives_by_kanji": {
+        "謎": [
+          "1642750/謎解き/なぞとき",
+          "2402210/謎を解く/なぞをとく",
+          "2839150/謎めいた/なぞめいた"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

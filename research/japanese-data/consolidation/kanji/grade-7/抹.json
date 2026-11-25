@@ -1,0 +1,808 @@
+{
+  "character": "抹",
+  "grade": 7,
+  "meanings": [
+    "rub",
+    "paint",
+    "erase"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "｜",
+    "一",
+    "ハ",
+    "木",
+    "亠",
+    "扎"
+  ],
+  "on": [
+    "マツ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "抹",
+    "heading": "抹",
+    "readings": [
+      "マツ"
+    ],
+    "examples_by_reading": [
+      [
+        "抹殺",
+        "抹消",
+        "一抹"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "抹",
+      "reading": "マツ",
+      "source": "table_31_ma.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "マツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1525190/抹殺/まっさつ",
+        "1525200/抹消/まっしょう",
+        "1166790/一抹/いちまつ",
+        "1444330/塗抹/とまつ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1525190/抹殺/まっさつ",
+    "1525200/抹消/まっしょう",
+    "1166790/一抹/いちまつ",
+    "1444330/塗抹/とまつ",
+    "1525220/抹茶/まっちゃ",
+    "1604060/抹香/まっこう",
+    "2869360/抹茶味/まっちゃあじ",
+    "2832655/登録抹消/とうろくまっしょう",
+    "1640920/抹香臭い/まっこうくさい",
+    "2751390/抹茶色/まっちゃいろ",
+    "2736270/抹茶塩/まっちゃじお",
+    "2679030/抹茶アイスクリーム/まっちゃアイスクリーム",
+    "2736270/抹茶塩/まっちゃしお",
+    "1525210/抹消登録証明書/まっしょうとうろくしょうめいしょ",
+    "1640910/抹香鯨/まっこうくじら",
+    "1084410/丁抹/デンマーク",
+    "1084410/丁抹/デンマルク",
+    "2789420/小抹香/こまっこう",
+    "2789410/小川小抹香/おがわこまっこう",
+    "2836092/抹額/もこう",
+    "2836092/抹額/まっこう",
+    "2836092/抹額/まっかく"
+  ],
+  "candidates": {
+    "1525190/抹殺/まっさつ": {
+      "id": 1525190,
+      "form": "抹殺",
+      "kana": "まっさつ",
+      "gloss": "elimination (of a person, group, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13476,
+        21173,
+        12275,
+        11237
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "殺": 5
+      },
+      "matched": {
+        "マツ": {
+          "actual": "まっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "マツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1525200/抹消/まっしょう": {
+      "id": 1525200,
+      "form": "抹消",
+      "kana": "まっしょう",
+      "gloss": "erasure",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14984,
+        22793,
+        11547,
+        15828
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "消": 3
+      },
+      "matched": {
+        "マツ": {
+          "actual": "まっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "マツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1166790/一抹/いちまつ": {
+      "id": 1166790,
+      "form": "一抹",
+      "kana": "いちまつ",
+      "gloss": "a touch (of sadness, unease, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        17136,
+        33853,
+        46387,
+        14637
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "マツ": {
+          "actual": "まつ",
+          "dictionary": [
+            "マツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "マツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1444330/塗抹/とまつ": {
+      "id": 1444330,
+      "form": "塗抹",
+      "kana": "とまつ",
+      "gloss": "smear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        172358,
+        177324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塗": 7
+      },
+      "matched": {
+        "マツ": {
+          "actual": "まつ",
+          "dictionary": [
+            "マツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1525220/抹茶/まっちゃ": {
+      "id": 1525220,
+      "form": "抹茶",
+      "kana": "まっちゃ",
+      "gloss": "matcha",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16505,
+        5294,
+        9614,
+        20126
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "茶": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1604060/抹香/まっこう": {
+      "id": 1604060,
+      "form": "抹香",
+      "kana": "まっこう",
+      "gloss": "incense",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42221,
+        142244,
+        103691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "香": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2869360/抹茶味/まっちゃあじ": {
+      "id": 2869360,
+      "form": "抹茶味",
+      "kana": "まっちゃあじ",
+      "gloss": "matcha flavor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        79288
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "茶": 2,
+        "味": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2832655/登録抹消/とうろくまっしょう": {
+      "id": 2832655,
+      "form": "登録抹消",
+      "kana": "とうろくまっしょう",
+      "gloss": "deregistration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        121516
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "録": 4,
+        "消": 3,
+        "登": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1640920/抹香臭い/まっこうくさい": {
+      "id": 1640920,
+      "form": "抹香臭い",
+      "kana": "まっこうくさい",
+      "gloss": "smelling of incense",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        129143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "香": 4,
+        "臭": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2751390/抹茶色/まっちゃいろ": {
+      "id": 2751390,
+      "form": "抹茶色",
+      "kana": "まっちゃいろ",
+      "gloss": "soft yellow-green",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        132368
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "茶": 2,
+        "色": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2736270/抹茶塩/まっちゃじお": {
+      "id": 2736270,
+      "form": "抹茶塩",
+      "kana": "まっちゃじお",
+      "gloss": "matcha salt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169720
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塩": 4,
+        "茶": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2679030/抹茶アイスクリーム/まっちゃアイスクリーム": {
+      "id": 2679030,
+      "form": "抹茶アイスクリーム",
+      "kana": "まっちゃアイスクリーム",
+      "gloss": "green tea ice cream",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        263564
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "茶": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2736270/抹茶塩/まっちゃしお": {
+      "id": 2736270,
+      "form": "抹茶塩",
+      "kana": "まっちゃしお",
+      "gloss": "matcha salt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "塩": 4,
+        "茶": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1525210/抹消登録証明書/まっしょうとうろくしょうめいしょ": {
+      "id": 1525210,
+      "form": "抹消登録証明書",
+      "kana": "まっしょうとうろくしょうめいしょ",
+      "gloss": "proof of vehicle having been registered as disposed of",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "書": 2,
+        "登": 3,
+        "消": 3,
+        "証": 5,
+        "録": 4,
+        "明": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1640910/抹香鯨/まっこうくじら": {
+      "id": 1640910,
+      "form": "抹香鯨",
+      "kana": "まっこうくじら",
+      "gloss": "sperm whale",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "香": 4,
+        "鯨": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1084410/丁抹/デンマーク": {
+      "id": 1084410,
+      "form": "丁抹",
+      "kana": "デンマーク",
+      "gloss": "Denmark",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        279415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丁": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1084410/丁抹/デンマルク": {
+      "id": 1084410,
+      "form": "丁抹",
+      "kana": "デンマルク",
+      "gloss": "Denmark",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "丁": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2789420/小抹香/こまっこう": {
+      "id": 2789420,
+      "form": "小抹香",
+      "kana": "こまっこう",
+      "gloss": "pygmy sperm whale (Kogia breviceps)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "香": 4,
+        "小": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2789410/小川小抹香/おがわこまっこう": {
+      "id": 2789410,
+      "form": "小川小抹香",
+      "kana": "おがわこまっこう",
+      "gloss": "dwarf sperm whale (Kogia sima)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "川": 1,
+        "香": 4,
+        "小": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2836092/抹額/もこう": {
+      "id": 2836092,
+      "form": "抹額",
+      "kana": "もこう",
+      "gloss": "red headband (worn by lower rank officers)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "額": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2836092/抹額/まっこう": {
+      "id": 2836092,
+      "form": "抹額",
+      "kana": "まっこう",
+      "gloss": "red headband (worn by lower rank officers)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "額": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2836092/抹額/まっかく": {
+      "id": 2836092,
+      "form": "抹額",
+      "kana": "まっかく",
+      "gloss": "red headband (worn by lower rank officers)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "額": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1525200:抹消:まっしょう",
+      "form": "抹消",
+      "kana": "まっしょう",
+      "cue": "erasure; striking off",
+      "ids": [
+        1525200
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 15828,
+        "shiberu": 14984,
+        "tubelex": 22793,
+        "wordfreq": 11547
+      },
+      "alternatives_by_kanji": {
+        "消": [
+          "1350040/消える/きえる",
+          "1350110/消す/けす",
+          "1350380/消滅/しょうめつ"
+        ],
+        "抹": [
+          "1525190/抹殺/まっさつ",
+          "1166790/一抹/いちまつ",
+          "1444330/塗抹/とまつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 18
+}

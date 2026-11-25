@@ -1,0 +1,810 @@
+{
+  "character": "亭",
+  "grade": 7,
+  "meanings": [
+    "pavilion",
+    "restaurant",
+    "mansion",
+    "arbor",
+    "cottage",
+    "vaudeville",
+    "music hall",
+    "stage name"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 8
+    }
+  ],
+  "components": [
+    "口",
+    "亅",
+    "亠",
+    "冖"
+  ],
+  "on": [
+    "テイ",
+    "チン"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "亭",
+    "heading": "亭",
+    "readings": [
+      "テイ"
+    ],
+    "examples_by_reading": [
+      [
+        "亭主",
+        "料亭"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "亭",
+      "reading": "テイ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 16,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1434160/亭主/ていしゅ",
+        "1554300/料亭/りょうてい",
+        "2589430/亭/てい",
+        "1434170/亭主関白/ていしゅかんぱく",
+        "1776960/亭々/ていてい",
+        "2559160/勘亭流/かんていりゅう",
+        "1893280/池亭/ちてい",
+        "2837195/席亭/せきてい",
+        "1916170/旅亭/りょてい",
+        "1776960/亭亭/ていてい"
+      ]
+    },
+    {
+      "reading": "チン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2589430/亭/ちん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1434160/亭主/ていしゅ",
+    "1554300/料亭/りょうてい",
+    "2589430/亭/てい",
+    "2589430/亭/ちん",
+    "1434170/亭主関白/ていしゅかんぱく",
+    "1776960/亭々/ていてい",
+    "2559160/勘亭流/かんていりゅう",
+    "1893280/池亭/ちてい",
+    "2837195/席亭/せきてい",
+    "1916170/旅亭/りょてい",
+    "1776960/亭亭/ていてい",
+    "1756930/旗亭/きてい",
+    "2418970/知らぬは亭主ばかりなり/しらぬはていしゅばかりなり",
+    "5454792/石亭/せきてい",
+    "2828839/泉亭/せんてい",
+    "1434150/亭午/ていご",
+    "2149880/亭主の好きな赤烏帽子/ていしゅのすきなあかえぼし",
+    "2418970/知らぬは亭主許り也/しらぬはていしゅばかりなり",
+    "2567560/涼亭/りょうてい"
+  ],
+  "candidates": {
+    "1434160/亭主/ていしゅ": {
+      "id": 1434160,
+      "form": "亭主",
+      "kana": "ていしゅ",
+      "gloss": "household head",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8228,
+        13240,
+        27344,
+        14700
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1554300/料亭/りょうてい": {
+      "id": 1554300,
+      "form": "料亭",
+      "kana": "りょうてい",
+      "gloss": "ryotei",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13211,
+        23107,
+        19596,
+        25133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2589430/亭/てい": {
+      "id": 2589430,
+      "form": "亭",
+      "kana": "てい",
+      "gloss": "arbor",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2886,
+        6809,
+        8611,
+        20847
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2589430/亭/ちん": {
+      "id": 2589430,
+      "form": "亭",
+      "kana": "ちん",
+      "gloss": "arbor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2886,
+        6809,
+        8611,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "チン": {
+          "actual": "ちん",
+          "dictionary": [
+            "チン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1434170/亭主関白/ていしゅかんぱく": {
+      "id": 1434170,
+      "form": "亭主関白",
+      "kana": "ていしゅかんぱく",
+      "gloss": "domineering husband",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        77181,
+        54121
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "関": 4,
+        "主": 3,
+        "白": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1776960/亭々/ていてい": {
+      "id": 1776960,
+      "form": "亭々",
+      "kana": "ていてい",
+      "gloss": "lofty (tree)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        166381
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2559160/勘亭流/かんていりゅう": {
+      "id": 2559160,
+      "form": "勘亭流",
+      "kana": "かんていりゅう",
+      "gloss": "Kantei style of calligraphy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        170790,
+        249695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3,
+        "勘": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1893280/池亭/ちてい": {
+      "id": 1893280,
+      "form": "池亭",
+      "kana": "ちてい",
+      "gloss": "arbor (arbour, bower) by a lake",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "池": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837195/席亭/せきてい": {
+      "id": 2837195,
+      "form": "席亭",
+      "kana": "せきてい",
+      "gloss": "entertainment hall (for rakugo, manzai, magic, music, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        156804
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "席": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1916170/旅亭/りょてい": {
+      "id": 1916170,
+      "form": "旅亭",
+      "kana": "りょてい",
+      "gloss": "hotel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        177479
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "旅": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1776960/亭亭/ていてい": {
+      "id": 1776960,
+      "form": "亭亭",
+      "kana": "ていてい",
+      "gloss": "lofty (tree)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        182516
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1756930/旗亭/きてい": {
+      "id": 1756930,
+      "form": "旗亭",
+      "kana": "きてい",
+      "gloss": "restaurant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        191523
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "旗": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2418970/知らぬは亭主ばかりなり/しらぬはていしゅばかりなり": {
+      "id": 2418970,
+      "form": "知らぬは亭主ばかりなり",
+      "kana": "しらぬはていしゅばかりなり",
+      "gloss": "the husband is always the last to know",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        197607
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "知": 2,
+        "主": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5454792/石亭/せきてい": {
+      "id": 5454792,
+      "form": "石亭",
+      "kana": "せきてい",
+      "gloss": "Sekitei (ryokan)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        240218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828839/泉亭/せんてい": {
+      "id": 2828839,
+      "form": "泉亭",
+      "kana": "せんてい",
+      "gloss": "arbor facing a spring (arbour)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        243576
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "泉": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1434150/亭午/ていご": {
+      "id": 1434150,
+      "form": "亭午",
+      "kana": "ていご",
+      "gloss": "noon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "午": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2149880/亭主の好きな赤烏帽子/ていしゅのすきなあかえぼし": {
+      "id": 2149880,
+      "form": "亭主の好きな赤烏帽子",
+      "kana": "ていしゅのすきなあかえぼし",
+      "gloss": "even an eccentric head of family must be obeyed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "赤": 1,
+        "子": 1,
+        "好": 4,
+        "主": 3,
+        "帽": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2418970/知らぬは亭主許り也/しらぬはていしゅばかりなり": {
+      "id": 2418970,
+      "form": "知らぬは亭主許り也",
+      "kana": "しらぬはていしゅばかりなり",
+      "gloss": "the husband is always the last to know",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "知": 2,
+        "主": 3,
+        "許": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2567560/涼亭/りょうてい": {
+      "id": 2567560,
+      "form": "涼亭",
+      "kana": "りょうてい",
+      "gloss": "pavilion in a garden (used to keep cool)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        285524
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "涼": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1554300:料亭:りょうてい",
+      "form": "料亭",
+      "kana": "りょうてい",
+      "cue": "ryotei; traditional Japanese restaurant (esp. a luxurious one)",
+      "ids": [
+        1554300
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 25133,
+        "shiberu": 13211,
+        "tubelex": 23107,
+        "wordfreq": 19596
+      },
+      "alternatives_by_kanji": {
+        "料": [
+          "1554310/料理/りょうり",
+          "1296670/材料/ざいりょう",
+          "1554280/料金/りょうきん"
+        ],
+        "亭": [
+          "1434160/亭主/ていしゅ",
+          "2589430/亭/てい",
+          "2589430/亭/ちん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

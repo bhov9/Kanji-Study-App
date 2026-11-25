@@ -1,0 +1,483 @@
+{
+  "character": "詔",
+  "grade": 7,
+  "meanings": [
+    "imperial edict"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "口",
+    "刀"
+  ],
+  "on": [
+    "ショウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "みことのり",
+      "stem": "みことのり",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "さとし",
+    "のり"
+  ],
+  "government": {
+    "kanji": "詔",
+    "heading": "詔",
+    "readings": [
+      "ショウ",
+      "みことのり"
+    ],
+    "examples_by_reading": [
+      [
+        "詔勅",
+        "詔書"
+      ],
+      [
+        "詔"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "詔",
+      "reading": "ショウ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ショウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1351720/詔勅/しょうちょく",
+        "1604470/詔/しょう",
+        "1351710/詔書/しょうしょ",
+        "1414130/大詔/たいしょう",
+        "2546110/詔命/しょうめい",
+        "1883090/詔令/しょうれい",
+        "2521360/戊申詔書/ぼしんしょうしょ",
+        "2049670/大詔渙発/たいしょうかんぱつ"
+      ]
+    },
+    {
+      "reading": "みことのり",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1604470/詔/みことのり"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1604470/詔/みことのり",
+    "1351720/詔勅/しょうちょく",
+    "1604470/詔/しょう",
+    "1351710/詔書/しょうしょ",
+    "1414130/大詔/たいしょう",
+    "2546110/詔命/しょうめい",
+    "1883090/詔令/しょうれい",
+    "2521360/戊申詔書/ぼしんしょうしょ",
+    "2049670/大詔渙発/たいしょうかんぱつ",
+    "2546110/詔命/じょうめい"
+  ],
+  "candidates": {
+    "1604470/詔/みことのり": {
+      "id": 1604470,
+      "form": "詔",
+      "kana": "みことのり",
+      "gloss": "imperial decree",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6427,
+        53857,
+        41163,
+        76398
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みことのり": {
+          "actual": "みことのり",
+          "dictionary": [
+            "みことのり"
+          ]
+        }
+      },
+      "official_examples": [
+        "みことのり"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1351720/詔勅/しょうちょく": {
+      "id": 1351720,
+      "form": "詔勅",
+      "kana": "しょうちょく",
+      "gloss": "imperial edict",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32792,
+        65459,
+        70783,
+        99574
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勅": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1604470/詔/しょう": {
+      "id": 1604470,
+      "form": "詔",
+      "kana": "しょう",
+      "gloss": "imperial decree",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6427,
+        53857,
+        41163,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "みことのり"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1351710/詔書/しょうしょ": {
+      "id": 1351710,
+      "form": "詔書",
+      "kana": "しょうしょ",
+      "gloss": "imperial edict",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        82481,
+        124337
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1414130/大詔/たいしょう": {
+      "id": 1414130,
+      "form": "大詔",
+      "kana": "たいしょう",
+      "gloss": "imperial rescript",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        175497,
+        178104
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2546110/詔命/しょうめい": {
+      "id": 2546110,
+      "form": "詔命",
+      "kana": "しょうめい",
+      "gloss": "imperial command",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        240218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "命": 3
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1883090/詔令/しょうれい": {
+      "id": 1883090,
+      "form": "詔令",
+      "kana": "しょうれい",
+      "gloss": "imperial edict",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2521360/戊申詔書/ぼしんしょうしょ": {
+      "id": 2521360,
+      "form": "戊申詔書",
+      "kana": "ぼしんしょうしょ",
+      "gloss": "Imperial Rescript of 1908",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "申": 3,
+        "書": 2
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2049670/大詔渙発/たいしょうかんぱつ": {
+      "id": 2049670,
+      "form": "大詔渙発",
+      "kana": "たいしょうかんぱつ",
+      "gloss": "promulgation of an Imperial rescript",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "発": 3,
+        "大": 1
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2546110/詔命/じょうめい": {
+      "id": 2546110,
+      "form": "詔命",
+      "kana": "じょうめい",
+      "gloss": "imperial command",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "命": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1604470:詔:しょう",
+      "form": "詔",
+      "kana": "しょう",
+      "cue": "imperial decree; imperial edict",
+      "ids": [
+        1604470
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "shiberu": 6427,
+        "tubelex": 53857,
+        "wordfreq": 41163
+      },
+      "alternatives_by_kanji": {
+        "詔": [
+          "1351720/詔勅/しょうちょく",
+          "1351710/詔書/しょうしょ",
+          "1414130/大詔/たいしょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

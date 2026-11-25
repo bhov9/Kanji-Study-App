@@ -1,0 +1,1232 @@
+{
+  "character": "島",
+  "grade": 3,
+  "meanings": [
+    "island"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 46
+    },
+    {
+      "type": "nelson_c",
+      "value": 4
+    }
+  ],
+  "components": [
+    "山",
+    "鳥",
+    "白"
+  ],
+  "on": [
+    "トウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "しま",
+      "stem": "しま",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "島",
+    "heading": "島",
+    "readings": [
+      "トウ",
+      "しま"
+    ],
+    "examples_by_reading": [
+      [
+        "島民",
+        "半島",
+        "列島"
+      ],
+      [
+        "島",
+        "島国",
+        "離れ島"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "島",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "鹿児島"
+      ],
+      "reading": "かごしま",
+      "stage": "elementary",
+      "pdf_page": 52,
+      "appendix": 2
+    }
+  ],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 89,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1479770/半島/はんとう",
+        "1558390/列島/れっとう",
+        "1582260/島国/とうごく",
+        "1446950/島民/とうみん",
+        "2085760/島/とう",
+        "1344330/諸島/しょとう",
+        "1266840/孤島/ことう",
+        "1247590/群島/ぐんとう",
+        "2848989/渡島/ととう",
+        "1348550/小島/しょうとう"
+      ]
+    },
+    {
+      "reading": "しま",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 101,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1582260/島国/しまぐに",
+        "1626090/離れ島/はなれじま",
+        "2862676/大島/おおしま",
+        "2591790/島田/しまだ",
+        "1594540/島々/しまじま",
+        "1446960/島流し/しまながし",
+        "1446790/島影/しまかげ",
+        "2164670/広島/ひろしま",
+        "2845115/福島/ふくしま",
+        "2845083/鹿児島/かごしま"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1479770/半島/はんとう",
+    "1558390/列島/れっとう",
+    "1582260/島国/しまぐに",
+    "1582260/島国/とうごく",
+    "1446950/島民/とうみん",
+    "1626090/離れ島/はなれじま",
+    "2085760/島/とう",
+    "1344330/諸島/しょとう",
+    "2862676/大島/おおしま",
+    "2591790/島田/しまだ",
+    "1594540/島々/しまじま",
+    "1266840/孤島/ことう",
+    "1247590/群島/ぐんとう",
+    "1446960/島流し/しまながし",
+    "2848989/渡島/ととう",
+    "1446790/島影/しまかげ",
+    "2164670/広島/ひろしま",
+    "2845115/福島/ふくしま",
+    "2845083/鹿児島/かごしま",
+    "2845097/徳島/とくしま",
+    "1348550/小島/しょうとう",
+    "1644480/離島/りとう",
+    "1523040/本島/ほんとう",
+    "1446920/島内/とうない",
+    "1446970/島嶼/とうしょ",
+    "1748670/浮島/うきしま",
+    "2580080/敷島/しきしま",
+    "1446850/島巡り/しまめぐり",
+    "1748670/浮き島/うきしま",
+    "2728980/来島/らいとう"
+  ],
+  "candidates": {
+    "1479770/半島/はんとう": {
+      "id": 1479770,
+      "form": "半島",
+      "kana": "はんとう",
+      "gloss": "peninsula",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5133,
+        4803,
+        11204,
+        37708
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "半": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1558390/列島/れっとう": {
+      "id": 1558390,
+      "form": "列島",
+      "kana": "れっとう",
+      "gloss": "archipelago",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12565,
+        11376,
+        12107,
+        61023
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "列": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1582260/島国/しまぐに": {
+      "id": 1582260,
+      "form": "島国",
+      "kana": "しまぐに",
+      "gloss": "island country",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11740,
+        23499,
+        25763,
+        26326
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [
+        "しま"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1582260/島国/とうごく": {
+      "id": 1582260,
+      "form": "島国",
+      "kana": "とうごく",
+      "gloss": "island country",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11740,
+        23499,
+        25763,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "しま"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1446950/島民/とうみん": {
+      "id": 1446950,
+      "form": "島民",
+      "kana": "とうみん",
+      "gloss": "islander",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        23428,
+        26068,
+        42288
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1626090/離れ島/はなれじま": {
+      "id": 1626090,
+      "form": "離れ島",
+      "kana": "はなれじま",
+      "gloss": "remote island",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        null,
+        107510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "離": 7
+      },
+      "matched": {
+        "しま": {
+          "actual": "じま",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "しま"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2085760/島/とう": {
+      "id": 2085760,
+      "form": "島",
+      "kana": "とう",
+      "gloss": "Island",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11545
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "しま"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1344330/諸島/しょとう": {
+      "id": 1344330,
+      "form": "諸島",
+      "kana": "しょとう",
+      "gloss": "archipelago",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8767,
+        6983,
+        8031,
+        43012
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "諸": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2862676/大島/おおしま": {
+      "id": 2862676,
+      "form": "大島",
+      "kana": "おおしま",
+      "gloss": "large island",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7543,
+        81652,
+        5555,
+        41164
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2591790/島田/しまだ": {
+      "id": 2591790,
+      "form": "島田",
+      "kana": "しまだ",
+      "gloss": "pompadour-like hair style, popular for unmarried women in the Edo period",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11653,
+        34763,
+        11740,
+        47388
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "田": 1
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594540/島々/しまじま": {
+      "id": 1594540,
+      "form": "島々",
+      "kana": "しまじま",
+      "gloss": "islands",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12827,
+        19609,
+        26690,
+        41738
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1266840/孤島/ことう": {
+      "id": 1266840,
+      "form": "孤島",
+      "kana": "ことう",
+      "gloss": "solitary island",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18398,
+        29810,
+        24744,
+        26556
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "孤": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1247590/群島/ぐんとう": {
+      "id": 1247590,
+      "form": "群島",
+      "kana": "ぐんとう",
+      "gloss": "island group",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31971,
+        32292,
+        41605,
+        68709
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "群": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446960/島流し/しまながし": {
+      "id": 1446960,
+      "form": "島流し",
+      "kana": "しまながし",
+      "gloss": "exile",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        29299,
+        47603,
+        54233,
+        45338
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2848989/渡島/ととう": {
+      "id": 2848989,
+      "form": "渡島",
+      "kana": "ととう",
+      "gloss": "visiting an island",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        23032,
+        95069,
+        55944,
+        185593
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "渡": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446790/島影/しまかげ": {
+      "id": 1446790,
+      "form": "島影",
+      "kana": "しまかげ",
+      "gloss": "faint outlines of an island",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31264,
+        57577,
+        111325,
+        67866
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "影": 7
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2164670/広島/ひろしま": {
+      "id": 2164670,
+      "form": "広島",
+      "kana": "ひろしま",
+      "gloss": "Hiroshima (city, prefecture)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3379,
+        null,
+        1473,
+        25272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "広": 2
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2845115/福島/ふくしま": {
+      "id": 2845115,
+      "form": "福島",
+      "kana": "ふくしま",
+      "gloss": "Fukushima (city, prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3267,
+        null,
+        1545,
+        34679
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "福": 3
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845083/鹿児島/かごしま": {
+      "id": 2845083,
+      "form": "鹿児島",
+      "kana": "かごしま",
+      "gloss": "Kagoshima (city, prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8531,
+        null,
+        3315,
+        38265
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "児": 4,
+        "鹿": 4
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845097/徳島/とくしま": {
+      "id": 2845097,
+      "form": "徳島",
+      "kana": "とくしま",
+      "gloss": "Tokushima (city, prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19950,
+        null,
+        5679,
+        61650
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "徳": 4
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1348550/小島/しょうとう": {
+      "id": 1348550,
+      "form": "小島",
+      "kana": "しょうとう",
+      "gloss": "small island",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15581,
+        24129,
+        8611,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644480/離島/りとう": {
+      "id": 1644480,
+      "form": "離島",
+      "kana": "りとう",
+      "gloss": "isolated island",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        12540,
+        13918,
+        40231
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "離": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1523040/本島/ほんとう": {
+      "id": 1523040,
+      "form": "本島",
+      "kana": "ほんとう",
+      "gloss": "main island",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        16756,
+        20349,
+        57397
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446920/島内/とうない": {
+      "id": 1446920,
+      "form": "島内",
+      "kana": "とうない",
+      "gloss": "on an island",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31906,
+        36201,
+        47052
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446970/島嶼/とうしょ": {
+      "id": 1446970,
+      "form": "島嶼",
+      "kana": "とうしょ",
+      "gloss": "islands",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        33853,
+        45339,
+        103025
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1748670/浮島/うきしま": {
+      "id": 1748670,
+      "form": "浮島",
+      "kana": "うきしま",
+      "gloss": "floating island (mass of floating aquatic plants)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40452,
+        null,
+        59434,
+        53845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "浮": 7
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2580080/敷島/しきしま": {
+      "id": 2580080,
+      "form": "敷島",
+      "kana": "しきしま",
+      "gloss": "Yamato (province)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37960,
+        null,
+        57615,
+        86375
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敷": 7
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446850/島巡り/しまめぐり": {
+      "id": 1446850,
+      "form": "島巡り",
+      "kana": "しまめぐり",
+      "gloss": "island tour",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37296,
+        68915,
+        null,
+        119428
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巡": 7
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1748670/浮き島/うきしま": {
+      "id": 1748670,
+      "form": "浮き島",
+      "kana": "うきしま",
+      "gloss": "floating island (mass of floating aquatic plants)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29352,
+        207210,
+        94523
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "浮": 7
+      },
+      "matched": {
+        "しま": {
+          "actual": "しま",
+          "dictionary": [
+            "しま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2728980/来島/らいとう": {
+      "id": 2728980,
+      "form": "来島",
+      "kana": "らいとう",
+      "gloss": "arriving on an island",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        66810,
+        113784
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1446760:島:しま",
+      "form": "島",
+      "kana": "しま",
+      "cue": "island",
+      "ids": [
+        1446760
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 3511,
+        "shiberu": 812,
+        "tubelex": 831,
+        "wordfreq": 1019
+      },
+      "alternatives_by_kanji": {
+        "島": [
+          "1479770/半島/はんとう",
+          "1558390/列島/れっとう",
+          "1582260/島国/しまぐに"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 49
+}

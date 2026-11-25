@@ -1,0 +1,1310 @@
+{
+  "character": "錯",
+  "grade": 7,
+  "meanings": [
+    "confused",
+    "mix",
+    "be in disorder"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 167
+    }
+  ],
+  "components": [
+    "金",
+    "日",
+    "廾",
+    "二"
+  ],
+  "on": [
+    "サク",
+    "シャク"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "錯",
+    "heading": "錯",
+    "readings": [
+      "サク"
+    ],
+    "examples_by_reading": [
+      [
+        "錯誤",
+        "錯覚",
+        "交錯"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "錯",
+      "reading": "サク",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "サク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 27,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1298400/錯覚/さっかく",
+        "1298420/錯誤/さくご",
+        "1272100/交錯/こうさく",
+        "1298450/錯乱/さくらん",
+        "1298440/錯綜/さくそう",
+        "1445880/倒錯/とうさく",
+        "2563390/錯視/さくし",
+        "2633140/錯体/さくたい",
+        "1312410/試行錯誤/しこうさくご",
+        "1298430/錯雑/さくざつ"
+      ]
+    },
+    {
+      "reading": "シャク",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2772900/介錯人/かいしゃくにん",
+        "2772900/介錯人/かいしゃくじん",
+        "1198090/介錯/かいしゃく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1298400/錯覚/さっかく",
+    "1298420/錯誤/さくご",
+    "1272100/交錯/こうさく",
+    "1298450/錯乱/さくらん",
+    "1298440/錯綜/さくそう",
+    "1445880/倒錯/とうさく",
+    "2563390/錯視/さくし",
+    "2633140/錯体/さくたい",
+    "1312410/試行錯誤/しこうさくご",
+    "1298430/錯雑/さくざつ",
+    "2832714/錯語/さくご",
+    "1316320/時代錯誤/じだいさくご",
+    "2871191/倒錯的/とうさくてき",
+    "2045570/錯乱状態/さくらんじょうたい",
+    "1996870/精神錯乱/せいしんさくらん",
+    "1943770/倒錯者/とうさくしゃ",
+    "2772900/介錯人/かいしゃくにん",
+    "2172030/性的倒錯/せいてきとうさく",
+    "1298440/錯そう/さくそう",
+    "2839762/性倒錯/せいとうさく",
+    "2656480/記憶錯誤/きおくさくご",
+    "2839760/服装倒錯/ふくそうとうさく",
+    "1732880/盤根錯節/ばんこんさくせつ",
+    "2839761/服装倒錯者/ふくそうとうさくしゃ",
+    "2839764/色情倒錯/しきじょうとうさく",
+    "1853090/錯イオン/さくイオン",
+    "2839763/倒錯症/とうさくしょう",
+    "2853662/金錯/きんさく",
+    "2855486/ヒドリド錯体/ヒドリドさくたい",
+    "2526940/錯化合物/さくかごうぶつ"
+  ],
+  "candidates": {
+    "1298400/錯覚/さっかく": {
+      "id": 1298400,
+      "form": "錯覚",
+      "kana": "さっかく",
+      "gloss": "illusion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10159,
+        11161,
+        12479,
+        4211
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "覚": 4
+      },
+      "matched": {
+        "サク": {
+          "actual": "さっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "サク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1298420/錯誤/さくご": {
+      "id": 1298420,
+      "form": "錯誤",
+      "kana": "さくご",
+      "gloss": "mistake",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10428,
+        7370,
+        17491,
+        54461
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誤": 6
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [
+        "サク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1272100/交錯/こうさく": {
+      "id": 1272100,
+      "form": "交錯",
+      "kana": "こうさく",
+      "gloss": "mixture",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12291,
+        28755,
+        29116,
+        14235
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [
+        "サク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1298450/錯乱/さくらん": {
+      "id": 1298450,
+      "form": "錯乱",
+      "kana": "さくらん",
+      "gloss": "confusion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17695,
+        29059,
+        14533,
+        15257
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乱": 6
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1298440/錯綜/さくそう": {
+      "id": 1298440,
+      "form": "錯綜",
+      "kana": "さくそう",
+      "gloss": "becoming complicated",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13321,
+        38312,
+        33710,
+        29710
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1445880/倒錯/とうさく": {
+      "id": 1445880,
+      "form": "倒錯",
+      "kana": "とうさく",
+      "gloss": "perversion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17941,
+        68915,
+        28763,
+        35318
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2563390/錯視/さくし": {
+      "id": 2563390,
+      "form": "錯視",
+      "kana": "さくし",
+      "gloss": "optical illusion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39726,
+        67088,
+        40664,
+        91881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2633140/錯体/さくたい": {
+      "id": 2633140,
+      "form": "錯体",
+      "kana": "さくたい",
+      "gloss": "complex",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        59434,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312410/試行錯誤/しこうさくご": {
+      "id": 1312410,
+      "form": "試行錯誤",
+      "kana": "しこうさくご",
+      "gloss": "trial and error",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        17491,
+        13137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "試": 4,
+        "誤": 6
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1298430/錯雑/さくざつ": {
+      "id": 1298430,
+      "form": "錯雑",
+      "kana": "さくざつ",
+      "gloss": "complication",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        141931
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雑": 5
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832714/錯語/さくご": {
+      "id": 2832714,
+      "form": "錯語",
+      "kana": "さくご",
+      "gloss": "paraphasia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "語": 2
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1316320/時代錯誤/じだいさくご": {
+      "id": 1316320,
+      "form": "時代錯誤",
+      "kana": "じだいさくご",
+      "gloss": "anachronism",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28880
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2,
+        "誤": 6,
+        "代": 3
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2871191/倒錯的/とうさくてき": {
+      "id": 2871191,
+      "form": "倒錯的",
+      "kana": "とうさくてき",
+      "gloss": "perverse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2045570/錯乱状態/さくらんじょうたい": {
+      "id": 2045570,
+      "form": "錯乱状態",
+      "kana": "さくらんじょうたい",
+      "gloss": "state of (mental) confusion (agitation)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43779
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乱": 6,
+        "状": 5,
+        "態": 5
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1996870/精神錯乱/せいしんさくらん": {
+      "id": 1996870,
+      "form": "精神錯乱",
+      "kana": "せいしんさくらん",
+      "gloss": "mental derangement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        93160
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乱": 6,
+        "神": 3,
+        "精": 5
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1943770/倒錯者/とうさくしゃ": {
+      "id": 1943770,
+      "form": "倒錯者",
+      "kana": "とうさくしゃ",
+      "gloss": "pervert",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        104232
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3,
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2772900/介錯人/かいしゃくにん": {
+      "id": 2772900,
+      "form": "介錯人",
+      "kana": "かいしゃくにん",
+      "gloss": "person who beheads someone to end a seppuku",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        121769
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "介": 7
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2172030/性的倒錯/せいてきとうさく": {
+      "id": 2172030,
+      "form": "性的倒錯",
+      "kana": "せいてきとうさく",
+      "gloss": "paraphilia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        128241
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5,
+        "的": 4,
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1298440/錯そう/さくそう": {
+      "id": 1298440,
+      "form": "錯そう",
+      "kana": "さくそう",
+      "gloss": "becoming complicated",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        164664
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839762/性倒錯/せいとうさく": {
+      "id": 2839762,
+      "form": "性倒錯",
+      "kana": "せいとうさく",
+      "gloss": "paraphilia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        164754
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5,
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2656480/記憶錯誤/きおくさくご": {
+      "id": 2656480,
+      "form": "記憶錯誤",
+      "kana": "きおくさくご",
+      "gloss": "paramnesia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        269742
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憶": 7,
+        "誤": 6,
+        "記": 2
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839760/服装倒錯/ふくそうとうさく": {
+      "id": 2839760,
+      "form": "服装倒錯",
+      "kana": "ふくそうとうさく",
+      "gloss": "transvestism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "服": 3,
+        "装": 6,
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1732880/盤根錯節/ばんこんさくせつ": {
+      "id": 1732880,
+      "form": "盤根錯節",
+      "kana": "ばんこんさくせつ",
+      "gloss": "hard-to-penetrate event",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盤": 7,
+        "根": 3,
+        "節": 4
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839761/服装倒錯者/ふくそうとうさくしゃ": {
+      "id": 2839761,
+      "form": "服装倒錯者",
+      "kana": "ふくそうとうさくしゃ",
+      "gloss": "transvestite",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "服": 3,
+        "者": 3,
+        "装": 6,
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839764/色情倒錯/しきじょうとうさく": {
+      "id": 2839764,
+      "form": "色情倒錯",
+      "kana": "しきじょうとうさく",
+      "gloss": "paraphilia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "色": 2,
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1853090/錯イオン/さくイオン": {
+      "id": 1853090,
+      "form": "錯イオン",
+      "kana": "さくイオン",
+      "gloss": "complex ion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839763/倒錯症/とうさくしょう": {
+      "id": 2839763,
+      "form": "倒錯症",
+      "kana": "とうさくしょう",
+      "gloss": "sexual disorder (e.g. pedophilia, sadism)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "症": 7,
+        "倒": 7
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853662/金錯/きんさく": {
+      "id": 2853662,
+      "form": "金錯",
+      "kana": "きんさく",
+      "gloss": "gold inlaying",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855486/ヒドリド錯体/ヒドリドさくたい": {
+      "id": 2855486,
+      "form": "ヒドリド錯体",
+      "kana": "ヒドリドさくたい",
+      "gloss": "hydrido complex",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2526940/錯化合物/さくかごうぶつ": {
+      "id": 2526940,
+      "form": "錯化合物",
+      "kana": "さくかごうぶつ",
+      "gloss": "complex compound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "物": 3,
+        "化": 3,
+        "合": 2
+      },
+      "matched": {
+        "サク": {
+          "actual": "さく",
+          "dictionary": [
+            "サク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2772900/介錯人/かいしゃくじん": {
+      "id": 2772900,
+      "form": "介錯人",
+      "kana": "かいしゃくじん",
+      "gloss": "person who beheads someone to end a seppuku",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "人": 1,
+        "介": 7
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1198090/介錯/かいしゃく": {
+      "id": 1198090,
+      "form": "介錯",
+      "kana": "かいしゃく",
+      "gloss": "beheading (as the ending to a seppuku)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        23400,
+        47603,
+        45339,
+        41525
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "介": 7
+      },
+      "matched": {
+        "シャク": {
+          "actual": "しゃく",
+          "dictionary": [
+            "シャク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1594410:失錯:しっさく",
+      "form": "失錯",
+      "kana": "しっさく",
+      "cue": "blunder; slip",
+      "ids": [
+        1594410
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 231994
+      },
+      "alternatives_by_kanji": {
+        "失": [
+          "1320140/失敗/しっぱい",
+          "1319750/失う/うしなう",
+          "1320170/失望/しつぼう"
+        ],
+        "錯": [
+          "1298400/錯覚/さっかく",
+          "1298420/錯誤/さくご",
+          "1272100/交錯/こうさく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

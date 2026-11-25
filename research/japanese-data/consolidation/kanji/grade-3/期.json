@@ -1,0 +1,1623 @@
+{
+  "character": "期",
+  "grade": 3,
+  "meanings": [
+    "period",
+    "time",
+    "date",
+    "term"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 74
+    },
+    {
+      "type": "nelson_c",
+      "value": 130
+    }
+  ],
+  "components": [
+    "甘",
+    "月",
+    "ハ"
+  ],
+  "on": [
+    "キ",
+    "ゴ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "期",
+    "heading": "期",
+    "readings": [
+      "キ",
+      "ゴ"
+    ],
+    "examples_by_reading": [
+      [
+        "期間",
+        "期待",
+        "予期"
+      ],
+      [
+        "最期",
+        "この期に及んで"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "期",
+      "reading": "キ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 500,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1220570/期待/きたい",
+        "1220550/期間/きかん",
+        "1542920/予期/よき",
+        "1316040/時期/じき",
+        "1435490/定期/ていき",
+        "1342630/初期/しょき",
+        "1429850/長期/ちょうき",
+        "1220560/期限/きげん",
+        "1176430/延期/えんき",
+        "1418640/短期/たんき"
+      ]
+    },
+    {
+      "reading": "ゴ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1293760/最期/さいご",
+        "2752180/この期に及んで/このごにおよんで",
+        "1220610/期日/ごじつ",
+        "2065140/期する/ごする",
+        "1161700/一期一会/いちごいちえ",
+        "1161690/一期/いちご",
+        "2752180/この期におよんで/このごにおよんで",
+        "2251290/この期/このご",
+        "2747540/非業の最期/ひごうのさいご",
+        "1525310/末期/まつご"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1220570/期待/きたい",
+    "1220550/期間/きかん",
+    "1293760/最期/さいご",
+    "1542920/予期/よき",
+    "2752180/この期に及んで/このごにおよんで",
+    "1316040/時期/じき",
+    "1435490/定期/ていき",
+    "1342630/初期/しょき",
+    "1429850/長期/ちょうき",
+    "1220560/期限/きげん",
+    "1176430/延期/えんき",
+    "1418640/短期/たんき",
+    "1452030/同期/どうき",
+    "1400190/早期/そうき",
+    "1269540/後期/こうき",
+    "1206650/学期/がっき",
+    "1331090/周期/しゅうき",
+    "1392750/前期/ぜんき",
+    "1316490/次期/じき",
+    "1467190/任期/にんき",
+    "1220610/期日/きじつ",
+    "1423820/中期/ちゅうき",
+    "1470050/納期/のうき",
+    "1198330/会期/かいき",
+    "1479120/半期/はんき",
+    "1220620/期末/きまつ",
+    "2065140/期する/きする",
+    "2656720/夏期/かき",
+    "1673120/無期/むき",
+    "1449000/当期/とうき"
+  ],
+  "candidates": {
+    "1220570/期待/きたい": {
+      "id": 1220570,
+      "form": "期待",
+      "kana": "きたい",
+      "gloss": "expectation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1266,
+        736,
+        655,
+        681
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "待": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1220550/期間/きかん": {
+      "id": 1220550,
+      "form": "期間",
+      "kana": "きかん",
+      "gloss": "period",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2018,
+        952,
+        600,
+        3330
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1293760/最期/さいご": {
+      "id": 1293760,
+      "form": "最期",
+      "kana": "さいご",
+      "gloss": "one's last moment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        4867,
+        13905,
+        8169,
+        4419
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "最": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1542920/予期/よき": {
+      "id": 1542920,
+      "form": "予期",
+      "kana": "よき",
+      "gloss": "expectation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3858,
+        13861,
+        15595,
+        13622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2752180/この期に及んで/このごにおよんで": {
+      "id": 2752180,
+      "form": "この期に及んで",
+      "kana": "このごにおよんで",
+      "gloss": "at this point",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        8009
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "及": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1316040/時期/じき": {
+      "id": 1316040,
+      "form": "時期",
+      "kana": "じき",
+      "gloss": "time",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        1815,
+        778,
+        906,
+        1362
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1435490/定期/ていき": {
+      "id": 1435490,
+      "form": "定期",
+      "kana": "ていき",
+      "gloss": "fixed period",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2238,
+        2446,
+        1403,
+        13630
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1342630/初期/しょき": {
+      "id": 1342630,
+      "form": "初期",
+      "kana": "しょき",
+      "gloss": "early days",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3928,
+        2024,
+        1922,
+        7690
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1429850/長期/ちょうき": {
+      "id": 1429850,
+      "form": "長期",
+      "kana": "ちょうき",
+      "gloss": "long-term",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3838,
+        2554,
+        3232,
+        11771
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1220560/期限/きげん": {
+      "id": 1220560,
+      "form": "期限",
+      "kana": "きげん",
+      "gloss": "term",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3921,
+        3621,
+        3103,
+        7752
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "限": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1176430/延期/えんき": {
+      "id": 1176430,
+      "form": "延期",
+      "kana": "えんき",
+      "gloss": "postponement",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3208,
+        7252,
+        5555,
+        14015
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "延": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1418640/短期/たんき": {
+      "id": 1418640,
+      "form": "短期",
+      "kana": "たんき",
+      "gloss": "short-term",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8207,
+        4684,
+        6169,
+        21786
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "短": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1452030/同期/どうき": {
+      "id": 1452030,
+      "form": "同期",
+      "kana": "どうき",
+      "gloss": "same period",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15300,
+        5361,
+        5346,
+        8060
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400190/早期/そうき": {
+      "id": 1400190,
+      "form": "早期",
+      "kana": "そうき",
+      "gloss": "early stage",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        9500,
+        5452,
+        6894,
+        20773
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "早": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1269540/後期/こうき": {
+      "id": 1269540,
+      "form": "後期",
+      "kana": "こうき",
+      "gloss": "latter period",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        16663,
+        5727,
+        7013,
+        27164
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1206650/学期/がっき": {
+      "id": 1206650,
+      "form": "学期",
+      "kana": "がっき",
+      "gloss": "school term",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9797,
+        11487,
+        8743,
+        10372
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1331090/周期/しゅうき": {
+      "id": 1331090,
+      "form": "周期",
+      "kana": "しゅうき",
+      "gloss": "cycle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12509,
+        8027,
+        9888,
+        22053
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "周": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1392750/前期/ぜんき": {
+      "id": 1392750,
+      "form": "前期",
+      "kana": "ぜんき",
+      "gloss": "first term",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        14195,
+        7950,
+        9163,
+        36498
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1316490/次期/じき": {
+      "id": 1316490,
+      "form": "次期",
+      "kana": "じき",
+      "gloss": "next term",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        17176,
+        8191,
+        10540,
+        9173
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "次": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1467190/任期/にんき": {
+      "id": 1467190,
+      "form": "任期",
+      "kana": "にんき",
+      "gloss": "term of office",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12555,
+        12746,
+        12275,
+        38353
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220610/期日/きじつ": {
+      "id": 1220610,
+      "form": "期日",
+      "kana": "きじつ",
+      "gloss": "fixed date",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12893,
+        15734,
+        13462,
+        19635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1423820/中期/ちゅうき": {
+      "id": 1423820,
+      "form": "中期",
+      "kana": "ちゅうき",
+      "gloss": "middle period",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        22814,
+        10548,
+        12695,
+        43194
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1470050/納期/のうき": {
+      "id": 1470050,
+      "form": "納期",
+      "kana": "のうき",
+      "gloss": "appointed date of delivery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26399,
+        11241,
+        16515,
+        33541
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "納": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1198330/会期/かいき": {
+      "id": 1198330,
+      "form": "会期",
+      "kana": "かいき",
+      "gloss": "session (of a legislature)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        11462,
+        23266,
+        20096,
+        99269
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1479120/半期/はんき": {
+      "id": 1479120,
+      "form": "半期",
+      "kana": "はんき",
+      "gloss": "half-term",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        17972,
+        11121,
+        48344,
+        82767
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "半": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220620/期末/きまつ": {
+      "id": 1220620,
+      "form": "期末",
+      "kana": "きまつ",
+      "gloss": "end of term",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        25566,
+        16073,
+        22895,
+        29842
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "末": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2065140/期する/きする": {
+      "id": 2065140,
+      "form": "期する",
+      "kana": "きする",
+      "gloss": "to fix (a time, date, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "vs-s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16305,
+        15282,
+        61164,
+        44411
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2656720/夏期/かき": {
+      "id": 2656720,
+      "form": "夏期",
+      "kana": "かき",
+      "gloss": "summer term (e.g. school)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        17850,
+        49441,
+        23216,
+        33825
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "夏": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1673120/無期/むき": {
+      "id": 1673120,
+      "form": "無期",
+      "kana": "むき",
+      "gloss": "indefinite",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28777,
+        28481,
+        22590,
+        63856
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449000/当期/とうき": {
+      "id": 1449000,
+      "form": "当期",
+      "kana": "とうき",
+      "gloss": "current term (period)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        30692,
+        15812,
+        53687,
+        164236
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220610/期日/ごじつ": {
+      "id": 1220610,
+      "form": "期日",
+      "kana": "ごじつ",
+      "gloss": "fixed date",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12893,
+        15734,
+        13462,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2065140/期する/ごする": {
+      "id": 2065140,
+      "form": "期する",
+      "kana": "ごする",
+      "gloss": "to expect",
+      "senses": [
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "vs-s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16305,
+        15282,
+        61164,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1161700/一期一会/いちごいちえ": {
+      "id": 1161700,
+      "form": "一期一会",
+      "kana": "いちごいちえ",
+      "gloss": "once-in-a-lifetime encounter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        31791,
+        39682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "一": 1
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1161690/一期/いちご": {
+      "id": 1161690,
+      "form": "一期",
+      "kana": "いちご",
+      "gloss": "one's whole life",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        48132
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2752180/この期におよんで/このごにおよんで": {
+      "id": 2752180,
+      "form": "この期におよんで",
+      "kana": "このごにおよんで",
+      "gloss": "at this point",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60056
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2251290/この期/このご": {
+      "id": 2251290,
+      "form": "この期",
+      "kana": "このご",
+      "gloss": "this point",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65639
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2747540/非業の最期/ひごうのさいご": {
+      "id": 2747540,
+      "form": "非業の最期",
+      "kana": "ひごうのさいご",
+      "gloss": "unnatural death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        106709
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3,
+        "非": 5,
+        "最": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1525310/末期/まつご": {
+      "id": 1525310,
+      "form": "末期",
+      "kana": "まつご",
+      "gloss": "hour of death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        112497
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "末": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1220560:期限:きげん",
+      "form": "期限",
+      "kana": "きげん",
+      "cue": "term; period",
+      "ids": [
+        1220560
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7752,
+        "shiberu": 3921,
+        "tubelex": 3621,
+        "wordfreq": 3103
+      },
+      "alternatives_by_kanji": {
+        "期": [
+          "1220570/期待/きたい",
+          "1220550/期間/きかん",
+          "1293760/最期/さいご"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1220570:期待:きたい",
+      "form": "期待",
+      "kana": "きたい",
+      "cue": "expectation; anticipation",
+      "ids": [
+        1220570
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 681,
+        "shiberu": 1266,
+        "tubelex": 736,
+        "wordfreq": 655
+      },
+      "alternatives_by_kanji": {
+        "期": [
+          "1220550/期間/きかん",
+          "1293760/最期/さいご",
+          "1542920/予期/よき"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1316040:時期:じき",
+      "form": "時期",
+      "kana": "じき",
+      "cue": "time; season",
+      "ids": [
+        1316040
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1362,
+        "shiberu": 1815,
+        "tubelex": 778,
+        "wordfreq": 906
+      },
+      "alternatives_by_kanji": {
+        "時": [
+          "1315920/時間/じかん",
+          "1449090/当時/とうじ",
+          "1598680/時々/ときどき"
+        ],
+        "期": [
+          "1220570/期待/きたい",
+          "1220550/期間/きかん",
+          "1293760/最期/さいご"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1316490:次期:じき",
+      "form": "次期",
+      "kana": "じき",
+      "cue": "next term; next period",
+      "ids": [
+        1316490
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9173,
+        "shiberu": 17176,
+        "tubelex": 8191,
+        "wordfreq": 10540
+      },
+      "alternatives_by_kanji": {
+        "期": [
+          "1220570/期待/きたい",
+          "1220550/期間/きかん",
+          "1293760/最期/さいご"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1418640:短期:たんき",
+      "form": "短期",
+      "kana": "たんき",
+      "cue": "short-term",
+      "ids": [
+        1418640
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 21786,
+        "shiberu": 8207,
+        "tubelex": 4684,
+        "wordfreq": 6169
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

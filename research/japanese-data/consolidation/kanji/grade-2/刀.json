@@ -1,0 +1,1543 @@
+{
+  "character": "刀",
+  "grade": 2,
+  "meanings": [
+    "sword",
+    "saber",
+    "knife"
+  ],
+  "strokes": [
+    2
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 18
+    }
+  ],
+  "components": [
+    "刀"
+  ],
+  "on": [
+    "トウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "かたな",
+      "stem": "かたな",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "そり",
+      "stem": "そり",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "き",
+    "ち",
+    "と",
+    "わき"
+  ],
+  "government": {
+    "kanji": "刀",
+    "heading": "刀",
+    "readings": [
+      "トウ",
+      "かたな"
+    ],
+    "examples_by_reading": [
+      [
+        "刀剣",
+        "短刀",
+        "名刀"
+      ],
+      [
+        "刀"
+      ]
+    ],
+    "note_lines": [
+      "太刀（たち）",
+      "竹刀（しない）"
+    ],
+    "representative_index": {
+      "kanji": "刀",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "竹刀"
+      ],
+      "reading": "しない",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "太刀"
+      ],
+      "reading": "たち",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 96,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1446490/刀剣/とうけん",
+        "1418800/短刀/たんとう",
+        "1641360/名刀/めいとう",
+        "1446420/刀/とう",
+        "1446580/刀身/とうしん",
+        "1478290/抜刀/ばっとう",
+        "1622000/木刀/ぼくとう",
+        "1661150/帯刀/たいとう",
+        "2583670/妖刀/ようとう",
+        "1845240/牛刀/ぎゅうとう"
+      ]
+    },
+    {
+      "reading": "かたな",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1446420/刀/かたな",
+        "1446600/刀鍛冶/かたなかじ",
+        "1446630/刀傷/かたなきず",
+        "2831034/刀狩り/かたながり",
+        "1590400/刀掛け/かたなかけ",
+        "1446530/刀持ち/かたなもち",
+        "1165180/一刀/ひとかたな",
+        "2845023/返す刀/かえすかたな",
+        "1865770/刀を差す/かたなをさす",
+        "1865760/刀を打つ/かたなをうつ"
+      ]
+    },
+    {
+      "reading": "そり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1446420/刀/かたな",
+    "1446490/刀剣/とうけん",
+    "1418800/短刀/たんとう",
+    "1641360/名刀/めいとう",
+    "1446420/刀/とう",
+    "1446580/刀身/とうしん",
+    "1478290/抜刀/ばっとう",
+    "1622000/木刀/ぼくとう",
+    "1661150/帯刀/たいとう",
+    "2583670/妖刀/ようとう",
+    "1446600/刀鍛冶/かたなかじ",
+    "1845240/牛刀/ぎゅうとう",
+    "1446570/刀匠/とうしょう",
+    "1563290/佩刀/はいとう",
+    "1200140/快刀/かいとう",
+    "1422340/竹刀/ちくとう",
+    "1348540/小刀/しょうとう",
+    "2850402/愛刀/あいとう",
+    "1748420/宝刀/ほうとう",
+    "1319680/執刀/しっとう",
+    "1553910/両刀/りょうとう",
+    "2812070/作刀/さくとう",
+    "1446510/刀工/とうこう",
+    "1248810/軍刀/ぐんとう",
+    "1265970/古刀/ことう",
+    "1720190/新刀/しんとう",
+    "1563730/偃月刀/えんげつとう",
+    "1417770/単刀直入/たんとうちょくにゅう",
+    "1729710/二刀流/にとうりゅう",
+    "1895420/手刀/しゅとう"
+  ],
+  "candidates": {
+    "1446420/刀/かたな": {
+      "id": 1446420,
+      "form": "刀",
+      "kana": "かたな",
+      "gloss": "sword (esp. Japanese single-edged)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2797,
+        2947,
+        3103,
+        4746
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [
+        "かたな"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1446490/刀剣/とうけん": {
+      "id": 1446490,
+      "form": "刀剣",
+      "kana": "とうけん",
+      "gloss": "sword",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10681,
+        23759,
+        14132,
+        30835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "剣": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418800/短刀/たんとう": {
+      "id": 1418800,
+      "form": "短刀",
+      "kana": "たんとう",
+      "gloss": "short sword",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37764,
+        22272,
+        32914,
+        25771
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "短": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1641360/名刀/めいとう": {
+      "id": 1641360,
+      "form": "名刀",
+      "kana": "めいとう",
+      "gloss": "famous sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35120,
+        44010,
+        49383,
+        38984
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1446420/刀/とう": {
+      "id": 1446420,
+      "form": "刀",
+      "kana": "とう",
+      "gloss": "sword (esp. Japanese single-edged)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2797,
+        2947,
+        3103,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "かたな"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1446580/刀身/とうしん": {
+      "id": 1446580,
+      "form": "刀身",
+      "kana": "とうしん",
+      "gloss": "sword blade",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7644,
+        33644,
+        45339,
+        15858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1478290/抜刀/ばっとう": {
+      "id": 1478290,
+      "form": "抜刀",
+      "kana": "ばっとう",
+      "gloss": "drawing a sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25542,
+        19278,
+        26690,
+        26929
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抜": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1622000/木刀/ぼくとう": {
+      "id": 1622000,
+      "form": "木刀",
+      "kana": "ぼくとう",
+      "gloss": "wooden sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28736,
+        32667,
+        41163,
+        21570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661150/帯刀/たいとう": {
+      "id": 1661150,
+      "form": "帯刀",
+      "kana": "たいとう",
+      "gloss": "wearing a sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16346,
+        53857,
+        57069,
+        47814
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帯": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2583670/妖刀/ようとう": {
+      "id": 2583670,
+      "form": "妖刀",
+      "kana": "ようとう",
+      "gloss": "bewitched sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26301,
+        33853,
+        42960,
+        43807
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "妖": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446600/刀鍛冶/かたなかじ": {
+      "id": 1446600,
+      "form": "刀鍛冶",
+      "kana": "かたなかじ",
+      "gloss": "swordsmith",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24825,
+        33644,
+        71447,
+        55147
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "冶": 7,
+        "鍛": 7
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1845240/牛刀/ぎゅうとう": {
+      "id": 1845240,
+      "form": "牛刀",
+      "kana": "ぎゅうとう",
+      "gloss": "chef's knife",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37443,
+        42628,
+        72128,
+        100408
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "牛": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446570/刀匠/とうしょう": {
+      "id": 1446570,
+      "form": "刀匠",
+      "kana": "とうしょう",
+      "gloss": "swordsmith",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30681,
+        81652,
+        58194,
+        75093
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "匠": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1563290/佩刀/はいとう": {
+      "id": 1563290,
+      "form": "佩刀",
+      "kana": "はいとう",
+      "gloss": "wearing a sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        29962,
+        62423,
+        122877,
+        94237
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200140/快刀/かいとう": {
+      "id": 1200140,
+      "form": "快刀",
+      "kana": "かいとう",
+      "gloss": "sharp sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34414,
+        89646,
+        101758,
+        174590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "快": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1422340/竹刀/ちくとう": {
+      "id": 1422340,
+      "form": "竹刀",
+      "kana": "ちくとう",
+      "gloss": "bamboo sword (for kendo)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27864,
+        23586,
+        37034,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "竹": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1348540/小刀/しょうとう": {
+      "id": 1348540,
+      "form": "小刀",
+      "kana": "しょうとう",
+      "gloss": "short sword",
+      "senses": [
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25553,
+        29810,
+        54820,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2850402/愛刀/あいとう": {
+      "id": 2850402,
+      "form": "愛刀",
+      "kana": "あいとう",
+      "gloss": "favorite sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24890,
+        78424,
+        null,
+        48070
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1748420/宝刀/ほうとう": {
+      "id": 1748420,
+      "form": "宝刀",
+      "kana": "ほうとう",
+      "gloss": "treasured sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29810,
+        49383,
+        65348
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宝": 6
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1319680/執刀/しっとう": {
+      "id": 1319680,
+      "form": "執刀",
+      "kana": "しっとう",
+      "gloss": "performing a surgical operation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        36648,
+        49635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "執": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1553910/両刀/りょうとう": {
+      "id": 1553910,
+      "form": "両刀",
+      "kana": "りょうとう",
+      "gloss": "two swords",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        62361,
+        69800
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "両": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2812070/作刀/さくとう": {
+      "id": 2812070,
+      "form": "作刀",
+      "kana": "さくとう",
+      "gloss": "making a (Japanese) sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        40201,
+        139593,
+        null,
+        140643
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446510/刀工/とうこう": {
+      "id": 1446510,
+      "form": "刀工",
+      "kana": "とうこう",
+      "gloss": "swordsmith",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        66155,
+        86114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1248810/軍刀/ぐんとう": {
+      "id": 1248810,
+      "form": "軍刀",
+      "kana": "ぐんとう",
+      "gloss": "military sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        88816,
+        71969
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軍": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1265970/古刀/ことう": {
+      "id": 1265970,
+      "form": "古刀",
+      "kana": "ことう",
+      "gloss": "old sword",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        119612,
+        114420
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1720190/新刀/しんとう": {
+      "id": 1720190,
+      "form": "新刀",
+      "kana": "しんとう",
+      "gloss": "newly forged sword",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        134699,
+        140575
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1563730/偃月刀/えんげつとう": {
+      "id": 1563730,
+      "form": "偃月刀",
+      "kana": "えんげつとう",
+      "gloss": "scimitar",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        124069,
+        90960
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1417770/単刀直入/たんとうちょくにゅう": {
+      "id": 1417770,
+      "form": "単刀直入",
+      "kana": "たんとうちょくにゅう",
+      "gloss": "straight to the point",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        55378,
+        7789
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1,
+        "単": 4,
+        "直": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1729710/二刀流/にとうりゅう": {
+      "id": 1729710,
+      "form": "二刀流",
+      "kana": "にとうりゅう",
+      "gloss": "liking both alcohol and sweets",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        26068,
+        29571
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3,
+        "二": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1895420/手刀/しゅとう": {
+      "id": 1895420,
+      "form": "手刀",
+      "kana": "しゅとう",
+      "gloss": "hand used like a sword in striking",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        34308,
+        52621,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446630/刀傷/かたなきず": {
+      "id": 1446630,
+      "form": "刀傷",
+      "kana": "かたなきず",
+      "gloss": "sword wound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        null,
+        39809
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "傷": 6
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831034/刀狩り/かたながり": {
+      "id": 2831034,
+      "form": "刀狩り",
+      "kana": "かたながり",
+      "gloss": "sword hunt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        106261
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "狩": 7
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590400/刀掛け/かたなかけ": {
+      "id": 1590400,
+      "form": "刀掛け",
+      "kana": "かたなかけ",
+      "gloss": "sword rack",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        136076
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掛": 7
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446530/刀持ち/かたなもち": {
+      "id": 1446530,
+      "form": "刀持ち",
+      "kana": "かたなもち",
+      "gloss": "swordbearer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        136346
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "持": 3
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1165180/一刀/ひとかたな": {
+      "id": 1165180,
+      "form": "一刀",
+      "kana": "ひとかたな",
+      "gloss": "single stroke",
+      "senses": [
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        70783,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845023/返す刀/かえすかたな": {
+      "id": 2845023,
+      "form": "返す刀",
+      "kana": "かえすかたな",
+      "gloss": "attacking one opponent then immediately attacking another",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        36799
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "返": 3
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1865770/刀を差す/かたなをさす": {
+      "id": 1865770,
+      "form": "刀を差す",
+      "kana": "かたなをさす",
+      "gloss": "to wear a sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        76454
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "差": 4
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1865760/刀を打つ/かたなをうつ": {
+      "id": 1865760,
+      "form": "刀を打つ",
+      "kana": "かたなをうつ",
+      "gloss": "to temper a sword",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        84430
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "かたな": {
+          "actual": "かたな",
+          "dictionary": [
+            "かたな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1446420:刀:とう",
+      "form": "刀",
+      "kana": "とう",
+      "cue": "sword (esp. Japanese single-edged); katana",
+      "ids": [
+        1446420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "shiberu": 2797,
+        "tubelex": 2947,
+        "wordfreq": 3103
+      },
+      "alternatives_by_kanji": {
+        "刀": [
+          "1446490/刀剣/とうけん",
+          "1418800/短刀/たんとう",
+          "1641360/名刀/めいとう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 116
+}

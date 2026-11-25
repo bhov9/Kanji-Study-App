@@ -1,0 +1,196 @@
+[
+  {
+    "file": "global.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv",
+    "retrieved": "2026-11-25T09:31:15.392119+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_global.csv; filename*=UTF-8''jiten_freq_global.csv",
+    "modified": null,
+    "bytes": 16702366,
+    "sha256": "bcd82b61016449499542d57599244c85838538c6152be1d8d6693fbea5f8b04b",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 468467
+  },
+  {
+    "file": "1.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=1",
+    "retrieved": "2026-11-25T09:31:30.803828+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_Anime.csv; filename*=UTF-8''jiten_freq_Anime.csv",
+    "modified": null,
+    "bytes": 7461147,
+    "sha256": "5699b9931c740739e245764ab95c4aa624d23f70d0edf6d72e90a24fe1b3e056",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 213267
+  },
+  {
+    "file": "2.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=2",
+    "retrieved": "2026-11-25T09:31:47.022167+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_Drama.csv; filename*=UTF-8''jiten_freq_Drama.csv",
+    "modified": null,
+    "bytes": 7804043,
+    "sha256": "d072e91754acd81a2ce94b1db85c6b94dee297ba2289241fffceecb2d6065945",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 222599
+  },
+  {
+    "file": "3.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=3",
+    "retrieved": "2026-11-25T09:32:00.424071+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_Movie.csv; filename*=UTF-8''jiten_freq_Movie.csv",
+    "modified": null,
+    "bytes": 5094520,
+    "sha256": "b833976b8598611861982f48a3a13a1fb181d3e562155a0833f99367bbecdd26",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 149939
+  },
+  {
+    "file": "4.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=4",
+    "retrieved": "2026-11-25T09:32:17.909979+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_Novel.csv; filename*=UTF-8''jiten_freq_Novel.csv",
+    "modified": null,
+    "bytes": 11857471,
+    "sha256": "125c0aebf77b01f94cae5705aaaeec75850105fbb198be5fe35eaafede2cda1d",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 333377
+  },
+  {
+    "file": "5.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=5",
+    "retrieved": "2026-11-25T09:32:30.812567+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_NonFiction.csv; filename*=UTF-8''jiten_freq_NonFiction.csv",
+    "modified": null,
+    "bytes": 3970867,
+    "sha256": "8a3c2424157ce8c1895b1f229a146e4e0066f88eb38af350ed977cc7f249ecdf",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 116438
+  },
+  {
+    "file": "6.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=6",
+    "retrieved": "2026-11-25T09:32:46.055872+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_VideoGame.csv; filename*=UTF-8''jiten_freq_VideoGame.csv",
+    "modified": null,
+    "bytes": 7205977,
+    "sha256": "44834f35706d3b0cb2af3924f7da34a3fc8a7792244a30f6c5d5cbbc3c7afd3d",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 202969
+  },
+  {
+    "file": "7.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=7",
+    "retrieved": "2026-11-25T09:33:02.433657+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_VisualNovel.csv; filename*=UTF-8''jiten_freq_VisualNovel.csv",
+    "modified": null,
+    "bytes": 9616356,
+    "sha256": "1dd1d019b76d45a65ee3f5add567bcd05e572f784c884f0b07a642b249bb38b7",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 269582
+  },
+  {
+    "file": "8.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=8",
+    "retrieved": "2026-11-25T09:33:14.938489+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_WebNovel.csv; filename*=UTF-8''jiten_freq_WebNovel.csv",
+    "modified": null,
+    "bytes": 3795381,
+    "sha256": "cafcea97f631d8137e03f105b5239dd1b59117508f0e511bdac495a15989ddc8",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 111372
+  },
+  {
+    "file": "9.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=9",
+    "retrieved": "2026-11-25T09:33:31.086384+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_Manga.csv; filename*=UTF-8''jiten_freq_Manga.csv",
+    "modified": null,
+    "bytes": 9522504,
+    "sha256": "34cd5d142abf699e77fd9c33e703a17b94f5b96c5074cf4e6e07321038112ebc",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 280199
+  },
+  {
+    "file": "10.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=10",
+    "retrieved": "2026-11-25T09:33:41.646018+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_Audio.csv; filename*=UTF-8''jiten_freq_Audio.csv",
+    "modified": null,
+    "bytes": 432670,
+    "sha256": "f934ef8b0c644c617018529e1f7c94c0d5a2cd9db352827eabf681cca02c04a1",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 14526
+  },
+  {
+    "file": "11.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download?downloadType=csv&mediaType=11",
+    "retrieved": "2026-11-25T09:33:54.339561+00:00",
+    "upstream_filename": "attachment; filename=jiten_freq_YouTube.csv; filename*=UTF-8''jiten_freq_YouTube.csv",
+    "modified": null,
+    "bytes": 3824958,
+    "sha256": "5ed90ab1cd799d8d18754896fead63fc345c8bdd7a5c8322b10d8c89992e9a6f",
+    "header": [
+      "Word",
+      "Form",
+      "Rank"
+    ],
+    "records": 111108
+  },
+  {
+    "file": "kanji.csv.gz",
+    "url": "https://api.jiten.moe/api/frequency-list/download-kanji?downloadType=csv",
+    "retrieved": "2026-11-25T09:34:03.327197+00:00",
+    "upstream_filename": "attachment; filename=jiten_kanji_freq.csv; filename*=UTF-8''jiten_kanji_freq.csv",
+    "modified": null,
+    "bytes": 145594,
+    "sha256": "59a67cc30fbc863acf2632dd4fe717e66fa038f533f0506d0c9e8481b463d89d",
+    "header": [
+      "Kanji",
+      "Rank"
+    ],
+    "records": 14271
+  }
+]

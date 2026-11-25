@@ -1,0 +1,1429 @@
+{
+  "character": "記",
+  "grade": 2,
+  "meanings": [
+    "scribe",
+    "account",
+    "narrative"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "已"
+  ],
+  "on": [
+    "キ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "しる.す",
+      "stem": "しる",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [
+    "のり"
+  ],
+  "government": {
+    "kanji": "記",
+    "heading": "記",
+    "readings": [
+      "キ",
+      "しるす"
+    ],
+    "examples_by_reading": [
+      [
+        "記入",
+        "記号",
+        "伝記"
+      ],
+      [
+        "記す"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "記",
+      "reading": "キ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 467,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1223210/記号/きごう",
+        "1223330/記入/きにゅう",
+        "1441960/伝記/でんき",
+        "1223140/記す/きす",
+        "1223240/記事/きじ",
+        "1223150/記憶/きおく",
+        "1223440/記録/きろく",
+        "1223340/記念/きねん",
+        "1223250/記者/きしゃ",
+        "1463930/日記/にっき"
+      ]
+    },
+    {
+      "reading": "しるす",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1223140/記す/しるす",
+        "1343700/書き記す/かきしるす",
+        "1343700/書記す/かきしるす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1223140/記す/しるす",
+    "1223210/記号/きごう",
+    "1223330/記入/きにゅう",
+    "1441960/伝記/でんき",
+    "1223140/記す/きす",
+    "1223240/記事/きじ",
+    "1223150/記憶/きおく",
+    "1223440/記録/きろく",
+    "1223340/記念/きねん",
+    "1223250/記者/きしゃ",
+    "1463930/日記/にっき",
+    "1223130/記/き",
+    "1223230/記載/きさい",
+    "1489420/表記/ひょうき",
+    "1223280/記述/きじゅつ",
+    "1184690/下記/かき",
+    "1352880/上記/じょうき",
+    "1586910/暗記/あんき",
+    "1344000/書記/しょき",
+    "1487800/筆記/ひっき",
+    "1532420/明記/めいき",
+    "1444750/登記/とうき",
+    "1390180/戦記/せんき",
+    "1661860/追記/ついき",
+    "1515230/簿記/ぼき",
+    "1392760/前記/ぜんき",
+    "1327430/手記/しゅき",
+    "1299320/雑記/ざっき",
+    "2431110/史記/しき",
+    "1223320/記帳/きちょう"
+  ],
+  "candidates": {
+    "1223140/記す/しるす": {
+      "id": 1223140,
+      "form": "記す",
+      "kana": "しるす",
+      "gloss": "to write down",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1584,
+        4890,
+        30216,
+        4133
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "しるす": {
+          "actual": "しる",
+          "dictionary": [
+            "しる.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "しるす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1223210/記号/きごう": {
+      "id": 1223210,
+      "form": "記号",
+      "kana": "きごう",
+      "gloss": "sign",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5451,
+        5179,
+        9163,
+        13925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "号": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1223330/記入/きにゅう": {
+      "id": 1223330,
+      "form": "記入",
+      "kana": "きにゅう",
+      "gloss": "entry (in a form, register, diary, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7420,
+        6155,
+        10372,
+        11121
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1441960/伝記/でんき": {
+      "id": 1441960,
+      "form": "伝記",
+      "kana": "でんき",
+      "gloss": "biography",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        7542,
+        30165,
+        23216,
+        41691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伝": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1223140/記す/きす": {
+      "id": 1223140,
+      "form": "記す",
+      "kana": "きす",
+      "gloss": "to write down",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1584,
+        4890,
+        30216,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "しるす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1223240/記事/きじ": {
+      "id": 1223240,
+      "form": "記事",
+      "kana": "きじ",
+      "gloss": "article",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1468,
+        979,
+        562,
+        3943
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1223150/記憶/きおく": {
+      "id": 1223150,
+      "form": "記憶",
+      "kana": "きおく",
+      "gloss": "memory",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1037,
+        1217,
+        969,
+        770
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憶": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223440/記録/きろく": {
+      "id": 1223440,
+      "form": "記録",
+      "kana": "きろく",
+      "gloss": "record",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1477,
+        1399,
+        841,
+        1848
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "録": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223340/記念/きねん": {
+      "id": 1223340,
+      "form": "記念",
+      "kana": "きねん",
+      "gloss": "commemoration",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1868,
+        1911,
+        625,
+        3621
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223250/記者/きしゃ": {
+      "id": 1223250,
+      "form": "記者",
+      "kana": "きしゃ",
+      "gloss": "reporter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1850,
+        2007,
+        2148,
+        9229
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1463930/日記/にっき": {
+      "id": 1463930,
+      "form": "日記",
+      "kana": "にっき",
+      "gloss": "diary",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1614,
+        5004,
+        3048,
+        7023
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1223130/記/き": {
+      "id": 1223130,
+      "form": "記",
+      "kana": "き",
+      "gloss": "account",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        1349,
+        4979,
+        4261,
+        18469
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223230/記載/きさい": {
+      "id": 1223230,
+      "form": "記載",
+      "kana": "きさい",
+      "gloss": "mention (in a document)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5654,
+        2674,
+        2241,
+        9479
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "載": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1489420/表記/ひょうき": {
+      "id": 1489420,
+      "form": "表記",
+      "kana": "ひょうき",
+      "gloss": "expression in writing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7225,
+        2176,
+        3734,
+        16577
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "表": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223280/記述/きじゅつ": {
+      "id": 1223280,
+      "form": "記述",
+      "kana": "きじゅつ",
+      "gloss": "description",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4026,
+        5592,
+        4766,
+        10522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "述": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1184690/下記/かき": {
+      "id": 1184690,
+      "form": "下記",
+      "kana": "かき",
+      "gloss": "the following",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4194,
+        13027,
+        4192,
+        29517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1352880/上記/じょうき": {
+      "id": 1352880,
+      "form": "上記",
+      "kana": "じょうき",
+      "gloss": "above-mentioned",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        11128,
+        11434,
+        2809,
+        34745
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586910/暗記/あんき": {
+      "id": 1586910,
+      "form": "暗記",
+      "kana": "あんき",
+      "gloss": "memorization",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8698,
+        9402,
+        13462,
+        13558
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暗": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1344000/書記/しょき": {
+      "id": 1344000,
+      "form": "書記",
+      "kana": "しょき",
+      "gloss": "clerk",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5555,
+        15319,
+        18794,
+        25851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1487800/筆記/ひっき": {
+      "id": 1487800,
+      "form": "筆記",
+      "kana": "ひっき",
+      "gloss": "writing down",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9163,
+        10694,
+        18794,
+        33668
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筆": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1532420/明記/めいき": {
+      "id": 1532420,
+      "form": "明記",
+      "kana": "めいき",
+      "gloss": "clear writing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22854,
+        13156,
+        8882,
+        22203
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1444750/登記/とうき": {
+      "id": 1444750,
+      "form": "登記",
+      "kana": "とうき",
+      "gloss": "registry",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20661,
+        10737,
+        10860,
+        56727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "登": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1390180/戦記/せんき": {
+      "id": 1390180,
+      "form": "戦記",
+      "kana": "せんき",
+      "gloss": "record of war",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17969,
+        20245,
+        10032,
+        44769
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661860/追記/ついき": {
+      "id": 1661860,
+      "form": "追記",
+      "kana": "ついき",
+      "gloss": "PS",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18591,
+        20809,
+        11030,
+        40205
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1515230/簿記/ぼき": {
+      "id": 1515230,
+      "form": "簿記",
+      "kana": "ぼき",
+      "gloss": "bookkeeping",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17890,
+        16644,
+        17491,
+        71670
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "簿": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1392760/前記/ぜんき": {
+      "id": 1392760,
+      "form": "前記",
+      "kana": "ぜんき",
+      "gloss": "aforesaid",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10183,
+        41422,
+        27344,
+        81635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1327430/手記/しゅき": {
+      "id": 1327430,
+      "form": "手記",
+      "kana": "しゅき",
+      "gloss": "note",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15713,
+        26689,
+        23216,
+        29242
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1299320/雑記/ざっき": {
+      "id": 1299320,
+      "form": "雑記",
+      "kana": "ざっき",
+      "gloss": "miscellaneous notes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13844,
+        33233,
+        32914,
+        123698
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雑": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2431110/史記/しき": {
+      "id": 2431110,
+      "form": "史記",
+      "kana": "しき",
+      "gloss": "Shiji (first of China's 24 dynastic histories)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10760,
+        53060,
+        59987,
+        102725
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "史": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223320/記帳/きちょう": {
+      "id": 1223320,
+      "form": "記帳",
+      "kana": "きちょう",
+      "gloss": "registry",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18481,
+        31748,
+        31791,
+        51962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帳": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1343700/書き記す/かきしるす": {
+      "id": 1343700,
+      "form": "書き記す",
+      "kana": "かきしるす",
+      "gloss": "to write down",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22585,
+        30335,
+        103620,
+        22010
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "しるす": {
+          "actual": "しる",
+          "dictionary": [
+            "しる.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1343700/書記す/かきしるす": {
+      "id": 1343700,
+      "form": "書記す",
+      "kana": "かきしるす",
+      "gloss": "to write down",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "しるす": {
+          "actual": "しる",
+          "dictionary": [
+            "しる.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1223240:記事:きじ",
+      "form": "記事",
+      "kana": "きじ",
+      "cue": "article; news story",
+      "ids": [
+        1223240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3943,
+        "shiberu": 1468,
+        "tubelex": 979,
+        "wordfreq": 562
+      },
+      "alternatives_by_kanji": {
+        "記": [
+          "1223140/記す/しるす",
+          "1223210/記号/きごう",
+          "1223330/記入/きにゅう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1223250:記者:きしゃ",
+      "form": "記者",
+      "kana": "きしゃ",
+      "cue": "reporter; journalist",
+      "ids": [
+        1223250
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9229,
+        "shiberu": 1850,
+        "tubelex": 2007,
+        "wordfreq": 2148
+      },
+      "alternatives_by_kanji": {
+        "記": [
+          "1223140/記す/しるす",
+          "1223210/記号/きごう",
+          "1223330/記入/きにゅう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1223280:記述:きじゅつ",
+      "form": "記述",
+      "kana": "きじゅつ",
+      "cue": "description; account",
+      "ids": [
+        1223280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 10522,
+        "shiberu": 4026,
+        "tubelex": 5592,
+        "wordfreq": 4766
+      },
+      "alternatives_by_kanji": {
+        "記": [
+          "1223140/記す/しるす",
+          "1223210/記号/きごう",
+          "1223330/記入/きにゅう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1223440:記録:きろく",
+      "form": "記録",
+      "kana": "きろく",
+      "cue": "record; document",
+      "ids": [
+        1223440
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1848,
+        "shiberu": 1477,
+        "tubelex": 1399,
+        "wordfreq": 841
+      },
+      "alternatives_by_kanji": {
+        "記": [
+          "1223140/記す/しるす",
+          "1223210/記号/きごう",
+          "1223330/記入/きにゅう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1344000:書記:しょき",
+      "form": "書記",
+      "kana": "しょき",
+      "cue": "clerk; secretary",
+      "ids": [
+        1344000
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 25851,
+        "shiberu": 5555,
+        "tubelex": 15319,
+        "wordfreq": 18794
+      },
+      "alternatives_by_kanji": {
+        "記": [
+          "1223140/記す/しるす",
+          "1223210/記号/きごう",
+          "1223330/記入/きにゅう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 16
+}

@@ -1,0 +1,1219 @@
+{
+  "character": "憶",
+  "grade": 7,
+  "meanings": [
+    "recollection",
+    "think",
+    "remember"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "音",
+    "心",
+    "日",
+    "忙",
+    "立"
+  ],
+  "on": [
+    "オク"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "憶",
+    "heading": "憶",
+    "readings": [
+      "オク"
+    ],
+    "examples_by_reading": [
+      [
+        "記憶",
+        "追憶"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "憶",
+      "reading": "オク",
+      "source": "table_05_o.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "オク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 61,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1223150/記憶/きおく",
+        "1432450/追憶/ついおく",
+        "1589020/憶測/おくそく",
+        "1182760/憶念/おくねん",
+        "1795410/記憶力/きおくりょく",
+        "2842023/記憶にない/きおくにない",
+        "1932830/記憶喪失/きおくそうしつ",
+        "2423650/記憶を辿る/きおくをたどる",
+        "2834164/記憶違い/きおくちがい",
+        "2763920/記憶に新しい/きおくにあたらしい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1223150/記憶/きおく",
+    "1432450/追憶/ついおく",
+    "1589020/憶測/おくそく",
+    "1182760/憶念/おくねん",
+    "1795410/記憶力/きおくりょく",
+    "2842023/記憶にない/きおくにない",
+    "1932830/記憶喪失/きおくそうしつ",
+    "2423650/記憶を辿る/きおくをたどる",
+    "2834164/記憶違い/きおくちがい",
+    "2763920/記憶に新しい/きおくにあたらしい",
+    "1182750/憶説/おくせつ",
+    "2423650/記憶をたどる/きおくをたどる",
+    "2841323/記憶が飛ぶ/きおくがとぶ",
+    "1795430/記憶障害/きおくしょうがい",
+    "2260300/記憶に留める/きおくにとどめる",
+    "2842023/記憶に無い/きおくにない",
+    "2853788/記憶領域/きおくりょういき",
+    "1223160/記憶装置/きおくそうち",
+    "1223170/記憶媒体/きおくばいたい",
+    "2260300/記憶にとどめる/きおくにとどめる",
+    "1223190/記憶容量/きおくようりょう",
+    "2130120/短期記憶/たんききおく",
+    "2855233/形状記憶/けいじょうきおく",
+    "1820880/形状記憶合金/けいじょうきおくごうきん",
+    "2130130/長期記憶/ちょうききおく",
+    "2656500/エピソード記憶/エピソードきおく",
+    "2163170/記憶術/きおくじゅつ",
+    "2850256/記憶力のいい/きおくりょくのいい",
+    "2850256/記憶力の良い/きおくりょくのいい",
+    "2841565/映像記憶/えいぞうきおく"
+  ],
+  "candidates": {
+    "1223150/記憶/きおく": {
+      "id": 1223150,
+      "form": "記憶",
+      "kana": "きおく",
+      "gloss": "memory",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1037,
+        1217,
+        969,
+        770
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [
+        "オク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1432450/追憶/ついおく": {
+      "id": 1432450,
+      "form": "追憶",
+      "kana": "ついおく",
+      "gloss": "recollection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        11053,
+        34549,
+        27016,
+        36060
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [
+        "オク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1589020/憶測/おくそく": {
+      "id": 1589020,
+      "form": "憶測",
+      "kana": "おくそく",
+      "gloss": "guess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25191,
+        13461,
+        16515,
+        10562
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "測": 5
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1182760/憶念/おくねん": {
+      "id": 1182760,
+      "form": "憶念",
+      "kana": "おくねん",
+      "gloss": "(a) thought one will never forget",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1795410/記憶力/きおくりょく": {
+      "id": 1795410,
+      "form": "記憶力",
+      "kana": "きおくりょく",
+      "gloss": "memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11173
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842023/記憶にない/きおくにない": {
+      "id": 2842023,
+      "form": "記憶にない",
+      "kana": "きおくにない",
+      "gloss": "not in one's recollection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11281
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1932830/記憶喪失/きおくそうしつ": {
+      "id": 1932830,
+      "form": "記憶喪失",
+      "kana": "きおくそうしつ",
+      "gloss": "loss of memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        15189
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "喪": 7,
+        "記": 2,
+        "失": 4
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2423650/記憶を辿る/きおくをたどる": {
+      "id": 2423650,
+      "form": "記憶を辿る",
+      "kana": "きおくをたどる",
+      "gloss": "to reach back into one's memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24456
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834164/記憶違い/きおくちがい": {
+      "id": 2834164,
+      "form": "記憶違い",
+      "kana": "きおくちがい",
+      "gloss": "mistaken memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        30086
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "違": 7,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2763920/記憶に新しい/きおくにあたらしい": {
+      "id": 2763920,
+      "form": "記憶に新しい",
+      "kana": "きおくにあたらしい",
+      "gloss": "fresh in one's mind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31211
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1182750/憶説/おくせつ": {
+      "id": 1182750,
+      "form": "憶説",
+      "kana": "おくせつ",
+      "gloss": "hypothesis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2423650/記憶をたどる/きおくをたどる": {
+      "id": 2423650,
+      "form": "記憶をたどる",
+      "kana": "きおくをたどる",
+      "gloss": "to reach back into one's memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        34885
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841323/記憶が飛ぶ/きおくがとぶ": {
+      "id": 2841323,
+      "form": "記憶が飛ぶ",
+      "kana": "きおくがとぶ",
+      "gloss": "to forget everything",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5b"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        36496
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飛": 4,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1795430/記憶障害/きおくしょうがい": {
+      "id": 1795430,
+      "form": "記憶障害",
+      "kana": "きおくしょうがい",
+      "gloss": "memory disorder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        38090
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "障": 6,
+        "記": 2,
+        "害": 4
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2260300/記憶に留める/きおくにとどめる": {
+      "id": 2260300,
+      "form": "記憶に留める",
+      "kana": "きおくにとどめる",
+      "gloss": "to remember",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        55590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "留": 5,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842023/記憶に無い/きおくにない": {
+      "id": 2842023,
+      "form": "記憶に無い",
+      "kana": "きおくにない",
+      "gloss": "not in one's recollection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        63606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853788/記憶領域/きおくりょういき": {
+      "id": 2853788,
+      "form": "記憶領域",
+      "kana": "きおくりょういき",
+      "gloss": "storage area",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        67511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "領": 5,
+        "域": 6,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223160/記憶装置/きおくそうち": {
+      "id": 1223160,
+      "form": "記憶装置",
+      "kana": "きおくそうち",
+      "gloss": "storage (device)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71644
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "装": 6,
+        "記": 2,
+        "置": 4
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223170/記憶媒体/きおくばいたい": {
+      "id": 1223170,
+      "form": "記憶媒体",
+      "kana": "きおくばいたい",
+      "gloss": "storage medium",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        76807
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2,
+        "媒": 7,
+        "体": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2260300/記憶にとどめる/きおくにとどめる": {
+      "id": 2260300,
+      "form": "記憶にとどめる",
+      "kana": "きおくにとどめる",
+      "gloss": "to remember",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        78267
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223190/記憶容量/きおくようりょう": {
+      "id": 1223190,
+      "form": "記憶容量",
+      "kana": "きおくようりょう",
+      "gloss": "storage capacity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        83156
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5,
+        "量": 4,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2130120/短期記憶/たんききおく": {
+      "id": 2130120,
+      "form": "短期記憶",
+      "kana": "たんききおく",
+      "gloss": "short-term memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        90480
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "短": 3,
+        "記": 2,
+        "期": 3
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855233/形状記憶/けいじょうきおく": {
+      "id": 2855233,
+      "form": "形状記憶",
+      "kana": "けいじょうきおく",
+      "gloss": "shape-memory (alloy, polymer, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        91858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5,
+        "記": 2,
+        "形": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1820880/形状記憶合金/けいじょうきおくごうきん": {
+      "id": 1820880,
+      "form": "形状記憶合金",
+      "kana": "けいじょうきおくごうきん",
+      "gloss": "shape memory alloy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        98828
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5,
+        "金": 1,
+        "記": 2,
+        "形": 2,
+        "合": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2130130/長期記憶/ちょうききおく": {
+      "id": 2130130,
+      "form": "長期記憶",
+      "kana": "ちょうききおく",
+      "gloss": "long-term memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        100374
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2,
+        "長": 2,
+        "期": 3
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2656500/エピソード記憶/エピソードきおく": {
+      "id": 2656500,
+      "form": "エピソード記憶",
+      "kana": "エピソードきおく",
+      "gloss": "episodic memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        100741
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2163170/記憶術/きおくじゅつ": {
+      "id": 2163170,
+      "form": "記憶術",
+      "kana": "きおくじゅつ",
+      "gloss": "mnemonics",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        104163
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "術": 5,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2850256/記憶力のいい/きおくりょくのいい": {
+      "id": 2850256,
+      "form": "記憶力のいい",
+      "kana": "きおくりょくのいい",
+      "gloss": "having good memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-ix"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        112717
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1,
+        "記": 2
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2850256/記憶力の良い/きおくりょくのいい": {
+      "id": 2850256,
+      "form": "記憶力の良い",
+      "kana": "きおくりょくのいい",
+      "gloss": "having good memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-ix"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        112963
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2,
+        "力": 1,
+        "良": 4
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841565/映像記憶/えいぞうきおく": {
+      "id": 2841565,
+      "form": "映像記憶",
+      "kana": "えいぞうきおく",
+      "gloss": "eidetic memory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        131012
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2,
+        "像": 5,
+        "映": 6
+      },
+      "matched": {
+        "オク": {
+          "actual": "おく",
+          "dictionary": [
+            "オク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1589350:憶う:おもう",
+      "form": "憶う",
+      "kana": "おもう",
+      "cue": "to think; to consider",
+      "ids": [
+        1589350
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 43251
+      },
+      "alternatives_by_kanji": {
+        "憶": [
+          "1223150/記憶/きおく",
+          "1432450/追憶/ついおく",
+          "1589020/憶測/おくそく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

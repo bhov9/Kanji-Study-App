@@ -1,0 +1,839 @@
+{
+  "character": "逓",
+  "grade": 7,
+  "meanings": [
+    "relay",
+    "in turn",
+    "sending"
+  ],
+  "strokes": [
+    10,
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 162
+    }
+  ],
+  "components": [
+    "巾",
+    "込",
+    "厂",
+    "二",
+    "｜"
+  ],
+  "on": [
+    "テイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "かわ.る",
+      "stem": "かわ",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "たがいに",
+      "stem": "たがいに",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "逓",
+    "heading": "逓（遞）",
+    "readings": [
+      "テイ"
+    ],
+    "examples_by_reading": [
+      [
+        "逓信",
+        "逓送",
+        "逓減"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "逓",
+      "reading": "テイ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 14,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1436780/逓信/ていしん",
+        "1436770/逓減/ていげん",
+        "1436790/逓送/ていそう",
+        "1739520/駅逓/えきてい",
+        "1436800/逓増/ていぞう",
+        "2063200/逓倍/ていばい",
+        "2146330/逓信省/ていしんしょう",
+        "2835975/逓信大臣/ていしんだいじん",
+        "1436810/逓伝/ていでん",
+        "1895320/逓次/ていじ"
+      ]
+    },
+    {
+      "reading": "かわる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "たがいに",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1436780/逓信/ていしん",
+    "1436770/逓減/ていげん",
+    "1436790/逓送/ていそう",
+    "1739520/駅逓/えきてい",
+    "1436800/逓増/ていぞう",
+    "2063200/逓倍/ていばい",
+    "2146330/逓信省/ていしんしょう",
+    "2835975/逓信大臣/ていしんだいじん",
+    "1436810/逓伝/ていでん",
+    "1895320/逓次/ていじ",
+    "2856584/収穫逓減/しゅうかくていげん",
+    "2161250/限界効用逓減の法則/げんかいこうようていげんのほうそく",
+    "2161330/収穫逓減の法則/しゅうかくていげんのほうそく",
+    "2063210/逓倍器/ていばいき",
+    "2063220/周波数逓倍器/しゅうはすうていばいき",
+    "2161920/限界生産物逓減の法則/げんかいせいさんぶつていげんのほうそく",
+    "2519370/駅逓局/えきていきょく",
+    "1895250/逓降変圧器/ていこうへんあつき"
+  ],
+  "candidates": {
+    "1436780/逓信/ていしん": {
+      "id": 1436780,
+      "form": "逓信",
+      "kana": "ていしん",
+      "gloss": "communications (e.g. post, telegraph)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23139,
+        59850,
+        81694,
+        146843
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "信": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1436770/逓減/ていげん": {
+      "id": 1436770,
+      "form": "逓減",
+      "kana": "ていげん",
+      "gloss": "gradual decrease",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        80148,
+        172966
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "減": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1436790/逓送/ていそう": {
+      "id": 1436790,
+      "form": "逓送",
+      "kana": "ていそう",
+      "gloss": "forwarding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "送": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1739520/駅逓/えきてい": {
+      "id": 1739520,
+      "form": "駅逓",
+      "kana": "えきてい",
+      "gloss": "delivery of packages",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        175497,
+        189768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "駅": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436800/逓増/ていぞう": {
+      "id": 1436800,
+      "form": "逓増",
+      "kana": "ていぞう",
+      "gloss": "gradual increase",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        158644,
+        270613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "増": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2063200/逓倍/ていばい": {
+      "id": 2063200,
+      "form": "逓倍",
+      "kana": "ていばい",
+      "gloss": "multiplication (e.g. of frequencies)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        209179,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "倍": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2146330/逓信省/ていしんしょう": {
+      "id": 2146330,
+      "form": "逓信省",
+      "kana": "ていしんしょう",
+      "gloss": "Ministry of Communications and Transportation (dissolved in 1949)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        177639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "信": 4,
+        "省": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835975/逓信大臣/ていしんだいじん": {
+      "id": 2835975,
+      "form": "逓信大臣",
+      "kana": "ていしんだいじん",
+      "gloss": "Minister of Communications and Transportation (1885-1949)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        230133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "信": 4,
+        "臣": 4,
+        "大": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436810/逓伝/ていでん": {
+      "id": 1436810,
+      "form": "逓伝",
+      "kana": "ていでん",
+      "gloss": "relay",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        231089
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伝": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1895320/逓次/ていじ": {
+      "id": 1895320,
+      "form": "逓次",
+      "kana": "ていじ",
+      "gloss": "successively",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "次": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856584/収穫逓減/しゅうかくていげん": {
+      "id": 2856584,
+      "form": "収穫逓減",
+      "kana": "しゅうかくていげん",
+      "gloss": "diminishing returns",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6,
+        "穫": 7,
+        "減": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2161250/限界効用逓減の法則/げんかいこうようていげんのほうそく": {
+      "id": 2161250,
+      "form": "限界効用逓減の法則",
+      "kana": "げんかいこうようていげんのほうそく",
+      "gloss": "law of diminishing marginal utility",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "減": 5,
+        "則": 5,
+        "限": 5,
+        "効": 5,
+        "法": 4,
+        "用": 2,
+        "界": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2161330/収穫逓減の法則/しゅうかくていげんのほうそく": {
+      "id": 2161330,
+      "form": "収穫逓減の法則",
+      "kana": "しゅうかくていげんのほうそく",
+      "gloss": "law of diminishing returns",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "減": 5,
+        "穫": 7,
+        "則": 5,
+        "収": 6,
+        "法": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2063210/逓倍器/ていばいき": {
+      "id": 2063210,
+      "form": "逓倍器",
+      "kana": "ていばいき",
+      "gloss": "multiplier (e.g. frequency)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "器": 4,
+        "倍": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2063220/周波数逓倍器/しゅうはすうていばいき": {
+      "id": 2063220,
+      "form": "周波数逓倍器",
+      "kana": "しゅうはすうていばいき",
+      "gloss": "frequency multiplier",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "器": 4,
+        "波": 3,
+        "数": 2,
+        "倍": 3,
+        "周": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2161920/限界生産物逓減の法則/げんかいせいさんぶつていげんのほうそく": {
+      "id": 2161920,
+      "form": "限界生産物逓減の法則",
+      "kana": "げんかいせいさんぶつていげんのほうそく",
+      "gloss": "law of diminishing marginal product",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "減": 5,
+        "産": 4,
+        "則": 5,
+        "限": 5,
+        "生": 1,
+        "法": 4,
+        "界": 3,
+        "物": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2519370/駅逓局/えきていきょく": {
+      "id": 2519370,
+      "form": "駅逓局",
+      "kana": "えきていきょく",
+      "gloss": "post office",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        260365
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "局": 3,
+        "駅": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1895250/逓降変圧器/ていこうへんあつき": {
+      "id": 1895250,
+      "form": "逓降変圧器",
+      "kana": "ていこうへんあつき",
+      "gloss": "step-down transformer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "器": 4,
+        "変": 4,
+        "降": 6,
+        "圧": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1436780:逓信:ていしん",
+      "form": "逓信",
+      "kana": "ていしん",
+      "cue": "communications (e.g. post, telegraph)",
+      "ids": [
+        1436780
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 146843,
+        "shiberu": 23139,
+        "tubelex": 59850,
+        "wordfreq": 81694
+      },
+      "alternatives_by_kanji": {
+        "信": [
+          "1359730/信頼/しんらい",
+          "1359620/信用/しんよう",
+          "1433330/通信/つうしん"
+        ],
+        "逓": [
+          "1436770/逓減/ていげん",
+          "1436790/逓送/ていそう",
+          "1739520/駅逓/えきてい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

@@ -1,0 +1,461 @@
+{
+  "character": "謄",
+  "grade": 7,
+  "meanings": [
+    "mimeograph",
+    "copy"
+  ],
+  "strokes": [
+    17
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    },
+    {
+      "type": "nelson_c",
+      "value": 130
+    }
+  ],
+  "components": [
+    "｜",
+    "一",
+    "月",
+    "言",
+    "二",
+    "大"
+  ],
+  "on": [
+    "トウ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "謄",
+    "heading": "謄",
+    "readings": [
+      "トウ"
+    ],
+    "examples_by_reading": [
+      [
+        "謄写",
+        "謄本"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "謄",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1450020/謄本/とうほん",
+        "1449990/謄写/とうしゃ",
+        "1450010/謄写版/とうしゃばん",
+        "1651110/戸籍謄本/こせきとうほん",
+        "2821340/登記簿謄本/とうきぼとうほん",
+        "1450000/謄写機/とうしゃき",
+        "1450000/謄写器/とうしゃき",
+        "2758320/住民謄本/じゅうみんとうほん",
+        "2218750/証明謄本/しょうめいとうほん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1450020/謄本/とうほん",
+    "1449990/謄写/とうしゃ",
+    "1450010/謄写版/とうしゃばん",
+    "1651110/戸籍謄本/こせきとうほん",
+    "2821340/登記簿謄本/とうきぼとうほん",
+    "1450000/謄写機/とうしゃき",
+    "1450000/謄写器/とうしゃき",
+    "2758320/住民謄本/じゅうみんとうほん",
+    "2218750/証明謄本/しょうめいとうほん"
+  ],
+  "candidates": {
+    "1450020/謄本/とうほん": {
+      "id": 1450020,
+      "form": "謄本",
+      "kana": "とうほん",
+      "gloss": "certified copy",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40622,
+        36283,
+        49383,
+        124621
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1449990/謄写/とうしゃ": {
+      "id": 1449990,
+      "form": "謄写",
+      "kana": "とうしゃ",
+      "gloss": "copy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        36518,
+        95069,
+        97220,
+        209513
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "写": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1450010/謄写版/とうしゃばん": {
+      "id": 1450010,
+      "form": "謄写版",
+      "kana": "とうしゃばん",
+      "gloss": "mimeograph",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        151646,
+        149984
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "版": 5,
+        "写": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651110/戸籍謄本/こせきとうほん": {
+      "id": 1651110,
+      "form": "戸籍謄本",
+      "kana": "こせきとうほん",
+      "gloss": "official copy of the family register",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        66907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "籍": 7,
+        "戸": 2,
+        "本": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2821340/登記簿謄本/とうきぼとうほん": {
+      "id": 2821340,
+      "form": "登記簿謄本",
+      "kana": "とうきぼとうほん",
+      "gloss": "copy of a registration certificate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        164476
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2,
+        "本": 1,
+        "簿": 7,
+        "登": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450000/謄写機/とうしゃき": {
+      "id": 1450000,
+      "form": "謄写機",
+      "kana": "とうしゃき",
+      "gloss": "mimeograph (machine)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "機": 4,
+        "写": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450000/謄写器/とうしゃき": {
+      "id": 1450000,
+      "form": "謄写器",
+      "kana": "とうしゃき",
+      "gloss": "mimeograph (machine)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "器": 4,
+        "写": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2758320/住民謄本/じゅうみんとうほん": {
+      "id": 2758320,
+      "form": "住民謄本",
+      "kana": "じゅうみんとうほん",
+      "gloss": "certified copy of certificate of residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "住": 3,
+        "民": 4,
+        "本": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2218750/証明謄本/しょうめいとうほん": {
+      "id": 2218750,
+      "form": "証明謄本",
+      "kana": "しょうめいとうほん",
+      "gloss": "attested copy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "証": 5,
+        "本": 1,
+        "明": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1651110:戸籍謄本:こせきとうほん",
+      "form": "戸籍謄本",
+      "kana": "こせきとうほん",
+      "cue": "official copy of the family register",
+      "ids": [
+        1651110
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 66907
+      },
+      "alternatives_by_kanji": {
+        "本": [
+          "1523270/本来/ほんらい",
+          "1312780/資本/しほん",
+          "1522620/本質/ほんしつ"
+        ],
+        "戸": [
+          "1267030/戸籍/こせき",
+          "1266980/戸外/こがい",
+          "1171970/雨戸/あまど"
+        ],
+        "籍": [
+          "1344090/書籍/しょせき",
+          "1267030/戸籍/こせき",
+          "1522790/本籍/ほんせき"
+        ],
+        "謄": [
+          "1450020/謄本/とうほん",
+          "1449990/謄写/とうしゃ",
+          "1450010/謄写版/とうしゃばん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

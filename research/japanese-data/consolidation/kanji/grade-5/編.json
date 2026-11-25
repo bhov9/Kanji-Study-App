@@ -1,0 +1,1385 @@
+{
+  "character": "編",
+  "grade": 5,
+  "meanings": [
+    "compilation",
+    "knit",
+    "plait",
+    "braid",
+    "twist",
+    "editing",
+    "completed poem",
+    "part of a book"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "｜",
+    "一",
+    "戸",
+    "糸",
+    "幺",
+    "小",
+    "冂",
+    "冊",
+    "尸",
+    "廾"
+  ],
+  "on": [
+    "ヘン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あ.む",
+      "stem": "あ",
+      "okurigana": "む"
+    },
+    {
+      "sourceNotation": "-あ.み",
+      "stem": "-あ",
+      "okurigana": "み"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "編",
+    "heading": "編",
+    "readings": [
+      "ヘン",
+      "あむ"
+    ],
+    "examples_by_reading": [
+      [
+        "編集",
+        "編成",
+        "長編"
+      ],
+      [
+        "編む",
+        "手編み"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "編",
+      "reading": "ヘン",
+      "source": "table_29_he.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヘン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 95,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1603240/編集/へんしゅう",
+        "1512040/編成/へんせい",
+        "1430110/長編/ちょうへん",
+        "1511870/編/へん",
+        "1405860/続編/ぞくへん",
+        "1270090/後編/こうへん",
+        "1293560/再編/さいへん",
+        "1511970/編曲/へんきょく",
+        "1512060/編入/へんにゅう",
+        "1511980/編纂/へんさん"
+      ]
+    },
+    {
+      "reading": "あむ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1511950/編む/あむ",
+        "1908810/本を編む/ほんをあむ",
+        "5741977/舟を編む/ふねをあむ",
+        "2834746/虎鬚を編む/こしゅをあむ"
+      ]
+    },
+    {
+      "reading": "あみ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 39,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1328360/手編み/てあみ",
+        "1586670/編み物/あみもの",
+        "1511910/編み出す/あみだす",
+        "2409680/編み込む/あみこむ",
+        "1586660/編み上げ/あみあげ",
+        "2222920/編み上げる/あみあげる",
+        "1511930/編み棒/あみぼう",
+        "1511920/編み針/あみばり",
+        "1511900/編み機/あみき",
+        "2413440/長編み/ながあみ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1603240/編集/へんしゅう",
+    "1511950/編む/あむ",
+    "1512040/編成/へんせい",
+    "1430110/長編/ちょうへん",
+    "1328360/手編み/てあみ",
+    "1511870/編/へん",
+    "1405860/続編/ぞくへん",
+    "1270090/後編/こうへん",
+    "1293560/再編/さいへん",
+    "1511970/編曲/へんきょく",
+    "1512060/編入/へんにゅう",
+    "1586670/編み物/あみもの",
+    "1511980/編纂/へんさん",
+    "1511910/編み出す/あみだす",
+    "1617100/編制/へんせい",
+    "1512050/編隊/へんたい",
+    "2409680/編み込む/あみこむ",
+    "1201110/改編/かいへん",
+    "1597580/中編/ちゅうへん",
+    "2766630/編年/へんねん",
+    "1583950/編者/へんしゃ",
+    "1732480/編著/へんちょ",
+    "1586660/編み上げ/あみあげ",
+    "2222920/編み上げる/あみあげる",
+    "1511930/編み棒/あみぼう",
+    "1511920/編み針/あみばり",
+    "1511900/編み機/あみき",
+    "1235150/共編/きょうへん",
+    "1377900/正編/せいへん",
+    "2413440/長編み/ながあみ"
+  ],
+  "candidates": {
+    "1603240/編集/へんしゅう": {
+      "id": 1603240,
+      "form": "編集",
+      "kana": "へんしゅう",
+      "gloss": "editing (a book, article, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4377,
+        1053,
+        1242,
+        5192
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "集": 3
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1511950/編む/あむ": {
+      "id": 1511950,
+      "form": "編む",
+      "kana": "あむ",
+      "gloss": "to knit",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4940,
+        627,
+        30980,
+        10507
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あむ": {
+          "actual": "あ",
+          "dictionary": [
+            "あ.む"
+          ]
+        }
+      },
+      "official_examples": [
+        "あむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1512040/編成/へんせい": {
+      "id": 1512040,
+      "form": "編成",
+      "kana": "へんせい",
+      "gloss": "composition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14119,
+        2599,
+        4415,
+        11716
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1430110/長編/ちょうへん": {
+      "id": 1430110,
+      "form": "長編",
+      "kana": "ちょうへん",
+      "gloss": "long work",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12532,
+        17427,
+        12479,
+        31209
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1328360/手編み/てあみ": {
+      "id": 1328360,
+      "form": "手編み",
+      "kana": "てあみ",
+      "gloss": "(hand) knitting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        63618,
+        41233
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [
+        "あむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1511870/編/へん": {
+      "id": 1511870,
+      "form": "編",
+      "kana": "へん",
+      "gloss": "compilation (of a text)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        7104,
+        1598,
+        1545,
+        7701
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1405860/続編/ぞくへん": {
+      "id": 1405860,
+      "form": "続編",
+      "kana": "ぞくへん",
+      "gloss": "sequel",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16669,
+        9545,
+        5555,
+        25925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "続": 4
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1270090/後編/こうへん": {
+      "id": 1270090,
+      "form": "後編",
+      "kana": "こうへん",
+      "gloss": "latter part (of a book, film, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31991,
+        8285,
+        11030,
+        36511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1293560/再編/さいへん": {
+      "id": 1293560,
+      "form": "再編",
+      "kana": "さいへん",
+      "gloss": "reorganization",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27037,
+        14324,
+        14937,
+        28322
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "再": 5
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1511970/編曲/へんきょく": {
+      "id": 1511970,
+      "form": "編曲",
+      "kana": "へんきょく",
+      "gloss": "arrangement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16654,
+        25501,
+        15390,
+        62195
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "曲": 3
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1512060/編入/へんにゅう": {
+      "id": 1512060,
+      "form": "編入",
+      "kana": "へんにゅう",
+      "gloss": "admission",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22809,
+        21437,
+        22289,
+        19291
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586670/編み物/あみもの": {
+      "id": 1586670,
+      "form": "編み物",
+      "kana": "あみもの",
+      "gloss": "knitting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        32022,
+        15050,
+        27689,
+        30918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1511980/編纂/へんさん": {
+      "id": 1511980,
+      "form": "編纂",
+      "kana": "へんさん",
+      "gloss": "compilation (esp. dictionary, history, law code)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15309,
+        29195,
+        28763,
+        43757
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1511910/編み出す/あみだす": {
+      "id": 1511910,
+      "form": "編み出す",
+      "kana": "あみだす",
+      "gloss": "to think up",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18275,
+        19970,
+        93840,
+        17746
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1617100/編制/へんせい": {
+      "id": 1617100,
+      "form": "編制",
+      "kana": "へんせい",
+      "gloss": "organization",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13318,
+        62423,
+        65516,
+        46536
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "制": 5
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1512050/編隊/へんたい": {
+      "id": 1512050,
+      "form": "編隊",
+      "kana": "へんたい",
+      "gloss": "formation (e.g. of aircraft)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24904,
+        29477,
+        39790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "隊": 4
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2409680/編み込む/あみこむ": {
+      "id": 2409680,
+      "form": "編み込む",
+      "kana": "あみこむ",
+      "gloss": "to weave in (a pattern, colour, material, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        20620,
+        128722,
+        29423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "込": 7
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201110/改編/かいへん": {
+      "id": 1201110,
+      "form": "改編",
+      "kana": "かいへん",
+      "gloss": "reorganization",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37698,
+        30598,
+        67823
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "改": 4
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597580/中編/ちゅうへん": {
+      "id": 1597580,
+      "form": "中編",
+      "kana": "ちゅうへん",
+      "gloss": "second part (of three)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        35465,
+        37951,
+        69414
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2766630/編年/へんねん": {
+      "id": 2766630,
+      "form": "編年",
+      "kana": "へんねん",
+      "gloss": "chronology",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32258,
+        70964,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1583950/編者/へんしゃ": {
+      "id": 1583950,
+      "form": "編者",
+      "kana": "へんしゃ",
+      "gloss": "editor",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        51509,
+        49881,
+        101858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1732480/編著/へんちょ": {
+      "id": 1732480,
+      "form": "編著",
+      "kana": "へんちょ",
+      "gloss": "compilation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        43883,
+        124600
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "著": 6
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586660/編み上げ/あみあげ": {
+      "id": 1586660,
+      "form": "編み上げ",
+      "kana": "あみあげ",
+      "gloss": "high laced shoes or boots",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        72835,
+        85655
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2222920/編み上げる/あみあげる": {
+      "id": 2222920,
+      "form": "編み上げる",
+      "kana": "あみあげる",
+      "gloss": "to finish knitting",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        207210,
+        42994
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1511930/編み棒/あみぼう": {
+      "id": 1511930,
+      "form": "編み棒",
+      "kana": "あみぼう",
+      "gloss": "knitting needle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        148871,
+        93588
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "棒": 6
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1511920/編み針/あみばり": {
+      "id": 1511920,
+      "form": "編み針",
+      "kana": "あみばり",
+      "gloss": "knitting needle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        189078,
+        137312
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "針": 6
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1511900/編み機/あみき": {
+      "id": 1511900,
+      "form": "編み機",
+      "kana": "あみき",
+      "gloss": "knitting machine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        167679,
+        160470
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1235150/共編/きょうへん": {
+      "id": 1235150,
+      "form": "共編",
+      "kana": "きょうへん",
+      "gloss": "joint editorship",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        97220,
+        241574
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "共": 4
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1377900/正編/せいへん": {
+      "id": 1377900,
+      "form": "正編",
+      "kana": "せいへん",
+      "gloss": "main part (of a book)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        201647,
+        238340
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "正": 1
+      },
+      "matched": {
+        "ヘン": {
+          "actual": "へん",
+          "dictionary": [
+            "ヘン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2413440/長編み/ながあみ": {
+      "id": 2413440,
+      "form": "長編み",
+      "kana": "ながあみ",
+      "gloss": "double crochet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        2048,
+        null,
+        360372
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "あみ": {
+          "actual": "あ",
+          "dictionary": [
+            "-あ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1908810/本を編む/ほんをあむ": {
+      "id": 1908810,
+      "form": "本を編む",
+      "kana": "ほんをあむ",
+      "gloss": "to compile a book",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "あむ": {
+          "actual": "あ",
+          "dictionary": [
+            "あ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5741977/舟を編む/ふねをあむ": {
+      "id": 5741977,
+      "form": "舟を編む",
+      "kana": "ふねをあむ",
+      "gloss": "The Great Passage (2011 novel by Shion Miura, 2013 movie, 2016 animated TV series)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "舟": 7
+      },
+      "matched": {
+        "あむ": {
+          "actual": "あ",
+          "dictionary": [
+            "あ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834746/虎鬚を編む/こしゅをあむ": {
+      "id": 2834746,
+      "form": "虎鬚を編む",
+      "kana": "こしゅをあむ",
+      "gloss": "to do something foolhardy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "虎": 7
+      },
+      "matched": {
+        "あむ": {
+          "actual": "あ",
+          "dictionary": [
+            "あ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1512040:編成:へんせい",
+      "form": "編成",
+      "kana": "へんせい",
+      "cue": "composition; formation",
+      "ids": [
+        1512040
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 11716,
+        "shiberu": 14119,
+        "tubelex": 2599,
+        "wordfreq": 4415
+      },
+      "alternatives_by_kanji": {
+        "成": [
+          "1375690/成功/せいこう",
+          "1211490/完成/かんせい",
+          "1304200/賛成/さんせい"
+        ],
+        "編": [
+          "1603240/編集/へんしゅう",
+          "1511950/編む/あむ",
+          "1430110/長編/ちょうへん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 36
+}

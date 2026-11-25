@@ -1,0 +1,664 @@
+{
+  "character": "斥",
+  "grade": 7,
+  "meanings": [
+    "reject",
+    "retreat",
+    "recede",
+    "withdraw",
+    "repel",
+    "repulse"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 69
+    },
+    {
+      "type": "nelson_c",
+      "value": 4
+    }
+  ],
+  "components": [
+    "斤",
+    "丶"
+  ],
+  "on": [
+    "セキ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "しりぞ.ける",
+      "stem": "しりぞ",
+      "okurigana": "ける"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "斥",
+    "heading": "斥",
+    "readings": [
+      "セキ"
+    ],
+    "examples_by_reading": [
+      [
+        "斥候",
+        "排斥"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "斥",
+      "reading": "セキ",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セキ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1472400/排斥/はいせき",
+        "1382330/斥候/せっこう",
+        "1382360/斥力/せきりょく",
+        "1626910/擯斥/ひんせき",
+        "1711190/除斥/じょせき",
+        "1472410/排斥運動/はいせきうんどう",
+        "2239430/外国人排斥/がいこくじんはいせき",
+        "1626910/ひん斥/ひんせき",
+        "2830845/宇宙斥力/うちゅうせきりょく",
+        "2109760/除斥期間/じょせききかん"
+      ]
+    },
+    {
+      "reading": "しりぞける",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1411260/斥ける/しりぞける"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1472400/排斥/はいせき",
+    "1382330/斥候/せっこう",
+    "1382360/斥力/せきりょく",
+    "1411260/斥ける/しりぞける",
+    "1626910/擯斥/ひんせき",
+    "1711190/除斥/じょせき",
+    "1472410/排斥運動/はいせきうんどう",
+    "2239430/外国人排斥/がいこくじんはいせき",
+    "1626910/ひん斥/ひんせき",
+    "2830845/宇宙斥力/うちゅうせきりょく",
+    "2109760/除斥期間/じょせききかん",
+    "1382340/斥候隊/せっこうたい",
+    "1382350/斥候兵/せっこうへい",
+    "1595084/斥く/しりぞく",
+    "1595084/斥く/しぞく"
+  ],
+  "candidates": {
+    "1472400/排斥/はいせき": {
+      "id": 1472400,
+      "form": "排斥",
+      "kana": "はいせき",
+      "gloss": "rejection",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10949,
+        28584,
+        21459,
+        28463
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "排": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1382330/斥候/せっこう": {
+      "id": 1382330,
+      "form": "斥候",
+      "kana": "せっこう",
+      "gloss": "scout",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        24693,
+        41422,
+        39319,
+        25104
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "候": 4
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1382360/斥力/せきりょく": {
+      "id": 1382360,
+      "form": "斥力",
+      "kana": "せきりょく",
+      "gloss": "repulsion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        97220,
+        72155
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1411260/斥ける/しりぞける": {
+      "id": 1411260,
+      "form": "斥ける",
+      "kana": "しりぞける",
+      "gloss": "to refuse",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        24473,
+        null,
+        null,
+        117694
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "しりぞける": {
+          "actual": "しりぞ",
+          "dictionary": [
+            "しりぞ.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1626910/擯斥/ひんせき": {
+      "id": 1626910,
+      "form": "擯斥",
+      "kana": "ひんせき",
+      "gloss": "rejection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        216452
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1711190/除斥/じょせき": {
+      "id": 1711190,
+      "form": "除斥",
+      "kana": "じょせき",
+      "gloss": "exclusion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "除": 6
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472410/排斥運動/はいせきうんどう": {
+      "id": 1472410,
+      "form": "排斥運動",
+      "kana": "はいせきうんどう",
+      "gloss": "expulsion movement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        104092
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "運": 3,
+        "動": 3,
+        "排": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2239430/外国人排斥/がいこくじんはいせき": {
+      "id": 2239430,
+      "form": "外国人排斥",
+      "kana": "がいこくじんはいせき",
+      "gloss": "xenophobia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        195311
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "国": 2,
+        "外": 2,
+        "排": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1626910/ひん斥/ひんせき": {
+      "id": 1626910,
+      "form": "ひん斥",
+      "kana": "ひんせき",
+      "gloss": "rejection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830845/宇宙斥力/うちゅうせきりょく": {
+      "id": 2830845,
+      "form": "宇宙斥力",
+      "kana": "うちゅうせきりょく",
+      "gloss": "dark energy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "宇": 6,
+        "力": 1,
+        "宙": 6
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2109760/除斥期間/じょせききかん": {
+      "id": 2109760,
+      "form": "除斥期間",
+      "kana": "じょせききかん",
+      "gloss": "(time limit imposed by the) statute of limitations",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "除": 6,
+        "期": 3,
+        "間": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1382340/斥候隊/せっこうたい": {
+      "id": 1382340,
+      "form": "斥候隊",
+      "kana": "せっこうたい",
+      "gloss": "reconnoitering party",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        96268
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "候": 4,
+        "隊": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1382350/斥候兵/せっこうへい": {
+      "id": 1382350,
+      "form": "斥候兵",
+      "kana": "せっこうへい",
+      "gloss": "reconnoitering party",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        111761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4,
+        "候": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1595084/斥く/しりぞく": {
+      "id": 1595084,
+      "form": "斥く",
+      "kana": "しりぞく",
+      "gloss": "to step back",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1595084/斥く/しぞく": {
+      "id": 1595084,
+      "form": "斥く",
+      "kana": "しぞく",
+      "gloss": "to step back",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1472400:排斥:はいせき",
+      "form": "排斥",
+      "kana": "はいせき",
+      "cue": "rejection; expulsion",
+      "ids": [
+        1472400
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 28463,
+        "shiberu": 10949,
+        "tubelex": 28584,
+        "wordfreq": 21459
+      },
+      "alternatives_by_kanji": {
+        "斥": [
+          "1382330/斥候/せっこう",
+          "1382360/斥力/せきりょく",
+          "1411260/斥ける/しりぞける"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

@@ -1,0 +1,315 @@
+{
+  "character": "楷",
+  "grade": 7,
+  "meanings": [
+    "square character style",
+    "correctness"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "白",
+    "比",
+    "木"
+  ],
+  "on": [
+    "カイ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "楷",
+    "heading": "楷",
+    "readings": [
+      "カイ"
+    ],
+    "examples_by_reading": [
+      [
+        "楷書"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "楷",
+      "reading": "カイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1568280/楷書/かいしょ",
+        "2842902/楷/かい",
+        "2524060/楷書体/かいしょたい",
+        "2830430/楷の木/かいのき",
+        "2654220/楷行草/かいぎょうそう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1568280/楷書/かいしょ",
+    "2842902/楷/かい",
+    "2524060/楷書体/かいしょたい",
+    "2830430/楷の木/かいのき",
+    "2654220/楷行草/かいぎょうそう",
+    "2830430/楷樹/かいのき"
+  ],
+  "candidates": {
+    "1568280/楷書/かいしょ": {
+      "id": 1568280,
+      "form": "楷書",
+      "kana": "かいしょ",
+      "gloss": "printed style (of writing Chinese characters)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18233,
+        35749,
+        61736,
+        102298
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2842902/楷/かい": {
+      "id": 2842902,
+      "form": "楷",
+      "kana": "かい",
+      "gloss": "regular script (of Chinese characters)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24788,
+        81652,
+        154467,
+        140337
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2524060/楷書体/かいしょたい": {
+      "id": 2524060,
+      "form": "楷書体",
+      "kana": "かいしょたい",
+      "gloss": "square (block) style of printed typeface",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        196402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2,
+        "体": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830430/楷の木/かいのき": {
+      "id": 2830430,
+      "form": "楷の木",
+      "kana": "かいのき",
+      "gloss": "Chinese pistache (Pistacia chinensis)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2654220/楷行草/かいぎょうそう": {
+      "id": 2654220,
+      "form": "楷行草",
+      "kana": "かいぎょうそう",
+      "gloss": "printed, semi-cursive, and cursive scripts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "行": 2,
+        "草": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830430/楷樹/かいのき": {
+      "id": 2830430,
+      "form": "楷樹",
+      "kana": "かいのき",
+      "gloss": "Chinese pistache (Pistacia chinensis)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326147
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "樹": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1568280:楷書:かいしょ",
+      "form": "楷書",
+      "kana": "かいしょ",
+      "cue": "printed style (of writing Chinese characters); square style",
+      "ids": [
+        1568280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 102298,
+        "shiberu": 18233,
+        "tubelex": 35749,
+        "wordfreq": 61736
+      },
+      "alternatives_by_kanji": {
+        "書": [
+          "1343950/書く/かく",
+          "1344090/書籍/しょせき",
+          "1456420/読書/どくしょ"
+        ],
+        "楷": [
+          "2842902/楷/かい",
+          "2524060/楷書体/かいしょたい",
+          "2830430/楷の木/かいのき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

@@ -1,0 +1,1228 @@
+{
+  "character": "跡",
+  "grade": 7,
+  "meanings": [
+    "tracks",
+    "mark",
+    "print",
+    "impression"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 157
+    }
+  ],
+  "components": [
+    "口",
+    "止",
+    "赤",
+    "足",
+    "亠"
+  ],
+  "on": [
+    "セキ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あと",
+      "stem": "あと",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "跡",
+    "heading": "跡",
+    "readings": [
+      "セキ",
+      "あと"
+    ],
+    "examples_by_reading": [
+      [
+        "追跡",
+        "旧跡",
+        "遺跡"
+      ],
+      [
+        "跡",
+        "足跡",
+        "屋敷跡"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔後，痕"
+    ],
+    "representative_index": {
+      "kanji": "跡",
+      "reading": "セキ",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セキ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 57,
+      "frequent_unflagged_examples": 5,
+      "current_support": false,
+      "candidates": [
+        "1159380/遺跡/いせき",
+        "1432560/追跡/ついせき",
+        "1603010/旧跡/きゅうせき",
+        "1581330/足跡/そくせき",
+        "2718510/跡/せき",
+        "1591250/奇跡/きせき",
+        "1290580/痕跡/こんせき",
+        "1250370/形跡/けいせき",
+        "1223970/軌跡/きせき",
+        "1487850/筆跡/ひっせき"
+      ]
+    },
+    {
+      "reading": "あと",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 48,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1581330/足跡/あしあと",
+        "1383680/跡/あと",
+        "1919640/跡地/あとち",
+        "1591230/傷跡/きずあと",
+        "1383700/跡取り/あととり",
+        "1697370/跡形/あとかた",
+        "1647170/城跡/しろあと",
+        "1634560/焼け跡/やけあと",
+        "1383710/跡目/あとめ",
+        "1487850/筆跡/ふであと"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1159380/遺跡/いせき",
+    "1432560/追跡/ついせき",
+    "1581330/足跡/あしあと",
+    "1603010/旧跡/きゅうせき",
+    "1581330/足跡/そくせき",
+    "1383680/跡/あと",
+    "2718510/跡/せき",
+    "1591250/奇跡/きせき",
+    "1290580/痕跡/こんせき",
+    "1250370/形跡/けいせき",
+    "1919640/跡地/あとち",
+    "1223970/軌跡/きせき",
+    "1591230/傷跡/きずあと",
+    "1487850/筆跡/ひっせき",
+    "1383700/跡取り/あととり",
+    "1697370/跡形/あとかた",
+    "1647170/城跡/しろあと",
+    "1634560/焼け跡/やけあと",
+    "1383710/跡目/あとめ",
+    "1707100/証跡/しょうせき",
+    "2858857/古跡/こせき",
+    "1580710/人跡/じんせき",
+    "1487850/筆跡/ふであと",
+    "1647170/城跡/じょうせき",
+    "1594290/史跡/しせき",
+    "1383690/跡継ぎ/あとつぎ",
+    "1281400/航跡/こうせき",
+    "1580710/人跡/ひとあと",
+    "2867031/窯跡/かまあと",
+    "1777310/定跡/じょうせき"
+  ],
+  "candidates": {
+    "1159380/遺跡/いせき": {
+      "id": 1159380,
+      "form": "遺跡",
+      "kana": "いせき",
+      "gloss": "(archeological) remains",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7655,
+        4864,
+        5555,
+        10603
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1432560/追跡/ついせき": {
+      "id": 1432560,
+      "form": "追跡",
+      "kana": "ついせき",
+      "gloss": "chase",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4663,
+        9545,
+        6169,
+        6717
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1581330/足跡/あしあと": {
+      "id": 1581330,
+      "form": "足跡",
+      "kana": "あしあと",
+      "gloss": "footprints",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4340,
+        7172,
+        12695,
+        7075
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "足": 1
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [
+        "あと"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1603010/旧跡/きゅうせき": {
+      "id": 1603010,
+      "form": "旧跡",
+      "kana": "きゅうせき",
+      "gloss": "historic spot",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33962,
+        56591,
+        88001,
+        113019
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "旧": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セキ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1581330/足跡/そくせき": {
+      "id": 1581330,
+      "form": "足跡",
+      "kana": "そくせき",
+      "gloss": "footprints",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4340,
+        7172,
+        12695,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "足": 1
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あと"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1383680/跡/あと": {
+      "id": 1383680,
+      "form": "跡",
+      "kana": "あと",
+      "gloss": "trace",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        3146
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [
+        "あと"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2718510/跡/せき": {
+      "id": 2718510,
+      "form": "跡",
+      "kana": "せき",
+      "gloss": "trace",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あと"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1591250/奇跡/きせき": {
+      "id": 1591250,
+      "form": "奇跡",
+      "kana": "きせき",
+      "gloss": "miracle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3735,
+        3197,
+        3103,
+        2144
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奇": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1290580/痕跡/こんせき": {
+      "id": 1290580,
+      "form": "痕跡",
+      "kana": "こんせき",
+      "gloss": "trace",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6082,
+        10663,
+        11030,
+        4940
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "痕": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1250370/形跡/けいせき": {
+      "id": 1250370,
+      "form": "形跡",
+      "kana": "けいせき",
+      "gloss": "traces",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10647,
+        16722,
+        20096,
+        7385
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "形": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1919640/跡地/あとち": {
+      "id": 1919640,
+      "form": "跡地",
+      "kana": "あとち",
+      "gloss": "former site (of something)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16899,
+        10974,
+        13462,
+        21163
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223970/軌跡/きせき": {
+      "id": 1223970,
+      "form": "軌跡",
+      "kana": "きせき",
+      "gloss": "tire track",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27526,
+        11276,
+        13090,
+        12942
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軌": 7
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1591230/傷跡/きずあと": {
+      "id": 1591230,
+      "form": "傷跡",
+      "kana": "きずあと",
+      "gloss": "scar",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22434,
+        19389,
+        19315,
+        12996
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "傷": 6
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1487850/筆跡/ひっせき": {
+      "id": 1487850,
+      "form": "筆跡",
+      "kana": "ひっせき",
+      "gloss": "handwriting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15127,
+        25714,
+        28385,
+        16851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筆": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1383700/跡取り/あととり": {
+      "id": 1383700,
+      "form": "跡取り",
+      "kana": "あととり",
+      "gloss": "heir",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20784,
+        35465,
+        42960,
+        16216
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1697370/跡形/あとかた": {
+      "id": 1697370,
+      "form": "跡形",
+      "kana": "あとかた",
+      "gloss": "trace",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22379,
+        32667,
+        34922,
+        30849
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "形": 2
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1647170/城跡/しろあと": {
+      "id": 1647170,
+      "form": "城跡",
+      "kana": "しろあと",
+      "gloss": "castle site",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24445,
+        39641,
+        29477,
+        63132
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "城": 4
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1634560/焼け跡/やけあと": {
+      "id": 1634560,
+      "form": "焼け跡",
+      "kana": "やけあと",
+      "gloss": "ruins of a fire",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26323,
+        54711,
+        42493,
+        34369
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "焼": 4
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1383710/跡目/あとめ": {
+      "id": 1383710,
+      "form": "跡目",
+      "kana": "あとめ",
+      "gloss": "headship of a family",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38834,
+        62423,
+        104555,
+        38868
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1707100/証跡/しょうせき": {
+      "id": 1707100,
+      "form": "証跡",
+      "kana": "しょうせき",
+      "gloss": "proof",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40615,
+        85382,
+        93840,
+        156377
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "証": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858857/古跡/こせき": {
+      "id": 2858857,
+      "form": "古跡",
+      "kana": "こせき",
+      "gloss": "historic spot",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37204,
+        121818,
+        144865,
+        132932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1580710/人跡/じんせき": {
+      "id": 1580710,
+      "form": "人跡",
+      "kana": "じんせき",
+      "gloss": "signs of human habitation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39416,
+        101749,
+        157245,
+        137952
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1487850/筆跡/ふであと": {
+      "id": 1487850,
+      "form": "筆跡",
+      "kana": "ふであと",
+      "gloss": "handwriting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15127,
+        25714,
+        28385,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "筆": 3
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1647170/城跡/じょうせき": {
+      "id": 1647170,
+      "form": "城跡",
+      "kana": "じょうせき",
+      "gloss": "castle site",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24445,
+        39641,
+        29477,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "城": 4
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594290/史跡/しせき": {
+      "id": 1594290,
+      "form": "史跡",
+      "kana": "しせき",
+      "gloss": "historic landmark",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22860,
+        24154,
+        64272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "史": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1383690/跡継ぎ/あとつぎ": {
+      "id": 1383690,
+      "form": "跡継ぎ",
+      "kana": "あとつぎ",
+      "gloss": "heir",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28340,
+        31791,
+        16323
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "継": 7
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1281400/航跡/こうせき": {
+      "id": 1281400,
+      "form": "航跡",
+      "kana": "こうせき",
+      "gloss": "wake (of a ship or aircraft)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        46387,
+        62586
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "航": 5
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1580710/人跡/ひとあと": {
+      "id": 1580710,
+      "form": "人跡",
+      "kana": "ひとあと",
+      "gloss": "signs of human habitation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39416,
+        101749,
+        157245,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2867031/窯跡/かまあと": {
+      "id": 2867031,
+      "form": "窯跡",
+      "kana": "かまあと",
+      "gloss": "kiln site",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37489,
+        139593,
+        null,
+        270613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "窯": 7
+      },
+      "matched": {
+        "あと": {
+          "actual": "あと",
+          "dictionary": [
+            "あと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1777310/定跡/じょうせき": {
+      "id": 1777310,
+      "form": "定跡",
+      "kana": "じょうせき",
+      "gloss": "standard move",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        70783,
+        94939
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "セキ": {
+          "actual": "せき",
+          "dictionary": [
+            "セキ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1383680:跡:あと",
+      "form": "跡",
+      "kana": "あと",
+      "cue": "trace; tracks",
+      "ids": [
+        1383680
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3146,
+        "shiberu": 2200,
+        "tubelex": 3754,
+        "wordfreq": 3961
+      },
+      "alternatives_by_kanji": {
+        "跡": [
+          "1159380/遺跡/いせき",
+          "1432560/追跡/ついせき",
+          "1581330/足跡/あしあと"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 9
+}

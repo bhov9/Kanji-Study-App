@@ -1,0 +1,1873 @@
+{
+  "character": "早",
+  "grade": 1,
+  "meanings": [
+    "early",
+    "fast"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 72
+    }
+  ],
+  "components": [
+    "十",
+    "日"
+  ],
+  "on": [
+    "ソウ",
+    "サッ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はや.い",
+      "stem": "はや",
+      "okurigana": "い"
+    },
+    {
+      "sourceNotation": "はや",
+      "stem": "はや",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "はや-",
+      "stem": "はや-",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "はや.まる",
+      "stem": "はや",
+      "okurigana": "まる"
+    },
+    {
+      "sourceNotation": "はや.める",
+      "stem": "はや",
+      "okurigana": "める"
+    },
+    {
+      "sourceNotation": "さ-",
+      "stem": "さ-",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "さか",
+    "さわ",
+    "そ",
+    "わ"
+  ],
+  "government": {
+    "kanji": "早",
+    "heading": "早",
+    "readings": [
+      "ソウ",
+      "サッ",
+      "はやい",
+      "はやまる",
+      "はやめる"
+    ],
+    "examples_by_reading": [
+      [
+        "早朝",
+        "早晩",
+        "早々に"
+      ],
+      [
+        "早速",
+        "早急"
+      ],
+      [
+        "早い",
+        "早口",
+        "素早い"
+      ],
+      [
+        "早まる"
+      ],
+      [
+        "早める"
+      ]
+    ],
+    "note_lines": [
+      "早乙女（さおとめ）",
+      "早苗（さなえ）",
+      "⇔速い",
+      "⇔速まる",
+      "⇔速める"
+    ],
+    "representative_index": {
+      "kanji": "早",
+      "reading": "ソウ",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "早乙女"
+      ],
+      "reading": "さおとめ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "早苗"
+      ],
+      "reading": "さなえ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ソウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 58,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1400330/早朝/そうちょう",
+        "1581270/早急/そうきゅう",
+        "1400340/早晩/そうばん",
+        "1400190/早期/そうき",
+        "1349330/尚早/しょうそう",
+        "1610090/早春/そうしゅん",
+        "1400260/早熟/そうじゅく",
+        "1400220/早計/そうけい",
+        "1660890/早産/そうざん",
+        "1400360/早漏/そうろう"
+      ]
+    },
+    {
+      "reading": "サッ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1400300/早速/さっそく",
+        "1581270/早急/さっきゅう",
+        "2847434/早速ですが/さっそくですが"
+      ]
+    },
+    {
+      "reading": "はやい",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1397310/素早い/すばやい",
+        "1404975/早い/はやーい",
+        "1404975/早い/はっやーい",
+        "1404975/早い/はっやい"
+      ]
+    },
+    {
+      "reading": "はやまる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "はやめる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "はや",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 104,
+      "frequent_unflagged_examples": 6,
+      "current_support": false,
+      "candidates": [
+        "1400240/早口/はやくち",
+        "1400240/早口/はやぐち",
+        "1400150/早く/はやく",
+        "2078850/早め/はやめ",
+        "1400200/早起き/はやおき",
+        "1400280/早送り/はやおくり",
+        "1400290/早足/はやあし",
+        "1400230/早見/はやみ",
+        "1611270/早寝/はやね",
+        "1400160/早とちり/はやとちり"
+      ]
+    },
+    {
+      "reading": "さ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1844650/早苗/さなえ",
+        "1844500/早乙女/さおとめ",
+        "2580090/早蕨/さわらび",
+        "1844500/早少女/さおとめ",
+        "2596850/早苗月/さなえづき",
+        "2596930/早花咲月/さはなさづき",
+        "1299600/早月/さつき",
+        "2856860/早松/さまつ",
+        "2596610/早緑月/さみどりづき",
+        "2189670/早苗鳥/さなえどり"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1400300/早速/さっそく",
+    "1397310/素早い/すばやい",
+    "1400330/早朝/そうちょう",
+    "1400240/早口/はやくち",
+    "1581270/早急/そうきゅう",
+    "1400340/早晩/そうばん",
+    "1404975/早い/はやーい",
+    "1404975/早い/はっやーい",
+    "1404975/早い/はっやい",
+    "1400240/早口/はやぐち",
+    "1581270/早急/さっきゅう",
+    "1400150/早く/はやく",
+    "2078850/早め/はやめ",
+    "1400190/早期/そうき",
+    "1400200/早起き/はやおき",
+    "1400280/早送り/はやおくり",
+    "1400290/早足/はやあし",
+    "1349330/尚早/しょうそう",
+    "1610090/早春/そうしゅん",
+    "1400230/早見/はやみ",
+    "1611270/早寝/はやね",
+    "1400260/早熟/そうじゅく",
+    "1400160/早とちり/はやとちり",
+    "1400270/早瀬/はやせ",
+    "1400220/早計/そうけい",
+    "1844760/早道/はやみち",
+    "1844780/早鐘/はやがね",
+    "1626450/早咲き/はやざき",
+    "1660890/早産/そうざん",
+    "2521190/早打ち/はやうち"
+  ],
+  "candidates": {
+    "1400300/早速/さっそく": {
+      "id": 1400300,
+      "form": "早速",
+      "kana": "さっそく",
+      "gloss": "at once",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        6836,
+        626,
+        4596,
+        1408
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "速": 3
+      },
+      "matched": {
+        "サッ": {
+          "actual": "さっ",
+          "dictionary": [
+            "サッ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サッ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1397310/素早い/すばやい": {
+      "id": 1397310,
+      "form": "素早い",
+      "kana": "すばやい",
+      "gloss": "quick",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        3826,
+        3164,
+        18515,
+        3239
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "素": 5
+      },
+      "matched": {
+        "はやい": {
+          "actual": "ばや",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はやい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400330/早朝/そうちょう": {
+      "id": 1400330,
+      "form": "早朝",
+      "kana": "そうちょう",
+      "gloss": "early morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        4946,
+        8001,
+        6779,
+        5359
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朝": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1400240/早口/はやくち": {
+      "id": 1400240,
+      "form": "早口",
+      "kana": "はやくち",
+      "gloss": "fast-talking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5376,
+        15083,
+        19596,
+        8538
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [
+        "はやい"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1581270/早急/そうきゅう": {
+      "id": 1581270,
+      "form": "早急",
+      "kana": "そうきゅう",
+      "gloss": "immediate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15358,
+        11455,
+        11917,
+        7138
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "急": 3
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サッ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400340/早晩/そうばん": {
+      "id": 1400340,
+      "form": "早晩",
+      "kana": "そうばん",
+      "gloss": "sooner or later",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        14539,
+        47603,
+        64910,
+        43250
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "晩": 6
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1404975/早い/はやーい": {
+      "id": 1404975,
+      "form": "早い",
+      "kana": "はやーい",
+      "gloss": "fast",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        163,
+        244,
+        1342,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "はやい": {
+          "actual": "はやー",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はやい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1404975/早い/はっやーい": {
+      "id": 1404975,
+      "form": "早い",
+      "kana": "はっやーい",
+      "gloss": "fast",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        163,
+        244,
+        1342,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "はやい": {
+          "actual": "はっやー",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はやい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1404975/早い/はっやい": {
+      "id": 1404975,
+      "form": "早い",
+      "kana": "はっやい",
+      "gloss": "fast",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        163,
+        244,
+        1342,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "はやい": {
+          "actual": "はっや",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はやい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400240/早口/はやぐち": {
+      "id": 1400240,
+      "form": "早口",
+      "kana": "はやぐち",
+      "gloss": "fast-talking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5376,
+        15083,
+        19596,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [
+        "はやい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1581270/早急/さっきゅう": {
+      "id": 1581270,
+      "form": "早急",
+      "kana": "さっきゅう",
+      "gloss": "immediate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15358,
+        11455,
+        11917,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "急": 3
+      },
+      "matched": {
+        "サッ": {
+          "actual": "さっ",
+          "dictionary": [
+            "サッ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サッ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1400150/早く/はやく": {
+      "id": 1400150,
+      "form": "早く",
+      "kana": "はやく",
+      "gloss": "early",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4434,
+        7599,
+        434,
+        142
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2078850/早め/はやめ": {
+      "id": 2078850,
+      "form": "早め",
+      "kana": "はやめ",
+      "gloss": "early",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9111,
+        2539,
+        3809,
+        3579
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400190/早期/そうき": {
+      "id": 1400190,
+      "form": "早期",
+      "kana": "そうき",
+      "gloss": "early stage",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        9500,
+        5452,
+        6894,
+        20773
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "期": 3
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1400200/早起き/はやおき": {
+      "id": 1400200,
+      "form": "早起き",
+      "kana": "はやおき",
+      "gloss": "getting up early",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7947,
+        11073,
+        11368,
+        7316
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "起": 3
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400280/早送り/はやおくり": {
+      "id": 1400280,
+      "form": "早送り",
+      "kana": "はやおくり",
+      "gloss": "fast forward (e.g. VCR, tape deck, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        30699,
+        6834,
+        32185,
+        35775
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "送": 3
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400290/早足/はやあし": {
+      "id": 1400290,
+      "form": "早足",
+      "kana": "はやあし",
+      "gloss": "quick pace",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17593,
+        27951,
+        47810,
+        8948
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "足": 1
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1349330/尚早/しょうそう": {
+      "id": 1349330,
+      "form": "尚早",
+      "kana": "しょうそう",
+      "gloss": "prematurity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19317,
+        33444,
+        30980,
+        74217
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "尚": 7
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1610090/早春/そうしゅん": {
+      "id": 1610090,
+      "form": "早春",
+      "kana": "そうしゅん",
+      "gloss": "early spring",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16444,
+        45405,
+        43420,
+        63075
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "春": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400230/早見/はやみ": {
+      "id": 1400230,
+      "form": "早見",
+      "kana": "はやみ",
+      "gloss": "chart",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34429,
+        38608,
+        19315,
+        97219
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "見": 1
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1611270/早寝/はやね": {
+      "id": 1611270,
+      "form": "早寝",
+      "kana": "はやね",
+      "gloss": "go to bed early",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25532,
+        36842,
+        32914,
+        51203
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寝": 7
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400260/早熟/そうじゅく": {
+      "id": 1400260,
+      "form": "早熟",
+      "kana": "そうじゅく",
+      "gloss": "precocity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        21348,
+        42221,
+        42050,
+        42716
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "熟": 6
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400160/早とちり/はやとちり": {
+      "id": 1400160,
+      "form": "早とちり",
+      "kana": "はやとちり",
+      "gloss": "jumping to a wrong conclusion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        36158,
+        53857,
+        37951,
+        15134
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400270/早瀬/はやせ": {
+      "id": 1400270,
+      "form": "早瀬",
+      "kana": "はやせ",
+      "gloss": "swift current",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25260,
+        37698,
+        43883,
+        72122
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "瀬": 7
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400220/早計/そうけい": {
+      "id": 1400220,
+      "form": "早計",
+      "kana": "そうけい",
+      "gloss": "overhasty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39544,
+        43098,
+        45882,
+        22397
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "計": 2
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1844760/早道/はやみち": {
+      "id": 1844760,
+      "form": "早道",
+      "kana": "はやみち",
+      "gloss": "shortcut",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22584,
+        53857,
+        79465,
+        52184
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1844780/早鐘/はやがね": {
+      "id": 1844780,
+      "form": "早鐘",
+      "kana": "はやがね",
+      "gloss": "alarm bell",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21287,
+        81652,
+        140911,
+        25980
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鐘": 7
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1626450/早咲き/はやざき": {
+      "id": 1626450,
+      "form": "早咲き",
+      "kana": "はやざき",
+      "gloss": "blooming early",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        24378,
+        62423,
+        69479,
+        83151
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "咲": 7
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1660890/早産/そうざん": {
+      "id": 1660890,
+      "form": "早産",
+      "kana": "そうざん",
+      "gloss": "premature birth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        33616,
+        45909,
+        53182,
+        79291
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "産": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2521190/早打ち/はやうち": {
+      "id": 2521190,
+      "form": "早打ち",
+      "kana": "はやうち",
+      "gloss": "fast typing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        36410,
+        36026,
+        66155,
+        91013
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "はや": {
+          "actual": "はや",
+          "dictionary": [
+            "はや",
+            "はや-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400360/早漏/そうろう": {
+      "id": 1400360,
+      "form": "早漏",
+      "kana": "そうろう",
+      "gloss": "premature ejaculation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        30504,
+        19848,
+        39867
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "漏": 7
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847434/早速ですが/さっそくですが": {
+      "id": 2847434,
+      "form": "早速ですが",
+      "kana": "さっそくですが",
+      "gloss": "jumping straight to the business, ...",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19414
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "速": 3
+      },
+      "matched": {
+        "サッ": {
+          "actual": "さっ",
+          "dictionary": [
+            "サッ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1844650/早苗/さなえ": {
+      "id": 1844650,
+      "form": "早苗",
+      "kana": "さなえ",
+      "gloss": "rice seedling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        17976,
+        64837
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "苗": 7
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1844500/早乙女/さおとめ": {
+      "id": 1844500,
+      "form": "早乙女",
+      "kana": "さおとめ",
+      "gloss": "young female rice planter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        19040,
+        60249
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "女": 1,
+        "乙": 7
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2580090/早蕨/さわらび": {
+      "id": 2580090,
+      "form": "早蕨",
+      "kana": "さわらび",
+      "gloss": "freshly budded bracken",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        164653,
+        149834
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1844500/早少女/さおとめ": {
+      "id": 1844500,
+      "form": "早少女",
+      "kana": "さおとめ",
+      "gloss": "young female rice planter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        274937
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "少": 2,
+        "女": 1
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2596850/早苗月/さなえづき": {
+      "id": 2596850,
+      "form": "早苗月",
+      "kana": "さなえづき",
+      "gloss": "fifth lunar month",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        389790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1,
+        "苗": 7
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2596930/早花咲月/さはなさづき": {
+      "id": 2596930,
+      "form": "早花咲月",
+      "kana": "さはなさづき",
+      "gloss": "third lunar month",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "月": 1,
+        "咲": 7,
+        "花": 1
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1299600/早月/さつき": {
+      "id": 1299600,
+      "form": "早月",
+      "kana": "さつき",
+      "gloss": "fifth month of the lunar calendar",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        115366,
+        152511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2856860/早松/さまつ": {
+      "id": 2856860,
+      "form": "早松",
+      "kana": "さまつ",
+      "gloss": "Tricholoma colossus (species of mushroom)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "松": 4
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2596610/早緑月/さみどりづき": {
+      "id": 2596610,
+      "form": "早緑月",
+      "kana": "さみどりづき",
+      "gloss": "first lunar month",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "月": 1,
+        "緑": 3
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2189670/早苗鳥/さなえどり": {
+      "id": 2189670,
+      "form": "早苗鳥",
+      "kana": "さなえどり",
+      "gloss": "lesser cuckoo (Cuculus poliocephalus)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "苗": 7,
+        "鳥": 2
+      },
+      "matched": {
+        "さ": {
+          "actual": "さ",
+          "dictionary": [
+            "さ-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1596420:早早:そうそう",
+      "form": "早早",
+      "kana": "そうそう",
+      "cue": "as soon as ...; just after ...",
+      "ids": [
+        1596420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 147912
+      },
+      "alternatives_by_kanji": {
+        "早": [
+          "1400300/早速/さっそく",
+          "1397310/素早い/すばやい",
+          "1400330/早朝/そうちょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1844500:早乙女:さおとめ",
+      "form": "早乙女",
+      "kana": "さおとめ",
+      "cue": "young female rice planter; young girl",
+      "ids": [
+        1844500
+      ],
+      "mapping": "needs-review",
+      "flags": [],
+      "issues": [
+        "check segmentation",
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 60249,
+        "tubelex": 95069,
+        "wordfreq": 19040
+      },
+      "alternatives_by_kanji": {
+        "女": [
+          "1345440/女流/じょりゅう",
+          "1345230/女人/にょにん",
+          "1761950/女心/おんなごころ"
+        ],
+        "早": [
+          "1400300/早速/さっそく",
+          "1397310/素早い/すばやい",
+          "1400330/早朝/そうちょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 106
+}

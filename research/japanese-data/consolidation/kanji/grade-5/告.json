@@ -1,0 +1,1490 @@
+{
+  "character": "告",
+  "grade": 5,
+  "meanings": [
+    "revelation",
+    "tell",
+    "inform",
+    "announce"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    }
+  ],
+  "components": [
+    "ノ",
+    "口",
+    "土"
+  ],
+  "on": [
+    "コク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "つ.げる",
+      "stem": "つ",
+      "okurigana": "げる"
+    }
+  ],
+  "nanori": [
+    "い"
+  ],
+  "government": {
+    "kanji": "告",
+    "heading": "告",
+    "readings": [
+      "コク",
+      "つげる"
+    ],
+    "examples_by_reading": [
+      [
+        "告示",
+        "告白",
+        "報告"
+      ],
+      [
+        "告げる"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "告",
+      "reading": "コク",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 216,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1515670/報告/ほうこく",
+        "1286060/告白/こくはく",
+        "1286010/告示/こくじ",
+        "1278510/広告/こうこく",
+        "1252360/警告/けいこく",
+        "1542990/予告/よこく",
+        "1484410/被告/ひこく",
+        "1426140/忠告/ちゅうこく",
+        "1286050/告知/こくち",
+        "1286070/告発/こくはつ"
+      ]
+    },
+    {
+      "reading": "つげる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1285990/告げる/つげる",
+        "2790960/別れを告げる/わかれをつげる",
+        "2403010/終わりを告げる/おわりをつげる",
+        "2021550/時を告げる/ときをつげる",
+        "2118420/風雲急を告げる/ふううんきゅうをつげる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1515670/報告/ほうこく",
+    "1285990/告げる/つげる",
+    "1286060/告白/こくはく",
+    "1286010/告示/こくじ",
+    "1278510/広告/こうこく",
+    "1252360/警告/けいこく",
+    "1542990/予告/よこく",
+    "1484410/被告/ひこく",
+    "1426140/忠告/ちゅうこく",
+    "1286050/告知/こくち",
+    "1286070/告発/こくはつ",
+    "1363100/申告/しんこく",
+    "1389700/宣告/せんこく",
+    "1496860/布告/ふこく",
+    "1210970/勧告/かんこく",
+    "1261400/原告/げんこく",
+    "1286030/告訴/こくそ",
+    "1433220/通告/つうこく",
+    "1528250/密告/みっこく",
+    "1353200/上告/じょうこく",
+    "1286080/告別/こくべつ",
+    "1273670/公告/こうこく",
+    "1200680/戒告/かいこく",
+    "1738670/論告/ろんこく",
+    "2028130/告る/こくる",
+    "1631280/抗告/こうこく",
+    "1292190/催告/さいこく",
+    "1648770/奉告/ほうこく",
+    "1811660/訓告/くんこく",
+    "1655110/予告編/よこくへん"
+  ],
+  "candidates": {
+    "1515670/報告/ほうこく": {
+      "id": 1515670,
+      "form": "報告",
+      "kana": "ほうこく",
+      "gloss": "report",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        964,
+        1163,
+        841,
+        839
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "報": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1285990/告げる/つげる": {
+      "id": 1285990,
+      "form": "告げる",
+      "kana": "つげる",
+      "gloss": "to tell",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1586,
+        5224,
+        11917,
+        2053
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つげる": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.げる"
+          ]
+        }
+      },
+      "official_examples": [
+        "つげる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1286060/告白/こくはく": {
+      "id": 1286060,
+      "form": "告白",
+      "kana": "こくはく",
+      "gloss": "confession (to a crime, wrongdoing, etc.)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4607,
+        4793,
+        3374,
+        1824
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1286010/告示/こくじ": {
+      "id": 1286010,
+      "form": "告示",
+      "kana": "こくじ",
+      "gloss": "notice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18077,
+        24904,
+        23216,
+        78481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "示": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1278510/広告/こうこく": {
+      "id": 1278510,
+      "form": "広告",
+      "kana": "こうこく",
+      "gloss": "advertisement",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1618,
+        2405,
+        1342,
+        10308
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "広": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252360/警告/けいこく": {
+      "id": 1252360,
+      "form": "警告",
+      "kana": "けいこく",
+      "gloss": "warning",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3519,
+        4070,
+        4955,
+        4656
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "警": 6
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1542990/予告/よこく": {
+      "id": 1542990,
+      "form": "予告",
+      "kana": "よこく",
+      "gloss": "(advance) notice",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3390,
+        5976,
+        3809,
+        8195
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1484410/被告/ひこく": {
+      "id": 1484410,
+      "form": "被告",
+      "kana": "ひこく",
+      "gloss": "defendant",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3368,
+        11149,
+        5154,
+        29565
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "被": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1426140/忠告/ちゅうこく": {
+      "id": 1426140,
+      "form": "忠告",
+      "kana": "ちゅうこく",
+      "gloss": "advice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3001,
+        15734,
+        14745,
+        3459
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "忠": 6
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1286050/告知/こくち": {
+      "id": 1286050,
+      "form": "告知",
+      "kana": "こくち",
+      "gloss": "notice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20236,
+        5763,
+        4415,
+        13499
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "知": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1286070/告発/こくはつ": {
+      "id": 1286070,
+      "form": "告発",
+      "kana": "こくはつ",
+      "gloss": "indictment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5645,
+        12746,
+        5892,
+        14079
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1363100/申告/しんこく": {
+      "id": 1363100,
+      "form": "申告",
+      "kana": "しんこく",
+      "gloss": "report",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10171,
+        6612,
+        8031,
+        20546
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "申": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1389700/宣告/せんこく": {
+      "id": 1389700,
+      "form": "宣告",
+      "kana": "せんこく",
+      "gloss": "sentencing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6315,
+        16572,
+        9614,
+        11310
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宣": 6
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1496860/布告/ふこく": {
+      "id": 1496860,
+      "form": "布告",
+      "kana": "ふこく",
+      "gloss": "edict",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6735,
+        19813,
+        13682,
+        38117
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1210970/勧告/かんこく": {
+      "id": 1210970,
+      "form": "勧告",
+      "kana": "かんこく",
+      "gloss": "advice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        13355,
+        13138,
+        10032,
+        23477
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勧": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1261400/原告/げんこく": {
+      "id": 1261400,
+      "form": "原告",
+      "kana": "げんこく",
+      "gloss": "plaintiff",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17072,
+        12175,
+        12107,
+        61605
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1286030/告訴/こくそ": {
+      "id": 1286030,
+      "form": "告訴",
+      "kana": "こくそ",
+      "gloss": "accusation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11663,
+        18001,
+        13918,
+        36821
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訴": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1433220/通告/つうこく": {
+      "id": 1433220,
+      "form": "通告",
+      "kana": "つうこく",
+      "gloss": "announcement",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18104,
+        16044,
+        14325,
+        23595
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1528250/密告/みっこく": {
+      "id": 1528250,
+      "form": "密告",
+      "kana": "みっこく",
+      "gloss": "anonymous report",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17379,
+        29670,
+        20096,
+        22622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "密": 6
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1353200/上告/じょうこく": {
+      "id": 1353200,
+      "form": "上告",
+      "kana": "じょうこく",
+      "gloss": "final appeal to the highest court",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14755,
+        39641,
+        20890,
+        89919
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1286080/告別/こくべつ": {
+      "id": 1286080,
+      "form": "告別",
+      "kana": "こくべつ",
+      "gloss": "farewell",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13976,
+        28481,
+        37490,
+        106376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1273670/公告/こうこく": {
+      "id": 1273670,
+      "form": "公告",
+      "kana": "こうこく",
+      "gloss": "public announcement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        34108,
+        39979,
+        41605,
+        122406
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1200680/戒告/かいこく": {
+      "id": 1200680,
+      "form": "戒告",
+      "kana": "かいこく",
+      "gloss": "admonition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21838,
+        65459,
+        58810,
+        119310
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戒": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1738670/論告/ろんこく": {
+      "id": 1738670,
+      "form": "論告",
+      "kana": "ろんこく",
+      "gloss": "prosecutor's closing argument",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        39688,
+        101749,
+        84059,
+        131851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2028130/告る/こくる": {
+      "id": 2028130,
+      "form": "告る",
+      "kana": "こくる",
+      "gloss": "to confess one's love",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18807,
+        31561,
+        null,
+        18360
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1631280/抗告/こうこく": {
+      "id": 1631280,
+      "form": "抗告",
+      "kana": "こうこく",
+      "gloss": "appeal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43098,
+        42050,
+        212373
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抗": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1292190/催告/さいこく": {
+      "id": 1292190,
+      "form": "催告",
+      "kana": "さいこく",
+      "gloss": "notification",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36550,
+        72128,
+        197226
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "催": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1648770/奉告/ほうこく": {
+      "id": 1648770,
+      "form": "奉告",
+      "kana": "ほうこく",
+      "gloss": "report given to deity or nobility",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        113283,
+        271957
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奉": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1811660/訓告/くんこく": {
+      "id": 1811660,
+      "form": "訓告",
+      "kana": "くんこく",
+      "gloss": "reprimand",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        124069,
+        109145
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訓": 4
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655110/予告編/よこくへん": {
+      "id": 1655110,
+      "form": "予告編",
+      "kana": "よこくへん",
+      "gloss": "trailer (for a film, TV show, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        14325,
+        55188
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3,
+        "編": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2790960/別れを告げる/わかれをつげる": {
+      "id": 2790960,
+      "form": "別れを告げる",
+      "kana": "わかれをつげる",
+      "gloss": "to say goodbye",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        10375
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "つげる": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.げる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2403010/終わりを告げる/おわりをつげる": {
+      "id": 2403010,
+      "form": "終わりを告げる",
+      "kana": "おわりをつげる",
+      "gloss": "to mark the end",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "終": 3
+      },
+      "matched": {
+        "つげる": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.げる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2021550/時を告げる/ときをつげる": {
+      "id": 2021550,
+      "form": "時を告げる",
+      "kana": "ときをつげる",
+      "gloss": "to announce the time",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71210
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2
+      },
+      "matched": {
+        "つげる": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.げる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2118420/風雲急を告げる/ふううんきゅうをつげる": {
+      "id": 2118420,
+      "form": "風雲急を告げる",
+      "kana": "ふううんきゅうをつげる",
+      "gloss": "to have grown tense (of a situation)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        78861
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "急": 3,
+        "雲": 2,
+        "風": 2
+      },
+      "matched": {
+        "つげる": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.げる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1210970:勧告:かんこく",
+      "form": "勧告",
+      "kana": "かんこく",
+      "cue": "advice; counsel",
+      "ids": [
+        1210970
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 23477,
+        "shiberu": 13355,
+        "tubelex": 13138,
+        "wordfreq": 10032
+      },
+      "alternatives_by_kanji": {
+        "告": [
+          "1515670/報告/ほうこく",
+          "1285990/告げる/つげる",
+          "1286060/告白/こくはく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1286080:告別:こくべつ",
+      "form": "告別",
+      "kana": "こくべつ",
+      "cue": "farewell; leave-taking",
+      "ids": [
+        1286080
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 106376,
+        "shiberu": 13976,
+        "tubelex": 28481,
+        "wordfreq": 37490
+      },
+      "alternatives_by_kanji": {
+        "別": [
+          "1455280/特別/とくべつ",
+          "1606590/別れる/わかれる",
+          "1509490/別れ/わかれ"
+        ],
+        "告": [
+          "1515670/報告/ほうこく",
+          "1285990/告げる/つげる",
+          "1286060/告白/こくはく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1484410:被告:ひこく",
+      "form": "被告",
+      "kana": "ひこく",
+      "cue": "defendant; the accused",
+      "ids": [
+        1484410
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 29565,
+        "shiberu": 3368,
+        "tubelex": 11149,
+        "wordfreq": 5154
+      },
+      "alternatives_by_kanji": {
+        "告": [
+          "1515670/報告/ほうこく",
+          "1285990/告げる/つげる",
+          "1286060/告白/こくはく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1515670:報告:ほうこく",
+      "form": "報告",
+      "kana": "ほうこく",
+      "cue": "report; information",
+      "ids": [
+        1515670
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 839,
+        "shiberu": 964,
+        "tubelex": 1163,
+        "wordfreq": 841
+      },
+      "alternatives_by_kanji": {
+        "告": [
+          "1285990/告げる/つげる",
+          "1286060/告白/こくはく",
+          "1286010/告示/こくじ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 26
+}

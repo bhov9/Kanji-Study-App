@@ -1,0 +1,698 @@
+{
+  "character": "該",
+  "grade": 7,
+  "meanings": [
+    "above-stated",
+    "the said",
+    "that specific"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "人",
+    "亠",
+    "ノ",
+    "丶"
+  ],
+  "on": [
+    "ガイ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "該",
+    "heading": "該",
+    "readings": [
+      "ガイ"
+    ],
+    "examples_by_reading": [
+      [
+        "該当",
+        "該博",
+        "当該"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "該",
+      "reading": "ガイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1204700/該当/がいとう",
+        "1448970/当該/とうがい",
+        "1204720/該博/がいはく",
+        "2064100/該/がい",
+        "1204710/該当者/がいとうしゃ",
+        "2218890/該当なし/がいとうなし",
+        "1448990/当該人物/とうがいじんぶつ",
+        "2218890/該当無し/がいとうなし",
+        "1204730/該博な知識/がいはくなちしき",
+        "2042650/該当事項/がいとうじこう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1204700/該当/がいとう",
+    "1448970/当該/とうがい",
+    "1204720/該博/がいはく",
+    "2064100/該/がい",
+    "1204710/該当者/がいとうしゃ",
+    "2218890/該当なし/がいとうなし",
+    "1448990/当該人物/とうがいじんぶつ",
+    "2218890/該当無し/がいとうなし",
+    "1204730/該博な知識/がいはくなちしき",
+    "2042650/該当事項/がいとうじこう",
+    "1868120/該問題/がいもんだい",
+    "2059320/該氏/がいし",
+    "1868020/該案/がいあん",
+    "1448980/当該官庁/とうがいかんちょう",
+    "2346710/格納メッセージ該当数/かくのうメッセージがいとうすう",
+    "1204700/該当/かくとう"
+  ],
+  "candidates": {
+    "1204700/該当/がいとう": {
+      "id": 1204700,
+      "form": "該当",
+      "kana": "がいとう",
+      "gloss": "corresponding to",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7957,
+        4939,
+        3961,
+        9806
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1448970/当該/とうがい": {
+      "id": 1448970,
+      "form": "当該",
+      "kana": "とうがい",
+      "gloss": "appropriate (e.g. authorities)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        17960,
+        9742,
+        5233,
+        32761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1204720/該博/がいはく": {
+      "id": 1204720,
+      "form": "該博",
+      "kana": "がいはく",
+      "gloss": "profundity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        170790,
+        177639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "博": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2064100/該/がい": {
+      "id": 2064100,
+      "form": "該",
+      "kana": "がい",
+      "gloss": "said",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "pref"
+      ],
+      "flags": [],
+      "ranks": [
+        39685,
+        89646,
+        66155,
+        87964
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204710/該当者/がいとうしゃ": {
+      "id": 1204710,
+      "form": "該当者",
+      "kana": "がいとうしゃ",
+      "gloss": "person concerned",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        38502
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2,
+        "者": 3
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2218890/該当なし/がいとうなし": {
+      "id": 2218890,
+      "form": "該当なし",
+      "kana": "がいとうなし",
+      "gloss": "not applicable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        87002
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1448990/当該人物/とうがいじんぶつ": {
+      "id": 1448990,
+      "form": "当該人物",
+      "kana": "とうがいじんぶつ",
+      "gloss": "the appropriate person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        125570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "当": 2,
+        "人": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2218890/該当無し/がいとうなし": {
+      "id": 2218890,
+      "form": "該当無し",
+      "kana": "がいとうなし",
+      "gloss": "not applicable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        170739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "当": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204730/該博な知識/がいはくなちしき": {
+      "id": 1204730,
+      "form": "該博な知識",
+      "kana": "がいはくなちしき",
+      "gloss": "profound knowledge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        234669
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "識": 5,
+        "博": 4,
+        "知": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2042650/該当事項/がいとうじこう": {
+      "id": 2042650,
+      "form": "該当事項",
+      "kana": "がいとうじこう",
+      "gloss": "relevant items",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "当": 2,
+        "項": 7
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1868120/該問題/がいもんだい": {
+      "id": 1868120,
+      "form": "該問題",
+      "kana": "がいもんだい",
+      "gloss": "the matter in question",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3,
+        "題": 3
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2059320/該氏/がいし": {
+      "id": 2059320,
+      "form": "該氏",
+      "kana": "がいし",
+      "gloss": "the said person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "氏": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1868020/該案/がいあん": {
+      "id": 1868020,
+      "form": "該案",
+      "kana": "がいあん",
+      "gloss": "the said proposal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "案": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1448980/当該官庁/とうがいかんちょう": {
+      "id": 1448980,
+      "form": "当該官庁",
+      "kana": "とうがいかんちょう",
+      "gloss": "proper authorities",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "当": 2,
+        "官": 4,
+        "庁": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2346710/格納メッセージ該当数/かくのうメッセージがいとうすう": {
+      "id": 2346710,
+      "form": "格納メッセージ該当数",
+      "kana": "かくのうメッセージがいとうすう",
+      "gloss": "stored message summary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "当": 2,
+        "数": 2,
+        "格": 5,
+        "納": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204700/該当/かくとう": {
+      "id": 1204700,
+      "form": "該当",
+      "kana": "かくとう",
+      "gloss": "corresponding to",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7957,
+        4939,
+        3961,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {},
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1204700:該当:がいとう",
+      "form": "該当",
+      "kana": "がいとう",
+      "cue": "corresponding to; being applicable to",
+      "ids": [
+        1204700
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9806,
+        "shiberu": 7957,
+        "tubelex": 4939,
+        "wordfreq": 3961
+      },
+      "alternatives_by_kanji": {
+        "当": [
+          "1449190/当然/とうぜん",
+          "1448810/当たる/あたる",
+          "1408540/妥当/だとう"
+        ],
+        "該": [
+          "1448970/当該/とうがい",
+          "1204720/該博/がいはく",
+          "2064100/該/がい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

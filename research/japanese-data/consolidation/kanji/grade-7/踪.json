@@ -1,0 +1,370 @@
+{
+  "character": "踪",
+  "grade": 7,
+  "meanings": [
+    "remains",
+    "clue",
+    "footprint"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 157
+    }
+  ],
+  "components": [
+    "口",
+    "示",
+    "二",
+    "小",
+    "足",
+    "宀",
+    "止"
+  ],
+  "on": [
+    "ソウ",
+    "ショウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あと",
+      "stem": "あと",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "踪",
+    "heading": "踪",
+    "readings": [
+      "ソウ"
+    ],
+    "examples_by_reading": [
+      [
+        "失踪"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "踪",
+      "reading": "ソウ",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1320260/失踪/しっそう",
+        "2841645/踪跡/そうせき",
+        "2872161/失踪事件/しっそうじけん",
+        "2751770/失踪者/しっそうしゃ",
+        "1766150/失踪宣告/しっそうせんこく",
+        "2857437/危難失踪/きなんしっそう"
+      ]
+    },
+    {
+      "reading": "ショウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "あと",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1320260/失踪/しっそう",
+    "2841645/踪跡/そうせき",
+    "2872161/失踪事件/しっそうじけん",
+    "2751770/失踪者/しっそうしゃ",
+    "1766150/失踪宣告/しっそうせんこく",
+    "2857437/危難失踪/きなんしっそう"
+  ],
+  "candidates": {
+    "1320260/失踪/しっそう": {
+      "id": 1320260,
+      "form": "失踪",
+      "kana": "しっそう",
+      "gloss": "disappearance",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8832,
+        11205,
+        8882,
+        8376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "失": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "2841645/踪跡/そうせき": {
+      "id": 2841645,
+      "form": "踪跡",
+      "kana": "そうせき",
+      "gloss": "one's traces",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        212604
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "跡": 7
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872161/失踪事件/しっそうじけん": {
+      "id": 2872161,
+      "form": "失踪事件",
+      "kana": "しっそうじけん",
+      "gloss": "disappearance case",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35377
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "件": 5,
+        "失": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2751770/失踪者/しっそうしゃ": {
+      "id": 2751770,
+      "form": "失踪者",
+      "kana": "しっそうしゃ",
+      "gloss": "missing person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        52750
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3,
+        "失": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1766150/失踪宣告/しっそうせんこく": {
+      "id": 1766150,
+      "form": "失踪宣告",
+      "kana": "しっそうせんこく",
+      "gloss": "court decision declaring a missing person legally dead",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        105855
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "告": 5,
+        "宣": 6,
+        "失": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857437/危難失踪/きなんしっそう": {
+      "id": 2857437,
+      "form": "危難失踪",
+      "kana": "きなんしっそう",
+      "gloss": "disappearance (longer than one year after an accident or disaster)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        264755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "危": 6,
+        "難": 6,
+        "失": 4
+      },
+      "matched": {
+        "ソウ": {
+          "actual": "そう",
+          "dictionary": [
+            "ソウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1320260:失踪:しっそう",
+      "form": "失踪",
+      "kana": "しっそう",
+      "cue": "disappearance; running away",
+      "ids": [
+        1320260
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 8376,
+        "shiberu": 8832,
+        "tubelex": 11205,
+        "wordfreq": 8882
+      },
+      "alternatives_by_kanji": {
+        "失": [
+          "1320140/失敗/しっぱい",
+          "1319750/失う/うしなう",
+          "1320170/失望/しつぼう"
+        ],
+        "踪": [
+          "2841645/踪跡/そうせき",
+          "2872161/失踪事件/しっそうじけん",
+          "2751770/失踪者/しっそうしゃ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

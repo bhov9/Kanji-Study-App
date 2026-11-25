@@ -1,0 +1,460 @@
+{
+  "character": "旺",
+  "grade": 7,
+  "meanings": [
+    "flourishing",
+    "successful",
+    "beautiful",
+    "vigorous"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 72
+    }
+  ],
+  "components": [
+    "王",
+    "日"
+  ],
+  "on": [
+    "オウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "さかん",
+      "stem": "さかん",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "旺",
+    "heading": "旺",
+    "readings": [
+      "オウ"
+    ],
+    "examples_by_reading": [
+      [
+        "旺盛"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "旺",
+      "reading": "オウ",
+      "source": "table_05_o.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "オウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1180550/旺盛/おうせい",
+        "5148167/旺文社/おうぶんしゃ",
+        "2179060/好奇心旺盛/こうきしんおうせい",
+        "2857966/食欲旺盛/しょくよくおうせい",
+        "2045730/士気旺盛/しきおうせい",
+        "2044620/元気旺盛/げんきおうせい",
+        "2044150/気力旺盛/きりょくおうせい",
+        "2172560/旺然/おうぜん"
+      ]
+    },
+    {
+      "reading": "さかん",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1180550/旺盛/おうせい",
+    "5148167/旺文社/おうぶんしゃ",
+    "2179060/好奇心旺盛/こうきしんおうせい",
+    "2857966/食欲旺盛/しょくよくおうせい",
+    "2045730/士気旺盛/しきおうせい",
+    "2044620/元気旺盛/げんきおうせい",
+    "2044150/気力旺盛/きりょくおうせい",
+    "2172560/旺然/おうぜん",
+    "1379750/旺ん/さかん"
+  ],
+  "candidates": {
+    "1180550/旺盛/おうせい": {
+      "id": 1180550,
+      "form": "旺盛",
+      "kana": "おうせい",
+      "gloss": "lively",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8716,
+        14156,
+        15825,
+        13415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盛": 6
+      },
+      "matched": {
+        "オウ": {
+          "actual": "おう",
+          "dictionary": [
+            "オウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "オウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "5148167/旺文社/おうぶんしゃ": {
+      "id": 5148167,
+      "form": "旺文社",
+      "kana": "おうぶんしゃ",
+      "gloss": "Oubunsha (publisher)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        76428,
+        202465
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1,
+        "社": 2
+      },
+      "matched": {
+        "オウ": {
+          "actual": "おう",
+          "dictionary": [
+            "オウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2179060/好奇心旺盛/こうきしんおうせい": {
+      "id": 2179060,
+      "form": "好奇心旺盛",
+      "kana": "こうきしんおうせい",
+      "gloss": "brimming with curiosity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        32820
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2,
+        "好": 4,
+        "盛": 6,
+        "奇": 7
+      },
+      "matched": {
+        "オウ": {
+          "actual": "おう",
+          "dictionary": [
+            "オウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857966/食欲旺盛/しょくよくおうせい": {
+      "id": 2857966,
+      "form": "食欲旺盛",
+      "kana": "しょくよくおうせい",
+      "gloss": "voracious",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        59771
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盛": 6,
+        "欲": 6,
+        "食": 2
+      },
+      "matched": {
+        "オウ": {
+          "actual": "おう",
+          "dictionary": [
+            "オウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2045730/士気旺盛/しきおうせい": {
+      "id": 2045730,
+      "form": "士気旺盛",
+      "kana": "しきおうせい",
+      "gloss": "morale being very high",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        183549
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5,
+        "気": 1,
+        "盛": 6
+      },
+      "matched": {
+        "オウ": {
+          "actual": "おう",
+          "dictionary": [
+            "オウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2044620/元気旺盛/げんきおうせい": {
+      "id": 2044620,
+      "form": "元気旺盛",
+      "kana": "げんきおうせい",
+      "gloss": "brimming with vitality",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2,
+        "気": 1,
+        "盛": 6
+      },
+      "matched": {
+        "オウ": {
+          "actual": "おう",
+          "dictionary": [
+            "オウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2044150/気力旺盛/きりょくおうせい": {
+      "id": 2044150,
+      "form": "気力旺盛",
+      "kana": "きりょくおうせい",
+      "gloss": "being full of energy (drive, motivation, vitality)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "力": 1,
+        "気": 1,
+        "盛": 6
+      },
+      "matched": {
+        "オウ": {
+          "actual": "おう",
+          "dictionary": [
+            "オウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2172560/旺然/おうぜん": {
+      "id": 2172560,
+      "form": "旺然",
+      "kana": "おうぜん",
+      "gloss": "prosperous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv-to",
+        "adj-t"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "然": 4
+      },
+      "matched": {
+        "オウ": {
+          "actual": "おう",
+          "dictionary": [
+            "オウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1379750/旺ん/さかん": {
+      "id": 1379750,
+      "form": "旺ん",
+      "kana": "さかん",
+      "gloss": "prosperous",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        184950
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1379750:旺ん:さかん",
+      "form": "旺ん",
+      "kana": "さかん",
+      "cue": "prosperous; flourishing",
+      "ids": [
+        1379750
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 184950
+      },
+      "alternatives_by_kanji": {
+        "旺": [
+          "1180550/旺盛/おうせい",
+          "5148167/旺文社/おうぶんしゃ",
+          "2179060/好奇心旺盛/こうきしんおうせい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

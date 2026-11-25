@@ -1,0 +1,369 @@
+{
+  "character": "憧",
+  "grade": 7,
+  "meanings": [
+    "yearn after",
+    "long for",
+    "aspire to",
+    "admire",
+    "adore"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "忙",
+    "里",
+    "立"
+  ],
+  "on": [
+    "ショウ",
+    "トウ",
+    "ドウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あこが.れる",
+      "stem": "あこが",
+      "okurigana": "れる"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "憧",
+    "heading": "憧",
+    "readings": [
+      "ショウ",
+      "あこがれる"
+    ],
+    "examples_by_reading": [
+      [
+        "憧憬"
+      ],
+      [
+        "憧れる",
+        "憧れ"
+      ]
+    ],
+    "note_lines": [
+      "「憧憬」は，「ドウケイ」とも。",
+      ""
+    ],
+    "representative_index": {
+      "kanji": "憧",
+      "reading": "ショウ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ショウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1453820/憧憬/しょうけい"
+      ]
+    },
+    {
+      "reading": "あこがれる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1453800/憧れ/あこがれ",
+        "1453810/憧れる/あこがれる"
+      ]
+    },
+    {
+      "reading": "トウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "ドウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1453820/憧憬/どうけい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1453800/憧れ/あこがれ",
+    "1453810/憧れる/あこがれる",
+    "1453820/憧憬/どうけい",
+    "1453820/憧憬/しょうけい",
+    "2228920/憧れの的/あこがれのまと",
+    "1453810/憧憬れる/あこがれる"
+  ],
+  "candidates": {
+    "1453800/憧れ/あこがれ": {
+      "id": 1453800,
+      "form": "憧れ",
+      "kana": "あこがれ",
+      "gloss": "yearning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        9545,
+        5756,
+        3884,
+        2950
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あこがれる": {
+          "actual": "あこが",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "あこがれる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1453810/憧れる/あこがれる": {
+      "id": 1453810,
+      "form": "憧れる",
+      "kana": "あこがれる",
+      "gloss": "to long for",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5302,
+        5345,
+        11547,
+        2251
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あこがれる": {
+          "actual": "あこが",
+          "dictionary": [
+            "あこが.れる"
+          ]
+        }
+      },
+      "official_examples": [
+        "あこがれる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1453820/憧憬/どうけい": {
+      "id": 1453820,
+      "form": "憧憬",
+      "kana": "どうけい",
+      "gloss": "longing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22160,
+        51509,
+        49881,
+        26129
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憬": 7
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1453820/憧憬/しょうけい": {
+      "id": 1453820,
+      "form": "憧憬",
+      "kana": "しょうけい",
+      "gloss": "longing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22160,
+        51509,
+        49881,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "憬": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2228920/憧れの的/あこがれのまと": {
+      "id": 2228920,
+      "form": "憧れの的",
+      "kana": "あこがれのまと",
+      "gloss": "object of adoration, longing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        40866
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1453810/憧憬れる/あこがれる": {
+      "id": 1453810,
+      "form": "憧憬れる",
+      "kana": "あこがれる",
+      "gloss": "to long for",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        213637
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憬": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1453800:憧れ:あこがれ",
+      "form": "憧れ",
+      "kana": "あこがれ",
+      "cue": "yearning; longing",
+      "ids": [
+        1453800
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2950,
+        "shiberu": 9545,
+        "tubelex": 5756,
+        "wordfreq": 3884
+      },
+      "alternatives_by_kanji": {
+        "憧": [
+          "1453810/憧れる/あこがれる",
+          "1453820/憧憬/どうけい",
+          "1453820/憧憬/しょうけい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

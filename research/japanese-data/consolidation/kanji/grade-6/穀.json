@@ -1,0 +1,1207 @@
+{
+  "character": "穀",
+  "grade": 6,
+  "meanings": [
+    "cereals",
+    "grain"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 115
+    },
+    {
+      "type": "nelson_c",
+      "value": 79
+    }
+  ],
+  "components": [
+    "禾",
+    "士",
+    "冖",
+    "殳",
+    "几",
+    "又"
+  ],
+  "on": [
+    "コク"
+  ],
+  "kun": [],
+  "nanori": [
+    "たけ"
+  ],
+  "government": {
+    "kanji": "穀",
+    "heading": "穀（穀）",
+    "readings": [
+      "コク"
+    ],
+    "examples_by_reading": [
+      [
+        "穀物",
+        "雑穀",
+        "脱穀"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "穀",
+      "reading": "コク",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 23,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1287280/穀物/こくもつ",
+        "1813890/雑穀/ざっこく",
+        "1416460/脱穀/だっこく",
+        "1287310/穀類/こくるい",
+        "1508940/米穀/べいこく",
+        "1268260/五穀/ごこく",
+        "1287270/穀倉/こくそう",
+        "1287270/穀倉/こくぐら",
+        "2179350/穀雨/こくう",
+        "1720540/新穀/しんこく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1287280/穀物/こくもつ",
+    "1813890/雑穀/ざっこく",
+    "1416460/脱穀/だっこく",
+    "1287310/穀類/こくるい",
+    "1508940/米穀/べいこく",
+    "1268260/五穀/ごこく",
+    "1287270/穀倉/こくそう",
+    "1287270/穀倉/こくぐら",
+    "2179350/穀雨/こくう",
+    "1720540/新穀/しんこく",
+    "2045150/五穀豊穣/ごこくほうじょう",
+    "1287290/穀粉/こくふん",
+    "1287300/穀粒/こくりゅう",
+    "1287300/穀粒/こくつぶ",
+    "1836620/穀倉地帯/こくそうちたい",
+    "1416470/脱穀機/だっこくき",
+    "2712470/穀物酢/こくもつす",
+    "2690680/穀物メジャー/こくもつメジャー",
+    "1723830/米穀通帳/べいこくつうちょう",
+    "2720980/米穀取引所/べいこくとりひきじょ",
+    "2852956/米穀商/べいこくしょう",
+    "2862196/禾穀/かこく",
+    "1287260/穀食/こくしょく",
+    "2045150/五穀豊饒/ごこくほうじょう",
+    "2848558/全粒穀物/ぜんりゅうこくもつ",
+    "1243680/九穀/きゅうこく",
+    "1975220/禾穀類/かこくるい",
+    "2862017/旧穀/きゅうこく",
+    "2855529/貯穀害虫/ちょこくがいちゅう",
+    "2850339/穀物肥育/こくもつひいく"
+  ],
+  "candidates": {
+    "1287280/穀物/こくもつ": {
+      "id": 1287280,
+      "form": "穀物",
+      "kana": "こくもつ",
+      "gloss": "grain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        7911,
+        11267,
+        15185,
+        27292
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1813890/雑穀/ざっこく": {
+      "id": 1813890,
+      "form": "雑穀",
+      "kana": "ざっこく",
+      "gloss": "assorted grains",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24512,
+        33644,
+        39764,
+        65516
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雑": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1416460/脱穀/だっこく": {
+      "id": 1416460,
+      "form": "脱穀",
+      "kana": "だっこく",
+      "gloss": "threshing (e.g. rice)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41067,
+        57069,
+        86759
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脱": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [
+        "コク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1287310/穀類/こくるい": {
+      "id": 1287310,
+      "form": "穀類",
+      "kana": "こくるい",
+      "gloss": "grains",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18475,
+        47007,
+        53687,
+        95437
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "類": 4
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1508940/米穀/べいこく": {
+      "id": 1508940,
+      "form": "米穀",
+      "kana": "べいこく",
+      "gloss": "rice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19135,
+        68915,
+        77181,
+        154709
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "米": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1268260/五穀/ごこく": {
+      "id": 1268260,
+      "form": "五穀",
+      "kana": "ごこく",
+      "gloss": "the five grains (wheat, rice, beans, millet (awa and kibi))",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32364,
+        34060,
+        61736,
+        81283
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "五": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1287270/穀倉/こくそう": {
+      "id": 1287270,
+      "form": "穀倉",
+      "kana": "こくそう",
+      "gloss": "granary",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33010,
+        59850,
+        78707,
+        93799
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "倉": 4
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1287270/穀倉/こくぐら": {
+      "id": 1287270,
+      "form": "穀倉",
+      "kana": "こくぐら",
+      "gloss": "granary",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33010,
+        59850,
+        78707,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "倉": 4
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2179350/穀雨/こくう": {
+      "id": 2179350,
+      "form": "穀雨",
+      "kana": "こくう",
+      "gloss": "\"grain rain\" solar term (approx. April 20)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        110395,
+        212604
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雨": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1720540/新穀/しんこく": {
+      "id": 1720540,
+      "form": "新穀",
+      "kana": "しんこく",
+      "gloss": "new grain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        160131,
+        226273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2045150/五穀豊穣/ごこくほうじょう": {
+      "id": 2045150,
+      "form": "五穀豊穣",
+      "kana": "ごこくほうじょう",
+      "gloss": "huge harvest (of the five grains)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        61164,
+        85565
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "豊": 5,
+        "五": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1287290/穀粉/こくふん": {
+      "id": 1287290,
+      "form": "穀粉",
+      "kana": "こくふん",
+      "gloss": "(grain) flour",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        241892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "粉": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1287300/穀粒/こくりゅう": {
+      "id": 1287300,
+      "form": "穀粒",
+      "kana": "こくりゅう",
+      "gloss": "kernel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        202465
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "粒": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1287300/穀粒/こくつぶ": {
+      "id": 1287300,
+      "form": "穀粒",
+      "kana": "こくつぶ",
+      "gloss": "kernel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "粒": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1836620/穀倉地帯/こくそうちたい": {
+      "id": 1836620,
+      "form": "穀倉地帯",
+      "kana": "こくそうちたい",
+      "gloss": "grain-producing region",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        68642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "倉": 4,
+        "帯": 4,
+        "地": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1416470/脱穀機/だっこくき": {
+      "id": 1416470,
+      "form": "脱穀機",
+      "kana": "だっこくき",
+      "gloss": "threshing machine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        135918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4,
+        "脱": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2712470/穀物酢/こくもつす": {
+      "id": 2712470,
+      "form": "穀物酢",
+      "kana": "こくもつす",
+      "gloss": "grain vinegar",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        239196
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "酢": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2690680/穀物メジャー/こくもつメジャー": {
+      "id": 2690680,
+      "form": "穀物メジャー",
+      "kana": "こくもつメジャー",
+      "gloss": "major multinational grain companies",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        271957
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1723830/米穀通帳/べいこくつうちょう": {
+      "id": 1723830,
+      "form": "米穀通帳",
+      "kana": "べいこくつうちょう",
+      "gloss": "rice-ration book",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "米": 2,
+        "通": 2,
+        "帳": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2720980/米穀取引所/べいこくとりひきじょ": {
+      "id": 2720980,
+      "form": "米穀取引所",
+      "kana": "べいこくとりひきじょ",
+      "gloss": "rice exchange",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        307815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3,
+        "所": 3,
+        "引": 2,
+        "米": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2852956/米穀商/べいこくしょう": {
+      "id": 2852956,
+      "form": "米穀商",
+      "kana": "べいこくしょう",
+      "gloss": "rice dealer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "米": 2,
+        "商": 3
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862196/禾穀/かこく": {
+      "id": 2862196,
+      "form": "禾穀",
+      "kana": "かこく",
+      "gloss": "rice",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1287260/穀食/こくしょく": {
+      "id": 1287260,
+      "form": "穀食",
+      "kana": "こくしょく",
+      "gloss": "cereal diet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2045150/五穀豊饒/ごこくほうじょう": {
+      "id": 2045150,
+      "form": "五穀豊饒",
+      "kana": "ごこくほうじょう",
+      "gloss": "huge harvest (of the five grains)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "豊": 5,
+        "五": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2848558/全粒穀物/ぜんりゅうこくもつ": {
+      "id": 2848558,
+      "form": "全粒穀物",
+      "kana": "ぜんりゅうこくもつ",
+      "gloss": "whole grains",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3,
+        "物": 3,
+        "粒": 7
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1243680/九穀/きゅうこく": {
+      "id": 1243680,
+      "form": "九穀",
+      "kana": "きゅうこく",
+      "gloss": "the nine grains",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "九": 1
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1975220/禾穀類/かこくるい": {
+      "id": 1975220,
+      "form": "禾穀類",
+      "kana": "かこくるい",
+      "gloss": "cereal crops",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "類": 4
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862017/旧穀/きゅうこく": {
+      "id": 2862017,
+      "form": "旧穀",
+      "kana": "きゅうこく",
+      "gloss": "old grain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "旧": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855529/貯穀害虫/ちょこくがいちゅう": {
+      "id": 2855529,
+      "form": "貯穀害虫",
+      "kana": "ちょこくがいちゅう",
+      "gloss": "stored-grain insect",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "虫": 1,
+        "貯": 5,
+        "害": 4
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2850339/穀物肥育/こくもつひいく": {
+      "id": 2850339,
+      "form": "穀物肥育",
+      "kana": "こくもつひいく",
+      "gloss": "grain feeding (livestock)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "育": 3,
+        "物": 3,
+        "肥": 5
+      },
+      "matched": {
+        "コク": {
+          "actual": "こく",
+          "dictionary": [
+            "コク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1287280:穀物:こくもつ",
+      "form": "穀物",
+      "kana": "こくもつ",
+      "cue": "grain; cereal",
+      "ids": [
+        1287280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 27292,
+        "shiberu": 7911,
+        "tubelex": 11267,
+        "wordfreq": 15185
+      },
+      "alternatives_by_kanji": {
+        "物": [
+          "1451470/動物/どうぶつ",
+          "1369070/人物/じんぶつ",
+          "1502480/物語/ものがたり"
+        ],
+        "穀": [
+          "1813890/雑穀/ざっこく",
+          "1416460/脱穀/だっこく",
+          "1287310/穀類/こくるい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

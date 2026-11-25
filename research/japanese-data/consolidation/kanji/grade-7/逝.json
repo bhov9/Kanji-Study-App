@@ -1,0 +1,686 @@
+{
+  "character": "逝",
+  "grade": 7,
+  "meanings": [
+    "departed",
+    "die"
+  ],
+  "strokes": [
+    10,
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 162
+    }
+  ],
+  "components": [
+    "斤",
+    "込",
+    "扎"
+  ],
+  "on": [
+    "セイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ゆ.く",
+      "stem": "ゆ",
+      "okurigana": "く"
+    },
+    {
+      "sourceNotation": "い.く",
+      "stem": "い",
+      "okurigana": "く"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "逝",
+    "heading": "逝",
+    "readings": [
+      "セイ",
+      "ゆく",
+      "いく"
+    ],
+    "examples_by_reading": [
+      [
+        "逝去",
+        "急逝",
+        "長逝"
+      ],
+      [
+        "逝く"
+      ],
+      [
+        "逝く"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔行く",
+      "⇔行く"
+    ],
+    "representative_index": {
+      "kanji": "逝",
+      "reading": "セイ",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1381360/逝去/せいきょ",
+        "1228830/急逝/きゅうせい",
+        "1623170/長逝/ちょうせい",
+        "1565880/夭逝/ようせい",
+        "1660760/早逝/そうせい",
+        "2521780/永逝/えいせい",
+        "2735860/遠逝/えんせい",
+        "2841509/薨逝/こうせい"
+      ]
+    },
+    {
+      "reading": "ゆく",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2856718/逝く/ゆく",
+        "2836277/死に逝く/しにゆく"
+      ]
+    },
+    {
+      "reading": "いく",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "2856718/逝く/いく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "2856718/逝く/いく",
+    "1381360/逝去/せいきょ",
+    "1228830/急逝/きゅうせい",
+    "2856718/逝く/ゆく",
+    "1623170/長逝/ちょうせい",
+    "1565880/夭逝/ようせい",
+    "1660760/早逝/そうせい",
+    "2836277/死に逝く/しにゆく",
+    "2521780/永逝/えいせい",
+    "2735860/遠逝/えんせい",
+    "2271450/善逝/ぜんぜい",
+    "2843256/騅逝かず/すいゆかず",
+    "2841509/薨逝/こうせい",
+    "2163280/逝けメン/いけメン",
+    "2163280/逝け面/いけめん"
+  ],
+  "candidates": {
+    "2856718/逝く/いく": {
+      "id": 2856718,
+      "form": "逝く",
+      "kana": "いく",
+      "gloss": "to die",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k-s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18965,
+        15734,
+        23216,
+        7147
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いく": {
+          "actual": "い",
+          "dictionary": [
+            "い.く"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゆく",
+        "いく"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1381360/逝去/せいきょ": {
+      "id": 1381360,
+      "form": "逝去",
+      "kana": "せいきょ",
+      "gloss": "death",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8020,
+        33444,
+        25040,
+        49543
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "去": 3
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1228830/急逝/きゅうせい": {
+      "id": 1228830,
+      "form": "急逝",
+      "kana": "きゅうせい",
+      "gloss": "sudden death",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        28551,
+        45405,
+        42493,
+        62872
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "急": 3
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2856718/逝く/ゆく": {
+      "id": 2856718,
+      "form": "逝く",
+      "kana": "ゆく",
+      "gloss": "to die",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k-s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18965,
+        15734,
+        23216,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ゆく": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ゆ.く"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゆく",
+        "いく"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1623170/長逝/ちょうせい": {
+      "id": 1623170,
+      "form": "長逝",
+      "kana": "ちょうせい",
+      "gloss": "death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        242932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1565880/夭逝/ようせい": {
+      "id": 1565880,
+      "form": "夭逝",
+      "kana": "ようせい",
+      "gloss": "premature death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        37254,
+        89646,
+        142244,
+        117578
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1660760/早逝/そうせい": {
+      "id": 1660760,
+      "form": "早逝",
+      "kana": "そうせい",
+      "gloss": "dying young",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        101519
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "早": 1
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2836277/死に逝く/しにゆく": {
+      "id": 2836277,
+      "form": "死に逝く",
+      "kana": "しにゆく",
+      "gloss": "to be nearing death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k-s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        82479
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {
+        "ゆく": {
+          "actual": "ゆ",
+          "dictionary": [
+            "ゆ.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2521780/永逝/えいせい": {
+      "id": 2521780,
+      "form": "永逝",
+      "kana": "えいせい",
+      "gloss": "death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "永": 5
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2735860/遠逝/えんせい": {
+      "id": 2735860,
+      "form": "遠逝",
+      "kana": "えんせい",
+      "gloss": "going afar",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遠": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2271450/善逝/ぜんぜい": {
+      "id": 2271450,
+      "form": "善逝",
+      "kana": "ぜんぜい",
+      "gloss": "Sugata (the well-gone; epithet of Buddha)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282002
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "善": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2843256/騅逝かず/すいゆかず": {
+      "id": 2843256,
+      "form": "騅逝かず",
+      "kana": "すいゆかず",
+      "gloss": "things going contrary to one's wishes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2841509/薨逝/こうせい": {
+      "id": 2841509,
+      "form": "薨逝",
+      "kana": "こうせい",
+      "gloss": "death (of a nobleman)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        385535
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2163280/逝けメン/いけメン": {
+      "id": 2163280,
+      "form": "逝けメン",
+      "kana": "いけメン",
+      "gloss": "exceptionally ugly man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2163280/逝け面/いけめん": {
+      "id": 2163280,
+      "form": "逝け面",
+      "kana": "いけめん",
+      "gloss": "exceptionally ugly man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1381360:逝去:せいきょ",
+      "form": "逝去",
+      "kana": "せいきょ",
+      "cue": "death; passing",
+      "ids": [
+        1381360
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 49543,
+        "shiberu": 8020,
+        "tubelex": 33444,
+        "wordfreq": 25040
+      },
+      "alternatives_by_kanji": {
+        "去": [
+          "1196030/過去/かこ",
+          "1231690/去年/きょねん",
+          "1231650/去る/さる"
+        ],
+        "逝": [
+          "2856718/逝く/いく",
+          "1228830/急逝/きゅうせい",
+          "2856718/逝く/ゆく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

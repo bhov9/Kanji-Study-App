@@ -1,0 +1,825 @@
+{
+  "character": "挑",
+  "grade": 7,
+  "meanings": [
+    "challenge",
+    "contend for",
+    "make love to"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "儿",
+    "冫",
+    "扎"
+  ],
+  "on": [
+    "チョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "いど.む",
+      "stem": "いど",
+      "okurigana": "む"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "挑",
+    "heading": "挑",
+    "readings": [
+      "チョウ",
+      "いどむ"
+    ],
+    "examples_by_reading": [
+      [
+        "挑戦",
+        "挑発"
+      ],
+      [
+        "挑む"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "挑",
+      "reading": "チョウ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チョウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1428240/挑戦/ちょうせん",
+        "1428260/挑発/ちょうはつ",
+        "1428270/挑発的/ちょうはつてき",
+        "1428250/挑戦者/ちょうせんしゃ",
+        "2375260/挑戦的/ちょうせんてき",
+        "1808370/挑戦状/ちょうせんじょう",
+        "2838693/再挑戦/さいちょうせん",
+        "2188800/初挑戦/はつちょうせん",
+        "2644380/挑戦権/ちょうせんけん",
+        "2865240/挑発行為/ちょうはつこうい"
+      ]
+    },
+    {
+      "reading": "いどむ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1428230/挑む/いどむ",
+        "1891260/戦いを挑む/たたかいをいどむ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1428240/挑戦/ちょうせん",
+    "1428230/挑む/いどむ",
+    "1428260/挑発/ちょうはつ",
+    "1428270/挑発的/ちょうはつてき",
+    "1891260/戦いを挑む/たたかいをいどむ",
+    "1428250/挑戦者/ちょうせんしゃ",
+    "2375260/挑戦的/ちょうせんてき",
+    "1808370/挑戦状/ちょうせんじょう",
+    "2838693/再挑戦/さいちょうせん",
+    "2188800/初挑戦/はつちょうせん",
+    "2644380/挑戦権/ちょうせんけん",
+    "2865240/挑発行為/ちょうはつこうい",
+    "2131560/戦争挑発/せんそうちょうはつ",
+    "2869966/反抗挑発症/はんこうちょうはつしょう",
+    "2869965/反抗挑戦性障害/はんこうちょうせんせいしょうがい",
+    "2872308/挑みかかる/いどみかかる",
+    "1428260/挑撥/ちょうはつ",
+    "2872308/挑み掛かる/いどみかかる",
+    "1436450/挑灯/ちょうちん"
+  ],
+  "candidates": {
+    "1428240/挑戦/ちょうせん": {
+      "id": 1428240,
+      "form": "挑戦",
+      "kana": "ちょうせん",
+      "gloss": "challenge",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1776,
+        1474,
+        1587,
+        2750
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1428230/挑む/いどむ": {
+      "id": 1428230,
+      "form": "挑む",
+      "kana": "いどむ",
+      "gloss": "to challenge to (a fight, game, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6584,
+        4532,
+        9745,
+        2989
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いどむ": {
+          "actual": "いど",
+          "dictionary": [
+            "いど.む"
+          ]
+        }
+      },
+      "official_examples": [
+        "いどむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1428260/挑発/ちょうはつ": {
+      "id": 1428260,
+      "form": "挑発",
+      "kana": "ちょうはつ",
+      "gloss": "provocation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13553,
+        9868,
+        9454,
+        4543
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1428270/挑発的/ちょうはつてき": {
+      "id": 1428270,
+      "form": "挑発的",
+      "kana": "ちょうはつてき",
+      "gloss": "provocative",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        13373
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3,
+        "的": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1891260/戦いを挑む/たたかいをいどむ": {
+      "id": 1891260,
+      "form": "戦いを挑む",
+      "kana": "たたかいをいどむ",
+      "gloss": "to challenge (a person) to a fight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17855
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "いどむ": {
+          "actual": "いど",
+          "dictionary": [
+            "いど.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428250/挑戦者/ちょうせんしゃ": {
+      "id": 1428250,
+      "form": "挑戦者",
+      "kana": "ちょうせんしゃ",
+      "gloss": "challenger",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20053
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3,
+        "戦": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2375260/挑戦的/ちょうせんてき": {
+      "id": 2375260,
+      "form": "挑戦的",
+      "kana": "ちょうせんてき",
+      "gloss": "challenging",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "戦": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1808370/挑戦状/ちょうせんじょう": {
+      "id": 1808370,
+      "form": "挑戦状",
+      "kana": "ちょうせんじょう",
+      "gloss": "(written) challenge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26105
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5,
+        "戦": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2838693/再挑戦/さいちょうせん": {
+      "id": 2838693,
+      "form": "再挑戦",
+      "kana": "さいちょうせん",
+      "gloss": "retry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        38794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "再": 5,
+        "戦": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2188800/初挑戦/はつちょうせん": {
+      "id": 2188800,
+      "form": "初挑戦",
+      "kana": "はつちょうせん",
+      "gloss": "first challenge",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49008
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4,
+        "戦": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2644380/挑戦権/ちょうせんけん": {
+      "id": 2644380,
+      "form": "挑戦権",
+      "kana": "ちょうせんけん",
+      "gloss": "right to challenge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60231
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "権": 6,
+        "戦": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2865240/挑発行為/ちょうはつこうい": {
+      "id": 2865240,
+      "form": "挑発行為",
+      "kana": "ちょうはつこうい",
+      "gloss": "provocative behaviour",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        78522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "発": 3,
+        "為": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2131560/戦争挑発/せんそうちょうはつ": {
+      "id": 2131560,
+      "form": "戦争挑発",
+      "kana": "せんそうちょうはつ",
+      "gloss": "aggression",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "争": 4,
+        "発": 3,
+        "戦": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2869966/反抗挑発症/はんこうちょうはつしょう": {
+      "id": 2869966,
+      "form": "反抗挑発症",
+      "kana": "はんこうちょうはつしょう",
+      "gloss": "oppositional defiant disorder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "症": 7,
+        "反": 3,
+        "発": 3,
+        "抗": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2869965/反抗挑戦性障害/はんこうちょうせんせいしょうがい": {
+      "id": 2869965,
+      "form": "反抗挑戦性障害",
+      "kana": "はんこうちょうせんせいしょうがい",
+      "gloss": "oppositional defiant disorder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "障": 6,
+        "戦": 4,
+        "抗": 7,
+        "害": 4,
+        "性": 5,
+        "反": 3
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872308/挑みかかる/いどみかかる": {
+      "id": 2872308,
+      "form": "挑みかかる",
+      "kana": "いどみかかる",
+      "gloss": "to lunge at (someone)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37332
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1428260/挑撥/ちょうはつ": {
+      "id": 1428260,
+      "form": "挑撥",
+      "kana": "ちょうはつ",
+      "gloss": "provocation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        255533
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2872308/挑み掛かる/いどみかかる": {
+      "id": 2872308,
+      "form": "挑み掛かる",
+      "kana": "いどみかかる",
+      "gloss": "to lunge at (someone)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        121818,
+        null,
+        113653
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1436450/挑灯/ちょうちん": {
+      "id": 1436450,
+      "form": "挑灯",
+      "kana": "ちょうちん",
+      "gloss": "paper lantern",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        299106
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1428240:挑戦:ちょうせん",
+      "form": "挑戦",
+      "kana": "ちょうせん",
+      "cue": "challenge; defiance",
+      "ids": [
+        1428240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2750,
+        "shiberu": 1776,
+        "tubelex": 1474,
+        "wordfreq": 1587
+      },
+      "alternatives_by_kanji": {
+        "戦": [
+          "1390360/戦争/せんそう",
+          "1596960/戦う/たたかう",
+          "1596950/戦い/たたかい"
+        ],
+        "挑": [
+          "1428230/挑む/いどむ",
+          "1428260/挑発/ちょうはつ",
+          "1428270/挑発的/ちょうはつてき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

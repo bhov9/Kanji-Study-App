@@ -1,0 +1,1097 @@
+{
+  "character": "扉",
+  "grade": 7,
+  "meanings": [
+    "front door",
+    "title page",
+    "front page"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 63
+    }
+  ],
+  "components": [
+    "戸",
+    "非",
+    "一",
+    "尸"
+  ],
+  "on": [
+    "ヒ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "とびら",
+      "stem": "とびら",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "扉",
+    "heading": "扉",
+    "readings": [
+      "ヒ",
+      "とびら"
+    ],
+    "examples_by_reading": [
+      [
+        "開扉",
+        "門扉"
+      ],
+      [
+        "扉"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "扉",
+      "reading": "ヒ",
+      "source": "table_27_hi.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヒ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1536270/門扉/もんぴ",
+        "1202900/開扉/かいひ",
+        "2846365/閉扉/へいひ",
+        "1615130/防水扉/ぼうすいひ",
+        "2841907/柴扉/さいひ",
+        "2257860/小開扉/しょうかいひ"
+      ]
+    },
+    {
+      "reading": "とびら",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 20,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1483380/扉/とびら",
+        "1854540/扉絵/とびらえ",
+        "2872518/隠し扉/かくしとびら",
+        "2743430/扉口/とびらぐち",
+        "2854461/前扉/まえとびら",
+        "2846045/中扉/なかとびら",
+        "2854464/外扉/そととびら",
+        "2836067/ガラス扉/ガラスとびら",
+        "1884970/自動扉/じどうとびら",
+        "1520270/防火扉/ぼうかとびら"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1483380/扉/とびら",
+    "1536270/門扉/もんぴ",
+    "1202900/開扉/かいひ",
+    "1854540/扉絵/とびらえ",
+    "2872518/隠し扉/かくしとびら",
+    "2743430/扉口/とびらぐち",
+    "2854461/前扉/まえとびら",
+    "2846045/中扉/なかとびら",
+    "2854464/外扉/そととびら",
+    "2846365/閉扉/へいひ",
+    "2836067/ガラス扉/ガラスとびら",
+    "1884970/自動扉/じどうとびら",
+    "1520270/防火扉/ぼうかとびら",
+    "1976370/回転扉/かいてんとびら",
+    "2854465/内扉/うちとびら",
+    "2663150/仕掛け扉/しかけとびら",
+    "2648210/観音扉/かんのんとびら",
+    "5741573/夏への扉/なつへのとびら",
+    "2857567/水密扉/すいみつとびら",
+    "2854462/後扉/あととびら",
+    "1860560/裏扉/うらとびら",
+    "2858784/扉の木/とびらのき",
+    "1615130/防水扉/ぼうすいひ",
+    "2593350/二十の扉/にじゅうのとびら",
+    "2841907/柴扉/さいひ",
+    "1854520/鉄扉/てっぴ",
+    "2257860/小開扉/しょうかいひ"
+  ],
+  "candidates": {
+    "1483380/扉/とびら": {
+      "id": 1483380,
+      "form": "扉",
+      "kana": "とびら",
+      "gloss": "door",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2360,
+        1585,
+        2863,
+        1366
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [
+        "とびら"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1536270/門扉/もんぴ": {
+      "id": 1536270,
+      "form": "門扉",
+      "kana": "もんぴ",
+      "gloss": "door(s) of a gate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36025,
+        48827,
+        58810,
+        31344
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "門": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ぴ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1202900/開扉/かいひ": {
+      "id": 1202900,
+      "form": "開扉",
+      "kana": "かいひ",
+      "gloss": "opening a door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        118834
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "開": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1854540/扉絵/とびらえ": {
+      "id": 1854540,
+      "form": "扉絵",
+      "kana": "とびらえ",
+      "gloss": "frontispiece",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        35749,
+        51518,
+        79175
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絵": 2
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872518/隠し扉/かくしとびら": {
+      "id": 2872518,
+      "form": "隠し扉",
+      "kana": "かくしとびら",
+      "gloss": "hidden door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31748,
+        null,
+        28106
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "隠": 7
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2743430/扉口/とびらぐち": {
+      "id": 2743430,
+      "form": "扉口",
+      "kana": "とびらぐち",
+      "gloss": "doorway",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35705,
+        null,
+        null,
+        108612
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854461/前扉/まえとびら": {
+      "id": 2854461,
+      "form": "前扉",
+      "kana": "まえとびら",
+      "gloss": "front door (of a cabinet, bus, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        153030
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846045/中扉/なかとびら": {
+      "id": 2846045,
+      "form": "中扉",
+      "kana": "なかとびら",
+      "gloss": "chapter title page",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        151297
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854464/外扉/そととびら": {
+      "id": 2854464,
+      "form": "外扉",
+      "kana": "そととびら",
+      "gloss": "external door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        119799
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846365/閉扉/へいひ": {
+      "id": 2846365,
+      "form": "閉扉",
+      "kana": "へいひ",
+      "gloss": "closure of a gate or door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        249695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閉": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2836067/ガラス扉/ガラスとびら": {
+      "id": 2836067,
+      "form": "ガラス扉",
+      "kana": "ガラスとびら",
+      "gloss": "glass door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        58002
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1884970/自動扉/じどうとびら": {
+      "id": 1884970,
+      "form": "自動扉",
+      "kana": "じどうとびら",
+      "gloss": "automatic door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        68830
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "動": 3
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1520270/防火扉/ぼうかとびら": {
+      "id": 1520270,
+      "form": "防火扉",
+      "kana": "ぼうかとびら",
+      "gloss": "fire door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        76355
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1,
+        "防": 5
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1976370/回転扉/かいてんとびら": {
+      "id": 1976370,
+      "form": "回転扉",
+      "kana": "かいてんとびら",
+      "gloss": "revolving door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        90248
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "転": 3,
+        "回": 2
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854465/内扉/うちとびら": {
+      "id": 2854465,
+      "form": "内扉",
+      "kana": "うちとびら",
+      "gloss": "internal door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        108693
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2663150/仕掛け扉/しかけとびら": {
+      "id": 2663150,
+      "form": "仕掛け扉",
+      "kana": "しかけとびら",
+      "gloss": "trapdoor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        123053
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仕": 3,
+        "掛": 7
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2648210/観音扉/かんのんとびら": {
+      "id": 2648210,
+      "form": "観音扉",
+      "kana": "かんのんとびら",
+      "gloss": "double doors (opening from the centre)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        123451
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "観": 4,
+        "音": 1
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5741573/夏への扉/なつへのとびら": {
+      "id": 5741573,
+      "form": "夏への扉",
+      "kana": "なつへのとびら",
+      "gloss": "The Door into Summer (1957 novel by Robert A. Heinlein)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        127028
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "夏": 2
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857567/水密扉/すいみつとびら": {
+      "id": 2857567,
+      "form": "水密扉",
+      "kana": "すいみつとびら",
+      "gloss": "watertight door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147346
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "密": 6
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854462/後扉/あととびら": {
+      "id": 2854462,
+      "form": "後扉",
+      "kana": "あととびら",
+      "gloss": "rear door (esp. of a bus)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        195382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1860560/裏扉/うらとびら": {
+      "id": 1860560,
+      "form": "裏扉",
+      "kana": "うらとびら",
+      "gloss": "back leaf",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        217254
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "裏": 6
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858784/扉の木/とびらのき": {
+      "id": 2858784,
+      "form": "扉の木",
+      "kana": "とびらのき",
+      "gloss": "Japanese cheesewood (Pittosporum tobira)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        230133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1615130/防水扉/ぼうすいひ": {
+      "id": 1615130,
+      "form": "防水扉",
+      "kana": "ぼうすいひ",
+      "gloss": "watertight door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        237648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "防": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2593350/二十の扉/にじゅうのとびら": {
+      "id": 2593350,
+      "form": "二十の扉",
+      "kana": "にじゅうのとびら",
+      "gloss": "twenty questions (game)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "十": 1,
+        "二": 1
+      },
+      "matched": {
+        "とびら": {
+          "actual": "とびら",
+          "dictionary": [
+            "とびら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841907/柴扉/さいひ": {
+      "id": 2841907,
+      "form": "柴扉",
+      "kana": "さいひ",
+      "gloss": "brushwood door",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1854520/鉄扉/てっぴ": {
+      "id": 1854520,
+      "form": "鉄扉",
+      "kana": "てっぴ",
+      "gloss": "iron door",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        114322,
+        36269
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉄": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2257860/小開扉/しょうかいひ": {
+      "id": 2257860,
+      "form": "小開扉",
+      "kana": "しょうかいひ",
+      "gloss": "opening a door for a moment (esp. on the train, when someone's foot is stuck, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "小": 1,
+        "開": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1483380:扉:とびら",
+      "form": "扉",
+      "kana": "とびら",
+      "cue": "door; gate",
+      "ids": [
+        1483380
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1366,
+        "shiberu": 2360,
+        "tubelex": 1585,
+        "wordfreq": 2863
+      },
+      "alternatives_by_kanji": {
+        "扉": [
+          "1536270/門扉/もんぴ",
+          "1202900/開扉/かいひ",
+          "1854540/扉絵/とびらえ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

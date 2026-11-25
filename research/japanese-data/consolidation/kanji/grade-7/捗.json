@@ -1,0 +1,436 @@
+{
+  "character": "捗",
+  "grade": 7,
+  "meanings": [
+    "make progress"
+  ],
+  "strokes": [
+    10,
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "ノ",
+    "止",
+    "小",
+    "扎"
+  ],
+  "on": [
+    "チョク",
+    "ホ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はかど.る",
+      "stem": "はかど",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "捗",
+    "heading": "捗",
+    "readings": [
+      "チョク"
+    ],
+    "examples_by_reading": [
+      [
+        "進捗"
+      ]
+    ],
+    "note_lines": [
+      "＊［（付）第２の３参照］"
+    ],
+    "representative_index": {
+      "kanji": "捗",
+      "reading": "チョク",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チョク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1366140/進捗/しんちょく",
+        "2026560/進捗状況/しんちょくじょうきょう",
+        "2858870/進捗報告/しんちょくほうこく"
+      ]
+    },
+    {
+      "reading": "ホ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "はかどる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1430570/捗る/はかどる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1366140/進捗/しんちょく",
+    "2026560/進捗状況/しんちょくじょうきょう",
+    "2858870/進捗報告/しんちょくほうこく",
+    "1430570/捗る/はかどる",
+    "1600640/捗々しい/はかばかしい",
+    "2817380/捗/はか",
+    "2817370/捗が行く/はかがいく",
+    "1600640/捗捗しい/はかばかしい",
+    "2817370/捗が行く/はかがゆく"
+  ],
+  "candidates": {
+    "1366140/進捗/しんちょく": {
+      "id": 1366140,
+      "form": "進捗",
+      "kana": "しんちょく",
+      "gloss": "progress",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16355,
+        7555,
+        12275,
+        19679
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "進": 3
+      },
+      "matched": {
+        "チョク": {
+          "actual": "ちょく",
+          "dictionary": [
+            "チョク"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2026560/進捗状況/しんちょくじょうきょう": {
+      "id": 2026560,
+      "form": "進捗状況",
+      "kana": "しんちょくじょうきょう",
+      "gloss": "state of progress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42708
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "況": 7,
+        "進": 3,
+        "状": 5
+      },
+      "matched": {
+        "チョク": {
+          "actual": "ちょく",
+          "dictionary": [
+            "チョク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858870/進捗報告/しんちょくほうこく": {
+      "id": 2858870,
+      "form": "進捗報告",
+      "kana": "しんちょくほうこく",
+      "gloss": "progress report",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        85088
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "告": 5,
+        "進": 3,
+        "報": 5
+      },
+      "matched": {
+        "チョク": {
+          "actual": "ちょく",
+          "dictionary": [
+            "チョク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1430570/捗る/はかどる": {
+      "id": 1430570,
+      "form": "捗る",
+      "kana": "はかどる",
+      "gloss": "to make (good) progress",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        29312,
+        13194,
+        17002,
+        20850
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はかどる": {
+          "actual": "はかど",
+          "dictionary": [
+            "はかど.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1600640/捗々しい/はかばかしい": {
+      "id": 1600640,
+      "form": "捗々しい",
+      "kana": "はかばかしい",
+      "gloss": "quick",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        73159,
+        null,
+        135465
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2817380/捗/はか": {
+      "id": 2817380,
+      "form": "捗",
+      "kana": "はか",
+      "gloss": "progress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        99041,
+        124341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2817370/捗が行く/はかがいく": {
+      "id": 2817370,
+      "form": "捗が行く",
+      "kana": "はかがいく",
+      "gloss": "to make progress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [
+        "rare",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1600640/捗捗しい/はかばかしい": {
+      "id": 1600640,
+      "form": "捗捗しい",
+      "kana": "はかばかしい",
+      "gloss": "quick",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2817370/捗が行く/はかがゆく": {
+      "id": 2817370,
+      "form": "捗が行く",
+      "kana": "はかがゆく",
+      "gloss": "to make progress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [
+        "rare",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1430570:捗る:はかどる",
+      "form": "捗る",
+      "kana": "はかどる",
+      "cue": "to make (good) progress; to move right ahead (with the work)",
+      "ids": [
+        1430570
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 20850,
+        "shiberu": 29312,
+        "tubelex": 13194,
+        "wordfreq": 17002
+      },
+      "alternatives_by_kanji": {
+        "捗": [
+          "1366140/進捗/しんちょく",
+          "2026560/進捗状況/しんちょくじょうきょう",
+          "2858870/進捗報告/しんちょくほうこく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

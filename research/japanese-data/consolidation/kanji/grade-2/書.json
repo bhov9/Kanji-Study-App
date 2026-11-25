@@ -1,0 +1,1827 @@
+{
+  "character": "書",
+  "grade": 2,
+  "meanings": [
+    "write"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 73
+    },
+    {
+      "type": "nelson_c",
+      "value": 129
+    }
+  ],
+  "components": [
+    "日",
+    "聿"
+  ],
+  "on": [
+    "ショ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "か.く",
+      "stem": "か",
+      "okurigana": "く"
+    },
+    {
+      "sourceNotation": "-が.き",
+      "stem": "-が",
+      "okurigana": "き"
+    },
+    {
+      "sourceNotation": "-がき",
+      "stem": "-がき",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "かき"
+  ],
+  "government": {
+    "kanji": "書",
+    "heading": "書",
+    "readings": [
+      "ショ",
+      "かく"
+    ],
+    "examples_by_reading": [
+      [
+        "書画",
+        "書籍",
+        "読書"
+      ],
+      [
+        "書く"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔描く"
+    ],
+    "representative_index": {
+      "kanji": "書",
+      "reading": "ショ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ショ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 708,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1344090/書籍/しょせき",
+        "1456420/読書/どくしょ",
+        "1654020/書画/しょが",
+        "1456420/読書/とくしょ",
+        "1370410/図書/としょ",
+        "1370410/図書/ずしょ",
+        "1344200/書類/しょるい",
+        "1583840/文書/ぶんしょ",
+        "1380340/聖書/せいしょ",
+        "1344120/書店/しょてん"
+      ]
+    },
+    {
+      "reading": "かく",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1343950/書く/かく",
+        "1904450/一筆書く/ひとふでかく",
+        "2249810/絵を書く/えをかく",
+        "1208320/活字体で書く/かつじたいでかく",
+        "1904450/一筆書く/いっぴつかく",
+        "1884120/真で書く/しんでかく",
+        "2845255/文はやりたし書く手は持たぬ/ふみはやりたしかくてはもたぬ",
+        "2845255/文は遣りたし書く手は持たぬ/ふみはやりたしかくてはもたぬ"
+      ]
+    },
+    {
+      "reading": "がき",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 100,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1548770/落書き/らくがき",
+        "1590360/肩書き/かたがき",
+        "1353430/上書き/うわがき",
+        "1185370/下書き/したがき",
+        "1588710/絵葉書/えはがき",
+        "1241790/筋書き/すじがき",
+        "1589300/覚え書き/おぼえがき",
+        "1402490/走り書き/はしりがき",
+        "1470190/能書き/のうがき",
+        "1733680/詞書/ことばがき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1343950/書く/かく",
+    "1344090/書籍/しょせき",
+    "1456420/読書/どくしょ",
+    "1654020/書画/しょが",
+    "1456420/読書/とくしょ",
+    "1370410/図書/としょ",
+    "1370410/図書/ずしょ",
+    "1344200/書類/しょるい",
+    "1583840/文書/ぶんしょ",
+    "1380340/聖書/せいしょ",
+    "1344120/書店/しょてん",
+    "1484060/秘書/ひしょ",
+    "1344150/書物/しょもつ",
+    "1344030/書斎/しょさい",
+    "1427140/著書/ちょしょ",
+    "1548770/落書き/らくがき",
+    "1522660/本書/ほんしょ",
+    "1344000/書記/しょき",
+    "1343960/書院/しょいん",
+    "1343980/書簡/しょかん",
+    "1159340/遺書/いしょ",
+    "1344130/書道/しょどう",
+    "1403510/蔵書/ぞうしょ",
+    "1590360/肩書き/かたがき",
+    "1344180/書面/しょめん",
+    "1351650/証書/しょうしょ",
+    "1475220/白書/はくしょ",
+    "1353430/上書き/うわがき",
+    "1720450/新書/しんしょ",
+    "1185370/下書き/したがき"
+  ],
+  "candidates": {
+    "1343950/書く/かく": {
+      "id": 1343950,
+      "form": "書く",
+      "kana": "かく",
+      "gloss": "to write",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        152,
+        170,
+        1974,
+        309
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かく": {
+          "actual": "か",
+          "dictionary": [
+            "か.く"
+          ]
+        }
+      },
+      "official_examples": [
+        "かく"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1344090/書籍/しょせき": {
+      "id": 1344090,
+      "form": "書籍",
+      "kana": "しょせき",
+      "gloss": "book",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3783,
+        5510,
+        2190,
+        14521
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "籍": 7
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1456420/読書/どくしょ": {
+      "id": 1456420,
+      "form": "読書",
+      "kana": "どくしょ",
+      "gloss": "reading (books)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2616,
+        6879,
+        5154,
+        6778
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "読": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1654020/書画/しょが": {
+      "id": 1654020,
+      "form": "書画",
+      "kana": "しょが",
+      "gloss": "paintings and calligraphic works",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19169,
+        53857,
+        57615,
+        84143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1456420/読書/とくしょ": {
+      "id": 1456420,
+      "form": "読書",
+      "kana": "とくしょ",
+      "gloss": "reading (books)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2616,
+        6879,
+        5154,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "読": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1370410/図書/としょ": {
+      "id": 1370410,
+      "form": "図書",
+      "kana": "としょ",
+      "gloss": "books",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        672,
+        2991,
+        10217,
+        25692
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1370410/図書/ずしょ": {
+      "id": 1370410,
+      "form": "図書",
+      "kana": "ずしょ",
+      "gloss": "books",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        672,
+        2991,
+        10217,
+        250954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1344200/書類/しょるい": {
+      "id": 1344200,
+      "form": "書類",
+      "kana": "しょるい",
+      "gloss": "document",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2941,
+        3621,
+        3167,
+        3121
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "類": 4
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1583840/文書/ぶんしょ": {
+      "id": 1583840,
+      "form": "文書",
+      "kana": "ぶんしょ",
+      "gloss": "document",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2803,
+        4087,
+        2934,
+        13898
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1380340/聖書/せいしょ": {
+      "id": 1380340,
+      "form": "聖書",
+      "kana": "せいしょ",
+      "gloss": "Bible",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3103,
+        2459,
+        5892,
+        22829
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聖": 6
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1344120/書店/しょてん": {
+      "id": 1344120,
+      "form": "書店",
+      "kana": "しょてん",
+      "gloss": "bookshop",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4895,
+        10271,
+        4117,
+        11382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1484060/秘書/ひしょ": {
+      "id": 1484060,
+      "form": "秘書",
+      "kana": "ひしょ",
+      "gloss": "(private) secretary",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4369,
+        10014,
+        5679,
+        9010
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秘": 6
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1344150/書物/しょもつ": {
+      "id": 1344150,
+      "form": "書物",
+      "kana": "しょもつ",
+      "gloss": "book",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3170,
+        10909,
+        15390,
+        9613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1344030/書斎/しょさい": {
+      "id": 1344030,
+      "form": "書斎",
+      "kana": "しょさい",
+      "gloss": "study",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3303,
+        11738,
+        22017,
+        13694
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "斎": 7
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1427140/著書/ちょしょ": {
+      "id": 1427140,
+      "form": "著書",
+      "kana": "ちょしょ",
+      "gloss": "(written) work",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7112,
+        11189,
+        8882,
+        31825
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "著": 6
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1548770/落書き/らくがき": {
+      "id": 1548770,
+      "form": "落書き",
+      "kana": "らくがき",
+      "gloss": "scrawl",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15087,
+        9688,
+        7391,
+        9278
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "落": 3
+      },
+      "matched": {
+        "がき": {
+          "actual": "が",
+          "dictionary": [
+            "-が.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1522660/本書/ほんしょ": {
+      "id": 1522660,
+      "form": "本書",
+      "kana": "ほんしょ",
+      "gloss": "main text",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8067,
+        9975,
+        13090,
+        12301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1344000/書記/しょき": {
+      "id": 1344000,
+      "form": "書記",
+      "kana": "しょき",
+      "gloss": "clerk",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5555,
+        15319,
+        18794,
+        25851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1343960/書院/しょいん": {
+      "id": 1343960,
+      "form": "書院",
+      "kana": "しょいん",
+      "gloss": "drawing room",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4165,
+        29670,
+        34525,
+        59844
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "院": 3
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1343980/書簡/しょかん": {
+      "id": 1343980,
+      "form": "書簡",
+      "kana": "しょかん",
+      "gloss": "letter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5372,
+        16786,
+        22895,
+        31654
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "簡": 6
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1159340/遺書/いしょ": {
+      "id": 1159340,
+      "form": "遺書",
+      "kana": "いしょ",
+      "gloss": "note left by a dead person",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8905,
+        12175,
+        17002,
+        15795
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1344130/書道/しょどう": {
+      "id": 1344130,
+      "form": "書道",
+      "kana": "しょどう",
+      "gloss": "calligraphy (esp. Asian calligraphy based on Chinese characters)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8156,
+        12560,
+        16515,
+        32248
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1403510/蔵書/ぞうしょ": {
+      "id": 1403510,
+      "form": "蔵書",
+      "kana": "ぞうしょ",
+      "gloss": "collection of books",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5842,
+        28481,
+        26068,
+        21469
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蔵": 6
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590360/肩書き/かたがき": {
+      "id": 1590360,
+      "form": "肩書き",
+      "kana": "かたがき",
+      "gloss": "title (e.g. Doctor, Professor, Lord)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12867,
+        13657,
+        16515,
+        10971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "肩": 7
+      },
+      "matched": {
+        "がき": {
+          "actual": "が",
+          "dictionary": [
+            "-が.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1344180/書面/しょめん": {
+      "id": 1344180,
+      "form": "書面",
+      "kana": "しょめん",
+      "gloss": "document",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14364,
+        12746,
+        17002,
+        23587
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1351650/証書/しょうしょ": {
+      "id": 1351650,
+      "form": "証書",
+      "kana": "しょうしょ",
+      "gloss": "document (of proof)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15518,
+        12975,
+        16515,
+        43717
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "証": 5
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1475220/白書/はくしょ": {
+      "id": 1475220,
+      "form": "白書",
+      "kana": "はくしょ",
+      "gloss": "white paper (government report)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11399,
+        18813,
+        17751,
+        70606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1353430/上書き/うわがき": {
+      "id": 1353430,
+      "form": "上書き",
+      "kana": "うわがき",
+      "gloss": "superscription (on a letter, parcel, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28118,
+        12366,
+        19596,
+        12999
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "がき": {
+          "actual": "が",
+          "dictionary": [
+            "-が.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1720450/新書/しんしょ": {
+      "id": 1720450,
+      "form": "新書",
+      "kana": "しんしょ",
+      "gloss": "new book",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19953,
+        25023,
+        11204,
+        50951
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "ショ": {
+          "actual": "しょ",
+          "dictionary": [
+            "ショ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1185370/下書き/したがき": {
+      "id": 1185370,
+      "form": "下書き",
+      "kana": "したがき",
+      "gloss": "draft",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        17327,
+        13353,
+        28048,
+        35561
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "がき": {
+          "actual": "が",
+          "dictionary": [
+            "-が.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1904450/一筆書く/ひとふでかく": {
+      "id": 1904450,
+      "form": "一筆書く",
+      "kana": "ひとふでかく",
+      "gloss": "to write a few lines (to)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筆": 3,
+        "一": 1
+      },
+      "matched": {
+        "かく": {
+          "actual": "か",
+          "dictionary": [
+            "か.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2249810/絵を書く/えをかく": {
+      "id": 2249810,
+      "form": "絵を書く",
+      "kana": "えをかく",
+      "gloss": "to paint a picture",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        90630
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絵": 2
+      },
+      "matched": {
+        "かく": {
+          "actual": "か",
+          "dictionary": [
+            "か.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1208320/活字体で書く/かつじたいでかく": {
+      "id": 1208320,
+      "form": "活字体で書く",
+      "kana": "かつじたいでかく",
+      "gloss": "to print (on a press)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "活": 2,
+        "字": 1,
+        "体": 2
+      },
+      "matched": {
+        "かく": {
+          "actual": "か",
+          "dictionary": [
+            "か.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1904450/一筆書く/いっぴつかく": {
+      "id": 1904450,
+      "form": "一筆書く",
+      "kana": "いっぴつかく",
+      "gloss": "to write a few lines (to)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "筆": 3,
+        "一": 1
+      },
+      "matched": {
+        "かく": {
+          "actual": "か",
+          "dictionary": [
+            "か.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1884120/真で書く/しんでかく": {
+      "id": 1884120,
+      "form": "真で書く",
+      "kana": "しんでかく",
+      "gloss": "to write in the square style",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "真": 3
+      },
+      "matched": {
+        "かく": {
+          "actual": "か",
+          "dictionary": [
+            "か.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845255/文はやりたし書く手は持たぬ/ふみはやりたしかくてはもたぬ": {
+      "id": 2845255,
+      "form": "文はやりたし書く手は持たぬ",
+      "kana": "ふみはやりたしかくてはもたぬ",
+      "gloss": "I want to send a (love) letter but I cannot write",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "文": 1,
+        "持": 3,
+        "手": 1
+      },
+      "matched": {
+        "かく": {
+          "actual": "か",
+          "dictionary": [
+            "か.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845255/文は遣りたし書く手は持たぬ/ふみはやりたしかくてはもたぬ": {
+      "id": 2845255,
+      "form": "文は遣りたし書く手は持たぬ",
+      "kana": "ふみはやりたしかくてはもたぬ",
+      "gloss": "I want to send a (love) letter but I cannot write",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "遣": 7,
+        "文": 1,
+        "持": 3,
+        "手": 1
+      },
+      "matched": {
+        "かく": {
+          "actual": "か",
+          "dictionary": [
+            "か.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1588710/絵葉書/えはがき": {
+      "id": 1588710,
+      "form": "絵葉書",
+      "kana": "えはがき",
+      "gloss": "picture postcard",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11424,
+        36842,
+        39319,
+        55760
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絵": 2,
+        "葉": 3
+      },
+      "matched": {
+        "がき": {
+          "actual": "がき",
+          "dictionary": [
+            "-がき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1241790/筋書き/すじがき": {
+      "id": 1241790,
+      "form": "筋書き",
+      "kana": "すじがき",
+      "gloss": "synopsis",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30135,
+        32483,
+        29854,
+        15887
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筋": 6
+      },
+      "matched": {
+        "がき": {
+          "actual": "が",
+          "dictionary": [
+            "-が.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589300/覚え書き/おぼえがき": {
+      "id": 1589300,
+      "form": "覚え書き",
+      "kana": "おぼえがき",
+      "gloss": "memo",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34269,
+        26476,
+        58810,
+        59749
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "覚": 4
+      },
+      "matched": {
+        "がき": {
+          "actual": "が",
+          "dictionary": [
+            "-が.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1402490/走り書き/はしりがき": {
+      "id": 1402490,
+      "form": "走り書き",
+      "kana": "はしりがき",
+      "gloss": "scribbling",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        29165,
+        39979,
+        72835,
+        29994
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "走": 2
+      },
+      "matched": {
+        "がき": {
+          "actual": "が",
+          "dictionary": [
+            "-が.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1470190/能書き/のうがき": {
+      "id": 1470190,
+      "form": "能書き",
+      "kana": "のうがき",
+      "gloss": "advertising the excellence of one's wares",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30824,
+        63933,
+        59434,
+        40844
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "能": 5
+      },
+      "matched": {
+        "がき": {
+          "actual": "が",
+          "dictionary": [
+            "-が.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1733680/詞書/ことばがき": {
+      "id": 1733680,
+      "form": "詞書",
+      "kana": "ことばがき",
+      "gloss": "foreword to a collection of poems",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37567,
+        101749,
+        125270,
+        180907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "詞": 6
+      },
+      "matched": {
+        "がき": {
+          "actual": "がき",
+          "dictionary": [
+            "-がき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1344000:書記:しょき",
+      "form": "書記",
+      "kana": "しょき",
+      "cue": "clerk; secretary",
+      "ids": [
+        1344000
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 25851,
+        "shiberu": 5555,
+        "tubelex": 15319,
+        "wordfreq": 18794
+      },
+      "alternatives_by_kanji": {
+        "記": [
+          "1223140/記す/しるす",
+          "1223210/記号/きごう",
+          "1223330/記入/きにゅう"
+        ],
+        "書": [
+          "1343950/書く/かく",
+          "1344090/書籍/しょせき",
+          "1456420/読書/どくしょ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1344120:書店:しょてん",
+      "form": "書店",
+      "kana": "しょてん",
+      "cue": "bookshop; bookstore",
+      "ids": [
+        1344120
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 11382,
+        "shiberu": 4895,
+        "tubelex": 10271,
+        "wordfreq": 4117
+      },
+      "alternatives_by_kanji": {
+        "書": [
+          "1343950/書く/かく",
+          "1344090/書籍/しょせき",
+          "1456420/読書/どくしょ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1456420:読書:どくしょ",
+      "form": "読書",
+      "kana": "どくしょ",
+      "cue": "reading (books)",
+      "ids": [
+        1456420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 6778,
+        "shiberu": 2616,
+        "tubelex": 6879,
+        "wordfreq": 5154
+      }
+    },
+    {
+      "wordId": "jmdict:1484060:秘書:ひしょ",
+      "form": "秘書",
+      "kana": "ひしょ",
+      "cue": "(private) secretary",
+      "ids": [
+        1484060
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9010,
+        "shiberu": 4369,
+        "tubelex": 10014,
+        "wordfreq": 5679
+      },
+      "alternatives_by_kanji": {
+        "書": [
+          "1343950/書く/かく",
+          "1344090/書籍/しょせき",
+          "1456420/読書/どくしょ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1568280:楷書:かいしょ",
+      "form": "楷書",
+      "kana": "かいしょ",
+      "cue": "printed style (of writing Chinese characters); square style",
+      "ids": [
+        1568280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 102298,
+        "shiberu": 18233,
+        "tubelex": 35749,
+        "wordfreq": 61736
+      },
+      "alternatives_by_kanji": {
+        "書": [
+          "1343950/書く/かく",
+          "1344090/書籍/しょせき",
+          "1456420/読書/どくしょ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 271
+}

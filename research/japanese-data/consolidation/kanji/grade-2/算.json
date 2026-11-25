@@ -1,0 +1,1360 @@
+{
+  "character": "算",
+  "grade": 2,
+  "meanings": [
+    "calculate",
+    "divining",
+    "number",
+    "abacus",
+    "probability"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 118
+    }
+  ],
+  "components": [
+    "竹",
+    "目",
+    "廾",
+    "乞"
+  ],
+  "on": [
+    "サン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "そろ",
+      "stem": "そろ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "算",
+    "heading": "算",
+    "readings": [
+      "サン"
+    ],
+    "examples_by_reading": [
+      [
+        "算数",
+        "計算",
+        "予算"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "算",
+      "reading": "サン",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "サン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 179,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1252140/計算/けいさん",
+        "1543000/予算/よさん",
+        "1303930/算数/さんすう",
+        "1254290/決算/けっさん",
+        "1212820/換算/かんさん",
+        "1190230/加算/かさん",
+        "1303910/算出/さんしゅつ",
+        "1433230/通算/つうさん",
+        "1378210/清算/せいさん",
+        "2423520/算/さん"
+      ]
+    },
+    {
+      "reading": "そろ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1896520/電算/でんそろ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1252140/計算/けいさん",
+    "1543000/予算/よさん",
+    "1303930/算数/さんすう",
+    "1254290/決算/けっさん",
+    "1212820/換算/かんさん",
+    "1190230/加算/かさん",
+    "1303910/算出/さんしゅつ",
+    "1433230/通算/つうさん",
+    "1378210/清算/せいさん",
+    "2423520/算/さん",
+    "1294780/採算/さいさん",
+    "1379930/精算/せいさん",
+    "1303950/算定/さんてい",
+    "1618810/算段/さんだん",
+    "1204450/概算/がいさん",
+    "1271340/誤算/ごさん",
+    "1303920/算術/さんじゅつ",
+    "1623720/打算/ださん",
+    "1346170/勝算/しょうさん",
+    "1303990/算用/さんよう",
+    "1284800/合算/がっさん",
+    "2077680/可算/かさん",
+    "1642000/目算/もくさん",
+    "1610050/成算/せいさん",
+    "1663770/心算/しんさん",
+    "1312460/試算/しさん",
+    "1227060/逆算/ぎゃくさん",
+    "1383050/積算/せきさん",
+    "1471340/破算/はさん",
+    "1273720/公算/こうさん"
+  ],
+  "candidates": {
+    "1252140/計算/けいさん": {
+      "id": 1252140,
+      "form": "計算",
+      "kana": "けいさん",
+      "gloss": "calculation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1572,
+        1169,
+        1974,
+        2355
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "計": 2
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [
+        "サン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1543000/予算/よさん": {
+      "id": 1543000,
+      "form": "予算",
+      "kana": "よさん",
+      "gloss": "estimate (of costs)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        2970,
+        1856,
+        2518,
+        5471
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [
+        "サン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1303930/算数/さんすう": {
+      "id": 1303930,
+      "form": "算数",
+      "kana": "さんすう",
+      "gloss": "arithmetic",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9077,
+        10974,
+        14937,
+        23035
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [
+        "サン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1254290/決算/けっさん": {
+      "id": 1254290,
+      "form": "決算",
+      "kana": "けっさん",
+      "gloss": "settlement of accounts",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16867,
+        4062,
+        9745,
+        49081
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "決": 3
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1212820/換算/かんさん": {
+      "id": 1212820,
+      "form": "換算",
+      "kana": "かんさん",
+      "gloss": "conversion (e.g. yen to dollars)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8872,
+        10014,
+        10217,
+        22195
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "換": 7
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1190230/加算/かさん": {
+      "id": 1190230,
+      "form": "加算",
+      "kana": "かさん",
+      "gloss": "addition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16760,
+        9477,
+        11030,
+        25405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "加": 4
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1303910/算出/さんしゅつ": {
+      "id": 1303910,
+      "form": "算出",
+      "kana": "さんしゅつ",
+      "gloss": "calculation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11318,
+        10575,
+        14132,
+        28937
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1433230/通算/つうさん": {
+      "id": 1433230,
+      "form": "通算",
+      "kana": "つうさん",
+      "gloss": "total",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31871,
+        9822,
+        10372,
+        37714
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1378210/清算/せいさん": {
+      "id": 1378210,
+      "form": "清算",
+      "kana": "せいさん",
+      "gloss": "(financial) settlement",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10792,
+        17716,
+        15390,
+        18281
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "清": 4
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2423520/算/さん": {
+      "id": 2423520,
+      "form": "算",
+      "kana": "さん",
+      "gloss": "divining sticks",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9740,
+        25501,
+        22895,
+        43075
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294780/採算/さいさん": {
+      "id": 1294780,
+      "form": "採算",
+      "kana": "さいさん",
+      "gloss": "profit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17156,
+        20126,
+        17251,
+        40691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "採": 5
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1379930/精算/せいさん": {
+      "id": 1379930,
+      "form": "精算",
+      "kana": "せいさん",
+      "gloss": "exact calculation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22516,
+        19084,
+        18515,
+        26115
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "精": 5
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1303950/算定/さんてい": {
+      "id": 1303950,
+      "form": "算定",
+      "kana": "さんてい",
+      "gloss": "calculation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        18462,
+        16820,
+        25402,
+        74958
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1618810/算段/さんだん": {
+      "id": 1618810,
+      "form": "算段",
+      "kana": "さんだん",
+      "gloss": "trying to think of a way (to do)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17535,
+        27831,
+        42050,
+        11682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "段": 6
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204450/概算/がいさん": {
+      "id": 1204450,
+      "form": "概算",
+      "kana": "がいさん",
+      "gloss": "approximation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22426,
+        16165,
+        31791,
+        46762
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "概": 7
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271340/誤算/ごさん": {
+      "id": 1271340,
+      "form": "誤算",
+      "kana": "ごさん",
+      "gloss": "miscalculation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        26124,
+        21923,
+        29477,
+        12873
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誤": 6
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1303920/算術/さんじゅつ": {
+      "id": 1303920,
+      "form": "算術",
+      "kana": "さんじゅつ",
+      "gloss": "arithmetic",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15404,
+        29352,
+        62361,
+        50363
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "術": 5
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1623720/打算/ださん": {
+      "id": 1623720,
+      "form": "打算",
+      "kana": "ださん",
+      "gloss": "calculation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21012,
+        36026,
+        37490,
+        17979
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1346170/勝算/しょうさん": {
+      "id": 1346170,
+      "form": "勝算",
+      "kana": "しょうさん",
+      "gloss": "prospects of victory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33297,
+        33853,
+        37490,
+        11321
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勝": 3
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1303990/算用/さんよう": {
+      "id": 1303990,
+      "form": "算用",
+      "kana": "さんよう",
+      "gloss": "computation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12936,
+        44489,
+        93840,
+        155225
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1284800/合算/がっさん": {
+      "id": 1284800,
+      "form": "合算",
+      "kana": "がっさん",
+      "gloss": "adding up",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32761,
+        27831,
+        26068,
+        73395
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2077680/可算/かさん": {
+      "id": 2077680,
+      "form": "可算",
+      "kana": "かさん",
+      "gloss": "countable (of a noun)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-f"
+      ],
+      "flags": [],
+      "ranks": [
+        25125,
+        45909,
+        80148,
+        276567
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "可": 5
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1642000/目算/もくさん": {
+      "id": 1642000,
+      "form": "目算",
+      "kana": "もくさん",
+      "gloss": "rough estimate",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        35360,
+        59850,
+        76428,
+        31165
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1610050/成算/せいさん": {
+      "id": 1610050,
+      "form": "成算",
+      "kana": "せいさん",
+      "gloss": "hope of success",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28942,
+        85382,
+        197911,
+        78826
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663770/心算/しんさん": {
+      "id": 1663770,
+      "form": "心算",
+      "kana": "しんさん",
+      "gloss": "intention",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37959,
+        173792,
+        107434,
+        67756
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312460/試算/しさん": {
+      "id": 1312460,
+      "form": "試算",
+      "kana": "しさん",
+      "gloss": "trial calculation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        14749,
+        18515,
+        40410
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "試": 4
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1227060/逆算/ぎゃくさん": {
+      "id": 1227060,
+      "form": "逆算",
+      "kana": "ぎゃくさん",
+      "gloss": "counting backwards",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15674,
+        34525,
+        27487
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "逆": 5
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1383050/積算/せきさん": {
+      "id": 1383050,
+      "form": "積算",
+      "kana": "せきさん",
+      "gloss": "addition",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19003,
+        30598,
+        129143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "積": 4
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1471340/破算/はさん": {
+      "id": 1471340,
+      "form": "破算",
+      "kana": "はさん",
+      "gloss": "starting afresh",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28687,
+        57577,
+        null,
+        152406
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "破": 5
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1273720/公算/こうさん": {
+      "id": 1273720,
+      "form": "公算",
+      "kana": "こうさん",
+      "gloss": "probability",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        40322,
+        50941,
+        42493
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "サン": {
+          "actual": "さん",
+          "dictionary": [
+            "サン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1896520/電算/でんそろ": {
+      "id": 1896520,
+      "form": "電算",
+      "kana": "でんそろ",
+      "gloss": "electronic calculator combined with a soroban",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "そろ": {
+          "actual": "そろ",
+          "dictionary": [
+            "そろ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1204450:概算:がいさん",
+      "form": "概算",
+      "kana": "がいさん",
+      "cue": "approximation; rough estimate",
+      "ids": [
+        1204450
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 46762,
+        "shiberu": 22426,
+        "tubelex": 16165,
+        "wordfreq": 31791
+      },
+      "alternatives_by_kanji": {
+        "算": [
+          "1252140/計算/けいさん",
+          "1543000/予算/よさん",
+          "1303930/算数/さんすう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1378210:清算:せいさん",
+      "form": "清算",
+      "kana": "せいさん",
+      "cue": "(financial) settlement; squaring accounts",
+      "ids": [
+        1378210
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18281,
+        "shiberu": 10792,
+        "tubelex": 17716,
+        "wordfreq": 15390
+      },
+      "alternatives_by_kanji": {
+        "算": [
+          "1252140/計算/けいさん",
+          "1543000/予算/よさん",
+          "1303930/算数/さんすう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1433230:通算:つうさん",
+      "form": "通算",
+      "kana": "つうさん",
+      "cue": "total; sum",
+      "ids": [
+        1433230
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 37714,
+        "shiberu": 31871,
+        "tubelex": 9822,
+        "wordfreq": 10372
+      },
+      "alternatives_by_kanji": {
+        "算": [
+          "1252140/計算/けいさん",
+          "1543000/予算/よさん",
+          "1303930/算数/さんすう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1543000:予算:よさん",
+      "form": "予算",
+      "kana": "よさん",
+      "cue": "estimate (of costs); budget",
+      "ids": [
+        1543000
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5471,
+        "shiberu": 2970,
+        "tubelex": 1856,
+        "wordfreq": 2518
+      },
+      "alternatives_by_kanji": {
+        "算": [
+          "1252140/計算/けいさん",
+          "1303930/算数/さんすう",
+          "1254290/決算/けっさん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 172
+}

@@ -1,0 +1,1252 @@
+{
+  "character": "源",
+  "grade": 6,
+  "meanings": [
+    "source",
+    "origin"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "汁",
+    "小",
+    "白",
+    "厂"
+  ],
+  "on": [
+    "ゲン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "みなもと",
+      "stem": "みなもと",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "はら",
+    "みな",
+    "もと"
+  ],
+  "government": {
+    "kanji": "源",
+    "heading": "源",
+    "readings": [
+      "ゲン",
+      "みなもと"
+    ],
+    "examples_by_reading": [
+      [
+        "源泉",
+        "水源",
+        "資源"
+      ],
+      [
+        "源"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "源",
+      "reading": "ゲン",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ゲン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 152,
+      "frequent_unflagged_examples": 6,
+      "current_support": true,
+      "candidates": [
+        "1312720/資源/しげん",
+        "1263380/源泉/げんせん",
+        "1371460/水源/すいげん",
+        "1992130/源/げん",
+        "1443220/電源/でんげん",
+        "1591140/起源/きげん",
+        "1290160/根源/こんげん",
+        "1263390/源流/げんりゅう",
+        "1296810/財源/ざいげん",
+        "1366350/震源/しんげん"
+      ]
+    },
+    {
+      "reading": "みなもと",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1263360/源/みなもと",
+        "1867180/河の源/かわのみなもと"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1312720/資源/しげん",
+    "1263380/源泉/げんせん",
+    "1371460/水源/すいげん",
+    "1263360/源/みなもと",
+    "1992130/源/げん",
+    "1443220/電源/でんげん",
+    "1591140/起源/きげん",
+    "1290160/根源/こんげん",
+    "1263390/源流/げんりゅう",
+    "1296810/財源/ざいげん",
+    "1366350/震源/しんげん",
+    "1271090/語源/ごげん",
+    "1272960/光源/こうげん",
+    "1651330/源平/げんぺい",
+    "1808510/桃源/とうげん",
+    "1832500/熱源/ねつげん",
+    "1667030/淵源/えんげん",
+    "1522490/本源/ほんげん",
+    "1183820/音源/おんげん",
+    "1802650/税源/ぜいげん",
+    "1263370/源氏物語/げんじものがたり",
+    "1448310/桃源郷/とうげんきょう",
+    "2150770/源氏名/げんじな",
+    "1647850/同源/どうげん",
+    "1658340/資源エネルギー庁/しげんエネルギーちょう",
+    "1777430/策源地/さくげんち",
+    "2407170/法源/ほうげん",
+    "1315190/字源/じげん",
+    "2852233/源頭/げんとう",
+    "1356430/情報源/じょうほうげん"
+  ],
+  "candidates": {
+    "1312720/資源/しげん": {
+      "id": 1312720,
+      "form": "資源",
+      "kana": "しげん",
+      "gloss": "resources",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2085,
+        3388,
+        3961,
+        13330
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "資": 5
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゲン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1263380/源泉/げんせん": {
+      "id": 1263380,
+      "form": "源泉",
+      "kana": "げんせん",
+      "gloss": "source (of a spring, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10849,
+        10496,
+        14745,
+        24662
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "泉": 6
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゲン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1371460/水源/すいげん": {
+      "id": 1371460,
+      "form": "水源",
+      "kana": "すいげん",
+      "gloss": "source of river",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13530,
+        15531,
+        19596,
+        31090
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゲン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1263360/源/みなもと": {
+      "id": 1263360,
+      "form": "源",
+      "kana": "みなもと",
+      "gloss": "source (of a river)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6376
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みなもと": {
+          "actual": "みなもと",
+          "dictionary": [
+            "みなもと"
+          ]
+        }
+      },
+      "official_examples": [
+        "みなもと"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1992130/源/げん": {
+      "id": 1992130,
+      "form": "源",
+      "kana": "げん",
+      "gloss": "source",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20861
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [
+        "みなもと"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1443220/電源/でんげん": {
+      "id": 1443220,
+      "form": "電源",
+      "kana": "でんげん",
+      "gloss": "source of electricity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3941,
+        1355,
+        3232,
+        6441
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1591140/起源/きげん": {
+      "id": 1591140,
+      "form": "起源",
+      "kana": "きげん",
+      "gloss": "origin",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5036,
+        11525,
+        9745,
+        20015
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "起": 3
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1290160/根源/こんげん": {
+      "id": 1290160,
+      "form": "根源",
+      "kana": "こんげん",
+      "gloss": "root",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9639,
+        11983,
+        15595,
+        14481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "根": 3
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1263390/源流/げんりゅう": {
+      "id": 1263390,
+      "form": "源流",
+      "kana": "げんりゅう",
+      "gloss": "source (e.g. of a river)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6050,
+        18521,
+        25040,
+        35492
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1296810/財源/ざいげん": {
+      "id": 1296810,
+      "form": "財源",
+      "kana": "ざいげん",
+      "gloss": "source of funds",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28354,
+        8374,
+        14132,
+        44926
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "財": 5
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1366350/震源/しんげん": {
+      "id": 1366350,
+      "form": "震源",
+      "kana": "しんげん",
+      "gloss": "hypocentre (of an earthquake)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17988,
+        13182,
+        12107,
+        64347
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "震": 7
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271090/語源/ごげん": {
+      "id": 1271090,
+      "form": "語源",
+      "kana": "ごげん",
+      "gloss": "origin of a word",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13358,
+        16359,
+        14937,
+        29161
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "語": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1272960/光源/こうげん": {
+      "id": 1272960,
+      "form": "光源",
+      "kana": "こうげん",
+      "gloss": "light source",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20165,
+        15050,
+        22289,
+        21853
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "光": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651330/源平/げんぺい": {
+      "id": 1651330,
+      "form": "源平",
+      "kana": "げんぺい",
+      "gloss": "Genji and Heike clans",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13505,
+        38608,
+        50941,
+        67716
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1808510/桃源/とうげん": {
+      "id": 1808510,
+      "form": "桃源",
+      "kana": "とうげん",
+      "gloss": "earthly paradise",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15277,
+        34549,
+        82481,
+        90137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "桃": 7
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1832500/熱源/ねつげん": {
+      "id": 1832500,
+      "form": "熱源",
+      "kana": "ねつげん",
+      "gloss": "heat source",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31037,
+        32292,
+        27689,
+        34187
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "熱": 4
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1667030/淵源/えんげん": {
+      "id": 1667030,
+      "form": "淵源",
+      "kana": "えんげん",
+      "gloss": "origin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        33457,
+        53060,
+        99903,
+        121457
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522490/本源/ほんげん": {
+      "id": 1522490,
+      "form": "本源",
+      "kana": "ほんげん",
+      "gloss": "origin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34740,
+        62423,
+        93020,
+        133070
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1183820/音源/おんげん": {
+      "id": 1183820,
+      "form": "音源",
+      "kana": "おんげん",
+      "gloss": "sound source",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        8292,
+        5679,
+        29657
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "音": 1
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1802650/税源/ぜいげん": {
+      "id": 1802650,
+      "form": "税源",
+      "kana": "ぜいげん",
+      "gloss": "tax source",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        107434,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "税": 5
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1263370/源氏物語/げんじものがたり": {
+      "id": 1263370,
+      "form": "源氏物語",
+      "kana": "げんじものがたり",
+      "gloss": "The Tale of Genji (Heian-period classic)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        29854,
+        51076
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "氏": 4,
+        "語": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1448310/桃源郷/とうげんきょう": {
+      "id": 1448310,
+      "form": "桃源郷",
+      "kana": "とうげんきょう",
+      "gloss": "earthly paradise",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42960,
+        35670
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "桃": 7,
+        "郷": 6
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2150770/源氏名/げんじな": {
+      "id": 2150770,
+      "form": "源氏名",
+      "kana": "げんじな",
+      "gloss": "\"professional name\" used by hostesses and geisha",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        69479,
+        58231
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "氏": 4,
+        "名": 1
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1647850/同源/どうげん": {
+      "id": 1647850,
+      "form": "同源",
+      "kana": "どうげん",
+      "gloss": "same origin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        null,
+        185265
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1658340/資源エネルギー庁/しげんエネルギーちょう": {
+      "id": 1658340,
+      "form": "資源エネルギー庁",
+      "kana": "しげんエネルギーちょう",
+      "gloss": "Agency of Natural Resources and Energy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        70783,
+        224442
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "資": 5,
+        "庁": 6
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1777430/策源地/さくげんち": {
+      "id": 1777430,
+      "form": "策源地",
+      "kana": "さくげんち",
+      "gloss": "strategic base",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        155831,
+        137752
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "策": 6,
+        "地": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2407170/法源/ほうげん": {
+      "id": 2407170,
+      "form": "法源",
+      "kana": "ほうげん",
+      "gloss": "(a) source of law",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        202164
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1315190/字源/じげん": {
+      "id": 1315190,
+      "form": "字源",
+      "kana": "じげん",
+      "gloss": "origin of a character",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        169274,
+        237434
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "字": 1
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2852233/源頭/げんとう": {
+      "id": 2852233,
+      "form": "源頭",
+      "kana": "げんとう",
+      "gloss": "river source",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頭": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1356430/情報源/じょうほうげん": {
+      "id": 1356430,
+      "form": "情報源",
+      "kana": "じょうほうげん",
+      "gloss": "source of information",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19053
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "報": 5
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1867180/河の源/かわのみなもと": {
+      "id": 1867180,
+      "form": "河の源",
+      "kana": "かわのみなもと",
+      "gloss": "fountainhead",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        208672
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "河": 5
+      },
+      "matched": {
+        "みなもと": {
+          "actual": "みなもと",
+          "dictionary": [
+            "みなもと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1312720:資源:しげん",
+      "form": "資源",
+      "kana": "しげん",
+      "cue": "resources",
+      "ids": [
+        1312720
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 13330,
+        "shiberu": 2085,
+        "tubelex": 3388,
+        "wordfreq": 3961
+      },
+      "alternatives_by_kanji": {
+        "資": [
+          "1312690/資格/しかく",
+          "1312780/資本/しほん",
+          "1502540/物資/ぶっし"
+        ],
+        "源": [
+          "1263380/源泉/げんせん",
+          "1371460/水源/すいげん",
+          "1263360/源/みなもと"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

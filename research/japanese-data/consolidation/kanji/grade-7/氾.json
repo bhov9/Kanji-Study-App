@@ -1,0 +1,309 @@
+{
+  "character": "氾",
+  "grade": 7,
+  "meanings": [
+    "spread out",
+    "wide"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "乙",
+    "汁",
+    "卩"
+  ],
+  "on": [
+    "ハン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ひろ.がる",
+      "stem": "ひろ",
+      "okurigana": "がる"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "氾",
+    "heading": "氾",
+    "readings": [
+      "ハン"
+    ],
+    "examples_by_reading": [
+      [
+        "氾濫"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "氾",
+      "reading": "ハン",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ハン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1481420/氾濫/はんらん",
+        "2841885/氾濫原/はんらんげん",
+        "2868319/河川氾濫/かせんはんらん",
+        "2868314/内水氾濫/ないすいはんらん",
+        "2868320/外水氾濫/がいすいはんらん"
+      ]
+    },
+    {
+      "reading": "ひろがる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1481420/氾濫/はんらん",
+    "2841885/氾濫原/はんらんげん",
+    "2868319/河川氾濫/かせんはんらん",
+    "2868314/内水氾濫/ないすいはんらん",
+    "2868320/外水氾濫/がいすいはんらん"
+  ],
+  "candidates": {
+    "1481420/氾濫/はんらん": {
+      "id": 1481420,
+      "form": "氾濫",
+      "kana": "はんらん",
+      "gloss": "overflowing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8263,
+        15319,
+        14325,
+        26440
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "濫": 7
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2841885/氾濫原/はんらんげん": {
+      "id": 2841885,
+      "form": "氾濫原",
+      "kana": "はんらんげん",
+      "gloss": "flood plain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236076
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2,
+        "濫": 7
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2868319/河川氾濫/かせんはんらん": {
+      "id": 2868319,
+      "form": "河川氾濫",
+      "kana": "かせんはんらん",
+      "gloss": "flooding caused by overflowing of rivers (e.g. breaching levee banks)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        242932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "川": 1,
+        "濫": 7,
+        "河": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2868314/内水氾濫/ないすいはんらん": {
+      "id": 2868314,
+      "form": "内水氾濫",
+      "kana": "ないすいはんらん",
+      "gloss": "flooding within the confines of a levee (i.e. caused by surface runoff, drainage failure, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "内": 2,
+        "濫": 7
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2868320/外水氾濫/がいすいはんらん": {
+      "id": 2868320,
+      "form": "外水氾濫",
+      "kana": "がいすいはんらん",
+      "gloss": "flooding caused by overflowing of rivers (e.g. breaching levee banks)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "水": 1,
+        "外": 2,
+        "濫": 7
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1481420:氾濫:はんらん",
+      "form": "氾濫",
+      "kana": "はんらん",
+      "cue": "overflowing; flood",
+      "ids": [
+        1481420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 26440,
+        "shiberu": 8263,
+        "tubelex": 15319,
+        "wordfreq": 14325
+      },
+      "alternatives_by_kanji": {
+        "氾": [
+          "2841885/氾濫原/はんらんげん",
+          "2868319/河川氾濫/かせんはんらん",
+          "2868314/内水氾濫/ないすいはんらん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

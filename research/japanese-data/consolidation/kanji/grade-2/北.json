@@ -1,0 +1,1357 @@
+{
+  "character": "北",
+  "grade": 2,
+  "meanings": [
+    "north"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 21
+    }
+  ],
+  "components": [
+    "匕",
+    "爿"
+  ],
+  "on": [
+    "ホク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "きた",
+      "stem": "きた",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "きら",
+    "ほう",
+    "ほっ",
+    "ほつ"
+  ],
+  "government": {
+    "kanji": "北",
+    "heading": "北",
+    "readings": [
+      "ホク",
+      "きた"
+    ],
+    "examples_by_reading": [
+      [
+        "北進",
+        "北方",
+        "敗北"
+      ],
+      [
+        "北",
+        "北風",
+        "北半球"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "北",
+      "reading": "ホク",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ホク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 113,
+      "frequent_unflagged_examples": 5,
+      "current_support": false,
+      "candidates": [
+        "1472610/敗北/はいぼく",
+        "1521310/北方/ほっぽう",
+        "1584210/北風/ほくふう",
+        "1521080/北進/ほくしん",
+        "1448160/東北/とうほく",
+        "1521260/北部/ほくぶ",
+        "1521070/北上/ほくじょう",
+        "1521100/北西/ほくせい",
+        "1584190/北東/ほくとう",
+        "1521180/北端/ほくたん"
+      ]
+    },
+    {
+      "reading": "きた",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 50,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1584210/北風/きたかぜ",
+        "1521250/北半球/きたはんきゅう",
+        "2833070/北/ペー",
+        "1521200/北朝鮮/きたちょうせん",
+        "1584180/北側/きたがわ",
+        "1584170/北国/きたぐに",
+        "1448160/東北/ひがしきた",
+        "1584190/北東/きたひがし",
+        "1521030/北山/きたやま",
+        "2164630/北九州/きたきゅうしゅう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1472610/敗北/はいぼく",
+    "1521310/北方/ほっぽう",
+    "1584210/北風/きたかぜ",
+    "1584210/北風/ほくふう",
+    "1521080/北進/ほくしん",
+    "1521250/北半球/きたはんきゅう",
+    "2833070/北/ペー",
+    "1448160/東北/とうほく",
+    "1521200/北朝鮮/きたちょうせん",
+    "1521260/北部/ほくぶ",
+    "1584180/北側/きたがわ",
+    "1521070/北上/ほくじょう",
+    "1521100/北西/ほくせい",
+    "1584190/北東/ほくとう",
+    "1521180/北端/ほくたん",
+    "1584170/北国/きたぐに",
+    "1381070/西北/せいほく",
+    "1520740/北緯/ほくい",
+    "5645594/北大/ほくだい",
+    "1155200/以北/いほく",
+    "1521340/北面/ほくめん",
+    "1520830/北岸/ほくがん",
+    "1740530/北限/ほくげん",
+    "1521300/北辺/ほくへん",
+    "1448160/東北/ひがしきた",
+    "1584180/北側/ほくそく",
+    "1521370/北陸/ほくりく",
+    "1584190/北東/きたひがし",
+    "1520750/北欧/ほくおう",
+    "1521270/北米/ほくべい"
+  ],
+  "candidates": {
+    "1472610/敗北/はいぼく": {
+      "id": 1472610,
+      "form": "敗北",
+      "kana": "はいぼく",
+      "gloss": "defeat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6462,
+        7693,
+        6076,
+        4869
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敗": 4
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ぼく",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ホク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1521310/北方/ほっぽう": {
+      "id": 1521310,
+      "form": "北方",
+      "kana": "ほっぽう",
+      "gloss": "the north",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        8570,
+        11738,
+        14533,
+        24030
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ホク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1584210/北風/きたかぜ": {
+      "id": 1584210,
+      "form": "北風",
+      "kana": "きたかぜ",
+      "gloss": "north wind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14450,
+        26476,
+        28763,
+        34808
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [
+        "きた"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1584210/北風/ほくふう": {
+      "id": 1584210,
+      "form": "北風",
+      "kana": "ほくふう",
+      "gloss": "north wind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14450,
+        26476,
+        28763,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [
+        "きた"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1521080/北進/ほくしん": {
+      "id": 1521080,
+      "form": "北進",
+      "kana": "ほくしん",
+      "gloss": "proceeding north",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        57577,
+        73498,
+        88757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "進": 3
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1521250/北半球/きたはんきゅう": {
+      "id": 1521250,
+      "form": "北半球",
+      "kana": "きたはんきゅう",
+      "gloss": "northern hemisphere",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        45339,
+        63609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "半": 2,
+        "球": 3
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [
+        "きた"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2833070/北/ペー": {
+      "id": 2833070,
+      "form": "北",
+      "kana": "ペー",
+      "gloss": "north wind tile",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "きた": {
+          "actual": "ペー",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "きた"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1448160/東北/とうほく": {
+      "id": 1448160,
+      "form": "東北",
+      "kana": "とうほく",
+      "gloss": "north-east",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2513,
+        13838,
+        3663,
+        20578
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "東": 2
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1521200/北朝鮮/きたちょうせん": {
+      "id": 1521200,
+      "form": "北朝鮮",
+      "kana": "きたちょうせん",
+      "gloss": "North Korea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8816,
+        3722,
+        3315,
+        63256
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朝": 2,
+        "鮮": 7
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1521260/北部/ほくぶ": {
+      "id": 1521260,
+      "form": "北部",
+      "kana": "ほくぶ",
+      "gloss": "northern part",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        5881,
+        6740,
+        4596,
+        18167
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "部": 3
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1584180/北側/きたがわ": {
+      "id": 1584180,
+      "form": "北側",
+      "kana": "きたがわ",
+      "gloss": "north side",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8623,
+        7621,
+        11547,
+        16511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "側": 4
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1521070/北上/ほくじょう": {
+      "id": 1521070,
+      "form": "北上",
+      "kana": "ほくじょう",
+      "gloss": "going north",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9844,
+        13741,
+        12479,
+        23497
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1521100/北西/ほくせい": {
+      "id": 1521100,
+      "form": "北西",
+      "kana": "ほくせい",
+      "gloss": "northwest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        16742,
+        11738,
+        10707,
+        20762
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "西": 2
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1584190/北東/ほくとう": {
+      "id": 1584190,
+      "form": "北東",
+      "kana": "ほくとう",
+      "gloss": "northeast",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27078,
+        10604,
+        11368,
+        20606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "東": 2
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1521180/北端/ほくたん": {
+      "id": 1521180,
+      "form": "北端",
+      "kana": "ほくたん",
+      "gloss": "northern extremity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11928,
+        21732,
+        40209,
+        49373
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "端": 7
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1584170/北国/きたぐに": {
+      "id": 1584170,
+      "form": "北国",
+      "kana": "きたぐに",
+      "gloss": "northern country",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15970,
+        27951,
+        33270,
+        39522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1381070/西北/せいほく": {
+      "id": 1381070,
+      "form": "西北",
+      "kana": "せいほく",
+      "gloss": "north-west",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13189,
+        38931,
+        46874,
+        63694
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "西": 2
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1520740/北緯/ほくい": {
+      "id": 1520740,
+      "form": "北緯",
+      "kana": "ほくい",
+      "gloss": "north latitude",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32113,
+        30504,
+        19040,
+        66313
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "緯": 7
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5645594/北大/ほくだい": {
+      "id": 5645594,
+      "form": "北大",
+      "kana": "ほくだい",
+      "gloss": "Hokkaido University (abbr)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18322,
+        44010,
+        30598,
+        105235
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1155200/以北/いほく": {
+      "id": 1155200,
+      "form": "以北",
+      "kana": "いほく",
+      "gloss": "... and northward",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        18061,
+        56591,
+        44357,
+        86991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "以": 4
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1521340/北面/ほくめん": {
+      "id": 1521340,
+      "form": "北面",
+      "kana": "ほくめん",
+      "gloss": "north face",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        30560,
+        59850,
+        61736,
+        94047
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1520830/北岸/ほくがん": {
+      "id": 1520830,
+      "form": "北岸",
+      "kana": "ほくがん",
+      "gloss": "north coast",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32328,
+        62423,
+        58194,
+        80107
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岸": 3
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1740530/北限/ほくげん": {
+      "id": 1740530,
+      "form": "北限",
+      "kana": "ほくげん",
+      "gloss": "northern limit (esp. of the distribution of a plant or animal)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32192,
+        81652,
+        68819,
+        120341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "限": 5
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1521300/北辺/ほくへん": {
+      "id": 1521300,
+      "form": "北辺",
+      "kana": "ほくへん",
+      "gloss": "northern extremity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33388,
+        109954,
+        115366,
+        102189
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辺": 4
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1448160/東北/ひがしきた": {
+      "id": 1448160,
+      "form": "東北",
+      "kana": "ひがしきた",
+      "gloss": "north-east",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2513,
+        13838,
+        3663,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "東": 2
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1584180/北側/ほくそく": {
+      "id": 1584180,
+      "form": "北側",
+      "kana": "ほくそく",
+      "gloss": "north side",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8623,
+        7621,
+        11547,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "側": 4
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1521370/北陸/ほくりく": {
+      "id": 1521370,
+      "form": "北陸",
+      "kana": "ほくりく",
+      "gloss": "Hokuriku region (of Honshu; incl. Niigata, Toyama, Ishikawa and Fukui prefectures)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6731,
+        null,
+        9023,
+        43951
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "陸": 4
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1584190/北東/きたひがし": {
+      "id": 1584190,
+      "form": "北東",
+      "kana": "きたひがし",
+      "gloss": "northeast",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27078,
+        10604,
+        11368,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "東": 2
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1520750/北欧/ほくおう": {
+      "id": 1520750,
+      "form": "北欧",
+      "kana": "ほくおう",
+      "gloss": "Northern Europe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12730,
+        null,
+        8882,
+        31057
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "欧": 7
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1521270/北米/ほくべい": {
+      "id": 1521270,
+      "form": "北米",
+      "kana": "ほくべい",
+      "gloss": "North America",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16688,
+        null,
+        9023,
+        47469
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "米": 2
+      },
+      "matched": {
+        "ホク": {
+          "actual": "ほく",
+          "dictionary": [
+            "ホク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1521030/北山/きたやま": {
+      "id": 1521030,
+      "form": "北山",
+      "kana": "きたやま",
+      "gloss": "northern mountains",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12322,
+        null,
+        13918,
+        63133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2164630/北九州/きたきゅうしゅう": {
+      "id": 2164630,
+      "form": "北九州",
+      "kana": "きたきゅうしゅう",
+      "gloss": "Kitakyushu (city)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31896,
+        null,
+        8301,
+        67436
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "州": 3,
+        "九": 1
+      },
+      "matched": {
+        "きた": {
+          "actual": "きた",
+          "dictionary": [
+            "きた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1520670:北:きた",
+      "form": "北",
+      "kana": "きた",
+      "cue": "north",
+      "ids": [
+        1520670
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "arch"
+      ],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 3634,
+        "shiberu": 1030,
+        "tubelex": 1439,
+        "wordfreq": 1180
+      },
+      "alternatives_by_kanji": {
+        "北": [
+          "1472610/敗北/はいぼく",
+          "1521310/北方/ほっぽう",
+          "1584210/北風/きたかぜ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1520860:北京:ぺきん",
+      "form": "北京",
+      "kana": "ぺきん",
+      "cue": "Beijing (China); Peking",
+      "ids": [],
+      "mapping": "needs-review",
+      "flags": [],
+      "issues": [
+        "dictionary identity needs review",
+        "check segmentation",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "shiberu": 6859,
+        "wordfreq": 7753
+      },
+      "alternatives_by_kanji": {
+        "京": [
+          "1352980/上京/じょうきょう",
+          "1221310/帰京/ききょう",
+          "1233510/京風/きょうふう"
+        ],
+        "北": [
+          "1472610/敗北/はいぼく",
+          "1521310/北方/ほっぽう",
+          "1584210/北風/きたかぜ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1521200:北朝鮮:きたちょうせん",
+      "form": "北朝鮮",
+      "kana": "きたちょうせん",
+      "cue": "North Korea",
+      "ids": [
+        1521200
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 63256,
+        "shiberu": 8816,
+        "tubelex": 3722,
+        "wordfreq": 3315
+      },
+      "alternatives_by_kanji": {
+        "朝": [
+          "1400330/早朝/そうちょう",
+          "1524700/毎朝/まいあさ",
+          "1579100/今朝/こんちょう"
+        ],
+        "北": [
+          "1472610/敗北/はいぼく",
+          "1521310/北方/ほっぽう",
+          "1584210/北風/きたかぜ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 129
+}

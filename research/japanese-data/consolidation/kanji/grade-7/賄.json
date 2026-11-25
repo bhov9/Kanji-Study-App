@@ -1,0 +1,868 @@
+{
+  "character": "賄",
+  "grade": 7,
+  "meanings": [
+    "bribe",
+    "board",
+    "supply",
+    "finance"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 154
+    }
+  ],
+  "components": [
+    "ノ",
+    "一",
+    "貝",
+    "目",
+    "ハ",
+    "月"
+  ],
+  "on": [
+    "ワイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "まかな.う",
+      "stem": "まかな",
+      "okurigana": "う"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "賄",
+    "heading": "賄",
+    "readings": [
+      "ワイ",
+      "まかなう"
+    ],
+    "examples_by_reading": [
+      [
+        "収賄",
+        "贈賄"
+      ],
+      [
+        "賄う",
+        "賄い"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "賄",
+      "reading": "ワイ",
+      "source": "table_44_wa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ワイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1330990/収賄/しゅうわい",
+        "1403610/贈賄/ぞうわい",
+        "1562520/賄賂/わいろ",
+        "1403560/贈収賄/ぞうしゅうわい",
+        "2643940/収賄事件/しゅうわいじけん",
+        "1698330/収賄罪/しゅうわいざい",
+        "1771980/贈賄罪/ぞうわいざい",
+        "1697770/受託収賄罪/じゅたくしゅうわいざい",
+        "1988740/斡旋収賄/あっせんしゅうわい",
+        "2864787/賄賂罪/わいろざい"
+      ]
+    },
+    {
+      "reading": "まかなう",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1562490/賄い/まかない",
+        "1885640/需要を賄う/じゅようをまかなう",
+        "1562510/賄う/まかなう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1330990/収賄/しゅうわい",
+    "1403610/贈賄/ぞうわい",
+    "1562490/賄い/まかない",
+    "1562520/賄賂/わいろ",
+    "1403560/贈収賄/ぞうしゅうわい",
+    "2643940/収賄事件/しゅうわいじけん",
+    "1698330/収賄罪/しゅうわいざい",
+    "1771980/贈賄罪/ぞうわいざい",
+    "1885640/需要を賄う/じゅようをまかなう",
+    "1697770/受託収賄罪/じゅたくしゅうわいざい",
+    "1988740/斡旋収賄/あっせんしゅうわい",
+    "2864787/賄賂罪/わいろざい",
+    "1988740/あっせん収賄/あっせんしゅうわい",
+    "1640900/賄い方/まかないかた",
+    "1562500/賄い付き/まかないつき",
+    "2830623/賄い料理/まかないりょうり",
+    "1640900/賄方/まかないかた",
+    "1909250/賄い婦/まかないふ",
+    "1562510/賄う/まかなう",
+    "2513770/賄/まいない"
+  ],
+  "candidates": {
+    "1330990/収賄/しゅうわい": {
+      "id": 1330990,
+      "form": "収賄",
+      "kana": "しゅうわい",
+      "gloss": "accepting a bribe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16474,
+        51509,
+        31791,
+        57415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ワイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1403610/贈賄/ぞうわい": {
+      "id": 1403610,
+      "form": "贈賄",
+      "kana": "ぞうわい",
+      "gloss": "giving a bribe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22045,
+        65459,
+        43420,
+        73370
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "贈": 7
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ワイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1562490/賄い/まかない": {
+      "id": 1562490,
+      "form": "賄い",
+      "kana": "まかない",
+      "gloss": "boarding (someone)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28202,
+        39764,
+        44320
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まかなう": {
+          "actual": "まかな",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "まかなう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1562520/賄賂/わいろ": {
+      "id": 1562520,
+      "form": "賄賂",
+      "kana": "わいろ",
+      "gloss": "bribe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13162,
+        19278,
+        14325,
+        18879
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賂": 7
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1403560/贈収賄/ぞうしゅうわい": {
+      "id": 1403560,
+      "form": "贈収賄",
+      "kana": "ぞうしゅうわい",
+      "gloss": "bribery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31831,
+        59850,
+        46387,
+        70589
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6,
+        "贈": 7
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2643940/収賄事件/しゅうわいじけん": {
+      "id": 2643940,
+      "form": "収賄事件",
+      "kana": "しゅうわいじけん",
+      "gloss": "bribery case",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        129757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6,
+        "事": 3,
+        "件": 5
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1698330/収賄罪/しゅうわいざい": {
+      "id": 1698330,
+      "form": "収賄罪",
+      "kana": "しゅうわいざい",
+      "gloss": "(the crime of) bribery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        132984
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6,
+        "罪": 5
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771980/贈賄罪/ぞうわいざい": {
+      "id": 1771980,
+      "form": "贈賄罪",
+      "kana": "ぞうわいざい",
+      "gloss": "crime of bribery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        183080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "贈": 7,
+        "罪": 5
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1885640/需要を賄う/じゅようをまかなう": {
+      "id": 1885640,
+      "form": "需要を賄う",
+      "kana": "じゅようをまかなう",
+      "gloss": "to meet the demand",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        192960
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "要": 4,
+        "需": 7
+      },
+      "matched": {
+        "まかなう": {
+          "actual": "まかな",
+          "dictionary": [
+            "まかな.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1697770/受託収賄罪/じゅたくしゅうわいざい": {
+      "id": 1697770,
+      "form": "受託収賄罪",
+      "kana": "じゅたくしゅうわいざい",
+      "gloss": "(the crime of) bribery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "受": 3,
+        "託": 7,
+        "罪": 5,
+        "収": 6
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1988740/斡旋収賄/あっせんしゅうわい": {
+      "id": 1988740,
+      "form": "斡旋収賄",
+      "kana": "あっせんしゅうわい",
+      "gloss": "influence peddling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "旋": 7,
+        "収": 6
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864787/賄賂罪/わいろざい": {
+      "id": 2864787,
+      "form": "賄賂罪",
+      "kana": "わいろざい",
+      "gloss": "(crime of) bribery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罪": 5,
+        "賂": 7
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1988740/あっせん収賄/あっせんしゅうわい": {
+      "id": 1988740,
+      "form": "あっせん収賄",
+      "kana": "あっせんしゅうわい",
+      "gloss": "influence peddling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "収": 6
+      },
+      "matched": {
+        "ワイ": {
+          "actual": "わい",
+          "dictionary": [
+            "ワイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1640900/賄い方/まかないかた": {
+      "id": 1640900,
+      "form": "賄い方",
+      "kana": "まかないかた",
+      "gloss": "kitchen manager",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        180770
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1562500/賄い付き/まかないつき": {
+      "id": 1562500,
+      "form": "賄い付き",
+      "kana": "まかないつき",
+      "gloss": "with meals",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        152308
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2830623/賄い料理/まかないりょうり": {
+      "id": 2830623,
+      "form": "賄い料理",
+      "kana": "まかないりょうり",
+      "gloss": "meals prepared for employees (e.g. of a restaurant)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        157592
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4,
+        "理": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1640900/賄方/まかないかた": {
+      "id": 1640900,
+      "form": "賄方",
+      "kana": "まかないかた",
+      "gloss": "kitchen manager",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        188764
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1909250/賄い婦/まかないふ": {
+      "id": 1909250,
+      "form": "賄い婦",
+      "kana": "まかないふ",
+      "gloss": "female cook",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        213216
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婦": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1562510/賄う/まかなう": {
+      "id": 1562510,
+      "form": "賄う",
+      "kana": "まかなう",
+      "gloss": "to supply (goods, money, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        15521,
+        10407,
+        30980,
+        19592
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "まかなう": {
+          "actual": "まかな",
+          "dictionary": [
+            "まかな.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "まかなう"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2513770/賄/まいない": {
+      "id": 2513770,
+      "form": "賄",
+      "kana": "まいない",
+      "gloss": "bribe",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch",
+        "dated"
+      ],
+      "ranks": [
+        40629,
+        null,
+        108425,
+        99477
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1330990:収賄:しゅうわい",
+      "form": "収賄",
+      "kana": "しゅうわい",
+      "cue": "accepting a bribe",
+      "ids": [
+        1330990
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 57415,
+        "shiberu": 16474,
+        "tubelex": 51509,
+        "wordfreq": 31791
+      },
+      "alternatives_by_kanji": {
+        "収": [
+          "1330790/収入/しゅうにゅう",
+          "1199470/回収/かいしゅう",
+          "1589090/収める/おさめる"
+        ],
+        "賄": [
+          "1403610/贈賄/ぞうわい",
+          "1562490/賄い/まかない",
+          "1562520/賄賂/わいろ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1562520:賄賂:わいろ",
+      "form": "賄賂",
+      "kana": "わいろ",
+      "cue": "bribe; sweetener",
+      "ids": [
+        1562520
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18879,
+        "shiberu": 13162,
+        "tubelex": 19278,
+        "wordfreq": 14325
+      },
+      "alternatives_by_kanji": {
+        "賂": [
+          "2864787/賄賂罪/わいろざい",
+          "2513770/賂い/まいない",
+          "2832562/貨賂/かろ"
+        ],
+        "賄": [
+          "1330990/収賄/しゅうわい",
+          "1403610/贈賄/ぞうわい",
+          "1562490/賄い/まかない"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

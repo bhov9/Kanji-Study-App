@@ -1,0 +1,781 @@
+{
+  "character": "帥",
+  "grade": 7,
+  "meanings": [
+    "commander",
+    "leading troops",
+    "governor"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 50
+    },
+    {
+      "type": "nelson_c",
+      "value": 2
+    }
+  ],
+  "components": [
+    "｜",
+    "巾",
+    "口"
+  ],
+  "on": [
+    "スイ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "帥",
+    "heading": "帥",
+    "readings": [
+      "スイ"
+    ],
+    "examples_by_reading": [
+      [
+        "統帥",
+        "元帥"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "帥",
+      "reading": "スイ",
+      "source": "table_13_su.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "スイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1260890/元帥/げんすい",
+        "1449810/統帥/とうすい",
+        "1401650/総帥/そうすい",
+        "1785290/大元帥/だいげんすい",
+        "1660510/将帥/しょうすい",
+        "1770510/統帥権/とうすいけん",
+        "1260900/元帥府/げんすいふ",
+        "2138090/志帥会/しすいかい",
+        "2586030/渠帥/きょすい",
+        "2836154/マ元帥/マげんすい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1260890/元帥/げんすい",
+    "1449810/統帥/とうすい",
+    "1401650/総帥/そうすい",
+    "1785290/大元帥/だいげんすい",
+    "1660510/将帥/しょうすい",
+    "1770510/統帥権/とうすいけん",
+    "1260900/元帥府/げんすいふ",
+    "2138090/志帥会/しすいかい",
+    "2586030/渠帥/きょすい",
+    "2836154/マ元帥/マげんすい",
+    "2266080/大元帥明王/だいげんすいみょうおう",
+    "2586030/巨帥/きょすい",
+    "1580790/帥/そち",
+    "1580790/帥/そつ",
+    "2266080/大元帥明王/たいげんみょうおう",
+    "2829335/大宰帥/だざいのそつ",
+    "2829335/大宰帥/だざいのそち",
+    "2829335/大宰帥/おおみこともちのかみ",
+    "2655820/梟帥/たける",
+    "1596560/帥先/そっせん"
+  ],
+  "candidates": {
+    "1260890/元帥/げんすい": {
+      "id": 1260890,
+      "form": "元帥",
+      "kana": "げんすい",
+      "gloss": "(field) marshal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22843,
+        27319,
+        14325,
+        43580
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "スイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1449810/統帥/とうすい": {
+      "id": 1449810,
+      "form": "統帥",
+      "kana": "とうすい",
+      "gloss": "supreme command",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32374,
+        48827,
+        71447,
+        103927
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "統": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "スイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1401650/総帥/そうすい": {
+      "id": 1401650,
+      "form": "総帥",
+      "kana": "そうすい",
+      "gloss": "commander-in-chief",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15824,
+        44489,
+        24433,
+        34130
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "総": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1785290/大元帥/だいげんすい": {
+      "id": 1785290,
+      "form": "大元帥",
+      "kana": "だいげんすい",
+      "gloss": "commander-in-chief",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        98142,
+        87292
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2,
+        "大": 1
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1660510/将帥/しょうすい": {
+      "id": 1660510,
+      "form": "将帥",
+      "kana": "しょうすい",
+      "gloss": "commander",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        102704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1770510/統帥権/とうすいけん": {
+      "id": 1770510,
+      "form": "統帥権",
+      "kana": "とうすいけん",
+      "gloss": "supreme command authority (of the emperor)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        117776
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "統": 5,
+        "権": 6
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1260900/元帥府/げんすいふ": {
+      "id": 1260900,
+      "form": "元帥府",
+      "kana": "げんすいふ",
+      "gloss": "Supreme Military Council (1898-1945)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        171220
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2,
+        "府": 4
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2138090/志帥会/しすいかい": {
+      "id": 2138090,
+      "form": "志帥会",
+      "kana": "しすいかい",
+      "gloss": "Shisuikai (faction of the Liberal Democratic Party)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        385535
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "志": 5
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2586030/渠帥/きょすい": {
+      "id": 2586030,
+      "form": "渠帥",
+      "kana": "きょすい",
+      "gloss": "chief of bandits",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        387881
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2836154/マ元帥/マげんすい": {
+      "id": 2836154,
+      "form": "マ元帥",
+      "kana": "マげんすい",
+      "gloss": "General Douglas MacArthur",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2266080/大元帥明王/だいげんすいみょうおう": {
+      "id": 2266080,
+      "form": "大元帥明王",
+      "kana": "だいげんすいみょうおう",
+      "gloss": "Atavaka (guardian deity)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "元": 2,
+        "王": 1,
+        "明": 2,
+        "大": 1
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2586030/巨帥/きょすい": {
+      "id": 2586030,
+      "form": "巨帥",
+      "kana": "きょすい",
+      "gloss": "chief of bandits",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "巨": 7
+      },
+      "matched": {
+        "スイ": {
+          "actual": "すい",
+          "dictionary": [
+            "スイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1580790/帥/そち": {
+      "id": 1580790,
+      "form": "帥",
+      "kana": "そち",
+      "gloss": "director of the Dazaifu",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33776,
+        45405,
+        43420,
+        89661
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1580790/帥/そつ": {
+      "id": 1580790,
+      "form": "帥",
+      "kana": "そつ",
+      "gloss": "director of the Dazaifu",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33776,
+        45405,
+        43420,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2266080/大元帥明王/たいげんみょうおう": {
+      "id": 2266080,
+      "form": "大元帥明王",
+      "kana": "たいげんみょうおう",
+      "gloss": "Atavaka (guardian deity)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        280392
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2,
+        "王": 1,
+        "明": 2,
+        "大": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2829335/大宰帥/だざいのそつ": {
+      "id": 2829335,
+      "form": "大宰帥",
+      "kana": "だざいのそつ",
+      "gloss": "director of the dazaifu (ritsuryō system)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "宰": 7,
+        "大": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2829335/大宰帥/だざいのそち": {
+      "id": 2829335,
+      "form": "大宰帥",
+      "kana": "だざいのそち",
+      "gloss": "director of the dazaifu (ritsuryō system)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "宰": 7,
+        "大": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2829335/大宰帥/おおみこともちのかみ": {
+      "id": 2829335,
+      "form": "大宰帥",
+      "kana": "おおみこともちのかみ",
+      "gloss": "director of the dazaifu (ritsuryō system)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "宰": 7,
+        "大": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2655820/梟帥/たける": {
+      "id": 2655820,
+      "form": "梟帥",
+      "kana": "たける",
+      "gloss": "leader of a powerful tribe",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1596560/帥先/そっせん": {
+      "id": 1596560,
+      "form": "帥先",
+      "kana": "そっせん",
+      "gloss": "taking the initiative",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "先": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1260890:元帥:げんすい",
+      "form": "元帥",
+      "kana": "げんすい",
+      "cue": "(field) marshal; (fleet) admiral",
+      "ids": [
+        1260890
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 43580,
+        "shiberu": 22843,
+        "tubelex": 27319,
+        "wordfreq": 14325
+      },
+      "alternatives_by_kanji": {
+        "元": [
+          "1260720/元気/げんき",
+          "1261080/元来/がんらい",
+          "1260940/元祖/がんそ"
+        ],
+        "帥": [
+          "1449810/統帥/とうすい",
+          "1401650/総帥/そうすい",
+          "1785290/大元帥/だいげんすい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

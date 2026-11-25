@@ -1,0 +1,1701 @@
+{
+  "character": "店",
+  "grade": 2,
+  "meanings": [
+    "store",
+    "shop"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 53
+    }
+  ],
+  "components": [
+    "口",
+    "卜",
+    "广"
+  ],
+  "on": [
+    "テン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "みせ",
+      "stem": "みせ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "たな",
+      "stem": "たな",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "店",
+    "heading": "店",
+    "readings": [
+      "テン",
+      "みせ"
+    ],
+    "examples_by_reading": [
+      [
+        "店舗",
+        "開店",
+        "本店"
+      ],
+      [
+        "店",
+        "夜店"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "店",
+      "reading": "テン",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 225,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1440800/店舗/てんぽ",
+        "1202870/開店/かいてん",
+        "1523020/本店/ほんてん",
+        "1523020/本店/ほんだな",
+        "1582125/店/てん",
+        "1440670/店員/てんいん",
+        "1347180/商店/しょうてん",
+        "1344120/書店/しょてん",
+        "1440730/店長/てんちょう",
+        "1440780/店内/てんない"
+      ]
+    },
+    {
+      "reading": "みせ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 29,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1606030/夜店/よみせ",
+        "1582120/店/みせ",
+        "1440720/店先/みせさき",
+        "1440790/店番/みせばん",
+        "2846656/新店/しんみせ",
+        "1804560/店構え/みせがまえ",
+        "1910260/店屋/みせや",
+        "1853860/小店/こみせ",
+        "1440690/店仕舞い/みせじまい",
+        "2612350/中店/ちゅうみせ"
+      ]
+    },
+    {
+      "reading": "たな",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2409230/店/たな",
+        "1440700/店子/たなこ",
+        "1440700/店子/たなご",
+        "1804550/店賃/たなちん",
+        "1440680/店晒し/たなざらし",
+        "2842665/お店者/おたなもの",
+        "1440680/店ざらし/たなざらし",
+        "2409240/お店/おたな",
+        "2581370/店立/たなだて",
+        "1804540/店借り/たながり"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1440800/店舗/てんぽ",
+    "1202870/開店/かいてん",
+    "1523020/本店/ほんてん",
+    "1606030/夜店/よみせ",
+    "1523020/本店/ほんだな",
+    "1582120/店/みせ",
+    "1582125/店/てん",
+    "2409230/店/たな",
+    "1440670/店員/てんいん",
+    "1347180/商店/しょうてん",
+    "1344120/書店/しょてん",
+    "1440730/店長/てんちょう",
+    "1440780/店内/てんない",
+    "1310230/支店/してん",
+    "1440740/店頭/てんとう",
+    "1508720/閉店/へいてん",
+    "1440710/店主/てんしゅ",
+    "1548170/来店/らいてん",
+    "1474040/売店/ばいてん",
+    "1560190/露店/ろてん",
+    "2656450/店名/てんめい",
+    "1440720/店先/みせさき",
+    "1482050/飯店/はんてん",
+    "1440790/店番/みせばん",
+    "2846656/新店/しんみせ",
+    "1453160/同店/どうてん",
+    "1804560/店構え/みせがまえ",
+    "1440700/店子/たなこ",
+    "1853860/小店/しょうてん",
+    "1449200/当店/とうてん"
+  ],
+  "candidates": {
+    "1440800/店舗/てんぽ": {
+      "id": 1440800,
+      "form": "店舗",
+      "kana": "てんぽ",
+      "gloss": "shop",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9399,
+        2006,
+        1504,
+        9442
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "舗": 7
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [
+        "テン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1202870/開店/かいてん": {
+      "id": 1202870,
+      "form": "開店",
+      "kana": "かいてん",
+      "gloss": "opening a new shop",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4493,
+        10313,
+        7753,
+        10271
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "開": 3
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [
+        "テン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1523020/本店/ほんてん": {
+      "id": 1523020,
+      "form": "本店",
+      "kana": "ほんてん",
+      "gloss": "head office",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10774,
+        9000,
+        6169,
+        29444
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [
+        "テン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1606030/夜店/よみせ": {
+      "id": 1606030,
+      "form": "夜店",
+      "kana": "よみせ",
+      "gloss": "night stall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25838,
+        52268,
+        61736,
+        41456
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "夜": 2
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [
+        "みせ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1523020/本店/ほんだな": {
+      "id": 1523020,
+      "form": "本店",
+      "kana": "ほんだな",
+      "gloss": "head office",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10774,
+        9000,
+        6169,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "テン": {
+          "actual": "だな",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "テン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1582120/店/みせ": {
+      "id": 1582120,
+      "form": "店",
+      "kana": "みせ",
+      "gloss": "store",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        666
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [
+        "みせ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1582125/店/てん": {
+      "id": 1582125,
+      "form": "店",
+      "kana": "てん",
+      "gloss": "store",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5730
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [
+        "みせ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2409230/店/たな": {
+      "id": 2409230,
+      "form": "店",
+      "kana": "たな",
+      "gloss": "merchant's home",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [
+        "みせ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1440670/店員/てんいん": {
+      "id": 1440670,
+      "form": "店員",
+      "kana": "てんいん",
+      "gloss": "employee (of a store)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4518,
+        3842,
+        3232,
+        3606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "員": 3
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1347180/商店/しょうてん": {
+      "id": 1347180,
+      "form": "商店",
+      "kana": "しょうてん",
+      "gloss": "shop",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4200,
+        4187,
+        4955,
+        14183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "商": 3
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1344120/書店/しょてん": {
+      "id": 1344120,
+      "form": "書店",
+      "kana": "しょてん",
+      "gloss": "bookshop",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4895,
+        10271,
+        4117,
+        11382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1440730/店長/てんちょう": {
+      "id": 1440730,
+      "form": "店長",
+      "kana": "てんちょう",
+      "gloss": "shop manager",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13098,
+        4848,
+        5679,
+        5607
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1440780/店内/てんない": {
+      "id": 1440780,
+      "form": "店内",
+      "kana": "てんない",
+      "gloss": "inside of a store (restaurant, café, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        8954,
+        5137,
+        7146,
+        4843
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1310230/支店/してん": {
+      "id": 1310230,
+      "form": "支店",
+      "kana": "してん",
+      "gloss": "branch office",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5094,
+        10629,
+        6675,
+        21075
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "支": 5
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1440740/店頭/てんとう": {
+      "id": 1440740,
+      "form": "店頭",
+      "kana": "てんとう",
+      "gloss": "shopfront",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5803,
+        8460,
+        7013,
+        20149
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頭": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1508720/閉店/へいてん": {
+      "id": 1508720,
+      "form": "閉店",
+      "kana": "へいてん",
+      "gloss": "closing up shop (for the day)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6354,
+        10327,
+        6894,
+        10980
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閉": 6
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1440710/店主/てんしゅ": {
+      "id": 1440710,
+      "form": "店主",
+      "kana": "てんしゅ",
+      "gloss": "shopkeeper",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10486,
+        8836,
+        9888,
+        7895
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1548170/来店/らいてん": {
+      "id": 1548170,
+      "form": "来店",
+      "kana": "らいてん",
+      "gloss": "coming to a store (restaurant, bar, shop, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22318,
+        9315,
+        6675,
+        25590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1474040/売店/ばいてん": {
+      "id": 1474040,
+      "form": "売店",
+      "kana": "ばいてん",
+      "gloss": "stand",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11573,
+        11647,
+        17976,
+        14045
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "売": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1560190/露店/ろてん": {
+      "id": 1560190,
+      "form": "露店",
+      "kana": "ろてん",
+      "gloss": "street stall",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12391,
+        28340,
+        34111,
+        17465
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "露": 7
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2656450/店名/てんめい": {
+      "id": 2656450,
+      "form": "店名",
+      "kana": "てんめい",
+      "gloss": "store name",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23733,
+        18312,
+        19596,
+        26468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1440720/店先/みせさき": {
+      "id": 1440720,
+      "form": "店先",
+      "kana": "みせさき",
+      "gloss": "storefront",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20734,
+        29352,
+        43883,
+        15384
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "先": 1
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482050/飯店/はんてん": {
+      "id": 1482050,
+      "form": "飯店",
+      "kana": "はんてん",
+      "gloss": "Chinese restaurant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29472,
+        38312,
+        26068,
+        63984
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1440790/店番/みせばん": {
+      "id": 1440790,
+      "form": "店番",
+      "kana": "みせばん",
+      "gloss": "tending a store",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        40335,
+        39641,
+        38431,
+        17537
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "番": 2
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846656/新店/しんみせ": {
+      "id": 2846656,
+      "form": "新店",
+      "kana": "しんみせ",
+      "gloss": "new store",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34428,
+        28907,
+        41605,
+        105803
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1453160/同店/どうてん": {
+      "id": 1453160,
+      "form": "同店",
+      "kana": "どうてん",
+      "gloss": "the same store",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33754,
+        40322,
+        31382,
+        141178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1804560/店構え/みせがまえ": {
+      "id": 1804560,
+      "form": "店構え",
+      "kana": "みせがまえ",
+      "gloss": "store's appearance (esp. shop front, signs, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33063,
+        49441,
+        84816,
+        36969
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "構": 5
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1440700/店子/たなこ": {
+      "id": 1440700,
+      "form": "店子",
+      "kana": "たなこ",
+      "gloss": "tenant (esp. in contrast to a landlord)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29505,
+        75655,
+        85597,
+        70343
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1853860/小店/しょうてん": {
+      "id": 1853860,
+      "form": "小店",
+      "kana": "しょうてん",
+      "gloss": "little shop",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39499,
+        139593,
+        154467,
+        118131
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449200/当店/とうてん": {
+      "id": 1449200,
+      "form": "当店",
+      "kana": "とうてん",
+      "gloss": "this store",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        11539,
+        8743,
+        16872
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1910260/店屋/みせや": {
+      "id": 1910260,
+      "form": "店屋",
+      "kana": "みせや",
+      "gloss": "store",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31039,
+        77181,
+        60658
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1853860/小店/こみせ": {
+      "id": 1853860,
+      "form": "小店",
+      "kana": "こみせ",
+      "gloss": "little shop",
+      "senses": [
+        0,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39499,
+        139593,
+        154467,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1440690/店仕舞い/みせじまい": {
+      "id": 1440690,
+      "form": "店仕舞い",
+      "kana": "みせじまい",
+      "gloss": "closing up shop (for the day)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        132292,
+        63261
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仕": 3,
+        "舞": 7
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2612350/中店/ちゅうみせ": {
+      "id": 2612350,
+      "form": "中店",
+      "kana": "ちゅうみせ",
+      "gloss": "mid-sized store",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        185634,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "みせ": {
+          "actual": "みせ",
+          "dictionary": [
+            "みせ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1440700/店子/たなご": {
+      "id": 1440700,
+      "form": "店子",
+      "kana": "たなご",
+      "gloss": "tenant (esp. in contrast to a landlord)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29505,
+        75655,
+        85597,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1804550/店賃/たなちん": {
+      "id": 1804550,
+      "form": "店賃",
+      "kana": "たなちん",
+      "gloss": "house rent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        104934
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賃": 6
+      },
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1440680/店晒し/たなざらし": {
+      "id": 1440680,
+      "form": "店晒し",
+      "kana": "たなざらし",
+      "gloss": "shopworn goods",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842665/お店者/おたなもの": {
+      "id": 2842665,
+      "form": "お店者",
+      "kana": "おたなもの",
+      "gloss": "merchant house employee",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        160501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1440680/店ざらし/たなざらし": {
+      "id": 1440680,
+      "form": "店ざらし",
+      "kana": "たなざらし",
+      "gloss": "shopworn goods",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        227852
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2409240/お店/おたな": {
+      "id": 2409240,
+      "form": "お店",
+      "kana": "おたな",
+      "gloss": "merchant's home (esp. used by apprentices, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252796
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2581370/店立/たなだて": {
+      "id": 2581370,
+      "form": "店立",
+      "kana": "たなだて",
+      "gloss": "eviction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1804540/店借り/たながり": {
+      "id": 1804540,
+      "form": "店借り",
+      "kana": "たながり",
+      "gloss": "tenancy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "借": 4
+      },
+      "matched": {
+        "たな": {
+          "actual": "たな",
+          "dictionary": [
+            "たな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1344120:書店:しょてん",
+      "form": "書店",
+      "kana": "しょてん",
+      "cue": "bookshop; bookstore",
+      "ids": [
+        1344120
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 11382,
+        "shiberu": 4895,
+        "tubelex": 10271,
+        "wordfreq": 4117
+      },
+      "alternatives_by_kanji": {
+        "書": [
+          "1343950/書く/かく",
+          "1344090/書籍/しょせき",
+          "1456420/読書/どくしょ"
+        ],
+        "店": [
+          "1440800/店舗/てんぽ",
+          "1202870/開店/かいてん",
+          "1523020/本店/ほんてん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1440800:店舗:てんぽ",
+      "form": "店舗",
+      "kana": "てんぽ",
+      "cue": "shop; store",
+      "ids": [
+        1440800
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9442,
+        "shiberu": 9399,
+        "tubelex": 2006,
+        "wordfreq": 1504
+      },
+      "alternatives_by_kanji": {
+        "店": [
+          "1202870/開店/かいてん",
+          "1523020/本店/ほんてん",
+          "1606030/夜店/よみせ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 21
+}

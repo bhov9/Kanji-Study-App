@@ -1,0 +1,1648 @@
+{
+  "character": "雨",
+  "grade": 1,
+  "meanings": [
+    "rain"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 173
+    }
+  ],
+  "components": [
+    "雨"
+  ],
+  "on": [
+    "ウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あめ",
+      "stem": "あめ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "あま-",
+      "stem": "あま-",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "-さめ",
+      "stem": "-さめ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "雨",
+    "heading": "雨",
+    "readings": [
+      "ウ",
+      "あめ",
+      "あま"
+    ],
+    "examples_by_reading": [
+      [
+        "雨量",
+        "降雨",
+        "梅雨"
+      ],
+      [
+        "雨",
+        "大雨"
+      ],
+      [
+        "雨雲",
+        "雨戸",
+        "雨具"
+      ]
+    ],
+    "note_lines": [
+      "五月雨（さみだれ）",
+      "時雨（しぐれ）",
+      "梅雨（つゆ）",
+      "「春雨」，「小雨」，「霧雨」などは，「はるさめ」，「こさめ」，「きりさめ」。"
+    ],
+    "representative_index": {
+      "kanji": "雨",
+      "reading": "ウ",
+      "source": "table_03_u.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "五月雨"
+      ],
+      "reading": "さみだれ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "時雨"
+      ],
+      "reading": "しぐれ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "梅雨"
+      ],
+      "reading": "つゆ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 93,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1282810/降雨/こうう",
+        "1172140/雨量/うりょう",
+        "1582960/梅雨/ばいう",
+        "1413070/大雨/たいう",
+        "1285490/豪雨/ごうう",
+        "1548420/雷雨/らいう",
+        "1172100/雨天/うてん",
+        "1950260/雨林/うりん",
+        "1499740/風雨/ふうう",
+        "1816210/雨後/うご"
+      ]
+    },
+    {
+      "reading": "あめ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 57,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1171900/雨/あめ",
+        "1413070/大雨/おおあめ",
+        "1586680/雨上がり/あめあがり",
+        "1586690/雨降り/あめふり",
+        "1663910/雨風/あめかぜ",
+        "1161120/一雨/ひとあめ",
+        "1432960/通り雨/とおりあめ",
+        "1797640/長雨/ながあめ",
+        "1347810/小雨/こあめ",
+        "1578560/五月雨/さつきあめ"
+      ]
+    },
+    {
+      "reading": "あま",
+      "official": true,
+      "stage": "elementary",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 47,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1171910/雨雲/あまぐも",
+        "1171970/雨戸/あまど",
+        "1171940/雨具/あまぐ",
+        "1576440/雨水/あまみず",
+        "1172160/雨漏り/あまもり",
+        "1172040/雨宿り/あまやどり",
+        "1576430/雨脚/あまあし",
+        "1586610/雨傘/あまがさ",
+        "1586680/雨上がり/あまあがり",
+        "1663910/雨風/あまかぜ"
+      ]
+    },
+    {
+      "reading": "さめ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1347810/小雨/こさめ",
+        "1580180/春雨/はるさめ",
+        "1531120/霧雨/きりさめ",
+        "1332670/秋雨/あきさめ",
+        "1488860/氷雨/ひさめ",
+        "1734060/秋雨前線/あきさめぜんせん",
+        "1536430/夜雨/よさめ",
+        "1399010/叢雨/むらさめ",
+        "1399010/群雨/むらさめ",
+        "2006100/樹雨/きさめ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1171900/雨/あめ",
+    "1413070/大雨/おおあめ",
+    "1171910/雨雲/あまぐも",
+    "1282810/降雨/こうう",
+    "1172140/雨量/うりょう",
+    "1171970/雨戸/あまど",
+    "1171940/雨具/あまぐ",
+    "1582960/梅雨/ばいう",
+    "1413070/大雨/たいう",
+    "1285490/豪雨/ごうう",
+    "1347810/小雨/こさめ",
+    "1576440/雨水/あまみず",
+    "1548420/雷雨/らいう",
+    "1172100/雨天/うてん",
+    "1950260/雨林/うりん",
+    "1586680/雨上がり/あめあがり",
+    "1172160/雨漏り/あまもり",
+    "1586690/雨降り/あめふり",
+    "1580180/春雨/はるさめ",
+    "1499740/風雨/ふうう",
+    "1663910/雨風/あめかぜ",
+    "1172040/雨宿り/あまやどり",
+    "1531120/霧雨/きりさめ",
+    "1576430/雨脚/あまあし",
+    "1161120/一雨/ひとあめ",
+    "1586610/雨傘/あまがさ",
+    "1432960/通り雨/とおりあめ",
+    "1816210/雨後/うご",
+    "1332670/秋雨/あきさめ",
+    "1797640/長雨/ながあめ"
+  ],
+  "candidates": {
+    "1171900/雨/あめ": {
+      "id": 1171900,
+      "form": "雨",
+      "kana": "あめ",
+      "gloss": "rain",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        326,
+        866,
+        1180,
+        1223
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あめ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1413070/大雨/おおあめ": {
+      "id": 1413070,
+      "form": "大雨",
+      "kana": "おおあめ",
+      "gloss": "heavy rain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6981,
+        7772,
+        7635,
+        15486
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あめ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1171910/雨雲/あまぐも": {
+      "id": 1171910,
+      "form": "雨雲",
+      "kana": "あまぐも",
+      "gloss": "rain cloud",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18290,
+        16722,
+        33270,
+        22982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雲": 2
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [
+        "あま"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1282810/降雨/こうう": {
+      "id": 1282810,
+      "form": "降雨",
+      "kana": "こうう",
+      "gloss": "rainfall",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13544,
+        40691,
+        22895,
+        75065
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "降": 6
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1172140/雨量/うりょう": {
+      "id": 1172140,
+      "form": "雨量",
+      "kana": "うりょう",
+      "gloss": "(amount of) rainfall",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13765,
+        34763,
+        27689,
+        69272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1171970/雨戸/あまど": {
+      "id": 1171970,
+      "form": "雨戸",
+      "kana": "あまど",
+      "gloss": "sliding storm shutter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14235,
+        25023,
+        45882,
+        36645
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戸": 2
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [
+        "あま"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1171940/雨具/あまぐ": {
+      "id": 1171940,
+      "form": "雨具",
+      "kana": "あまぐ",
+      "gloss": "rain gear",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24014,
+        40691,
+        55378,
+        59884
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "具": 3
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [
+        "あま"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1582960/梅雨/ばいう": {
+      "id": 1582960,
+      "form": "梅雨",
+      "kana": "ばいう",
+      "gloss": "(East Asian) rainy season (in Japan, usu. from early June to mid-July)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4625,
+        8319,
+        10860,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "梅": 4
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1413070/大雨/たいう": {
+      "id": 1413070,
+      "form": "大雨",
+      "kana": "たいう",
+      "gloss": "heavy rain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6981,
+        7772,
+        7635,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あめ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1285490/豪雨/ごうう": {
+      "id": 1285490,
+      "form": "豪雨",
+      "kana": "ごうう",
+      "gloss": "torrential rain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5930,
+        8706,
+        8031,
+        22624
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "豪": 7
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1347810/小雨/こさめ": {
+      "id": 1347810,
+      "form": "小雨",
+      "kana": "こさめ",
+      "gloss": "light rain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8649,
+        21588,
+        27689,
+        27427
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1576440/雨水/あまみず": {
+      "id": 1576440,
+      "form": "雨水",
+      "kana": "あまみず",
+      "gloss": "rain water",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12894,
+        14461,
+        22895,
+        26160
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1548420/雷雨/らいう": {
+      "id": 1548420,
+      "form": "雷雨",
+      "kana": "らいう",
+      "gloss": "thunderstorm",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8988,
+        30504,
+        27344,
+        39544
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雷": 7
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1172100/雨天/うてん": {
+      "id": 1172100,
+      "form": "雨天",
+      "kana": "うてん",
+      "gloss": "rainy weather",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12240,
+        30335,
+        20890,
+        52000
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "天": 1
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1950260/雨林/うりん": {
+      "id": 1950260,
+      "form": "雨林",
+      "kana": "うりん",
+      "gloss": "rainforest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10655,
+        38931,
+        29477,
+        159259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "林": 1
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586680/雨上がり/あめあがり": {
+      "id": 1586680,
+      "form": "雨上がり",
+      "kana": "あめあがり",
+      "gloss": "after the rain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19248,
+        26925,
+        24433,
+        31307
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1172160/雨漏り/あまもり": {
+      "id": 1172160,
+      "form": "雨漏り",
+      "kana": "あまもり",
+      "gloss": "roof leak",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        23314,
+        18521,
+        30216,
+        33003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "漏": 7
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586690/雨降り/あめふり": {
+      "id": 1586690,
+      "form": "雨降り",
+      "kana": "あめふり",
+      "gloss": "rainfall",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13520,
+        30862,
+        42493,
+        47151
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "降": 6
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1580180/春雨/はるさめ": {
+      "id": 1580180,
+      "form": "春雨",
+      "kana": "はるさめ",
+      "gloss": "gentle spring rain",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22307,
+        24703,
+        26068,
+        52525
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "春": 2
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1499740/風雨/ふうう": {
+      "id": 1499740,
+      "form": "風雨",
+      "kana": "ふうう",
+      "gloss": "wind and rain",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16928,
+        38931,
+        35760,
+        29329
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663910/雨風/あめかぜ": {
+      "id": 1663910,
+      "form": "雨風",
+      "kana": "あめかぜ",
+      "gloss": "rain and wind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24016,
+        26144,
+        32548,
+        26557
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1172040/雨宿り/あまやどり": {
+      "id": 1172040,
+      "form": "雨宿り",
+      "kana": "あまやどり",
+      "gloss": "taking shelter from rain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        32027,
+        26254,
+        43420,
+        18914
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宿": 3
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1531120/霧雨/きりさめ": {
+      "id": 1531120,
+      "form": "霧雨",
+      "kana": "きりさめ",
+      "gloss": "drizzle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30591,
+        30862,
+        44849,
+        44622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "霧": 7
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1576430/雨脚/あまあし": {
+      "id": 1576430,
+      "form": "雨脚",
+      "kana": "あまあし",
+      "gloss": "rain intensity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17819,
+        52268,
+        88001,
+        43045
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脚": 7
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1161120/一雨/ひとあめ": {
+      "id": 1161120,
+      "form": "一雨",
+      "kana": "ひとあめ",
+      "gloss": "shower",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15780,
+        70964,
+        122877,
+        47811
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586610/雨傘/あまがさ": {
+      "id": 1586610,
+      "form": "雨傘",
+      "kana": "あまがさ",
+      "gloss": "umbrella",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24815,
+        51509,
+        40664,
+        76003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "傘": 7
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1432960/通り雨/とおりあめ": {
+      "id": 1432960,
+      "form": "通り雨",
+      "kana": "とおりあめ",
+      "gloss": "shower",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24931,
+        48827,
+        63618,
+        39583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816210/雨後/うご": {
+      "id": 1816210,
+      "form": "雨後",
+      "kana": "うご",
+      "gloss": "after rain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        21335,
+        53857,
+        62361,
+        105333
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "ウ": {
+          "actual": "う",
+          "dictionary": [
+            "ウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332670/秋雨/あきさめ": {
+      "id": 1332670,
+      "form": "秋雨",
+      "kana": "あきさめ",
+      "gloss": "autumn rain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24836,
+        61110,
+        63618,
+        84231
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秋": 2
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1797640/長雨/ながあめ": {
+      "id": 1797640,
+      "form": "長雨",
+      "kana": "ながあめ",
+      "gloss": "long spell of rain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39978,
+        44010,
+        57069,
+        51510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1347810/小雨/こあめ": {
+      "id": 1347810,
+      "form": "小雨",
+      "kana": "こあめ",
+      "gloss": "light rain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8649,
+        21588,
+        27689,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1578560/五月雨/さつきあめ": {
+      "id": 1578560,
+      "form": "五月雨",
+      "kana": "さつきあめ",
+      "gloss": "early-summer rain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17338,
+        27831,
+        32548,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "月": 1,
+        "五": 1
+      },
+      "matched": {
+        "あめ": {
+          "actual": "あめ",
+          "dictionary": [
+            "あめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1586680/雨上がり/あまあがり": {
+      "id": 1586680,
+      "form": "雨上がり",
+      "kana": "あまあがり",
+      "gloss": "after the rain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19248,
+        26925,
+        24433,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663910/雨風/あまかぜ": {
+      "id": 1663910,
+      "form": "雨風",
+      "kana": "あまかぜ",
+      "gloss": "rain and wind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24016,
+        26144,
+        32548,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "あま": {
+          "actual": "あま",
+          "dictionary": [
+            "あま-"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1488860/氷雨/ひさめ": {
+      "id": 1488860,
+      "form": "氷雨",
+      "kana": "ひさめ",
+      "gloss": "hail",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        75713,
+        71863
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "氷": 3
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1734060/秋雨前線/あきさめぜんせん": {
+      "id": 1734060,
+      "form": "秋雨前線",
+      "kana": "あきさめぜんせん",
+      "gloss": "autumn rain front",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        66810,
+        157696
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2,
+        "秋": 2,
+        "線": 2
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1536430/夜雨/よさめ": {
+      "id": 1536430,
+      "form": "夜雨",
+      "kana": "よさめ",
+      "gloss": "night rain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "夜": 2
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1399010/叢雨/むらさめ": {
+      "id": 1399010,
+      "form": "叢雨",
+      "kana": "むらさめ",
+      "gloss": "passing shower",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        171444
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1399010/群雨/むらさめ": {
+      "id": 1399010,
+      "form": "群雨",
+      "kana": "むらさめ",
+      "gloss": "passing shower",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "群": 4
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2006100/樹雨/きさめ": {
+      "id": 2006100,
+      "form": "樹雨",
+      "kana": "きさめ",
+      "gloss": "precipitation resulting from thick fog condensing on leaves in a forest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "樹": 6
+      },
+      "matched": {
+        "さめ": {
+          "actual": "さめ",
+          "dictionary": [
+            "-さめ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1171900:雨:あめ",
+      "form": "雨",
+      "kana": "あめ",
+      "cue": "rain",
+      "ids": [
+        1171900
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 1223,
+        "shiberu": 326,
+        "tubelex": 866,
+        "wordfreq": 1180
+      }
+    }
+  ],
+  "unassigned_form_count": 53
+}

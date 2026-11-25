@@ -1,0 +1,589 @@
+{
+  "character": "眺",
+  "grade": 7,
+  "meanings": [
+    "stare",
+    "watch",
+    "look at",
+    "see",
+    "scrutinize"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 109
+    }
+  ],
+  "components": [
+    "目",
+    "儿",
+    "冫"
+  ],
+  "on": [
+    "チョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "なが.める",
+      "stem": "なが",
+      "okurigana": "める"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "眺",
+    "heading": "眺",
+    "readings": [
+      "チョウ",
+      "ながめる"
+    ],
+    "examples_by_reading": [
+      [
+        "眺望"
+      ],
+      [
+        "眺める",
+        "眺め"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "眺",
+      "reading": "チョウ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チョウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1428840/眺望/ちょうぼう",
+        "1808520/眺望権/ちょうぼうけん"
+      ]
+    },
+    {
+      "reading": "ながめる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1428830/眺める/ながめる",
+        "1610960/眺め/ながめ",
+        "1894470/月を眺める/つきをながめる",
+        "2727210/打ち眺める/うちながめる",
+        "2727210/打眺める/うちながめる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1428830/眺める/ながめる",
+    "1610960/眺め/ながめ",
+    "1428840/眺望/ちょうぼう",
+    "1894470/月を眺める/つきをながめる",
+    "2727210/打ち眺める/うちながめる",
+    "2727210/打眺める/うちながめる",
+    "1808520/眺望権/ちょうぼうけん",
+    "2600720/眺め回す/ながめまわす",
+    "2678910/眺め遣る/ながめやる",
+    "2841875/眺め渡す/ながめわたす",
+    "2678910/眺めやる/ながめやる",
+    "2841875/眺めわたす/ながめわたす",
+    "2650950/模様眺め/もようながめ",
+    "2857404/眺む/ながむ"
+  ],
+  "candidates": {
+    "1428830/眺める/ながめる": {
+      "id": 1428830,
+      "form": "眺める",
+      "kana": "ながめる",
+      "gloss": "to look at",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1548,
+        2797,
+        11740,
+        1723
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ながめる": {
+          "actual": "なが",
+          "dictionary": [
+            "なが.める"
+          ]
+        }
+      },
+      "official_examples": [
+        "ながめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1610960/眺め/ながめ": {
+      "id": 1610960,
+      "form": "眺め",
+      "kana": "ながめ",
+      "gloss": "scene",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7135,
+        8878,
+        3961,
+        8384
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ながめる": {
+          "actual": "なが",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ながめる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1428840/眺望/ちょうぼう": {
+      "id": 1428840,
+      "form": "眺望",
+      "kana": "ちょうぼう",
+      "gloss": "view",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12079,
+        18489,
+        29854,
+        45231
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "望": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1894470/月を眺める/つきをながめる": {
+      "id": 1894470,
+      "form": "月を眺める",
+      "kana": "つきをながめる",
+      "gloss": "to gaze at the Moon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        41345
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "ながめる": {
+          "actual": "なが",
+          "dictionary": [
+            "なが.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2727210/打ち眺める/うちながめる": {
+      "id": 2727210,
+      "form": "打ち眺める",
+      "kana": "うちながめる",
+      "gloss": "to look afar",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        165765
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "ながめる": {
+          "actual": "なが",
+          "dictionary": [
+            "なが.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2727210/打眺める/うちながめる": {
+      "id": 2727210,
+      "form": "打眺める",
+      "kana": "うちながめる",
+      "gloss": "to look afar",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        242804
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "ながめる": {
+          "actual": "なが",
+          "dictionary": [
+            "なが.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1808520/眺望権/ちょうぼうけん": {
+      "id": 1808520,
+      "form": "眺望権",
+      "kana": "ちょうぼうけん",
+      "gloss": "right to a view",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "権": 6,
+        "望": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2600720/眺め回す/ながめまわす": {
+      "id": 2600720,
+      "form": "眺め回す",
+      "kana": "ながめまわす",
+      "gloss": "to look around",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        null,
+        36849
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "回": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2678910/眺め遣る/ながめやる": {
+      "id": 2678910,
+      "form": "眺め遣る",
+      "kana": "ながめやる",
+      "gloss": "to gaze out at",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        null,
+        224442
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遣": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2841875/眺め渡す/ながめわたす": {
+      "id": 2841875,
+      "form": "眺め渡す",
+      "kana": "ながめわたす",
+      "gloss": "to gaze out over",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        72095
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "渡": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2678910/眺めやる/ながめやる": {
+      "id": 2678910,
+      "form": "眺めやる",
+      "kana": "ながめやる",
+      "gloss": "to gaze out at",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        61637
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2841875/眺めわたす/ながめわたす": {
+      "id": 2841875,
+      "form": "眺めわたす",
+      "kana": "ながめわたす",
+      "gloss": "to gaze out over",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        146436
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2650950/模様眺め/もようながめ": {
+      "id": 2650950,
+      "form": "模様眺め",
+      "kana": "もようながめ",
+      "gloss": "wait-and-see",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3,
+        "模": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2857404/眺む/ながむ": {
+      "id": 2857404,
+      "form": "眺む",
+      "kana": "ながむ",
+      "gloss": "to look at",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v2m-s",
+        "vt"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        103955
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1428830:眺める:ながめる",
+      "form": "眺める",
+      "kana": "ながめる",
+      "cue": "to look at; to gaze at",
+      "ids": [
+        1428830
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1723,
+        "shiberu": 1548,
+        "tubelex": 2797,
+        "wordfreq": 11740
+      },
+      "alternatives_by_kanji": {
+        "眺": [
+          "1610960/眺め/ながめ",
+          "1428840/眺望/ちょうぼう",
+          "1894470/月を眺める/つきをながめる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 7
+}

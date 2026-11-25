@@ -1,0 +1,1380 @@
+{
+  "character": "既",
+  "grade": 7,
+  "meanings": [
+    "previously",
+    "already",
+    "long ago"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 71
+    },
+    {
+      "type": "nelson_c",
+      "value": 138
+    }
+  ],
+  "components": [
+    "牙",
+    "艮"
+  ],
+  "on": [
+    "キ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "すで.に",
+      "stem": "すで",
+      "okurigana": "に"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "既",
+    "heading": "既（既）",
+    "readings": [
+      "キ",
+      "すでに"
+    ],
+    "examples_by_reading": [
+      [
+        "既成",
+        "既婚",
+        "既往症"
+      ],
+      [
+        "既に"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "既",
+      "reading": "キ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 54,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1220350/既婚/きこん",
+        "1220390/既成/きせい",
+        "1220340/既往症/きおうしょう",
+        "1220450/既存/きそん",
+        "1220460/既知/きち",
+        "1220470/既定/きてい",
+        "1202180/皆既/かいき",
+        "1620760/既刊/きかん",
+        "1220490/既得/きとく",
+        "1790720/既往/きおう"
+      ]
+    },
+    {
+      "reading": "すでに",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "2837844/時既に遅し/ときすでにおそし",
+        "1220310/既に/すでに",
+        "2860958/既に/すんでに",
+        "2601430/既にして/すでにして"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1220350/既婚/きこん",
+    "1220390/既成/きせい",
+    "1220340/既往症/きおうしょう",
+    "1220450/既存/きそん",
+    "1220460/既知/きち",
+    "1220470/既定/きてい",
+    "1202180/皆既/かいき",
+    "1620760/既刊/きかん",
+    "1220490/既得/きとく",
+    "1790720/既往/きおう",
+    "1220450/既存/きぞん",
+    "1220420/既製/きせい",
+    "2028890/既出/きしゅつ",
+    "1790740/既述/きじゅつ",
+    "1220440/既設/きせつ",
+    "1220510/既報/きほう",
+    "1790770/既習/きしゅう",
+    "1790700/既決/きけつ",
+    "1790760/既遂/きすい",
+    "2607060/既卒/きそつ",
+    "1620800/既済/きさい",
+    "1202190/皆既食/かいきしょく",
+    "2576050/既倒/きとう",
+    "2790020/既判力/きはんりょく",
+    "1220380/既視感/きしかん",
+    "1220520/既約/きやく",
+    "2056830/既読/きどく",
+    "1220410/既成事実/きせいじじつ",
+    "1620800/既済/きせい",
+    "1220360/既婚者/きこんしゃ"
+  ],
+  "candidates": {
+    "1220350/既婚/きこん": {
+      "id": 1220350,
+      "form": "既婚",
+      "kana": "きこん",
+      "gloss": "married",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8486,
+        18397,
+        11030,
+        53145
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1220390/既成/きせい": {
+      "id": 1220390,
+      "form": "既成",
+      "kana": "きせい",
+      "gloss": "established",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10190,
+        27560,
+        20603,
+        62493
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1220340/既往症/きおうしょう": {
+      "id": 1220340,
+      "form": "既往症",
+      "kana": "きおうしょう",
+      "gloss": "illness that one had in the past",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        96370,
+        141888
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "往": 5,
+        "症": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1220450/既存/きそん": {
+      "id": 1220450,
+      "form": "既存",
+      "kana": "きそん",
+      "gloss": "existing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14129,
+        4582,
+        4192,
+        16003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "存": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1220460/既知/きち": {
+      "id": 1220460,
+      "form": "既知",
+      "kana": "きち",
+      "gloss": "(already) known",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20375,
+        35006,
+        22895,
+        32308
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "知": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220470/既定/きてい": {
+      "id": 1220470,
+      "form": "既定",
+      "kana": "きてい",
+      "gloss": "established",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18176,
+        27428,
+        29854,
+        54239
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202180/皆既/かいき": {
+      "id": 1202180,
+      "form": "皆既",
+      "kana": "かいき",
+      "gloss": "total eclipse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14336,
+        35006,
+        34111,
+        139002
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "皆": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620760/既刊/きかん": {
+      "id": 1620760,
+      "form": "既刊",
+      "kana": "きかん",
+      "gloss": "already published",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17967,
+        109954,
+        25040,
+        49612
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刊": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220490/既得/きとく": {
+      "id": 1220490,
+      "form": "既得",
+      "kana": "きとく",
+      "gloss": "vested",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26847,
+        31039,
+        31382,
+        147427
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "得": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1790720/既往/きおう": {
+      "id": 1790720,
+      "form": "既往",
+      "kana": "きおう",
+      "gloss": "the past",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        38899,
+        31906,
+        48344,
+        112860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "往": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220450/既存/きぞん": {
+      "id": 1220450,
+      "form": "既存",
+      "kana": "きぞん",
+      "gloss": "existing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14129,
+        4582,
+        4192,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "存": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1220420/既製/きせい": {
+      "id": 1220420,
+      "form": "既製",
+      "kana": "きせい",
+      "gloss": "ready-made",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22585,
+        42960,
+        100495
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "製": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2028890/既出/きしゅつ": {
+      "id": 2028890,
+      "form": "既出",
+      "kana": "きしゅつ",
+      "gloss": "previously presented",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        30216,
+        102092
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1790740/既述/きじゅつ": {
+      "id": 1790740,
+      "form": "既述",
+      "kana": "きじゅつ",
+      "gloss": "previously mentioned",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        22475,
+        121818,
+        null,
+        214506
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "述": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220440/既設/きせつ": {
+      "id": 1220440,
+      "form": "既設",
+      "kana": "きせつ",
+      "gloss": "established",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        61736,
+        172132
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "設": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220510/既報/きほう": {
+      "id": 1220510,
+      "form": "既報",
+      "kana": "きほう",
+      "gloss": "previous report",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        93020,
+        170739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "報": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1790770/既習/きしゅう": {
+      "id": 1790770,
+      "form": "既習",
+      "kana": "きしゅう",
+      "gloss": "already learned",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        166230,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "習": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1790700/既決/きけつ": {
+      "id": 1790700,
+      "form": "既決",
+      "kana": "きけつ",
+      "gloss": "decided",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        153062,
+        224819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "決": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1790760/既遂/きすい": {
+      "id": 1790760,
+      "form": "既遂",
+      "kana": "きすい",
+      "gloss": "already finished (action)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        87205,
+        184494
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遂": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2607060/既卒/きそつ": {
+      "id": 2607060,
+      "form": "既卒",
+      "kana": "きそつ",
+      "gloss": "previously graduated",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        null,
+        234032
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "卒": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620800/既済/きさい": {
+      "id": 1620800,
+      "form": "既済",
+      "kana": "きさい",
+      "gloss": "already settled",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "済": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202190/皆既食/かいきしょく": {
+      "id": 1202190,
+      "form": "皆既食",
+      "kana": "かいきしょく",
+      "gloss": "total eclipse (solar or lunar)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        94653,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "皆": 7,
+        "食": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2576050/既倒/きとう": {
+      "id": 2576050,
+      "form": "既倒",
+      "kana": "きとう",
+      "gloss": "falling suddenly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "倒": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2790020/既判力/きはんりょく": {
+      "id": 2790020,
+      "form": "既判力",
+      "kana": "きはんりょく",
+      "gloss": "res judicata",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        196196,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1,
+        "判": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220380/既視感/きしかん": {
+      "id": 1220380,
+      "form": "既視感",
+      "kana": "きしかん",
+      "gloss": "déjà vu",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        15391
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6,
+        "感": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220520/既約/きやく": {
+      "id": 1220520,
+      "form": "既約",
+      "kana": "きやく",
+      "gloss": "irreducible",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        57577,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "約": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2056830/既読/きどく": {
+      "id": 2056830,
+      "form": "既読",
+      "kana": "きどく",
+      "gloss": "already read",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        22543
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "読": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220410/既成事実/きせいじじつ": {
+      "id": 1220410,
+      "form": "既成事実",
+      "kana": "きせいじじつ",
+      "gloss": "established fact",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4,
+        "事": 3,
+        "実": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1620800/既済/きせい": {
+      "id": 1620800,
+      "form": "既済",
+      "kana": "きせい",
+      "gloss": "already settled",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "済": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220360/既婚者/きこんしゃ": {
+      "id": 1220360,
+      "form": "既婚者",
+      "kana": "きこんしゃ",
+      "gloss": "married person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        29180
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婚": 7,
+        "者": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837844/時既に遅し/ときすでにおそし": {
+      "id": 2837844,
+      "form": "時既に遅し",
+      "kana": "ときすでにおそし",
+      "gloss": "it's already too late",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        51002
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遅": 7,
+        "時": 2
+      },
+      "matched": {
+        "すでに": {
+          "actual": "すで",
+          "dictionary": [
+            "すで.に"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1220310/既に/すでに": {
+      "id": 1220310,
+      "form": "既に",
+      "kana": "すでに",
+      "gloss": "already",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        2189
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "すでに": {
+          "actual": "すで",
+          "dictionary": [
+            "すで.に"
+          ]
+        }
+      },
+      "official_examples": [
+        "すでに"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2860958/既に/すんでに": {
+      "id": 2860958,
+      "form": "既に",
+      "kana": "すんでに",
+      "gloss": "almost",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "すでに": {
+          "actual": "すんで",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "すでに"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2601430/既にして/すでにして": {
+      "id": 2601430,
+      "form": "既にして",
+      "kana": "すでにして",
+      "gloss": "in the meantime",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "conj"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        116900
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "すでに": {
+          "actual": "すで",
+          "dictionary": [
+            "すで.に"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1220310:既に:すでに",
+      "form": "既に",
+      "kana": "すでに",
+      "cue": "already",
+      "ids": [
+        1220310
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 2189,
+        "shiberu": 1272,
+        "tubelex": 694,
+        "wordfreq": 1504
+      },
+      "alternatives_by_kanji": {
+        "既": [
+          "1220350/既婚/きこん",
+          "1220390/既成/きせい",
+          "1220340/既往症/きおうしょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

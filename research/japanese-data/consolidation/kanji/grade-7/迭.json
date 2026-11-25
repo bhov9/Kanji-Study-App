@@ -1,0 +1,285 @@
+{
+  "character": "迭",
+  "grade": 7,
+  "meanings": [
+    "transfer",
+    "alternation"
+  ],
+  "strokes": [
+    8,
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 162
+    }
+  ],
+  "components": [
+    "｜",
+    "ノ",
+    "一",
+    "牛",
+    "込",
+    "矢",
+    "大",
+    "二",
+    "乞"
+  ],
+  "on": [
+    "テツ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "迭",
+    "heading": "迭",
+    "readings": [
+      "テツ"
+    ],
+    "examples_by_reading": [
+      [
+        "更迭"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "迭",
+      "reading": "テツ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1279430/更迭/こうてつ",
+        "2841384/迭立/てつりつ",
+        "1279430/交迭/こうてつ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1279430/更迭/こうてつ",
+    "2841384/迭立/てつりつ",
+    "1279430/交迭/こうてつ",
+    "2831796/抽迭/ちゅうそう",
+    "2080000/迷迭香/まんねんろう"
+  ],
+  "candidates": {
+    "1279430/更迭/こうてつ": {
+      "id": 1279430,
+      "form": "更迭",
+      "kana": "こうてつ",
+      "gloss": "change (of personnel)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        30576,
+        34549,
+        22895,
+        46186
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "更": 7
+      },
+      "matched": {
+        "テツ": {
+          "actual": "てつ",
+          "dictionary": [
+            "テツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2841384/迭立/てつりつ": {
+      "id": 2841384,
+      "form": "迭立",
+      "kana": "てつりつ",
+      "gloss": "alternate succession (e.g. to throne)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        256081
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "テツ": {
+          "actual": "てつ",
+          "dictionary": [
+            "テツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279430/交迭/こうてつ": {
+      "id": 1279430,
+      "form": "交迭",
+      "kana": "こうてつ",
+      "gloss": "change (of personnel)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {
+        "テツ": {
+          "actual": "てつ",
+          "dictionary": [
+            "テツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831796/抽迭/ちゅうそう": {
+      "id": 2831796,
+      "form": "抽迭",
+      "kana": "ちゅうそう",
+      "gloss": "in and out movement (esp. during intercourse)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        128171
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抽": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2080000/迷迭香/まんねんろう": {
+      "id": 2080000,
+      "form": "迷迭香",
+      "kana": "まんねんろう",
+      "gloss": "rosemary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "香": 4,
+        "迷": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1279430:更迭:こうてつ",
+      "form": "更迭",
+      "kana": "こうてつ",
+      "cue": "change (of personnel); reshuffle (e.g. of a cabinet)",
+      "ids": [
+        1279430
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 46186,
+        "shiberu": 30576,
+        "tubelex": 34549,
+        "wordfreq": 22895
+      },
+      "alternatives_by_kanji": {
+        "更": [
+          "1511040/変更/へんこう",
+          "1279370/更新/こうしん",
+          "1289150/今更/いまさら"
+        ],
+        "迭": [
+          "2841384/迭立/てつりつ",
+          "1279430/交迭/こうてつ",
+          "2831796/抽迭/ちゅうそう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

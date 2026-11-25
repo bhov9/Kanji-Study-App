@@ -1,0 +1,1209 @@
+{
+  "character": "村",
+  "grade": 1,
+  "meanings": [
+    "village",
+    "town"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "寸",
+    "木"
+  ],
+  "on": [
+    "ソン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "むら",
+      "stem": "むら",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "え",
+    "むた",
+    "ら"
+  ],
+  "government": {
+    "kanji": "村",
+    "heading": "村",
+    "readings": [
+      "ソン",
+      "むら"
+    ],
+    "examples_by_reading": [
+      [
+        "村長",
+        "村落",
+        "農村"
+      ],
+      [
+        "村",
+        "村里",
+        "村芝居"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "村",
+      "reading": "ソン",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 59,
+      "frequent_unflagged_examples": 3,
+      "current_support": false,
+      "candidates": [
+        "1470730/農村/のうそん",
+        "1406840/村長/そんちょう",
+        "1653790/村落/そんらく",
+        "1406820/村/そん",
+        "1755230/山村/さんそん",
+        "1406860/村民/そんみん",
+        "1233060/漁村/ぎょそん",
+        "2758880/小村/しょうそん",
+        "2245740/村社/そんしゃ",
+        "1453050/同村/どうそん"
+      ]
+    },
+    {
+      "reading": "むら",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 46,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1406820/村/むら",
+        "1406840/村長/むらおさ",
+        "1642390/村里/むらざと",
+        "1700400/村芝居/むらしばい",
+        "1406830/村人/むらびと",
+        "2758880/小村/こむら",
+        "2092670/村々/むらむら",
+        "2086590/村外れ/むらはずれ",
+        "1650140/隣村/となりむら",
+        "2859853/村境/むらざかい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1406820/村/むら",
+    "1470730/農村/のうそん",
+    "1406840/村長/そんちょう",
+    "1406840/村長/むらおさ",
+    "1653790/村落/そんらく",
+    "1406820/村/そん",
+    "1642390/村里/むらざと",
+    "1700400/村芝居/むらしばい",
+    "1406830/村人/むらびと",
+    "1755230/山村/さんそん",
+    "1406860/村民/そんみん",
+    "1233060/漁村/ぎょそん",
+    "2758880/小村/しょうそん",
+    "2245740/村社/そんしゃ",
+    "1453050/同村/どうそん",
+    "1650140/隣村/りんそん",
+    "1210450/寒村/かんそん",
+    "2758880/小村/こむら",
+    "2092670/村々/むらむら",
+    "2086590/村外れ/むらはずれ",
+    "1877770/郷村/ごうそん",
+    "1650140/隣村/となりむら",
+    "1700460/村道/そんどう",
+    "2269900/全村/ぜんそん",
+    "2859853/村境/むらざかい",
+    "1406850/村八分/むらはちぶ",
+    "2573590/村内/そんない",
+    "2846928/村営/そんえい",
+    "2757290/入村/にゅうそん",
+    "1700380/村立/そんりつ"
+  ],
+  "candidates": {
+    "1406820/村/むら": {
+      "id": 1406820,
+      "form": "村",
+      "kana": "むら",
+      "gloss": "village",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        272,
+        789,
+        1059,
+        2648
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [
+        "むら"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1470730/農村/のうそん": {
+      "id": 1470730,
+      "form": "農村",
+      "kana": "のうそん",
+      "gloss": "agricultural community",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6017,
+        19970,
+        15825,
+        31661
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1406840/村長/そんちょう": {
+      "id": 1406840,
+      "form": "村長",
+      "kana": "そんちょう",
+      "gloss": "village headman",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12371,
+        8893,
+        19315,
+        18655
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1406840/村長/むらおさ": {
+      "id": 1406840,
+      "form": "村長",
+      "kana": "むらおさ",
+      "gloss": "village headman",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12371,
+        8893,
+        19315,
+        158248
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1653790/村落/そんらく": {
+      "id": 1653790,
+      "form": "村落",
+      "kana": "そんらく",
+      "gloss": "village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11058,
+        49441,
+        47810,
+        49463
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "落": 3
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1406820/村/そん": {
+      "id": 1406820,
+      "form": "村",
+      "kana": "そん",
+      "gloss": "village",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        272,
+        789,
+        1059,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [
+        "むら"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1642390/村里/むらざと": {
+      "id": 1642390,
+      "form": "村里",
+      "kana": "むらざと",
+      "gloss": "village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        142244,
+        122909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "里": 2
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [
+        "むら"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1700400/村芝居/むらしばい": {
+      "id": 1700400,
+      "form": "村芝居",
+      "kana": "むらしばい",
+      "gloss": "play put on in a village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        187921
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "芝": 7,
+        "居": 5
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [
+        "むら"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1406830/村人/むらびと": {
+      "id": 1406830,
+      "form": "村人",
+      "kana": "むらびと",
+      "gloss": "villager",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5559,
+        5307,
+        13090,
+        9922
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1755230/山村/さんそん": {
+      "id": 1755230,
+      "form": "山村",
+      "kana": "さんそん",
+      "gloss": "mountain village",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8123,
+        26050,
+        25402,
+        40345
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1406860/村民/そんみん": {
+      "id": 1406860,
+      "form": "村民",
+      "kana": "そんみん",
+      "gloss": "villager",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22330,
+        24904,
+        30980,
+        45123
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1233060/漁村/ぎょそん": {
+      "id": 1233060,
+      "form": "漁村",
+      "kana": "ぎょそん",
+      "gloss": "fishing village",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19126,
+        38931,
+        30980,
+        46510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "漁": 4
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2758880/小村/しょうそん": {
+      "id": 2758880,
+      "form": "小村",
+      "kana": "しょうそん",
+      "gloss": "small village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22691,
+        30504,
+        40209,
+        73639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2245740/村社/そんしゃ": {
+      "id": 2245740,
+      "form": "村社",
+      "kana": "そんしゃ",
+      "gloss": "township shrine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37377,
+        70964,
+        29477,
+        156330
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "社": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1453050/同村/どうそん": {
+      "id": 1453050,
+      "form": "同村",
+      "kana": "どうそん",
+      "gloss": "same village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39016,
+        56591,
+        66155,
+        152488
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1650140/隣村/りんそん": {
+      "id": 1650140,
+      "form": "隣村",
+      "kana": "りんそん",
+      "gloss": "neighboring village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38430,
+        56591,
+        92126,
+        55628
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "隣": 7
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1210450/寒村/かんそん": {
+      "id": 1210450,
+      "form": "寒村",
+      "kana": "かんそん",
+      "gloss": "poor village",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35690,
+        85382,
+        81694,
+        57420
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寒": 3
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2758880/小村/こむら": {
+      "id": 2758880,
+      "form": "小村",
+      "kana": "こむら",
+      "gloss": "small village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22691,
+        30504,
+        40209,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2092670/村々/むらむら": {
+      "id": 2092670,
+      "form": "村々",
+      "kana": "むらむら",
+      "gloss": "villages",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27366,
+        32097,
+        null,
+        36907
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2086590/村外れ/むらはずれ": {
+      "id": 2086590,
+      "form": "村外れ",
+      "kana": "むらはずれ",
+      "gloss": "edge of town",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29316,
+        47603,
+        null,
+        62166
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1877770/郷村/ごうそん": {
+      "id": 1877770,
+      "form": "郷村",
+      "kana": "ごうそん",
+      "gloss": "villages",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22495,
+        101749,
+        null,
+        158965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "郷": 6
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1650140/隣村/となりむら": {
+      "id": 1650140,
+      "form": "隣村",
+      "kana": "となりむら",
+      "gloss": "neighboring village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38430,
+        56591,
+        92126,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "隣": 7
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1700460/村道/そんどう": {
+      "id": 1700460,
+      "form": "村道",
+      "kana": "そんどう",
+      "gloss": "village road",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35429,
+        73159,
+        null,
+        104748
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2269900/全村/ぜんそん": {
+      "id": 2269900,
+      "form": "全村",
+      "kana": "ぜんそん",
+      "gloss": "the whole village",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33055,
+        121818,
+        null,
+        167390
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859853/村境/むらざかい": {
+      "id": 2859853,
+      "form": "村境",
+      "kana": "むらざかい",
+      "gloss": "boundary between villages",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39554,
+        89646,
+        null,
+        124100
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "境": 5
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1406850/村八分/むらはちぶ": {
+      "id": 1406850,
+      "form": "村八分",
+      "kana": "むらはちぶ",
+      "gloss": "ostracism",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        50386,
+        54846
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "八": 1,
+        "分": 2
+      },
+      "matched": {
+        "むら": {
+          "actual": "むら",
+          "dictionary": [
+            "むら"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2573590/村内/そんない": {
+      "id": 2573590,
+      "form": "村内",
+      "kana": "そんない",
+      "gloss": "in the village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        72835,
+        68063
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846928/村営/そんえい": {
+      "id": 2846928,
+      "form": "村営",
+      "kana": "そんえい",
+      "gloss": "run by a village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        97220,
+        181297
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "営": 5
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2757290/入村/にゅうそん": {
+      "id": 2757290,
+      "form": "入村",
+      "kana": "にゅうそん",
+      "gloss": "entering a village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        99903,
+        133896
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1700380/村立/そんりつ": {
+      "id": 1700380,
+      "form": "村立",
+      "kana": "そんりつ",
+      "gloss": "established by a village",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        104555,
+        215637
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "ソン": {
+          "actual": "そん",
+          "dictionary": [
+            "ソン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1406820:村:むら",
+      "form": "村",
+      "kana": "むら",
+      "cue": "village",
+      "ids": [
+        1406820
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 2648,
+        "shiberu": 272,
+        "tubelex": 789,
+        "wordfreq": 1059
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

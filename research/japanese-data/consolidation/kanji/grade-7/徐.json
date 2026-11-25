@@ -1,0 +1,732 @@
+{
+  "character": "徐",
+  "grade": 7,
+  "meanings": [
+    "gradually",
+    "slowly",
+    "deliberately",
+    "gently"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 60
+    }
+  ],
+  "components": [
+    "禾",
+    "个",
+    "彳",
+    "一"
+  ],
+  "on": [
+    "ジョ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おもむ.ろに",
+      "stem": "おもむ",
+      "okurigana": "ろに"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "徐",
+    "heading": "徐",
+    "readings": [
+      "ジョ"
+    ],
+    "examples_by_reading": [
+      [
+        "徐行",
+        "徐々に"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "徐",
+      "reading": "ジョ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ジョ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1345590/徐行/じょこう",
+        "1595480/徐々に/じょじょに",
+        "1747330/緩徐/かんじょ",
+        "1635520/徐脈/じょみゃく",
+        "2841211/徐冷/じょれい",
+        "2847606/徐行運転/じょこううんてん",
+        "1595480/徐徐に/じょじょに",
+        "2719540/最徐行/さいじょこう",
+        "2837374/徐波睡眠/じょはすいみん",
+        "1345610/徐歩/じょほ"
+      ]
+    },
+    {
+      "reading": "おもむろに",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1345580/徐ろに/おもむろに"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1345590/徐行/じょこう",
+    "1595480/徐々に/じょじょに",
+    "1747330/緩徐/かんじょ",
+    "1635520/徐脈/じょみゃく",
+    "2841211/徐冷/じょれい",
+    "2847606/徐行運転/じょこううんてん",
+    "1595480/徐徐に/じょじょに",
+    "2719540/最徐行/さいじょこう",
+    "2837374/徐波睡眠/じょはすいみん",
+    "1345610/徐歩/じょほ",
+    "1345590/徐航/じょこう",
+    "1867620/緩徐曲/かんじょきょく",
+    "1381820/徐か/しずか",
+    "1345600/徐々/じょじょ",
+    "1345580/徐ろに/おもむろに",
+    "1345600/徐徐/じょじょ",
+    "1345580/徐に/おもむろに"
+  ],
+  "candidates": {
+    "1345590/徐行/じょこう": {
+      "id": 1345590,
+      "form": "徐行",
+      "kana": "じょこう",
+      "gloss": "going slowly (esp. to enable a vehicle to stop immediately)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        24078,
+        29981,
+        42050,
+        61451
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジョ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1595480/徐々に/じょじょに": {
+      "id": 1595480,
+      "form": "徐々に",
+      "kana": "じょじょに",
+      "gloss": "gradually",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        4192,
+        2961
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジョ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1747330/緩徐/かんじょ": {
+      "id": 1747330,
+      "form": "緩徐",
+      "kana": "かんじょ",
+      "gloss": "gentle and quiet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        118546,
+        191140
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "緩": 7
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1635520/徐脈/じょみゃく": {
+      "id": 1635520,
+      "form": "徐脈",
+      "kana": "じょみゃく",
+      "gloss": "bradycardia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        126108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脈": 5
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841211/徐冷/じょれい": {
+      "id": 2841211,
+      "form": "徐冷",
+      "kana": "じょれい",
+      "gloss": "annealing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        257771
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "冷": 4
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847606/徐行運転/じょこううんてん": {
+      "id": 2847606,
+      "form": "徐行運転",
+      "kana": "じょこううんてん",
+      "gloss": "driving at reduced speed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        112518
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "転": 3,
+        "行": 2,
+        "運": 3
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1595480/徐徐に/じょじょに": {
+      "id": 1595480,
+      "form": "徐徐に",
+      "kana": "じょじょに",
+      "gloss": "gradually",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        179746
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2719540/最徐行/さいじょこう": {
+      "id": 2719540,
+      "form": "最徐行",
+      "kana": "さいじょこう",
+      "gloss": "going at a very slow speed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252796
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "最": 4
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837374/徐波睡眠/じょはすいみん": {
+      "id": 2837374,
+      "form": "徐波睡眠",
+      "kana": "じょはすいみん",
+      "gloss": "non-REM sleep",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        294617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "睡": 7,
+        "波": 3,
+        "眠": 7
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1345610/徐歩/じょほ": {
+      "id": 1345610,
+      "form": "徐歩",
+      "kana": "じょほ",
+      "gloss": "walking slowly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歩": 2
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1345590/徐航/じょこう": {
+      "id": 1345590,
+      "form": "徐航",
+      "kana": "じょこう",
+      "gloss": "going slowly (esp. to enable a vehicle to stop immediately)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "航": 5
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1867620/緩徐曲/かんじょきょく": {
+      "id": 1867620,
+      "form": "緩徐曲",
+      "kana": "かんじょきょく",
+      "gloss": "adagio",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "緩": 7,
+        "曲": 3
+      },
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1381820/徐か/しずか": {
+      "id": 1381820,
+      "form": "徐か",
+      "kana": "しずか",
+      "gloss": "quiet",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        119723
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1345600/徐々/じょじょ": {
+      "id": 1345600,
+      "form": "徐々",
+      "kana": "じょじょ",
+      "gloss": "slow",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        2466,
+        2464,
+        null,
+        104089
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1345580/徐ろに/おもむろに": {
+      "id": 1345580,
+      "form": "徐ろに",
+      "kana": "おもむろに",
+      "gloss": "suddenly",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        120020
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おもむろに": {
+          "actual": "おもむ",
+          "dictionary": [
+            "おもむ.ろに"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1345600/徐徐/じょじょ": {
+      "id": 1345600,
+      "form": "徐徐",
+      "kana": "じょじょ",
+      "gloss": "slow",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        182039
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ジョ": {
+          "actual": "じょ",
+          "dictionary": [
+            "ジョ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1345580/徐に/おもむろに": {
+      "id": 1345580,
+      "form": "徐に",
+      "kana": "おもむろに",
+      "gloss": "suddenly",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        29059,
+        138339,
+        59745
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1595480:徐徐に:じょじょに",
+      "form": "徐徐に",
+      "kana": "じょじょに",
+      "cue": "gradually; steadily",
+      "ids": [
+        1595480
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 179746
+      },
+      "alternatives_by_kanji": {
+        "徐": [
+          "1345590/徐行/じょこう",
+          "1595480/徐々に/じょじょに",
+          "1747330/緩徐/かんじょ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

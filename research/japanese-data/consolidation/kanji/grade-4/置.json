@@ -1,0 +1,1594 @@
+{
+  "character": "置",
+  "grade": 4,
+  "meanings": [
+    "placement",
+    "put",
+    "set",
+    "deposit",
+    "leave behind",
+    "keep",
+    "employ",
+    "pawn"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 122
+    }
+  ],
+  "components": [
+    "十",
+    "買",
+    "目",
+    "一",
+    "｜"
+  ],
+  "on": [
+    "チ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "お.く",
+      "stem": "お",
+      "okurigana": "く"
+    },
+    {
+      "sourceNotation": "-お.き",
+      "stem": "-お",
+      "okurigana": "き"
+    }
+  ],
+  "nanori": [
+    "おき",
+    "おけ",
+    "き"
+  ],
+  "government": {
+    "kanji": "置",
+    "heading": "置",
+    "readings": [
+      "チ",
+      "おく"
+    ],
+    "examples_by_reading": [
+      [
+        "位置",
+        "放置",
+        "処置"
+      ],
+      [
+        "置く"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "置",
+      "reading": "チ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 261,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1587310/位置/いち",
+        "1516780/放置/ほうち",
+        "1342470/処置/しょち",
+        "1386050/設置/せっち",
+        "1402360/装置/そうち",
+        "1473150/配置/はいち",
+        "1396530/措置/そち",
+        "1421860/置換/ちかん",
+        "1279010/拘置/こうち",
+        "1445930/倒置/とうち"
+      ]
+    },
+    {
+      "reading": "おく",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 30,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1373490/据え置く/すえおく",
+        "1552710/留め置く/とめおく",
+        "1850080/差し置く/さしおく",
+        "1846350/捨て置く/すておく",
+        "2842965/取り置く/とりおく",
+        "1848470/言い置く/いいおく",
+        "2835639/距離を置く/きょりをおく",
+        "2756480/身を置く/みをおく",
+        "1627710/一目置く/いちもくおく",
+        "2104260/間を置く/まをおく"
+      ]
+    },
+    {
+      "reading": "おき",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 80,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1421820/置き換える/おきかえる",
+        "1421840/置き場/おきば",
+        "1788620/置き去り/おきざり",
+        "1393630/前置き/まえおき",
+        "1305250/仕置き/しおき",
+        "2060490/置き換わる/おきかわる",
+        "1654040/書き置き/かきおき",
+        "1421810/置き引き/おきびき",
+        "2374370/置き換え/おきかえ",
+        "1610690/据え置き/すえおき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1587310/位置/いち",
+    "1516780/放置/ほうち",
+    "1342470/処置/しょち",
+    "1386050/設置/せっち",
+    "1402360/装置/そうち",
+    "1473150/配置/はいち",
+    "1396530/措置/そち",
+    "1421820/置き換える/おきかえる",
+    "1421840/置き場/おきば",
+    "1788620/置き去り/おきざり",
+    "1393630/前置き/まえおき",
+    "1421860/置換/ちかん",
+    "1305250/仕置き/しおき",
+    "1279010/拘置/こうち",
+    "2060490/置き換わる/おきかわる",
+    "1654040/書き置き/かきおき",
+    "1373490/据え置く/すえおく",
+    "1552710/留め置く/とめおく",
+    "1445930/倒置/とうち",
+    "1421810/置き引き/おきびき",
+    "2374370/置き換え/おきかえ",
+    "1393620/前置/ぜんち",
+    "1610690/据え置き/すえおき",
+    "1850080/差し置く/さしおく",
+    "1589010/置き物/おきもの",
+    "1421820/置きかえる/おきかえる",
+    "1753010/買い置き/かいおき",
+    "1701360/箸置き/はしおき",
+    "1777340/定置/ていち",
+    "1846350/捨て置く/すておく"
+  ],
+  "candidates": {
+    "1587310/位置/いち": {
+      "id": 1587310,
+      "form": "位置",
+      "kana": "いち",
+      "gloss": "place",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1543,
+        510,
+        1019,
+        1439
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "位": 4
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1516780/放置/ほうち": {
+      "id": 1516780,
+      "form": "放置",
+      "kana": "ほうち",
+      "gloss": "leaving as is",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8313,
+        3082,
+        2809,
+        2939
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "放": 3
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1342470/処置/しょち": {
+      "id": 1342470,
+      "form": "処置",
+      "kana": "しょち",
+      "gloss": "measure",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4111,
+        7891,
+        6675,
+        6055
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "処": 6
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1386050/設置/せっち": {
+      "id": 1386050,
+      "form": "設置",
+      "kana": "せっち",
+      "gloss": "establishment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7647,
+        1261,
+        1473,
+        3586
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "設": 5
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1402360/装置/そうち": {
+      "id": 1402360,
+      "form": "装置",
+      "kana": "そうち",
+      "gloss": "equipment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3930,
+        2472,
+        1342,
+        4631
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "装": 6
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473150/配置/はいち": {
+      "id": 1473150,
+      "form": "配置",
+      "kana": "はいち",
+      "gloss": "arrangement (of resources)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4647,
+        1481,
+        2809,
+        3761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "配": 3
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1396530/措置/そち": {
+      "id": 1396530,
+      "form": "措置",
+      "kana": "そち",
+      "gloss": "measure",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7262,
+        3290,
+        4034,
+        14062
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "措": 7
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1421820/置き換える/おきかえる": {
+      "id": 1421820,
+      "form": "置き換える",
+      "kana": "おきかえる",
+      "gloss": "to move (something) to another location",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9779,
+        6602,
+        16272,
+        13719
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "換": 7
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421840/置き場/おきば": {
+      "id": 1421840,
+      "form": "置き場",
+      "kana": "おきば",
+      "gloss": "place to put something",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15811,
+        9300,
+        14745,
+        18003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "場": 2
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1788620/置き去り/おきざり": {
+      "id": 1788620,
+      "form": "置き去り",
+      "kana": "おきざり",
+      "gloss": "leaving behind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13645,
+        16390,
+        17251,
+        6464
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "去": 3
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1393630/前置き/まえおき": {
+      "id": 1393630,
+      "form": "前置き",
+      "kana": "まえおき",
+      "gloss": "preface",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13985,
+        12540,
+        25040,
+        8782
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421860/置換/ちかん": {
+      "id": 1421860,
+      "form": "置換",
+      "kana": "ちかん",
+      "gloss": "substitution",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18058,
+        15465,
+        17751,
+        51916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "換": 7
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1305250/仕置き/しおき": {
+      "id": 1305250,
+      "form": "仕置き",
+      "kana": "しおき",
+      "gloss": "punishment (esp. spanking a child)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17512,
+        18120,
+        61736,
+        33847
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仕": 3
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279010/拘置/こうち": {
+      "id": 1279010,
+      "form": "拘置",
+      "kana": "こうち",
+      "gloss": "detention",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17854,
+        43098,
+        19848,
+        84704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拘": 7
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2060490/置き換わる/おきかわる": {
+      "id": 2060490,
+      "form": "置き換わる",
+      "kana": "おきかわる",
+      "gloss": "to be rearranged",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        27806,
+        20197,
+        49881,
+        39742
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "換": 7
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1654040/書き置き/かきおき": {
+      "id": 1654040,
+      "form": "書き置き",
+      "kana": "かきおき",
+      "gloss": "note (letter) left behind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33311,
+        45405,
+        62361,
+        21588
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1373490/据え置く/すえおく": {
+      "id": 1373490,
+      "form": "据え置く",
+      "kana": "すえおく",
+      "gloss": "to leave as it is",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32403,
+        29195,
+        91294,
+        62382
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "据": 7
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1552710/留め置く/とめおく": {
+      "id": 1552710,
+      "form": "留め置く",
+      "kana": "とめおく",
+      "gloss": "to detain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30818,
+        47007,
+        116428,
+        39570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "留": 5
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1445930/倒置/とうち": {
+      "id": 1445930,
+      "form": "倒置",
+      "kana": "とうち",
+      "gloss": "turning upside down",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        36781,
+        63933,
+        58810,
+        167276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "倒": 7
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421810/置き引き/おきびき": {
+      "id": 1421810,
+      "form": "置き引き",
+      "kana": "おきびき",
+      "gloss": "walking off with someone's bag",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31568,
+        75655,
+        89631,
+        72033
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "引": 2
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2374370/置き換え/おきかえ": {
+      "id": 2374370,
+      "form": "置き換え",
+      "kana": "おきかえ",
+      "gloss": "replacement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24904,
+        8301,
+        83651
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "換": 7
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1393620/前置/ぜんち": {
+      "id": 1393620,
+      "form": "前置",
+      "kana": "ぜんち",
+      "gloss": "preface",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12885,
+        27177,
+        null,
+        135767
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1610690/据え置き/すえおき": {
+      "id": 1610690,
+      "form": "据え置き",
+      "kana": "すえおき",
+      "gloss": "deferment (e.g. of savings)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        21007,
+        22895,
+        49250
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "据": 7
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1850080/差し置く/さしおく": {
+      "id": 1850080,
+      "form": "差し置く",
+      "kana": "さしおく",
+      "gloss": "to leave as is",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        33949,
+        33040,
+        null,
+        12296
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "差": 4
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589010/置き物/おきもの": {
+      "id": 1589010,
+      "form": "置き物",
+      "kana": "おきもの",
+      "gloss": "ornament",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        14646,
+        97220,
+        57593
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421820/置きかえる/おきかえる": {
+      "id": 1421820,
+      "form": "置きかえる",
+      "kana": "おきかえる",
+      "gloss": "to move (something) to another location",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21538,
+        null,
+        144865,
+        85911
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753010/買い置き/かいおき": {
+      "id": 1753010,
+      "form": "買い置き",
+      "kana": "かいおき",
+      "gloss": "stock (of goods)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        48867,
+        29839
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "買": 2
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1701360/箸置き/はしおき": {
+      "id": 1701360,
+      "form": "箸置き",
+      "kana": "はしおき",
+      "gloss": "chopstick rest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37698,
+        62361,
+        80572
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "箸": 7
+      },
+      "matched": {
+        "おき": {
+          "actual": "お",
+          "dictionary": [
+            "-お.き"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1777340/定置/ていち": {
+      "id": 1777340,
+      "form": "定置",
+      "kana": "ていち",
+      "gloss": "fixing (in place)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37400,
+        58194,
+        166899
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "チ": {
+          "actual": "ち",
+          "dictionary": [
+            "チ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1846350/捨て置く/すておく": {
+      "id": 1846350,
+      "form": "捨て置く",
+      "kana": "すておく",
+      "gloss": "to leave as is",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50803,
+        143561,
+        17937
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "捨": 6
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842965/取り置く/とりおく": {
+      "id": 2842965,
+      "form": "取り置く",
+      "kana": "とりおく",
+      "gloss": "to set aside",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39979,
+        null,
+        52007
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1848470/言い置く/いいおく": {
+      "id": 1848470,
+      "form": "言い置く",
+      "kana": "いいおく",
+      "gloss": "to leave word",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        37517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835639/距離を置く/きょりをおく": {
+      "id": 2835639,
+      "form": "距離を置く",
+      "kana": "きょりをおく",
+      "gloss": "to distance oneself (from)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        7197
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "距": 7,
+        "離": 7
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2756480/身を置く/みをおく": {
+      "id": 2756480,
+      "form": "身を置く",
+      "kana": "みをおく",
+      "gloss": "to put oneself in (situation, environment, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        13636
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1627710/一目置く/いちもくおく": {
+      "id": 1627710,
+      "form": "一目置く",
+      "kana": "いちもくおく",
+      "gloss": "to take off one's hat to a person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        16496
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1,
+        "一": 1
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2104260/間を置く/まをおく": {
+      "id": 2104260,
+      "form": "間を置く",
+      "kana": "まをおく",
+      "gloss": "to pause",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17191
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2
+      },
+      "matched": {
+        "おく": {
+          "actual": "お",
+          "dictionary": [
+            "お.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1396530:措置:そち",
+      "form": "措置",
+      "kana": "そち",
+      "cue": "measure; step",
+      "ids": [
+        1396530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 14062,
+        "shiberu": 7262,
+        "tubelex": 3290,
+        "wordfreq": 4034
+      },
+      "alternatives_by_kanji": {
+        "置": [
+          "1587310/位置/いち",
+          "1516780/放置/ほうち",
+          "1342470/処置/しょち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1402360:装置:そうち",
+      "form": "装置",
+      "kana": "そうち",
+      "cue": "equipment; device",
+      "ids": [
+        1402360
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4631,
+        "shiberu": 3930,
+        "tubelex": 2472,
+        "wordfreq": 1342
+      },
+      "alternatives_by_kanji": {
+        "置": [
+          "1587310/位置/いち",
+          "1516780/放置/ほうち",
+          "1342470/処置/しょち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1587310:位置:いち",
+      "form": "位置",
+      "kana": "いち",
+      "cue": "place; position",
+      "ids": [
+        1587310
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1439,
+        "shiberu": 1543,
+        "tubelex": 510,
+        "wordfreq": 1019
+      },
+      "alternatives_by_kanji": {
+        "位": [
+          "1204870/各位/かくい",
+          "1155490/位取り/くらいどり",
+          "1640530/位する/くらいする"
+        ],
+        "置": [
+          "1516780/放置/ほうち",
+          "1342470/処置/しょち",
+          "1386050/設置/せっち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1610690:据置き:すえおき",
+      "form": "据置き",
+      "kana": "すえおき",
+      "cue": "deferment (e.g. of savings); leaving (something) as it stands",
+      "ids": [
+        1610690
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 276871
+      },
+      "alternatives_by_kanji": {
+        "置": [
+          "1587310/位置/いち",
+          "1516780/放置/ほうち",
+          "1342470/処置/しょち"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 78
+}

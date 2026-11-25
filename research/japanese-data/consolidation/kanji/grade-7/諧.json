@@ -1,0 +1,731 @@
+{
+  "character": "諧",
+  "grade": 7,
+  "meanings": [
+    "harmony"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "白",
+    "比"
+  ],
+  "on": [
+    "カイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "かな.う",
+      "stem": "かな",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "やわ.らぐ",
+      "stem": "やわ",
+      "okurigana": "らぐ"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "諧",
+    "heading": "諧",
+    "readings": [
+      "カイ"
+    ],
+    "examples_by_reading": [
+      [
+        "俳諧"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "諧",
+      "reading": "カイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1471990/俳諧/はいかい",
+        "1572850/諧謔/かいぎゃく",
+        "1572840/諧調/かいちょう",
+        "1472000/俳諧師/はいかいし",
+        "2045330/滑稽諧謔/こっけいかいぎゃく",
+        "2597910/諧和/かいわ",
+        "2098180/俳諧の連歌/はいかいのれんが",
+        "1572830/諧声/かいせい",
+        "2833326/俳諧味/はいかいみ",
+        "1480030/半諧音/はんかいおん"
+      ]
+    },
+    {
+      "reading": "かなう",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "やわらぐ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1471990/俳諧/はいかい",
+    "1572850/諧謔/かいぎゃく",
+    "1572840/諧調/かいちょう",
+    "1472000/俳諧師/はいかいし",
+    "2045330/滑稽諧謔/こっけいかいぎゃく",
+    "2597910/諧和/かいわ",
+    "2098180/俳諧の連歌/はいかいのれんが",
+    "1572830/諧声/かいせい",
+    "2833326/俳諧味/はいかいみ",
+    "1480030/半諧音/はんかいおん",
+    "2597910/諧和/かいか",
+    "5743458/和諧号/わかいごう",
+    "2853535/天狗俳諧/てんぐはいかい",
+    "2102730/諧謔を弄する/かいぎゃくをろうする",
+    "1471990/誹諧/はいかい",
+    "2853524/和諧/わかい"
+  ],
+  "candidates": {
+    "1471990/俳諧/はいかい": {
+      "id": 1471990,
+      "form": "俳諧",
+      "kana": "はいかい",
+      "gloss": "haikai (collective name for haiku, haibun, haiga, senryū, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13744,
+        59850,
+        70783,
+        106268
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "俳": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1572850/諧謔/かいぎゃく": {
+      "id": 1572850,
+      "form": "諧謔",
+      "kana": "かいぎゃく",
+      "gloss": "joke",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39690,
+        73159,
+        95507,
+        61534
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1572840/諧調/かいちょう": {
+      "id": 1572840,
+      "form": "諧調",
+      "kana": "かいちょう",
+      "gloss": "harmonious melody",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39689,
+        109954,
+        147538,
+        155337
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472000/俳諧師/はいかいし": {
+      "id": 1472000,
+      "form": "俳諧師",
+      "kana": "はいかいし",
+      "gloss": "writer of haikai poems",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        175074
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "師": 5,
+        "俳": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2045330/滑稽諧謔/こっけいかいぎゃく": {
+      "id": 2045330,
+      "form": "滑稽諧謔",
+      "kana": "こっけいかいぎゃく",
+      "gloss": "smooth-talking and humorous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        292978
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "滑": 7,
+        "稽": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2597910/諧和/かいわ": {
+      "id": 2597910,
+      "form": "諧和",
+      "kana": "かいわ",
+      "gloss": "gentle mutual affection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "和": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2098180/俳諧の連歌/はいかいのれんが": {
+      "id": 2098180,
+      "form": "俳諧の連歌",
+      "kana": "はいかいのれんが",
+      "gloss": "haikai no renga (humorous, often vulgar style of renga which emerged in the 16th century)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歌": 2,
+        "俳": 6,
+        "連": 4
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1572830/諧声/かいせい": {
+      "id": 1572830,
+      "form": "諧声",
+      "kana": "かいせい",
+      "gloss": "vocal harmony",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "声": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2833326/俳諧味/はいかいみ": {
+      "id": 2833326,
+      "form": "俳諧味",
+      "kana": "はいかいみ",
+      "gloss": "haiku-like quality",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "味": 3,
+        "俳": 6
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1480030/半諧音/はんかいおん": {
+      "id": 1480030,
+      "form": "半諧音",
+      "kana": "はんかいおん",
+      "gloss": "assonance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "音": 1,
+        "半": 2
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2597910/諧和/かいか": {
+      "id": 2597910,
+      "form": "諧和",
+      "kana": "かいか",
+      "gloss": "gentle mutual affection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "和": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5743458/和諧号/わかいごう": {
+      "id": 5743458,
+      "form": "和諧号",
+      "kana": "わかいごう",
+      "gloss": "Hexie (Chinese high-speed train)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "号": 3,
+        "和": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853535/天狗俳諧/てんぐはいかい": {
+      "id": 2853535,
+      "form": "天狗俳諧",
+      "kana": "てんぐはいかい",
+      "gloss": "parlour game in which three people each write one line of a 5-7-5 poem (without seeing the other lines; often producing humorous results)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "俳": 6,
+        "天": 1
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2102730/諧謔を弄する/かいぎゃくをろうする": {
+      "id": 2102730,
+      "form": "諧謔を弄する",
+      "kana": "かいぎゃくをろうする",
+      "gloss": "to crack jokes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-s"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        231426
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弄": 7
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1471990/誹諧/はいかい": {
+      "id": 1471990,
+      "form": "誹諧",
+      "kana": "はいかい",
+      "gloss": "haikai (collective name for haiku, haibun, haiga, senryū, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        359869
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2853524/和諧/わかい": {
+      "id": 2853524,
+      "form": "和諧",
+      "kana": "わかい",
+      "gloss": "harmonious divorce settlement",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "和": 3
+      },
+      "matched": {
+        "カイ": {
+          "actual": "かい",
+          "dictionary": [
+            "カイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1471990:俳諧:はいかい",
+      "form": "俳諧",
+      "kana": "はいかい",
+      "cue": "haikai (collective name for haiku, haibun, haiga, senryū, etc.)",
+      "ids": [
+        1471990
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 106268,
+        "shiberu": 13744,
+        "tubelex": 59850,
+        "wordfreq": 70783
+      },
+      "alternatives_by_kanji": {
+        "俳": [
+          "1471970/俳優/はいゆう",
+          "1471900/俳句/はいく",
+          "1471960/俳味/はいみ"
+        ],
+        "諧": [
+          "1572850/諧謔/かいぎゃく",
+          "1572840/諧調/かいちょう",
+          "1472000/俳諧師/はいかいし"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

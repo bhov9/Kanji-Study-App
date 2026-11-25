@@ -1,0 +1,1230 @@
+{
+  "character": "淡",
+  "grade": 7,
+  "meanings": [
+    "thin",
+    "faint",
+    "pale",
+    "fleeting"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "火",
+    "汁"
+  ],
+  "on": [
+    "タン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あわ.い",
+      "stem": "あわ",
+      "okurigana": "い"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "淡",
+    "heading": "淡",
+    "readings": [
+      "タン",
+      "あわい"
+    ],
+    "examples_by_reading": [
+      [
+        "淡水",
+        "濃淡",
+        "冷淡"
+      ],
+      [
+        "淡い",
+        "淡雪"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "淡",
+      "reading": "タン",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "タン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 35,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1469950/濃淡/のうたん",
+        "1418460/淡水/たんすい",
+        "1557150/冷淡/れいたん",
+        "1597290/淡白/たんぱく",
+        "1838810/淡色/たんしょく",
+        "2847140/淡紅/たんこう",
+        "1597290/淡泊/たんぱく",
+        "1267270/枯淡/こたん",
+        "1804870/恬淡/てんたん",
+        "1418450/淡彩/たんさい"
+      ]
+    },
+    {
+      "reading": "あわい",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1418420/淡い/あわい",
+        "1418470/淡雪/あわゆき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1418420/淡い/あわい",
+    "1469950/濃淡/のうたん",
+    "1418460/淡水/たんすい",
+    "1557150/冷淡/れいたん",
+    "1418470/淡雪/あわゆき",
+    "1597290/淡白/たんぱく",
+    "1838810/淡色/たんしょく",
+    "2847140/淡紅/たんこう",
+    "1597290/淡泊/たんぱく",
+    "1267270/枯淡/こたん",
+    "1804870/恬淡/てんたん",
+    "1418450/淡彩/たんさい",
+    "2832270/淡麗/たんれい",
+    "2866634/淡墨/たんぼく",
+    "1838800/淡水魚/たんすいぎょ",
+    "2841954/淡黄/たんこう",
+    "1507610/平淡/へいたん",
+    "1597270/淡々/たんたん",
+    "1418440/淡紅色/たんこうしょく",
+    "1418430/淡黄色/たんこうしょく",
+    "1838840/淡褐色/たんかっしょく",
+    "1661320/淡水湖/たんすいこ",
+    "1597270/淡淡/たんたん",
+    "1838860/淡緑色/たんりょくしょく",
+    "2532180/淡紫色/たんししょく",
+    "2708110/淡味/たんみ",
+    "2830450/淡水化/たんすいか",
+    "2802650/淡水産/たんすいさん",
+    "1530960/無欲恬淡/むよくてんたん",
+    "1998050/淡水化プラント/たんすいかプラント"
+  ],
+  "candidates": {
+    "1418420/淡い/あわい": {
+      "id": 1418420,
+      "form": "淡い",
+      "kana": "あわい",
+      "gloss": "light (color, taste, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        11245,
+        8048,
+        17251,
+        4182
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あわい": {
+          "actual": "あわ",
+          "dictionary": [
+            "あわ.い"
+          ]
+        }
+      },
+      "official_examples": [
+        "あわい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1469950/濃淡/のうたん": {
+      "id": 1469950,
+      "form": "濃淡",
+      "kana": "のうたん",
+      "gloss": "light and shade",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13947,
+        7693,
+        43883,
+        39316
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "濃": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418460/淡水/たんすい": {
+      "id": 1418460,
+      "form": "淡水",
+      "kana": "たんすい",
+      "gloss": "fresh water (i.e. not salt water)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        8321,
+        20349,
+        27344,
+        54547
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1557150/冷淡/れいたん": {
+      "id": 1557150,
+      "form": "冷淡",
+      "kana": "れいたん",
+      "gloss": "cool",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14390,
+        28755,
+        32185,
+        19031
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "冷": 4
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418470/淡雪/あわゆき": {
+      "id": 1418470,
+      "form": "淡雪",
+      "kana": "あわゆき",
+      "gloss": "light snow",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36441,
+        61110,
+        68122,
+        57043
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雪": 2
+      },
+      "matched": {
+        "あわい": {
+          "actual": "あわ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "あわい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1597290/淡白/たんぱく": {
+      "id": 1597290,
+      "form": "淡白",
+      "kana": "たんぱく",
+      "gloss": "light (flavor, color, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33968,
+        26476,
+        37034,
+        30067
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1838810/淡色/たんしょく": {
+      "id": 1838810,
+      "form": "淡色",
+      "kana": "たんしょく",
+      "gloss": "light color",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        33825,
+        81652,
+        61164,
+        93887
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847140/淡紅/たんこう": {
+      "id": 2847140,
+      "form": "淡紅",
+      "kana": "たんこう",
+      "gloss": "pink",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37424,
+        109954,
+        99041,
+        148527
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紅": 6
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597290/淡泊/たんぱく": {
+      "id": 1597290,
+      "form": "淡泊",
+      "kana": "たんぱく",
+      "gloss": "light (flavor, color, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38548,
+        null,
+        74977,
+        28338
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "泊": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1267270/枯淡/こたん": {
+      "id": 1267270,
+      "form": "枯淡",
+      "kana": "こたん",
+      "gloss": "elegant simplicity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28584,
+        164653,
+        130114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "枯": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1804870/恬淡/てんたん": {
+      "id": 1804870,
+      "form": "恬淡",
+      "kana": "てんたん",
+      "gloss": "disinterested",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-t",
+        "adv-to",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        173990,
+        104248
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418450/淡彩/たんさい": {
+      "id": 1418450,
+      "form": "淡彩",
+      "kana": "たんさい",
+      "gloss": "light colouring",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        140911,
+        169720
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "彩": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832270/淡麗/たんれい": {
+      "id": 2832270,
+      "form": "淡麗",
+      "kana": "たんれい",
+      "gloss": "smooth and refreshing (of sake)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39979,
+        null,
+        132752
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "麗": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866634/淡墨/たんぼく": {
+      "id": 2866634,
+      "form": "淡墨",
+      "kana": "たんぼく",
+      "gloss": "pale Indian ink",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39583,
+        null,
+        null,
+        172110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "墨": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1838800/淡水魚/たんすいぎょ": {
+      "id": 1838800,
+      "form": "淡水魚",
+      "kana": "たんすいぎょ",
+      "gloss": "freshwater fish",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        56518,
+        66183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "魚": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841954/淡黄/たんこう": {
+      "id": 2841954,
+      "form": "淡黄",
+      "kana": "たんこう",
+      "gloss": "pale yellow",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        177324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "黄": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1507610/平淡/へいたん": {
+      "id": 1507610,
+      "form": "平淡",
+      "kana": "へいたん",
+      "gloss": "simple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        70262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597270/淡々/たんたん": {
+      "id": 1597270,
+      "form": "淡々",
+      "kana": "たんたん",
+      "gloss": "uninterested",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        4842
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418440/淡紅色/たんこうしょく": {
+      "id": 1418440,
+      "form": "淡紅色",
+      "kana": "たんこうしょく",
+      "gloss": "pink",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        102842
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2,
+        "紅": 6
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418430/淡黄色/たんこうしょく": {
+      "id": 1418430,
+      "form": "淡黄色",
+      "kana": "たんこうしょく",
+      "gloss": "pale yellow",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        108785
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "黄": 2,
+        "色": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1838840/淡褐色/たんかっしょく": {
+      "id": 1838840,
+      "form": "淡褐色",
+      "kana": "たんかっしょく",
+      "gloss": "light brown",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147275
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "褐": 7,
+        "色": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661320/淡水湖/たんすいこ": {
+      "id": 1661320,
+      "form": "淡水湖",
+      "kana": "たんすいこ",
+      "gloss": "freshwater lake",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        148949
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "湖": 3,
+        "水": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1597270/淡淡/たんたん": {
+      "id": 1597270,
+      "form": "淡淡",
+      "kana": "たんたん",
+      "gloss": "uninterested",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        156702
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1838860/淡緑色/たんりょくしょく": {
+      "id": 1838860,
+      "form": "淡緑色",
+      "kana": "たんりょくしょく",
+      "gloss": "light green",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        157003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2,
+        "緑": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2532180/淡紫色/たんししょく": {
+      "id": 2532180,
+      "form": "淡紫色",
+      "kana": "たんししょく",
+      "gloss": "lilac (colour)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        159025
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紫": 7,
+        "色": 2
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2708110/淡味/たんみ": {
+      "id": 2708110,
+      "form": "淡味",
+      "kana": "たんみ",
+      "gloss": "light flavor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        224819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "味": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830450/淡水化/たんすいか": {
+      "id": 2830450,
+      "form": "淡水化",
+      "kana": "たんすいか",
+      "gloss": "desalination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        244718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "化": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2802650/淡水産/たんすいさん": {
+      "id": 2802650,
+      "form": "淡水産",
+      "kana": "たんすいさん",
+      "gloss": "freshwater",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        244718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "産": 4
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1530960/無欲恬淡/むよくてんたん": {
+      "id": 1530960,
+      "form": "無欲恬淡",
+      "kana": "むよくてんたん",
+      "gloss": "indifferent to worldly gain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "adj-t",
+        "adv-to",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        246822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "欲": 6
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1998050/淡水化プラント/たんすいかプラント": {
+      "id": 1998050,
+      "form": "淡水化プラント",
+      "kana": "たんすいかプラント",
+      "gloss": "desalination plant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        264755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "化": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1597270:淡淡:たんたん",
+      "form": "淡淡",
+      "kana": "たんたん",
+      "cue": "uninterested; unconcerned",
+      "ids": [
+        1597270
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 156702
+      },
+      "alternatives_by_kanji": {
+        "淡": [
+          "1418420/淡い/あわい",
+          "1469950/濃淡/のうたん",
+          "1418460/淡水/たんすい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 17
+}

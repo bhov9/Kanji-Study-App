@@ -1,0 +1,837 @@
+{
+  "character": "捉",
+  "grade": 7,
+  "meanings": [
+    "catch",
+    "capture"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "口",
+    "足",
+    "扎",
+    "止"
+  ],
+  "on": [
+    "ソク",
+    "サク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "とら.える",
+      "stem": "とら",
+      "okurigana": "える"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "捉",
+    "heading": "捉",
+    "readings": [
+      "ソク",
+      "とらえる"
+    ],
+    "examples_by_reading": [
+      [
+        "捕捉"
+      ],
+      [
+        "捉える"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔捕らえる"
+    ],
+    "representative_index": {
+      "kanji": "捉",
+      "reading": "ソク",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1514220/捕捉/ほそく",
+        "1690920/把捉/はそく",
+        "2834432/猿猴捉月/えんこうそくげつ",
+        "2838282/捕捉剤/ほそくざい"
+      ]
+    },
+    {
+      "reading": "とらえる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1598960/捉える/とらえる",
+        "1360550/心を捉える/こころをとらえる",
+        "1877010/言葉尻を捉える/ことばじりをとらえる",
+        "1859330/意味を捉える/いみをとらえる"
+      ]
+    },
+    {
+      "reading": "サク",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1598960/捉える/とらえる",
+    "1514220/捕捉/ほそく",
+    "1690920/把捉/はそく",
+    "1360550/心を捉える/こころをとらえる",
+    "1877010/言葉尻を捉える/ことばじりをとらえる",
+    "1859330/意味を捉える/いみをとらえる",
+    "2834432/猿猴捉月/えんこうそくげつ",
+    "2838282/捕捉剤/ほそくざい",
+    "2856312/捉え方/とらえかた",
+    "2671880/恐怖に捉われる/きょうふにとらわれる",
+    "1699350/手捉み/てづかみ",
+    "1598970/捉われる/とらわれる",
+    "1690090/捉え所/とらえどころ",
+    "1855660/捉えどころのない/とらえどころのない",
+    "1690090/捉えどころ/とらえどころ",
+    "1597780/捉まえる/つかまえる",
+    "1514110/捉まる/つかまる",
+    "1855660/捉え所のない/とらえどころのない",
+    "1855660/捉え所の無い/とらえどころのない",
+    "1690090/捉え処/とらえどころ",
+    "1433650/捉む/つかむ"
+  ],
+  "candidates": {
+    "1598960/捉える/とらえる": {
+      "id": 1598960,
+      "form": "捉える",
+      "kana": "とらえる",
+      "gloss": "to catch",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3788,
+        78424,
+        12275,
+        3125
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とらえる": {
+          "actual": "とら",
+          "dictionary": [
+            "とら.える"
+          ]
+        }
+      },
+      "official_examples": [
+        "とらえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1514220/捕捉/ほそく": {
+      "id": 1514220,
+      "form": "捕捉",
+      "kana": "ほそく",
+      "gloss": "capture",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13816,
+        30685,
+        21173,
+        16298
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "捕": 7
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1690920/把捉/はそく": {
+      "id": 1690920,
+      "form": "把捉",
+      "kana": "はそく",
+      "gloss": "grasping (a meaning)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        203403,
+        197374
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "把": 7
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1360550/心を捉える/こころをとらえる": {
+      "id": 1360550,
+      "form": "心を捉える",
+      "kana": "こころをとらえる",
+      "gloss": "to impress",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        56611
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "とらえる": {
+          "actual": "とら",
+          "dictionary": [
+            "とら.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1877010/言葉尻を捉える/ことばじりをとらえる": {
+      "id": 1877010,
+      "form": "言葉尻を捉える",
+      "kana": "ことばじりをとらえる",
+      "gloss": "to pounce on someone's words",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        95858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2,
+        "尻": 7,
+        "葉": 3
+      },
+      "matched": {
+        "とらえる": {
+          "actual": "とら",
+          "dictionary": [
+            "とら.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1859330/意味を捉える/いみをとらえる": {
+      "id": 1859330,
+      "form": "意味を捉える",
+      "kana": "いみをとらえる",
+      "gloss": "to grasp the meaning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        107957
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3,
+        "味": 3
+      },
+      "matched": {
+        "とらえる": {
+          "actual": "とら",
+          "dictionary": [
+            "とら.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834432/猿猴捉月/えんこうそくげつ": {
+      "id": 2834432,
+      "form": "猿猴捉月",
+      "kana": "えんこうそくげつ",
+      "gloss": "trying to reach above one's station and failing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1,
+        "猿": 7
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2838282/捕捉剤/ほそくざい": {
+      "id": 2838282,
+      "form": "捕捉剤",
+      "kana": "ほそくざい",
+      "gloss": "scavenger",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "捕": 7,
+        "剤": 7
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856312/捉え方/とらえかた": {
+      "id": 2856312,
+      "form": "捉え方",
+      "kana": "とらえかた",
+      "gloss": "interpretation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        30509
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2671880/恐怖に捉われる/きょうふにとらわれる": {
+      "id": 2671880,
+      "form": "恐怖に捉われる",
+      "kana": "きょうふにとらわれる",
+      "gloss": "to be seized with fear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236626
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恐": 7,
+        "怖": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1699350/手捉み/てづかみ": {
+      "id": 1699350,
+      "form": "手捉み",
+      "kana": "てづかみ",
+      "gloss": "grasping (with one's bare hands)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1598970/捉われる/とらわれる": {
+      "id": 1598970,
+      "form": "捉われる",
+      "kana": "とらわれる",
+      "gloss": "to be caught",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        39076,
+        null,
+        null,
+        54969
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1690090/捉え所/とらえどころ": {
+      "id": 1690090,
+      "form": "捉え所",
+      "kana": "とらえどころ",
+      "gloss": "key to understanding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        65459,
+        null,
+        147050
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1855660/捉えどころのない/とらえどころのない": {
+      "id": 1855660,
+      "form": "捉えどころのない",
+      "kana": "とらえどころのない",
+      "gloss": "hard to figure out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        64534
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1690090/捉えどころ/とらえどころ": {
+      "id": 1690090,
+      "form": "捉えどころ",
+      "kana": "とらえどころ",
+      "gloss": "key to understanding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        73738
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1597780/捉まえる/つかまえる": {
+      "id": 1597780,
+      "form": "捉まえる",
+      "kana": "つかまえる",
+      "gloss": "to catch",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        81111
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1514110/捉まる/つかまる": {
+      "id": 1514110,
+      "form": "捉まる",
+      "kana": "つかまる",
+      "gloss": "to be caught",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        85137
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1855660/捉え所のない/とらえどころのない": {
+      "id": 1855660,
+      "form": "捉え所のない",
+      "kana": "とらえどころのない",
+      "gloss": "hard to figure out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        130670
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1855660/捉え所の無い/とらえどころのない": {
+      "id": 1855660,
+      "form": "捉え所の無い",
+      "kana": "とらえどころのない",
+      "gloss": "hard to figure out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        211909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "所": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1690090/捉え処/とらえどころ": {
+      "id": 1690090,
+      "form": "捉え処",
+      "kana": "とらえどころ",
+      "gloss": "key to understanding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        254510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "処": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1433650/捉む/つかむ": {
+      "id": 1433650,
+      "form": "捉む",
+      "kana": "つかむ",
+      "gloss": "to seize",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        307815
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1598960:捉える:とらえる",
+      "form": "捉える",
+      "kana": "とらえる",
+      "cue": "to catch; to capture",
+      "ids": [
+        1598960
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3125,
+        "shiberu": 3788,
+        "tubelex": 78424,
+        "wordfreq": 12275
+      },
+      "alternatives_by_kanji": {
+        "捉": [
+          "1514220/捕捉/ほそく",
+          "1690920/把捉/はそく",
+          "1360550/心を捉える/こころをとらえる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 13
+}

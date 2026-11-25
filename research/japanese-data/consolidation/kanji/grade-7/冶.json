@@ -1,0 +1,803 @@
+{
+  "character": "冶",
+  "grade": 7,
+  "meanings": [
+    "melting",
+    "smelting"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 15
+    }
+  ],
+  "components": [
+    "口",
+    "冫",
+    "厶"
+  ],
+  "on": [
+    "ヤ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "い.る",
+      "stem": "い",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "じ"
+  ],
+  "government": {
+    "kanji": "冶",
+    "heading": "冶",
+    "readings": [
+      "ヤ"
+    ],
+    "examples_by_reading": [
+      [
+        "冶金",
+        "陶冶"
+      ]
+    ],
+    "note_lines": [
+      "鍛冶（かじ）"
+    ],
+    "representative_index": {
+      "kanji": "冶",
+      "reading": "ヤ",
+      "source": "table_36_ya.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "鍛冶"
+      ],
+      "reading": "かじ",
+      "stage": "junior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ヤ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1536310/冶金/やきん",
+        "1655600/陶冶/とうや",
+        "1419150/鍛冶/たんや",
+        "1536300/冶/や",
+        "1536320/冶金学/やきんがく",
+        "1913940/遊冶郎/ゆうやろう",
+        "1536340/冶工/やこう",
+        "1536330/冶金学者/やきんがくしゃ",
+        "1984840/艷冶/えんや",
+        "2194890/粉末冶金/ふんまつやきん"
+      ]
+    },
+    {
+      "reading": "いる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1536310/冶金/やきん",
+    "1655600/陶冶/とうや",
+    "1419150/鍛冶/たんや",
+    "1536300/冶/や",
+    "1536320/冶金学/やきんがく",
+    "1913940/遊冶郎/ゆうやろう",
+    "1536340/冶工/やこう",
+    "1536330/冶金学者/やきんがくしゃ",
+    "1984840/艷冶/えんや",
+    "2194890/粉末冶金/ふんまつやきん",
+    "1419150/鍛冶/かじ",
+    "1446600/刀鍛冶/かたなかじ",
+    "1419150/鍛冶/かぬち",
+    "2633120/鍛冶場/かじば",
+    "2867576/鉄砲鍛冶/てっぽうかじ",
+    "2867576/鉄炮鍛冶/てっぽうかじ",
+    "2867576/てっぽう鍛冶/てっぽうかじ",
+    "1704590/鍛冶屋/かじや",
+    "1704590/鍛冶屋/カジヤ",
+    "1316860/冶具/ジグ"
+  ],
+  "candidates": {
+    "1536310/冶金/やきん": {
+      "id": 1536310,
+      "form": "冶金",
+      "kana": "やきん",
+      "gloss": "metallurgy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29394,
+        53857,
+        93020,
+        90687
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヤ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1655600/陶冶/とうや": {
+      "id": 1655600,
+      "form": "陶冶",
+      "kana": "とうや",
+      "gloss": "training",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        29526,
+        139593,
+        133488,
+        162124
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "陶": 7
+      },
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヤ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1419150/鍛冶/たんや": {
+      "id": 1419150,
+      "form": "鍛冶",
+      "kana": "たんや",
+      "gloss": "blacksmithing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11000,
+        19216,
+        18515,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "鍛": 7
+      },
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1536300/冶/や": {
+      "id": 1536300,
+      "form": "冶",
+      "kana": "や",
+      "gloss": "melting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        66155,
+        100698
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1536320/冶金学/やきんがく": {
+      "id": 1536320,
+      "form": "冶金学",
+      "kana": "やきんがく",
+      "gloss": "metallurgy (the science)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        190881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1,
+        "金": 1
+      },
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1913940/遊冶郎/ゆうやろう": {
+      "id": 1913940,
+      "form": "遊冶郎",
+      "kana": "ゆうやろう",
+      "gloss": "libertine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "郎": 7,
+        "遊": 3
+      },
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1536340/冶工/やこう": {
+      "id": 1536340,
+      "form": "冶工",
+      "kana": "やこう",
+      "gloss": "metallurgical worker",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2
+      },
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1536330/冶金学者/やきんがくしゃ": {
+      "id": 1536330,
+      "form": "冶金学者",
+      "kana": "やきんがくしゃ",
+      "gloss": "metallurgist",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1,
+        "者": 3,
+        "金": 1
+      },
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1984840/艷冶/えんや": {
+      "id": 1984840,
+      "form": "艷冶",
+      "kana": "えんや",
+      "gloss": "charming",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2194890/粉末冶金/ふんまつやきん": {
+      "id": 2194890,
+      "form": "粉末冶金",
+      "kana": "ふんまつやきん",
+      "gloss": "powder metallurgy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "金": 1,
+        "末": 4,
+        "粉": 5
+      },
+      "matched": {
+        "ヤ": {
+          "actual": "や",
+          "dictionary": [
+            "ヤ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1419150/鍛冶/かじ": {
+      "id": 1419150,
+      "form": "鍛冶",
+      "kana": "かじ",
+      "gloss": "blacksmithing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11000,
+        19216,
+        18515,
+        25480
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鍛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1446600/刀鍛冶/かたなかじ": {
+      "id": 1446600,
+      "form": "刀鍛冶",
+      "kana": "かたなかじ",
+      "gloss": "swordsmith",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24825,
+        33644,
+        71447,
+        55147
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鍛": 7,
+        "刀": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1419150/鍛冶/かぬち": {
+      "id": 1419150,
+      "form": "鍛冶",
+      "kana": "かぬち",
+      "gloss": "blacksmithing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11000,
+        19216,
+        18515,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "鍛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2633120/鍛冶場/かじば": {
+      "id": 2633120,
+      "form": "鍛冶場",
+      "kana": "かじば",
+      "gloss": "blacksmith's workshop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        null,
+        53604
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "場": 2,
+        "鍛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2867576/鉄砲鍛冶/てっぽうかじ": {
+      "id": 2867576,
+      "form": "鉄砲鍛冶",
+      "kana": "てっぽうかじ",
+      "gloss": "gunsmith",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        129841
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鍛": 7,
+        "鉄": 3,
+        "砲": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2867576/鉄炮鍛冶/てっぽうかじ": {
+      "id": 2867576,
+      "form": "鉄炮鍛冶",
+      "kana": "てっぽうかじ",
+      "gloss": "gunsmith",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "鉄": 3,
+        "鍛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2867576/てっぽう鍛冶/てっぽうかじ": {
+      "id": 2867576,
+      "form": "てっぽう鍛冶",
+      "kana": "てっぽうかじ",
+      "gloss": "gunsmith",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "鍛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1704590/鍛冶屋/かじや": {
+      "id": 1704590,
+      "form": "鍛冶屋",
+      "kana": "かじや",
+      "gloss": "smith",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        20189,
+        16295,
+        64910,
+        30139
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3,
+        "鍛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1704590/鍛冶屋/カジヤ": {
+      "id": 1704590,
+      "form": "鍛冶屋",
+      "kana": "カジヤ",
+      "gloss": "smith",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        20189,
+        16295,
+        64910,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "屋": 3,
+        "鍛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1316860/冶具/ジグ": {
+      "id": 1316860,
+      "form": "冶具",
+      "kana": "ジグ",
+      "gloss": "jig (tool)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "iK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        63933,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "具": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1536310:冶金:やきん",
+      "form": "冶金",
+      "kana": "やきん",
+      "cue": "metallurgy",
+      "ids": [
+        1536310
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 90687,
+        "shiberu": 29394,
+        "tubelex": 53857,
+        "wordfreq": 93020
+      },
+      "alternatives_by_kanji": {
+        "金": [
+          "1243040/金属/きんぞく",
+          "1242970/金持ち/かねもち",
+          "1243020/金銭/きんせん"
+        ],
+        "冶": [
+          "1655600/陶冶/とうや",
+          "1419150/鍛冶/たんや",
+          "1536300/冶/や"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

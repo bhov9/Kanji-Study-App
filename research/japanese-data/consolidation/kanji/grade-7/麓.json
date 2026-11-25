@@ -1,0 +1,448 @@
+{
+  "character": "麓",
+  "grade": 7,
+  "meanings": [
+    "foot of a mountain"
+  ],
+  "strokes": [
+    19
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 198
+    }
+  ],
+  "components": [
+    "鹿",
+    "比",
+    "木",
+    "广"
+  ],
+  "on": [
+    "ロク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ふもと",
+      "stem": "ふもと",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "麓",
+    "heading": "麓",
+    "readings": [
+      "ロク",
+      "ふもと"
+    ],
+    "examples_by_reading": [
+      [
+        "山麓"
+      ],
+      [
+        "麓"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "麓",
+      "reading": "ロク",
+      "source": "table_43_ro.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ロク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1755750/山麓/さんろく",
+        "2859557/南麓/なんろく",
+        "2859558/北麓/ほくろく",
+        "2859560/東麓/とうろく",
+        "2859559/西麓/せいろく",
+        "2859559/西麓/さいろく",
+        "1868300/岳麓/がくろく"
+      ]
+    },
+    {
+      "reading": "ふもと",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1611440/麓/ふもと",
+        "2867290/麓菫/ふもとすみれ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1611440/麓/ふもと",
+    "1755750/山麓/さんろく",
+    "2859557/南麓/なんろく",
+    "2859558/北麓/ほくろく",
+    "2859560/東麓/とうろく",
+    "2859559/西麓/せいろく",
+    "2859559/西麓/さいろく",
+    "1868300/岳麓/がくろく",
+    "2867290/麓菫/ふもとすみれ"
+  ],
+  "candidates": {
+    "1611440/麓/ふもと": {
+      "id": 1611440,
+      "form": "麓",
+      "kana": "ふもと",
+      "gloss": "foot (of a mountain or hill)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6982,
+        10064,
+        19315,
+        15328
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ふもと": {
+          "actual": "ふもと",
+          "dictionary": [
+            "ふもと"
+          ]
+        }
+      },
+      "official_examples": [
+        "ふもと"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1755750/山麓/さんろく": {
+      "id": 1755750,
+      "form": "山麓",
+      "kana": "さんろく",
+      "gloss": "foot of a mountain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8076,
+        26476,
+        28385,
+        50874
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "ロク": {
+          "actual": "ろく",
+          "dictionary": [
+            "ロク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ロク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2859557/南麓/なんろく": {
+      "id": 2859557,
+      "form": "南麓",
+      "kana": "なんろく",
+      "gloss": "southern foot (of a mountain)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26795,
+        89646,
+        null,
+        161982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "南": 2
+      },
+      "matched": {
+        "ロク": {
+          "actual": "ろく",
+          "dictionary": [
+            "ロク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859558/北麓/ほくろく": {
+      "id": 2859558,
+      "form": "北麓",
+      "kana": "ほくろく",
+      "gloss": "northern foot (of a mountain)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26289,
+        121818,
+        null,
+        167353
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "北": 2
+      },
+      "matched": {
+        "ロク": {
+          "actual": "ろく",
+          "dictionary": [
+            "ロク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859560/東麓/とうろく": {
+      "id": 2859560,
+      "form": "東麓",
+      "kana": "とうろく",
+      "gloss": "eastern foot (of a mountain)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37380,
+        null,
+        128722,
+        183423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "東": 2
+      },
+      "matched": {
+        "ロク": {
+          "actual": "ろく",
+          "dictionary": [
+            "ロク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859559/西麓/せいろく": {
+      "id": 2859559,
+      "form": "西麓",
+      "kana": "せいろく",
+      "gloss": "western foot (of a mountain)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        106463,
+        217672
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "西": 2
+      },
+      "matched": {
+        "ロク": {
+          "actual": "ろく",
+          "dictionary": [
+            "ロク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859559/西麓/さいろく": {
+      "id": 2859559,
+      "form": "西麓",
+      "kana": "さいろく",
+      "gloss": "western foot (of a mountain)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        106463,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "西": 2
+      },
+      "matched": {
+        "ロク": {
+          "actual": "ろく",
+          "dictionary": [
+            "ロク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1868300/岳麓/がくろく": {
+      "id": 1868300,
+      "form": "岳麓",
+      "kana": "がくろく",
+      "gloss": "foot of Mount Fuji",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        299106
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岳": 7
+      },
+      "matched": {
+        "ロク": {
+          "actual": "ろく",
+          "dictionary": [
+            "ロク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2867290/麓菫/ふもとすみれ": {
+      "id": 2867290,
+      "form": "麓菫",
+      "kana": "ふもとすみれ",
+      "gloss": "Viola sieboldii (violet species)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ふもと": {
+          "actual": "ふもと",
+          "dictionary": [
+            "ふもと"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1611440:麓:ふもと",
+      "form": "麓",
+      "kana": "ふもと",
+      "cue": "foot (of a mountain or hill); bottom",
+      "ids": [
+        1611440
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 15328,
+        "shiberu": 6982,
+        "tubelex": 10064,
+        "wordfreq": 19315
+      },
+      "alternatives_by_kanji": {
+        "麓": [
+          "1755750/山麓/さんろく",
+          "2859557/南麓/なんろく",
+          "2859558/北麓/ほくろく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

@@ -1,0 +1,1887 @@
+{
+  "character": "読",
+  "grade": 2,
+  "meanings": [
+    "read"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "士",
+    "儿",
+    "冖"
+  ],
+  "on": [
+    "ドク",
+    "トク",
+    "トウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "よ.む",
+      "stem": "よ",
+      "okurigana": "む"
+    },
+    {
+      "sourceNotation": "-よ.み",
+      "stem": "-よ",
+      "okurigana": "み"
+    }
+  ],
+  "nanori": [
+    "よみ"
+  ],
+  "government": {
+    "kanji": "読",
+    "heading": "読（讀）",
+    "readings": [
+      "ドク",
+      "トク",
+      "トウ",
+      "よむ"
+    ],
+    "examples_by_reading": [
+      [
+        "読書",
+        "音読",
+        "購読"
+      ],
+      [
+        "読本"
+      ],
+      [
+        "読点",
+        "句読点"
+      ],
+      [
+        "読む",
+        "読み"
+      ]
+    ],
+    "note_lines": [
+      "読経（どきょう）",
+      "",
+      "",
+      "⇔詠む"
+    ],
+    "representative_index": {
+      "kanji": "読",
+      "reading": "ドク",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "読経"
+      ],
+      "reading": "どきょう",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ドク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 109,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1456420/読書/どくしょ",
+        "1282420/購読/こうどく",
+        "1183990/音読/おんどく",
+        "1582400/読本/どくほん",
+        "1456400/読者/どくしゃ",
+        "1560730/朗読/ろうどく",
+        "1199200/解読/かいどく",
+        "1150990/愛読/あいどく",
+        "1165400/一読/いちどく",
+        "1456460/読破/どくは"
+      ]
+    },
+    {
+      "reading": "トク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1456420/読書/とくしょ",
+        "1582400/読本/とくほん",
+        "2589520/読本/よみほん",
+        "1583750/副読本/ふくとくほん"
+      ]
+    },
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1244050/句読点/くとうてん",
+        "1456450/読点/とうてん",
+        "1244040/句読/くとう",
+        "2848472/吏読/りとう",
+        "1244060/句読法/くとうほう",
+        "2351600/句読文字/くとうもじ"
+      ]
+    },
+    {
+      "reading": "よむ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1456360/読む/よむ",
+        "1634670/貪り読む/むさぼりよむ",
+        "2181100/空気を読む/くうきをよむ",
+        "2835842/心を読む/こころをよむ",
+        "2864078/サバ読む/さばよむ",
+        "1593810/サバを読む/さばをよむ",
+        "2401820/行間を読む/ぎょうかんをよむ",
+        "1593810/さばを読む/さばをよむ",
+        "2864078/さば読む/さばよむ",
+        "1634670/むさぼり読む/むさぼりよむ"
+      ]
+    },
+    {
+      "reading": "よみ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 107,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1456130/読み/よみ",
+        "1456210/読み取る/よみとる",
+        "1456260/読み上げる/よみあげる",
+        "1456200/読み込む/よみこむ",
+        "1456250/読み書き/よみかき",
+        "1456320/読み返す/よみかえす",
+        "1606070/読み物/よみもの",
+        "1551450/立ち読み/たちよみ",
+        "1456300/読み直す/よみなおす",
+        "1490460/秒読み/びょうよみ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1456360/読む/よむ",
+    "1456130/読み/よみ",
+    "1456420/読書/どくしょ",
+    "1282420/購読/こうどく",
+    "1183990/音読/おんどく",
+    "1244050/句読点/くとうてん",
+    "1456420/読書/とくしょ",
+    "1456450/読点/とうてん",
+    "1582400/読本/とくほん",
+    "2589520/読本/よみほん",
+    "1582400/読本/どくほん",
+    "1456400/読者/どくしゃ",
+    "1456210/読み取る/よみとる",
+    "1560730/朗読/ろうどく",
+    "1456260/読み上げる/よみあげる",
+    "1456200/読み込む/よみこむ",
+    "1199200/解読/かいどく",
+    "1456250/読み書き/よみかき",
+    "1150990/愛読/あいどく",
+    "1456320/読み返す/よみかえす",
+    "1606070/読み物/よみもの",
+    "1165400/一読/いちどく",
+    "1551450/立ち読み/たちよみ",
+    "1456300/読み直す/よみなおす",
+    "1456460/読破/どくは",
+    "1490460/秒読み/びょうよみ",
+    "1456220/読み手/よみて",
+    "1478680/判読/はんどく",
+    "1688210/読了/どくりょう",
+    "1337900/熟読/じゅくどく"
+  ],
+  "candidates": {
+    "1456360/読む/よむ": {
+      "id": 1456360,
+      "form": "読む",
+      "kana": "よむ",
+      "gloss": "to read",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        249,
+        369,
+        1242,
+        460
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [
+        "よむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1456130/読み/よみ": {
+      "id": 1456130,
+      "form": "読み",
+      "kana": "よみ",
+      "gloss": "reading",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8546,
+        5362,
+        1089,
+        5552
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [
+        "よむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1456420/読書/どくしょ": {
+      "id": 1456420,
+      "form": "読書",
+      "kana": "どくしょ",
+      "gloss": "reading (books)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2616,
+        6879,
+        5154,
+        6778
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ドク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1282420/購読/こうどく": {
+      "id": 1282420,
+      "form": "購読",
+      "kana": "こうどく",
+      "gloss": "buying and reading (book, magazine, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        6258,
+        7059,
+        8743,
+        53244
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "購": 7
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ドク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1183990/音読/おんどく": {
+      "id": 1183990,
+      "form": "音読",
+      "kana": "おんどく",
+      "gloss": "reading aloud",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12094,
+        17465,
+        25763,
+        40674
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "音": 1
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ドク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1244050/句読点/くとうてん": {
+      "id": 1244050,
+      "form": "句読点",
+      "kana": "くとうてん",
+      "gloss": "punctuation mark",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18988,
+        45405,
+        41163,
+        73865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2,
+        "句": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1456420/読書/とくしょ": {
+      "id": 1456420,
+      "form": "読書",
+      "kana": "とくしょ",
+      "gloss": "reading (books)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2616,
+        6879,
+        5154,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ドク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1456450/読点/とうてん": {
+      "id": 1456450,
+      "form": "読点",
+      "kana": "とうてん",
+      "gloss": "comma",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        74977,
+        99450
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1582400/読本/とくほん": {
+      "id": 1582400,
+      "form": "読本",
+      "kana": "とくほん",
+      "gloss": "reading-book",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        66425
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [
+        "トク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2589520/読本/よみほん": {
+      "id": 2589520,
+      "form": "読本",
+      "kana": "よみほん",
+      "gloss": "yomihon (type of popular literature from the late Edo period)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "トク": {
+          "actual": "よみ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "トク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1582400/読本/どくほん": {
+      "id": 1582400,
+      "form": "読本",
+      "kana": "どくほん",
+      "gloss": "reading-book",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [
+        "トク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1456400/読者/どくしゃ": {
+      "id": 1456400,
+      "form": "読者",
+      "kana": "どくしゃ",
+      "gloss": "reader",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1107,
+        6578,
+        3961,
+        6028
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1456210/読み取る/よみとる": {
+      "id": 1456210,
+      "form": "読み取る",
+      "kana": "よみとる",
+      "gloss": "to read and understand",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16806,
+        5780,
+        19596,
+        5225
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1560730/朗読/ろうどく": {
+      "id": 1560730,
+      "form": "朗読",
+      "kana": "ろうどく",
+      "gloss": "reading aloud",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9138,
+        8175,
+        12107,
+        21489
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "朗": 6
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1456260/読み上げる/よみあげる": {
+      "id": 1456260,
+      "form": "読み上げる",
+      "kana": "よみあげる",
+      "gloss": "to read out",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10824,
+        6663,
+        34525,
+        8559
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456200/読み込む/よみこむ": {
+      "id": 1456200,
+      "form": "読み込む",
+      "kana": "よみこむ",
+      "gloss": "to read thoroughly",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20029,
+        4924,
+        30598,
+        16849
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "込": 7
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1199200/解読/かいどく": {
+      "id": 1199200,
+      "form": "解読",
+      "kana": "かいどく",
+      "gloss": "deciphering",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10381,
+        11014,
+        12107,
+        12327
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "解": 5
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456250/読み書き/よみかき": {
+      "id": 1456250,
+      "form": "読み書き",
+      "kana": "よみかき",
+      "gloss": "reading and writing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5941,
+        19709,
+        18794,
+        22073
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1150990/愛読/あいどく": {
+      "id": 1150990,
+      "form": "愛読",
+      "kana": "あいどく",
+      "gloss": "reading with pleasure",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7565,
+        35224,
+        21741,
+        36620
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456320/読み返す/よみかえす": {
+      "id": 1456320,
+      "form": "読み返す",
+      "kana": "よみかえす",
+      "gloss": "to reread",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10565,
+        21370,
+        34525,
+        12821
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "返": 3
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1606070/読み物/よみもの": {
+      "id": 1606070,
+      "form": "読み物",
+      "kana": "よみもの",
+      "gloss": "reading matter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13285,
+        26803,
+        26068,
+        45594
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1165400/一読/いちどく": {
+      "id": 1165400,
+      "form": "一読",
+      "kana": "いちどく",
+      "gloss": "perusal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17433,
+        36550,
+        22289,
+        35556
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1551450/立ち読み/たちよみ": {
+      "id": 1551450,
+      "form": "立ち読み",
+      "kana": "たちよみ",
+      "gloss": "reading while standing (in a bookstore, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22660,
+        44010,
+        17751,
+        27426
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456300/読み直す/よみなおす": {
+      "id": 1456300,
+      "form": "読み直す",
+      "kana": "よみなおす",
+      "gloss": "to read (a book, etc.) over again",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17830,
+        31364,
+        63004,
+        28929
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456460/読破/どくは": {
+      "id": 1456460,
+      "form": "読破",
+      "kana": "どくは",
+      "gloss": "reading through (a book)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16498,
+        61110,
+        35760,
+        37787
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "破": 5
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1490460/秒読み/びょうよみ": {
+      "id": 1490460,
+      "form": "秒読み",
+      "kana": "びょうよみ",
+      "gloss": "countdown",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30454,
+        40691,
+        22590,
+        35201
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秒": 3
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456220/読み手/よみて": {
+      "id": 1456220,
+      "form": "読み手",
+      "kana": "よみて",
+      "gloss": "reader (person)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29412,
+        36283,
+        27344,
+        43688
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "よみ": {
+          "actual": "よ",
+          "dictionary": [
+            "-よ.み"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1478680/判読/はんどく": {
+      "id": 1478680,
+      "form": "判読",
+      "kana": "はんどく",
+      "gloss": "decipherment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18506,
+        50803,
+        50386,
+        52901
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "判": 5
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1688210/読了/どくりょう": {
+      "id": 1688210,
+      "form": "読了",
+      "kana": "どくりょう",
+      "gloss": "finishing reading",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30349,
+        68915,
+        22017,
+        60542
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "了": 7
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1337900/熟読/じゅくどく": {
+      "id": 1337900,
+      "form": "熟読",
+      "kana": "じゅくどく",
+      "gloss": "careful reading",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        37439,
+        44489,
+        37951,
+        39527
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "熟": 6
+      },
+      "matched": {
+        "ドク": {
+          "actual": "どく",
+          "dictionary": [
+            "ドク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1583750/副読本/ふくとくほん": {
+      "id": 1583750,
+      "form": "副読本",
+      "kana": "ふくとくほん",
+      "gloss": "supplementary reader",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        68122,
+        125595
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "副": 4,
+        "本": 1
+      },
+      "matched": {
+        "トク": {
+          "actual": "とく",
+          "dictionary": [
+            "トク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244040/句読/くとう": {
+      "id": 1244040,
+      "form": "句読",
+      "kana": "くとう",
+      "gloss": "breaks and pauses (in a sentence)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        203520
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "句": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2848472/吏読/りとう": {
+      "id": 2848472,
+      "form": "吏読",
+      "kana": "りとう",
+      "gloss": "Idu (archaic writing system that uses Chinese characters to represent the Korean language)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        185634,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "吏": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1244060/句読法/くとうほう": {
+      "id": 1244060,
+      "form": "句読法",
+      "kana": "くとうほう",
+      "gloss": "punctuation rules",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        232358
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "句": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2351600/句読文字/くとうもじ": {
+      "id": 2351600,
+      "form": "句読文字",
+      "kana": "くとうもじ",
+      "gloss": "punctuation character",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "文": 1,
+        "字": 1,
+        "句": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1634670/貪り読む/むさぼりよむ": {
+      "id": 1634670,
+      "form": "貪り読む",
+      "kana": "むさぼりよむ",
+      "gloss": "to read avidly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        149327
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貪": 7
+      },
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2181100/空気を読む/くうきをよむ": {
+      "id": 2181100,
+      "form": "空気を読む",
+      "kana": "くうきをよむ",
+      "gloss": "to read the situation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11455
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1,
+        "気": 1
+      },
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835842/心を読む/こころをよむ": {
+      "id": 2835842,
+      "form": "心を読む",
+      "kana": "こころをよむ",
+      "gloss": "to read (someone's) thoughts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        13640
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864078/サバ読む/さばよむ": {
+      "id": 2864078,
+      "form": "サバ読む",
+      "kana": "さばよむ",
+      "gloss": "to manipulate figures to one's advantage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        67528
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1593810/サバを読む/さばをよむ": {
+      "id": 1593810,
+      "form": "サバを読む",
+      "kana": "さばをよむ",
+      "gloss": "to manipulate figures to one's advantage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        92844
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2401820/行間を読む/ぎょうかんをよむ": {
+      "id": 2401820,
+      "form": "行間を読む",
+      "kana": "ぎょうかんをよむ",
+      "gloss": "to read between the lines",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        93186
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2,
+        "間": 2
+      },
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1593810/さばを読む/さばをよむ": {
+      "id": 1593810,
+      "form": "さばを読む",
+      "kana": "さばをよむ",
+      "gloss": "to manipulate figures to one's advantage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147912
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864078/さば読む/さばよむ": {
+      "id": 2864078,
+      "form": "さば読む",
+      "kana": "さばよむ",
+      "gloss": "to manipulate figures to one's advantage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        160304
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1634670/むさぼり読む/むさぼりよむ": {
+      "id": 1634670,
+      "form": "むさぼり読む",
+      "kana": "むさぼりよむ",
+      "gloss": "to read avidly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        180625
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "よむ": {
+          "actual": "よ",
+          "dictionary": [
+            "よ.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1456420:読書:どくしょ",
+      "form": "読書",
+      "kana": "どくしょ",
+      "cue": "reading (books)",
+      "ids": [
+        1456420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 6778,
+        "shiberu": 2616,
+        "tubelex": 6879,
+        "wordfreq": 5154
+      }
+    },
+    {
+      "wordId": "jmdict:1490460:秒読み:びょうよみ",
+      "form": "秒読み",
+      "kana": "びょうよみ",
+      "cue": "countdown",
+      "ids": [
+        1490460
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 35201,
+        "shiberu": 30454,
+        "tubelex": 40691,
+        "wordfreq": 22590
+      },
+      "alternatives_by_kanji": {
+        "読": [
+          "1456360/読む/よむ",
+          "1456130/読み/よみ",
+          "1456420/読書/どくしょ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1560730:朗読:ろうどく",
+      "form": "朗読",
+      "kana": "ろうどく",
+      "cue": "reading aloud; recitation",
+      "ids": [
+        1560730
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 21489,
+        "shiberu": 9138,
+        "tubelex": 8175,
+        "wordfreq": 12107
+      },
+      "alternatives_by_kanji": {
+        "読": [
+          "1456360/読む/よむ",
+          "1456130/読み/よみ",
+          "1456420/読書/どくしょ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 107
+}

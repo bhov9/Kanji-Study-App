@@ -1,0 +1,507 @@
+{
+  "character": "赴",
+  "grade": 7,
+  "meanings": [
+    "proceed",
+    "get",
+    "become",
+    "tend"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 156
+    }
+  ],
+  "components": [
+    "走",
+    "土",
+    "卜"
+  ],
+  "on": [
+    "フ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おもむ.く",
+      "stem": "おもむ",
+      "okurigana": "く"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "赴",
+    "heading": "赴",
+    "readings": [
+      "フ",
+      "おもむく"
+    ],
+    "examples_by_reading": [
+      [
+        "赴任"
+      ],
+      [
+        "赴く"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "赴",
+      "reading": "フ",
+      "source": "table_28_hu.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "フ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1498200/赴任/ふにん",
+        "1417660/単身赴任/たんしんふにん",
+        "2837551/海外赴任/かいがいふにん",
+        "1498210/赴任地/ふにんち",
+        "2140490/単身赴任者/たんしんふにんしゃ",
+        "2827131/赴援/ふえん"
+      ]
+    },
+    {
+      "reading": "おもむく",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1864000/快方に赴く/かいほうにおもむく",
+        "1887780/盛大に赴く/せいだいにおもむく",
+        "1498190/赴く/おもむく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1498200/赴任/ふにん",
+    "1417660/単身赴任/たんしんふにん",
+    "2837551/海外赴任/かいがいふにん",
+    "1498210/赴任地/ふにんち",
+    "2140490/単身赴任者/たんしんふにんしゃ",
+    "2827131/赴援/ふえん",
+    "1864000/快方に赴く/かいほうにおもむく",
+    "1887780/盛大に赴く/せいだいにおもむく",
+    "2835872/赴き深い/おもむきぶかい",
+    "1498190/赴く/おもむく"
+  ],
+  "candidates": {
+    "1498200/赴任/ふにん": {
+      "id": 1498200,
+      "form": "赴任",
+      "kana": "ふにん",
+      "gloss": "moving to a different location to start a new job",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22939,
+        17642,
+        13682,
+        17394
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [
+        "フ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1417660/単身赴任/たんしんふにん": {
+      "id": 1417660,
+      "form": "単身赴任",
+      "kana": "たんしんふにん",
+      "gloss": "taking up a post away from one's family",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        34522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3,
+        "単": 4,
+        "任": 5
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837551/海外赴任/かいがいふにん": {
+      "id": 2837551,
+      "form": "海外赴任",
+      "kana": "かいがいふにん",
+      "gloss": "overseas assignment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        64699
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2,
+        "任": 5,
+        "海": 2
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1498210/赴任地/ふにんち": {
+      "id": 1498210,
+      "form": "赴任地",
+      "kana": "ふにんち",
+      "gloss": "place of (new) post",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        118628
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5,
+        "地": 2
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2140490/単身赴任者/たんしんふにんしゃ": {
+      "id": 2140490,
+      "form": "単身赴任者",
+      "kana": "たんしんふにんしゃ",
+      "gloss": "employee posted away from their family",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        226273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3,
+        "単": 4,
+        "任": 5,
+        "者": 3
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827131/赴援/ふえん": {
+      "id": 2827131,
+      "form": "赴援",
+      "kana": "ふえん",
+      "gloss": "going to save",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252422
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "援": 7
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1864000/快方に赴く/かいほうにおもむく": {
+      "id": 1864000,
+      "form": "快方に赴く",
+      "kana": "かいほうにおもむく",
+      "gloss": "to improve",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2,
+        "快": 5
+      },
+      "matched": {
+        "おもむく": {
+          "actual": "おもむ",
+          "dictionary": [
+            "おもむ.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1887780/盛大に赴く/せいだいにおもむく": {
+      "id": 1887780,
+      "form": "盛大に赴く",
+      "kana": "せいだいにおもむく",
+      "gloss": "to grow in prosperity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "盛": 6,
+        "大": 1
+      },
+      "matched": {
+        "おもむく": {
+          "actual": "おもむ",
+          "dictionary": [
+            "おもむ.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835872/赴き深い/おもむきぶかい": {
+      "id": 2835872,
+      "form": "赴き深い",
+      "kana": "おもむきぶかい",
+      "gloss": "elegant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "深": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1498190/赴く/おもむく": {
+      "id": 1498190,
+      "form": "赴く",
+      "kana": "おもむく",
+      "gloss": "to go in the direction of",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        4873,
+        15938,
+        22895,
+        6216
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おもむく": {
+          "actual": "おもむ",
+          "dictionary": [
+            "おもむ.く"
+          ]
+        }
+      },
+      "official_examples": [
+        "おもむく"
+      ],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1498200:赴任:ふにん",
+      "form": "赴任",
+      "kana": "ふにん",
+      "cue": "moving to a different location to start a new job; (proceeding to) new appointment",
+      "ids": [
+        1498200
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 17394,
+        "shiberu": 22939,
+        "tubelex": 17642,
+        "wordfreq": 13682
+      },
+      "alternatives_by_kanji": {
+        "任": [
+          "1383180/責任/せきにん",
+          "1467150/任せる/まかせる",
+          "1467260/任務/にんむ"
+        ],
+        "赴": [
+          "1417660/単身赴任/たんしんふにん",
+          "2837551/海外赴任/かいがいふにん",
+          "1498210/赴任地/ふにんち"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

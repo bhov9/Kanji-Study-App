@@ -1,0 +1,2507 @@
+{
+  "character": "伝",
+  "grade": 4,
+  "meanings": [
+    "transmit",
+    "go along",
+    "walk along",
+    "follow",
+    "report",
+    "communicate",
+    "legend",
+    "tradition"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "二",
+    "厶"
+  ],
+  "on": [
+    "デン",
+    "テン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "つた.わる",
+      "stem": "つた",
+      "okurigana": "わる"
+    },
+    {
+      "sourceNotation": "つた.える",
+      "stem": "つた",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "つた.う",
+      "stem": "つた",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "つだ.う",
+      "stem": "つだ",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "-づた.い",
+      "stem": "-づた",
+      "okurigana": "い"
+    },
+    {
+      "sourceNotation": "つて",
+      "stem": "つて",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "つたえ"
+  ],
+  "government": {
+    "kanji": "伝",
+    "heading": "伝（傳）",
+    "readings": [
+      "デン",
+      "つたわる",
+      "つたえる",
+      "つたう"
+    ],
+    "examples_by_reading": [
+      [
+        "伝言",
+        "伝統",
+        "宣伝"
+      ],
+      [
+        "伝わる"
+      ],
+      [
+        "伝える",
+        "言い伝え"
+      ],
+      [
+        "伝う"
+      ]
+    ],
+    "note_lines": [
+      "伝馬船（てんません）",
+      "",
+      "",
+      "手伝（てつだ）う"
+    ],
+    "representative_index": {
+      "kanji": "伝",
+      "reading": "デン",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "手伝う"
+      ],
+      "reading": "てつだう",
+      "stage": "elementary",
+      "pdf_page": 51,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "伝馬船"
+      ],
+      "reading": "てんません",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "デン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 314,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1442260/伝統/でんとう",
+        "1389730/宣伝/せんでん",
+        "1582180/伝言/でんごん",
+        "1442100/伝説/でんせつ",
+        "1159460/遺伝/いでん",
+        "1442240/伝達/でんたつ",
+        "1442110/伝染/でんせん",
+        "1442050/伝承/でんしょう",
+        "1442020/伝授/でんじゅ",
+        "1442450/伝来/でんらい"
+      ]
+    },
+    {
+      "reading": "つたわる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1441900/伝わる/つたわる",
+        "2690470/漏れ伝わる/もれつたわる",
+        "1892450/代々伝わる/だいだいつたわる",
+        "1892450/代代伝わる/だいだいつたわる"
+      ]
+    },
+    {
+      "reading": "つたえる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1441870/伝える/つたえる",
+        "1264180/言い伝える/いいつたえる",
+        "1505850/聞き伝える/ききつたえる",
+        "1636610/語り伝える/かたりつたえる",
+        "2671040/申し伝える/もうしつたえる",
+        "1701660/書き伝える/かきつたえる",
+        "1867330/考えを伝える/かんがえをつたえる",
+        "1911720/命令を伝える/めいれいをつたえる",
+        "1900620/熱を伝える/ねつをつたえる",
+        "1264180/言伝える/いいつたえる"
+      ]
+    },
+    {
+      "reading": "つたう",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1441850/伝う/つたう",
+        "2872284/一犬虚に吠ゆれば万犬実を伝う/いっけんきょにほゆればばんけんじつをつたう"
+      ]
+    },
+    {
+      "reading": "テン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1442380/伝馬/てんま",
+        "1442390/伝馬船/てんません",
+        "1442150/伝奏/てんそう",
+        "1442390/伝馬船/てんまぶね",
+        "2052880/武家伝奏/ぶけてんそう",
+        "2424100/伝手/てんじゅ",
+        "2377330/伝達コスト/てんたつコスト"
+      ]
+    },
+    {
+      "reading": "つだう",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "づたい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1441840/伝い/づたい",
+        "1755150/山伝い/やまづたい",
+        "1811480/川伝い/かわづたい",
+        "1446910/島伝い/しまづたい",
+        "2829117/壁伝い/かべづたい",
+        "1689820/飛び石伝い/とびいしづたい",
+        "1863570/海岸伝い/かいがんづたい",
+        "1902410/浜伝い/はまづたい",
+        "1689820/飛石伝い/とびいしづたい",
+        "1910610/峰伝い/みねづたい"
+      ]
+    },
+    {
+      "reading": "つて",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2545840/伝言/つてこと",
+        "2834957/風の伝/かぜのつて",
+        "1441820/伝/つて"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1441870/伝える/つたえる",
+    "1441900/伝わる/つたわる",
+    "1442260/伝統/でんとう",
+    "1389730/宣伝/せんでん",
+    "1441850/伝う/つたう",
+    "1582180/伝言/でんごん",
+    "2545840/伝言/つてこと",
+    "1442100/伝説/でんせつ",
+    "1159460/遺伝/いでん",
+    "1442240/伝達/でんたつ",
+    "1442110/伝染/でんせん",
+    "1442050/伝承/でんしょう",
+    "1442020/伝授/でんじゅ",
+    "1442450/伝来/でんらい",
+    "1441960/伝記/でんき",
+    "1442280/伝導/でんどう",
+    "1484100/秘伝/ひでん",
+    "1442320/伝道/でんどう",
+    "1442370/伝播/でんぱ",
+    "1175200/駅伝/えきでん",
+    "1318330/自伝/じでん",
+    "1442410/伝票/でんぴょう",
+    "1442160/伝送/でんそう",
+    "1644220/列伝/れつでん",
+    "1442420/伝聞/でんぶん",
+    "1441930/伝奇/でんき",
+    "1257060/喧伝/けんでん",
+    "1442460/伝令/でんれい",
+    "1441840/伝い/づたい",
+    "1431460/直伝/じきでん"
+  ],
+  "candidates": {
+    "1441870/伝える/つたえる": {
+      "id": 1441870,
+      "form": "伝える",
+      "kana": "つたえる",
+      "gloss": "to convey",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        738,
+        426,
+        3000,
+        393
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [
+        "つたえる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1441900/伝わる/つたわる": {
+      "id": 1441900,
+      "form": "伝わる",
+      "kana": "つたわる",
+      "gloss": "to spread (of a rumour, news, etc.)",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1633,
+        1525,
+        5790,
+        1006
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つたわる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.わる"
+          ]
+        }
+      },
+      "official_examples": [
+        "つたわる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1442260/伝統/でんとう": {
+      "id": 1442260,
+      "form": "伝統",
+      "kana": "でんとう",
+      "gloss": "tradition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2525,
+        3242,
+        2110,
+        7001
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "統": 5
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [
+        "デン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1389730/宣伝/せんでん": {
+      "id": 1389730,
+      "form": "宣伝",
+      "kana": "せんでん",
+      "gloss": "publicity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4151,
+        4096,
+        2148,
+        5849
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宣": 6
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [
+        "デン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1441850/伝う/つたう": {
+      "id": 1441850,
+      "form": "伝う",
+      "kana": "つたう",
+      "gloss": "to move along",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6212,
+        12609,
+        81694,
+        4674
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つたう": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "つたう"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1582180/伝言/でんごん": {
+      "id": 1582180,
+      "form": "伝言",
+      "kana": "でんごん",
+      "gloss": "(verbal) message",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5563
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [
+        "デン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2545840/伝言/つてこと": {
+      "id": 2545840,
+      "form": "伝言",
+      "kana": "つてこと",
+      "gloss": "(verbal) message",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "つて": {
+          "actual": "つて",
+          "dictionary": [
+            "つて"
+          ]
+        }
+      },
+      "official_examples": [
+        "デン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1442100/伝説/でんせつ": {
+      "id": 1442100,
+      "form": "伝説",
+      "kana": "でんせつ",
+      "gloss": "legend",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        2350,
+        2718,
+        1922,
+        2536
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1159460/遺伝/いでん": {
+      "id": 1159460,
+      "form": "遺伝",
+      "kana": "いでん",
+      "gloss": "heredity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        4897,
+        4260,
+        6894,
+        18239
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1442240/伝達/でんたつ": {
+      "id": 1442240,
+      "form": "伝達",
+      "kana": "でんたつ",
+      "gloss": "transmission (e.g. news, chemical signals, electricity)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3964,
+        7752,
+        9454,
+        11325
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "達": 4
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1442110/伝染/でんせん": {
+      "id": 1442110,
+      "form": "伝染",
+      "kana": "でんせん",
+      "gloss": "contagion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7008,
+        19609,
+        13918,
+        17514
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "染": 6
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442050/伝承/でんしょう": {
+      "id": 1442050,
+      "form": "伝承",
+      "kana": "でんしょう",
+      "gloss": "handing down (information)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        17958,
+        12724,
+        13090,
+        10951
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "承": 6
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442020/伝授/でんじゅ": {
+      "id": 1442020,
+      "form": "伝授",
+      "kana": "でんじゅ",
+      "gloss": "(giving) instruction (esp. in the secrets of an art, discipline, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9985,
+        20075,
+        15185,
+        16755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "授": 5
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442450/伝来/でんらい": {
+      "id": 1442450,
+      "form": "伝来",
+      "kana": "でんらい",
+      "gloss": "introduction (from abroad)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6756,
+        27560,
+        36201,
+        45768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441960/伝記/でんき": {
+      "id": 1441960,
+      "form": "伝記",
+      "kana": "でんき",
+      "gloss": "biography",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        7542,
+        30165,
+        23216,
+        41691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442280/伝導/でんどう": {
+      "id": 1442280,
+      "form": "伝導",
+      "kana": "でんどう",
+      "gloss": "conduction (of heat or electricity)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        19998,
+        11983,
+        18794,
+        51443
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "導": 5
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1484100/秘伝/ひでん": {
+      "id": 1484100,
+      "form": "秘伝",
+      "kana": "ひでん",
+      "gloss": "secret (recipe, medicine, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15550,
+        16967,
+        21173,
+        19446
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秘": 6
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442320/伝道/でんどう": {
+      "id": 1442320,
+      "form": "伝道",
+      "kana": "でんどう",
+      "gloss": "missionary work",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        27438,
+        10959,
+        18234,
+        76311
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442370/伝播/でんぱ": {
+      "id": 1442370,
+      "form": "伝播",
+      "kana": "でんぱ",
+      "gloss": "transmission",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13377,
+        21810,
+        27344,
+        19708
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1175200/駅伝/えきでん": {
+      "id": 1175200,
+      "form": "駅伝",
+      "kana": "えきでん",
+      "gloss": "long-distance relay race",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32120,
+        13461,
+        16272,
+        64546
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "駅": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1318330/自伝/じでん": {
+      "id": 1318330,
+      "form": "自伝",
+      "kana": "じでん",
+      "gloss": "autobiography",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16789,
+        29981,
+        25402,
+        43313
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442410/伝票/でんぴょう": {
+      "id": 1442410,
+      "form": "伝票",
+      "kana": "でんぴょう",
+      "gloss": "chit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32808,
+        20620,
+        28048,
+        19828
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "票": 4
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442160/伝送/でんそう": {
+      "id": 1442160,
+      "form": "伝送",
+      "kana": "でんそう",
+      "gloss": "transmission",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27084,
+        24022,
+        22017,
+        83940
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "送": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644220/列伝/れつでん": {
+      "id": 1644220,
+      "form": "列伝",
+      "kana": "れつでん",
+      "gloss": "series of biographies",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17973,
+        37110,
+        25763,
+        74865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "列": 3
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442420/伝聞/でんぶん": {
+      "id": 1442420,
+      "form": "伝聞",
+      "kana": "でんぶん",
+      "gloss": "hearsay",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        19810,
+        35224,
+        40209,
+        32336
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聞": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441930/伝奇/でんき": {
+      "id": 1441930,
+      "form": "伝奇",
+      "kana": "でんき",
+      "gloss": "fantasy fiction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13511,
+        78424,
+        44357,
+        72033
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奇": 7
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1257060/喧伝/けんでん": {
+      "id": 1257060,
+      "form": "喧伝",
+      "kana": "けんでん",
+      "gloss": "spreading around (news, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18486,
+        53857,
+        33270,
+        32618
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442460/伝令/でんれい": {
+      "id": 1442460,
+      "form": "伝令",
+      "kana": "でんれい",
+      "gloss": "delivering an order",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22339,
+        35006,
+        47321,
+        19393
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441840/伝い/づたい": {
+      "id": 1441840,
+      "form": "伝い",
+      "kana": "づたい",
+      "gloss": "along (a wall, river, railroad tracks, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        35086,
+        27052,
+        45882,
+        30621
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1431460/直伝/じきでん": {
+      "id": 1431460,
+      "form": "直伝",
+      "kana": "じきでん",
+      "gloss": "direct transmission (of mystery, skill, secret, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26324,
+        52268,
+        35760,
+        26143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "デン": {
+          "actual": "でん",
+          "dictionary": [
+            "デン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2690470/漏れ伝わる/もれつたわる": {
+      "id": 2690470,
+      "form": "漏れ伝わる",
+      "kana": "もれつたわる",
+      "gloss": "to be transmitted",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        90355
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "漏": 7
+      },
+      "matched": {
+        "つたわる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.わる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1892450/代々伝わる/だいだいつたわる": {
+      "id": 1892450,
+      "form": "代々伝わる",
+      "kana": "だいだいつたわる",
+      "gloss": "to be handed down from generation to generation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28946
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "つたわる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.わる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1892450/代代伝わる/だいだいつたわる": {
+      "id": 1892450,
+      "form": "代代伝わる",
+      "kana": "だいだいつたわる",
+      "gloss": "to be handed down from generation to generation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "つたわる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.わる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1264180/言い伝える/いいつたえる": {
+      "id": 1264180,
+      "form": "言い伝える",
+      "kana": "いいつたえる",
+      "gloss": "to hand down (a story, legend, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        29747,
+        42628,
+        null,
+        30837
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505850/聞き伝える/ききつたえる": {
+      "id": 1505850,
+      "form": "聞き伝える",
+      "kana": "ききつたえる",
+      "gloss": "to hear (secondhand)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        40554,
+        101749,
+        null,
+        144420
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聞": 2
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1636610/語り伝える/かたりつたえる": {
+      "id": 1636610,
+      "form": "語り伝える",
+      "kana": "かたりつたえる",
+      "gloss": "to hand down",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        null,
+        76556
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "語": 2
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2671040/申し伝える/もうしつたえる": {
+      "id": 2671040,
+      "form": "申し伝える",
+      "kana": "もうしつたえる",
+      "gloss": "to convey (a message, e.g. to one's superior)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        53202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "申": 3
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1701660/書き伝える/かきつたえる": {
+      "id": 1701660,
+      "form": "書き伝える",
+      "kana": "かきつたえる",
+      "gloss": "to record for transmission to posterity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        241892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1867330/考えを伝える/かんがえをつたえる": {
+      "id": 1867330,
+      "form": "考えを伝える",
+      "kana": "かんがえをつたえる",
+      "gloss": "to convey one's thoughts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        51222
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "考": 2
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1911720/命令を伝える/めいれいをつたえる": {
+      "id": 1911720,
+      "form": "命令を伝える",
+      "kana": "めいれいをつたえる",
+      "gloss": "to pass on an order",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        55707
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4,
+        "命": 3
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1900620/熱を伝える/ねつをつたえる": {
+      "id": 1900620,
+      "form": "熱を伝える",
+      "kana": "ねつをつたえる",
+      "gloss": "to conduct heat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        69721
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "熱": 4
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1264180/言伝える/いいつたえる": {
+      "id": 1264180,
+      "form": "言伝える",
+      "kana": "いいつたえる",
+      "gloss": "to hand down (a story, legend, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        138344
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "つたえる": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872284/一犬虚に吠ゆれば万犬実を伝う/いっけんきょにほゆればばんけんじつをつたう": {
+      "id": 2872284,
+      "form": "一犬虚に吠ゆれば万犬実を伝う",
+      "kana": "いっけんきょにほゆればばんけんじつをつたう",
+      "gloss": "one dog barks at a shadow, and a hundred bark at the sound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "実": 3,
+        "虚": 7,
+        "犬": 1,
+        "万": 2,
+        "一": 1
+      },
+      "matched": {
+        "つたう": {
+          "actual": "つた",
+          "dictionary": [
+            "つた.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442380/伝馬/てんま": {
+      "id": 1442380,
+      "form": "伝馬",
+      "kana": "てんま",
+      "gloss": "post horse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41831,
+        70783,
+        104025
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "馬": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442390/伝馬船/てんません": {
+      "id": 1442390,
+      "form": "伝馬船",
+      "kana": "てんません",
+      "gloss": "large sculling boat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        164653,
+        175074
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "馬": 2,
+        "船": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442150/伝奏/てんそう": {
+      "id": 1442150,
+      "form": "伝奏",
+      "kana": "てんそう",
+      "gloss": "delivering a message to the emperor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        174261
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "奏": 6
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1442390/伝馬船/てんまぶね": {
+      "id": 1442390,
+      "form": "伝馬船",
+      "kana": "てんまぶね",
+      "gloss": "large sculling boat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        164653,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "馬": 2,
+        "船": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2052880/武家伝奏/ぶけてんそう": {
+      "id": 2052880,
+      "form": "武家伝奏",
+      "kana": "ぶけてんそう",
+      "gloss": "imperial official in charge of communication between the shogunate and the court (during the Muromachi and Edo periods)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        211837
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5,
+        "家": 2,
+        "奏": 6
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2424100/伝手/てんじゅ": {
+      "id": 2424100,
+      "form": "伝手",
+      "kana": "てんじゅ",
+      "gloss": "tuning peg (on a biwa or shamisen)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2377330/伝達コスト/てんたつコスト": {
+      "id": 2377330,
+      "form": "伝達コスト",
+      "kana": "てんたつコスト",
+      "gloss": "transmission cost",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "達": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1755150/山伝い/やまづたい": {
+      "id": 1755150,
+      "form": "山伝い",
+      "kana": "やまづたい",
+      "gloss": "(passing along) from mountain to mountain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        152308
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1811480/川伝い/かわづたい": {
+      "id": 1811480,
+      "form": "川伝い",
+      "kana": "かわづたい",
+      "gloss": "following a river",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        154403
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "川": 1
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446910/島伝い/しまづたい": {
+      "id": 1446910,
+      "form": "島伝い",
+      "kana": "しまづたい",
+      "gloss": "from island to island",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        171324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "島": 3
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829117/壁伝い/かべづたい": {
+      "id": 2829117,
+      "form": "壁伝い",
+      "kana": "かべづたい",
+      "gloss": "along a wall",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42771
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "壁": 7
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1689820/飛び石伝い/とびいしづたい": {
+      "id": 1689820,
+      "form": "飛び石伝い",
+      "kana": "とびいしづたい",
+      "gloss": "walking over stepping stones",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        173727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飛": 4,
+        "石": 1
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1863570/海岸伝い/かいがんづたい": {
+      "id": 1863570,
+      "form": "海岸伝い",
+      "kana": "かいがんづたい",
+      "gloss": "along the coast",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236626
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岸": 3,
+        "海": 2
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1902410/浜伝い/はまづたい": {
+      "id": 1902410,
+      "form": "浜伝い",
+      "kana": "はまづたい",
+      "gloss": "along the beach",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        256467
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "浜": 7
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1689820/飛石伝い/とびいしづたい": {
+      "id": 1689820,
+      "form": "飛石伝い",
+      "kana": "とびいしづたい",
+      "gloss": "walking over stepping stones",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        261831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飛": 4,
+        "石": 1
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1910610/峰伝い/みねづたい": {
+      "id": 1910610,
+      "form": "峰伝い",
+      "kana": "みねづたい",
+      "gloss": "along the ridges",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "峰": 7
+      },
+      "matched": {
+        "づたい": {
+          "actual": "づた",
+          "dictionary": [
+            "-づた.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834957/風の伝/かぜのつて": {
+      "id": 2834957,
+      "form": "風の伝",
+      "kana": "かぜのつて",
+      "gloss": "hearsay",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "つて": {
+          "actual": "つて",
+          "dictionary": [
+            "つて"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441820/伝/つて": {
+      "id": 1441820,
+      "form": "伝",
+      "kana": "つて",
+      "gloss": "means of making contact",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        15610
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つて": {
+          "actual": "つて",
+          "dictionary": [
+            "つて"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1442100:伝説:でんせつ",
+      "form": "伝説",
+      "kana": "でんせつ",
+      "cue": "legend; folklore",
+      "ids": [
+        1442100
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2536,
+        "shiberu": 2350,
+        "tubelex": 2718,
+        "wordfreq": 1922
+      },
+      "alternatives_by_kanji": {
+        "説": [
+          "1386460/説明/せつめい",
+          "1348430/小説/しょうせつ",
+          "1176960/演説/えんぜつ"
+        ],
+        "伝": [
+          "1441870/伝える/つたえる",
+          "1441900/伝わる/つたわる",
+          "1442260/伝統/でんとう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 34
+}

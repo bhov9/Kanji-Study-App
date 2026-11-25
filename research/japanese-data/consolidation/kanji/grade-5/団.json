@@ -1,0 +1,1667 @@
+{
+  "character": "団",
+  "grade": 5,
+  "meanings": [
+    "group",
+    "association"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 31
+    }
+  ],
+  "components": [
+    "寸",
+    "囗"
+  ],
+  "on": [
+    "ダン",
+    "トン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "かたまり",
+      "stem": "かたまり",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "まる.い",
+      "stem": "まる",
+      "okurigana": "い"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "団",
+    "heading": "団（團）",
+    "readings": [
+      "ダン",
+      "トン"
+    ],
+    "examples_by_reading": [
+      [
+        "団結",
+        "団地",
+        "集団"
+      ],
+      [
+        "布団"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "団",
+      "reading": "ダン",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ダン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 324,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1333730/集団/しゅうだん",
+        "1419230/団結/だんけつ",
+        "1419300/団地/だんち",
+        "1956650/団/だん",
+        "1419270/団体/だんたい",
+        "1419240/団子/だんご",
+        "1248770/軍団/ぐんだん",
+        "1296940/財団/ざいだん",
+        "1230010/球団/きゅうだん",
+        "1253450/劇団/げきだん"
+      ]
+    },
+    {
+      "reading": "トン",
+      "official": true,
+      "stage": "senior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 25,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1291980/座布団/ざぶとん",
+        "1590140/掛け布団/かけぶとん",
+        "1594170/敷布団/しきぶとん",
+        "1594170/敷き布団/しきぶとん",
+        "2833290/水団/すいとん",
+        "1590140/掛布団/かけぶとん",
+        "1906360/布団を敷く/ふとんをしく",
+        "1930470/羽毛布団/うもうぶとん",
+        "2116080/布団干し/ふとんほし",
+        "1590140/かけ布団/かけぶとん"
+      ]
+    },
+    {
+      "reading": "かたまり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "まるい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1333730/集団/しゅうだん",
+    "1419230/団結/だんけつ",
+    "1419300/団地/だんち",
+    "1956650/団/だん",
+    "1419270/団体/だんたい",
+    "1419240/団子/だんご",
+    "1248770/軍団/ぐんだん",
+    "1296940/財団/ざいだん",
+    "1230010/球団/きゅうだん",
+    "1253450/劇団/げきだん",
+    "1164680/一団/いちだん",
+    "1207430/楽団/がくだん",
+    "1419310/団長/だんちょう",
+    "1237260/教団/きょうだん",
+    "1308930/師団/しだん",
+    "1419180/団員/だんいん",
+    "1553230/旅団/りょだん",
+    "1506610/兵団/へいだん",
+    "2847790/経団連/けいだんれん",
+    "1623660/団欒/だんらん",
+    "1704050/団塊/だんかい",
+    "1274280/公団/こうだん",
+    "1646340/社団/しゃだん",
+    "1466530/入団/にゅうだん",
+    "1392050/船団/せんだん",
+    "1779180/退団/たいだん",
+    "2848892/中団/ちゅうだん",
+    "1376430/星団/せいだん",
+    "1503980/分団/ぶんだん",
+    "1222470/気団/きだん"
+  ],
+  "candidates": {
+    "1333730/集団/しゅうだん": {
+      "id": 1333730,
+      "form": "集団",
+      "kana": "しゅうだん",
+      "gloss": "group",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3293,
+        2848,
+        1838,
+        2929
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "集": 3
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ダン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1419230/団結/だんけつ": {
+      "id": 1419230,
+      "form": "団結",
+      "kana": "だんけつ",
+      "gloss": "unity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7924,
+        9802,
+        11368,
+        13602
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "結": 4
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ダン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1419300/団地/だんち": {
+      "id": 1419300,
+      "form": "団地",
+      "kana": "だんち",
+      "gloss": "multi-unit apartments",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10455,
+        9773,
+        10372,
+        28868
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ダン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1956650/団/だん": {
+      "id": 1956650,
+      "form": "団",
+      "kana": "だん",
+      "gloss": "group",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        1736,
+        2083,
+        1626,
+        6467
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1419270/団体/だんたい": {
+      "id": 1419270,
+      "form": "団体",
+      "kana": "だんたい",
+      "gloss": "group",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2806,
+        2021,
+        1403,
+        6205
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1419240/団子/だんご": {
+      "id": 1419240,
+      "form": "団子",
+      "kana": "だんご",
+      "gloss": "dango",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7750,
+        4078,
+        11204,
+        18654
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1248770/軍団/ぐんだん": {
+      "id": 1248770,
+      "form": "軍団",
+      "kana": "ぐんだん",
+      "gloss": "army corps",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22824,
+        8494,
+        6453,
+        11115
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軍": 4
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1296940/財団/ざいだん": {
+      "id": 1296940,
+      "form": "財団",
+      "kana": "ざいだん",
+      "gloss": "foundation (institution)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14114,
+        8254,
+        7509,
+        34857
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "財": 5
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1230010/球団/きゅうだん": {
+      "id": 1230010,
+      "form": "球団",
+      "kana": "きゅうだん",
+      "gloss": "baseball team",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26961,
+        7220,
+        8169,
+        52563
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "球": 3
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1253450/劇団/げきだん": {
+      "id": 1253450,
+      "form": "劇団",
+      "kana": "げきだん",
+      "gloss": "troupe",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17965,
+        11226,
+        9163,
+        22720
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "劇": 6
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1164680/一団/いちだん": {
+      "id": 1164680,
+      "form": "一団",
+      "kana": "いちだん",
+      "gloss": "body",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6186,
+        23344,
+        26690,
+        12480
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1207430/楽団/がくだん": {
+      "id": 1207430,
+      "form": "楽団",
+      "kana": "がくだん",
+      "gloss": "orchestra",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6727,
+        24022,
+        16272,
+        33551
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "楽": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1419310/団長/だんちょう": {
+      "id": 1419310,
+      "form": "団長",
+      "kana": "だんちょう",
+      "gloss": "leader of a group",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24656,
+        12652,
+        8611,
+        15712
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "長": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237260/教団/きょうだん": {
+      "id": 1237260,
+      "form": "教団",
+      "kana": "きょうだん",
+      "gloss": "religious organization",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20001,
+        10837,
+        10707,
+        25908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "教": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1308930/師団/しだん": {
+      "id": 1308930,
+      "form": "師団",
+      "kana": "しだん",
+      "gloss": "(army) division",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11835,
+        16786,
+        16770,
+        30015
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "師": 5
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1419180/団員/だんいん": {
+      "id": 1419180,
+      "form": "団員",
+      "kana": "だんいん",
+      "gloss": "group member",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13952,
+        22860,
+        24433,
+        24987
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "員": 3
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1553230/旅団/りょだん": {
+      "id": 1553230,
+      "form": "旅団",
+      "kana": "りょだん",
+      "gloss": "brigade",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32482,
+        17547,
+        23842,
+        48597
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "旅": 3
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1506610/兵団/へいだん": {
+      "id": 1506610,
+      "form": "兵団",
+      "kana": "へいだん",
+      "gloss": "army corps",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32843,
+        31906,
+        17002,
+        34272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847790/経団連/けいだんれん": {
+      "id": 2847790,
+      "form": "経団連",
+      "kana": "けいだんれん",
+      "gloss": "Japan Business Federation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29617,
+        23673,
+        23544,
+        100724
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "連": 4,
+        "経": 5
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1623660/団欒/だんらん": {
+      "id": 1623660,
+      "form": "団欒",
+      "kana": "だんらん",
+      "gloss": "sitting together in a circle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17356,
+        30165,
+        54233,
+        36847
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1704050/団塊/だんかい": {
+      "id": 1704050,
+      "form": "団塊",
+      "kana": "だんかい",
+      "gloss": "mass",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28629,
+        27177,
+        23842,
+        148989
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塊": 7
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1274280/公団/こうだん": {
+      "id": 1274280,
+      "form": "公団",
+      "kana": "こうだん",
+      "gloss": "public corporation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28766,
+        23586,
+        39319,
+        75547
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1646340/社団/しゃだん": {
+      "id": 1646340,
+      "form": "社団",
+      "kana": "しゃだん",
+      "gloss": "corporation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15050,
+        13462,
+        111938
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "社": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1466530/入団/にゅうだん": {
+      "id": 1466530,
+      "form": "入団",
+      "kana": "にゅうだん",
+      "gloss": "joining (a group, team, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        16530,
+        16515,
+        29881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1392050/船団/せんだん": {
+      "id": 1392050,
+      "form": "船団",
+      "kana": "せんだん",
+      "gloss": "fleet (fishing, naval, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22209,
+        23216,
+        33905
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "船": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1779180/退団/たいだん": {
+      "id": 1779180,
+      "form": "退団",
+      "kana": "たいだん",
+      "gloss": "leaving (a group, team, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        30862,
+        23842,
+        76202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "退": 6
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2848892/中団/ちゅうだん": {
+      "id": 2848892,
+      "form": "中団",
+      "kana": "ちゅうだん",
+      "gloss": "midfield (in a horse race or motor race)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        20809,
+        50941,
+        140789
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376430/星団/せいだん": {
+      "id": 1376430,
+      "form": "星団",
+      "kana": "せいだん",
+      "gloss": "star cluster",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24703,
+        51518,
+        82768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "星": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1503980/分団/ぶんだん": {
+      "id": 1503980,
+      "form": "分団",
+      "kana": "ぶんだん",
+      "gloss": "branch (of a larger organization)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        32097,
+        91294,
+        155910
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1222470/気団/きだん": {
+      "id": 1222470,
+      "form": "気団",
+      "kana": "きだん",
+      "gloss": "air mass",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38931,
+        77923,
+        175900
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "ダン": {
+          "actual": "だん",
+          "dictionary": [
+            "ダン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1291980/座布団/ざぶとん": {
+      "id": 1291980,
+      "form": "座布団",
+      "kana": "ざぶとん",
+      "gloss": "zabuton",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        18234,
+        16346
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "座": 6
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590140/掛け布団/かけぶとん": {
+      "id": 1590140,
+      "form": "掛け布団",
+      "kana": "かけぶとん",
+      "gloss": "duvet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42493,
+        24570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "掛": 7
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594170/敷布団/しきぶとん": {
+      "id": 1594170,
+      "form": "敷布団",
+      "kana": "しきぶとん",
+      "gloss": "futon (laid on the floor)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        64910,
+        68596
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "敷": 7
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594170/敷き布団/しきぶとん": {
+      "id": 1594170,
+      "form": "敷き布団",
+      "kana": "しきぶとん",
+      "gloss": "futon (laid on the floor)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        90446,
+        69704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "敷": 7
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2833290/水団/すいとん": {
+      "id": 2833290,
+      "form": "水団",
+      "kana": "すいとん",
+      "gloss": "flour dumplings in soup",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        242932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590140/掛布団/かけぶとん": {
+      "id": 1590140,
+      "form": "掛布団",
+      "kana": "かけぶとん",
+      "gloss": "duvet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        112310,
+        77766
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "掛": 7
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1906360/布団を敷く/ふとんをしく": {
+      "id": 1906360,
+      "form": "布団を敷く",
+      "kana": "ふとんをしく",
+      "gloss": "to lay out a futon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28657
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "敷": 7
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1930470/羽毛布団/うもうぶとん": {
+      "id": 1930470,
+      "form": "羽毛布団",
+      "kana": "うもうぶとん",
+      "gloss": "down quilt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        58333
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "毛": 2,
+        "羽": 2
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2116080/布団干し/ふとんほし": {
+      "id": 2116080,
+      "form": "布団干し",
+      "kana": "ふとんほし",
+      "gloss": "drying a futon (by hanging it outside in the sun)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        87430
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "干": 6
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590140/かけ布団/かけぶとん": {
+      "id": 1590140,
+      "form": "かけ布団",
+      "kana": "かけぶとん",
+      "gloss": "duvet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        87575
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5
+      },
+      "matched": {
+        "トン": {
+          "actual": "とん",
+          "dictionary": [
+            "トン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1203450:外郭団体:がいかくだんたい",
+      "form": "外郭団体",
+      "kana": "がいかくだんたい",
+      "cue": "auxiliary organization (organisation); extra-departmental body",
+      "ids": [
+        1203450
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 146219
+      },
+      "alternatives_by_kanji": {
+        "外": [
+          "1201260/海外/かいがい",
+          "1203270/外す/はずす",
+          "1203310/外れる/はずれる"
+        ],
+        "体": [
+          "1409310/体格/たいかく",
+          "1409480/体裁/ていさい",
+          "1499970/風体/ふうてい"
+        ],
+        "団": [
+          "1333730/集団/しゅうだん",
+          "1419230/団結/だんけつ",
+          "1419300/団地/だんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1419270:団体:だんたい",
+      "form": "団体",
+      "kana": "だんたい",
+      "cue": "group; party",
+      "ids": [
+        1419270
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6205,
+        "shiberu": 2806,
+        "tubelex": 2021,
+        "wordfreq": 1403
+      },
+      "alternatives_by_kanji": {
+        "体": [
+          "1409310/体格/たいかく",
+          "1409480/体裁/ていさい",
+          "1499970/風体/ふうてい"
+        ],
+        "団": [
+          "1333730/集団/しゅうだん",
+          "1419230/団結/だんけつ",
+          "1419300/団地/だんち"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1519600:暴力団:ぼうりょくだん",
+      "form": "暴力団",
+      "kana": "ぼうりょくだん",
+      "cue": "bōryokudan; gangster organization (organisation)",
+      "ids": [
+        1519600
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 27788,
+        "wordfreq": 10217
+      },
+      "alternatives_by_kanji": {
+        "力": [
+          "1445130/努力/どりょく",
+          "1258220/権力/けんりょく",
+          "1555260/力量/りきりょう"
+        ],
+        "団": [
+          "1333730/集団/しゅうだん",
+          "1419230/団結/だんけつ",
+          "1419300/団地/だんち"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 36
+}

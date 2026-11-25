@@ -1,0 +1,1335 @@
+{
+  "character": "井",
+  "grade": 4,
+  "meanings": [
+    "well",
+    "well crib",
+    "town",
+    "community"
+  ],
+  "strokes": [
+    4
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 7
+    },
+    {
+      "type": "nelson_c",
+      "value": 4
+    }
+  ],
+  "components": [
+    "｜",
+    "ノ",
+    "一",
+    "二",
+    "井"
+  ],
+  "on": [
+    "セイ",
+    "ショウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "い",
+      "stem": "い",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "いの",
+    "さい",
+    "ひ"
+  ],
+  "government": {
+    "kanji": "井",
+    "heading": "井",
+    "readings": [
+      "セイ",
+      "ショウ",
+      "い"
+    ],
+    "examples_by_reading": [
+      [
+        "油井",
+        "市井"
+      ],
+      [
+        "天井"
+      ],
+      [
+        "井戸"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "井",
+      "reading": "セイ",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セイ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 20,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1308100/市井/しせい",
+        "1538620/油井/ゆせい",
+        "2826198/井楼/せいろう",
+        "1629660/井目/せいもく",
+        "2640190/井水/せいすい",
+        "2870456/塩井/えんせい",
+        "2639530/井蛙/せいあ",
+        "1573930/さく井/さくせい",
+        "2834521/坑井/こうせい",
+        "1308110/市井の人/しせいのひと"
+      ]
+    },
+    {
+      "reading": "ショウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1438340/天井/てんじょう"
+      ]
+    },
+    {
+      "reading": "い",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 46,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1160330/井戸/いど",
+        "1308100/市井/いちい",
+        "1687970/筒井/つつい",
+        "1160320/井桁/いげた",
+        "2845102/福井/ふくい",
+        "5193134/丸井/まるい",
+        "1160480/井筒/いづつ",
+        "5315302/三井住友銀行/みついすみともぎんこう",
+        "1160410/井戸端/いどばた",
+        "1160380/井戸水/いどみず"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1438340/天井/てんじょう",
+    "1160330/井戸/いど",
+    "1308100/市井/しせい",
+    "1308100/市井/いちい",
+    "1538620/油井/ゆせい",
+    "1687970/筒井/つつい",
+    "1160320/井桁/いげた",
+    "2845102/福井/ふくい",
+    "5193134/丸井/まるい",
+    "1160480/井筒/いづつ",
+    "5315302/三井住友銀行/みついすみともぎんこう",
+    "1160410/井戸端/いどばた",
+    "1160380/井戸水/いどみず",
+    "5315362/三井物産/みついぶっさん",
+    "2826198/井楼/せいろう",
+    "1629660/井目/せいもく",
+    "1955830/井堰/いせき",
+    "5624265/福井大学/ふくいだいがく",
+    "2640190/井水/せいすい",
+    "5581336/日商岩井/にっしょういわい",
+    "1687980/筒井筒/つついづつ",
+    "5624230/福井県立大学/ふくいけんりつだいがく",
+    "2870456/塩井/えんせい",
+    "2639530/井蛙/せいあ",
+    "1573930/さく井/さくせい",
+    "1955800/井/い",
+    "5384217/松井証券/まついしょうけん",
+    "1160420/井戸端会議/いどばたかいぎ",
+    "2248170/井の中の蛙/いのなかのかわず",
+    "5624238/福井工業大学/ふくいこうぎょうだいがく"
+  ],
+  "candidates": {
+    "1438340/天井/てんじょう": {
+      "id": 1438340,
+      "form": "天井",
+      "kana": "てんじょう",
+      "gloss": "ceiling",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2603,
+        2463,
+        5988,
+        2476
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "天": 1
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "じょう",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1160330/井戸/いど": {
+      "id": 1160330,
+      "form": "井戸",
+      "kana": "いど",
+      "gloss": "water well",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3942,
+        4808,
+        10032,
+        11821
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戸": 2
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [
+        "い"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1308100/市井/しせい": {
+      "id": 1308100,
+      "form": "市井",
+      "kana": "しせい",
+      "gloss": "the street",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24640,
+        54711,
+        32185,
+        28271
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "市": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1308100/市井/いちい": {
+      "id": 1308100,
+      "form": "市井",
+      "kana": "いちい",
+      "gloss": "the street",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24640,
+        54711,
+        32185,
+        172110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "市": 2
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1538620/油井/ゆせい": {
+      "id": 1538620,
+      "form": "油井",
+      "kana": "ゆせい",
+      "gloss": "oil well",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44489,
+        43420,
+        156667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "油": 3
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1687970/筒井/つつい": {
+      "id": 1687970,
+      "form": "筒井",
+      "kana": "つつい",
+      "gloss": "round well",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11807,
+        38312,
+        22590,
+        77306
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筒": 7
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1160320/井桁/いげた": {
+      "id": 1160320,
+      "form": "井桁",
+      "kana": "いげた",
+      "gloss": "well curb consisting of wooden beams crossed at the ends",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37138,
+        63933,
+        84059,
+        101624
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "桁": 7
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845102/福井/ふくい": {
+      "id": 2845102,
+      "form": "福井",
+      "kana": "ふくい",
+      "gloss": "Fukui (city, prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2922,
+        null,
+        4596,
+        50422
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "福": 3
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5193134/丸井/まるい": {
+      "id": 5193134,
+      "form": "丸井",
+      "kana": "まるい",
+      "gloss": "Marui",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17794,
+        27689,
+        84799
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丸": 2
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1160480/井筒/いづつ": {
+      "id": 1160480,
+      "form": "井筒",
+      "kana": "いづつ",
+      "gloss": "well curb",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50803,
+        44849,
+        112973
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筒": 7
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5315302/三井住友銀行/みついすみともぎんこう": {
+      "id": 5315302,
+      "form": "三井住友銀行",
+      "kana": "みついすみともぎんこう",
+      "gloss": "Sumitomo Mitsui Banking Corporation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        29477,
+        225452
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "住": 3,
+        "行": 2,
+        "三": 1,
+        "友": 2,
+        "銀": 3
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1160410/井戸端/いどばた": {
+      "id": 1160410,
+      "form": "井戸端",
+      "kana": "いどばた",
+      "gloss": "side of well",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        43420,
+        67798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "端": 7,
+        "戸": 2
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1160380/井戸水/いどみず": {
+      "id": 1160380,
+      "form": "井戸水",
+      "kana": "いどみず",
+      "gloss": "well water",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        50941,
+        45524
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "戸": 2
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5315362/三井物産/みついぶっさん": {
+      "id": 5315362,
+      "form": "三井物産",
+      "kana": "みついぶっさん",
+      "gloss": "Mitsui and Co.",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        48867,
+        193991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "三": 1,
+        "産": 4
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826198/井楼/せいろう": {
+      "id": 2826198,
+      "form": "井楼",
+      "kana": "せいろう",
+      "gloss": "wooden watchtower",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        null,
+        227196
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "楼": 7
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1629660/井目/せいもく": {
+      "id": 1629660,
+      "form": "井目",
+      "kana": "せいもく",
+      "gloss": "the nine principal points (on a go board)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        256467
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1955830/井堰/いせき": {
+      "id": 1955830,
+      "form": "井堰",
+      "kana": "いせき",
+      "gloss": "dam",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        172358,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5624265/福井大学/ふくいだいがく": {
+      "id": 5624265,
+      "form": "福井大学",
+      "kana": "ふくいだいがく",
+      "gloss": "Fukui University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        97220,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1,
+        "福": 3,
+        "大": 1
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2640190/井水/せいすい": {
+      "id": 2640190,
+      "form": "井水",
+      "kana": "せいすい",
+      "gloss": "well water",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        231994
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5581336/日商岩井/にっしょういわい": {
+      "id": 5581336,
+      "form": "日商岩井",
+      "kana": "にっしょういわい",
+      "gloss": "Nissho Iwai Corporation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        131059,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岩": 2,
+        "日": 1,
+        "商": 3
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1687980/筒井筒/つついづつ": {
+      "id": 1687980,
+      "form": "筒井筒",
+      "kana": "つついづつ",
+      "gloss": "well curb of a round well",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        166481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筒": 7
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5624230/福井県立大学/ふくいけんりつだいがく": {
+      "id": 5624230,
+      "form": "福井県立大学",
+      "kana": "ふくいけんりつだいがく",
+      "gloss": "Fukui Prefectural University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        158644,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1,
+        "立": 1,
+        "学": 1,
+        "県": 3,
+        "福": 3
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870456/塩井/えんせい": {
+      "id": 2870456,
+      "form": "塩井",
+      "kana": "えんせい",
+      "gloss": "salt well",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        161690,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塩": 4
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2639530/井蛙/せいあ": {
+      "id": 2639530,
+      "form": "井蛙",
+      "kana": "せいあ",
+      "gloss": "frog in a well",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1573930/さく井/さくせい": {
+      "id": 1573930,
+      "form": "さく井",
+      "kana": "さくせい",
+      "gloss": "well drilling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        166230,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1955800/井/い": {
+      "id": 1955800,
+      "form": "井",
+      "kana": "い",
+      "gloss": "well",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23422
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5384217/松井証券/まついしょうけん": {
+      "id": 5384217,
+      "form": "松井証券",
+      "kana": "まついしょうけん",
+      "gloss": "Matsui Securities (Japanese online securities firm)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        108425,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "証": 5,
+        "松": 4,
+        "券": 6
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1160420/井戸端会議/いどばたかいぎ": {
+      "id": 1160420,
+      "form": "井戸端会議",
+      "kana": "いどばたかいぎ",
+      "gloss": "content-free chat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43891
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "端": 7,
+        "戸": 2,
+        "議": 4
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2248170/井の中の蛙/いのなかのかわず": {
+      "id": 2248170,
+      "form": "井の中の蛙",
+      "kana": "いのなかのかわず",
+      "gloss": "person who is ignorant of the real world",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        51849
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5624238/福井工業大学/ふくいこうぎょうだいがく": {
+      "id": 5624238,
+      "form": "福井工業大学",
+      "kana": "ふくいこうぎょうだいがく",
+      "gloss": "Fukui University of Technology",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        172358,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1,
+        "工": 2,
+        "学": 1,
+        "業": 3,
+        "福": 3
+      },
+      "matched": {
+        "い": {
+          "actual": "い",
+          "dictionary": [
+            "い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834521/坑井/こうせい": {
+      "id": 2834521,
+      "form": "坑井",
+      "kana": "こうせい",
+      "gloss": "winze (mining)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "坑": 7
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1308110/市井の人/しせいのひと": {
+      "id": 1308110,
+      "form": "市井の人",
+      "kana": "しせいのひと",
+      "gloss": "townspeople",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        118990
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "市": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1438340:天井:てんじょう",
+      "form": "天井",
+      "kana": "てんじょう",
+      "cue": "ceiling",
+      "ids": [
+        1438340
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2476,
+        "shiberu": 2603,
+        "tubelex": 2463,
+        "wordfreq": 5988
+      },
+      "alternatives_by_kanji": {
+        "天": [
+          "1439580/天然/てんねん",
+          "1582090/天地/てんち",
+          "1172100/雨天/うてん"
+        ],
+        "井": [
+          "1160330/井戸/いど",
+          "1308100/市井/しせい",
+          "1308100/市井/いちい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 44
+}

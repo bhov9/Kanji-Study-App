@@ -1,0 +1,893 @@
+{
+  "character": "詮",
+  "grade": 7,
+  "meanings": [
+    "discussion",
+    "methods called for",
+    "selection",
+    "result"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "王",
+    "言",
+    "个",
+    "ハ"
+  ],
+  "on": [
+    "セン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "せん.ずる",
+      "stem": "せん",
+      "okurigana": "ずる"
+    },
+    {
+      "sourceNotation": "かい",
+      "stem": "かい",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "あき.らか",
+      "stem": "あき",
+      "okurigana": "らか"
+    }
+  ],
+  "nanori": [
+    "あき"
+  ],
+  "government": {
+    "kanji": "詮",
+    "heading": "詮",
+    "readings": [
+      "セン"
+    ],
+    "examples_by_reading": [
+      [
+        "詮索",
+        "所詮"
+      ]
+    ],
+    "note_lines": [
+      "＊［（付）第２の３参照］"
+    ],
+    "representative_index": {
+      "kanji": "詮",
+      "reading": "セン",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1343300/所詮/しょせん",
+        "1392130/詮索/せんさく",
+        "1824270/詮無い/せんない",
+        "1824280/詮議/せんぎ",
+        "1824270/詮ない/せんない",
+        "2099680/詮索好き/せんさくずき",
+        "2558700/詮議立て/せんぎだて",
+        "2872315/名詮自性/みょうせんじしょう",
+        "1392240/詮衡/せんこう",
+        "2872315/名詮自称/みょうせんじしょう"
+      ]
+    },
+    {
+      "reading": "せんずる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "かい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1280250/詮/かい"
+      ]
+    },
+    {
+      "reading": "あきらか",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1343300/所詮/しょせん",
+    "1392130/詮索/せんさく",
+    "1824270/詮無い/せんない",
+    "1824280/詮議/せんぎ",
+    "1824270/詮ない/せんない",
+    "2099680/詮索好き/せんさくずき",
+    "2558700/詮議立て/せんぎだて",
+    "2872315/名詮自性/みょうせんじしょう",
+    "1392240/詮衡/せんこう",
+    "2872315/名詮自称/みょうせんじしょう",
+    "2872315/名詮自性/めいせんじしょう",
+    "2872315/名詮自称/めいせんじしょう",
+    "2843315/詮ずるところ/せんずるところ",
+    "2843315/詮ずる所/せんずるところ",
+    "1824260/詮方/せんかた",
+    "2843339/詮/せん",
+    "2559540/詮方ない/せんかたない",
+    "2559540/詮方無い/せんかたない",
+    "1157190/詮術/せんすべ",
+    "1280250/詮/かい"
+  ],
+  "candidates": {
+    "1343300/所詮/しょせん": {
+      "id": 1343300,
+      "form": "所詮",
+      "kana": "しょせん",
+      "gloss": "after all",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        14302,
+        10157,
+        10860,
+        3443
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1392130/詮索/せんさく": {
+      "id": 1392130,
+      "form": "詮索",
+      "kana": "せんさく",
+      "gloss": "inquiry into",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12888,
+        26925,
+        36648,
+        6623
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "索": 7
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1824270/詮無い/せんない": {
+      "id": 1824270,
+      "form": "詮無い",
+      "kana": "せんない",
+      "gloss": "unavoidable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        161690,
+        35231
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1824280/詮議/せんぎ": {
+      "id": 1824280,
+      "form": "詮議",
+      "kana": "せんぎ",
+      "gloss": "discussion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        197911,
+        52923
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "議": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1824270/詮ない/せんない": {
+      "id": 1824270,
+      "form": "詮ない",
+      "kana": "せんない",
+      "gloss": "unavoidable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        64343
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2099680/詮索好き/せんさくずき": {
+      "id": 2099680,
+      "form": "詮索好き",
+      "kana": "せんさくずき",
+      "gloss": "curiosity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        96565
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "好": 4,
+        "索": 7
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2558700/詮議立て/せんぎだて": {
+      "id": 2558700,
+      "form": "詮議立て",
+      "kana": "せんぎだて",
+      "gloss": "thorough discussion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        189348
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1,
+        "議": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872315/名詮自性/みょうせんじしょう": {
+      "id": 2872315,
+      "form": "名詮自性",
+      "kana": "みょうせんじしょう",
+      "gloss": "corresponding to one's actual qualities (of one's name)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "性": 5,
+        "名": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1392240/詮衡/せんこう": {
+      "id": 1392240,
+      "form": "詮衡",
+      "kana": "せんこう",
+      "gloss": "selection",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "衡": 7
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872315/名詮自称/みょうせんじしょう": {
+      "id": 2872315,
+      "form": "名詮自称",
+      "kana": "みょうせんじしょう",
+      "gloss": "corresponding to one's actual qualities (of one's name)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "称": 7,
+        "名": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872315/名詮自性/めいせんじしょう": {
+      "id": 2872315,
+      "form": "名詮自性",
+      "kana": "めいせんじしょう",
+      "gloss": "corresponding to one's actual qualities (of one's name)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "自": 2,
+        "性": 5,
+        "名": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872315/名詮自称/めいせんじしょう": {
+      "id": 2872315,
+      "form": "名詮自称",
+      "kana": "めいせんじしょう",
+      "gloss": "corresponding to one's actual qualities (of one's name)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "自": 2,
+        "称": 7,
+        "名": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2843315/詮ずるところ/せんずるところ": {
+      "id": 2843315,
+      "form": "詮ずるところ",
+      "kana": "せんずるところ",
+      "gloss": "after all",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236626
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2843315/詮ずる所/せんずるところ": {
+      "id": 2843315,
+      "form": "詮ずる所",
+      "kana": "せんずるところ",
+      "gloss": "after all",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1824260/詮方/せんかた": {
+      "id": 1824260,
+      "form": "詮方",
+      "kana": "せんかた",
+      "gloss": "way",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji"
+      ],
+      "ranks": [
+        39684,
+        95069,
+        null,
+        175900
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2843339/詮/せん": {
+      "id": 2843339,
+      "form": "詮",
+      "kana": "せん",
+      "gloss": "way",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        70384
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2559540/詮方ない/せんかたない": {
+      "id": 2559540,
+      "form": "詮方ない",
+      "kana": "せんかたない",
+      "gloss": "cannot be helped",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [
+        "ateji",
+        "dated"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        119781
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2559540/詮方無い/せんかたない": {
+      "id": 2559540,
+      "form": "詮方無い",
+      "kana": "せんかたない",
+      "gloss": "cannot be helped",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [
+        "dated"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        176405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2,
+        "無": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1157190/詮術/せんすべ": {
+      "id": 1157190,
+      "form": "詮術",
+      "kana": "せんすべ",
+      "gloss": "(proper) methods",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "術": 5
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1280250/詮/かい": {
+      "id": 1280250,
+      "form": "詮",
+      "kana": "かい",
+      "gloss": "result (that makes an act worthwhile)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "かい": {
+          "actual": "かい",
+          "dictionary": [
+            "かい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1392240:詮衡:せんこう",
+      "form": "詮衡",
+      "kana": "せんこう",
+      "cue": "selection; choice",
+      "ids": [
+        1392240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 410341
+      },
+      "alternatives_by_kanji": {
+        "衡": [
+          "1241270/均衡/きんこう",
+          "1507310/平衡/へいこう",
+          "1445260/度量衡/どりょうこう"
+        ],
+        "詮": [
+          "1343300/所詮/しょせん",
+          "1392130/詮索/せんさく",
+          "1824270/詮無い/せんない"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

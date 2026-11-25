@@ -1,0 +1,1102 @@
+{
+  "character": "貼",
+  "grade": 7,
+  "meanings": [
+    "stick",
+    "paste",
+    "apply"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 154
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "口",
+    "卜"
+  ],
+  "on": [
+    "テン",
+    "チョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "は.る",
+      "stem": "は",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "つ.く",
+      "stem": "つ",
+      "okurigana": "く"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "貼",
+    "heading": "貼",
+    "readings": [
+      "チョウ",
+      "はる"
+    ],
+    "examples_by_reading": [
+      [
+        "貼付"
+      ],
+      [
+        "貼る"
+      ]
+    ],
+    "note_lines": [
+      "「貼付」は，「テンプ」とも。",
+      "⇔張る"
+    ],
+    "representative_index": {
+      "kanji": "貼",
+      "reading": "チョウ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "チョウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1440960/貼付/ちょうふ",
+        "2843452/貼/ちょう",
+        "2835601/貼付剤/ちょうふざい"
+      ]
+    },
+    {
+      "reading": "はる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1427900/貼る/はる",
+        "2402580/レッテルを貼る/レッテルをはる",
+        "2842336/タイルを貼る/タイルをはる",
+        "2570880/障子貼る/しょうじはる"
+      ]
+    },
+    {
+      "reading": "テン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1440960/貼付/てんぷ",
+        "2859812/貼合/てんごう"
+      ]
+    },
+    {
+      "reading": "つく",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1427900/貼る/はる",
+    "1440960/貼付/ちょうふ",
+    "1440960/貼付/てんぷ",
+    "2843452/貼/ちょう",
+    "2402580/レッテルを貼る/レッテルをはる",
+    "2859812/貼合/てんごう",
+    "2842336/タイルを貼る/タイルをはる",
+    "2570880/障子貼る/しょうじはる",
+    "2835601/貼付剤/ちょうふざい",
+    "1427820/貼り紙/はりがみ",
+    "1601120/貼り付ける/はりつける",
+    "1601120/貼りつける/はりつける",
+    "1902630/貼り合わせる/はりあわせる",
+    "1665010/貼り付く/はりつく",
+    "1427840/貼り出す/はりだす",
+    "1665010/貼りつく/はりつく",
+    "1384500/切り貼り/きりばり",
+    "2835600/貼り薬/はりぐすり",
+    "1427820/貼紙/はりがみ",
+    "2842171/貼り箱/はりばこ",
+    "1187910/仮貼り/かりばり",
+    "1427840/貼りだす/はりだす",
+    "1850360/貼り替える/はりかえる",
+    "1440970/貼り付け/はりつけ",
+    "1601120/貼付ける/はりつける",
+    "2834032/タイル貼り/タイルばり",
+    "2396610/貼り替え/はりかえ",
+    "1850360/貼りかえる/はりかえる",
+    "2778650/前貼り/まえばり",
+    "2862960/貼り込む/はりこむ"
+  ],
+  "candidates": {
+    "1427900/貼る/はる": {
+      "id": 1427900,
+      "form": "貼る",
+      "kana": "はる",
+      "gloss": "to stick",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4136,
+        null,
+        8450,
+        3138
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はる": {
+          "actual": "は",
+          "dictionary": [
+            "は.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "はる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1440960/貼付/ちょうふ": {
+      "id": 1440960,
+      "form": "貼付",
+      "kana": "ちょうふ",
+      "gloss": "pasting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        31791,
+        112251
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1440960/貼付/てんぷ": {
+      "id": 1440960,
+      "form": "貼付",
+      "kana": "てんぷ",
+      "gloss": "pasting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        31791,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2843452/貼/ちょう": {
+      "id": 2843452,
+      "form": "貼",
+      "kana": "ちょう",
+      "gloss": "counter for doses of medicine, etc.",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf",
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        26916,
+        43563,
+        44849,
+        92222
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2402580/レッテルを貼る/レッテルをはる": {
+      "id": 2402580,
+      "form": "レッテルを貼る",
+      "kana": "レッテルをはる",
+      "gloss": "to label (someone as)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35687
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はる": {
+          "actual": "は",
+          "dictionary": [
+            "は.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859812/貼合/てんごう": {
+      "id": 2859812,
+      "form": "貼合",
+      "kana": "てんごう",
+      "gloss": "pasting together (of paper)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842336/タイルを貼る/タイルをはる": {
+      "id": 2842336,
+      "form": "タイルを貼る",
+      "kana": "タイルをはる",
+      "gloss": "to tile (floor, wall, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        162485
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はる": {
+          "actual": "は",
+          "dictionary": [
+            "は.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2570880/障子貼る/しょうじはる": {
+      "id": 2570880,
+      "form": "障子貼る",
+      "kana": "しょうじはる",
+      "gloss": "to clean and repaper shoji in preparation for winter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        300457
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1,
+        "障": 6
+      },
+      "matched": {
+        "はる": {
+          "actual": "は",
+          "dictionary": [
+            "は.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835601/貼付剤/ちょうふざい": {
+      "id": 2835601,
+      "form": "貼付剤",
+      "kana": "ちょうふざい",
+      "gloss": "adhesive skin patch",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4,
+        "剤": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1427820/貼り紙/はりがみ": {
+      "id": 1427820,
+      "form": "貼り紙",
+      "kana": "はりがみ",
+      "gloss": "paper patch attached to something",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21846,
+        null,
+        43420,
+        27963
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紙": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1601120/貼り付ける/はりつける": {
+      "id": 1601120,
+      "form": "貼り付ける",
+      "kana": "はりつける",
+      "gloss": "to paste",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17148,
+        null,
+        null,
+        11225
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1601120/貼りつける/はりつける": {
+      "id": 1601120,
+      "form": "貼りつける",
+      "kana": "はりつける",
+      "gloss": "to paste",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25729,
+        null,
+        null,
+        23792
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1902630/貼り合わせる/はりあわせる": {
+      "id": 1902630,
+      "form": "貼り合わせる",
+      "kana": "はりあわせる",
+      "gloss": "to paste together",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21316,
+        null,
+        null,
+        69100
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1665010/貼り付く/はりつく": {
+      "id": 1665010,
+      "form": "貼り付く",
+      "kana": "はりつく",
+      "gloss": "to stick (to)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        30533,
+        null,
+        null,
+        24983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1427840/貼り出す/はりだす": {
+      "id": 1427840,
+      "form": "貼り出す",
+      "kana": "はりだす",
+      "gloss": "to put up (a notice)",
+      "senses": [
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30834,
+        null,
+        null,
+        32044
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1665010/貼りつく/はりつく": {
+      "id": 1665010,
+      "form": "貼りつく",
+      "kana": "はりつく",
+      "gloss": "to stick (to)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        38581,
+        null,
+        null,
+        24267
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1384500/切り貼り/きりばり": {
+      "id": 1384500,
+      "form": "切り貼り",
+      "kana": "きりばり",
+      "gloss": "patching (up)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        36201,
+        66627
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2835600/貼り薬/はりぐすり": {
+      "id": 2835600,
+      "form": "貼り薬",
+      "kana": "はりぐすり",
+      "gloss": "adhesive skin patch",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        null,
+        140103
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1427820/貼紙/はりがみ": {
+      "id": 1427820,
+      "form": "貼紙",
+      "kana": "はりがみ",
+      "gloss": "paper patch attached to something",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        137073,
+        107815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紙": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2842171/貼り箱/はりばこ": {
+      "id": 2842171,
+      "form": "貼り箱",
+      "kana": "はりばこ",
+      "gloss": "set-up box",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "箱": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1187910/仮貼り/かりばり": {
+      "id": 1187910,
+      "form": "仮貼り",
+      "kana": "かりばり",
+      "gloss": "temporary pasting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仮": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1427840/貼りだす/はりだす": {
+      "id": 1427840,
+      "form": "貼りだす",
+      "kana": "はりだす",
+      "gloss": "to put up (a notice)",
+      "senses": [
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        70576
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1850360/貼り替える/はりかえる": {
+      "id": 1850360,
+      "form": "貼り替える",
+      "kana": "はりかえる",
+      "gloss": "to re-cover",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        73162
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "替": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1440970/貼り付け/はりつけ": {
+      "id": 1440970,
+      "form": "貼り付け",
+      "kana": "はりつけ",
+      "gloss": "affixing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        81573
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1601120/貼付ける/はりつける": {
+      "id": 1601120,
+      "form": "貼付ける",
+      "kana": "はりつける",
+      "gloss": "to paste",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        120644
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2834032/タイル貼り/タイルばり": {
+      "id": 2834032,
+      "form": "タイル貼り",
+      "kana": "タイルばり",
+      "gloss": "tiled",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        122555
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2396610/貼り替え/はりかえ": {
+      "id": 2396610,
+      "form": "貼り替え",
+      "kana": "はりかえ",
+      "gloss": "re-covering",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        127393
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "替": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1850360/貼りかえる/はりかえる": {
+      "id": 1850360,
+      "form": "貼りかえる",
+      "kana": "はりかえる",
+      "gloss": "to re-cover",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        158004
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2778650/前貼り/まえばり": {
+      "id": 2778650,
+      "form": "前貼り",
+      "kana": "まえばり",
+      "gloss": "covering private parts (esp. actors during filming)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        158621
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2862960/貼り込む/はりこむ": {
+      "id": 2862960,
+      "form": "貼り込む",
+      "kana": "はりこむ",
+      "gloss": "to paste",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        160304
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "込": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1427900:貼る:はる",
+      "form": "貼る",
+      "kana": "はる",
+      "cue": "to stick; to paste",
+      "ids": [
+        1427900
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3138,
+        "shiberu": 4136,
+        "wordfreq": 8450
+      },
+      "alternatives_by_kanji": {
+        "貼": [
+          "1440960/貼付/ちょうふ",
+          "1440960/貼付/てんぷ",
+          "2843452/貼/ちょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 56
+}

@@ -1,0 +1,733 @@
+{
+  "character": "俸",
+  "grade": 7,
+  "meanings": [
+    "stipend",
+    "salary"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "｜",
+    "一",
+    "化",
+    "人",
+    "大",
+    "二"
+  ],
+  "on": [
+    "ホウ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "俸",
+    "heading": "俸",
+    "readings": [
+      "ホウ"
+    ],
+    "examples_by_reading": [
+      [
+        "俸給",
+        "年俸",
+        "本俸"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "俸",
+      "reading": "ホウ",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ホウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1469170/年俸/ねんぽう",
+        "1515280/俸給/ほうきゅう",
+        "1523190/本俸/ほんぽう",
+        "1515320/俸禄/ほうろく",
+        "1515270/俸/ほう",
+        "1284290/号俸/ごうほう",
+        "1662760/増俸/ぞうほう",
+        "1190550/加俸/かほう",
+        "2836654/俸禄米/ほうろくまい",
+        "1515290/俸給生活者/ほうきゅうせいかつしゃ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1469170/年俸/ねんぽう",
+    "1515280/俸給/ほうきゅう",
+    "1523190/本俸/ほんぽう",
+    "1515320/俸禄/ほうろく",
+    "1515270/俸/ほう",
+    "1284290/号俸/ごうほう",
+    "1662760/増俸/ぞうほう",
+    "1190550/加俸/かほう",
+    "2836654/俸禄米/ほうろくまい",
+    "1515290/俸給生活者/ほうきゅうせいかつしゃ",
+    "2836654/俸祿米/ほうろくまい",
+    "1468590/年功加俸/ねんこうかほう",
+    "1263320/減俸/げんぽう",
+    "1806260/月俸/げっぽう",
+    "2735430/年俸制/ねんぽうせい",
+    "1681760/罰俸/ばっぽう",
+    "1515320/俸祿/ほうろく",
+    "2829346/食俸/しょくほう"
+  ],
+  "candidates": {
+    "1469170/年俸/ねんぽう": {
+      "id": 1469170,
+      "form": "年俸",
+      "kana": "ねんぽう",
+      "gloss": "annual salary",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32402,
+        17465,
+        22289,
+        60971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ぽう",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ホウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1515280/俸給/ほうきゅう": {
+      "id": 1515280,
+      "form": "俸給",
+      "kana": "ほうきゅう",
+      "gloss": "salary (esp. public employees)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28725,
+        62423,
+        88001,
+        71798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "給": 4
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ホウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1523190/本俸/ほんぽう": {
+      "id": 1523190,
+      "form": "本俸",
+      "kana": "ほんぽう",
+      "gloss": "regular salary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ぽう",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ホウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1515320/俸禄/ほうろく": {
+      "id": 1515320,
+      "form": "俸禄",
+      "kana": "ほうろく",
+      "gloss": "retainer's stipend",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32841,
+        101749,
+        172358,
+        80937
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1515270/俸/ほう": {
+      "id": 1515270,
+      "form": "俸",
+      "kana": "ほう",
+      "gloss": "salary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40205,
+        121818,
+        113283,
+        155705
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1284290/号俸/ごうほう": {
+      "id": 1284290,
+      "form": "号俸",
+      "kana": "ごうほう",
+      "gloss": "gradational salary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        199909,
+        300457
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "号": 3
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1662760/増俸/ぞうほう": {
+      "id": 1662760,
+      "form": "増俸",
+      "kana": "ぞうほう",
+      "gloss": "salary increase",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        275061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "増": 5
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1190550/加俸/かほう": {
+      "id": 1190550,
+      "form": "加俸",
+      "kana": "かほう",
+      "gloss": "extra allowance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "加": 4
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2836654/俸禄米/ほうろくまい": {
+      "id": 2836654,
+      "form": "俸禄米",
+      "kana": "ほうろくまい",
+      "gloss": "rice given as salary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        285742
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "米": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1515290/俸給生活者/ほうきゅうせいかつしゃ": {
+      "id": 1515290,
+      "form": "俸給生活者",
+      "kana": "ほうきゅうせいかつしゃ",
+      "gloss": "salaried person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "活": 2,
+        "給": 4,
+        "生": 1,
+        "者": 3
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2836654/俸祿米/ほうろくまい": {
+      "id": 2836654,
+      "form": "俸祿米",
+      "kana": "ほうろくまい",
+      "gloss": "rice given as salary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "米": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1468590/年功加俸/ねんこうかほう": {
+      "id": 1468590,
+      "form": "年功加俸",
+      "kana": "ねんこうかほう",
+      "gloss": "long service allowance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "加": 4,
+        "年": 1,
+        "功": 4
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1263320/減俸/げんぽう": {
+      "id": 1263320,
+      "form": "減俸",
+      "kana": "げんぽう",
+      "gloss": "salary reduction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        104555,
+        61440
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "減": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1806260/月俸/げっぽう": {
+      "id": 1806260,
+      "form": "月俸",
+      "kana": "げっぽう",
+      "gloss": "monthly salary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        210687
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2735430/年俸制/ねんぽうせい": {
+      "id": 2735430,
+      "form": "年俸制",
+      "kana": "ねんぽうせい",
+      "gloss": "annual salary system",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        154965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1,
+        "制": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1681760/罰俸/ばっぽう": {
+      "id": 1681760,
+      "form": "罰俸",
+      "kana": "ばっぽう",
+      "gloss": "punitive wage cut",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "罰": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1515320/俸祿/ほうろく": {
+      "id": 1515320,
+      "form": "俸祿",
+      "kana": "ほうろく",
+      "gloss": "retainer's stipend",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "oK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2829346/食俸/しょくほう": {
+      "id": 2829346,
+      "form": "食俸",
+      "kana": "しょくほう",
+      "gloss": "stipend (usu. paid in kind)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "ホウ": {
+          "actual": "ほう",
+          "dictionary": [
+            "ホウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1469170:年俸:ねんぽう",
+      "form": "年俸",
+      "kana": "ねんぽう",
+      "cue": "annual salary",
+      "ids": [
+        1469170
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 60971,
+        "shiberu": 32402,
+        "tubelex": 17465,
+        "wordfreq": 22289
+      },
+      "alternatives_by_kanji": {
+        "年": [
+          "1349170/少年/しょうねん",
+          "1468950/年代/ねんだい",
+          "1598750/年寄り/としより"
+        ],
+        "俸": [
+          "1515280/俸給/ほうきゅう",
+          "1523190/本俸/ほんぽう",
+          "1515320/俸禄/ほうろく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

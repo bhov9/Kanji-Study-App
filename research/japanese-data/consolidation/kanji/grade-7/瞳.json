@@ -1,0 +1,616 @@
+{
+  "character": "瞳",
+  "grade": 7,
+  "meanings": [
+    "pupil (of eye)"
+  ],
+  "strokes": [
+    17
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 109
+    }
+  ],
+  "components": [
+    "目",
+    "里",
+    "立"
+  ],
+  "on": [
+    "ドウ",
+    "トウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ひとみ",
+      "stem": "ひとみ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "あきら"
+  ],
+  "government": {
+    "kanji": "瞳",
+    "heading": "瞳",
+    "readings": [
+      "ドウ",
+      "ひとみ"
+    ],
+    "examples_by_reading": [
+      [
+        "瞳孔"
+      ],
+      [
+        "瞳"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "瞳",
+      "reading": "ドウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ドウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1453910/瞳孔/どうこう",
+        "2577780/縮瞳/しゅくどう",
+        "2128970/瞳孔散大/どうこうさんだい",
+        "2826426/瞳孔反射/どうこうはんしゃ",
+        "2577770/散瞳/さんどう",
+        "2826425/瞳孔括約筋/どうこうかつやくきん",
+        "2577790/散瞳薬/さんどうやく",
+        "2696440/白色瞳孔/はくしょくどうこう",
+        "2582050/瞳孔縮小/どうこうしゅくしょう",
+        "1898250/瞳子/どうし"
+      ]
+    },
+    {
+      "reading": "ひとみ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1453900/瞳/ひとみ",
+        "2670690/君の瞳に乾杯/きみのひとみにかんぱい",
+        "1904460/瞳を凝らす/ひとみをこらす"
+      ]
+    },
+    {
+      "reading": "トウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1453900/瞳/ひとみ",
+    "1453910/瞳孔/どうこう",
+    "2577780/縮瞳/しゅくどう",
+    "2670690/君の瞳に乾杯/きみのひとみにかんぱい",
+    "1904460/瞳を凝らす/ひとみをこらす",
+    "2128970/瞳孔散大/どうこうさんだい",
+    "2826426/瞳孔反射/どうこうはんしゃ",
+    "2577770/散瞳/さんどう",
+    "2826425/瞳孔括約筋/どうこうかつやくきん",
+    "2577790/散瞳薬/さんどうやく",
+    "2696440/白色瞳孔/はくしょくどうこう",
+    "2582050/瞳孔縮小/どうこうしゅくしょう",
+    "1898250/瞳子/どうし"
+  ],
+  "candidates": {
+    "1453900/瞳/ひとみ": {
+      "id": 1453900,
+      "form": "瞳",
+      "kana": "ひとみ",
+      "gloss": "pupil (of the eye)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4371,
+        5888,
+        4669,
+        1773
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ひとみ": {
+          "actual": "ひとみ",
+          "dictionary": [
+            "ひとみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ひとみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1453910/瞳孔/どうこう": {
+      "id": 1453910,
+      "form": "瞳孔",
+      "kana": "どうこう",
+      "gloss": "pupil (of the eye)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28740,
+        29195,
+        31791,
+        18922
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "孔": 7
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ドウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2577780/縮瞳/しゅくどう": {
+      "id": 2577780,
+      "form": "縮瞳",
+      "kana": "しゅくどう",
+      "gloss": "miosis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31811,
+        173792,
+        null,
+        192237
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "縮": 6
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2670690/君の瞳に乾杯/きみのひとみにかんぱい": {
+      "id": 2670690,
+      "form": "君の瞳に乾杯",
+      "kana": "きみのひとみにかんぱい",
+      "gloss": "here's looking at you, kid",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        98408
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "君": 3,
+        "杯": 7,
+        "乾": 7
+      },
+      "matched": {
+        "ひとみ": {
+          "actual": "ひとみ",
+          "dictionary": [
+            "ひとみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1904460/瞳を凝らす/ひとみをこらす": {
+      "id": 1904460,
+      "form": "瞳を凝らす",
+      "kana": "ひとみをこらす",
+      "gloss": "to strain one's eyes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        115499
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "凝": 7
+      },
+      "matched": {
+        "ひとみ": {
+          "actual": "ひとみ",
+          "dictionary": [
+            "ひとみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2128970/瞳孔散大/どうこうさんだい": {
+      "id": 2128970,
+      "form": "瞳孔散大",
+      "kana": "どうこうさんだい",
+      "gloss": "pupil dilation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        140666
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "散": 4,
+        "孔": 7,
+        "大": 1
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826426/瞳孔反射/どうこうはんしゃ": {
+      "id": 2826426,
+      "form": "瞳孔反射",
+      "kana": "どうこうはんしゃ",
+      "gloss": "pupillary reflex",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        186682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "射": 6,
+        "反": 3,
+        "孔": 7
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2577770/散瞳/さんどう": {
+      "id": 2577770,
+      "form": "散瞳",
+      "kana": "さんどう",
+      "gloss": "mydriasis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        226273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "散": 4
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826425/瞳孔括約筋/どうこうかつやくきん": {
+      "id": 2826425,
+      "form": "瞳孔括約筋",
+      "kana": "どうこうかつやくきん",
+      "gloss": "sphincter muscle of the pupil",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "括": 7,
+        "約": 4,
+        "筋": 6,
+        "孔": 7
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2577790/散瞳薬/さんどうやく": {
+      "id": 2577790,
+      "form": "散瞳薬",
+      "kana": "さんどうやく",
+      "gloss": "mydriatic agent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "散": 4,
+        "薬": 3
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2696440/白色瞳孔/はくしょくどうこう": {
+      "id": 2696440,
+      "form": "白色瞳孔",
+      "kana": "はくしょくどうこう",
+      "gloss": "leukocoria",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "孔": 7,
+        "色": 2,
+        "白": 1
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2582050/瞳孔縮小/どうこうしゅくしょう": {
+      "id": 2582050,
+      "form": "瞳孔縮小",
+      "kana": "どうこうしゅくしょう",
+      "gloss": "pupil constriction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "縮": 6,
+        "小": 1,
+        "孔": 7
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1898250/瞳子/どうし": {
+      "id": 1898250,
+      "form": "瞳子",
+      "kana": "どうし",
+      "gloss": "pupil (of the eye)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "dated"
+      ],
+      "ranks": [
+        null,
+        121818,
+        64314,
+        138310
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "ドウ": {
+          "actual": "どう",
+          "dictionary": [
+            "ドウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1453900:瞳:ひとみ",
+      "form": "瞳",
+      "kana": "ひとみ",
+      "cue": "pupil (of the eye)",
+      "ids": [
+        1453900
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 1773,
+        "shiberu": 4371,
+        "tubelex": 5888,
+        "wordfreq": 4669
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

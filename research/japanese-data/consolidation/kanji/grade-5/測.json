@@ -1,0 +1,1362 @@
+{
+  "character": "測",
+  "grade": 5,
+  "meanings": [
+    "fathom",
+    "plan",
+    "scheme",
+    "measure"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "刈",
+    "汁"
+  ],
+  "on": [
+    "ソク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はか.る",
+      "stem": "はか",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "測",
+    "heading": "測",
+    "readings": [
+      "ソク",
+      "はかる"
+    ],
+    "examples_by_reading": [
+      [
+        "測量",
+        "目測",
+        "推測"
+      ],
+      [
+        "測る"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔計る，量る，図る"
+    ],
+    "representative_index": {
+      "kanji": "測",
+      "reading": "ソク",
+      "source": "table_15_so.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ソク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 113,
+      "frequent_unflagged_examples": 6,
+      "current_support": true,
+      "candidates": [
+        "1371200/推測/すいそく",
+        "1404590/測量/そくりょう",
+        "1535550/目測/もくそく",
+        "1543200/予測/よそく",
+        "1214980/観測/かんそく",
+        "1404570/測定/そくてい",
+        "1252230/計測/けいそく",
+        "1589020/憶測/おくそく",
+        "1321310/実測/じっそく",
+        "1493690/不測/ふそく"
+      ]
+    },
+    {
+      "reading": "はかる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1600650/測る/はかる",
+        "2756950/熱を測る/ねつをはかる",
+        "1589170/推し測る/おしはかる",
+        "1589170/推測る/おしはかる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1371200/推測/すいそく",
+    "1600650/測る/はかる",
+    "1404590/測量/そくりょう",
+    "1535550/目測/もくそく",
+    "1543200/予測/よそく",
+    "1214980/観測/かんそく",
+    "1404570/測定/そくてい",
+    "1252230/計測/けいそく",
+    "1589020/憶測/おくそく",
+    "1321310/実測/じっそく",
+    "1493690/不測/ふそく",
+    "1404550/測地/そくち",
+    "2628660/測位/そくい",
+    "1404580/測度/そくど",
+    "1439720/天測/てんそく",
+    "2826303/欠測/けっそく",
+    "1892090/探測/たんそく",
+    "1660710/測深/そくしん",
+    "1691140/歩測/ほそく",
+    "2858447/測色/そくしょく",
+    "2859854/測距/そくきょ",
+    "2859030/不測の事態/ふそくのじたい",
+    "1780790/希望的観測/きぼうてきかんそく",
+    "2791290/予測がつく/よそくがつく",
+    "1833660/天体観測/てんたいかんそく",
+    "2756950/熱を測る/ねつをはかる",
+    "1932460/観測者/かんそくしゃ",
+    "2840076/身体測定/しんたいそくてい",
+    "2618210/予測不能/よそくふのう",
+    "1941490/測定器/そくていき"
+  ],
+  "candidates": {
+    "1371200/推測/すいそく": {
+      "id": 1371200,
+      "form": "推測",
+      "kana": "すいそく",
+      "gloss": "guess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3065,
+        5294,
+        4345,
+        3642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "推": 6
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1600650/測る/はかる": {
+      "id": 1600650,
+      "form": "測る",
+      "kana": "はかる",
+      "gloss": "to measure",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5782,
+        2234,
+        16770,
+        4911
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はかる": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "はかる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1404590/測量/そくりょう": {
+      "id": 1404590,
+      "form": "測量",
+      "kana": "そくりょう",
+      "gloss": "measurement",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7618,
+        20459,
+        17002,
+        42713
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1535550/目測/もくそく": {
+      "id": 1535550,
+      "form": "目測",
+      "kana": "もくそく",
+      "gloss": "eye measurement",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        73498,
+        30445
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ソク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1543200/予測/よそく": {
+      "id": 1543200,
+      "form": "予測",
+      "kana": "よそく",
+      "gloss": "prediction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3574,
+        2968,
+        3374,
+        3881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1214980/観測/かんそく": {
+      "id": 1214980,
+      "form": "観測",
+      "kana": "かんそく",
+      "gloss": "observation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5878,
+        3232,
+        4034,
+        9999
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "観": 4
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404570/測定/そくてい": {
+      "id": 1404570,
+      "form": "測定",
+      "kana": "そくてい",
+      "gloss": "measurement",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5764,
+        3401,
+        4596,
+        16013
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1252230/計測/けいそく": {
+      "id": 1252230,
+      "form": "計測",
+      "kana": "けいそく",
+      "gloss": "measuring",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31909,
+        5299,
+        9163,
+        16820
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "計": 2
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1589020/憶測/おくそく": {
+      "id": 1589020,
+      "form": "憶測",
+      "kana": "おくそく",
+      "gloss": "guess",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25191,
+        13461,
+        16515,
+        10562
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憶": 7
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1321310/実測/じっそく": {
+      "id": 1321310,
+      "form": "実測",
+      "kana": "じっそく",
+      "gloss": "survey",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32858,
+        22668,
+        40209,
+        102118
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1493690/不測/ふそく": {
+      "id": 1493690,
+      "form": "不測",
+      "kana": "ふそく",
+      "gloss": "unexpected",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        29591,
+        36550,
+        30980,
+        64405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404550/測地/そくち": {
+      "id": 1404550,
+      "form": "測地",
+      "kana": "そくち",
+      "gloss": "geodetic survey",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        34208,
+        101749,
+        76428,
+        191556
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2628660/測位/そくい": {
+      "id": 2628660,
+      "form": "測位",
+      "kana": "そくい",
+      "gloss": "positioning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        47321,
+        113526
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "位": 4
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404580/測度/そくど": {
+      "id": 1404580,
+      "form": "測度",
+      "kana": "そくど",
+      "gloss": "measure",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        104555,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "度": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1439720/天測/てんそく": {
+      "id": 1439720,
+      "form": "天測",
+      "kana": "てんそく",
+      "gloss": "astronomical observation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        189078,
+        108642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "天": 1
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826303/欠測/けっそく": {
+      "id": 2826303,
+      "form": "欠測",
+      "kana": "けっそく",
+      "gloss": "missing (data, observation, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "欠": 4
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1892090/探測/たんそく": {
+      "id": 1892090,
+      "form": "探測",
+      "kana": "たんそく",
+      "gloss": "probing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        175266
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1660710/測深/そくしん": {
+      "id": 1660710,
+      "form": "測深",
+      "kana": "そくしん",
+      "gloss": "(depth) sounding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        163107,
+        209954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "深": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1691140/歩測/ほそく": {
+      "id": 1691140,
+      "form": "歩測",
+      "kana": "ほそく",
+      "gloss": "pacing off (a measurement or distance)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        203403,
+        176180
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歩": 2
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858447/測色/そくしょく": {
+      "id": 2858447,
+      "form": "測色",
+      "kana": "そくしょく",
+      "gloss": "colorimetry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859854/測距/そくきょ": {
+      "id": 2859854,
+      "form": "測距",
+      "kana": "そくきょ",
+      "gloss": "distance measurement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "距": 7
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859030/不測の事態/ふそくのじたい": {
+      "id": 2859030,
+      "form": "不測の事態",
+      "kana": "ふそくのじたい",
+      "gloss": "contingency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        16388
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "事": 3,
+        "態": 5
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1780790/希望的観測/きぼうてきかんそく": {
+      "id": 1780790,
+      "form": "希望的観測",
+      "kana": "きぼうてきかんそく",
+      "gloss": "wishful thinking",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23772
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "観": 4,
+        "希": 4,
+        "望": 4
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2791290/予測がつく/よそくがつく": {
+      "id": 2791290,
+      "form": "予測がつく",
+      "kana": "よそくがつく",
+      "gloss": "to have a good idea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        36956
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1833660/天体観測/てんたいかんそく": {
+      "id": 1833660,
+      "form": "天体観測",
+      "kana": "てんたいかんそく",
+      "gloss": "astronomical observation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        39151
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "観": 4,
+        "天": 1,
+        "体": 2
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2756950/熱を測る/ねつをはかる": {
+      "id": 2756950,
+      "form": "熱を測る",
+      "kana": "ねつをはかる",
+      "gloss": "to check someone's temperature",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42458
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "熱": 4
+      },
+      "matched": {
+        "はかる": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1932460/観測者/かんそくしゃ": {
+      "id": 1932460,
+      "form": "観測者",
+      "kana": "かんそくしゃ",
+      "gloss": "observer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "観": 4,
+        "者": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840076/身体測定/しんたいそくてい": {
+      "id": 2840076,
+      "form": "身体測定",
+      "kana": "しんたいそくてい",
+      "gloss": "body measurements",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        44823
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3,
+        "定": 3,
+        "体": 2
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2618210/予測不能/よそくふのう": {
+      "id": 2618210,
+      "form": "予測不能",
+      "kana": "よそくふのう",
+      "gloss": "unpredictable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46388
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3,
+        "不": 4,
+        "能": 5
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1941490/測定器/そくていき": {
+      "id": 1941490,
+      "form": "測定器",
+      "kana": "そくていき",
+      "gloss": "measuring instrument",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        54006
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4,
+        "定": 3
+      },
+      "matched": {
+        "ソク": {
+          "actual": "そく",
+          "dictionary": [
+            "ソク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589170/推し測る/おしはかる": {
+      "id": 1589170,
+      "form": "推し測る",
+      "kana": "おしはかる",
+      "gloss": "to guess",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        87364
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "推": 6
+      },
+      "matched": {
+        "はかる": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589170/推測る/おしはかる": {
+      "id": 1589170,
+      "form": "推測る",
+      "kana": "おしはかる",
+      "gloss": "to guess",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        126285
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "推": 6
+      },
+      "matched": {
+        "はかる": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1214980:観測:かんそく",
+      "form": "観測",
+      "kana": "かんそく",
+      "cue": "observation; survey",
+      "ids": [
+        1214980
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9999,
+        "shiberu": 5878,
+        "tubelex": 3232,
+        "wordfreq": 4034
+      },
+      "alternatives_by_kanji": {
+        "観": [
+          "1214900/観察/かんさつ",
+          "1226690/客観/きゃっかん",
+          "1399360/壮観/そうかん"
+        ],
+        "測": [
+          "1371200/推測/すいそく",
+          "1600650/測る/はかる",
+          "1404590/測量/そくりょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1589020:臆測:おくそく",
+      "form": "臆測",
+      "kana": "おくそく",
+      "cue": "guess; speculation",
+      "ids": [
+        1589020
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 39258,
+        "shiberu": 10690,
+        "wordfreq": 83270
+      },
+      "alternatives_by_kanji": {
+        "測": [
+          "1371200/推測/すいそく",
+          "1600650/測る/はかる",
+          "1404590/測量/そくりょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 20
+}

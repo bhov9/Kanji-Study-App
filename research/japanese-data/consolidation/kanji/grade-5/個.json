@@ -1,0 +1,1420 @@
+{
+  "character": "個",
+  "grade": 5,
+  "meanings": [
+    "individual",
+    "counter for articles"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "口",
+    "十",
+    "囗"
+  ],
+  "on": [
+    "コ",
+    "カ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "個",
+    "heading": "個",
+    "readings": [
+      "コ"
+    ],
+    "examples_by_reading": [
+      [
+        "個人",
+        "個性",
+        "一個"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "個",
+      "reading": "コ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 131,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1264770/個人/こじん",
+        "1264960/個性/こせい",
+        "1162290/一個/いっこ",
+        "1265000/個別/こべつ",
+        "1593190/個々/ここ",
+        "1264980/個体/こたい",
+        "1264750/個室/こしつ",
+        "1509710/別個/べっこ",
+        "1204950/各個/かっこ",
+        "1593250/個数/こすう"
+      ]
+    },
+    {
+      "reading": "カ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1590250/個所/かしょ",
+        "1587420/一個所/いっかしょ",
+        "1194490/個条/かじょう",
+        "1587420/１個所/いっかしょ",
+        "1590280/個条書き/かじょうがき",
+        "1194480/個月/かげつ",
+        "2220320/個/か"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1264770/個人/こじん",
+    "1264960/個性/こせい",
+    "1162290/一個/いっこ",
+    "1265000/個別/こべつ",
+    "1593190/個々/ここ",
+    "1264980/個体/こたい",
+    "1264750/個室/こしつ",
+    "1509710/別個/べっこ",
+    "1204950/各個/かっこ",
+    "1593250/個数/こすう",
+    "1264990/個展/こてん",
+    "1590250/個所/かしょ",
+    "2614650/個物/こぶつ",
+    "1631010/個々人/ここじん",
+    "1373030/数個/すうこ",
+    "1576010/一個人/いっこじん",
+    "1501430/複数個/ふくすうこ",
+    "2847877/個人技/こじんぎ",
+    "2827931/個食/こしょく",
+    "2646820/個装/こそう",
+    "1595130/真個/しんこ",
+    "1277630/好個/こうこ",
+    "1264740/個/こ",
+    "1264890/個人的/こじんてき",
+    "1162290/１個/いっこ",
+    "1264870/個人情報/こじんじょうほう",
+    "1264970/個性的/こせいてき",
+    "1599720/何個/なんこ",
+    "1576010/一個人/いちこじん",
+    "1264830/個人差/こじんさ"
+  ],
+  "candidates": {
+    "1264770/個人/こじん": {
+      "id": 1264770,
+      "form": "個人",
+      "kana": "こじん",
+      "gloss": "individual",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1047,
+        591,
+        434,
+        2301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1264960/個性/こせい": {
+      "id": 1264960,
+      "form": "個性",
+      "kana": "こせい",
+      "gloss": "individuality",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3035,
+        2700,
+        4415,
+        6292
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1162290/一個/いっこ": {
+      "id": 1162290,
+      "form": "一個",
+      "kana": "いっこ",
+      "gloss": "one (thing)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5037
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1265000/個別/こべつ": {
+      "id": 1265000,
+      "form": "個別",
+      "kana": "こべつ",
+      "gloss": "individual",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12554,
+        3792,
+        4261,
+        12529
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1593190/個々/ここ": {
+      "id": 1593190,
+      "form": "個々",
+      "kana": "ここ",
+      "gloss": "individual",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3129,
+        7439,
+        8169,
+        13368
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1264980/個体/こたい": {
+      "id": 1264980,
+      "form": "個体",
+      "kana": "こたい",
+      "gloss": "individual",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        16777,
+        5592,
+        6549,
+        10496
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1264750/個室/こしつ": {
+      "id": 1264750,
+      "form": "個室",
+      "kana": "こしつ",
+      "gloss": "single (room)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36129,
+        8040,
+        6549,
+        7040
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "室": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1509710/別個/べっこ": {
+      "id": 1509710,
+      "form": "別個",
+      "kana": "べっこ",
+      "gloss": "another",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        13512,
+        31364,
+        32914,
+        39087
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204950/各個/かっこ": {
+      "id": 1204950,
+      "form": "各個",
+      "kana": "かっこ",
+      "gloss": "every one",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23935,
+        48192,
+        50941,
+        53399
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "各": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1593250/個数/こすう": {
+      "id": 1593250,
+      "form": "個数",
+      "kana": "こすう",
+      "gloss": "number of articles",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        9998,
+        17751,
+        39177
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1264990/個展/こてん": {
+      "id": 1264990,
+      "form": "個展",
+      "kana": "こてん",
+      "gloss": "solo exhibition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        14777,
+        13281,
+        40339
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "展": 6
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590250/個所/かしょ": {
+      "id": 1590250,
+      "form": "個所",
+      "kana": "かしょ",
+      "gloss": "place",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15048,
+        null,
+        37490,
+        36254
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2614650/個物/こぶつ": {
+      "id": 2614650,
+      "form": "個物",
+      "kana": "こぶつ",
+      "gloss": "individual",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        129940,
+        192902
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1631010/個々人/ここじん": {
+      "id": 1631010,
+      "form": "個々人",
+      "kana": "ここじん",
+      "gloss": "each individual",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        29116,
+        36752
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1373030/数個/すうこ": {
+      "id": 1373030,
+      "form": "数個",
+      "kana": "すうこ",
+      "gloss": "several (objects, usu. from two to six)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        40209,
+        26549
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1576010/一個人/いっこじん": {
+      "id": 1576010,
+      "form": "一個人",
+      "kana": "いっこじん",
+      "gloss": "private person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42960,
+        29949
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "一": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1501430/複数個/ふくすうこ": {
+      "id": 1501430,
+      "form": "複数個",
+      "kana": "ふくすうこ",
+      "gloss": "multitude",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        51518,
+        77698
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "複": 5,
+        "数": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847877/個人技/こじんぎ": {
+      "id": 2847877,
+      "form": "個人技",
+      "kana": "こじんぎ",
+      "gloss": "individual technique (in team sports)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        72835,
+        77025
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "技": 5,
+        "人": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827931/個食/こしょく": {
+      "id": 2827931,
+      "form": "個食",
+      "kana": "こしょく",
+      "gloss": "meal with family members eating separate foods",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        null,
+        162658
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2646820/個装/こそう": {
+      "id": 2646820,
+      "form": "個装",
+      "kana": "こそう",
+      "gloss": "individual packaging",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        null,
+        221663
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "装": 6
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1595130/真個/しんこ": {
+      "id": 1595130,
+      "form": "真個",
+      "kana": "しんこ",
+      "gloss": "real",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        173597
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "真": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1277630/好個/こうこ": {
+      "id": 1277630,
+      "form": "好個",
+      "kana": "こうこ",
+      "gloss": "excellent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        190517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "好": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1264740/個/こ": {
+      "id": 1264740,
+      "form": "個",
+      "kana": "こ",
+      "gloss": "counter for (small) things or pieces",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2327
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1264890/個人的/こじんてき": {
+      "id": 1264890,
+      "form": "個人的",
+      "kana": "こじんてき",
+      "gloss": "personal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2688
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "的": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1162290/１個/いっこ": {
+      "id": 1162290,
+      "form": "１個",
+      "kana": "いっこ",
+      "gloss": "one (thing)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5855
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1264870/個人情報/こじんじょうほう": {
+      "id": 1264870,
+      "form": "個人情報",
+      "kana": "こじんじょうほう",
+      "gloss": "personal information",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        10840
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "人": 1,
+        "報": 5
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1264970/個性的/こせいてき": {
+      "id": 1264970,
+      "form": "個性的",
+      "kana": "こせいてき",
+      "gloss": "individual",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11345
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5,
+        "的": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1599720/何個/なんこ": {
+      "id": 1599720,
+      "form": "何個",
+      "kana": "なんこ",
+      "gloss": "how many pieces",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        12116
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "何": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1576010/一個人/いちこじん": {
+      "id": 1576010,
+      "form": "一個人",
+      "kana": "いちこじん",
+      "gloss": "private person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42960,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "人": 1,
+        "一": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1264830/個人差/こじんさ": {
+      "id": 1264830,
+      "form": "個人差",
+      "kana": "こじんさ",
+      "gloss": "individual differences",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        18898
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "差": 4,
+        "人": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587420/一個所/いっかしょ": {
+      "id": 1587420,
+      "form": "一個所",
+      "kana": "いっかしょ",
+      "gloss": "one place",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        125846
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3,
+        "一": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194490/個条/かじょう": {
+      "id": 1194490,
+      "form": "個条",
+      "kana": "かじょう",
+      "gloss": "item",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        193178
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "条": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587420/１個所/いっかしょ": {
+      "id": 1587420,
+      "form": "１個所",
+      "kana": "いっかしょ",
+      "gloss": "one place",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        244718
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590280/個条書き/かじょうがき": {
+      "id": 1590280,
+      "form": "個条書き",
+      "kana": "かじょうがき",
+      "gloss": "itemized form",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2,
+        "条": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194480/個月/かげつ": {
+      "id": 1194480,
+      "form": "個月",
+      "kana": "かげつ",
+      "gloss": "counter for months",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "ctr"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        201105
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2220320/個/か": {
+      "id": 2220320,
+      "form": "個",
+      "kana": "か",
+      "gloss": "counter used with Sino-Japanese words",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "ctr"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1264770:個人:こじん",
+      "form": "個人",
+      "kana": "こじん",
+      "cue": "individual; private person",
+      "ids": [
+        1264770
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2301,
+        "shiberu": 1047,
+        "tubelex": 591,
+        "wordfreq": 434
+      },
+      "alternatives_by_kanji": {
+        "人": [
+          "1375740/成人/せいじん",
+          "1366570/人員/じんいん",
+          "1368180/人情/にんじょう"
+        ],
+        "個": [
+          "1264960/個性/こせい",
+          "1162290/一個/いっこ",
+          "1265000/個別/こべつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

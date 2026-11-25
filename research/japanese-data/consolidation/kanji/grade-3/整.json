@@ -1,0 +1,1564 @@
+{
+  "character": "整",
+  "grade": 3,
+  "meanings": [
+    "organize",
+    "arranging",
+    "tune",
+    "tone",
+    "meter",
+    "key (music)"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 66
+    },
+    {
+      "type": "nelson_c",
+      "value": 77
+    }
+  ],
+  "components": [
+    "｜",
+    "一",
+    "口",
+    "止",
+    "木",
+    "攵",
+    "乞"
+  ],
+  "on": [
+    "セイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ととの.える",
+      "stem": "ととの",
+      "okurigana": "える"
+    },
+    {
+      "sourceNotation": "ととの.う",
+      "stem": "ととの",
+      "okurigana": "う"
+    }
+  ],
+  "nanori": [
+    "ひとし"
+  ],
+  "government": {
+    "kanji": "整",
+    "heading": "整",
+    "readings": [
+      "セイ",
+      "ととのえる",
+      "ととのう"
+    ],
+    "examples_by_reading": [
+      [
+        "整理",
+        "整列",
+        "調整"
+      ],
+      [
+        "整える"
+      ],
+      [
+        "整う"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔調える",
+      "⇔調う"
+    ],
+    "representative_index": {
+      "kanji": "整",
+      "reading": "セイ",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 160,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1429200/調整/ちょうせい",
+        "1376250/整理/せいり",
+        "1376300/整列/せいれつ",
+        "1376240/整備/せいび",
+        "1981970/整体/せいたい",
+        "1376230/整頓/せいとん",
+        "1376190/整数/せいすう",
+        "1376200/整然/せいぜん",
+        "1376170/整合/せいごう",
+        "1376220/整地/せいち"
+      ]
+    },
+    {
+      "reading": "ととのえる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1376140/整える/ととのえる",
+        "1384330/切り整える/きりととのえる",
+        "2830021/息を整える/いきをととのえる",
+        "1866750/髪を整える/かみをととのえる",
+        "1893920/調子を整える/ちょうしをととのえる"
+      ]
+    },
+    {
+      "reading": "ととのう",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1598800/整う/ととのう",
+        "2829234/息が整う/いきがととのう",
+        "2691540/相整う/あいととのう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1429200/調整/ちょうせい",
+    "1376250/整理/せいり",
+    "1376140/整える/ととのえる",
+    "1598800/整う/ととのう",
+    "1376300/整列/せいれつ",
+    "1376240/整備/せいび",
+    "1981970/整体/せいたい",
+    "1376230/整頓/せいとん",
+    "1376190/整数/せいすう",
+    "1376200/整然/せいぜん",
+    "1376170/整合/せいごう",
+    "1376220/整地/せいち",
+    "1493540/不整/ふせい",
+    "1376150/整形/せいけい",
+    "1764760/整骨/せいこつ",
+    "1376280/整流/せいりゅう",
+    "1764790/整復/せいふく",
+    "1764810/整髪/せいはつ",
+    "1241300/均整/きんせい",
+    "1332110/修整/しゅうせい",
+    "1764720/整式/せいしき",
+    "1764740/整容/せいよう",
+    "1764820/整調/せいちょう",
+    "1493360/不整脈/ふせいみゃく",
+    "1764800/整腸/せいちょう",
+    "1418910/端整/たんせい",
+    "2826916/整枝/せいし",
+    "2859178/整腸剤/せいちょうざい",
+    "1690290/補整/ほせい",
+    "2603620/整序/せいじょ"
+  ],
+  "candidates": {
+    "1429200/調整/ちょうせい": {
+      "id": 1429200,
+      "form": "調整",
+      "kana": "ちょうせい",
+      "gloss": "adjustment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3024,
+        691,
+        2148,
+        3112
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1376250/整理/せいり": {
+      "id": 1376250,
+      "form": "整理",
+      "kana": "せいり",
+      "gloss": "sorting",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2345,
+        2354,
+        2681,
+        2091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "理": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1376140/整える/ととのえる": {
+      "id": 1376140,
+      "form": "整える",
+      "kana": "ととのえる",
+      "gloss": "to put in order",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4233,
+        2038,
+        15595,
+        2297
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ととのえる": {
+          "actual": "ととの",
+          "dictionary": [
+            "ととの.える"
+          ]
+        }
+      },
+      "official_examples": [
+        "ととのえる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1598800/整う/ととのう": {
+      "id": 1598800,
+      "form": "整う",
+      "kana": "ととのう",
+      "gloss": "to be ready",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5115,
+        3778,
+        35359,
+        2694
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ととのう": {
+          "actual": "ととの",
+          "dictionary": [
+            "ととの.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "ととのう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1376300/整列/せいれつ": {
+      "id": 1376300,
+      "form": "整列",
+      "kana": "せいれつ",
+      "gloss": "standing in a row",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8653,
+        20677,
+        25402,
+        14276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "列": 3
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "セイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1376240/整備/せいび": {
+      "id": 1376240,
+      "form": "整備",
+      "kana": "せいび",
+      "gloss": "maintenance",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6141,
+        1980,
+        2569,
+        6821
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "備": 5
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1981970/整体/せいたい": {
+      "id": 1981970,
+      "form": "整体",
+      "kana": "せいたい",
+      "gloss": "seitai",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26707,
+        8064,
+        15390,
+        52814
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376230/整頓/せいとん": {
+      "id": 1376230,
+      "form": "整頓",
+      "kana": "せいとん",
+      "gloss": "orderliness",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13403,
+        15083,
+        28385,
+        21772
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頓": 7
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376190/整数/せいすう": {
+      "id": 1376190,
+      "form": "整数",
+      "kana": "せいすう",
+      "gloss": "integer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20012,
+        10075,
+        27016,
+        86533
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376200/整然/せいぜん": {
+      "id": 1376200,
+      "form": "整然",
+      "kana": "せいぜん",
+      "gloss": "orderly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        11428,
+        25936,
+        38431,
+        15252
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "然": 4
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376170/整合/せいごう": {
+      "id": 1376170,
+      "form": "整合",
+      "kana": "せいごう",
+      "gloss": "adjustment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27224,
+        15282,
+        16515,
+        67134
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376220/整地/せいち": {
+      "id": 1376220,
+      "form": "整地",
+      "kana": "せいち",
+      "gloss": "levelling of ground (for construction)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        30079,
+        15778,
+        35359,
+        41725
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1493540/不整/ふせい": {
+      "id": 1493540,
+      "form": "不整",
+      "kana": "ふせい",
+      "gloss": "irregularity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        33095,
+        33644,
+        109403,
+        133615
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376150/整形/せいけい": {
+      "id": 1376150,
+      "form": "整形",
+      "kana": "せいけい",
+      "gloss": "orthopedics",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "adj-no",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        6151,
+        5892,
+        24699
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "形": 2
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1764760/整骨/せいこつ": {
+      "id": 1764760,
+      "form": "整骨",
+      "kana": "せいこつ",
+      "gloss": "bonesetting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        18214,
+        30598,
+        171324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "骨": 6
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376280/整流/せいりゅう": {
+      "id": 1376280,
+      "form": "整流",
+      "kana": "せいりゅう",
+      "gloss": "rectification",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24595,
+        55378,
+        149536
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "流": 3
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1764790/整復/せいふく": {
+      "id": 1764790,
+      "form": "整復",
+      "kana": "せいふく",
+      "gloss": "reposition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        49441,
+        35760,
+        125051
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "復": 5
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1764810/整髪/せいはつ": {
+      "id": 1764810,
+      "form": "整髪",
+      "kana": "せいはつ",
+      "gloss": "hairdressing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48192,
+        55944,
+        119367
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "髪": 7
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1241300/均整/きんせい": {
+      "id": 1241300,
+      "form": "均整",
+      "kana": "きんせい",
+      "gloss": "symmetry",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        54233,
+        56768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "均": 5
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332110/修整/しゅうせい": {
+      "id": 1332110,
+      "form": "修整",
+      "kana": "しゅうせい",
+      "gloss": "adjustment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        61736,
+        83309
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1764720/整式/せいしき": {
+      "id": 1764720,
+      "form": "整式",
+      "kana": "せいしき",
+      "gloss": "polynomial",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        122877,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "式": 3
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1764740/整容/せいよう": {
+      "id": 1764740,
+      "form": "整容",
+      "kana": "せいよう",
+      "gloss": "straighten one's posture",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        147538,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1764820/整調/せいちょう": {
+      "id": 1764820,
+      "form": "整調",
+      "kana": "せいちょう",
+      "gloss": "tuning",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        169274,
+        177048
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1493360/不整脈/ふせいみゃく": {
+      "id": 1493360,
+      "form": "不整脈",
+      "kana": "ふせいみゃく",
+      "gloss": "arrhythmia",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        32914,
+        50538
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脈": 5,
+        "不": 4
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1764800/整腸/せいちょう": {
+      "id": 1764800,
+      "form": "整腸",
+      "kana": "せいちょう",
+      "gloss": "regulation of gastrointestinal functions (through medicine or food)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41067,
+        null,
+        136122
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腸": 6
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418910/端整/たんせい": {
+      "id": 1418910,
+      "form": "端整",
+      "kana": "たんせい",
+      "gloss": "handsome",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        88001,
+        28491
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "端": 7
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826916/整枝/せいし": {
+      "id": 2826916,
+      "form": "整枝",
+      "kana": "せいし",
+      "gloss": "training (branches in horticulture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47007,
+        null,
+        312003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "枝": 5
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859178/整腸剤/せいちょうざい": {
+      "id": 2859178,
+      "form": "整腸剤",
+      "kana": "せいちょうざい",
+      "gloss": "medicine for treating digestive disorders (e.g. antidiarrheals, probiotics)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        72128,
+        132954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "剤": 7,
+        "腸": 6
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1690290/補整/ほせい": {
+      "id": 1690290,
+      "form": "補整",
+      "kana": "ほせい",
+      "gloss": "adjust (by supplementing)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        88001,
+        92923
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "補": 6
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2603620/整序/せいじょ": {
+      "id": 2603620,
+      "form": "整序",
+      "kana": "せいじょ",
+      "gloss": "arranging in order",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        254510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "序": 5
+      },
+      "matched": {
+        "セイ": {
+          "actual": "せい",
+          "dictionary": [
+            "セイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1384330/切り整える/きりととのえる": {
+      "id": 1384330,
+      "form": "切り整える",
+      "kana": "きりととのえる",
+      "gloss": "to cut and prepare (stones)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        200376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "切": 2
+      },
+      "matched": {
+        "ととのえる": {
+          "actual": "ととの",
+          "dictionary": [
+            "ととの.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830021/息を整える/いきをととのえる": {
+      "id": 2830021,
+      "form": "息を整える",
+      "kana": "いきをととのえる",
+      "gloss": "to regain one's breath",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        10416
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "息": 3
+      },
+      "matched": {
+        "ととのえる": {
+          "actual": "ととの",
+          "dictionary": [
+            "ととの.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1866750/髪を整える/かみをととのえる": {
+      "id": 1866750,
+      "form": "髪を整える",
+      "kana": "かみをととのえる",
+      "gloss": "to arrange one's hair",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        27744
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "髪": 7
+      },
+      "matched": {
+        "ととのえる": {
+          "actual": "ととの",
+          "dictionary": [
+            "ととの.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1893920/調子を整える/ちょうしをととのえる": {
+      "id": 1893920,
+      "form": "調子を整える",
+      "kana": "ちょうしをととのえる",
+      "gloss": "to put in tune",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        57960
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3,
+        "子": 1
+      },
+      "matched": {
+        "ととのえる": {
+          "actual": "ととの",
+          "dictionary": [
+            "ととの.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829234/息が整う/いきがととのう": {
+      "id": 2829234,
+      "form": "息が整う",
+      "kana": "いきがととのう",
+      "gloss": "to get one's breath back",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        44039
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "息": 3
+      },
+      "matched": {
+        "ととのう": {
+          "actual": "ととの",
+          "dictionary": [
+            "ととの.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2691540/相整う/あいととのう": {
+      "id": 2691540,
+      "form": "相整う",
+      "kana": "あいととのう",
+      "gloss": "to be prepared",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        179138
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "相": 3
+      },
+      "matched": {
+        "ととのう": {
+          "actual": "ととの",
+          "dictionary": [
+            "ととの.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1376230:整頓:せいとん",
+      "form": "整頓",
+      "kana": "せいとん",
+      "cue": "orderliness; put in order",
+      "ids": [
+        1376230
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 21772,
+        "shiberu": 13403,
+        "tubelex": 15083,
+        "wordfreq": 28385
+      },
+      "alternatives_by_kanji": {
+        "整": [
+          "1429200/調整/ちょうせい",
+          "1376250/整理/せいり",
+          "1376140/整える/ととのえる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1376240:整備:せいび",
+      "form": "整備",
+      "kana": "せいび",
+      "cue": "maintenance; servicing",
+      "ids": [
+        1376240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6821,
+        "shiberu": 6141,
+        "tubelex": 1980,
+        "wordfreq": 2569
+      },
+      "alternatives_by_kanji": {
+        "整": [
+          "1429200/調整/ちょうせい",
+          "1376250/整理/せいり",
+          "1376140/整える/ととのえる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1429200:調整:ちょうせい",
+      "form": "調整",
+      "kana": "ちょうせい",
+      "cue": "adjustment; regulation",
+      "ids": [
+        1429200
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3112,
+        "shiberu": 3024,
+        "tubelex": 691,
+        "wordfreq": 2148
+      },
+      "alternatives_by_kanji": {
+        "整": [
+          "1376250/整理/せいり",
+          "1376140/整える/ととのえる",
+          "1598800/整う/ととのう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

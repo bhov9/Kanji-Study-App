@@ -1,0 +1,969 @@
+{
+  "character": "偵",
+  "grade": 7,
+  "meanings": [
+    "spy"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "貝",
+    "目",
+    "ハ",
+    "卜"
+  ],
+  "on": [
+    "テイ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "偵",
+    "heading": "偵",
+    "readings": [
+      "テイ"
+    ],
+    "examples_by_reading": [
+      [
+        "偵察",
+        "探偵",
+        "内偵"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "偵",
+      "reading": "テイ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 22,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1418380/探偵/たんてい",
+        "1435100/偵察/ていさつ",
+        "1458910/内偵/ないてい",
+        "1641760/密偵/みってい",
+        "1911620/名探偵/めいたんてい",
+        "2555820/探偵事務所/たんていじむしょ",
+        "1435130/偵察隊/ていさつたい",
+        "1418390/探偵小説/たんていしょうせつ",
+        "1311440/私立探偵/しりつたんてい",
+        "2039200/探偵団/たんていだん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1418380/探偵/たんてい",
+    "1435100/偵察/ていさつ",
+    "1458910/内偵/ないてい",
+    "1641760/密偵/みってい",
+    "1911620/名探偵/めいたんてい",
+    "2555820/探偵事務所/たんていじむしょ",
+    "1435130/偵察隊/ていさつたい",
+    "1418390/探偵小説/たんていしょうせつ",
+    "1311440/私立探偵/しりつたんてい",
+    "2039200/探偵団/たんていだん",
+    "1435120/偵察機/ていさつき",
+    "2642290/探偵業/たんていぎょう",
+    "2096210/探偵社/たんていしゃ",
+    "2870291/威力偵察/いりょくていさつ",
+    "5747453/名探偵コナン/めいたんていコナン",
+    "2797870/安楽椅子探偵/あんらくいすたんてい",
+    "1435110/偵察衛星/ていさつえいせい",
+    "2857931/無人偵察機/むじんていさつき",
+    "2747480/迷探偵/めいたんてい",
+    "1943070/偵察要員/ていさつよういん",
+    "1998650/偵察飛行/ていさつひこう",
+    "1986710/サイバー探偵/サイバーたんてい",
+    "1435140/偵知/ていち"
+  ],
+  "candidates": {
+    "1418380/探偵/たんてい": {
+      "id": 1418380,
+      "form": "探偵",
+      "kana": "たんてい",
+      "gloss": "detective",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        989,
+        3486,
+        3734,
+        7096
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1435100/偵察/ていさつ": {
+      "id": 1435100,
+      "form": "偵察",
+      "kana": "ていさつ",
+      "gloss": "scouting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7219,
+        7821,
+        8169,
+        9016
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1458910/内偵/ないてい": {
+      "id": 1458910,
+      "form": "内偵",
+      "kana": "ないてい",
+      "gloss": "secret investigation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        54820,
+        38259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1641760/密偵/みってい": {
+      "id": 1641760,
+      "form": "密偵",
+      "kana": "みってい",
+      "gloss": "spy",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        52268,
+        60579,
+        29068
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "密": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1911620/名探偵/めいたんてい": {
+      "id": 1911620,
+      "form": "名探偵",
+      "kana": "めいたんてい",
+      "gloss": "great detective",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        15576
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6,
+        "名": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2555820/探偵事務所/たんていじむしょ": {
+      "id": 2555820,
+      "form": "探偵事務所",
+      "kana": "たんていじむしょ",
+      "gloss": "detective bureau",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37049
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "探": 6,
+        "所": 3,
+        "務": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435130/偵察隊/ていさつたい": {
+      "id": 1435130,
+      "form": "偵察隊",
+      "kana": "ていさつたい",
+      "gloss": "scouting party",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4,
+        "隊": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418390/探偵小説/たんていしょうせつ": {
+      "id": 1418390,
+      "form": "探偵小説",
+      "kana": "たんていしょうせつ",
+      "gloss": "detective story",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50254
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4,
+        "探": 6,
+        "小": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1311440/私立探偵/しりつたんてい": {
+      "id": 1311440,
+      "form": "私立探偵",
+      "kana": "しりつたんてい",
+      "gloss": "private detective",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        51117
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6,
+        "私": 6,
+        "立": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2039200/探偵団/たんていだん": {
+      "id": 2039200,
+      "form": "探偵団",
+      "kana": "たんていだん",
+      "gloss": "detective team",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        56605
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "団": 5,
+        "探": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435120/偵察機/ていさつき": {
+      "id": 1435120,
+      "form": "偵察機",
+      "kana": "ていさつき",
+      "gloss": "reconnaissance plane",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        57865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4,
+        "機": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2642290/探偵業/たんていぎょう": {
+      "id": 2642290,
+      "form": "探偵業",
+      "kana": "たんていぎょう",
+      "gloss": "detective work",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60939
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6,
+        "業": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2096210/探偵社/たんていしゃ": {
+      "id": 2096210,
+      "form": "探偵社",
+      "kana": "たんていしゃ",
+      "gloss": "detective agency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        67780
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6,
+        "社": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870291/威力偵察/いりょくていさつ": {
+      "id": 2870291,
+      "form": "威力偵察",
+      "kana": "いりょくていさつ",
+      "gloss": "reconnaissance in force",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        68298
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4,
+        "威": 7,
+        "力": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5747453/名探偵コナン/めいたんていコナン": {
+      "id": 5747453,
+      "form": "名探偵コナン",
+      "kana": "めいたんていコナン",
+      "gloss": "Detective Conan (manga series and media franchise)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        89339
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6,
+        "名": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2797870/安楽椅子探偵/あんらくいすたんてい": {
+      "id": 2797870,
+      "form": "安楽椅子探偵",
+      "kana": "あんらくいすたんてい",
+      "gloss": "armchair detective",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        93929
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6,
+        "子": 1,
+        "安": 3,
+        "楽": 2,
+        "椅": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435110/偵察衛星/ていさつえいせい": {
+      "id": 1435110,
+      "form": "偵察衛星",
+      "kana": "ていさつえいせい",
+      "gloss": "reconnaissance satellite",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        95262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4,
+        "星": 2,
+        "衛": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857931/無人偵察機/むじんていさつき": {
+      "id": 2857931,
+      "form": "無人偵察機",
+      "kana": "むじんていさつき",
+      "gloss": "surveillance drone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        104201
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "察": 4,
+        "機": 4,
+        "人": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2747480/迷探偵/めいたんてい": {
+      "id": 2747480,
+      "form": "迷探偵",
+      "kana": "めいたんてい",
+      "gloss": "inept detective",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        112675
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "探": 6,
+        "迷": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1943070/偵察要員/ていさつよういん": {
+      "id": 1943070,
+      "form": "偵察要員",
+      "kana": "ていさつよういん",
+      "gloss": "player put on starting list to be replaced by another when the opponent's pitcher is known",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        136721
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4,
+        "要": 4,
+        "員": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1998650/偵察飛行/ていさつひこう": {
+      "id": 1998650,
+      "form": "偵察飛行",
+      "kana": "ていさつひこう",
+      "gloss": "surveillance flight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        145973
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4,
+        "飛": 4,
+        "行": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1986710/サイバー探偵/サイバーたんてい": {
+      "id": 1986710,
+      "form": "サイバー探偵",
+      "kana": "サイバーたんてい",
+      "gloss": "cybersleuth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "探": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435140/偵知/ていち": {
+      "id": 1435140,
+      "form": "偵知",
+      "kana": "ていち",
+      "gloss": "spying out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        217058
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "知": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1435100:偵察:ていさつ",
+      "form": "偵察",
+      "kana": "ていさつ",
+      "cue": "scouting; reconnaissance",
+      "ids": [
+        1435100
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9016,
+        "shiberu": 7219,
+        "tubelex": 7821,
+        "wordfreq": 8169
+      },
+      "alternatives_by_kanji": {
+        "察": [
+          "1214900/観察/かんさつ",
+          "1281150/考察/こうさつ",
+          "1298750/察知/さっち"
+        ],
+        "偵": [
+          "1418380/探偵/たんてい",
+          "1458910/内偵/ないてい",
+          "1641760/密偵/みってい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

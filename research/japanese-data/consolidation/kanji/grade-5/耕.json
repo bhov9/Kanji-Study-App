@@ -1,0 +1,1244 @@
+{
+  "character": "耕",
+  "grade": 5,
+  "meanings": [
+    "till",
+    "plow",
+    "cultivate"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 127
+    }
+  ],
+  "components": [
+    "｜",
+    "土",
+    "ハ",
+    "木",
+    "亅",
+    "耒",
+    "井",
+    "ノ"
+  ],
+  "on": [
+    "コウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "たがや.す",
+      "stem": "たがや",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [
+    "こお"
+  ],
+  "government": {
+    "kanji": "耕",
+    "heading": "耕",
+    "readings": [
+      "コウ",
+      "たがやす"
+    ],
+    "examples_by_reading": [
+      [
+        "耕作",
+        "耕地",
+        "農耕"
+      ],
+      [
+        "耕す"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "耕",
+      "reading": "コウ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 33,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1280970/耕作/こうさく",
+        "1280990/耕地/こうち",
+        "1470680/農耕/のうこう",
+        "2841953/耕耘/こううん",
+        "1821060/耕種/こうしゅ",
+        "1836020/休耕/きゅうこう",
+        "1731970/筆耕/ひっこう",
+        "2866267/中耕/ちゅうこう",
+        "1674210/馬耕/ばこう",
+        "1737240/水耕/すいこう"
+      ]
+    },
+    {
+      "reading": "たがやす",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1280950/耕す/たがやす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1280970/耕作/こうさく",
+    "1280950/耕す/たがやす",
+    "1280990/耕地/こうち",
+    "1470680/農耕/のうこう",
+    "2841953/耕耘/こううん",
+    "1821060/耕種/こうしゅ",
+    "1836020/休耕/きゅうこう",
+    "1731970/筆耕/ひっこう",
+    "2866267/中耕/ちゅうこう",
+    "1674210/馬耕/ばこう",
+    "1737240/水耕/すいこう",
+    "1592940/耕運機/こううんき",
+    "1376540/晴耕雨読/せいこううどく",
+    "2841953/耕うん/こううん",
+    "1646870/深耕/しんこう",
+    "1821020/耕土/こうど",
+    "1821040/耕作地/こうさくち",
+    "2648090/水耕栽培/すいこうさいばい",
+    "2553000/農耕地/のうこうち",
+    "1827180/農耕民族/のうこうみんぞく",
+    "2842359/休耕地/きゅうこうち",
+    "1592940/耕耘機/こううんき",
+    "2529820/耕作放棄地/こうさくほうきち",
+    "2853299/農耕民/のうこうみん",
+    "1280980/耕作者/こうさくしゃ",
+    "2830136/農耕社会/のうこうしゃかい",
+    "1592940/耕うん機/こううんき",
+    "2597560/秋耕/しゅうこう",
+    "2804690/水耕農園/すいこうのうえん",
+    "1821030/耕地整理/こうちせいり"
+  ],
+  "candidates": {
+    "1280970/耕作/こうさく": {
+      "id": 1280970,
+      "form": "耕作",
+      "kana": "こうさく",
+      "gloss": "cultivation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6429,
+        32292,
+        21741,
+        54642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1280950/耕す/たがやす": {
+      "id": 1280950,
+      "form": "耕す",
+      "kana": "たがやす",
+      "gloss": "to till",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9559,
+        12591,
+        46874,
+        19892
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たがやす": {
+          "actual": "たがや",
+          "dictionary": [
+            "たがや.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "たがやす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1280990/耕地/こうち": {
+      "id": 1280990,
+      "form": "耕地",
+      "kana": "こうち",
+      "gloss": "arable land",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7915,
+        44010,
+        63004,
+        79207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1470680/農耕/のうこう": {
+      "id": 1470680,
+      "form": "農耕",
+      "kana": "のうこう",
+      "gloss": "farming",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15416,
+        25407,
+        26068,
+        41328
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2841953/耕耘/こううん": {
+      "id": 2841953,
+      "form": "耕耘",
+      "kana": "こううん",
+      "gloss": "plowing and weeding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36842,
+        101758,
+        195382
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1821060/耕種/こうしゅ": {
+      "id": 1821060,
+      "form": "耕種",
+      "kana": "こうしゅ",
+      "gloss": "tilling and sowing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        35998,
+        173792,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1836020/休耕/きゅうこう": {
+      "id": 1836020,
+      "form": "休耕",
+      "kana": "きゅうこう",
+      "gloss": "lying fallow",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        122877,
+        124728
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1731970/筆耕/ひっこう": {
+      "id": 1731970,
+      "form": "筆耕",
+      "kana": "ひっこう",
+      "gloss": "making a living copying or writing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        126439,
+        142181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筆": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866267/中耕/ちゅうこう": {
+      "id": 2866267,
+      "form": "中耕",
+      "kana": "ちゅうこう",
+      "gloss": "intertillage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        151646,
+        231089
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1674210/馬耕/ばこう": {
+      "id": 1674210,
+      "form": "馬耕",
+      "kana": "ばこう",
+      "gloss": "tilling with horses",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        209179,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "馬": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1737240/水耕/すいこう": {
+      "id": 1737240,
+      "form": "水耕",
+      "kana": "すいこう",
+      "gloss": "hydroponics",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24022,
+        null,
+        150468
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592940/耕運機/こううんき": {
+      "id": 1592940,
+      "form": "耕運機",
+      "kana": "こううんき",
+      "gloss": "cultivator",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        80922,
+        124457
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4,
+        "運": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1376540/晴耕雨読/せいこううどく": {
+      "id": 1376540,
+      "form": "晴耕雨読",
+      "kana": "せいこううどく",
+      "gloss": "working in the field in fine weather and reading at home in rainy weather",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        103620,
+        114901
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雨": 1,
+        "晴": 2,
+        "読": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841953/耕うん/こううん": {
+      "id": 2841953,
+      "form": "耕うん",
+      "kana": "こううん",
+      "gloss": "plowing and weeding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        125270,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1646870/深耕/しんこう": {
+      "id": 1646870,
+      "form": "深耕",
+      "kana": "しんこう",
+      "gloss": "deep plowing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        150239,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "深": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1821020/耕土/こうど": {
+      "id": 1821020,
+      "form": "耕土",
+      "kana": "こうど",
+      "gloss": "arable soil",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "土": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1821040/耕作地/こうさくち": {
+      "id": 1821040,
+      "form": "耕作地",
+      "kana": "こうさくち",
+      "gloss": "cultivated land",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        79881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2,
+        "地": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2648090/水耕栽培/すいこうさいばい": {
+      "id": 2648090,
+      "form": "水耕栽培",
+      "kana": "すいこうさいばい",
+      "gloss": "hydroponics",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        106686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "栽": 7,
+        "水": 1,
+        "培": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2553000/農耕地/のうこうち": {
+      "id": 2553000,
+      "form": "農耕地",
+      "kana": "のうこうち",
+      "gloss": "arable land",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114354
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "地": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1827180/農耕民族/のうこうみんぞく": {
+      "id": 1827180,
+      "form": "農耕民族",
+      "kana": "のうこうみんぞく",
+      "gloss": "agricultural people",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        117654
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "族": 3,
+        "民": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842359/休耕地/きゅうこうち": {
+      "id": 2842359,
+      "form": "休耕地",
+      "kana": "きゅうこうち",
+      "gloss": "fallow soil",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        117723
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1,
+        "地": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592940/耕耘機/こううんき": {
+      "id": 1592940,
+      "form": "耕耘機",
+      "kana": "こううんき",
+      "gloss": "cultivator",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        163055
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529820/耕作放棄地/こうさくほうきち": {
+      "id": 2529820,
+      "form": "耕作放棄地",
+      "kana": "こうさくほうきち",
+      "gloss": "fields and rice paddies that have been abandoned and are no longer cultivated",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        183080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2,
+        "棄": 7,
+        "放": 3,
+        "地": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853299/農耕民/のうこうみん": {
+      "id": 2853299,
+      "form": "農耕民",
+      "kana": "のうこうみん",
+      "gloss": "agricultural people",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        211909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "民": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1280980/耕作者/こうさくしゃ": {
+      "id": 1280980,
+      "form": "耕作者",
+      "kana": "こうさくしゃ",
+      "gloss": "cultivator",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        220114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2,
+        "者": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2830136/農耕社会/のうこうしゃかい": {
+      "id": 2830136,
+      "form": "農耕社会",
+      "kana": "のうこうしゃかい",
+      "gloss": "agrarian society",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        223110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "会": 2,
+        "社": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592940/耕うん機/こううんき": {
+      "id": 1592940,
+      "form": "耕うん機",
+      "kana": "こううんき",
+      "gloss": "cultivator",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236076
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2597560/秋耕/しゅうこう": {
+      "id": 2597560,
+      "form": "秋耕",
+      "kana": "しゅうこう",
+      "gloss": "plowing right after the autumn harvest",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276722
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秋": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2804690/水耕農園/すいこうのうえん": {
+      "id": 2804690,
+      "form": "水耕農園",
+      "kana": "すいこうのうえん",
+      "gloss": "hydroponic plantation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        307815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3,
+        "水": 1,
+        "園": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1821030/耕地整理/こうちせいり": {
+      "id": 1821030,
+      "form": "耕地整理",
+      "kana": "こうちせいり",
+      "gloss": "redeployment of arable land",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "理": 2,
+        "整": 3,
+        "地": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1280970:耕作:こうさく",
+      "form": "耕作",
+      "kana": "こうさく",
+      "cue": "cultivation; farming",
+      "ids": [
+        1280970
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 54642,
+        "shiberu": 6429,
+        "tubelex": 32292,
+        "wordfreq": 21741
+      },
+      "alternatives_by_kanji": {
+        "作": [
+          "1597890/作る/つくる",
+          "1297540/作業/さぎょう",
+          "1451350/動作/どうさ"
+        ],
+        "耕": [
+          "1280950/耕す/たがやす",
+          "1280990/耕地/こうち",
+          "1470680/農耕/のうこう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

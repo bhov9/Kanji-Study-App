@@ -1,0 +1,1871 @@
+{
+  "character": "位",
+  "grade": 4,
+  "meanings": [
+    "rank",
+    "grade",
+    "throne",
+    "crown",
+    "about",
+    "some"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "立"
+  ],
+  "on": [
+    "イ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "くらい",
+      "stem": "くらい",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "ぐらい",
+      "stem": "ぐらい",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "ぞき"
+  ],
+  "government": {
+    "kanji": "位",
+    "heading": "位",
+    "readings": [
+      "イ",
+      "くらい"
+    ],
+    "examples_by_reading": [
+      [
+        "位置",
+        "第一位",
+        "各位"
+      ],
+      [
+        "位",
+        "位取り",
+        "位する"
+      ]
+    ],
+    "note_lines": [
+      "「三位一体」，「従三位」は，「サンミイッタイ」，「ジュサンミ」。"
+    ],
+    "representative_index": {
+      "kanji": "位",
+      "reading": "イ",
+      "source": "table_02_i.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "イ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 325,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1587310/位置/いち",
+        "1204870/各位/かくい",
+        "2068010/位/い",
+        "1415280/第一位/だいいちい",
+        "1417040/単位/たんい",
+        "1420780/地位/ちい",
+        "1352590/上位/じょうい",
+        "1342260/順位/じゅんい",
+        "1499300/部位/ぶい",
+        "1539100/優位/ゆうい"
+      ]
+    },
+    {
+      "reading": "くらい",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 15,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1155490/位取り/くらいどり",
+        "1640530/位する/くらいする",
+        "1155400/位/くらい",
+        "1154340/位/くらい",
+        "1872620/位の高い/くらいのたかい",
+        "2068060/同じ位/おなじくらい",
+        "2238370/位を与える/くらいをあたえる",
+        "1155500/位取る/くらいどる",
+        "1592390/位負け/くらいまけ",
+        "2089190/位人臣を極める/くらいじんしんをきわめる"
+      ]
+    },
+    {
+      "reading": "ぐらい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1154340/位/ぐらい",
+        "1790950/気位/きぐらい",
+        "1581680/中位/ちゅうぐらい",
+        "2851455/申し訳ない位/もうしわけないぐらい",
+        "2068080/どれ位/どれぐらい",
+        "1009250/どの位/どのぐらい",
+        "1009250/何の位/どのぐらい",
+        "2148580/此の位/このぐらい",
+        "2148580/この位/このぐらい",
+        "2148570/此れ位/これぐらい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1587310/位置/いち",
+    "1204870/各位/かくい",
+    "1155490/位取り/くらいどり",
+    "1640530/位する/くらいする",
+    "2068010/位/い",
+    "1415280/第一位/だいいちい",
+    "1155400/位/くらい",
+    "1154340/位/ぐらい",
+    "1154340/位/くらい",
+    "1417040/単位/たんい",
+    "1420780/地位/ちい",
+    "1352590/上位/じょうい",
+    "1342260/順位/じゅんい",
+    "1499300/部位/ぶい",
+    "1539100/優位/ゆうい",
+    "1184480/下位/かい",
+    "1181420/王位/おうい",
+    "1594690/首位/しゅい",
+    "1206540/学位/がくい",
+    "1651070/水位/すいい",
+    "1516940/方位/ほうい",
+    "1522170/本位/ほんい",
+    "1404110/即位/そくい",
+    "1904600/品位/ひんい",
+    "1155510/位相/いそう",
+    "1155590/位牌/いはい",
+    "1409190/体位/たいい",
+    "1283270/高位/こうい",
+    "1280350/皇位/こうい",
+    "1635430/譲位/じょうい"
+  ],
+  "candidates": {
+    "1587310/位置/いち": {
+      "id": 1587310,
+      "form": "位置",
+      "kana": "いち",
+      "gloss": "place",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1543,
+        510,
+        1019,
+        1439
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "置": 4
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [
+        "イ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1204870/各位/かくい": {
+      "id": 1204870,
+      "form": "各位",
+      "kana": "かくい",
+      "gloss": "everyone",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32393,
+        33444,
+        21459,
+        53991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "各": 4
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [
+        "イ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1155490/位取り/くらいどり": {
+      "id": 1155490,
+      "form": "位取り",
+      "kana": "くらいどり",
+      "gloss": "grade",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        34609,
+        59850,
+        119612,
+        167390
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [
+        "くらい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1640530/位する/くらいする": {
+      "id": 1640530,
+      "form": "位する",
+      "kana": "くらいする",
+      "gloss": "to rank (as)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "vs-i",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        80922,
+        89363
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [
+        "くらい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2068010/位/い": {
+      "id": 2068010,
+      "form": "位",
+      "kana": "い",
+      "gloss": "rank",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        14115
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [
+        "くらい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1415280/第一位/だいいちい": {
+      "id": 1415280,
+      "form": "第一位",
+      "kana": "だいいちい",
+      "gloss": "first place",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        34089
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "第": 3,
+        "一": 1
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [
+        "イ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1155400/位/くらい": {
+      "id": 1155400,
+      "form": "位",
+      "kana": "くらい",
+      "gloss": "throne",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [
+        "くらい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1154340/位/ぐらい": {
+      "id": 1154340,
+      "form": "位",
+      "kana": "ぐらい",
+      "gloss": "approximately",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "suf",
+        "prt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [
+        "くらい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1154340/位/くらい": {
+      "id": 1154340,
+      "form": "位",
+      "kana": "くらい",
+      "gloss": "approximately",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "suf",
+        "prt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [
+        "くらい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1417040/単位/たんい": {
+      "id": 1417040,
+      "form": "単位",
+      "kana": "たんい",
+      "gloss": "unit (e.g. meters, grams, etc.)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2639,
+        2719,
+        2190,
+        5270
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "単": 4
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1420780/地位/ちい": {
+      "id": 1420780,
+      "form": "地位",
+      "kana": "ちい",
+      "gloss": "(social) position",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1430,
+        5617,
+        4415,
+        4494
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1352590/上位/じょうい": {
+      "id": 1352590,
+      "form": "上位",
+      "kana": "じょうい",
+      "gloss": "superior (in rank)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        8758,
+        2681,
+        2518,
+        5787
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1342260/順位/じゅんい": {
+      "id": 1342260,
+      "form": "順位",
+      "kana": "じゅんい",
+      "gloss": "order",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8774,
+        4045,
+        4766,
+        11800
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "順": 4
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1499300/部位/ぶい": {
+      "id": 1499300,
+      "form": "部位",
+      "kana": "ぶい",
+      "gloss": "part (esp. of the body)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16873,
+        5568,
+        7635,
+        9874
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "部": 3
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1539100/優位/ゆうい": {
+      "id": 1539100,
+      "form": "優位",
+      "kana": "ゆうい",
+      "gloss": "predominance",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        14186,
+        6798,
+        8169,
+        11482
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "優": 6
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1184480/下位/かい": {
+      "id": 1184480,
+      "form": "下位",
+      "kana": "かい",
+      "gloss": "low rank",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10239,
+        8802,
+        11368,
+        21868
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1181420/王位/おうい": {
+      "id": 1181420,
+      "form": "王位",
+      "kana": "おうい",
+      "gloss": "the throne",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8278,
+        10064,
+        13918,
+        23855
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1594690/首位/しゅい": {
+      "id": 1594690,
+      "form": "首位",
+      "kana": "しゅい",
+      "gloss": "first place",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12595,
+        9782,
+        11368,
+        46695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "首": 2
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1206540/学位/がくい": {
+      "id": 1206540,
+      "form": "学位",
+      "kana": "がくい",
+      "gloss": "(academic) degree",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7054,
+        21238,
+        14745,
+        68016
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651070/水位/すいい": {
+      "id": 1651070,
+      "form": "水位",
+      "kana": "すいい",
+      "gloss": "water level",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12960,
+        8780,
+        17751,
+        30961
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1516940/方位/ほうい": {
+      "id": 1516940,
+      "form": "方位",
+      "kana": "ほうい",
+      "gloss": "bearing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11978,
+        13194,
+        13682,
+        35179
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522170/本位/ほんい": {
+      "id": 1522170,
+      "form": "本位",
+      "kana": "ほんい",
+      "gloss": "standard",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10910,
+        17204,
+        17002,
+        58800
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404110/即位/そくい": {
+      "id": 1404110,
+      "form": "即位",
+      "kana": "そくい",
+      "gloss": "accession to the throne",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17956,
+        13266,
+        20349,
+        26634
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "即": 7
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1904600/品位/ひんい": {
+      "id": 1904600,
+      "form": "品位",
+      "kana": "ひんい",
+      "gloss": "dignity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15731,
+        33040,
+        20890,
+        28542
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "品": 3
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1155510/位相/いそう": {
+      "id": 1155510,
+      "form": "位相",
+      "kana": "いそう",
+      "gloss": "phase (e.g. wave, electricity, moon)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31885,
+        16261,
+        23216,
+        44626
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "相": 3
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1155590/位牌/いはい": {
+      "id": 1155590,
+      "form": "位牌",
+      "kana": "いはい",
+      "gloss": "Buddhist mortuary tablet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25539,
+        14181,
+        43420,
+        49372
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1409190/体位/たいい": {
+      "id": 1409190,
+      "form": "体位",
+      "kana": "たいい",
+      "gloss": "physique",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25402,
+        24904,
+        24154,
+        23589
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1283270/高位/こうい": {
+      "id": 1283270,
+      "form": "高位",
+      "kana": "こうい",
+      "gloss": "dignity",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23290,
+        32097,
+        37034,
+        19030
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1280350/皇位/こうい": {
+      "id": 1280350,
+      "form": "皇位",
+      "kana": "こうい",
+      "gloss": "imperial throne",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28778,
+        22134,
+        41605,
+        68457
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "皇": 6
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1635430/譲位/じょうい": {
+      "id": 1635430,
+      "form": "譲位",
+      "kana": "じょうい",
+      "gloss": "abdication",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18285,
+        42221,
+        45339,
+        76050
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "譲": 7
+      },
+      "matched": {
+        "イ": {
+          "actual": "い",
+          "dictionary": [
+            "イ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1872620/位の高い/くらいのたかい": {
+      "id": 1872620,
+      "form": "位の高い",
+      "kana": "くらいのたかい",
+      "gloss": "high-ranking",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50483
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2068060/同じ位/おなじくらい": {
+      "id": 2068060,
+      "form": "同じ位",
+      "kana": "おなじくらい",
+      "gloss": "approximately the same",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        58962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2238370/位を与える/くらいをあたえる": {
+      "id": 2238370,
+      "form": "位を与える",
+      "kana": "くらいをあたえる",
+      "gloss": "to be appointed to a rank",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        80184
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "与": 7
+      },
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1155500/位取る/くらいどる": {
+      "id": 1155500,
+      "form": "位取る",
+      "kana": "くらいどる",
+      "gloss": "to scale",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        131224
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592390/位負け/くらいまけ": {
+      "id": 1592390,
+      "form": "位負け",
+      "kana": "くらいまけ",
+      "gloss": "being unable to live up to one's position",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        161829
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "負": 3
+      },
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2089190/位人臣を極める/くらいじんしんをきわめる": {
+      "id": 2089190,
+      "form": "位人臣を極める",
+      "kana": "くらいじんしんをきわめる",
+      "gloss": "to rise to the highest possible rank",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        173348
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "臣": 4,
+        "極": 4,
+        "人": 1
+      },
+      "matched": {
+        "くらい": {
+          "actual": "くらい",
+          "dictionary": [
+            "くらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1790950/気位/きぐらい": {
+      "id": 1790950,
+      "form": "気位",
+      "kana": "きぐらい",
+      "gloss": "pride",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29319,
+        55605,
+        78707,
+        35535
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1581680/中位/ちゅうぐらい": {
+      "id": 1581680,
+      "form": "中位",
+      "kana": "ちゅうぐらい",
+      "gloss": "(about) medium",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851455/申し訳ない位/もうしわけないぐらい": {
+      "id": 2851455,
+      "form": "申し訳ない位",
+      "kana": "もうしわけないぐらい",
+      "gloss": "to the extent it makes one feel apologetic",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adv",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "申": 3,
+        "訳": 6
+      },
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2068080/どれ位/どれぐらい": {
+      "id": 2068080,
+      "form": "どれ位",
+      "kana": "どれぐらい",
+      "gloss": "how long",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "n",
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1009250/どの位/どのぐらい": {
+      "id": 1009250,
+      "form": "どの位",
+      "kana": "どのぐらい",
+      "gloss": "how long",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "n",
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1009250/何の位/どのぐらい": {
+      "id": 1009250,
+      "form": "何の位",
+      "kana": "どのぐらい",
+      "gloss": "how long",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "n",
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "何": 2
+      },
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2148580/此の位/このぐらい": {
+      "id": 2148580,
+      "form": "此の位",
+      "kana": "このぐらい",
+      "gloss": "this much",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2148580/この位/このぐらい": {
+      "id": 2148580,
+      "form": "この位",
+      "kana": "このぐらい",
+      "gloss": "this much",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2148570/此れ位/これぐらい": {
+      "id": 2148570,
+      "form": "此れ位",
+      "kana": "これぐらい",
+      "gloss": "this much",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ぐらい": {
+          "actual": "ぐらい",
+          "dictionary": [
+            "ぐらい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1417040:単位:たんい",
+      "form": "単位",
+      "kana": "たんい",
+      "cue": "unit (e.g. meters, grams, etc.); denomination",
+      "ids": [
+        1417040
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5270,
+        "shiberu": 2639,
+        "tubelex": 2719,
+        "wordfreq": 2190
+      },
+      "alternatives_by_kanji": {
+        "位": [
+          "1587310/位置/いち",
+          "1204870/各位/かくい",
+          "1155490/位取り/くらいどり"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1420780:地位:ちい",
+      "form": "地位",
+      "kana": "ちい",
+      "cue": "(social) position; status",
+      "ids": [
+        1420780
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4494,
+        "shiberu": 1430,
+        "tubelex": 5617,
+        "wordfreq": 4415
+      },
+      "alternatives_by_kanji": {
+        "地": [
+          "1421060/地元/じもと",
+          "1421510/地面/じめん",
+          "1582090/天地/てんち"
+        ],
+        "位": [
+          "1587310/位置/いち",
+          "1204870/各位/かくい",
+          "1155490/位取り/くらいどり"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1587310:位置:いち",
+      "form": "位置",
+      "kana": "いち",
+      "cue": "place; position",
+      "ids": [
+        1587310
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1439,
+        "shiberu": 1543,
+        "tubelex": 510,
+        "wordfreq": 1019
+      },
+      "alternatives_by_kanji": {
+        "位": [
+          "1204870/各位/かくい",
+          "1155490/位取り/くらいどり",
+          "1640530/位する/くらいする"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

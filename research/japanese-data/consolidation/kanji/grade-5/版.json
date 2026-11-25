@@ -1,0 +1,1194 @@
+{
+  "character": "版",
+  "grade": 5,
+  "meanings": [
+    "printing block",
+    "printing plate",
+    "edition",
+    "impression",
+    "label"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 91
+    }
+  ],
+  "components": [
+    "片",
+    "又",
+    "厂"
+  ],
+  "on": [
+    "ハン"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "版",
+    "heading": "版",
+    "readings": [
+      "ハン"
+    ],
+    "examples_by_reading": [
+      [
+        "版画",
+        "写真版",
+        "出版"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "版",
+      "reading": "ハン",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ハン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 59,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1340030/出版/しゅっぱん",
+        "1481510/版画/はんが",
+        "1322090/写真版/しゃしんばん",
+        "1481480/版/はん",
+        "1481520/版権/はんけん",
+        "1343030/初版/しょはん",
+        "1577970/旧版/きゅうはん",
+        "1336680/重版/じゅうはん",
+        "1651940/版図/はんと",
+        "1626140/版木/はんぎ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1340030/出版/しゅっぱん",
+    "1481510/版画/はんが",
+    "1322090/写真版/しゃしんばん",
+    "1481480/版/はん",
+    "1481520/版権/はんけん",
+    "1343030/初版/しょはん",
+    "1577970/旧版/きゅうはん",
+    "1336680/重版/じゅうはん",
+    "1651940/版図/はんと",
+    "1626140/版木/はんぎ",
+    "1293440/再版/さいはん",
+    "1481490/版下/はんした",
+    "2519000/銅版/どうはん",
+    "1370480/図版/ずはん",
+    "1641990/木版/もくはん",
+    "1481530/版元/はんもと",
+    "1380740/製版/せいはん",
+    "1680600/版本/はんぽん",
+    "1201090/改版/かいはん",
+    "1680640/版籍/はんせき",
+    "1576680/凹版/おうはん",
+    "1507790/平版/へいはん",
+    "1678480/孔版/こうはん",
+    "1592320/組版/くみはん",
+    "1617050/版行/はんこう",
+    "1592320/組み版/くみはん",
+    "2862496/版築/はんちく",
+    "1767960/私版/しはん",
+    "2841544/初版本/しょはんぼん",
+    "1784890/製版所/せいはんじょ"
+  ],
+  "candidates": {
+    "1340030/出版/しゅっぱん": {
+      "id": 1340030,
+      "form": "出版",
+      "kana": "しゅっぱん",
+      "gloss": "publication",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1029,
+        4254,
+        2241,
+        9193
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "ハン": {
+          "actual": "ぱん",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ハン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1481510/版画/はんが": {
+      "id": 1481510,
+      "form": "版画",
+      "kana": "はんが",
+      "gloss": "woodcut",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10757,
+        21370,
+        20890,
+        62862
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1322090/写真版/しゃしんばん": {
+      "id": 1322090,
+      "form": "写真版",
+      "kana": "しゃしんばん",
+      "gloss": "photostat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        145240
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "真": 3,
+        "写": 3
+      },
+      "matched": {
+        "ハン": {
+          "actual": "ばん",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ハン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1481480/版/はん": {
+      "id": 1481480,
+      "form": "版",
+      "kana": "はん",
+      "gloss": "edition",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        3015,
+        685,
+        325,
+        6178
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1481520/版権/はんけん": {
+      "id": 1481520,
+      "form": "版権",
+      "kana": "はんけん",
+      "gloss": "copyright",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10869,
+        22935,
+        14745,
+        66413
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "権": 6
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1343030/初版/しょはん": {
+      "id": 1343030,
+      "form": "初版",
+      "kana": "しょはん",
+      "gloss": "first edition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16715,
+        24703,
+        23842,
+        18011
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1577970/旧版/きゅうはん": {
+      "id": 1577970,
+      "form": "旧版",
+      "kana": "きゅうはん",
+      "gloss": "old edition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15636,
+        73159,
+        41163,
+        105613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "旧": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1336680/重版/じゅうはん": {
+      "id": 1336680,
+      "form": "重版",
+      "kana": "じゅうはん",
+      "gloss": "additional printing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28557,
+        40322,
+        33270,
+        47259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "重": 3
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651940/版図/はんと": {
+      "id": 1651940,
+      "form": "版図",
+      "kana": "はんと",
+      "gloss": "territory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23166,
+        50117,
+        81694,
+        49152
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1626140/版木/はんぎ": {
+      "id": 1626140,
+      "form": "版木",
+      "kana": "はんぎ",
+      "gloss": "woodblock",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23839,
+        65459,
+        84059,
+        122920
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1293440/再版/さいはん": {
+      "id": 1293440,
+      "form": "再版",
+      "kana": "さいはん",
+      "gloss": "reprint",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31968,
+        109954,
+        48344,
+        101040
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "再": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1481490/版下/はんした": {
+      "id": 1481490,
+      "form": "版下",
+      "kana": "はんした",
+      "gloss": "artwork",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34216,
+        95069,
+        93020,
+        152996
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2519000/銅版/どうはん": {
+      "id": 2519000,
+      "form": "銅版",
+      "kana": "どうはん",
+      "gloss": "copper plate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10984,
+        61110,
+        72128,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "銅": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1370480/図版/ずはん": {
+      "id": 1370480,
+      "form": "図版",
+      "kana": "ずはん",
+      "gloss": "plate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44489,
+        43420,
+        77512
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1641990/木版/もくはん": {
+      "id": 1641990,
+      "form": "木版",
+      "kana": "もくはん",
+      "gloss": "woodblock (engraved block of wood used to make prints)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        46460,
+        39764,
+        106352
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1481530/版元/はんもと": {
+      "id": 1481530,
+      "form": "版元",
+      "kana": "はんもと",
+      "gloss": "publisher",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        44849,
+        80074
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1380740/製版/せいはん": {
+      "id": 1380740,
+      "form": "製版",
+      "kana": "せいはん",
+      "gloss": "platemaking",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48827,
+        58810,
+        107357
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "製": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1680600/版本/はんぽん": {
+      "id": 1680600,
+      "form": "版本",
+      "kana": "はんぽん",
+      "gloss": "woodblock-printed book",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        52075,
+        152892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1201090/改版/かいはん": {
+      "id": 1201090,
+      "form": "改版",
+      "kana": "かいはん",
+      "gloss": "revised edition (of a publication)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        80922,
+        123501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "改": 4
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1680640/版籍/はんせき": {
+      "id": 1680640,
+      "form": "版籍",
+      "kana": "はんせき",
+      "gloss": "(registry of) land and people",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        166230,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "籍": 7
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1576680/凹版/おうはん": {
+      "id": 1576680,
+      "form": "凹版",
+      "kana": "おうはん",
+      "gloss": "intaglio plate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        107434,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "凹": 7
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1507790/平版/へいはん": {
+      "id": 1507790,
+      "form": "平版",
+      "kana": "へいはん",
+      "gloss": "planography",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        119612,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1678480/孔版/こうはん": {
+      "id": 1678480,
+      "form": "孔版",
+      "kana": "こうはん",
+      "gloss": "mimeograph",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        166230,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "孔": 7
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592320/組版/くみはん": {
+      "id": 1592320,
+      "form": "組版",
+      "kana": "くみはん",
+      "gloss": "typesetting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        47321,
+        146169
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "組": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1617050/版行/はんこう": {
+      "id": 1617050,
+      "form": "版行",
+      "kana": "はんこう",
+      "gloss": "publishing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        null,
+        203973
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592320/組み版/くみはん": {
+      "id": 1592320,
+      "form": "組み版",
+      "kana": "くみはん",
+      "gloss": "typesetting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        341108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "組": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862496/版築/はんちく": {
+      "id": 2862496,
+      "form": "版築",
+      "kana": "はんちく",
+      "gloss": "rammed-earth construction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        254510
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "築": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1767960/私版/しはん": {
+      "id": 1767960,
+      "form": "私版",
+      "kana": "しはん",
+      "gloss": "private printing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        299106
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "私": 6
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841544/初版本/しょはんぼん": {
+      "id": 2841544,
+      "form": "初版本",
+      "kana": "しょはんぼん",
+      "gloss": "first edition (book)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75771
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4,
+        "本": 1
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1784890/製版所/せいはんじょ": {
+      "id": 1784890,
+      "form": "製版所",
+      "kana": "せいはんじょ",
+      "gloss": "platemaking shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        76012
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "製": 5,
+        "所": 3
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1340030:出版:しゅっぱん",
+      "form": "出版",
+      "kana": "しゅっぱん",
+      "cue": "publication",
+      "ids": [
+        1340030
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 9193,
+        "shiberu": 1029,
+        "tubelex": 4254,
+        "wordfreq": 2241
+      },
+      "alternatives_by_kanji": {
+        "出": [
+          "1338180/出す/だす",
+          "1436410/提出/ていしゅつ",
+          "1338820/出現/しゅつげん"
+        ],
+        "版": [
+          "1481510/版画/はんが",
+          "1322090/写真版/しゃしんばん",
+          "1481480/版/はん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 210
+}

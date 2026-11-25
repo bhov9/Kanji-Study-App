@@ -1,0 +1,416 @@
+{
+  "character": "恣",
+  "grade": 7,
+  "meanings": [
+    "selfish",
+    "arbitrary"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "欠",
+    "心",
+    "冫"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ほしいまま",
+      "stem": "ほしいまま",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "恣",
+    "heading": "恣",
+    "readings": [
+      "シ"
+    ],
+    "examples_by_reading": [
+      [
+        "恣意的"
+      ]
+    ],
+    "note_lines": [
+      "＊［（付）第２の３参照］"
+    ],
+    "representative_index": {
+      "kanji": "恣",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1566810/恣意的/しいてき",
+        "1566800/恣意/しい",
+        "1710590/放恣/ほうし",
+        "1920900/恣意性/しいせい",
+        "1591580/驕恣/きょうし",
+        "2788090/恣心/ししん"
+      ]
+    },
+    {
+      "reading": "ほしいまま",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1908340/恣/ほしいまま",
+        "2825110/恣にする/ほしいままにする"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1566810/恣意的/しいてき",
+    "1566800/恣意/しい",
+    "1710590/放恣/ほうし",
+    "1920900/恣意性/しいせい",
+    "1591580/驕恣/きょうし",
+    "1908340/恣/ほしいまま",
+    "2825110/恣にする/ほしいままにする",
+    "2788090/恣心/ししん"
+  ],
+  "candidates": {
+    "1566810/恣意的/しいてき": {
+      "id": 1566810,
+      "form": "恣意的",
+      "kana": "しいてき",
+      "gloss": "arbitrary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        41883
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3,
+        "的": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1566800/恣意/しい": {
+      "id": 1566800,
+      "form": "恣意",
+      "kana": "しい",
+      "gloss": "arbitrariness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        9127,
+        26068,
+        93815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1710590/放恣/ほうし": {
+      "id": 1710590,
+      "form": "放恣",
+      "kana": "ほうし",
+      "gloss": "licentious",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        124086
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "放": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1920900/恣意性/しいせい": {
+      "id": 1920900,
+      "form": "恣意性",
+      "kana": "しいせい",
+      "gloss": "arbitrariness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        164835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3,
+        "性": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1591580/驕恣/きょうし": {
+      "id": 1591580,
+      "form": "驕恣",
+      "kana": "きょうし",
+      "gloss": "being proud and self-willed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1908340/恣/ほしいまま": {
+      "id": 1908340,
+      "form": "恣",
+      "kana": "ほしいまま",
+      "gloss": "selfish",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        139652,
+        107815
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ほしいまま": {
+          "actual": "ほしいまま",
+          "dictionary": [
+            "ほしいまま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2825110/恣にする/ほしいままにする": {
+      "id": 2825110,
+      "form": "恣にする",
+      "kana": "ほしいままにする",
+      "gloss": "to abuse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-i"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        93389
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ほしいまま": {
+          "actual": "ほしいまま",
+          "dictionary": [
+            "ほしいまま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2788090/恣心/ししん": {
+      "id": 2788090,
+      "form": "恣心",
+      "kana": "ししん",
+      "gloss": "selfish, self-indulgent heart",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1566800:恣意:しい",
+      "form": "恣意",
+      "kana": "しい",
+      "cue": "arbitrariness; self-will",
+      "ids": [
+        1566800
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 93815,
+        "tubelex": 9127,
+        "wordfreq": 26068
+      },
+      "alternatives_by_kanji": {
+        "意": [
+          "1156800/意味/いみ",
+          "1156530/意見/いけん",
+          "1254220/決意/けつい"
+        ],
+        "恣": [
+          "1566810/恣意的/しいてき",
+          "1710590/放恣/ほうし",
+          "1920900/恣意性/しいせい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

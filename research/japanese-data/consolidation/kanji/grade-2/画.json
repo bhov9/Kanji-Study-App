@@ -1,0 +1,1960 @@
+{
+  "character": "画",
+  "grade": 2,
+  "meanings": [
+    "brush-stroke",
+    "picture"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 102
+    },
+    {
+      "type": "nelson_c",
+      "value": 1
+    }
+  ],
+  "components": [
+    "一",
+    "田",
+    "凵"
+  ],
+  "on": [
+    "ガ",
+    "カク",
+    "エ",
+    "カイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "えが.く",
+      "stem": "えが",
+      "okurigana": "く"
+    },
+    {
+      "sourceNotation": "かく.する",
+      "stem": "かく",
+      "okurigana": "する"
+    },
+    {
+      "sourceNotation": "かぎ.る",
+      "stem": "かぎ",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "はかりごと",
+      "stem": "はかりごと",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "はか.る",
+      "stem": "はか",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "画",
+    "heading": "画（畫）",
+    "readings": [
+      "ガ",
+      "カク"
+    ],
+    "examples_by_reading": [
+      [
+        "画家",
+        "図画",
+        "映画"
+      ],
+      [
+        "画期的",
+        "計画",
+        "区画"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "画",
+      "reading": "ガ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 380,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1173720/映画/えいが",
+        "1197120/画家/がか",
+        "1370350/図画/ずが",
+        "1370350/図画/とが",
+        "1451290/動画/どうが",
+        "1526920/漫画/まんが",
+        "1197390/画像/がぞう",
+        "1197610/画面/がめん",
+        "1561610/録画/ろくが",
+        "1202300/絵画/かいが"
+      ]
+    },
+    {
+      "reading": "カク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 131,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1252090/計画/けいかく",
+        "1592110/区画/くかく",
+        "1590470/画期的/かっきてき",
+        "1218150/企画/きかく",
+        "1197210/画策/かくさく",
+        "1589990/画一/かくいつ",
+        "1315150/字画/じかく",
+        "1302120/参画/さんかく",
+        "1161290/一画/いっかく",
+        "1197320/画数/かくすう"
+      ]
+    },
+    {
+      "reading": "エ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1538630/油画/あぶらえ",
+        "1202270/画/え",
+        "1577380/画師/えし",
+        "1202350/画描き/えかき",
+        "1202280/画に描いた餅/えにかいたもち",
+        "1925400/画コンテ/えコンテ",
+        "1173650/影画/かげえ",
+        "1314620/似顔画/にがおえ"
+      ]
+    },
+    {
+      "reading": "カイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "えがく",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1583460/画く/えがく"
+      ]
+    },
+    {
+      "reading": "かくする",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "かぎる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "はかりごと",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "はかる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1173720/映画/えいが",
+    "1252090/計画/けいかく",
+    "1197120/画家/がか",
+    "1592110/区画/くかく",
+    "1370350/図画/ずが",
+    "1370350/図画/とが",
+    "1590470/画期的/かっきてき",
+    "1451290/動画/どうが",
+    "1526920/漫画/まんが",
+    "1197390/画像/がぞう",
+    "1197610/画面/がめん",
+    "1218150/企画/きかく",
+    "1561610/録画/ろくが",
+    "1202300/絵画/かいが",
+    "1197240/画質/がしつ",
+    "1545880/洋画/ようが",
+    "1726150/自画/じが",
+    "1261250/原画/げんが",
+    "1481510/版画/はんが",
+    "1509310/壁画/へきが",
+    "1490130/描画/びょうが",
+    "1197560/画風/がふう",
+    "1197640/画廊/がろう",
+    "1531390/名画/めいが",
+    "1197210/画策/かくさく",
+    "1197200/画材/がざい",
+    "1518220/邦画/ほうが",
+    "1197260/画集/がしゅう",
+    "1197430/画壇/がだん",
+    "1654020/書画/しょが"
+  ],
+  "candidates": {
+    "1173720/映画/えいが": {
+      "id": 1173720,
+      "form": "映画",
+      "kana": "えいが",
+      "gloss": "movie",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        179,
+        633,
+        352,
+        1762
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "映": 6
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1252090/計画/けいかく": {
+      "id": 1252090,
+      "form": "計画",
+      "kana": "けいかく",
+      "gloss": "plan",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        354,
+        1054,
+        552,
+        1389
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "計": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [
+        "カク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1197120/画家/がか": {
+      "id": 1197120,
+      "form": "画家",
+      "kana": "がか",
+      "gloss": "painter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1903,
+        7187,
+        9302,
+        14937
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1592110/区画/くかく": {
+      "id": 1592110,
+      "form": "区画",
+      "kana": "くかく",
+      "gloss": "division",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20252,
+        8200,
+        9745,
+        11845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "区": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [
+        "カク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1370350/図画/ずが": {
+      "id": 1370350,
+      "form": "図画",
+      "kana": "ずが",
+      "gloss": "drawing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18341,
+        59850,
+        46874,
+        85993
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "図": 2
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1370350/図画/とが": {
+      "id": 1370350,
+      "form": "図画",
+      "kana": "とが",
+      "gloss": "drawing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18341,
+        59850,
+        46874,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "図": 2
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1590470/画期的/かっきてき": {
+      "id": 1590470,
+      "form": "画期的",
+      "kana": "かっきてき",
+      "gloss": "ground-breaking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        12892,
+        18115
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "期": 3
+      },
+      "matched": {
+        "カク": {
+          "actual": "かっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "カク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1451290/動画/どうが": {
+      "id": 1451290,
+      "form": "動画",
+      "kana": "どうが",
+      "gloss": "video (esp. digital)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3420,
+        132,
+        365,
+        4433
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "動": 3
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1526920/漫画/まんが": {
+      "id": 1526920,
+      "form": "漫画",
+      "kana": "まんが",
+      "gloss": "cartoon",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1979,
+        1475,
+        376,
+        3309
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "漫": 7
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1197390/画像/がぞう": {
+      "id": 1197390,
+      "form": "画像",
+      "kana": "がぞう",
+      "gloss": "image",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5333,
+        1131,
+        404,
+        5609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "像": 5
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1197610/画面/がめん": {
+      "id": 1197610,
+      "form": "画面",
+      "kana": "がめん",
+      "gloss": "screen (of a TV, computer, etc.)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3083,
+        495,
+        1342,
+        3210
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218150/企画/きかく": {
+      "id": 1218150,
+      "form": "企画",
+      "kana": "きかく",
+      "gloss": "planning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2710,
+        1459,
+        841,
+        4126
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "企": 7
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1561610/録画/ろくが": {
+      "id": 1561610,
+      "form": "録画",
+      "kana": "ろくが",
+      "gloss": "(video) recording",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9413,
+        3692,
+        3809,
+        10494
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "録": 4
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1202300/絵画/かいが": {
+      "id": 1202300,
+      "form": "絵画",
+      "kana": "かいが",
+      "gloss": "painting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3421,
+        6602,
+        6779,
+        9066
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絵": 2
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1197240/画質/がしつ": {
+      "id": 1197240,
+      "form": "画質",
+      "kana": "がしつ",
+      "gloss": "image quality (film, video, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16732,
+        4719,
+        7635,
+        39827
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "質": 5
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1545880/洋画/ようが": {
+      "id": 1545880,
+      "form": "洋画",
+      "kana": "ようが",
+      "gloss": "Western painting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4983,
+        22742,
+        14533,
+        42496
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "洋": 3
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1726150/自画/じが": {
+      "id": 1726150,
+      "form": "自画",
+      "kana": "じが",
+      "gloss": "picture painted by oneself",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10335,
+        17393,
+        17251,
+        116955
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1261250/原画/げんが": {
+      "id": 1261250,
+      "form": "原画",
+      "kana": "げんが",
+      "gloss": "original picture",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26987,
+        17007,
+        9888,
+        39321
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1481510/版画/はんが": {
+      "id": 1481510,
+      "form": "版画",
+      "kana": "はんが",
+      "gloss": "woodcut",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10757,
+        21370,
+        20890,
+        62862
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "版": 5
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1509310/壁画/へきが": {
+      "id": 1509310,
+      "form": "壁画",
+      "kana": "へきが",
+      "gloss": "fresco",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15363,
+        14777,
+        20890,
+        31714
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "壁": 7
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1490130/描画/びょうが": {
+      "id": 1490130,
+      "form": "描画",
+      "kana": "びょうが",
+      "gloss": "drawing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        27069,
+        10909,
+        17491,
+        61800
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "描": 7
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197560/画風/がふう": {
+      "id": 1197560,
+      "form": "画風",
+      "kana": "がふう",
+      "gloss": "style of painting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9144,
+        30504,
+        29116,
+        57737
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197640/画廊/がろう": {
+      "id": 1197640,
+      "form": "画廊",
+      "kana": "がろう",
+      "gloss": "art gallery (esp. artworks for sale)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12864,
+        24811,
+        21459,
+        52622
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "廊": 7
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1531390/名画/めいが": {
+      "id": 1531390,
+      "form": "名画",
+      "kana": "めいが",
+      "gloss": "famous picture",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10644,
+        32846,
+        27689,
+        42651
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197210/画策/かくさく": {
+      "id": 1197210,
+      "form": "画策",
+      "kana": "かくさく",
+      "gloss": "scheming",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18177,
+        26689,
+        19040,
+        15271
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "策": 6
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197200/画材/がざい": {
+      "id": 1197200,
+      "form": "画材",
+      "kana": "がざい",
+      "gloss": "subject matter of a painting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23386,
+        18572,
+        29854,
+        34913
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "材": 4
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1518220/邦画/ほうが": {
+      "id": 1518220,
+      "form": "邦画",
+      "kana": "ほうが",
+      "gloss": "Japanese film",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20873,
+        37698,
+        19315,
+        67975
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "邦": 7
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197260/画集/がしゅう": {
+      "id": 1197260,
+      "form": "画集",
+      "kana": "がしゅう",
+      "gloss": "book of pictures (paintings, drawings, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27040,
+        30862,
+        19848,
+        41592
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "集": 3
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197430/画壇/がだん": {
+      "id": 1197430,
+      "form": "画壇",
+      "kana": "がだん",
+      "gloss": "artists' world",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15697,
+        62423,
+        84816,
+        103648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "壇": 7
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1654020/書画/しょが": {
+      "id": 1654020,
+      "form": "書画",
+      "kana": "しょが",
+      "gloss": "paintings and calligraphic works",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19169,
+        53857,
+        57615,
+        84143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "ガ": {
+          "actual": "が",
+          "dictionary": [
+            "ガ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589990/画一/かくいつ": {
+      "id": 1589990,
+      "form": "画一",
+      "kana": "かくいつ",
+      "gloss": "uniformity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        29614,
+        38608,
+        35359,
+        131598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1315150/字画/じかく": {
+      "id": 1315150,
+      "form": "字画",
+      "kana": "じかく",
+      "gloss": "strokes in a Chinese character",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36345,
+        101749,
+        77923,
+        111673
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "字": 1
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1302120/参画/さんかく": {
+      "id": 1302120,
+      "form": "参画",
+      "kana": "さんかく",
+      "gloss": "taking part (in planning)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        11408,
+        14132,
+        62452
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "参": 4
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1161290/一画/いっかく": {
+      "id": 1161290,
+      "form": "一画",
+      "kana": "いっかく",
+      "gloss": "one plot (of land)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21749,
+        34060,
+        null,
+        30951
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197320/画数/かくすう": {
+      "id": 1197320,
+      "form": "画数",
+      "kana": "かくすう",
+      "gloss": "stroke count (of a kanji)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31364,
+        42050,
+        63335
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "カク": {
+          "actual": "かく",
+          "dictionary": [
+            "カク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538630/油画/あぶらえ": {
+      "id": 1538630,
+      "form": "油画",
+      "kana": "あぶらえ",
+      "gloss": "oil painting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34204,
+        null,
+        null,
+        155981
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "油": 3
+      },
+      "matched": {
+        "エ": {
+          "actual": "え",
+          "dictionary": [
+            "エ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202270/画/え": {
+      "id": 1202270,
+      "form": "画",
+      "kana": "え",
+      "gloss": "picture",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        10299
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "エ": {
+          "actual": "え",
+          "dictionary": [
+            "エ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1577380/画師/えし": {
+      "id": 1577380,
+      "form": "画師",
+      "kana": "えし",
+      "gloss": "painter",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        154137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "師": 5
+      },
+      "matched": {
+        "エ": {
+          "actual": "え",
+          "dictionary": [
+            "エ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202350/画描き/えかき": {
+      "id": 1202350,
+      "form": "画描き",
+      "kana": "えかき",
+      "gloss": "painter",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169977
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "描": 7
+      },
+      "matched": {
+        "エ": {
+          "actual": "え",
+          "dictionary": [
+            "エ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1202280/画に描いた餅/えにかいたもち": {
+      "id": 1202280,
+      "form": "画に描いた餅",
+      "kana": "えにかいたもち",
+      "gloss": "pie in the sky",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "餅": 7,
+        "描": 7
+      },
+      "matched": {
+        "エ": {
+          "actual": "え",
+          "dictionary": [
+            "エ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1925400/画コンテ/えコンテ": {
+      "id": 1925400,
+      "form": "画コンテ",
+      "kana": "えコンテ",
+      "gloss": "storyboard (film, television)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "エ": {
+          "actual": "え",
+          "dictionary": [
+            "エ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1173650/影画/かげえ": {
+      "id": 1173650,
+      "form": "影画",
+      "kana": "かげえ",
+      "gloss": "shadow picture",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        248225
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "影": 7
+      },
+      "matched": {
+        "エ": {
+          "actual": "え",
+          "dictionary": [
+            "エ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1314620/似顔画/にがおえ": {
+      "id": 1314620,
+      "form": "似顔画",
+      "kana": "にがおえ",
+      "gloss": "portrait",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "iK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "顔": 2,
+        "似": 5
+      },
+      "matched": {
+        "エ": {
+          "actual": "え",
+          "dictionary": [
+            "エ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1583460/画く/えがく": {
+      "id": 1583460,
+      "form": "画く",
+      "kana": "えがく",
+      "gloss": "to draw",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        37772,
+        null,
+        129940,
+        85824
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "えがく": {
+          "actual": "えが",
+          "dictionary": [
+            "えが.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1173720:映画:えいが",
+      "form": "映画",
+      "kana": "えいが",
+      "cue": "movie; film",
+      "ids": [
+        1173720
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1762,
+        "shiberu": 179,
+        "tubelex": 633,
+        "wordfreq": 352
+      },
+      "alternatives_by_kanji": {
+        "画": [
+          "1252090/計画/けいかく",
+          "1197120/画家/がか",
+          "1592110/区画/くかく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1197390:画像:がぞう",
+      "form": "画像",
+      "kana": "がぞう",
+      "cue": "image; picture",
+      "ids": [
+        1197390
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5609,
+        "shiberu": 5333,
+        "tubelex": 1131,
+        "wordfreq": 404
+      },
+      "alternatives_by_kanji": {
+        "画": [
+          "1173720/映画/えいが",
+          "1252090/計画/けいかく",
+          "1197120/画家/がか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1197640:画廊:がろう",
+      "form": "画廊",
+      "kana": "がろう",
+      "cue": "art gallery (esp. artworks for sale); picture gallery",
+      "ids": [
+        1197640
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 52622,
+        "shiberu": 12864,
+        "tubelex": 24811,
+        "wordfreq": 21459
+      },
+      "alternatives_by_kanji": {
+        "画": [
+          "1173720/映画/えいが",
+          "1252090/計画/けいかく",
+          "1197120/画家/がか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1252090:計画:けいかく",
+      "form": "計画",
+      "kana": "けいかく",
+      "cue": "plan; project",
+      "ids": [
+        1252090
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1389,
+        "shiberu": 354,
+        "tubelex": 1054,
+        "wordfreq": 552
+      },
+      "alternatives_by_kanji": {
+        "画": [
+          "1173720/映画/えいが",
+          "1197120/画家/がか",
+          "1592110/区画/くかく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1526920:漫画:まんが",
+      "form": "漫画",
+      "kana": "まんが",
+      "cue": "cartoon; comic",
+      "ids": [
+        1526920
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3309,
+        "shiberu": 1979,
+        "tubelex": 1475,
+        "wordfreq": 376
+      },
+      "alternatives_by_kanji": {
+        "画": [
+          "1173720/映画/えいが",
+          "1252090/計画/けいかく",
+          "1197120/画家/がか"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

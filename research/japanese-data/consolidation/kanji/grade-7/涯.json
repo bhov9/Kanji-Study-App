@@ -1,0 +1,968 @@
+{
+  "character": "涯",
+  "grade": 7,
+  "meanings": [
+    "horizon",
+    "shore",
+    "limit",
+    "bound"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 85
+    }
+  ],
+  "components": [
+    "汁",
+    "土",
+    "厂"
+  ],
+  "on": [
+    "ガイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はて",
+      "stem": "はて",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "涯",
+    "heading": "涯",
+    "readings": [
+      "ガイ"
+    ],
+    "examples_by_reading": [
+      [
+        "生涯"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "涯",
+      "reading": "ガイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 17,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1378840/生涯/しょうがい",
+        "1799490/境涯/きょうがい",
+        "1438600/天涯/てんがい",
+        "1438610/天涯孤独/てんがいこどく",
+        "1789930/際涯/さいがい",
+        "1164000/一生涯/いっしょうがい",
+        "2837345/生涯を閉じる/しょうがいをとじる",
+        "2844042/生涯最高/しょうがいさいこう",
+        "2851369/生涯賃金/しょうがいちんぎん",
+        "1395550/全生涯/ぜんしょうがい"
+      ]
+    },
+    {
+      "reading": "はて",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1639300/世界の涯/せかいのはて",
+        "1893350/地の涯/ちのはて",
+        "2628190/雪の涯/ゆきのはて",
+        "1192860/涯/はて"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1378840/生涯/しょうがい",
+    "1799490/境涯/きょうがい",
+    "1438600/天涯/てんがい",
+    "1438610/天涯孤独/てんがいこどく",
+    "1789930/際涯/さいがい",
+    "1164000/一生涯/いっしょうがい",
+    "2837345/生涯を閉じる/しょうがいをとじる",
+    "2844042/生涯最高/しょうがいさいこう",
+    "2851369/生涯賃金/しょうがいちんぎん",
+    "1395550/全生涯/ぜんしょうがい",
+    "1940220/生涯学習/しょうがいがくしゅう",
+    "1639300/世界の涯/せかいのはて",
+    "1893350/地の涯/ちのはて",
+    "2050530/天涯比隣/てんがいひりん",
+    "1274140/公生涯/こうしょうがい",
+    "1886470/水涯/すいがい",
+    "1378850/生涯教育/しょうがいきょういく",
+    "2050520/天涯万里/てんがいばんり",
+    "2860440/生涯価値/しょうがいかち",
+    "2628190/雪の涯/ゆきのはて",
+    "2050510/天涯地角/てんがいちかく",
+    "1192860/涯て/はて",
+    "1192860/涯/はて"
+  ],
+  "candidates": {
+    "1378840/生涯/しょうがい": {
+      "id": 1378840,
+      "form": "生涯",
+      "kana": "しょうがい",
+      "gloss": "life",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1920,
+        5299,
+        4852,
+        4432
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1799490/境涯/きょうがい": {
+      "id": 1799490,
+      "form": "境涯",
+      "kana": "きょうがい",
+      "gloss": "circumstances",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27686,
+        53857,
+        89631,
+        98190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "境": 5
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1438600/天涯/てんがい": {
+      "id": 1438600,
+      "form": "天涯",
+      "kana": "てんがい",
+      "gloss": "horizon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        147538,
+        79861
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "天": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1438610/天涯孤独/てんがいこどく": {
+      "id": 1438610,
+      "form": "天涯孤独",
+      "kana": "てんがいこどく",
+      "gloss": "a person without a single relative",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        61164,
+        27753
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "孤": 7,
+        "独": 5,
+        "天": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1789930/際涯/さいがい": {
+      "id": 1789930,
+      "form": "際涯",
+      "kana": "さいがい",
+      "gloss": "limits",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        172044
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "際": 5
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1164000/一生涯/いっしょうがい": {
+      "id": 1164000,
+      "form": "一生涯",
+      "kana": "いっしょうがい",
+      "gloss": "lifetime",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        40442
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1,
+        "一": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837345/生涯を閉じる/しょうがいをとじる": {
+      "id": 2837345,
+      "form": "生涯を閉じる",
+      "kana": "しょうがいをとじる",
+      "gloss": "to die (of a person)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71729
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閉": 6,
+        "生": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2844042/生涯最高/しょうがいさいこう": {
+      "id": 2844042,
+      "form": "生涯最高",
+      "kana": "しょうがいさいこう",
+      "gloss": "(the) best of one's life",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        77857
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2,
+        "生": 1,
+        "最": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851369/生涯賃金/しょうがいちんぎん": {
+      "id": 2851369,
+      "form": "生涯賃金",
+      "kana": "しょうがいちんぎん",
+      "gloss": "lifetime earnings",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        119030
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1,
+        "賃": 6,
+        "金": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1395550/全生涯/ぜんしょうがい": {
+      "id": 1395550,
+      "form": "全生涯",
+      "kana": "ぜんしょうがい",
+      "gloss": "one's whole life",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        120537
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "全": 3,
+        "生": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1940220/生涯学習/しょうがいがくしゅう": {
+      "id": 1940220,
+      "form": "生涯学習",
+      "kana": "しょうがいがくしゅう",
+      "gloss": "lifelong learning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        163055
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "習": 3,
+        "生": 1,
+        "学": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1639300/世界の涯/せかいのはて": {
+      "id": 1639300,
+      "form": "世界の涯",
+      "kana": "せかいのはて",
+      "gloss": "end of the world",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        177732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "世": 3,
+        "界": 3
+      },
+      "matched": {
+        "はて": {
+          "actual": "はて",
+          "dictionary": [
+            "はて"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1893350/地の涯/ちのはて": {
+      "id": 1893350,
+      "form": "地の涯",
+      "kana": "ちのはて",
+      "gloss": "end of the earth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        200001
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "はて": {
+          "actual": "はて",
+          "dictionary": [
+            "はて"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2050530/天涯比隣/てんがいひりん": {
+      "id": 2050530,
+      "form": "天涯比隣",
+      "kana": "てんがいひりん",
+      "gloss": "a great distance does not detract from the feeling (relationship) of endearment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301599
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "隣": 7,
+        "天": 1,
+        "比": 5
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1274140/公生涯/こうしょうがい": {
+      "id": 1274140,
+      "form": "公生涯",
+      "kana": "こうしょうがい",
+      "gloss": "public life",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1,
+        "公": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1886470/水涯/すいがい": {
+      "id": 1886470,
+      "form": "水涯",
+      "kana": "すいがい",
+      "gloss": "water's edge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1378850/生涯教育/しょうがいきょういく": {
+      "id": 1378850,
+      "form": "生涯教育",
+      "kana": "しょうがいきょういく",
+      "gloss": "lifelong education",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "育": 3,
+        "生": 1,
+        "教": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2050520/天涯万里/てんがいばんり": {
+      "id": 2050520,
+      "form": "天涯万里",
+      "kana": "てんがいばんり",
+      "gloss": "very far away",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "万": 2,
+        "天": 1,
+        "里": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860440/生涯価値/しょうがいかち": {
+      "id": 2860440,
+      "form": "生涯価値",
+      "kana": "しょうがいかち",
+      "gloss": "(customer) lifetime value",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "価": 5,
+        "生": 1,
+        "値": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2628190/雪の涯/ゆきのはて": {
+      "id": 2628190,
+      "form": "雪の涯",
+      "kana": "ゆきのはて",
+      "gloss": "last snows",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "雪": 2
+      },
+      "matched": {
+        "はて": {
+          "actual": "はて",
+          "dictionary": [
+            "はて"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2050510/天涯地角/てんがいちかく": {
+      "id": 2050510,
+      "form": "天涯地角",
+      "kana": "てんがいちかく",
+      "gloss": "two places being far apart",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "天": 1,
+        "角": 2,
+        "地": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1192860/涯て/はて": {
+      "id": 1192860,
+      "form": "涯て",
+      "kana": "はて",
+      "gloss": "end",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        132321
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1192860/涯/はて": {
+      "id": 1192860,
+      "form": "涯",
+      "kana": "はて",
+      "gloss": "end",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        18952,
+        null,
+        69479,
+        75943
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はて": {
+          "actual": "はて",
+          "dictionary": [
+            "はて"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1378840:生涯:しょうがい",
+      "form": "生涯",
+      "kana": "しょうがい",
+      "cue": "life; lifetime",
+      "ids": [
+        1378840
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4432,
+        "shiberu": 1920,
+        "tubelex": 5299,
+        "wordfreq": 4852
+      },
+      "alternatives_by_kanji": {
+        "生": [
+          "1378860/生活/せいかつ",
+          "1378520/生きる/いきる",
+          "1419080/誕生/たんじょう"
+        ],
+        "涯": [
+          "1799490/境涯/きょうがい",
+          "1438600/天涯/てんがい",
+          "1438610/天涯孤独/てんがいこどく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

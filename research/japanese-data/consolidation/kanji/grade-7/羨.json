@@ -1,0 +1,520 @@
+{
+  "character": "羨",
+  "grade": 7,
+  "meanings": [
+    "envious",
+    "be jealous",
+    "covet"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 123
+    }
+  ],
+  "components": [
+    "王",
+    "欠",
+    "汁",
+    "并",
+    "羊"
+  ],
+  "on": [
+    "セン",
+    "エン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "うらや.む",
+      "stem": "うらや",
+      "okurigana": "む"
+    },
+    {
+      "sourceNotation": "あまり",
+      "stem": "あまり",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "羨",
+    "heading": "羨",
+    "readings": [
+      "セン",
+      "うらやむ",
+      "うらやましい"
+    ],
+    "examples_by_reading": [
+      [
+        "羨望"
+      ],
+      [
+        "羨む"
+      ],
+      [
+        "羨ましい"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "羨",
+      "reading": "セン",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セン",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1391960/羨望/せんぼう",
+        "2830027/羨望の的/せんぼうのまと",
+        "2242340/ペニス羨望/ペニスせんぼう",
+        "2576190/欣羨/きんせん"
+      ]
+    },
+    {
+      "reading": "うらやむ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1391950/羨む/うらやむ",
+        "2842299/亀の年を鶴が羨む/かめのとしをつるがうらやむ"
+      ]
+    },
+    {
+      "reading": "うらやましい",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1391940/羨ましい/うらやましい"
+      ]
+    },
+    {
+      "reading": "エン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "あまり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1391940/羨ましい/うらやましい",
+    "1391960/羨望/せんぼう",
+    "1391950/羨む/うらやむ",
+    "2830027/羨望の的/せんぼうのまと",
+    "2242340/ペニス羨望/ペニスせんぼう",
+    "2842299/亀の年を鶴が羨む/かめのとしをつるがうらやむ",
+    "2844740/羨み/うらやみ",
+    "1391940/羨しい/うらやましい",
+    "2834059/羨ま死刑/うらやましけい",
+    "2576190/欣羨/きんせん"
+  ],
+  "candidates": {
+    "1391940/羨ましい/うらやましい": {
+      "id": 1391940,
+      "form": "羨ましい",
+      "kana": "うらやましい",
+      "gloss": "envious",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        8588,
+        5644,
+        5679,
+        2444
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うらやましい": {
+          "actual": "うらや",
+          "dictionary": [
+            "うらやましい"
+          ]
+        }
+      },
+      "official_examples": [
+        "うらやましい"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1391960/羨望/せんぼう": {
+      "id": 1391960,
+      "form": "羨望",
+      "kana": "せんぼう",
+      "gloss": "envy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20783,
+        32846,
+        32185,
+        13929
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "望": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1391950/羨む/うらやむ": {
+      "id": 1391950,
+      "form": "羨む",
+      "kana": "うらやむ",
+      "gloss": "to envy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25937,
+        25023,
+        43883,
+        15785
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うらやむ": {
+          "actual": "うらや",
+          "dictionary": [
+            "うらや.む"
+          ]
+        }
+      },
+      "official_examples": [
+        "うらやむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2830027/羨望の的/せんぼうのまと": {
+      "id": 2830027,
+      "form": "羨望の的",
+      "kana": "せんぼうのまと",
+      "gloss": "object of envy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        76227
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "望": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2242340/ペニス羨望/ペニスせんぼう": {
+      "id": 2242340,
+      "form": "ペニス羨望",
+      "kana": "ペニスせんぼう",
+      "gloss": "penis envy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "望": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842299/亀の年を鶴が羨む/かめのとしをつるがうらやむ": {
+      "id": 2842299,
+      "form": "亀の年を鶴が羨む",
+      "kana": "かめのとしをつるがうらやむ",
+      "gloss": "some people are never satisfied",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "亀": 7,
+        "鶴": 7,
+        "年": 1
+      },
+      "matched": {
+        "うらやむ": {
+          "actual": "うらや",
+          "dictionary": [
+            "うらや.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2844740/羨み/うらやみ": {
+      "id": 2844740,
+      "form": "羨み",
+      "kana": "うらやみ",
+      "gloss": "envy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        137073,
+        114976
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1391940/羨しい/うらやましい": {
+      "id": 1391940,
+      "form": "羨しい",
+      "kana": "うらやましい",
+      "gloss": "envious",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        103765
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2834059/羨ま死刑/うらやましけい": {
+      "id": 2834059,
+      "form": "羨ま死刑",
+      "kana": "うらやましけい",
+      "gloss": "being jealous of someone over something but also thinking they should be sentenced to death over it (esp. of male teachers having sexual relations with their students)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3,
+        "刑": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2576190/欣羨/きんせん": {
+      "id": 2576190,
+      "form": "欣羨",
+      "kana": "きんせん",
+      "gloss": "being very jealous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        173792,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1391940:羨ましい:うらやましい",
+      "form": "羨ましい",
+      "kana": "うらやましい",
+      "cue": "envious; jealous",
+      "ids": [
+        1391940
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2444,
+        "shiberu": 8588,
+        "tubelex": 5644,
+        "wordfreq": 5679
+      },
+      "alternatives_by_kanji": {
+        "羨": [
+          "1391960/羨望/せんぼう",
+          "1391950/羨む/うらやむ",
+          "2830027/羨望の的/せんぼうのまと"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

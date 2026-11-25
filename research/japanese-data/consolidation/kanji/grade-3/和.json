@@ -1,0 +1,1840 @@
+{
+  "character": "和",
+  "grade": 3,
+  "meanings": [
+    "harmony",
+    "Japanese style",
+    "peace",
+    "soften",
+    "Japan"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    },
+    {
+      "type": "nelson_c",
+      "value": 115
+    }
+  ],
+  "components": [
+    "禾",
+    "口"
+  ],
+  "on": [
+    "ワ",
+    "オ",
+    "カ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "やわ.らぐ",
+      "stem": "やわ",
+      "okurigana": "らぐ"
+    },
+    {
+      "sourceNotation": "やわ.らげる",
+      "stem": "やわ",
+      "okurigana": "らげる"
+    },
+    {
+      "sourceNotation": "なご.む",
+      "stem": "なご",
+      "okurigana": "む"
+    },
+    {
+      "sourceNotation": "なご.やか",
+      "stem": "なご",
+      "okurigana": "やか"
+    },
+    {
+      "sourceNotation": "あ.える",
+      "stem": "あ",
+      "okurigana": "える"
+    }
+  ],
+  "nanori": [
+    "あい",
+    "いず",
+    "かず",
+    "かつ",
+    "かつり",
+    "かづ",
+    "たけ",
+    "ち",
+    "とも",
+    "な",
+    "にぎ",
+    "まさ",
+    "やす",
+    "よし",
+    "より",
+    "わだこ",
+    "わっ"
+  ],
+  "government": {
+    "kanji": "和",
+    "heading": "和",
+    "readings": [
+      "ワ",
+      "オ",
+      "やわらぐ",
+      "やわらげる",
+      "なごむ",
+      "なごやか"
+    ],
+    "examples_by_reading": [
+      [
+        "和解",
+        "和服",
+        "柔和"
+      ],
+      [
+        "和尚"
+      ],
+      [
+        "和らぐ"
+      ],
+      [
+        "和らげる"
+      ],
+      [
+        "和む"
+      ],
+      [
+        "和やかだ"
+      ]
+    ],
+    "note_lines": [
+      "日和（ひより）",
+      "大和（やまと）"
+    ],
+    "representative_index": {
+      "kanji": "和",
+      "reading": "ワ",
+      "source": "table_44_wa.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "日和"
+      ],
+      "reading": "ひより",
+      "stage": "junior_high",
+      "pdf_page": 52,
+      "appendix": 1
+    },
+    {
+      "forms": [
+        "大和"
+      ],
+      "reading": "やまと",
+      "stage": "junior_high",
+      "pdf_page": 52,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ワ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 500,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1562190/和服/わふく",
+        "1335510/柔和/にゅうわ",
+        "1562120/和尚/わじょう",
+        "1349820/昭和/しょうわ",
+        "1630190/共和/きょうわ",
+        "1214530/緩和/かんわ",
+        "1429330/調和/ちょうわ",
+        "1159010/違和/いわ",
+        "1562000/和歌/わか",
+        "1562180/和風/わふう"
+      ]
+    },
+    {
+      "reading": "オ",
+      "official": true,
+      "stage": "senior_high",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1562120/和尚/おしょう",
+        "2416650/衣ばかりで和尚はできぬ/ころもばかりでおしょうはできぬ"
+      ]
+    },
+    {
+      "reading": "やわらぐ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1561950/和らぐ/やわらぐ"
+      ]
+    },
+    {
+      "reading": "やわらげる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1561960/和らげる/やわらげる"
+      ]
+    },
+    {
+      "reading": "なごむ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1561930/和む/なごむ",
+        "1876350/心が和む/こころがなごむ",
+        "2848937/心和む/こころなごむ"
+      ]
+    },
+    {
+      "reading": "なごやか",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1561940/和やか/なごやか"
+      ]
+    },
+    {
+      "reading": "カ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1562120/和尚/かしょう",
+        "1917290/和気/かき",
+        "1651350/和声/かせい",
+        "1562120/和上/かしょう",
+        "2856434/捏和機/ねっかき",
+        "2597910/諧和/かいか"
+      ]
+    },
+    {
+      "reading": "あえる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1574260/和える/あえる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1562120/和尚/おしょう",
+    "1562190/和服/わふく",
+    "1561960/和らげる/やわらげる",
+    "1561930/和む/なごむ",
+    "1561950/和らぐ/やわらぐ",
+    "1335510/柔和/にゅうわ",
+    "1562120/和尚/わじょう",
+    "1562120/和尚/かしょう",
+    "1349820/昭和/しょうわ",
+    "1630190/共和/きょうわ",
+    "1214530/緩和/かんわ",
+    "1429330/調和/ちょうわ",
+    "1159010/違和/いわ",
+    "1562000/和歌/わか",
+    "1562180/和風/わふう",
+    "1562210/和平/わへい",
+    "1562130/和食/わしょく",
+    "1589620/温和/おんわ",
+    "1518350/飽和/ほうわ",
+    "1562060/和牛/わぎゅう",
+    "1562110/和室/わしつ",
+    "1425670/中和/ちゅうわ",
+    "1562100/和紙/わし",
+    "1365430/親和/しんわ",
+    "1495460/不和/ふわ",
+    "1562270/和訳/わやく",
+    "1655630/融和/ゆうわ",
+    "1562140/和製/わせい",
+    "1562150/和装/わそう",
+    "2092050/明和/めいわ"
+  ],
+  "candidates": {
+    "1562120/和尚/おしょう": {
+      "id": 1562120,
+      "form": "和尚",
+      "kana": "おしょう",
+      "gloss": "priestly teacher",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6106,
+        12955,
+        21741,
+        38083
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "尚": 7
+      },
+      "matched": {
+        "オ": {
+          "actual": "お",
+          "dictionary": [
+            "オ"
+          ]
+        }
+      },
+      "official_examples": [
+        "オ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1562190/和服/わふく": {
+      "id": 1562190,
+      "form": "和服",
+      "kana": "わふく",
+      "gloss": "Japanese clothes",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8316,
+        24811,
+        18794,
+        20237
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "服": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ワ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1561960/和らげる/やわらげる": {
+      "id": 1561960,
+      "form": "和らげる",
+      "kana": "やわらげる",
+      "gloss": "to soften",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15403,
+        11629,
+        26068,
+        9226
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "やわらげる": {
+          "actual": "やわ",
+          "dictionary": [
+            "やわ.らげる"
+          ]
+        }
+      },
+      "official_examples": [
+        "やわらげる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1561930/和む/なごむ": {
+      "id": 1561930,
+      "form": "和む",
+      "kana": "なごむ",
+      "gloss": "to be softened",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        23348,
+        13485,
+        29477,
+        9943
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なごむ": {
+          "actual": "なご",
+          "dictionary": [
+            "なご.む"
+          ]
+        }
+      },
+      "official_examples": [
+        "なごむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1561950/和らぐ/やわらぐ": {
+      "id": 1561950,
+      "form": "和らぐ",
+      "kana": "やわらぐ",
+      "gloss": "to soften",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5g",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18047,
+        16530,
+        37951,
+        8587
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "やわらぐ": {
+          "actual": "やわ",
+          "dictionary": [
+            "やわ.らぐ"
+          ]
+        }
+      },
+      "official_examples": [
+        "やわらぐ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1335510/柔和/にゅうわ": {
+      "id": 1335510,
+      "form": "柔和",
+      "kana": "にゅうわ",
+      "gloss": "gentle",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17357,
+        35749,
+        43420,
+        15739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "柔": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ワ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1562120/和尚/わじょう": {
+      "id": 1562120,
+      "form": "和尚",
+      "kana": "わじょう",
+      "gloss": "priestly teacher",
+      "senses": [
+        0,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6106,
+        12955,
+        21741,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "尚": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [
+        "オ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1562120/和尚/かしょう": {
+      "id": 1562120,
+      "form": "和尚",
+      "kana": "かしょう",
+      "gloss": "priestly teacher",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6106,
+        12955,
+        21741,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "尚": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "オ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1349820/昭和/しょうわ": {
+      "id": 1349820,
+      "form": "昭和",
+      "kana": "しょうわ",
+      "gloss": "Shōwa era (1926.12.25-1989.1.7)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1432,
+        2749,
+        1753,
+        8340
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "昭": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1630190/共和/きょうわ": {
+      "id": 1630190,
+      "form": "共和",
+      "kana": "きょうわ",
+      "gloss": "republicanism",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3214,
+        6834,
+        4852,
+        54670
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "共": 4
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1214530/緩和/かんわ": {
+      "id": 1214530,
+      "form": "緩和",
+      "kana": "かんわ",
+      "gloss": "relief",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6501,
+        4455,
+        5233,
+        15300
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "緩": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1429330/調和/ちょうわ": {
+      "id": 1429330,
+      "form": "調和",
+      "kana": "ちょうわ",
+      "gloss": "harmony",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        4391,
+        4879,
+        10217,
+        12526
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1159010/違和/いわ": {
+      "id": 1159010,
+      "form": "違和",
+      "kana": "いわ",
+      "gloss": "physical disorder",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6958,
+        3190,
+        82481,
+        64815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "違": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562000/和歌/わか": {
+      "id": 1562000,
+      "form": "和歌",
+      "kana": "わか",
+      "gloss": "waka",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5173,
+        17120,
+        27689,
+        41131
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歌": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562180/和風/わふう": {
+      "id": 1562180,
+      "form": "和風",
+      "kana": "わふう",
+      "gloss": "Japanese style",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        21198,
+        8425,
+        11030,
+        14853
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562210/和平/わへい": {
+      "id": 1562210,
+      "form": "和平",
+      "kana": "わへい",
+      "gloss": "peace",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7372,
+        18847,
+        14745,
+        29763
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562130/和食/わしょく": {
+      "id": 1562130,
+      "form": "和食",
+      "kana": "わしょく",
+      "gloss": "Japanese food",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25695,
+        10680,
+        14325,
+        16870
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589620/温和/おんわ": {
+      "id": 1589620,
+      "form": "温和",
+      "kana": "おんわ",
+      "gloss": "mild (climate)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6813,
+        35465,
+        40664,
+        25074
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "温": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1518350/飽和/ほうわ": {
+      "id": 1518350,
+      "form": "飽和",
+      "kana": "ほうわ",
+      "gloss": "saturation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18115,
+        13861,
+        16515,
+        40841
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飽": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562060/和牛/わぎゅう": {
+      "id": 1562060,
+      "form": "和牛",
+      "kana": "わぎゅう",
+      "gloss": "Wagyu (any of four breeds of Japanese cattle)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30420,
+        12746,
+        17751,
+        49043
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "牛": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562110/和室/わしつ": {
+      "id": 1562110,
+      "form": "和室",
+      "kana": "わしつ",
+      "gloss": "Japanese-style room",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26694,
+        13086,
+        23842,
+        21063
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "室": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1425670/中和/ちゅうわ": {
+      "id": 1425670,
+      "form": "中和",
+      "kana": "ちゅうわ",
+      "gloss": "neutralization",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15630,
+        18950,
+        24433,
+        25244
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562100/和紙/わし": {
+      "id": 1562100,
+      "form": "和紙",
+      "kana": "わし",
+      "gloss": "washi",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21587,
+        14693,
+        24744,
+        38202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "紙": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1365430/親和/しんわ": {
+      "id": 1365430,
+      "form": "親和",
+      "kana": "しんわ",
+      "gloss": "friendship",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        20507,
+        20014,
+        18794,
+        80309
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "親": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1495460/不和/ふわ": {
+      "id": 1495460,
+      "form": "不和",
+      "kana": "ふわ",
+      "gloss": "discord",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11376,
+        37698,
+        37951,
+        30312
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562270/和訳/わやく": {
+      "id": 1562270,
+      "form": "和訳",
+      "kana": "わやく",
+      "gloss": "Japanese translation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18273,
+        31906,
+        17251,
+        53940
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訳": 6
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1655630/融和/ゆうわ": {
+      "id": 1655630,
+      "form": "融和",
+      "kana": "ゆうわ",
+      "gloss": "harmony",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15737,
+        30685,
+        30598,
+        39026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "融": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562140/和製/わせい": {
+      "id": 1562140,
+      "form": "和製",
+      "kana": "わせい",
+      "gloss": "Japanese-made",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18079,
+        36842,
+        23544,
+        73134
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "製": 5
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562150/和装/わそう": {
+      "id": 1562150,
+      "form": "和装",
+      "kana": "わそう",
+      "gloss": "Japanese clothing",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        24074,
+        29810,
+        24744,
+        34029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "装": 6
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2092050/明和/めいわ": {
+      "id": 2092050,
+      "form": "明和",
+      "kana": "めいわ",
+      "gloss": "Meiwa era (1764.6.2-1772.11.16)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15435,
+        40691,
+        36201,
+        90850
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "明": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2416650/衣ばかりで和尚はできぬ/ころもばかりでおしょうはできぬ": {
+      "id": 2416650,
+      "form": "衣ばかりで和尚はできぬ",
+      "kana": "ころもばかりでおしょうはできぬ",
+      "gloss": "the clothes do not make the man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "尚": 7,
+        "衣": 4
+      },
+      "matched": {
+        "オ": {
+          "actual": "お",
+          "dictionary": [
+            "オ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1876350/心が和む/こころがなごむ": {
+      "id": 1876350,
+      "form": "心が和む",
+      "kana": "こころがなごむ",
+      "gloss": "to feel relaxed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "なごむ": {
+          "actual": "なご",
+          "dictionary": [
+            "なご.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2848937/心和む/こころなごむ": {
+      "id": 2848937,
+      "form": "心和む",
+      "kana": "こころなごむ",
+      "gloss": "to feel relaxed",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5m"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        95835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "なごむ": {
+          "actual": "なご",
+          "dictionary": [
+            "なご.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1561940/和やか/なごやか": {
+      "id": 1561940,
+      "form": "和やか",
+      "kana": "なごやか",
+      "gloss": "mild",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11916
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なごやか": {
+          "actual": "なご",
+          "dictionary": [
+            "なご.やか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1917290/和気/かき": {
+      "id": 1917290,
+      "form": "和気",
+      "kana": "かき",
+      "gloss": "harmonious atmosphere",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18840,
+        36026,
+        34525,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651350/和声/かせい": {
+      "id": 1651350,
+      "form": "和声",
+      "kana": "かせい",
+      "gloss": "harmony",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        56518,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "声": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562120/和上/かしょう": {
+      "id": 1562120,
+      "form": "和上",
+      "kana": "かしょう",
+      "gloss": "priestly teacher",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        128722,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856434/捏和機/ねっかき": {
+      "id": 2856434,
+      "form": "捏和機",
+      "kana": "ねっかき",
+      "gloss": "kneading machine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "機": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2597910/諧和/かいか": {
+      "id": 2597910,
+      "form": "諧和",
+      "kana": "かいか",
+      "gloss": "gentle mutual affection",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "諧": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1574260/和える/あえる": {
+      "id": 1574260,
+      "form": "和える",
+      "kana": "あえる",
+      "gloss": "to dress (e.g. a salad)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        14646,
+        76428,
+        53755
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あえる": {
+          "actual": "あ",
+          "dictionary": [
+            "あ.える"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1214530:緩和:かんわ",
+      "form": "緩和",
+      "kana": "かんわ",
+      "cue": "relief; mitigation",
+      "ids": [
+        1214530
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 15300,
+        "shiberu": 6501,
+        "tubelex": 4455,
+        "wordfreq": 5233
+      },
+      "alternatives_by_kanji": {
+        "和": [
+          "1562120/和尚/おしょう",
+          "1562190/和服/わふく",
+          "1561960/和らげる/やわらげる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1349820:昭和:しょうわ",
+      "form": "昭和",
+      "kana": "しょうわ",
+      "cue": "Shōwa era (1926.12.25-1989.1.7)",
+      "ids": [
+        1349820
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 8340,
+        "shiberu": 1432,
+        "tubelex": 2749,
+        "wordfreq": 1753
+      }
+    },
+    {
+      "wordId": "jmdict:1508070:平和:へいわ",
+      "form": "平和",
+      "kana": "へいわ",
+      "cue": "peace; harmony",
+      "ids": [
+        1508070
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1894,
+        "shiberu": 642,
+        "tubelex": 1738,
+        "wordfreq": 1473
+      },
+      "alternatives_by_kanji": {
+        "平": [
+          "1507670/平等/びょうどう",
+          "1507960/平面/へいめん",
+          "1506900/平たい/ひらたい"
+        ],
+        "和": [
+          "1562120/和尚/おしょう",
+          "1562190/和服/わふく",
+          "1561960/和らげる/やわらげる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1518350:飽和:ほうわ",
+      "form": "飽和",
+      "kana": "ほうわ",
+      "cue": "saturation; satiation",
+      "ids": [
+        1518350
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 40841,
+        "shiberu": 18115,
+        "tubelex": 13861,
+        "wordfreq": 16515
+      },
+      "alternatives_by_kanji": {
+        "和": [
+          "1562120/和尚/おしょう",
+          "1562190/和服/わふく",
+          "1561960/和らげる/やわらげる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 179
+}

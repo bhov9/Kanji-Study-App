@@ -1,0 +1,895 @@
+{
+  "character": "侯",
+  "grade": 7,
+  "meanings": [
+    "marquis",
+    "lord",
+    "daimyo"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "矢",
+    "ユ",
+    "乞"
+  ],
+  "on": [
+    "コウ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "侯",
+    "heading": "侯",
+    "readings": [
+      "コウ"
+    ],
+    "examples_by_reading": [
+      [
+        "諸侯",
+        "王侯"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "侯",
+      "reading": "コウ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 19,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1344250/諸侯/しょこう",
+        "1588830/王侯/おうこう",
+        "1272630/侯/こう",
+        "1272650/侯爵/こうしゃく",
+        "1782140/列侯/れっこう",
+        "1719090/王侯貴族/おうこうきぞく",
+        "1272660/侯爵夫人/こうしゃくふじん",
+        "2871778/選帝侯/せんていこう",
+        "1272640/侯国/こうこく",
+        "2851103/公侯伯子男/こうこうはくしだん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1344250/諸侯/しょこう",
+    "1588830/王侯/おうこう",
+    "1272630/侯/こう",
+    "1272650/侯爵/こうしゃく",
+    "1782140/列侯/れっこう",
+    "1719090/王侯貴族/おうこうきぞく",
+    "1272660/侯爵夫人/こうしゃくふじん",
+    "2871778/選帝侯/せんていこう",
+    "1272640/侯国/こうこく",
+    "2851103/公侯伯子男/こうこうはくしだん",
+    "1273660/公侯/こうこう",
+    "1301500/三百諸侯/さんびゃくしょこう",
+    "1272730/侯補/こうほ",
+    "1272670/侯伯/こうはく",
+    "2858919/王侯将相いずくんぞ種あらんや/おうこうしょうしょういずくんぞしゅあらんや",
+    "1888980/仙台侯/せんだいこう",
+    "1702260/土侯/どこう",
+    "2787370/土侯国/どこうこく",
+    "2853172/侯串/こうぐし",
+    "2851103/公・侯・伯・子・男/こうこうはくしだん",
+    "2853172/侯串/ごうぐし",
+    "1681790/藩侯/はんこう"
+  ],
+  "candidates": {
+    "1344250/諸侯/しょこう": {
+      "id": 1344250,
+      "form": "諸侯",
+      "kana": "しょこう",
+      "gloss": "feudal lords",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7458,
+        33444,
+        28048,
+        39580
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "諸": 6
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1588830/王侯/おうこう": {
+      "id": 1588830,
+      "form": "王侯",
+      "kana": "おうこう",
+      "gloss": "the king and his feudal lords",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18582,
+        45405,
+        65516,
+        77715
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1272630/侯/こう": {
+      "id": 1272630,
+      "form": "侯",
+      "kana": "こう",
+      "gloss": "marquis",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        4542,
+        33233,
+        25402,
+        43974
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1272650/侯爵/こうしゃく": {
+      "id": 1272650,
+      "form": "侯爵",
+      "kana": "こうしゃく",
+      "gloss": "marquis",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32293,
+        44010,
+        32548,
+        28949
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "爵": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1782140/列侯/れっこう": {
+      "id": 1782140,
+      "form": "列侯",
+      "kana": "れっこう",
+      "gloss": "many daimyo",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        187921
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "列": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1719090/王侯貴族/おうこうきぞく": {
+      "id": 1719090,
+      "form": "王侯貴族",
+      "kana": "おうこうきぞく",
+      "gloss": "royalty and titled nobility",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        39133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "族": 3,
+        "貴": 6,
+        "王": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1272660/侯爵夫人/こうしゃくふじん": {
+      "id": 1272660,
+      "form": "侯爵夫人",
+      "kana": "こうしゃくふじん",
+      "gloss": "marchioness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        73727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "爵": 7,
+        "夫": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2871778/選帝侯/せんていこう": {
+      "id": 2871778,
+      "form": "選帝侯",
+      "kana": "せんていこう",
+      "gloss": "prince-elector",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        112891
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帝": 7,
+        "選": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1272640/侯国/こうこく": {
+      "id": 1272640,
+      "form": "侯国",
+      "kana": "こうこく",
+      "gloss": "marquisate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147469
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851103/公侯伯子男/こうこうはくしだん": {
+      "id": 2851103,
+      "form": "公侯伯子男",
+      "kana": "こうこうはくしだん",
+      "gloss": "duke, marquis, count, viscount and baron (five ranks of nobility in Japan; 1869-1947)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        201407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伯": 7,
+        "子": 1,
+        "男": 1,
+        "公": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1273660/公侯/こうこう": {
+      "id": 1273660,
+      "form": "公侯",
+      "kana": "こうこう",
+      "gloss": "princes and marquises",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        211909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1301500/三百諸侯/さんびゃくしょこう": {
+      "id": 1301500,
+      "form": "三百諸侯",
+      "kana": "さんびゃくしょこう",
+      "gloss": "all daimyo",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        225358
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "諸": 6,
+        "百": 1,
+        "三": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1272730/侯補/こうほ": {
+      "id": 1272730,
+      "form": "侯補",
+      "kana": "こうほ",
+      "gloss": "candidate",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        236626
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "補": 6
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1272670/侯伯/こうはく": {
+      "id": 1272670,
+      "form": "侯伯",
+      "kana": "こうはく",
+      "gloss": "nobles",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        249695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伯": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858919/王侯将相いずくんぞ種あらんや/おうこうしょうしょういずくんぞしゅあらんや": {
+      "id": 2858919,
+      "form": "王侯将相いずくんぞ種あらんや",
+      "kana": "おうこうしょうしょういずくんぞしゅあらんや",
+      "gloss": "high status does not depend on birth",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        287635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "相": 3,
+        "将": 6,
+        "種": 4,
+        "王": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1888980/仙台侯/せんだいこう": {
+      "id": 1888980,
+      "form": "仙台侯",
+      "kana": "せんだいこう",
+      "gloss": "Lord of Sendai",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仙": 7,
+        "台": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1702260/土侯/どこう": {
+      "id": 1702260,
+      "form": "土侯",
+      "kana": "どこう",
+      "gloss": "local ruler",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "土": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2787370/土侯国/どこうこく": {
+      "id": 2787370,
+      "form": "土侯国",
+      "kana": "どこうこく",
+      "gloss": "native state (of pre-independence India)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "土": 1,
+        "国": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853172/侯串/こうぐし": {
+      "id": 2853172,
+      "form": "侯串",
+      "kana": "こうぐし",
+      "gloss": "wooden target holder (in archery)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "串": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851103/公・侯・伯・子・男/こうこうはくしだん": {
+      "id": 2851103,
+      "form": "公・侯・伯・子・男",
+      "kana": "こうこうはくしだん",
+      "gloss": "duke, marquis, count, viscount and baron (five ranks of nobility in Japan; 1869-1947)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伯": 7,
+        "子": 1,
+        "男": 1,
+        "公": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2853172/侯串/ごうぐし": {
+      "id": 2853172,
+      "form": "侯串",
+      "kana": "ごうぐし",
+      "gloss": "wooden target holder (in archery)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "串": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1681790/藩侯/はんこう": {
+      "id": 1681790,
+      "form": "藩侯",
+      "kana": "はんこう",
+      "gloss": "feudal lord",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        81652,
+        null,
+        169406
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "藩": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1272730:侯補:こうほ",
+      "form": "侯補",
+      "kana": "こうほ",
+      "cue": "candidate; contender",
+      "ids": [
+        1272730
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 236626
+      },
+      "alternatives_by_kanji": {
+        "補": [
+          "1272730/候補/こうほ",
+          "1514460/補う/おぎなう",
+          "1514580/補充/ほじゅう"
+        ],
+        "侯": [
+          "1344250/諸侯/しょこう",
+          "1588830/王侯/おうこう",
+          "1272630/侯/こう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

@@ -1,0 +1,958 @@
+{
+  "character": "痢",
+  "grade": 7,
+  "meanings": [
+    "diarrhea"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 104
+    }
+  ],
+  "components": [
+    "禾",
+    "刈",
+    "疔"
+  ],
+  "on": [
+    "リ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "痢",
+    "heading": "痢",
+    "readings": [
+      "リ"
+    ],
+    "examples_by_reading": [
+      [
+        "疫痢",
+        "下痢",
+        "赤痢"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "痢",
+      "reading": "リ",
+      "source": "table_40_ri.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "リ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 15,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1186540/下痢/げり",
+        "1383660/赤痢/せきり",
+        "1175080/疫痢/えきり",
+        "2839238/下痢便/げりべん",
+        "2124900/下痢止め/げりどめ",
+        "2858433/下痢ピー/げりピー",
+        "1645900/赤痢菌/せきりきん",
+        "1958960/アメーバ赤痢/アメーバせきり",
+        "2846645/下痢症/げりしょう",
+        "2858848/水下痢/みずげり"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1186540/下痢/げり",
+    "1383660/赤痢/せきり",
+    "1175080/疫痢/えきり",
+    "2839238/下痢便/げりべん",
+    "2124900/下痢止め/げりどめ",
+    "2858433/下痢ピー/げりピー",
+    "1645900/赤痢菌/せきりきん",
+    "1958960/アメーバ赤痢/アメーバせきり",
+    "2846645/下痢症/げりしょう",
+    "2858848/水下痢/みずげり",
+    "2807570/細菌性赤痢/さいきんせいせきり",
+    "2858433/下痢ぴー/げりピー",
+    "1958960/アメーバー赤痢/アメーバーせきり",
+    "2638500/旅行者下痢/りょこうしゃげり",
+    "2867613/滲出性下痢/しんしゅつせいげり",
+    "2859347/止痢剤/しりざい",
+    "2867612/分泌性下痢/ぶんぴつせいげり",
+    "2867611/浸透圧性下痢/しんとうあつせいげり",
+    "2844083/痢/り",
+    "2844098/痢病/りびょう",
+    "2834735/虎狼痢/コロリ",
+    "1321760/瀉痢塩/しゃりえん",
+    "2860499/瀉痢/しゃり"
+  ],
+  "candidates": {
+    "1186540/下痢/げり": {
+      "id": 1186540,
+      "form": "下痢",
+      "kana": "げり",
+      "gloss": "diarrhea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13589,
+        12248,
+        10032,
+        32991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1383660/赤痢/せきり": {
+      "id": 1383660,
+      "form": "赤痢",
+      "kana": "せきり",
+      "gloss": "dysentery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        52621,
+        95590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "赤": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1175080/疫痢/えきり": {
+      "id": 1175080,
+      "form": "疫痢",
+      "kana": "えきり",
+      "gloss": "children's dysentery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        187921
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "疫": 7
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2839238/下痢便/げりべん": {
+      "id": 2839238,
+      "form": "下痢便",
+      "kana": "げりべん",
+      "gloss": "loose stool",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        127677
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1,
+        "便": 4
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2124900/下痢止め/げりどめ": {
+      "id": 2124900,
+      "form": "下痢止め",
+      "kana": "げりどめ",
+      "gloss": "antidiarrheal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        130053
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1,
+        "止": 2
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858433/下痢ピー/げりピー": {
+      "id": 2858433,
+      "form": "下痢ピー",
+      "kana": "げりピー",
+      "gloss": "diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169203
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1645900/赤痢菌/せきりきん": {
+      "id": 1645900,
+      "form": "赤痢菌",
+      "kana": "せきりきん",
+      "gloss": "shigella (dysentery bacillus)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        226273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "赤": 1,
+        "菌": 7
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1958960/アメーバ赤痢/アメーバせきり": {
+      "id": 1958960,
+      "form": "アメーバ赤痢",
+      "kana": "アメーバせきり",
+      "gloss": "amoebic dysentery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        264755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "赤": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846645/下痢症/げりしょう": {
+      "id": 2846645,
+      "form": "下痢症",
+      "kana": "げりしょう",
+      "gloss": "diarrheal disease",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        307815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "症": 7,
+        "下": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858848/水下痢/みずげり": {
+      "id": 2858848,
+      "form": "水下痢",
+      "kana": "みずげり",
+      "gloss": "(very) watery diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1,
+        "下": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2807570/細菌性赤痢/さいきんせいせきり": {
+      "id": 2807570,
+      "form": "細菌性赤痢",
+      "kana": "さいきんせいせきり",
+      "gloss": "shigellosis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "性": 5,
+        "細": 2,
+        "赤": 1,
+        "菌": 7
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858433/下痢ぴー/げりピー": {
+      "id": 2858433,
+      "form": "下痢ぴー",
+      "kana": "げりピー",
+      "gloss": "diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1958960/アメーバー赤痢/アメーバーせきり": {
+      "id": 1958960,
+      "form": "アメーバー赤痢",
+      "kana": "アメーバーせきり",
+      "gloss": "amoebic dysentery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "赤": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2638500/旅行者下痢/りょこうしゃげり": {
+      "id": 2638500,
+      "form": "旅行者下痢",
+      "kana": "りょこうしゃげり",
+      "gloss": "traveler's diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "行": 2,
+        "旅": 3,
+        "下": 1,
+        "者": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2867613/滲出性下痢/しんしゅつせいげり": {
+      "id": 2867613,
+      "form": "滲出性下痢",
+      "kana": "しんしゅつせいげり",
+      "gloss": "exudative diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "出": 1,
+        "性": 5,
+        "下": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859347/止痢剤/しりざい": {
+      "id": 2859347,
+      "form": "止痢剤",
+      "kana": "しりざい",
+      "gloss": "antidiarrheal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "剤": 7,
+        "止": 2
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2867612/分泌性下痢/ぶんぴつせいげり": {
+      "id": 2867612,
+      "form": "分泌性下痢",
+      "kana": "ぶんぴつせいげり",
+      "gloss": "secretory diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "泌": 7,
+        "性": 5,
+        "下": 1,
+        "分": 2
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2867611/浸透圧性下痢/しんとうあつせいげり": {
+      "id": 2867611,
+      "form": "浸透圧性下痢",
+      "kana": "しんとうあつせいげり",
+      "gloss": "osmotic diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "浸": 7,
+        "透": 7,
+        "圧": 5,
+        "性": 5,
+        "下": 1
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2844083/痢/り": {
+      "id": 2844083,
+      "form": "痢",
+      "kana": "り",
+      "gloss": "diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        173792,
+        172358,
+        125237
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2844098/痢病/りびょう": {
+      "id": 2844098,
+      "form": "痢病",
+      "kana": "りびょう",
+      "gloss": "dysentery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        139593,
+        null,
+        193405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "病": 3
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2834735/虎狼痢/コロリ": {
+      "id": 2834735,
+      "form": "虎狼痢",
+      "kana": "コロリ",
+      "gloss": "cholera",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "ateji",
+        "dated",
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        280392
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "虎": 7
+      },
+      "matched": {
+        "リ": {
+          "actual": "リ",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1321760/瀉痢塩/しゃりえん": {
+      "id": 1321760,
+      "form": "瀉痢塩",
+      "kana": "しゃりえん",
+      "gloss": "epsomite",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塩": 4
+      },
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2860499/瀉痢/しゃり": {
+      "id": 2860499,
+      "form": "瀉痢",
+      "kana": "しゃり",
+      "gloss": "diarrhea",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "リ": {
+          "actual": "り",
+          "dictionary": [
+            "リ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1186540:下痢:げり",
+      "form": "下痢",
+      "kana": "げり",
+      "cue": "diarrhea; diarrhoea",
+      "ids": [
+        1186540
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 32991,
+        "shiberu": 13589,
+        "tubelex": 12248,
+        "wordfreq": 10032
+      },
+      "alternatives_by_kanji": {
+        "下": [
+          "1184170/下げる/さげる",
+          "1589500/下りる/おりる",
+          "1589580/下ろす/おろす"
+        ],
+        "痢": [
+          "1383660/赤痢/せきり",
+          "1175080/疫痢/えきり",
+          "2839238/下痢便/げりべん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

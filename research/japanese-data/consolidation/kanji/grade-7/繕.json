@@ -1,0 +1,950 @@
+{
+  "character": "繕",
+  "grade": 7,
+  "meanings": [
+    "darning",
+    "repair",
+    "mend",
+    "trim",
+    "tidy up",
+    "adjust"
+  ],
+  "strokes": [
+    18
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "王",
+    "口",
+    "糸",
+    "幺",
+    "小",
+    "并",
+    "羊"
+  ],
+  "on": [
+    "ゼン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "つくろ.う",
+      "stem": "つくろ",
+      "okurigana": "う"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "繕",
+    "heading": "繕",
+    "readings": [
+      "ゼン",
+      "つくろう"
+    ],
+    "examples_by_reading": [
+      [
+        "修繕",
+        "営繕"
+      ],
+      [
+        "繕う",
+        "繕い"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "繕",
+      "reading": "ゼン",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ゼン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1332170/修繕/しゅうぜん",
+        "1173510/営繕/えいぜん",
+        "1332200/修繕費/しゅうぜんひ",
+        "1881880/修繕中/しゅうぜんちゅう",
+        "2703660/修繕積立金/しゅうぜんつみたてきん",
+        "1332180/修繕工/しゅうぜんこう",
+        "1332190/修繕工場/しゅうぜんこうじょう",
+        "2703660/修繕積み立て金/しゅうぜんつみたてきん"
+      ]
+    },
+    {
+      "reading": "つくろう",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1396470/繕い/つくろい",
+        "1326810/取り繕う/とりつくろう",
+        "1641740/見繕う/みつくろう",
+        "1848540/言い繕う/いいつくろう",
+        "1326810/取繕う/とりつくろう",
+        "1848540/言繕う/いいつくろう",
+        "1396480/繕う/つくろう",
+        "2776570/垣繕う/かきつくろう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1332170/修繕/しゅうぜん",
+    "1396470/繕い/つくろい",
+    "1173510/営繕/えいぜん",
+    "1326810/取り繕う/とりつくろう",
+    "1641740/見繕う/みつくろう",
+    "1848540/言い繕う/いいつくろう",
+    "1332200/修繕費/しゅうぜんひ",
+    "1881880/修繕中/しゅうぜんちゅう",
+    "1326810/取繕う/とりつくろう",
+    "2703660/修繕積立金/しゅうぜんつみたてきん",
+    "1332180/修繕工/しゅうぜんこう",
+    "1332190/修繕工場/しゅうぜんこうじょう",
+    "1848540/言繕う/いいつくろう",
+    "2703660/修繕積み立て金/しゅうぜんつみたてきん",
+    "1816120/羽繕い/はづくろい",
+    "2087570/毛繕い/けづくろい",
+    "1365560/身繕い/みづくろい",
+    "2216610/繕草/つくろいぐさ",
+    "2815420/金繕い/きんづくろい",
+    "2815420/金繕い/きんつくろい",
+    "1894640/繕い立てる/つくろいたてる",
+    "1396480/繕う/つくろう",
+    "2776570/垣繕う/かきつくろう"
+  ],
+  "candidates": {
+    "1332170/修繕/しゅうぜん": {
+      "id": 1332170,
+      "form": "修繕",
+      "kana": "しゅうぜん",
+      "gloss": "repair",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6945,
+        9545,
+        17251,
+        17698
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "ゼン": {
+          "actual": "ぜん",
+          "dictionary": [
+            "ゼン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゼン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1396470/繕い/つくろい": {
+      "id": 1396470,
+      "form": "繕い",
+      "kana": "つくろい",
+      "gloss": "mending",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        63618,
+        48325
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つくろう": {
+          "actual": "つくろ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "つくろう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1173510/営繕/えいぜん": {
+      "id": 1173510,
+      "form": "営繕",
+      "kana": "えいぜん",
+      "gloss": "maintenance and repair",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        73498,
+        181868
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "営": 5
+      },
+      "matched": {
+        "ゼン": {
+          "actual": "ぜん",
+          "dictionary": [
+            "ゼン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゼン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1326810/取り繕う/とりつくろう": {
+      "id": 1326810,
+      "form": "取り繕う",
+      "kana": "とりつくろう",
+      "gloss": "to keep up (appearances)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        26692,
+        31203,
+        62361,
+        6946
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "つくろう": {
+          "actual": "つくろ",
+          "dictionary": [
+            "つくろ.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1641740/見繕う/みつくろう": {
+      "id": 1641740,
+      "form": "見繕う",
+      "kana": "みつくろう",
+      "gloss": "to choose (something) at one's discretion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        167679,
+        14778
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "見": 1
+      },
+      "matched": {
+        "つくろう": {
+          "actual": "つくろ",
+          "dictionary": [
+            "つくろ.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1848540/言い繕う/いいつくろう": {
+      "id": 1848540,
+      "form": "言い繕う",
+      "kana": "いいつくろう",
+      "gloss": "to explain away (a mistake, failure, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        173990,
+        35756
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "つくろう": {
+          "actual": "つくろ",
+          "dictionary": [
+            "つくろ.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332200/修繕費/しゅうぜんひ": {
+      "id": 1332200,
+      "form": "修繕費",
+      "kana": "しゅうぜんひ",
+      "gloss": "cost of repairs",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        57377
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5,
+        "費": 5
+      },
+      "matched": {
+        "ゼン": {
+          "actual": "ぜん",
+          "dictionary": [
+            "ゼン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1881880/修繕中/しゅうぜんちゅう": {
+      "id": 1881880,
+      "form": "修繕中",
+      "kana": "しゅうぜんちゅう",
+      "gloss": "in the process of being repaired",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        122968
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1,
+        "修": 5
+      },
+      "matched": {
+        "ゼン": {
+          "actual": "ぜん",
+          "dictionary": [
+            "ゼン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1326810/取繕う/とりつくろう": {
+      "id": 1326810,
+      "form": "取繕う",
+      "kana": "とりつくろう",
+      "gloss": "to keep up (appearances)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        168840
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "つくろう": {
+          "actual": "つくろ",
+          "dictionary": [
+            "つくろ.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2703660/修繕積立金/しゅうぜんつみたてきん": {
+      "id": 2703660,
+      "form": "修繕積立金",
+      "kana": "しゅうぜんつみたてきん",
+      "gloss": "maintenance fee (in an apartment building)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        287635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5,
+        "立": 1,
+        "積": 4,
+        "金": 1
+      },
+      "matched": {
+        "ゼン": {
+          "actual": "ぜん",
+          "dictionary": [
+            "ゼン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332180/修繕工/しゅうぜんこう": {
+      "id": 1332180,
+      "form": "修繕工",
+      "kana": "しゅうぜんこう",
+      "gloss": "repair man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2,
+        "修": 5
+      },
+      "matched": {
+        "ゼン": {
+          "actual": "ぜん",
+          "dictionary": [
+            "ゼン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332190/修繕工場/しゅうぜんこうじょう": {
+      "id": 1332190,
+      "form": "修繕工場",
+      "kana": "しゅうぜんこうじょう",
+      "gloss": "repair shop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "工": 2,
+        "場": 2,
+        "修": 5
+      },
+      "matched": {
+        "ゼン": {
+          "actual": "ぜん",
+          "dictionary": [
+            "ゼン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1848540/言繕う/いいつくろう": {
+      "id": 1848540,
+      "form": "言繕う",
+      "kana": "いいつくろう",
+      "gloss": "to explain away (a mistake, failure, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "つくろう": {
+          "actual": "つくろ",
+          "dictionary": [
+            "つくろ.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2703660/修繕積み立て金/しゅうぜんつみたてきん": {
+      "id": 2703660,
+      "form": "修繕積み立て金",
+      "kana": "しゅうぜんつみたてきん",
+      "gloss": "maintenance fee (in an apartment building)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "修": 5,
+        "立": 1,
+        "積": 4,
+        "金": 1
+      },
+      "matched": {
+        "ゼン": {
+          "actual": "ぜん",
+          "dictionary": [
+            "ゼン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816120/羽繕い/はづくろい": {
+      "id": 1816120,
+      "form": "羽繕い",
+      "kana": "はづくろい",
+      "gloss": "preening",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        189078,
+        163870
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "羽": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2087570/毛繕い/けづくろい": {
+      "id": 2087570,
+      "form": "毛繕い",
+      "kana": "けづくろい",
+      "gloss": "grooming oneself (esp. animals)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        35224,
+        null,
+        57383
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "毛": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1365560/身繕い/みづくろい": {
+      "id": 1365560,
+      "form": "身繕い",
+      "kana": "みづくろい",
+      "gloss": "dressing oneself",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        56530
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "身": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2216610/繕草/つくろいぐさ": {
+      "id": 2216610,
+      "form": "繕草",
+      "kana": "つくろいぐさ",
+      "gloss": "Japanese mugwort (Artemisia princeps)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "草": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2815420/金繕い/きんづくろい": {
+      "id": 2815420,
+      "form": "金繕い",
+      "kana": "きんづくろい",
+      "gloss": "repairing pottery with a lacquer mixed with gold, silver, etc.",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2815420/金繕い/きんつくろい": {
+      "id": 2815420,
+      "form": "金繕い",
+      "kana": "きんつくろい",
+      "gloss": "repairing pottery with a lacquer mixed with gold, silver, etc.",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "金": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1894640/繕い立てる/つくろいたてる": {
+      "id": 1894640,
+      "form": "繕い立てる",
+      "kana": "つくろいたてる",
+      "gloss": "to put up a good front",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1396480/繕う/つくろう": {
+      "id": 1396480,
+      "form": "繕う",
+      "kana": "つくろう",
+      "gloss": "to mend",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        14799,
+        38018,
+        91294,
+        21453
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つくろう": {
+          "actual": "つくろ",
+          "dictionary": [
+            "つくろ.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "つくろう"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2776570/垣繕う/かきつくろう": {
+      "id": 2776570,
+      "form": "垣繕う",
+      "kana": "かきつくろう",
+      "gloss": "springtime repairing of fences after winter damage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "垣": 7
+      },
+      "matched": {
+        "つくろう": {
+          "actual": "つくろ",
+          "dictionary": [
+            "つくろ.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1332170:修繕:しゅうぜん",
+      "form": "修繕",
+      "kana": "しゅうぜん",
+      "cue": "repair; mending",
+      "ids": [
+        1332170
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 17698,
+        "shiberu": 6945,
+        "tubelex": 9545,
+        "wordfreq": 17251
+      },
+      "alternatives_by_kanji": {
+        "修": [
+          "2650010/修行/しゅぎょう",
+          "1200880/改修/かいしゅう",
+          "1332070/修飾/しゅうしょく"
+        ],
+        "繕": [
+          "1396470/繕い/つくろい",
+          "1173510/営繕/えいぜん",
+          "1326810/取り繕う/とりつくろう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 7
+}

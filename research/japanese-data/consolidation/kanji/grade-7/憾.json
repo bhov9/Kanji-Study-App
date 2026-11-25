@@ -1,0 +1,525 @@
+{
+  "character": "憾",
+  "grade": 7,
+  "meanings": [
+    "remorse",
+    "regret",
+    "be sorry"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "ノ",
+    "口",
+    "心",
+    "忙",
+    "戈"
+  ],
+  "on": [
+    "カン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "うら.む",
+      "stem": "うら",
+      "okurigana": "む"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "憾",
+    "heading": "憾",
+    "readings": [
+      "カン"
+    ],
+    "examples_by_reading": [
+      [
+        "遺憾"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "憾",
+      "reading": "カン",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1159090/遺憾/いかん",
+        "2007260/遺憾無く/いかんなく",
+        "2007260/遺憾なく/いかんなく",
+        "2761370/遺憾ながら/いかんながら",
+        "2851165/遺憾の意/いかんのい",
+        "2029910/遺憾千万/いかんせんばん",
+        "1857830/遺憾に堪えない/いかんにたえない",
+        "1857830/遺憾にたえない/いかんにたえない"
+      ]
+    },
+    {
+      "reading": "うらむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2177440/憾むらくは/うらむらくは",
+        "2833583/憾む/うらむ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1159090/遺憾/いかん",
+    "2007260/遺憾無く/いかんなく",
+    "2007260/遺憾なく/いかんなく",
+    "2761370/遺憾ながら/いかんながら",
+    "2851165/遺憾の意/いかんのい",
+    "2029910/遺憾千万/いかんせんばん",
+    "2177440/憾むらくは/うらむらくは",
+    "1857830/遺憾に堪えない/いかんにたえない",
+    "1857830/遺憾にたえない/いかんにたえない",
+    "1289740/憾み/うらみ",
+    "2833583/憾む/うらむ"
+  ],
+  "candidates": {
+    "1159090/遺憾/いかん": {
+      "id": 1159090,
+      "form": "遺憾",
+      "kana": "いかん",
+      "gloss": "regrettable",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5705,
+        17157,
+        18794,
+        25064
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [
+        "カン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2007260/遺憾無く/いかんなく": {
+      "id": 2007260,
+      "form": "遺憾無く",
+      "kana": "いかんなく",
+      "gloss": "fully",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        153062,
+        168312
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "遺": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2007260/遺憾なく/いかんなく": {
+      "id": 2007260,
+      "form": "遺憾なく",
+      "kana": "いかんなく",
+      "gloss": "fully",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2761370/遺憾ながら/いかんながら": {
+      "id": 2761370,
+      "form": "遺憾ながら",
+      "kana": "いかんながら",
+      "gloss": "I regret to say",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        44143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851165/遺憾の意/いかんのい": {
+      "id": 2851165,
+      "form": "遺憾の意",
+      "kana": "いかんのい",
+      "gloss": "regret",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        66967
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3,
+        "遺": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2029910/遺憾千万/いかんせんばん": {
+      "id": 2029910,
+      "form": "遺憾千万",
+      "kana": "いかんせんばん",
+      "gloss": "extremely regrettable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        171935
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "万": 2,
+        "千": 1,
+        "遺": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2177440/憾むらくは/うらむらくは": {
+      "id": 2177440,
+      "form": "憾むらくは",
+      "kana": "うらむらくは",
+      "gloss": "I regret that",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        258532
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うらむ": {
+          "actual": "うら",
+          "dictionary": [
+            "うら.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1857830/遺憾に堪えない/いかんにたえない": {
+      "id": 1857830,
+      "form": "遺憾に堪えない",
+      "kana": "いかんにたえない",
+      "gloss": "deeply regrettable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "堪": 7,
+        "遺": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1857830/遺憾にたえない/いかんにたえない": {
+      "id": 1857830,
+      "form": "遺憾にたえない",
+      "kana": "いかんにたえない",
+      "gloss": "deeply regrettable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "カン": {
+          "actual": "かん",
+          "dictionary": [
+            "カン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1289740/憾み/うらみ": {
+      "id": 1289740,
+      "form": "憾み",
+      "kana": "うらみ",
+      "gloss": "resentment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39068,
+        null,
+        213093,
+        148393
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2833583/憾む/うらむ": {
+      "id": 2833583,
+      "form": "憾む",
+      "kana": "うらむ",
+      "gloss": "to regret",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        200865
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うらむ": {
+          "actual": "うら",
+          "dictionary": [
+            "うら.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1159090:遺憾:いかん",
+      "form": "遺憾",
+      "kana": "いかん",
+      "cue": "regrettable; unsatisfactory",
+      "ids": [
+        1159090
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 25064,
+        "shiberu": 5705,
+        "tubelex": 17157,
+        "wordfreq": 18794
+      },
+      "alternatives_by_kanji": {
+        "遺": [
+          "1159260/遺産/いさん",
+          "1587090/遺棄/いき",
+          "1159320/遺失/いしつ"
+        ],
+        "憾": [
+          "2007260/遺憾無く/いかんなく",
+          "2007260/遺憾なく/いかんなく",
+          "2761370/遺憾ながら/いかんながら"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

@@ -1,0 +1,238 @@
+{
+  "character": "摯",
+  "grade": 7,
+  "meanings": [
+    "gift",
+    "seriousness"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "ノ",
+    "九",
+    "手",
+    "十",
+    "辛",
+    "立",
+    "丶"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "いた.る",
+      "stem": "いた",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "つか.む",
+      "stem": "つか",
+      "okurigana": "む"
+    },
+    {
+      "sourceNotation": "にえ",
+      "stem": "にえ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "摯",
+    "heading": "摯",
+    "readings": [
+      "シ"
+    ],
+    "examples_by_reading": [
+      [
+        "真摯"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "摯",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1364420/真摯/しんし",
+        "2643200/摯実/しじつ"
+      ]
+    },
+    {
+      "reading": "いたる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "つかむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "にえ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1364420/真摯/しんし",
+    "2643200/摯実/しじつ"
+  ],
+  "candidates": {
+    "1364420/真摯/しんし": {
+      "id": 1364420,
+      "form": "真摯",
+      "kana": "しんし",
+      "gloss": "sincere",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21137,
+        11965,
+        14132,
+        7702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "真": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2643200/摯実/しじつ": {
+      "id": 2643200,
+      "form": "摯実",
+      "kana": "しじつ",
+      "gloss": "serious",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        275061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1364420:真摯:しんし",
+      "form": "真摯",
+      "kana": "しんし",
+      "cue": "sincere; earnest",
+      "ids": [
+        1364420
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7702,
+        "shiberu": 21137,
+        "tubelex": 11965,
+        "wordfreq": 14132
+      },
+      "alternatives_by_kanji": {
+        "真": [
+          "1604350/真ん中/まんなか",
+          "1363260/真っ先/まっさき",
+          "1363520/真偽/しんぎ"
+        ],
+        "摯": [
+          "2643200/摯実/しじつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

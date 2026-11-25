@@ -1,0 +1,979 @@
+{
+  "character": "碑",
+  "grade": 7,
+  "meanings": [
+    "tombstone",
+    "monument"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 112
+    }
+  ],
+  "components": [
+    "口",
+    "十",
+    "石",
+    "田"
+  ],
+  "on": [
+    "ヒ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "いしぶみ",
+      "stem": "いしぶみ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "碑",
+    "heading": "碑（碑）",
+    "readings": [
+      "ヒ"
+    ],
+    "examples_by_reading": [
+      [
+        "碑銘",
+        "石碑",
+        "記念碑"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "碑",
+      "reading": "ヒ",
+      "source": "table_27_hi.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヒ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 19,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1382780/石碑/せきひ",
+        "1483970/碑銘/ひめい",
+        "1223390/記念碑/きねんひ",
+        "1514880/墓碑/ぼひ",
+        "1483960/碑文/ひぶん",
+        "1637980/口碑/こうひ",
+        "1702990/碑/ひ",
+        "1193400/歌碑/かひ",
+        "1951060/句碑/くひ",
+        "1751880/碑石/ひせき"
+      ]
+    },
+    {
+      "reading": "いしぶみ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1702990/碑/いしぶみ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1382780/石碑/せきひ",
+    "1483970/碑銘/ひめい",
+    "1223390/記念碑/きねんひ",
+    "1702990/碑/いしぶみ",
+    "1514880/墓碑/ぼひ",
+    "1483960/碑文/ひぶん",
+    "1637980/口碑/こうひ",
+    "1702990/碑/ひ",
+    "1193400/歌碑/かひ",
+    "1951060/句碑/くひ",
+    "1751880/碑石/ひせき",
+    "1816770/詩碑/しひ",
+    "1514890/墓碑銘/ぼひめい",
+    "1717540/忠魂碑/ちゅうこんひ",
+    "2529990/慰霊碑/いれいひ",
+    "2847240/記念碑的/きねんひてき",
+    "2530000/追悼碑/ついとうひ",
+    "2529950/戦没者慰霊碑/せんぼつしゃいれいひ",
+    "1489780/表忠碑/ひょうちゅうひ",
+    "2841983/頌徳碑/しょうとくひ",
+    "2866941/碑文学/ひぶんがく",
+    "1257530/建碑/けんぴ",
+    "2106850/断碑/だんぴ",
+    "2844340/碑陰/ひいん"
+  ],
+  "candidates": {
+    "1382780/石碑/せきひ": {
+      "id": 1382780,
+      "form": "石碑",
+      "kana": "せきひ",
+      "gloss": "stone monument",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13928,
+        12829,
+        29477,
+        29056
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1483970/碑銘/ひめい": {
+      "id": 1483970,
+      "form": "碑銘",
+      "kana": "ひめい",
+      "gloss": "inscription",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        132752
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "銘": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1223390/記念碑/きねんひ": {
+      "id": 1223390,
+      "form": "記念碑",
+      "kana": "きねんひ",
+      "gloss": "commemorative plaque (usu. on a stone)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49363
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "記": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1702990/碑/いしぶみ": {
+      "id": 1702990,
+      "form": "碑",
+      "kana": "いしぶみ",
+      "gloss": "stone monument bearing an inscription (esp. memorial for future generations)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4399,
+        6003,
+        13682,
+        48710
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いしぶみ": {
+          "actual": "いしぶみ",
+          "dictionary": [
+            "いしぶみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1514880/墓碑/ぼひ": {
+      "id": 1514880,
+      "form": "墓碑",
+      "kana": "ぼひ",
+      "gloss": "gravestone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18703,
+        58680,
+        77923,
+        61325
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "墓": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1483960/碑文/ひぶん": {
+      "id": 1483960,
+      "form": "碑文",
+      "kana": "ひぶん",
+      "gloss": "inscription",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        32485,
+        32292,
+        49881,
+        53359
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1637980/口碑/こうひ": {
+      "id": 1637980,
+      "form": "口碑",
+      "kana": "こうひ",
+      "gloss": "oral tradition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38169,
+        173792,
+        135895,
+        141974
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1702990/碑/ひ": {
+      "id": 1702990,
+      "form": "碑",
+      "kana": "ひ",
+      "gloss": "stone monument bearing an inscription (esp. memorial for future generations)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4399,
+        6003,
+        13682,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1193400/歌碑/かひ": {
+      "id": 1193400,
+      "form": "歌碑",
+      "kana": "かひ",
+      "gloss": "monument (stele, gravestone, etc.) engraved with a waka",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53060,
+        79465,
+        186127
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歌": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1951060/句碑/くひ": {
+      "id": 1951060,
+      "form": "句碑",
+      "kana": "くひ",
+      "gloss": "slab with a haiku cut on it",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        100834,
+        206352
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "句": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1751880/碑石/ひせき": {
+      "id": 1751880,
+      "form": "碑石",
+      "kana": "ひせき",
+      "gloss": "stone monument",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        185634,
+        120050
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816770/詩碑/しひ": {
+      "id": 1816770,
+      "form": "詩碑",
+      "kana": "しひ",
+      "gloss": "monument (stele, gravestone, etc.) engraved with a poem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        163107,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "詩": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1514890/墓碑銘/ぼひめい": {
+      "id": 1514890,
+      "form": "墓碑銘",
+      "kana": "ぼひめい",
+      "gloss": "epitaph",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        94653,
+        75032
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "銘": 7,
+        "墓": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1717540/忠魂碑/ちゅうこんひ": {
+      "id": 1717540,
+      "form": "忠魂碑",
+      "kana": "ちゅうこんひ",
+      "gloss": "monument to the faithful who died in battle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        100834,
+        263564
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "忠": 6,
+        "魂": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529990/慰霊碑/いれいひ": {
+      "id": 2529990,
+      "form": "慰霊碑",
+      "kana": "いれいひ",
+      "gloss": "cenotaph",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        59957
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慰": 7,
+        "霊": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847240/記念碑的/きねんひてき": {
+      "id": 2847240,
+      "form": "記念碑的",
+      "kana": "きねんひてき",
+      "gloss": "monumental",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "的": 4,
+        "記": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2530000/追悼碑/ついとうひ": {
+      "id": 2530000,
+      "form": "追悼碑",
+      "kana": "ついとうひ",
+      "gloss": "memorial (to the dead)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        244135
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悼": 7,
+        "追": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529950/戦没者慰霊碑/せんぼつしゃいれいひ": {
+      "id": 2529950,
+      "form": "戦没者慰霊碑",
+      "kana": "せんぼつしゃいれいひ",
+      "gloss": "war memorial",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "霊": 7,
+        "戦": 4,
+        "慰": 7,
+        "者": 3,
+        "没": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1489780/表忠碑/ひょうちゅうひ": {
+      "id": 1489780,
+      "form": "表忠碑",
+      "kana": "ひょうちゅうひ",
+      "gloss": "war-memorial monument",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        387881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "表": 3,
+        "忠": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841983/頌徳碑/しょうとくひ": {
+      "id": 2841983,
+      "form": "頌徳碑",
+      "kana": "しょうとくひ",
+      "gloss": "monument (commemorating a virtuous deed)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "徳": 4
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866941/碑文学/ひぶんがく": {
+      "id": 2866941,
+      "form": "碑文学",
+      "kana": "ひぶんがく",
+      "gloss": "epigraphy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "文": 1,
+        "学": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1257530/建碑/けんぴ": {
+      "id": 1257530,
+      "form": "建碑",
+      "kana": "けんぴ",
+      "gloss": "erection of a monument",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        203403,
+        286910
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "建": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2106850/断碑/だんぴ": {
+      "id": 2106850,
+      "form": "断碑",
+      "kana": "だんぴ",
+      "gloss": "broken stone monument",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        307815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "断": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2844340/碑陰/ひいん": {
+      "id": 2844340,
+      "form": "碑陰",
+      "kana": "ひいん",
+      "gloss": "back of a stone monument",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "陰": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1702990:碑:ひ",
+      "form": "碑",
+      "kana": "ひ",
+      "cue": "stone monument bearing an inscription (esp. memorial for future generations); stele",
+      "ids": [
+        1702990
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "shiberu": 4399,
+        "tubelex": 6003,
+        "wordfreq": 13682
+      },
+      "alternatives_by_kanji": {
+        "碑": [
+          "1382780/石碑/せきひ",
+          "1483970/碑銘/ひめい",
+          "1223390/記念碑/きねんひ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

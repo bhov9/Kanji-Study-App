@@ -1,0 +1,1579 @@
+{
+  "character": "始",
+  "grade": 3,
+  "meanings": [
+    "commence",
+    "begin"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 38
+    }
+  ],
+  "components": [
+    "口",
+    "女",
+    "厶"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はじ.める",
+      "stem": "はじ",
+      "okurigana": "める"
+    },
+    {
+      "sourceNotation": "-はじ.める",
+      "stem": "-はじ",
+      "okurigana": "める"
+    },
+    {
+      "sourceNotation": "はじ.まる",
+      "stem": "はじ",
+      "okurigana": "まる"
+    }
+  ],
+  "nanori": [
+    "もと"
+  ],
+  "government": {
+    "kanji": "始",
+    "heading": "始",
+    "readings": [
+      "シ",
+      "はじめる",
+      "はじまる"
+    ],
+    "examples_by_reading": [
+      [
+        "始終",
+        "年始",
+        "開始"
+      ],
+      [
+        "始める",
+        "始め"
+      ],
+      [
+        "始まる",
+        "始まり"
+      ]
+    ],
+    "note_lines": [
+      "⇔初め，初めて"
+    ],
+    "representative_index": {
+      "kanji": "始",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 78,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1202760/開始/かいし",
+        "1468730/年始/ねんし",
+        "1307570/始終/しじゅう",
+        "1307620/始末/しまつ",
+        "1261500/原始/げんし",
+        "1332820/終始/しゅうし",
+        "1307600/始動/しどう",
+        "1307610/始発/しはつ",
+        "1307580/始祖/しそ",
+        "1307560/始業/しぎょう"
+      ]
+    },
+    {
+      "reading": "はじめる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 25,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1307550/始める/はじめる",
+        "1304960/し始める/しはじめる",
+        "2449520/話し始める/はなしはじめる",
+        "2449540/歩き始める/あるきはじめる",
+        "2145280/食べ始める/たべはじめる",
+        "2476000/言い始める/いいはじめる",
+        "1339060/出始める/ではじめる",
+        "2527600/書き始める/かきはじめる",
+        "1282760/降り始める/ふりはじめる",
+        "2805460/見え始める/みえはじめる"
+      ]
+    },
+    {
+      "reading": "はじまる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1307500/始まる/はじまる",
+        "1611200/始まり/はじまり",
+        "2577880/千里の行も足下に始まる/せんりのこうもそっかにはじまる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1307550/始める/はじめる",
+    "1307500/始まる/はじまる",
+    "1202760/開始/かいし",
+    "1611200/始まり/はじまり",
+    "1468730/年始/ねんし",
+    "1307570/始終/しじゅう",
+    "1307620/始末/しまつ",
+    "1261500/原始/げんし",
+    "1332820/終始/しゅうし",
+    "1307600/始動/しどう",
+    "1307610/始発/しはつ",
+    "1307580/始祖/しそ",
+    "1307560/始業/しぎょう",
+    "1398470/創始/そうし",
+    "2423210/始点/してん",
+    "1733170/始原/しげん",
+    "1260840/元始/げんし",
+    "1733190/始期/しき",
+    "2051780/年末年始/ねんまつねんし",
+    "1269690/後始末/あとしまつ",
+    "1166190/一部始終/いちぶしじゅう",
+    "2357440/再始動/さいしどう",
+    "1261520/原始時代/げんしじだい",
+    "1936290/始発駅/しはつえき",
+    "2837771/起始/きし",
+    "1733410/始筆/しひつ",
+    "2359030/始端/したん",
+    "1698250/終始一貫/しゅうしいっかん",
+    "1304960/し始める/しはじめる",
+    "2449520/話し始める/はなしはじめる"
+  ],
+  "candidates": {
+    "1307550/始める/はじめる": {
+      "id": 1307550,
+      "form": "始める",
+      "kana": "はじめる",
+      "gloss": "to start",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        258,
+        296,
+        1545,
+        293
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [
+        "はじめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1307500/始まる/はじまる": {
+      "id": 1307500,
+      "form": "始まる",
+      "kana": "はじまる",
+      "gloss": "to begin",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        392,
+        491,
+        1838,
+        449
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はじまる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.まる"
+          ]
+        }
+      },
+      "official_examples": [
+        "はじまる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1202760/開始/かいし": {
+      "id": 1202760,
+      "form": "開始",
+      "kana": "かいし",
+      "gloss": "start",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2957,
+        1022,
+        562,
+        1437
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "開": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1611200/始まり/はじまり": {
+      "id": 1611200,
+      "form": "始まり",
+      "kana": "はじまり",
+      "gloss": "origin",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4595,
+        3290,
+        1879,
+        2316
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はじまる": {
+          "actual": "はじ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はじまる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1468730/年始/ねんし": {
+      "id": 1468730,
+      "form": "年始",
+      "kana": "ねんし",
+      "gloss": "beginning of the year",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13406,
+        8866,
+        23216,
+        40079
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1307570/始終/しじゅう": {
+      "id": 1307570,
+      "form": "始終",
+      "kana": "しじゅう",
+      "gloss": "continuously",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7269,
+        17204,
+        33270,
+        28580
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "終": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1307620/始末/しまつ": {
+      "id": 1307620,
+      "form": "始末",
+      "kana": "しまつ",
+      "gloss": "management",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5246,
+        5917,
+        7265,
+        2933
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "末": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1261500/原始/げんし": {
+      "id": 1261500,
+      "form": "原始",
+      "kana": "げんし",
+      "gloss": "origin",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3990,
+        10284,
+        10032,
+        32851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332820/終始/しゅうし": {
+      "id": 1332820,
+      "form": "終始",
+      "kana": "しゅうし",
+      "gloss": "beginning and end",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6048,
+        11338,
+        9745,
+        9399
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "終": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1307600/始動/しどう": {
+      "id": 1307600,
+      "form": "始動",
+      "kana": "しどう",
+      "gloss": "starting (a machine, engine, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14430,
+        8945,
+        8031,
+        18500
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "動": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1307610/始発/しはつ": {
+      "id": 1307610,
+      "form": "始発",
+      "kana": "しはつ",
+      "gloss": "first departure (of the day)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9035,
+        17928,
+        14325,
+        34068
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1307580/始祖/しそ": {
+      "id": 1307580,
+      "form": "始祖",
+      "kana": "しそ",
+      "gloss": "founder",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13518,
+        32292,
+        33710,
+        26154
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "祖": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1307560/始業/しぎょう": {
+      "id": 1307560,
+      "form": "始業",
+      "kana": "しぎょう",
+      "gloss": "start of work",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        19813,
+        27177,
+        22017,
+        25769
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "業": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1398470/創始/そうし": {
+      "id": 1398470,
+      "form": "創始",
+      "kana": "そうし",
+      "gloss": "creation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20024,
+        25023,
+        19848,
+        69583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "創": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2423210/始点/してん": {
+      "id": 2423210,
+      "form": "始点",
+      "kana": "してん",
+      "gloss": "point of departure",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31561,
+        55944,
+        55545
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1733170/始原/しげん": {
+      "id": 1733170,
+      "form": "始原",
+      "kana": "しげん",
+      "gloss": "start",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        94653,
+        71274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1260840/元始/げんし": {
+      "id": 1260840,
+      "form": "元始",
+      "kana": "げんし",
+      "gloss": "origin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        106463,
+        130475
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1733190/始期/しき": {
+      "id": 1733190,
+      "form": "始期",
+      "kana": "しき",
+      "gloss": "beginning period",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        88816,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "期": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2051780/年末年始/ねんまつねんし": {
+      "id": 2051780,
+      "form": "年末年始",
+      "kana": "ねんまつねんし",
+      "gloss": "year-end and New Year holidays (e.g. from December 29 to January 3)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        10707,
+        28782
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1,
+        "末": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269690/後始末/あとしまつ": {
+      "id": 1269690,
+      "form": "後始末",
+      "kana": "あとしまつ",
+      "gloss": "settlement (of a matter)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        24433,
+        8983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "末": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1166190/一部始終/いちぶしじゅう": {
+      "id": 1166190,
+      "form": "一部始終",
+      "kana": "いちぶしじゅう",
+      "gloss": "full particulars",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        24744,
+        12431
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "部": 3,
+        "終": 3,
+        "一": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2357440/再始動/さいしどう": {
+      "id": 2357440,
+      "form": "再始動",
+      "kana": "さいしどう",
+      "gloss": "restarting (a machine, engine, project, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        33270,
+        52650
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "再": 5,
+        "動": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1261520/原始時代/げんしじだい": {
+      "id": 1261520,
+      "form": "原始時代",
+      "kana": "げんしじだい",
+      "gloss": "primitive times",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        54820,
+        68466
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2,
+        "時": 2,
+        "代": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1936290/始発駅/しはつえき": {
+      "id": 1936290,
+      "form": "始発駅",
+      "kana": "しはつえき",
+      "gloss": "starting station",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        60579,
+        99329
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "駅": 3,
+        "発": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837771/起始/きし": {
+      "id": 2837771,
+      "form": "起始",
+      "kana": "きし",
+      "gloss": "start",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        null,
+        186930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "起": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1733410/始筆/しひつ": {
+      "id": 1733410,
+      "form": "始筆",
+      "kana": "しひつ",
+      "gloss": "first writing (of the New Year)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筆": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2359030/始端/したん": {
+      "id": 2359030,
+      "form": "始端",
+      "kana": "したん",
+      "gloss": "start edge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        246275
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "端": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1698250/終始一貫/しゅうしいっかん": {
+      "id": 1698250,
+      "form": "終始一貫",
+      "kana": "しゅうしいっかん",
+      "gloss": "consistently",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        166230,
+        148598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貫": 7,
+        "終": 3,
+        "一": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304960/し始める/しはじめる": {
+      "id": 1304960,
+      "form": "し始める",
+      "kana": "しはじめる",
+      "gloss": "to begin (doing)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5462
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2449520/話し始める/はなしはじめる": {
+      "id": 2449520,
+      "form": "話し始める",
+      "kana": "はなしはじめる",
+      "gloss": "to begin to speak",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        7606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "話": 2
+      },
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2449540/歩き始める/あるきはじめる": {
+      "id": 2449540,
+      "form": "歩き始める",
+      "kana": "あるきはじめる",
+      "gloss": "to begin to walk",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        7613
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歩": 2
+      },
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2145280/食べ始める/たべはじめる": {
+      "id": 2145280,
+      "form": "食べ始める",
+      "kana": "たべはじめる",
+      "gloss": "to start eating",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        12076
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2476000/言い始める/いいはじめる": {
+      "id": 2476000,
+      "form": "言い始める",
+      "kana": "いいはじめる",
+      "gloss": "to say previously unspoken thoughts",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        16009
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1339060/出始める/ではじめる": {
+      "id": 1339060,
+      "form": "出始める",
+      "kana": "ではじめる",
+      "gloss": "to begin to appear",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        16497
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2527600/書き始める/かきはじめる": {
+      "id": 2527600,
+      "form": "書き始める",
+      "kana": "かきはじめる",
+      "gloss": "to begin to write",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1282760/降り始める/ふりはじめる": {
+      "id": 1282760,
+      "form": "降り始める",
+      "kana": "ふりはじめる",
+      "gloss": "to begin to fall (of rain, snow, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19816
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "降": 6
+      },
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2805460/見え始める/みえはじめる": {
+      "id": 2805460,
+      "form": "見え始める",
+      "kana": "みえはじめる",
+      "gloss": "to come within sight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20870
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "見": 1
+      },
+      "matched": {
+        "はじめる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.める",
+            "-はじ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2577880/千里の行も足下に始まる/せんりのこうもそっかにはじまる": {
+      "id": 2577880,
+      "form": "千里の行も足下に始まる",
+      "kana": "せんりのこうもそっかにはじまる",
+      "gloss": "a journey of a thousand miles begins with a single step",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "行": 2,
+        "里": 2,
+        "千": 1,
+        "足": 1,
+        "下": 1
+      },
+      "matched": {
+        "はじまる": {
+          "actual": "はじ",
+          "dictionary": [
+            "はじ.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1202760:開始:かいし",
+      "form": "開始",
+      "kana": "かいし",
+      "cue": "start; commencement",
+      "ids": [
+        1202760
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1437,
+        "shiberu": 2957,
+        "tubelex": 1022,
+        "wordfreq": 562
+      },
+      "alternatives_by_kanji": {
+        "開": [
+          "1440600/展開/てんかい",
+          "1202830/開拓/かいたく",
+          "1811610/川開き/かわびらき"
+        ],
+        "始": [
+          "1307550/始める/はじめる",
+          "1307500/始まる/はじまる",
+          "1611200/始まり/はじまり"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 61
+}

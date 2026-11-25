@@ -1,0 +1,1925 @@
+{
+  "character": "点",
+  "grade": 2,
+  "meanings": [
+    "spot",
+    "point",
+    "mark",
+    "speck",
+    "decimal point"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 86
+    },
+    {
+      "type": "nelson_c",
+      "value": 25
+    }
+  ],
+  "components": [
+    "口",
+    "卜",
+    "杰"
+  ],
+  "on": [
+    "テン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "つ.ける",
+      "stem": "つ",
+      "okurigana": "ける"
+    },
+    {
+      "sourceNotation": "つ.く",
+      "stem": "つ",
+      "okurigana": "く"
+    },
+    {
+      "sourceNotation": "た.てる",
+      "stem": "た",
+      "okurigana": "てる"
+    },
+    {
+      "sourceNotation": "さ.す",
+      "stem": "さ",
+      "okurigana": "す"
+    },
+    {
+      "sourceNotation": "とぼ.す",
+      "stem": "とぼ",
+      "okurigana": "す"
+    },
+    {
+      "sourceNotation": "とも.す",
+      "stem": "とも",
+      "okurigana": "す"
+    },
+    {
+      "sourceNotation": "ぼち",
+      "stem": "ぼち",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "点",
+    "heading": "点（點）",
+    "readings": [
+      "テン"
+    ],
+    "examples_by_reading": [
+      [
+        "点線",
+        "点火",
+        "採点"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "点",
+      "reading": "テン",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 423,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1294850/採点/さいてん",
+        "1441690/点線/てんせん",
+        "1441440/点火/てんか",
+        "1316340/時点/じてん",
+        "1312130/視点/してん",
+        "1421380/地点/ちてん",
+        "1232440/拠点/きょてん",
+        "1254050/欠点/けってん",
+        "1215000/観点/かんてん",
+        "1324870/弱点/じゃくてん"
+      ]
+    },
+    {
+      "reading": "つける",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2202160/火を点ける/ひをつける",
+        "1896550/電灯を点ける/でんとうをつける",
+        "1905050/灯を点ける/ひをつける",
+        "1610400/点ける/つける"
+      ]
+    },
+    {
+      "reading": "つく",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1626690/火が点く/ひがつく",
+        "1441400/点く/つく"
+      ]
+    },
+    {
+      "reading": "たてる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2410820/点てる/たてる"
+      ]
+    },
+    {
+      "reading": "さす",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2273200/目薬を点す/めぐすりをさす",
+        "1609820/点す/さす"
+      ]
+    },
+    {
+      "reading": "とぼす",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1582140/点す/とぼす"
+      ]
+    },
+    {
+      "reading": "ともす",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2667460/爪に火を点す/つめにひをともす",
+        "1582140/点す/ともす"
+      ]
+    },
+    {
+      "reading": "ぼち",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1294850/採点/さいてん",
+    "1441690/点線/てんせん",
+    "1441440/点火/てんか",
+    "1316340/時点/じてん",
+    "1312130/視点/してん",
+    "1421380/地点/ちてん",
+    "1232440/拠点/きょてん",
+    "1254050/欠点/けってん",
+    "1215000/観点/かんてん",
+    "1324870/弱点/じゃくてん",
+    "1441660/点数/てんすう",
+    "1454590/得点/とくてん",
+    "1350810/焦点/しょうてん",
+    "1549620/利点/りてん",
+    "1604340/満点/まんてん",
+    "1430240/頂点/ちょうてん",
+    "1441540/点検/てんけん",
+    "1336570/重点/じゅうてん",
+    "1441740/点灯/てんとう",
+    "1332950/終点/しゅうてん",
+    "1262160/原点/げんてん",
+    "1385610/接点/せってん",
+    "1441790/点滅/てんめつ",
+    "1461040/難点/なんてん",
+    "1546820/要点/ようてん",
+    "1223860/起点/きてん",
+    "1441720/点滴/てんてき",
+    "1561800/論点/ろんてん",
+    "1489160/氷点/ひょうてん",
+    "1453170/同点/どうてん"
+  ],
+  "candidates": {
+    "1294850/採点/さいてん": {
+      "id": 1294850,
+      "form": "採点",
+      "kana": "さいてん",
+      "gloss": "marking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11704,
+        13294,
+        14533,
+        17143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "採": 5
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [
+        "テン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1441690/点線/てんせん": {
+      "id": 1441690,
+      "form": "点線",
+      "kana": "てんせん",
+      "gloss": "dotted line",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40471,
+        15352,
+        58194,
+        81606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "線": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [
+        "テン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1441440/点火/てんか": {
+      "id": 1441440,
+      "form": "点火",
+      "kana": "てんか",
+      "gloss": "ignition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20717
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [
+        "テン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1316340/時点/じてん": {
+      "id": 1316340,
+      "form": "時点",
+      "kana": "じてん",
+      "gloss": "point in time",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9367,
+        1101,
+        1059,
+        1846
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1312130/視点/してん": {
+      "id": 1312130,
+      "form": "視点",
+      "kana": "してん",
+      "gloss": "point of view",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6159,
+        2079,
+        3454,
+        5498
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1421380/地点/ちてん": {
+      "id": 1421380,
+      "form": "地点",
+      "kana": "ちてん",
+      "gloss": "spot",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2519,
+        3867,
+        5154,
+        5829
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "地": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1232440/拠点/きょてん": {
+      "id": 1232440,
+      "form": "拠点",
+      "kana": "きょてん",
+      "gloss": "base (of operations)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14111,
+        2381,
+        4034,
+        6433
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拠": 7
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1254050/欠点/けってん": {
+      "id": 1254050,
+      "form": "欠点",
+      "kana": "けってん",
+      "gloss": "fault",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2416,
+        6769,
+        7635,
+        7412
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "欠": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1215000/観点/かんてん": {
+      "id": 1215000,
+      "form": "観点",
+      "kana": "かんてん",
+      "gloss": "point of view",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4317,
+        3731,
+        6169,
+        13707
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "観": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1324870/弱点/じゃくてん": {
+      "id": 1324870,
+      "form": "弱点",
+      "kana": "じゃくてん",
+      "gloss": "weak point",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5276,
+        4183,
+        7635,
+        3909
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弱": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1441660/点数/てんすう": {
+      "id": 1441660,
+      "form": "点数",
+      "kana": "てんすう",
+      "gloss": "marks",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4927,
+        5158,
+        7265,
+        8188
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1454590/得点/とくてん": {
+      "id": 1454590,
+      "form": "得点",
+      "kana": "とくてん",
+      "gloss": "scoring",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6497,
+        5024,
+        5047,
+        15609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "得": 5
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1350810/焦点/しょうてん": {
+      "id": 1350810,
+      "form": "焦点",
+      "kana": "しょうてん",
+      "gloss": "focus",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6839,
+        4914,
+        7896,
+        10003
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "焦": 7
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1549620/利点/りてん": {
+      "id": 1549620,
+      "form": "利点",
+      "kana": "りてん",
+      "gloss": "advantage",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5477,
+        7898,
+        7896,
+        13924
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "利": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1604340/満点/まんてん": {
+      "id": 1604340,
+      "form": "満点",
+      "kana": "まんてん",
+      "gloss": "perfect score",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7048,
+        6823,
+        7391,
+        9704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "満": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1430240/頂点/ちょうてん": {
+      "id": 1430240,
+      "form": "頂点",
+      "kana": "ちょうてん",
+      "gloss": "vertex",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10756,
+        5795,
+        9888,
+        5089
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頂": 6
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441540/点検/てんけん": {
+      "id": 1441540,
+      "form": "点検",
+      "kana": "てんけん",
+      "gloss": "detailed inspection",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8043,
+        6412,
+        8882,
+        11402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "検": 5
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1336570/重点/じゅうてん": {
+      "id": 1336570,
+      "form": "重点",
+      "kana": "じゅうてん",
+      "gloss": "important point",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10323,
+        6113,
+        13682,
+        29063
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "重": 3
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441740/点灯/てんとう": {
+      "id": 1441740,
+      "form": "点灯",
+      "kana": "てんとう",
+      "gloss": "lighting (a lamp)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17005,
+        5588,
+        12275,
+        19953
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332950/終点/しゅうてん": {
+      "id": 1332950,
+      "form": "終点",
+      "kana": "しゅうてん",
+      "gloss": "terminus",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8949,
+        7523,
+        17251,
+        17609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "終": 3
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1262160/原点/げんてん": {
+      "id": 1262160,
+      "form": "原点",
+      "kana": "げんてん",
+      "gloss": "starting point",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27108,
+        7191,
+        9888,
+        17363
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1385610/接点/せってん": {
+      "id": 1385610,
+      "form": "接点",
+      "kana": "せってん",
+      "gloss": "point of tangency",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27740,
+        9090,
+        12479,
+        7840
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "接": 5
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441790/点滅/てんめつ": {
+      "id": 1441790,
+      "form": "点滅",
+      "kana": "てんめつ",
+      "gloss": "switching on and off (of a light)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        21033,
+        8319,
+        17491,
+        13818
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "滅": 7
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1461040/難点/なんてん": {
+      "id": 1461040,
+      "form": "難点",
+      "kana": "なんてん",
+      "gloss": "fault",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14035,
+        11226,
+        15825,
+        20111
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "難": 6
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1546820/要点/ようてん": {
+      "id": 1546820,
+      "form": "要点",
+      "kana": "ようてん",
+      "gloss": "gist",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10784,
+        16196,
+        20096,
+        16902
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "要": 4
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1223860/起点/きてん": {
+      "id": 1223860,
+      "form": "起点",
+      "kana": "きてん",
+      "gloss": "starting point",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32008,
+        8374,
+        17976,
+        21151
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "起": 3
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441720/点滴/てんてき": {
+      "id": 1441720,
+      "form": "点滴",
+      "kana": "てんてき",
+      "gloss": "raindrops",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14974,
+        15018,
+        14937,
+        18609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "滴": 7
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1561800/論点/ろんてん": {
+      "id": 1561800,
+      "form": "論点",
+      "kana": "ろんてん",
+      "gloss": "point in question (at issue)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12469,
+        16820,
+        15825,
+        26724
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1489160/氷点/ひょうてん": {
+      "id": 1489160,
+      "form": "氷点",
+      "kana": "ひょうてん",
+      "gloss": "freezing point",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7822,
+        19447,
+        100834,
+        116235
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "氷": 3
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1453170/同点/どうてん": {
+      "id": 1453170,
+      "form": "同点",
+      "kana": "どうてん",
+      "gloss": "same score",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        28860,
+        15973,
+        13462,
+        31085
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "同": 2
+      },
+      "matched": {
+        "テン": {
+          "actual": "てん",
+          "dictionary": [
+            "テン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2202160/火を点ける/ひをつける": {
+      "id": 2202160,
+      "form": "火を点ける",
+      "kana": "ひをつける",
+      "gloss": "to ignite",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20913
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1
+      },
+      "matched": {
+        "つける": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1896550/電灯を点ける/でんとうをつける": {
+      "id": 1896550,
+      "form": "電灯を点ける",
+      "kana": "でんとうをつける",
+      "gloss": "to turn on an electric light",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        107862
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4,
+        "電": 2
+      },
+      "matched": {
+        "つける": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1905050/灯を点ける/ひをつける": {
+      "id": 1905050,
+      "form": "灯を点ける",
+      "kana": "ひをつける",
+      "gloss": "to turn on the light",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        129821
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {
+        "つける": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1610400/点ける/つける": {
+      "id": 1610400,
+      "form": "点ける",
+      "kana": "つける",
+      "gloss": "to turn on",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        7837,
+        null,
+        null,
+        15389
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つける": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1626690/火が点く/ひがつく": {
+      "id": 1626690,
+      "form": "火が点く",
+      "kana": "ひがつく",
+      "gloss": "to catch fire",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5k"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31388
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1
+      },
+      "matched": {
+        "つく": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441400/点く/つく": {
+      "id": 1441400,
+      "form": "点く",
+      "kana": "つく",
+      "gloss": "to be lit (of a lamp, burner, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        14540,
+        null,
+        57069,
+        14914
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つく": {
+          "actual": "つ",
+          "dictionary": [
+            "つ.く"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2410820/点てる/たてる": {
+      "id": 2410820,
+      "form": "点てる",
+      "kana": "たてる",
+      "gloss": "to make (tea; esp. matcha)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37400,
+        124069,
+        58091
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "たてる": {
+          "actual": "た",
+          "dictionary": [
+            "た.てる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2273200/目薬を点す/めぐすりをさす": {
+      "id": 2273200,
+      "form": "目薬を点す",
+      "kana": "めぐすりをさす",
+      "gloss": "to apply eyedrops",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        287635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1,
+        "薬": 3
+      },
+      "matched": {
+        "さす": {
+          "actual": "さ",
+          "dictionary": [
+            "さ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1609820/点す/さす": {
+      "id": 1609820,
+      "form": "点す",
+      "kana": "さす",
+      "gloss": "to pour",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "さす": {
+          "actual": "さ",
+          "dictionary": [
+            "さ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1582140/点す/とぼす": {
+      "id": 1582140,
+      "form": "点す",
+      "kana": "とぼす",
+      "gloss": "to light (a candle, lamp, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "とぼす": {
+          "actual": "とぼ",
+          "dictionary": [
+            "とぼ.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2667460/爪に火を点す/つめにひをともす": {
+      "id": 2667460,
+      "form": "爪に火を点す",
+      "kana": "つめにひをともす",
+      "gloss": "to lead a stingy life",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        201407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1,
+        "爪": 7
+      },
+      "matched": {
+        "ともす": {
+          "actual": "とも",
+          "dictionary": [
+            "とも.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1582140/点す/ともす": {
+      "id": 1582140,
+      "form": "点す",
+      "kana": "ともす",
+      "gloss": "to light (a candle, lamp, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        38515
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ともす": {
+          "actual": "とも",
+          "dictionary": [
+            "とも.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1232440:拠点:きょてん",
+      "form": "拠点",
+      "kana": "きょてん",
+      "cue": "base (of operations); site",
+      "ids": [
+        1232440
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6433,
+        "shiberu": 14111,
+        "tubelex": 2381,
+        "wordfreq": 4034
+      },
+      "alternatives_by_kanji": {
+        "点": [
+          "1294850/採点/さいてん",
+          "1441690/点線/てんせん",
+          "1441440/点火/てんか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1316340:時点:じてん",
+      "form": "時点",
+      "kana": "じてん",
+      "cue": "point in time; occasion",
+      "ids": [
+        1316340
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1846,
+        "shiberu": 9367,
+        "tubelex": 1101,
+        "wordfreq": 1059
+      },
+      "alternatives_by_kanji": {
+        "時": [
+          "1315920/時間/じかん",
+          "1449090/当時/とうじ",
+          "1598680/時々/ときどき"
+        ],
+        "点": [
+          "1294850/採点/さいてん",
+          "1441690/点線/てんせん",
+          "1441440/点火/てんか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1324870:弱点:じゃくてん",
+      "form": "弱点",
+      "kana": "じゃくてん",
+      "cue": "weak point; weakness",
+      "ids": [
+        1324870
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3909,
+        "shiberu": 5276,
+        "tubelex": 4183,
+        "wordfreq": 7635
+      },
+      "alternatives_by_kanji": {
+        "弱": [
+          "1324520/弱い/よわい",
+          "1324650/弱る/よわる",
+          "1324580/弱まる/よわまる"
+        ],
+        "点": [
+          "1294850/採点/さいてん",
+          "1441690/点線/てんせん",
+          "1441440/点火/てんか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1350810:焦点:しょうてん",
+      "form": "焦点",
+      "kana": "しょうてん",
+      "cue": "focus; focal point",
+      "ids": [
+        1350810
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 10003,
+        "shiberu": 6839,
+        "tubelex": 4914,
+        "wordfreq": 7896
+      },
+      "alternatives_by_kanji": {
+        "点": [
+          "1294850/採点/さいてん",
+          "1441690/点線/てんせん",
+          "1441440/点火/てんか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1430240:頂点:ちょうてん",
+      "form": "頂点",
+      "kana": "ちょうてん",
+      "cue": "vertex; apex",
+      "ids": [
+        1430240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5089,
+        "shiberu": 10756,
+        "tubelex": 5795,
+        "wordfreq": 9888
+      },
+      "alternatives_by_kanji": {
+        "点": [
+          "1294850/採点/さいてん",
+          "1441690/点線/てんせん",
+          "1441440/点火/てんか"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1441720:点滴:てんてき",
+      "form": "点滴",
+      "kana": "てんてき",
+      "cue": "raindrops; falling drop of water",
+      "ids": [
+        1441720
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18609,
+        "shiberu": 14974,
+        "tubelex": 15018,
+        "wordfreq": 14937
+      },
+      "alternatives_by_kanji": {
+        "点": [
+          "1294850/採点/さいてん",
+          "1441690/点線/てんせん",
+          "1441440/点火/てんか"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 38
+}

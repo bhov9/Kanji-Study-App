@@ -1,0 +1,1401 @@
+{
+  "character": "試",
+  "grade": 4,
+  "meanings": [
+    "test",
+    "try",
+    "attempt",
+    "experiment",
+    "ordeal"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "工",
+    "弋"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "こころ.みる",
+      "stem": "こころ",
+      "okurigana": "みる"
+    },
+    {
+      "sourceNotation": "ため.す",
+      "stem": "ため",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "試",
+    "heading": "試",
+    "readings": [
+      "シ",
+      "こころみる",
+      "ためす"
+    ],
+    "examples_by_reading": [
+      [
+        "試験",
+        "試作",
+        "追試"
+      ],
+      [
+        "試みる",
+        "試み"
+      ],
+      [
+        "試す",
+        "試し"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "試",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 201,
+      "frequent_unflagged_examples": 6,
+      "current_support": true,
+      "candidates": [
+        "1312350/試験/しけん",
+        "1312430/試作/しさく",
+        "1854740/追試/ついし",
+        "1312590/試練/しれん",
+        "1466200/入試/にゅうし",
+        "1312400/試行/しこう",
+        "1312500/試着/しちゃく",
+        "1312490/試食/ししょく",
+        "1646590/試乗/しじょう",
+        "1312480/試写/ししゃ"
+      ]
+    },
+    {
+      "reading": "こころみる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1312280/試みる/こころみる",
+        "1312270/試み/こころみ",
+        "1895260/抵抗を試みる/ていこうをこころみる"
+      ]
+    },
+    {
+      "reading": "ためす",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1312260/試す/ためす",
+        "1312250/試し/ためし",
+        "1893020/力を試す/ちからをためす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1312350/試験/しけん",
+    "1312260/試す/ためす",
+    "1312250/試し/ためし",
+    "1312280/試みる/こころみる",
+    "1312270/試み/こころみ",
+    "1312430/試作/しさく",
+    "1854740/追試/ついし",
+    "1312590/試練/しれん",
+    "1466200/入試/にゅうし",
+    "1312400/試行/しこう",
+    "1312500/試着/しちゃく",
+    "1312490/試食/ししょく",
+    "1646590/試乗/しじょう",
+    "1312480/試写/ししゃ",
+    "1733420/試飲/しいん",
+    "1312550/試用/しよう",
+    "1312530/試問/しもん",
+    "1312460/試算/しさん",
+    "1912410/模試/もし",
+    "1312520/試聴/しちょう",
+    "1312540/試薬/しやく",
+    "1312570/試料/しりょう",
+    "2423880/試供/しきょう",
+    "1733360/試射/ししゃ",
+    "2006860/試走/しそう",
+    "1312290/試案/しあん",
+    "2815720/試製/しせい",
+    "2840941/試遊/しゆう",
+    "1312340/試掘/しくつ",
+    "1312600/試論/しろん"
+  ],
+  "candidates": {
+    "1312350/試験/しけん": {
+      "id": 1312350,
+      "form": "試験",
+      "kana": "しけん",
+      "gloss": "examination",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        839,
+        1643,
+        1504,
+        3426
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "験": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1312260/試す/ためす": {
+      "id": 1312260,
+      "form": "試す",
+      "kana": "ためす",
+      "gloss": "to try (out)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5548,
+        953,
+        9163,
+        1148
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ためす": {
+          "actual": "ため",
+          "dictionary": [
+            "ため.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "ためす"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1312250/試し/ためし": {
+      "id": 1312250,
+      "form": "試し",
+      "kana": "ためし",
+      "gloss": "trial",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10782,
+        3758,
+        814,
+        7697
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ためす": {
+          "actual": "ため",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ためす"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1312280/試みる/こころみる": {
+      "id": 1312280,
+      "form": "試みる",
+      "kana": "こころみる",
+      "gloss": "to try",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1754,
+        7693,
+        14937,
+        4677
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "こころみる": {
+          "actual": "こころ",
+          "dictionary": [
+            "こころ.みる"
+          ]
+        }
+      },
+      "official_examples": [
+        "こころみる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1312270/試み/こころみ": {
+      "id": 1312270,
+      "form": "試み",
+      "kana": "こころみ",
+      "gloss": "attempt",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3981,
+        8168,
+        4516,
+        13354
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "こころみる": {
+          "actual": "こころ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "こころみる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1312430/試作/しさく": {
+      "id": 1312430,
+      "form": "試作",
+      "kana": "しさく",
+      "gloss": "trial manufacture",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13352,
+        8064,
+        9888,
+        18946
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1854740/追試/ついし": {
+      "id": 1854740,
+      "form": "追試",
+      "kana": "ついし",
+      "gloss": "replication (of an experiment)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22798,
+        62423,
+        45882,
+        29095
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "追": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1312590/試練/しれん": {
+      "id": 1312590,
+      "form": "試練",
+      "kana": "しれん",
+      "gloss": "test",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6969,
+        5723,
+        11204,
+        5671
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "練": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1466200/入試/にゅうし": {
+      "id": 1466200,
+      "form": "入試",
+      "kana": "にゅうし",
+      "gloss": "entrance examination",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6362,
+        7821,
+        8611,
+        22279
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "入": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1312400/試行/しこう": {
+      "id": 1312400,
+      "form": "試行",
+      "kana": "しこう",
+      "gloss": "making an attempt",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10423,
+        7172,
+        16052,
+        43224
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312500/試着/しちゃく": {
+      "id": 1312500,
+      "form": "試着",
+      "kana": "しちゃく",
+      "gloss": "trying on clothes",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13865,
+        10909,
+        19315,
+        15146
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "着": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312490/試食/ししょく": {
+      "id": 1312490,
+      "form": "試食",
+      "kana": "ししょく",
+      "gloss": "sampling food",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14902,
+        12020,
+        20349,
+        15332
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1646590/試乗/しじょう": {
+      "id": 1646590,
+      "form": "試乗",
+      "kana": "しじょう",
+      "gloss": "test drive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        31822,
+        6848,
+        25402,
+        65801
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乗": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312480/試写/ししゃ": {
+      "id": 1312480,
+      "form": "試写",
+      "kana": "ししゃ",
+      "gloss": "preview",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20480,
+        29981,
+        20603,
+        84383
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "写": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1733420/試飲/しいん": {
+      "id": 1733420,
+      "form": "試飲",
+      "kana": "しいん",
+      "gloss": "sampling a drink",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31823,
+        22134,
+        29477,
+        47721
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飲": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312550/試用/しよう": {
+      "id": 1312550,
+      "form": "試用",
+      "kana": "しよう",
+      "gloss": "trial",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22525,
+        35749,
+        30980,
+        70018
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312530/試問/しもん": {
+      "id": 1312530,
+      "form": "試問",
+      "kana": "しもん",
+      "gloss": "interview",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        26908,
+        50803,
+        70783,
+        139902
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312460/試算/しさん": {
+      "id": 1312460,
+      "form": "試算",
+      "kana": "しさん",
+      "gloss": "trial calculation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        14749,
+        18515,
+        40410
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "算": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1912410/模試/もし": {
+      "id": 1912410,
+      "form": "模試",
+      "kana": "もし",
+      "gloss": "mock exam",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19505,
+        23842,
+        24455
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "模": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312520/試聴/しちょう": {
+      "id": 1312520,
+      "form": "試聴",
+      "kana": "しちょう",
+      "gloss": "trial listening (e.g. to a record before buying)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        24298,
+        18515,
+        86546
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聴": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312540/試薬/しやく": {
+      "id": 1312540,
+      "form": "試薬",
+      "kana": "しやく",
+      "gloss": "reagent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29352,
+        31791,
+        57218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312570/試料/しりょう": {
+      "id": 1312570,
+      "form": "試料",
+      "kana": "しりょう",
+      "gloss": "sample",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        33644,
+        29116,
+        77692
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2423880/試供/しきょう": {
+      "id": 2423880,
+      "form": "試供",
+      "kana": "しきょう",
+      "gloss": "offering something free as a promotion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44959,
+        49383,
+        182065
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "供": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1733360/試射/ししゃ": {
+      "id": 1733360,
+      "form": "試射",
+      "kana": "ししゃ",
+      "gloss": "test firing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        50941,
+        60174
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "射": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2006860/試走/しそう": {
+      "id": 2006860,
+      "form": "試走",
+      "kana": "しそう",
+      "gloss": "test drive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38608,
+        65516,
+        129379
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "走": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312290/試案/しあん": {
+      "id": 1312290,
+      "form": "試案",
+      "kana": "しあん",
+      "gloss": "tentative plan",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        70104,
+        103278
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "案": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2815720/試製/しせい": {
+      "id": 2815720,
+      "form": "試製",
+      "kana": "しせい",
+      "gloss": "trial manufacture (cultivation, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        40209,
+        137456
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "製": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2840941/試遊/しゆう": {
+      "id": 2840941,
+      "form": "試遊",
+      "kana": "しゆう",
+      "gloss": "test-playing (of a video game before release or purchase)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        64314,
+        132189
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遊": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312340/試掘/しくつ": {
+      "id": 1312340,
+      "form": "試掘",
+      "kana": "しくつ",
+      "gloss": "prospecting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        68819,
+        109127
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掘": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312600/試論/しろん": {
+      "id": 1312600,
+      "form": "試論",
+      "kana": "しろん",
+      "gloss": "essay",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        88001,
+        206400
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1895260/抵抗を試みる/ていこうをこころみる": {
+      "id": 1895260,
+      "form": "抵抗を試みる",
+      "kana": "ていこうをこころみる",
+      "gloss": "to put up resistance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35474
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抵": 7,
+        "抗": 7
+      },
+      "matched": {
+        "こころみる": {
+          "actual": "こころ",
+          "dictionary": [
+            "こころ.みる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1893020/力を試す/ちからをためす": {
+      "id": 1893020,
+      "form": "力を試す",
+      "kana": "ちからをためす",
+      "gloss": "to try one's strength",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "ためす": {
+          "actual": "ため",
+          "dictionary": [
+            "ため.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1312350:試験:しけん",
+      "form": "試験",
+      "kana": "しけん",
+      "cue": "examination; exam",
+      "ids": [
+        1312350
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3426,
+        "shiberu": 839,
+        "tubelex": 1643,
+        "wordfreq": 1504
+      },
+      "alternatives_by_kanji": {
+        "験": [
+          "1251270/経験/けいけん",
+          "1320970/実験/じっけん",
+          "1643990/霊験/れいげん"
+        ],
+        "試": [
+          "1312260/試す/ためす",
+          "1312250/試し/ためし",
+          "1312280/試みる/こころみる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1312420:試合:しあい",
+      "form": "試合",
+      "kana": "しあい",
+      "cue": "match; game",
+      "ids": [
+        1312420
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "ateji"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3359,
+        "shiberu": 528,
+        "tubelex": 1035,
+        "wordfreq": 969
+      },
+      "alternatives_by_kanji": {
+        "合": [
+          "1284430/合う/あう",
+          "1284480/合わせる/あわせる",
+          "1284740/合計/ごうけい"
+        ],
+        "試": [
+          "1312350/試験/しけん",
+          "1312260/試す/ためす",
+          "1312250/試し/ためし"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1312590:試錬:しれん",
+      "form": "試錬",
+      "kana": "しれん",
+      "cue": "test; trial",
+      "ids": [
+        1312590
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 186534,
+        "wordfreq": 211356
+      },
+      "alternatives_by_kanji": {
+        "試": [
+          "1312350/試験/しけん",
+          "1312260/試す/ためす",
+          "1312250/試し/ためし"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 69
+}

@@ -1,0 +1,1252 @@
+{
+  "character": "顧",
+  "grade": 7,
+  "meanings": [
+    "look back",
+    "review",
+    "examine oneself",
+    "turn around"
+  ],
+  "strokes": [
+    21
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 181
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "戸",
+    "頁",
+    "隹",
+    "一",
+    "尸"
+  ],
+  "on": [
+    "コ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "かえり.みる",
+      "stem": "かえり",
+      "okurigana": "みる"
+    }
+  ],
+  "nanori": [
+    "たか",
+    "み"
+  ],
+  "government": {
+    "kanji": "顧",
+    "heading": "顧",
+    "readings": [
+      "コ",
+      "かえりみる"
+    ],
+    "examples_by_reading": [
+      [
+        "顧慮",
+        "顧問",
+        "回顧"
+      ],
+      [
+        "顧みる"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔省みる"
+    ],
+    "representative_index": {
+      "kanji": "顧",
+      "reading": "コ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 45,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1267880/顧問/こもん",
+        "1199440/回顧/かいこ",
+        "1267890/顧慮/こりょ",
+        "1578540/顧客/こきゃく",
+        "1150660/愛顧/あいこ",
+        "1578540/顧客/こかく",
+        "1183150/恩顧/おんこ",
+        "1162330/一顧/いっこ",
+        "1269630/後顧/こうこ",
+        "1767320/四顧/しこ"
+      ]
+    },
+    {
+      "reading": "かえりみる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1267870/顧みる/かえりみる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1267880/顧問/こもん",
+    "1267870/顧みる/かえりみる",
+    "1199440/回顧/かいこ",
+    "1267890/顧慮/こりょ",
+    "1578540/顧客/こきゃく",
+    "1150660/愛顧/あいこ",
+    "1578540/顧客/こかく",
+    "1183150/恩顧/おんこ",
+    "1162330/一顧/いっこ",
+    "1269630/後顧/こうこ",
+    "1767320/四顧/しこ",
+    "2626470/眷顧/けんこ",
+    "1651830/後顧の憂い/こうこのうれい",
+    "2850005/一顧だにしない/いっこだにしない",
+    "1934750/顧問弁護士/こもんべんごし",
+    "2854916/ご愛顧/ごあいこ",
+    "2641080/顧客リスト/こきゃくリスト",
+    "2851193/特別顧問/とくべつこもん",
+    "1199450/回顧録/かいころく",
+    "1300320/三顧の礼/さんこのれい",
+    "2868071/顧客情報/こきゃくじょうほう",
+    "2661920/技術顧問/ぎじゅつこもん",
+    "1248170/軍事顧問/ぐんじこもん",
+    "2851679/副顧問/ふくこもん",
+    "2851175/最高顧問/さいこうこもん",
+    "1992380/顧客満足度/こきゃくまんぞくど",
+    "2711250/顧客層/こかくそう",
+    "2629510/顧問官/こもんかん",
+    "2827053/顧問契約/こもんけいやく",
+    "2826930/大口顧客/おおくちこきゃく"
+  ],
+  "candidates": {
+    "1267880/顧問/こもん": {
+      "id": 1267880,
+      "form": "顧問",
+      "kana": "こもん",
+      "gloss": "adviser",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10282,
+        10596,
+        7265,
+        10651
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1267870/顧みる/かえりみる": {
+      "id": 1267870,
+      "form": "顧みる",
+      "kana": "かえりみる",
+      "gloss": "to look back on (the past)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11199,
+        14936,
+        72128,
+        11529
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "かえりみる": {
+          "actual": "かえり",
+          "dictionary": [
+            "かえり.みる"
+          ]
+        }
+      },
+      "official_examples": [
+        "かえりみる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1199440/回顧/かいこ": {
+      "id": 1199440,
+      "form": "回顧",
+      "kana": "かいこ",
+      "gloss": "recollecting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10359,
+        31039,
+        26690,
+        58460
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "回": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1267890/顧慮/こりょ": {
+      "id": 1267890,
+      "form": "顧慮",
+      "kana": "こりょ",
+      "gloss": "concern",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        38596,
+        78424,
+        135895,
+        111735
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慮": 7
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1578540/顧客/こきゃく": {
+      "id": 1578540,
+      "form": "顧客",
+      "kana": "こきゃく",
+      "gloss": "customer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3437,
+        4508,
+        4596,
+        16262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "客": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1150660/愛顧/あいこ": {
+      "id": 1150660,
+      "form": "愛顧",
+      "kana": "あいこ",
+      "gloss": "patronage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38623,
+        34308,
+        36201,
+        131418
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1578540/顧客/こかく": {
+      "id": 1578540,
+      "form": "顧客",
+      "kana": "こかく",
+      "gloss": "customer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3437,
+        4508,
+        4596,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "客": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1183150/恩顧/おんこ": {
+      "id": 1183150,
+      "form": "恩顧",
+      "kana": "おんこ",
+      "gloss": "favour",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        48192,
+        82481,
+        93663
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恩": 6
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1162330/一顧/いっこ": {
+      "id": 1162330,
+      "form": "一顧",
+      "kana": "いっこ",
+      "gloss": "slightest notice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        88001,
+        71851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269630/後顧/こうこ": {
+      "id": 1269630,
+      "form": "後顧",
+      "kana": "こうこ",
+      "gloss": "looking back",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        134699,
+        122273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1767320/四顧/しこ": {
+      "id": 1767320,
+      "form": "四顧",
+      "kana": "しこ",
+      "gloss": "looking everywhere",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        170162
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "四": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2626470/眷顧/けんこ": {
+      "id": 2626470,
+      "form": "眷顧",
+      "kana": "けんこ",
+      "gloss": "favor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        221663
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651830/後顧の憂い/こうこのうれい": {
+      "id": 1651830,
+      "form": "後顧の憂い",
+      "kana": "こうこのうれい",
+      "gloss": "anxiety (about the future)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42619
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "憂": 7
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2850005/一顧だにしない/いっこだにしない": {
+      "id": 2850005,
+      "form": "一顧だにしない",
+      "kana": "いっこだにしない",
+      "gloss": "not taking the slightest notice (of)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1934750/顧問弁護士/こもんべんごし": {
+      "id": 1934750,
+      "form": "顧問弁護士",
+      "kana": "こもんべんごし",
+      "gloss": "legal adviser",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46383
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5,
+        "問": 3,
+        "弁": 5,
+        "護": 5
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854916/ご愛顧/ごあいこ": {
+      "id": 2854916,
+      "form": "ご愛顧",
+      "kana": "ごあいこ",
+      "gloss": "patronage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        52792
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愛": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2641080/顧客リスト/こきゃくリスト": {
+      "id": 2641080,
+      "form": "顧客リスト",
+      "kana": "こきゃくリスト",
+      "gloss": "client list",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71469
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "客": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851193/特別顧問/とくべつこもん": {
+      "id": 2851193,
+      "form": "特別顧問",
+      "kana": "とくべつこもん",
+      "gloss": "special advisor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        81861
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4,
+        "問": 3,
+        "特": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1199450/回顧録/かいころく": {
+      "id": 1199450,
+      "form": "回顧録",
+      "kana": "かいころく",
+      "gloss": "memoirs",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        82569
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "録": 4,
+        "回": 2
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1300320/三顧の礼/さんこのれい": {
+      "id": 1300320,
+      "form": "三顧の礼",
+      "kana": "さんこのれい",
+      "gloss": "showing (someone) special courtesy (to persuade them to take a post)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        84040
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "三": 1,
+        "礼": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2868071/顧客情報/こきゃくじょうほう": {
+      "id": 2868071,
+      "form": "顧客情報",
+      "kana": "こきゃくじょうほう",
+      "gloss": "customer information",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        84294
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "報": 5,
+        "客": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2661920/技術顧問/ぎじゅつこもん": {
+      "id": 2661920,
+      "form": "技術顧問",
+      "kana": "ぎじゅつこもん",
+      "gloss": "technical advisor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        99976
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "技": 5,
+        "問": 3,
+        "術": 5
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1248170/軍事顧問/ぐんじこもん": {
+      "id": 1248170,
+      "form": "軍事顧問",
+      "kana": "ぐんじこもん",
+      "gloss": "military adviser",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        103443
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3,
+        "事": 3,
+        "軍": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851679/副顧問/ふくこもん": {
+      "id": 2851679,
+      "form": "副顧問",
+      "kana": "ふくこもん",
+      "gloss": "assistant counsel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        109925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3,
+        "副": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851175/最高顧問/さいこうこもん": {
+      "id": 2851175,
+      "form": "最高顧問",
+      "kana": "さいこうこもん",
+      "gloss": "senior advisor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        110273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2,
+        "問": 3,
+        "最": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1992380/顧客満足度/こきゃくまんぞくど": {
+      "id": 1992380,
+      "form": "顧客満足度",
+      "kana": "こきゃくまんぞくど",
+      "gloss": "(degree of) customer satisfaction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        115154
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "足": 1,
+        "満": 4,
+        "客": 3,
+        "度": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2711250/顧客層/こかくそう": {
+      "id": 2711250,
+      "form": "顧客層",
+      "kana": "こかくそう",
+      "gloss": "customer base",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        121210
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "層": 6,
+        "客": 3
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2629510/顧問官/こもんかん": {
+      "id": 2629510,
+      "form": "顧問官",
+      "kana": "こもんかん",
+      "gloss": "councillor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        124571
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3,
+        "官": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827053/顧問契約/こもんけいやく": {
+      "id": 2827053,
+      "form": "顧問契約",
+      "kana": "こもんけいやく",
+      "gloss": "consulting agreement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        127167
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3,
+        "契": 7,
+        "約": 4
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826930/大口顧客/おおくちこきゃく": {
+      "id": 2826930,
+      "form": "大口顧客",
+      "kana": "おおくちこきゃく",
+      "gloss": "major customer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        129623
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "口": 1,
+        "客": 3,
+        "大": 1
+      },
+      "matched": {
+        "コ": {
+          "actual": "こ",
+          "dictionary": [
+            "コ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1267880:顧問:こもん",
+      "form": "顧問",
+      "kana": "こもん",
+      "cue": "adviser; advisor",
+      "ids": [
+        1267880
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 10651,
+        "shiberu": 10282,
+        "tubelex": 10596,
+        "wordfreq": 7265
+      },
+      "alternatives_by_kanji": {
+        "問": [
+          "1536010/問題/もんだい",
+          "1518120/訪問/ほうもん",
+          "1536000/問う/とう"
+        ],
+        "顧": [
+          "1267870/顧みる/かえりみる",
+          "1199440/回顧/かいこ",
+          "1267890/顧慮/こりょ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

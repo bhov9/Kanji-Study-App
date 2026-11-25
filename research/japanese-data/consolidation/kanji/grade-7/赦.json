@@ -1,0 +1,808 @@
+{
+  "character": "赦",
+  "grade": 7,
+  "meanings": [
+    "pardon",
+    "forgiveness"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 155
+    }
+  ],
+  "components": [
+    "赤",
+    "土",
+    "攵",
+    "乞"
+  ],
+  "on": [
+    "シャ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ゆる.す",
+      "stem": "ゆる",
+      "okurigana": "す"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "赦",
+    "heading": "赦",
+    "readings": [
+      "シャ"
+    ],
+    "examples_by_reading": [
+      [
+        "赦免",
+        "大赦",
+        "恩赦"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "赦",
+      "reading": "シャ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シャ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1183180/恩赦/おんしゃ",
+        "1322390/赦免/しゃめん",
+        "1413970/大赦/たいしゃ",
+        "1545410/容赦/ようしゃ",
+        "1454960/特赦/とくしゃ",
+        "2842998/赦/しゃ",
+        "1750460/情け容赦/なさけようしゃ",
+        "2837999/情け容赦なく/なさけようしゃなく",
+        "2260250/容赦無く/ようしゃなく",
+        "2438250/赦免状/しゃめんじょう"
+      ]
+    },
+    {
+      "reading": "ゆるす",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1232870/赦す/ゆるす"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1183180/恩赦/おんしゃ",
+    "1322390/赦免/しゃめん",
+    "1413970/大赦/たいしゃ",
+    "1545410/容赦/ようしゃ",
+    "1232870/赦す/ゆるす",
+    "1454960/特赦/とくしゃ",
+    "2842998/赦/しゃ",
+    "1750460/情け容赦/なさけようしゃ",
+    "2837999/情け容赦なく/なさけようしゃなく",
+    "2260250/容赦無く/ようしゃなく",
+    "2438250/赦免状/しゃめんじょう",
+    "2837999/情け容赦無く/なさけようしゃなく",
+    "2561880/天赦日/てんしゃにち",
+    "2260250/容赦なく/ようしゃなく",
+    "2869160/曲赦/きょくしゃ",
+    "1232860/赦し/ゆるし",
+    "2798540/赦しの秘跡/ゆるしのひせき",
+    "2835489/赦書/しゃしょ",
+    "2835488/赦状/しゃじょう"
+  ],
+  "candidates": {
+    "1183180/恩赦/おんしゃ": {
+      "id": 1183180,
+      "form": "恩赦",
+      "kana": "おんしゃ",
+      "gloss": "amnesty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30885,
+        52268,
+        23544,
+        43502
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恩": 6
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シャ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1322390/赦免/しゃめん": {
+      "id": 1322390,
+      "form": "赦免",
+      "kana": "しゃめん",
+      "gloss": "pardon",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21657,
+        36842,
+        49383,
+        65803
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "免": 7
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シャ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1413970/大赦/たいしゃ": {
+      "id": 1413970,
+      "form": "大赦",
+      "kana": "たいしゃ",
+      "gloss": "amnesty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31012,
+        70964,
+        100834,
+        124396
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シャ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1545410/容赦/ようしゃ": {
+      "id": 1545410,
+      "form": "容赦",
+      "kana": "ようしゃ",
+      "gloss": "pardon",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8867,
+        7891,
+        5988,
+        2276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1232870/赦す/ゆるす": {
+      "id": 1232870,
+      "form": "赦す",
+      "kana": "ゆるす",
+      "gloss": "to permit",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10951,
+        null,
+        57615,
+        20609
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゆるす": {
+          "actual": "ゆる",
+          "dictionary": [
+            "ゆる.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1454960/特赦/とくしゃ": {
+      "id": 1454960,
+      "form": "特赦",
+      "kana": "とくしゃ",
+      "gloss": "special pardon",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50803,
+        73498,
+        97806
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "特": 4
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842998/赦/しゃ": {
+      "id": 2842998,
+      "form": "赦",
+      "kana": "しゃ",
+      "gloss": "pardon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        172358,
+        86998
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1750460/情け容赦/なさけようしゃ": {
+      "id": 1750460,
+      "form": "情け容赦",
+      "kana": "なさけようしゃ",
+      "gloss": "mercy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        40776
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "容": 5
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837999/情け容赦なく/なさけようしゃなく": {
+      "id": 2837999,
+      "form": "情け容赦なく",
+      "kana": "なさけようしゃなく",
+      "gloss": "mercilessly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        48080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5,
+        "情": 5
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2260250/容赦無く/ようしゃなく": {
+      "id": 2260250,
+      "form": "容赦無く",
+      "kana": "ようしゃなく",
+      "gloss": "mercilessly",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        58283
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5,
+        "無": 4
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2438250/赦免状/しゃめんじょう": {
+      "id": 2438250,
+      "form": "赦免状",
+      "kana": "しゃめんじょう",
+      "gloss": "letter of pardon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        139059
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5,
+        "免": 7
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2837999/情け容赦無く/なさけようしゃなく": {
+      "id": 2837999,
+      "form": "情け容赦無く",
+      "kana": "なさけようしゃなく",
+      "gloss": "mercilessly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        159489
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5,
+        "無": 4,
+        "情": 5
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2561880/天赦日/てんしゃにち": {
+      "id": 2561880,
+      "form": "天赦日",
+      "kana": "てんしゃにち",
+      "gloss": "auspicious day for any activity (according to the traditional calendar)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        285742
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1,
+        "天": 1
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2260250/容赦なく/ようしゃなく": {
+      "id": 2260250,
+      "form": "容赦なく",
+      "kana": "ようしゃなく",
+      "gloss": "mercilessly",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "容": 5
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2869160/曲赦/きょくしゃ": {
+      "id": 2869160,
+      "form": "曲赦",
+      "kana": "きょくしゃ",
+      "gloss": "special pardon to a specific region (in the ritsuryō system)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "曲": 3
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1232860/赦し/ゆるし": {
+      "id": 1232860,
+      "form": "赦し",
+      "kana": "ゆるし",
+      "gloss": "pardon",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35843,
+        null,
+        32548,
+        37945
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2798540/赦しの秘跡/ゆるしのひせき": {
+      "id": 2798540,
+      "form": "赦しの秘跡",
+      "kana": "ゆるしのひせき",
+      "gloss": "sacrament of penance and reconciliation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        287635
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "秘": 6,
+        "跡": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2835489/赦書/しゃしょ": {
+      "id": 2835489,
+      "form": "赦書",
+      "kana": "しゃしょ",
+      "gloss": "letter of pardon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2835488/赦状/しゃじょう": {
+      "id": 2835488,
+      "form": "赦状",
+      "kana": "しゃじょう",
+      "gloss": "letter of pardon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "状": 5
+      },
+      "matched": {
+        "シャ": {
+          "actual": "しゃ",
+          "dictionary": [
+            "シャ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1232870:赦す:ゆるす",
+      "form": "赦す",
+      "kana": "ゆるす",
+      "cue": "to permit; to allow",
+      "ids": [
+        1232870
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 20609,
+        "shiberu": 10951,
+        "wordfreq": 57615
+      },
+      "alternatives_by_kanji": {
+        "赦": [
+          "1183180/恩赦/おんしゃ",
+          "1322390/赦免/しゃめん",
+          "1413970/大赦/たいしゃ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

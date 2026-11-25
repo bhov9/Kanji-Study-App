@@ -1,0 +1,912 @@
+{
+  "character": "肯",
+  "grade": 7,
+  "meanings": [
+    "agreement",
+    "consent",
+    "comply with"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 130
+    },
+    {
+      "type": "nelson_c",
+      "value": 77
+    }
+  ],
+  "components": [
+    "月",
+    "止"
+  ],
+  "on": [
+    "コウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "がえんじ.る",
+      "stem": "がえんじ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "肯",
+    "heading": "肯",
+    "readings": [
+      "コウ"
+    ],
+    "examples_by_reading": [
+      [
+        "肯定",
+        "首肯"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "肯",
+      "reading": "コウ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1281180/肯定/こうてい",
+        "1329270/首肯/しゅこう",
+        "1760150/肯綮/こうけい",
+        "1281200/肯定的/こうていてき",
+        "2832149/自己肯定感/じここうていかん",
+        "2846227/自己肯定/じここうてい",
+        "1760140/肯定文/こうていぶん",
+        "2683080/肯定命題/こうていめいだい",
+        "1281190/肯定応答/こうていおうとう",
+        "2834853/肯諾/こうだく"
+      ]
+    },
+    {
+      "reading": "がえんじる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1281180/肯定/こうてい",
+    "1329270/首肯/しゅこう",
+    "1760150/肯綮/こうけい",
+    "1281200/肯定的/こうていてき",
+    "2832149/自己肯定感/じここうていかん",
+    "2846227/自己肯定/じここうてい",
+    "1760140/肯定文/こうていぶん",
+    "2683080/肯定命題/こうていめいだい",
+    "1281190/肯定応答/こうていおうとう",
+    "2834853/肯諾/こうだく",
+    "2476590/肯んずる/がえんずる",
+    "2832748/肯んじる/がえんじる",
+    "2832748/肯じる/がえんじる",
+    "2476590/肯ずる/がえんずる",
+    "1574310/肯く/うなずく",
+    "2851392/肯ける/うなずける",
+    "2407950/肯う/うべなう",
+    "1574310/首肯く/うなずく",
+    "2855372/肯う/うけがう",
+    "1574310/肯く/うなづく",
+    "2851392/肯ける/うなづける",
+    "1574310/首肯く/うなづく",
+    "2851392/首肯ける/うなづける",
+    "2851392/首肯ける/うなずける"
+  ],
+  "candidates": {
+    "1281180/肯定/こうてい": {
+      "id": 1281180,
+      "form": "肯定",
+      "kana": "こうてい",
+      "gloss": "affirmation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4403,
+        5562,
+        7896,
+        4386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1329270/首肯/しゅこう": {
+      "id": 1329270,
+      "form": "首肯",
+      "kana": "しゅこう",
+      "gloss": "assent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        93840,
+        22445
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "首": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1760150/肯綮/こうけい": {
+      "id": 1760150,
+      "form": "肯綮",
+      "kana": "こうけい",
+      "gloss": "the essential point",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        204727
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1281200/肯定的/こうていてき": {
+      "id": 1281200,
+      "form": "肯定的",
+      "kana": "こうていてき",
+      "gloss": "affirmative",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        29359
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3,
+        "的": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2832149/自己肯定感/じここうていかん": {
+      "id": 2832149,
+      "form": "自己肯定感",
+      "kana": "じここうていかん",
+      "gloss": "self-esteem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        48150
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "定": 3,
+        "己": 6,
+        "感": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846227/自己肯定/じここうてい": {
+      "id": 2846227,
+      "form": "自己肯定",
+      "kana": "じここうてい",
+      "gloss": "self-affirmation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75408
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "定": 3,
+        "己": 6
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1760140/肯定文/こうていぶん": {
+      "id": 1760140,
+      "form": "肯定文",
+      "kana": "こうていぶん",
+      "gloss": "affirmative sentence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1,
+        "定": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2683080/肯定命題/こうていめいだい": {
+      "id": 2683080,
+      "form": "肯定命題",
+      "kana": "こうていめいだい",
+      "gloss": "affirmative proposition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3,
+        "命": 3,
+        "題": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1281190/肯定応答/こうていおうとう": {
+      "id": 1281190,
+      "form": "肯定応答",
+      "kana": "こうていおうとう",
+      "gloss": "acknowledge",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3,
+        "答": 2,
+        "応": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834853/肯諾/こうだく": {
+      "id": 2834853,
+      "form": "肯諾",
+      "kana": "こうだく",
+      "gloss": "consent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "諾": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2476590/肯んずる/がえんずる": {
+      "id": 2476590,
+      "form": "肯んずる",
+      "kana": "がえんずる",
+      "gloss": "to consent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "vz",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        180051
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2832748/肯んじる/がえんじる": {
+      "id": 2832748,
+      "form": "肯んじる",
+      "kana": "がえんじる",
+      "gloss": "to consent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        123702
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2832748/肯じる/がえんじる": {
+      "id": 2832748,
+      "form": "肯じる",
+      "kana": "がえんじる",
+      "gloss": "to consent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        184024
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2476590/肯ずる/がえんずる": {
+      "id": 2476590,
+      "form": "肯ずる",
+      "kana": "がえんずる",
+      "gloss": "to consent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "vz",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        240798
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1574310/肯く/うなずく": {
+      "id": 1574310,
+      "form": "肯く",
+      "kana": "うなずく",
+      "gloss": "to nod",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        44308
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2851392/肯ける/うなずける": {
+      "id": 2851392,
+      "form": "肯ける",
+      "kana": "うなずける",
+      "gloss": "to (be able to) agree (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        108770
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2407950/肯う/うべなう": {
+      "id": 2407950,
+      "form": "肯う",
+      "kana": "うべなう",
+      "gloss": "to agree (to a proposal, request, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [
+        "dated"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        142175
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1574310/首肯く/うなずく": {
+      "id": 1574310,
+      "form": "首肯く",
+      "kana": "うなずく",
+      "gloss": "to nod",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "ateji",
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        147464
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "首": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2855372/肯う/うけがう": {
+      "id": 2855372,
+      "form": "肯う",
+      "kana": "うけがう",
+      "gloss": "to approve",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [
+        "dated"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        174590
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1574310/肯く/うなづく": {
+      "id": 1574310,
+      "form": "肯く",
+      "kana": "うなづく",
+      "gloss": "to nod",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2851392/肯ける/うなづける": {
+      "id": 2851392,
+      "form": "肯ける",
+      "kana": "うなづける",
+      "gloss": "to (be able to) agree (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1574310/首肯く/うなづく": {
+      "id": 1574310,
+      "form": "首肯く",
+      "kana": "うなづく",
+      "gloss": "to nod",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vi"
+      ],
+      "flags": [
+        "ateji",
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "首": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2851392/首肯ける/うなづける": {
+      "id": 2851392,
+      "form": "首肯ける",
+      "kana": "うなづける",
+      "gloss": "to (be able to) agree (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "首": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2851392/首肯ける/うなずける": {
+      "id": 2851392,
+      "form": "首肯ける",
+      "kana": "うなずける",
+      "gloss": "to (be able to) agree (with)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "首": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1281180:肯定:こうてい",
+      "form": "肯定",
+      "kana": "こうてい",
+      "cue": "affirmation",
+      "ids": [
+        1281180
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4386,
+        "shiberu": 4403,
+        "tubelex": 5562,
+        "wordfreq": 7896
+      },
+      "alternatives_by_kanji": {
+        "定": [
+          "1254380/決定/けってい",
+          "1154120/安定/あんてい",
+          "1435380/定める/さだめる"
+        ],
+        "肯": [
+          "1329270/首肯/しゅこう",
+          "1760150/肯綮/こうけい",
+          "1281200/肯定的/こうていてき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 14
+}

@@ -1,0 +1,439 @@
+{
+  "character": "頒",
+  "grade": 7,
+  "meanings": [
+    "distribute",
+    "disseminate",
+    "partition",
+    "understand"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 181
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "刀",
+    "ハ",
+    "頁"
+  ],
+  "on": [
+    "ハン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "わ.かつ",
+      "stem": "わ",
+      "okurigana": "かつ"
+    },
+    {
+      "sourceNotation": "わ.ける",
+      "stem": "わ",
+      "okurigana": "ける"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "頒",
+    "heading": "頒",
+    "readings": [
+      "ハン"
+    ],
+    "examples_by_reading": [
+      [
+        "頒布",
+        "頒価"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "頒",
+      "reading": "ハン",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ハン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1482000/頒布/はんぷ",
+        "1902810/頒価/はんか",
+        "2748170/頒布会/はんぷかい",
+        "1983620/頒布権/はんぷけん",
+        "1479850/頒白/はんぱく",
+        "1902890/頒行/はんこう"
+      ]
+    },
+    {
+      "reading": "わかつ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "わける",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1503000/頒ける/わける"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1482000/頒布/はんぷ",
+    "1902810/頒価/はんか",
+    "1503000/頒ける/わける",
+    "2748170/頒布会/はんぷかい",
+    "1983620/頒布権/はんぷけん",
+    "1479850/頒白/はんぱく",
+    "1902890/頒行/はんこう",
+    "2760620/頒つ/あかつ"
+  ],
+  "candidates": {
+    "1482000/頒布/はんぷ": {
+      "id": 1482000,
+      "form": "頒布",
+      "kana": "はんぷ",
+      "gloss": "distribution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13354,
+        36283,
+        16052,
+        57503
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1902810/頒価/はんか": {
+      "id": 1902810,
+      "form": "頒価",
+      "kana": "はんか",
+      "gloss": "distribution price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        164653,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "価": 5
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1503000/頒ける/わける": {
+      "id": 1503000,
+      "form": "頒ける",
+      "kana": "わける",
+      "gloss": "to divide (into)",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        186890
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "わける": {
+          "actual": "わ",
+          "dictionary": [
+            "わ.ける"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2748170/頒布会/はんぷかい": {
+      "id": 2748170,
+      "form": "頒布会",
+      "kana": "はんぷかい",
+      "gloss": "buying club (e.g. fruit-of-the-month)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        215637
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5,
+        "会": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1983620/頒布権/はんぷけん": {
+      "id": 1983620,
+      "form": "頒布権",
+      "kana": "はんぷけん",
+      "gloss": "(movie) distribution rights",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "布": 5,
+        "権": 6
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1479850/頒白/はんぱく": {
+      "id": 1479850,
+      "form": "頒白",
+      "kana": "はんぱく",
+      "gloss": "grayish color",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "白": 1
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1902890/頒行/はんこう": {
+      "id": 1902890,
+      "form": "頒行",
+      "kana": "はんこう",
+      "gloss": "circulation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "ハン": {
+          "actual": "はん",
+          "dictionary": [
+            "ハン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2760620/頒つ/あかつ": {
+      "id": 2760620,
+      "form": "頒つ",
+      "kana": "あかつ",
+      "gloss": "to divide",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v4t",
+        "vt"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        139593,
+        null,
+        155628
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1503000:頒ける:わける",
+      "form": "頒ける",
+      "kana": "わける",
+      "cue": "to divide (into); to split (into)",
+      "ids": [
+        1503000
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 186890
+      },
+      "alternatives_by_kanji": {
+        "頒": [
+          "1482000/頒布/はんぷ",
+          "1902810/頒価/はんか",
+          "2748170/頒布会/はんぷかい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

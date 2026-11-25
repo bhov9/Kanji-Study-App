@@ -1,0 +1,753 @@
+{
+  "character": "栃",
+  "grade": 4,
+  "meanings": [
+    "horse chestnut",
+    "(kokuji)"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "斤",
+    "木",
+    "厂"
+  ],
+  "on": [],
+  "kun": [
+    {
+      "sourceNotation": "とち",
+      "stem": "とち",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "栃",
+    "heading": "栃",
+    "readings": [
+      "とち"
+    ],
+    "examples_by_reading": [
+      []
+    ],
+    "note_lines": [
+      "栃木県"
+    ],
+    "representative_index": {
+      "kanji": "栃",
+      "reading": "とち",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "とち",
+      "official": true,
+      "stage": "elementary",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "2845112/栃木/とちぎ",
+        "1456480/栃木県/とちぎけん",
+        "5743548/栃木県警/とちぎけんけい",
+        "2780600/栃の実/とちのみ",
+        "2811630/栃餅/とちもち",
+        "2409280/栃栗毛/とちくりげ",
+        "2811630/栃もち/とちもち",
+        "2576350/栃麺棒/とちめんぼう",
+        "1456480/栃木縣/とちぎけん",
+        "5567855/栃木県立美術館/とちぎけんりつびじゅつかん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "2845112/栃木/とちぎ",
+    "1456480/栃木県/とちぎけん",
+    "5743548/栃木県警/とちぎけんけい",
+    "2780600/栃の実/とちのみ",
+    "2811630/栃餅/とちもち",
+    "2409280/栃栗毛/とちくりげ",
+    "2811630/栃もち/とちもち",
+    "2576350/栃麺棒/とちめんぼう",
+    "1456480/栃木縣/とちぎけん",
+    "5567855/栃木県立美術館/とちぎけんりつびじゅつかん",
+    "2024220/栃若/とちわか",
+    "2024290/栃若時代/とちわかじだい",
+    "2576340/栃麺/とちめん",
+    "1922090/栃/とち",
+    "1922090/栃の木/とちのき",
+    "2829122/西洋栃の木/せいようとちのき",
+    "2171170/栃葉人参/とちばにんじん",
+    "1922090/栃/とちのき"
+  ],
+  "candidates": {
+    "2845112/栃木/とちぎ": {
+      "id": 2845112,
+      "form": "栃木",
+      "kana": "とちぎ",
+      "gloss": "Tochigi (city, prefecture)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15303,
+        null,
+        4669,
+        49315
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456480/栃木県/とちぎけん": {
+      "id": 1456480,
+      "form": "栃木県",
+      "kana": "とちぎけん",
+      "gloss": "Tochigi Prefecture (Kanto area)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60489
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "県": 3,
+        "木": 1
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5743548/栃木県警/とちぎけんけい": {
+      "id": 5743548,
+      "form": "栃木県警",
+      "kana": "とちぎけんけい",
+      "gloss": "Tochigi Prefectural Police (abbr)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        190095
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "県": 3,
+        "木": 1,
+        "警": 6
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2780600/栃の実/とちのみ": {
+      "id": 2780600,
+      "form": "栃の実",
+      "kana": "とちのみ",
+      "gloss": "chestnut",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        206321
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2811630/栃餅/とちもち": {
+      "id": 2811630,
+      "form": "栃餅",
+      "kana": "とちもち",
+      "gloss": "cake made from pounded horse chestnuts and mochi rice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        280821
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "餅": 7
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2409280/栃栗毛/とちくりげ": {
+      "id": 2409280,
+      "form": "栃栗毛",
+      "kana": "とちくりげ",
+      "gloss": "dark chestnut (horse coat color)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "毛": 2
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2811630/栃もち/とちもち": {
+      "id": 2811630,
+      "form": "栃もち",
+      "kana": "とちもち",
+      "gloss": "cake made from pounded horse chestnuts and mochi rice",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2576350/栃麺棒/とちめんぼう": {
+      "id": 2576350,
+      "form": "栃麺棒",
+      "kana": "とちめんぼう",
+      "gloss": "rolling pin for making horse chestnut noodles",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "麺": 7,
+        "棒": 6
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1456480/栃木縣/とちぎけん": {
+      "id": 1456480,
+      "form": "栃木縣",
+      "kana": "とちぎけん",
+      "gloss": "Tochigi Prefecture (Kanto area)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5567855/栃木県立美術館/とちぎけんりつびじゅつかん": {
+      "id": 5567855,
+      "form": "栃木県立美術館",
+      "kana": "とちぎけんりつびじゅつかん",
+      "gloss": "Tochigi Prefectural Museum of Fine Arts",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "館": 3,
+        "木": 1,
+        "立": 1,
+        "術": 5,
+        "県": 3,
+        "美": 3
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2024220/栃若/とちわか": {
+      "id": 2024220,
+      "form": "栃若",
+      "kana": "とちわか",
+      "gloss": "Tochinishiki and Wakanohana I (dominant 1950s yokozuna)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "若": 6
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2024290/栃若時代/とちわかじだい": {
+      "id": 2024290,
+      "form": "栃若時代",
+      "kana": "とちわかじだい",
+      "gloss": "era during the 1950s dominated by grand champions Tochinishiki and Wakanohana I",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "時": 2,
+        "代": 3,
+        "若": 6
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2576340/栃麺/とちめん": {
+      "id": 2576340,
+      "form": "栃麺",
+      "kana": "とちめん",
+      "gloss": "noodles made from regular flour and horse chestnut flour",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "麺": 7
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1922090/栃/とち": {
+      "id": 1922090,
+      "form": "栃",
+      "kana": "とち",
+      "gloss": "Japanese horse chestnut (Aesculus turbinata)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        33437,
+        null,
+        21173,
+        158295
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1922090/栃の木/とちのき": {
+      "id": 1922090,
+      "form": "栃の木",
+      "kana": "とちのき",
+      "gloss": "Japanese horse chestnut (Aesculus turbinata)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        89646,
+        173990,
+        240218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2829122/西洋栃の木/せいようとちのき": {
+      "id": 2829122,
+      "form": "西洋栃の木",
+      "kana": "せいようとちのき",
+      "gloss": "horse chestnut (Aesculus hippocastanum)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "洋": 3,
+        "木": 1,
+        "西": 2
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2171170/栃葉人参/とちばにんじん": {
+      "id": 2171170,
+      "form": "栃葉人参",
+      "kana": "とちばにんじん",
+      "gloss": "Japanese ginseng (Panax japonicus)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "参": 4,
+        "人": 1,
+        "葉": 3
+      },
+      "matched": {
+        "とち": {
+          "actual": "とち",
+          "dictionary": [
+            "とち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1922090/栃/とちのき": {
+      "id": 1922090,
+      "form": "栃",
+      "kana": "とちのき",
+      "gloss": "Japanese horse chestnut (Aesculus turbinata)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        33437,
+        null,
+        21173,
+        107610
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1922090:栃:とち",
+      "form": "栃",
+      "kana": "とち",
+      "cue": "Japanese horse chestnut (Aesculus turbinata)",
+      "ids": [
+        1922090
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 158295,
+        "shiberu": 33437,
+        "wordfreq": 21173
+      },
+      "alternatives_by_kanji": {
+        "栃": [
+          "2845112/栃木/とちぎ",
+          "1456480/栃木県/とちぎけん",
+          "5743548/栃木県警/とちぎけんけい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

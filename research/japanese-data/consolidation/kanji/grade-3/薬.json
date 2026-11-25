@@ -1,0 +1,1455 @@
+{
+  "character": "薬",
+  "grade": 3,
+  "meanings": [
+    "medicine",
+    "chemical",
+    "enamel",
+    "gunpowder",
+    "benefit"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 140
+    }
+  ],
+  "components": [
+    "日",
+    "木",
+    "冫",
+    "艾"
+  ],
+  "on": [
+    "ヤク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "くすり",
+      "stem": "くすり",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "み"
+  ],
+  "government": {
+    "kanji": "薬",
+    "heading": "薬（藥）",
+    "readings": [
+      "ヤク",
+      "くすり"
+    ],
+    "examples_by_reading": [
+      [
+        "薬剤",
+        "薬局",
+        "火薬"
+      ],
+      [
+        "薬",
+        "飲み薬"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "薬",
+      "reading": "ヤク",
+      "source": "table_36_ya.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヤク",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 353,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1538200/薬局/やっきょく",
+        "1194260/火薬/かやく",
+        "1538220/薬剤/やくざい",
+        "2220820/薬/やく",
+        "1524440/麻薬/まやく",
+        "1538300/薬物/やくぶつ",
+        "1538280/薬品/やくひん",
+        "1470780/農薬/のうやく",
+        "1419520/弾薬/だんやく",
+        "1380830/製薬/せいやく"
+      ]
+    },
+    {
+      "reading": "くすり",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 24,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1169860/飲み薬/のみぐすり",
+        "1538160/薬/くすり",
+        "1538250/薬指/くすりゆび",
+        "1538170/薬屋/くすりや",
+        "1538270/薬箱/くすりばこ",
+        "2866733/薬売り/くすりうり",
+        "1796570/薬代/くすりだい",
+        "1650450/薬湯/くすりゆ",
+        "2682660/薬漬け/くすりづけ",
+        "1796740/薬瓶/くすりびん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1538200/薬局/やっきょく",
+    "1194260/火薬/かやく",
+    "1538220/薬剤/やくざい",
+    "1169860/飲み薬/のみぐすり",
+    "1538160/薬/くすり",
+    "2220820/薬/やく",
+    "1524440/麻薬/まやく",
+    "1538300/薬物/やくぶつ",
+    "1538280/薬品/やくひん",
+    "1470780/農薬/のうやく",
+    "1419520/弾薬/だんやく",
+    "1380830/製薬/せいやく",
+    "1160100/医薬/いやく",
+    "1538250/薬指/くすりゆび",
+    "1538260/薬草/やくそう",
+    "1475980/爆薬/ばくやく",
+    "1538310/薬味/やくみ",
+    "1455640/毒薬/どくやく",
+    "1796580/薬用/やくよう",
+    "1538190/薬学/やくがく",
+    "1447370/投薬/とうやく",
+    "1720620/新薬/しんやく",
+    "1538170/薬屋/くすりや",
+    "1853870/生薬/しょうやく",
+    "1253540/劇薬/げきやく",
+    "1216760/丸薬/がんやく",
+    "1775400/良薬/りょうやく",
+    "1528550/妙薬/みょうやく",
+    "1488560/百薬/ひゃくやく",
+    "1796800/薬種/やくしゅ"
+  ],
+  "candidates": {
+    "1538200/薬局/やっきょく": {
+      "id": 1538200,
+      "form": "薬局",
+      "kana": "やっきょく",
+      "gloss": "pharmacy",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5272,
+        9154,
+        9302,
+        23437
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "局": 3
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ヤク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1194260/火薬/かやく": {
+      "id": 1194260,
+      "form": "火薬",
+      "kana": "かやく",
+      "gloss": "gunpowder",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6704,
+        8477,
+        13682,
+        12946
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヤク"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1538220/薬剤/やくざい": {
+      "id": 1538220,
+      "form": "薬剤",
+      "kana": "やくざい",
+      "gloss": "medicine",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10383,
+        8688,
+        12695,
+        28884
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "剤": 7
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヤク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1169860/飲み薬/のみぐすり": {
+      "id": 1169860,
+      "form": "飲み薬",
+      "kana": "のみぐすり",
+      "gloss": "oral medicine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29494,
+        null,
+        58398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飲": 3
+      },
+      "matched": {
+        "くすり": {
+          "actual": "ぐすり",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "くすり"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1538160/薬/くすり": {
+      "id": 1538160,
+      "form": "薬",
+      "kana": "くすり",
+      "gloss": "medicine",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        1434
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [
+        "くすり"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2220820/薬/やく": {
+      "id": 2220820,
+      "form": "薬",
+      "kana": "やく",
+      "gloss": "dope",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        208672
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [
+        "くすり"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1524440/麻薬/まやく": {
+      "id": 1524440,
+      "form": "麻薬",
+      "kana": "まやく",
+      "gloss": "narcotic",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4640,
+        12509,
+        6263,
+        14654
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "麻": 7
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1538300/薬物/やくぶつ": {
+      "id": 1538300,
+      "form": "薬物",
+      "kana": "やくぶつ",
+      "gloss": "drug",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8892,
+        9457,
+        5346,
+        16513
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1538280/薬品/やくひん": {
+      "id": 1538280,
+      "form": "薬品",
+      "kana": "やくひん",
+      "gloss": "medicine",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8032,
+        11189,
+        10540,
+        12367
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "品": 3
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1470780/農薬/のうやく": {
+      "id": 1470780,
+      "form": "農薬",
+      "kana": "のうやく",
+      "gloss": "agricultural chemical",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10434,
+        10075,
+        12275,
+        48732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1419520/弾薬/だんやく": {
+      "id": 1419520,
+      "form": "弾薬",
+      "kana": "だんやく",
+      "gloss": "ammunition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18704,
+        9315,
+        9888,
+        27491
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弾": 7
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1380830/製薬/せいやく": {
+      "id": 1380830,
+      "form": "製薬",
+      "kana": "せいやく",
+      "gloss": "medicine manufacture",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27156,
+        13335,
+        10217,
+        33221
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "製": 5
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1160100/医薬/いやく": {
+      "id": 1160100,
+      "form": "医薬",
+      "kana": "いやく",
+      "gloss": "medicine",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17092,
+        9718,
+        18794,
+        68983
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "医": 3
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538250/薬指/くすりゆび": {
+      "id": 1538250,
+      "form": "薬指",
+      "kana": "くすりゆび",
+      "gloss": "ring finger",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14946,
+        11111,
+        29477,
+        14597
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "指": 3
+      },
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538260/薬草/やくそう": {
+      "id": 1538260,
+      "form": "薬草",
+      "kana": "やくそう",
+      "gloss": "medicinal herb",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32488,
+        10191,
+        26068,
+        12971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "草": 1
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1475980/爆薬/ばくやく": {
+      "id": 1475980,
+      "form": "爆薬",
+      "kana": "ばくやく",
+      "gloss": "explosive",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17267,
+        19505,
+        22895,
+        22126
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "爆": 7
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538310/薬味/やくみ": {
+      "id": 1538310,
+      "form": "薬味",
+      "kana": "やくみ",
+      "gloss": "condiment (e.g. grated or chopped topping such as daikon, wasabi, ginger, green onion, red pepper)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24086,
+        13741,
+        30598,
+        40432
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "味": 3
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1455640/毒薬/どくやく": {
+      "id": 1455640,
+      "form": "毒薬",
+      "kana": "どくやく",
+      "gloss": "poison",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16373,
+        24703,
+        36648,
+        26428
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "毒": 5
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1796580/薬用/やくよう": {
+      "id": 1796580,
+      "form": "薬用",
+      "kana": "やくよう",
+      "gloss": "medicinal use",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        32881,
+        22424,
+        18515,
+        60985
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538190/薬学/やくがく": {
+      "id": 1538190,
+      "form": "薬学",
+      "kana": "やくがく",
+      "gloss": "(study of) pharmacy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27283,
+        24494,
+        21741,
+        42028
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1447370/投薬/とうやく": {
+      "id": 1447370,
+      "form": "投薬",
+      "kana": "とうやく",
+      "gloss": "administration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        26221,
+        25936,
+        23842,
+        35437
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "投": 3
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1720620/新薬/しんやく": {
+      "id": 1720620,
+      "form": "新薬",
+      "kana": "しんやく",
+      "gloss": "new medicine",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25783,
+        30504,
+        22895,
+        34236
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538170/薬屋/くすりや": {
+      "id": 1538170,
+      "form": "薬屋",
+      "kana": "くすりや",
+      "gloss": "pharmacy",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19508,
+        31364,
+        52075,
+        34628
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1853870/生薬/しょうやく": {
+      "id": 1853870,
+      "form": "生薬",
+      "kana": "しょうやく",
+      "gloss": "crude drug",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24274,
+        29981,
+        32914,
+        60792
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1253540/劇薬/げきやく": {
+      "id": 1253540,
+      "form": "劇薬",
+      "kana": "げきやく",
+      "gloss": "powerful medicine",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37954,
+        36283,
+        48867,
+        31996
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "劇": 6
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1216760/丸薬/がんやく": {
+      "id": 1216760,
+      "form": "丸薬",
+      "kana": "がんやく",
+      "gloss": "pill",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31216,
+        62423,
+        72835,
+        48208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丸": 2
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1775400/良薬/りょうやく": {
+      "id": 1775400,
+      "form": "良薬",
+      "kana": "りょうやく",
+      "gloss": "good medicine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32645,
+        65459,
+        72835,
+        66072
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "良": 4
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1528550/妙薬/みょうやく": {
+      "id": 1528550,
+      "form": "妙薬",
+      "kana": "みょうやく",
+      "gloss": "wonder drug",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38510,
+        68915,
+        55944,
+        54036
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "妙": 7
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1488560/百薬/ひゃくやく": {
+      "id": 1488560,
+      "form": "百薬",
+      "kana": "ひゃくやく",
+      "gloss": "sundry remedies",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33638,
+        95069,
+        78707,
+        169896
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "百": 1
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1796800/薬種/やくしゅ": {
+      "id": 1796800,
+      "form": "薬種",
+      "kana": "やくしゅ",
+      "gloss": "drugs",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40588,
+        101749,
+        118546,
+        91236
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4
+      },
+      "matched": {
+        "ヤク": {
+          "actual": "やく",
+          "dictionary": [
+            "ヤク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538270/薬箱/くすりばこ": {
+      "id": 1538270,
+      "form": "薬箱",
+      "kana": "くすりばこ",
+      "gloss": "medicine box",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30341,
+        68915,
+        null,
+        46345
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "箱": 3
+      },
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2866733/薬売り/くすりうり": {
+      "id": 2866733,
+      "form": "薬売り",
+      "kana": "くすりうり",
+      "gloss": "traveling patent-medicine salesman",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39674,
+        70964,
+        null,
+        69189
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "売": 2
+      },
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1796570/薬代/くすりだい": {
+      "id": 1796570,
+      "form": "薬代",
+      "kana": "くすりだい",
+      "gloss": "charge for medicine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        57615,
+        51155
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1650450/薬湯/くすりゆ": {
+      "id": 1650450,
+      "form": "薬湯",
+      "kana": "くすりゆ",
+      "gloss": "medicated bath",
+      "senses": [
+        0,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        70104,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "湯": 3
+      },
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2682660/薬漬け/くすりづけ": {
+      "id": 2682660,
+      "form": "薬漬け",
+      "kana": "くすりづけ",
+      "gloss": "overprescription",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        49441,
+        null,
+        54349
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "漬": 7
+      },
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1796740/薬瓶/くすりびん": {
+      "id": 1796740,
+      "form": "薬瓶",
+      "kana": "くすりびん",
+      "gloss": "medicine bottle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        null,
+        48169
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "瓶": 7
+      },
+      "matched": {
+        "くすり": {
+          "actual": "くすり",
+          "dictionary": [
+            "くすり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1524440:麻薬:まやく",
+      "form": "麻薬",
+      "kana": "まやく",
+      "cue": "narcotic; drug",
+      "ids": [
+        1524440
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 14654,
+        "shiberu": 4640,
+        "tubelex": 12509,
+        "wordfreq": 6263
+      },
+      "alternatives_by_kanji": {
+        "薬": [
+          "1538200/薬局/やっきょく",
+          "1194260/火薬/かやく",
+          "1538220/薬剤/やくざい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1538160:薬:くすり",
+      "form": "薬",
+      "kana": "くすり",
+      "cue": "medicine; pharmaceuticals",
+      "ids": [
+        1538160
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1434,
+        "shiberu": 726,
+        "tubelex": 1163,
+        "wordfreq": 927
+      },
+      "alternatives_by_kanji": {
+        "薬": [
+          "1538200/薬局/やっきょく",
+          "1194260/火薬/かやく",
+          "1538220/薬剤/やくざい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 137
+}

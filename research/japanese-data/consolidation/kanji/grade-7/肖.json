@@ -1,0 +1,465 @@
+{
+  "character": "肖",
+  "grade": 7,
+  "meanings": [
+    "resemblance"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 130
+    },
+    {
+      "type": "nelson_c",
+      "value": 42
+    }
+  ],
+  "components": [
+    "月",
+    "尚"
+  ],
+  "on": [
+    "ショウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あやか.る",
+      "stem": "あやか",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "肖",
+    "heading": "肖",
+    "readings": [
+      "ショウ"
+    ],
+    "examples_by_reading": [
+      [
+        "肖像",
+        "不肖"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "肖",
+      "reading": "ショウ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ショウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1351460/肖像/しょうぞう",
+        "1351470/肖像画/しょうぞうが",
+        "1742910/肖像権/しょうぞうけん",
+        "1492950/不肖私/ふしょうわたくし",
+        "2686330/肖像画家/しょうぞうがか",
+        "1492950/不肖わたくし/ふしょうわたくし",
+        "1492940/不肖/ふしょう"
+      ]
+    },
+    {
+      "reading": "あやかる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1351450/肖る/あやかる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1351460/肖像/しょうぞう",
+    "1351470/肖像画/しょうぞうが",
+    "1742910/肖像権/しょうぞうけん",
+    "1492950/不肖私/ふしょうわたくし",
+    "2686330/肖像画家/しょうぞうがか",
+    "1492950/不肖わたくし/ふしょうわたくし",
+    "1492940/不肖/ふしょう",
+    "1351450/肖る/あやかる",
+    "1742900/肖り者/あやかりもの"
+  ],
+  "candidates": {
+    "1351460/肖像/しょうぞう": {
+      "id": 1351460,
+      "form": "肖像",
+      "kana": "しょうぞう",
+      "gloss": "portrait",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4832,
+        13194,
+        13281,
+        38087
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "像": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1351470/肖像画/しょうぞうが": {
+      "id": 1351470,
+      "form": "肖像画",
+      "kana": "しょうぞうが",
+      "gloss": "portrait",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        21681
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2,
+        "像": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1742910/肖像権/しょうぞうけん": {
+      "id": 1742910,
+      "form": "肖像権",
+      "kana": "しょうぞうけん",
+      "gloss": "rights to usage of one's likeness",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        58309
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "像": 5,
+        "権": 6
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1492950/不肖私/ふしょうわたくし": {
+      "id": 1492950,
+      "form": "不肖私",
+      "kana": "ふしょうわたくし",
+      "gloss": "I",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "pn"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        129685
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "私": 6
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2686330/肖像画家/しょうぞうがか": {
+      "id": 2686330,
+      "form": "肖像画家",
+      "kana": "しょうぞうがか",
+      "gloss": "portrait painter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        162485
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2,
+        "画": 2,
+        "像": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1492950/不肖わたくし/ふしょうわたくし": {
+      "id": 1492950,
+      "form": "不肖わたくし",
+      "kana": "ふしょうわたくし",
+      "gloss": "I",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "pn"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        176405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1492940/不肖/ふしょう": {
+      "id": 1492940,
+      "form": "不肖",
+      "kana": "ふしょう",
+      "gloss": "unworthy (of one's father, teacher, etc.)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        54711,
+        77923,
+        18720
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1351450/肖る/あやかる": {
+      "id": 1351450,
+      "form": "肖る",
+      "kana": "あやかる",
+      "gloss": "to share (someone's) good luck",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        27865,
+        null,
+        null,
+        83098
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あやかる": {
+          "actual": "あやか",
+          "dictionary": [
+            "あやか.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1742900/肖り者/あやかりもの": {
+      "id": 1742900,
+      "form": "肖り者",
+      "kana": "あやかりもの",
+      "gloss": "enviably fortunate person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1351460:肖像:しょうぞう",
+      "form": "肖像",
+      "kana": "しょうぞう",
+      "cue": "portrait; likeness",
+      "ids": [
+        1351460
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 38087,
+        "shiberu": 4832,
+        "tubelex": 13194,
+        "wordfreq": 13281
+      },
+      "alternatives_by_kanji": {
+        "像": [
+          "1399610/想像/そうぞう",
+          "1263800/現像/げんぞう",
+          "1197390/画像/がぞう"
+        ],
+        "肖": [
+          "1351470/肖像画/しょうぞうが",
+          "1742910/肖像権/しょうぞうけん",
+          "1492950/不肖私/ふしょうわたくし"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

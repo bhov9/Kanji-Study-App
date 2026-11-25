@@ -1,0 +1,1268 @@
+{
+  "character": "概",
+  "grade": 7,
+  "meanings": [
+    "outline",
+    "condition",
+    "approximation",
+    "generally"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "牙",
+    "艮",
+    "木"
+  ],
+  "on": [
+    "ガイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おおむ.ね",
+      "stem": "おおむ",
+      "okurigana": "ね"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "概",
+    "heading": "概（槪）",
+    "readings": [
+      "ガイ"
+    ],
+    "examples_by_reading": [
+      [
+        "概念",
+        "大概",
+        "概して"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "概",
+      "reading": "ガイ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 45,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1204480/概念/がいねん",
+        "1413230/大概/たいがい",
+        "1204400/概して/がいして",
+        "1204500/概要/がいよう",
+        "1204510/概略/がいりゃく",
+        "1204450/概算/がいさん",
+        "1221990/気概/きがい",
+        "1204430/概観/がいかん",
+        "1204470/概説/がいせつ",
+        "1279650/梗概/こうがい"
+      ]
+    },
+    {
+      "reading": "おおむね",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1204410/概ね/おおむね"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1204480/概念/がいねん",
+    "1413230/大概/たいがい",
+    "1204400/概して/がいして",
+    "1204500/概要/がいよう",
+    "1204510/概略/がいりゃく",
+    "1204450/概算/がいさん",
+    "1221990/気概/きがい",
+    "1204430/概観/がいかん",
+    "1204470/概説/がいせつ",
+    "1279650/梗概/こうがい",
+    "1204520/概論/がいろん",
+    "1204440/概況/がいきょう",
+    "1204460/概数/がいすう",
+    "1204420/概括/がいかつ",
+    "1161390/一概に/いちがいに",
+    "1790830/概念的/がいねんてき",
+    "2068720/大概にする/たいがいにする",
+    "1204490/概評/がいひょう",
+    "1932680/既成概念/きせいがいねん",
+    "2844788/概要欄/がいようらん",
+    "1219210/基本概念/きほんがいねん",
+    "2242010/概念化/がいねんか",
+    "2862972/概要書/がいようしょ",
+    "2702710/抽象概念/ちゅうしょうがいねん",
+    "2844621/概念図/がいねんず",
+    "1198580/会社概要/かいしゃがいよう",
+    "1938590/上位概念/じょういがいねん",
+    "2049850/対立概念/たいりつがいねん",
+    "2132180/新概念/しんがいねん",
+    "1833620/天気概況/てんきがいきょう"
+  ],
+  "candidates": {
+    "1204480/概念/がいねん": {
+      "id": 1204480,
+      "form": "概念",
+      "kana": "がいねん",
+      "gloss": "general idea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3331,
+        3640,
+        3167,
+        5935
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1413230/大概/たいがい": {
+      "id": 1413230,
+      "form": "大概",
+      "kana": "たいがい",
+      "gloss": "generally",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        10315,
+        9592,
+        12892,
+        9045
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1204400/概して/がいして": {
+      "id": 1204400,
+      "form": "概して",
+      "kana": "がいして",
+      "gloss": "generally",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        5772,
+        45909,
+        35359,
+        61512
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1204500/概要/がいよう": {
+      "id": 1204500,
+      "form": "概要",
+      "kana": "がいよう",
+      "gloss": "outline",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14456,
+        1132,
+        5679,
+        13628
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "要": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1204510/概略/がいりゃく": {
+      "id": 1204510,
+      "form": "概略",
+      "kana": "がいりゃく",
+      "gloss": "outline",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        15599,
+        29981,
+        23216,
+        51439
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "略": 5
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204450/概算/がいさん": {
+      "id": 1204450,
+      "form": "概算",
+      "kana": "がいさん",
+      "gloss": "approximation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22426,
+        16165,
+        31791,
+        46762
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "算": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1221990/気概/きがい": {
+      "id": 1221990,
+      "form": "気概",
+      "kana": "きがい",
+      "gloss": "strong spirit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38544,
+        22585,
+        27689,
+        14750
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204430/概観/がいかん": {
+      "id": 1204430,
+      "form": "概観",
+      "kana": "がいかん",
+      "gloss": "general view",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18347,
+        57577,
+        36201,
+        108501
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "観": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204470/概説/がいせつ": {
+      "id": 1204470,
+      "form": "概説",
+      "kana": "がいせつ",
+      "gloss": "overview",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28266,
+        62423,
+        46874,
+        112617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279650/梗概/こうがい": {
+      "id": 1279650,
+      "form": "梗概",
+      "kana": "こうがい",
+      "gloss": "outline",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39557,
+        109954,
+        93020,
+        117723
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "梗": 7
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204520/概論/がいろん": {
+      "id": 1204520,
+      "form": "概論",
+      "kana": "がいろん",
+      "gloss": "introduction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        35006,
+        39319,
+        66754
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "論": 6
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204440/概況/がいきょう": {
+      "id": 1204440,
+      "form": "概況",
+      "kana": "がいきょう",
+      "gloss": "outlook",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        46460,
+        37490,
+        123981
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "況": 7
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204460/概数/がいすう": {
+      "id": 1204460,
+      "form": "概数",
+      "kana": "がいすう",
+      "gloss": "approximate figure",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43098,
+        125270,
+        180625
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204420/概括/がいかつ": {
+      "id": 1204420,
+      "form": "概括",
+      "kana": "がいかつ",
+      "gloss": "summary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        84816,
+        146761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "括": 7
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1161390/一概に/いちがいに": {
+      "id": 1161390,
+      "form": "一概に",
+      "kana": "いちがいに",
+      "gloss": "unconditionally",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        25040,
+        18668
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1790830/概念的/がいねんてき": {
+      "id": 1790830,
+      "form": "概念的",
+      "kana": "がいねんてき",
+      "gloss": "general",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        52075,
+        52291
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "的": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2068720/大概にする/たいがいにする": {
+      "id": 2068720,
+      "form": "大概にする",
+      "kana": "たいがいにする",
+      "gloss": "to stay within bounds",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        21836
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204490/概評/がいひょう": {
+      "id": 1204490,
+      "form": "概評",
+      "kana": "がいひょう",
+      "gloss": "general view",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "評": 5
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1932680/既成概念/きせいがいねん": {
+      "id": 1932680,
+      "form": "既成概念",
+      "kana": "きせいがいねん",
+      "gloss": "stereotype",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        75897
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4,
+        "念": 4,
+        "既": 7
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2844788/概要欄/がいようらん": {
+      "id": 2844788,
+      "form": "概要欄",
+      "kana": "がいようらん",
+      "gloss": "description box (e.g. on a website)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        84085
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "要": 4,
+        "欄": 7
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1219210/基本概念/きほんがいねん": {
+      "id": 1219210,
+      "form": "基本概念",
+      "kana": "きほんがいねん",
+      "gloss": "basic concept",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        116955
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "本": 1,
+        "基": 5
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2242010/概念化/がいねんか": {
+      "id": 2242010,
+      "form": "概念化",
+      "kana": "がいねんか",
+      "gloss": "conceptualization",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        130748
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "化": 3
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862972/概要書/がいようしょ": {
+      "id": 2862972,
+      "form": "概要書",
+      "kana": "がいようしょ",
+      "gloss": "written outline",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        137423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2,
+        "要": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2702710/抽象概念/ちゅうしょうがいねん": {
+      "id": 2702710,
+      "form": "抽象概念",
+      "kana": "ちゅうしょうがいねん",
+      "gloss": "abstract concept",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        145475
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "抽": 7,
+        "象": 5
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2844621/概念図/がいねんず": {
+      "id": 2844621,
+      "form": "概念図",
+      "kana": "がいねんず",
+      "gloss": "conceptual diagram",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        149509
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "図": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1198580/会社概要/かいしゃがいよう": {
+      "id": 1198580,
+      "form": "会社概要",
+      "kana": "かいしゃがいよう",
+      "gloss": "company overview",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        162278
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "要": 4,
+        "社": 2
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1938590/上位概念/じょういがいねん": {
+      "id": 1938590,
+      "form": "上位概念",
+      "kana": "じょういがいねん",
+      "gloss": "high level concept",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        171324
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "上": 1,
+        "位": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2049850/対立概念/たいりつがいねん": {
+      "id": 2049850,
+      "form": "対立概念",
+      "kana": "たいりつがいねん",
+      "gloss": "the exact opposite concept (idea)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        174826
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4,
+        "立": 1,
+        "対": 3
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2132180/新概念/しんがいねん": {
+      "id": 2132180,
+      "form": "新概念",
+      "kana": "しんがいねん",
+      "gloss": "new concept",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        180770
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2,
+        "念": 4
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1833620/天気概況/てんきがいきょう": {
+      "id": 1833620,
+      "form": "天気概況",
+      "kana": "てんきがいきょう",
+      "gloss": "general weather conditions",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        218583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "況": 7,
+        "気": 1,
+        "天": 1
+      },
+      "matched": {
+        "ガイ": {
+          "actual": "がい",
+          "dictionary": [
+            "ガイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1204410/概ね/おおむね": {
+      "id": 1204410,
+      "form": "概ね",
+      "kana": "おおむね",
+      "gloss": "in general",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        14226,
+        8118,
+        10540,
+        14373
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おおむね": {
+          "actual": "おおむ",
+          "dictionary": [
+            "おおむ.ね"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1204450:概算:がいさん",
+      "form": "概算",
+      "kana": "がいさん",
+      "cue": "approximation; rough estimate",
+      "ids": [
+        1204450
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 46762,
+        "shiberu": 22426,
+        "tubelex": 16165,
+        "wordfreq": 31791
+      },
+      "alternatives_by_kanji": {
+        "算": [
+          "1252140/計算/けいさん",
+          "1543000/予算/よさん",
+          "1303930/算数/さんすう"
+        ],
+        "概": [
+          "1204480/概念/がいねん",
+          "1413230/大概/たいがい",
+          "1204400/概して/がいして"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

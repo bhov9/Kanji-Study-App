@@ -1,0 +1,1265 @@
+{
+  "character": "詩",
+  "grade": 3,
+  "meanings": [
+    "poem",
+    "poetry"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "寸",
+    "土"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "うた",
+      "stem": "うた",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "詩",
+    "heading": "詩",
+    "readings": [
+      "シ"
+    ],
+    "examples_by_reading": [
+      [
+        "詩情",
+        "詩人",
+        "詩歌"
+      ]
+    ],
+    "note_lines": [
+      "「詩歌」は，「シイカ」とも。"
+    ],
+    "representative_index": {
+      "kanji": "詩",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 97,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1312220/詩人/しじん",
+        "1312210/詩情/しじょう",
+        "1579540/詩歌/しか",
+        "1312190/詩集/ししゅう",
+        "1312230/詩的/してき",
+        "1312240/詩篇/しへん",
+        "1816660/詩文/しぶん",
+        "1816690/詩作/しさく",
+        "1816730/詩経/しきょう",
+        "1446670/唐詩/とうし"
+      ]
+    },
+    {
+      "reading": "うた",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1193180/詩/うた",
+        "5740842/悪魔の詩/あくまのうた"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1312220/詩人/しじん",
+    "1312210/詩情/しじょう",
+    "1579540/詩歌/しか",
+    "1312190/詩集/ししゅう",
+    "1312230/詩的/してき",
+    "1312240/詩篇/しへん",
+    "1816660/詩文/しぶん",
+    "1816690/詩作/しさく",
+    "1816730/詩経/しきょう",
+    "1446670/唐詩/とうし",
+    "1261820/原詩/げんし",
+    "2656150/詩書/ししょ",
+    "1418710/短詩/たんし",
+    "1312160/詩吟/しぎん",
+    "1719220/狂詩/きょうし",
+    "1297690/作詩/さくし",
+    "1174510/英詩/えいし",
+    "1312170/詩句/しく",
+    "1739060/律詩/りっし",
+    "1816770/詩碑/しひ",
+    "1265440/古詩/こし",
+    "1844120/風物詩/ふうぶつし",
+    "1243400/吟遊詩人/ぎんゆうしじん",
+    "1344850/叙事詩/じょじし",
+    "1312240/詩編/しへん",
+    "1237580/狂詩曲/きょうしきょく",
+    "1816700/詩学/しがく",
+    "1816810/詩稿/しこう",
+    "1344890/叙情詩/じょじょうし",
+    "1754610/散文詩/さんぶんし"
+  ],
+  "candidates": {
+    "1312220/詩人/しじん": {
+      "id": 1312220,
+      "form": "詩人",
+      "kana": "しじん",
+      "gloss": "poet",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1076,
+        8893,
+        11740,
+        17774
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1312210/詩情/しじょう": {
+      "id": 1312210,
+      "form": "詩情",
+      "kana": "しじょう",
+      "gloss": "poetic sentiment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36184,
+        109954,
+        75713,
+        92233
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1579540/詩歌/しか": {
+      "id": 1579540,
+      "form": "詩歌",
+      "kana": "しか",
+      "gloss": "Japanese and Chinese poetry",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15157,
+        42628,
+        44849,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "歌": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1312190/詩集/ししゅう": {
+      "id": 1312190,
+      "form": "詩集",
+      "kana": "ししゅう",
+      "gloss": "poetry anthology",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9256,
+        31039,
+        29854,
+        36648
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "集": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312230/詩的/してき": {
+      "id": 1312230,
+      "form": "詩的",
+      "kana": "してき",
+      "gloss": "poetic",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        18301,
+        37400,
+        28048,
+        30583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312240/詩篇/しへん": {
+      "id": 1312240,
+      "form": "詩篇",
+      "kana": "しへん",
+      "gloss": "book containing a collection of poems",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31576,
+        17120,
+        42050,
+        89645
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816660/詩文/しぶん": {
+      "id": 1816660,
+      "form": "詩文",
+      "kana": "しぶん",
+      "gloss": "poetry and prose",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24291,
+        101749,
+        81694,
+        81588
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816690/詩作/しさく": {
+      "id": 1816690,
+      "form": "詩作",
+      "kana": "しさく",
+      "gloss": "composition of a poem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25488,
+        95069,
+        94653,
+        82954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816730/詩経/しきょう": {
+      "id": 1816730,
+      "form": "詩経",
+      "kana": "しきょう",
+      "gloss": "The Classic of Poetry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32411,
+        75655,
+        121853,
+        153141
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "経": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1446670/唐詩/とうし": {
+      "id": 1446670,
+      "form": "唐詩",
+      "kana": "とうし",
+      "gloss": "poetry of the Tang period",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35914,
+        121818,
+        117502,
+        170533
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "唐": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1261820/原詩/げんし": {
+      "id": 1261820,
+      "form": "原詩",
+      "kana": "げんし",
+      "gloss": "original poem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37196,
+        139593,
+        154467,
+        180907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "原": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2656150/詩書/ししょ": {
+      "id": 2656150,
+      "form": "詩書",
+      "kana": "ししょ",
+      "gloss": "book of poetry",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37568,
+        139593,
+        180417,
+        192350
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418710/短詩/たんし": {
+      "id": 1418710,
+      "form": "短詩",
+      "kana": "たんし",
+      "gloss": "verselet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        39269,
+        173792,
+        140911,
+        184808
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "短": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312160/詩吟/しぎん": {
+      "id": 1312160,
+      "form": "詩吟",
+      "kana": "しぎん",
+      "gloss": "reciting Chinese poems",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        40691,
+        72835,
+        87963
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "吟": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1719220/狂詩/きょうし": {
+      "id": 1719220,
+      "form": "狂詩",
+      "kana": "きょうし",
+      "gloss": "(Edo-period) type of humorous poem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31559,
+        121818,
+        null,
+        307815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "狂": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1297690/作詩/さくし": {
+      "id": 1297690,
+      "form": "作詩",
+      "kana": "さくし",
+      "gloss": "versification",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42628,
+        78707,
+        113639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1174510/英詩/えいし": {
+      "id": 1174510,
+      "form": "英詩",
+      "kana": "えいし",
+      "gloss": "English poetry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39275,
+        173792,
+        null,
+        195881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "英": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312170/詩句/しく": {
+      "id": 1312170,
+      "form": "詩句",
+      "kana": "しく",
+      "gloss": "verse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        100834,
+        96037
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "句": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1739060/律詩/りっし": {
+      "id": 1739060,
+      "form": "律詩",
+      "kana": "りっし",
+      "gloss": "lüshi",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        211356,
+        210598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "律": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816770/詩碑/しひ": {
+      "id": 1816770,
+      "form": "詩碑",
+      "kana": "しひ",
+      "gloss": "monument (stele, gravestone, etc.) engraved with a poem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        163107,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "碑": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1265440/古詩/こし": {
+      "id": 1265440,
+      "form": "古詩",
+      "kana": "こし",
+      "gloss": "ancient poems",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        178773,
+        168375
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "古": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1844120/風物詩/ふうぶつし": {
+      "id": 1844120,
+      "form": "風物詩",
+      "kana": "ふうぶつし",
+      "gloss": "feature of the season",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        25402,
+        31982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "風": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1243400/吟遊詩人/ぎんゆうしじん": {
+      "id": 1243400,
+      "form": "吟遊詩人",
+      "kana": "ぎんゆうしじん",
+      "gloss": "(wandering) minstrel",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        41605,
+        34339
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "遊": 3,
+        "吟": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1344850/叙事詩/じょじし": {
+      "id": 1344850,
+      "form": "叙事詩",
+      "kana": "じょじし",
+      "gloss": "epic (poem)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        38431,
+        54840
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "叙": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312240/詩編/しへん": {
+      "id": 1312240,
+      "form": "詩編",
+      "kana": "しへん",
+      "gloss": "book containing a collection of poems",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        62361,
+        112967
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "編": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1237580/狂詩曲/きょうしきょく": {
+      "id": 1237580,
+      "form": "狂詩曲",
+      "kana": "きょうしきょく",
+      "gloss": "rhapsody",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        63004,
+        123262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "曲": 3,
+        "狂": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816700/詩学/しがく": {
+      "id": 1816700,
+      "form": "詩学",
+      "kana": "しがく",
+      "gloss": "study of poetry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        69479,
+        156765
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1816810/詩稿/しこう": {
+      "id": 1816810,
+      "form": "詩稿",
+      "kana": "しこう",
+      "gloss": "draft of a poem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        211522
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "稿": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1344890/叙情詩/じょじょうし": {
+      "id": 1344890,
+      "form": "叙情詩",
+      "kana": "じょじょうし",
+      "gloss": "lyric (poem)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        121853,
+        143179
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "叙": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1754610/散文詩/さんぶんし": {
+      "id": 1754610,
+      "form": "散文詩",
+      "kana": "さんぶんし",
+      "gloss": "prose poem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        125270,
+        135781
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1,
+        "散": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1193180/詩/うた": {
+      "id": 1193180,
+      "form": "詩",
+      "kana": "うた",
+      "gloss": "modern poetry",
+      "senses": [
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        62454
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うた": {
+          "actual": "うた",
+          "dictionary": [
+            "うた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5740842/悪魔の詩/あくまのうた": {
+      "id": 5740842,
+      "form": "悪魔の詩",
+      "kana": "あくまのうた",
+      "gloss": "The Satanic Verses (novel by Salman Rushdie)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "魔": 7,
+        "悪": 3
+      },
+      "matched": {
+        "うた": {
+          "actual": "うた",
+          "dictionary": [
+            "うた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1193180:詩:うた",
+      "form": "詩",
+      "kana": "うた",
+      "cue": "modern poetry",
+      "ids": [
+        1193180
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 62454,
+        "shiberu": 894,
+        "tubelex": 6133,
+        "wordfreq": 5047
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

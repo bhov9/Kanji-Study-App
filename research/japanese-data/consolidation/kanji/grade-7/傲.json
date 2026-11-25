@@ -1,0 +1,610 @@
+{
+  "character": "傲",
+  "grade": 7,
+  "meanings": [
+    "be proud"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "土",
+    "方",
+    "攵",
+    "亠",
+    "二",
+    "乞"
+  ],
+  "on": [
+    "ゴウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おご.る",
+      "stem": "おご",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "あなど.る",
+      "stem": "あなど",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "傲",
+    "heading": "傲",
+    "readings": [
+      "ゴウ"
+    ],
+    "examples_by_reading": [
+      [
+        "傲然",
+        "傲慢"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "傲",
+      "reading": "ゴウ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ゴウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1563960/傲慢/ごうまん",
+        "1563940/傲然/ごうぜん",
+        "1563930/傲岸/ごうがん",
+        "1563490/倨傲/きょごう",
+        "1742070/傲岸不遜/ごうがんふそん",
+        "1563970/傲慢不遜/ごうまんふそん",
+        "1742090/傲慢無礼/ごうまんぶれい",
+        "1574600/驕傲/きょうごう",
+        "1742080/傲岸無礼/ごうがんぶれい",
+        "1563980/傲倨/ごうきょ"
+      ]
+    },
+    {
+      "reading": "おごる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2857913/傲る/おごる"
+      ]
+    },
+    {
+      "reading": "あなどる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1563960/傲慢/ごうまん",
+    "1563940/傲然/ごうぜん",
+    "1563930/傲岸/ごうがん",
+    "1563490/倨傲/きょごう",
+    "1742070/傲岸不遜/ごうがんふそん",
+    "1563970/傲慢不遜/ごうまんふそん",
+    "1742090/傲慢無礼/ごうまんぶれい",
+    "1574600/驕傲/きょうごう",
+    "1742080/傲岸無礼/ごうがんぶれい",
+    "2709540/傲り高ぶる/おごりたかぶる",
+    "2857913/傲る/おごる",
+    "1563980/傲倨/ごうきょ",
+    "2430480/傲り/おごり"
+  ],
+  "candidates": {
+    "1563960/傲慢/ごうまん": {
+      "id": 1563960,
+      "form": "傲慢",
+      "kana": "ごうまん",
+      "gloss": "haughty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8011,
+        13335,
+        11204,
+        6460
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慢": 7
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1563940/傲然/ごうぜん": {
+      "id": 1563940,
+      "form": "傲然",
+      "kana": "ごうぜん",
+      "gloss": "proud",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-t",
+        "adv-to"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        61110,
+        173990,
+        40641
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "然": 4
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1563930/傲岸/ごうがん": {
+      "id": 1563930,
+      "form": "傲岸",
+      "kana": "ごうがん",
+      "gloss": "haughty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37164,
+        73159,
+        87205,
+        40207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岸": 3
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1563490/倨傲/きょごう": {
+      "id": 1563490,
+      "form": "倨傲",
+      "kana": "きょごう",
+      "gloss": "haughty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31219,
+        101749,
+        null,
+        133425
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1742070/傲岸不遜/ごうがんふそん": {
+      "id": 1742070,
+      "form": "傲岸不遜",
+      "kana": "ごうがんふそん",
+      "gloss": "haughty arrogance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50601
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岸": 3,
+        "不": 4,
+        "遜": 7
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1563970/傲慢不遜/ごうまんふそん": {
+      "id": 1563970,
+      "form": "傲慢不遜",
+      "kana": "ごうまんふそん",
+      "gloss": "haughty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        122649
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慢": 7,
+        "不": 4,
+        "遜": 7
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1742090/傲慢無礼/ごうまんぶれい": {
+      "id": 1742090,
+      "form": "傲慢無礼",
+      "kana": "ごうまんぶれい",
+      "gloss": "(arrogance and) insolence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        187531
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慢": 7,
+        "無": 4,
+        "礼": 3
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1574600/驕傲/きょうごう": {
+      "id": 1574600,
+      "form": "驕傲",
+      "kana": "きょうごう",
+      "gloss": "pride",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        188387
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1742080/傲岸無礼/ごうがんぶれい": {
+      "id": 1742080,
+      "form": "傲岸無礼",
+      "kana": "ごうがんぶれい",
+      "gloss": "arrogance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岸": 3,
+        "無": 4,
+        "礼": 3
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2709540/傲り高ぶる/おごりたかぶる": {
+      "id": 2709540,
+      "form": "傲り高ぶる",
+      "kana": "おごりたかぶる",
+      "gloss": "to act arrogantly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        201691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2857913/傲る/おごる": {
+      "id": 2857913,
+      "form": "傲る",
+      "kana": "おごる",
+      "gloss": "to be proud",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "rK",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        85764
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おごる": {
+          "actual": "おご",
+          "dictionary": [
+            "おご.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1563980/傲倨/ごうきょ": {
+      "id": 1563980,
+      "form": "傲倨",
+      "kana": "ごうきょ",
+      "gloss": "haughty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2430480/傲り/おごり": {
+      "id": 2430480,
+      "form": "傲り",
+      "kana": "おごり",
+      "gloss": "arrogance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        190979,
+        94125
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1563960:傲慢:ごうまん",
+      "form": "傲慢",
+      "kana": "ごうまん",
+      "cue": "haughty; arrogant",
+      "ids": [
+        1563960
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6460,
+        "shiberu": 8011,
+        "tubelex": 13335,
+        "wordfreq": 11204
+      },
+      "alternatives_by_kanji": {
+        "傲": [
+          "1563940/傲然/ごうぜん",
+          "1563930/傲岸/ごうがん",
+          "1563490/倨傲/きょごう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

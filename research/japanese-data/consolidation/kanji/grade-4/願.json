@@ -1,0 +1,1524 @@
+{
+  "character": "願",
+  "grade": 4,
+  "meanings": [
+    "petition",
+    "request",
+    "vow",
+    "wish",
+    "hope"
+  ],
+  "strokes": [
+    19
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 181
+    },
+    {
+      "type": "nelson_c",
+      "value": 4
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "小",
+    "白",
+    "頁",
+    "厂"
+  ],
+  "on": [
+    "ガン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ねが.う",
+      "stem": "ねが",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "-ねがい",
+      "stem": "-ねがい",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "ら"
+  ],
+  "government": {
+    "kanji": "願",
+    "heading": "願",
+    "readings": [
+      "ガン",
+      "ねがう"
+    ],
+    "examples_by_reading": [
+      [
+        "願望",
+        "祈願",
+        "志願"
+      ],
+      [
+        "願う",
+        "願い",
+        "願わしい"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "願",
+      "reading": "ガン",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ガン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 82,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1577710/願望/がんぼう",
+        "1309080/志願/しがん",
+        "1222780/祈願/きがん",
+        "1577710/願望/がんもう",
+        "1469390/念願/ねんがん",
+        "1289840/懇願/こんがん",
+        "1522360/本願/ほんがん",
+        "1338500/出願/しゅつがん",
+        "1381310/請願/せいがん",
+        "1218050/願書/がんしょ"
+      ]
+    },
+    {
+      "reading": "ねがう",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1217950/願う/ねがう",
+        "1217900/願い/ねがい",
+        "1217990/願わしい/ねがわしい",
+        "2463140/乞い願う/こいねがう",
+        "2463140/請い願う/こいねがう"
+      ]
+    },
+    {
+      "reading": "ねがい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1217900/願/ねがい",
+        "2640620/捜索願/そうさくねがい",
+        "2731760/退職願/たいしょくねがい",
+        "1884650/辞職願/じしょくねがい",
+        "1600050/願事/ねがいごと"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1217950/願う/ねがう",
+    "1217900/願い/ねがい",
+    "1577710/願望/がんぼう",
+    "1309080/志願/しがん",
+    "1222780/祈願/きがん",
+    "1577710/願望/がんもう",
+    "1217990/願わしい/ねがわしい",
+    "1469390/念願/ねんがん",
+    "1289840/懇願/こんがん",
+    "1522360/本願/ほんがん",
+    "1338500/出願/しゅつがん",
+    "1381310/請願/せいがん",
+    "1218050/願書/がんしょ",
+    "1418100/嘆願/たんがん",
+    "1483260/悲願/ひがん",
+    "1150210/哀願/あいがん",
+    "1218020/願掛け/がんかけ",
+    "1381220/誓願/せいがん",
+    "1218020/願掛け/がんがけ",
+    "2524890/併願/へいがん",
+    "1656840/宿願/しゅくがん",
+    "1787210/大願/たいがん",
+    "1155620/依願/いがん",
+    "2270100/発願/ほつがん",
+    "1812590/満願/まんがん",
+    "1793910/心願/しんがん",
+    "1430380/勅願/ちょくがん",
+    "2857197/専願/せんがん",
+    "1218070/願文/がんもん",
+    "1218100/願力/がんりき"
+  ],
+  "candidates": {
+    "1217950/願う/ねがう": {
+      "id": 1217950,
+      "form": "願う",
+      "kana": "ねがう",
+      "gloss": "to desire",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        816,
+        164,
+        6169,
+        777
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ねがう": {
+          "actual": "ねが",
+          "dictionary": [
+            "ねが.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "ねがう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1217900/願い/ねがい": {
+      "id": 1217900,
+      "form": "願い",
+      "kana": "ねがい",
+      "gloss": "desire",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1806,
+        1869,
+        3048,
+        1710
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ねがう": {
+          "actual": "ねが",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ねがう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1577710/願望/がんぼう": {
+      "id": 1577710,
+      "form": "願望",
+      "kana": "がんぼう",
+      "gloss": "desire",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10507,
+        6022,
+        5988,
+        5981
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "望": 4
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1309080/志願/しがん": {
+      "id": 1309080,
+      "form": "志願",
+      "kana": "しがん",
+      "gloss": "aspiration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        7579,
+        18397,
+        8450,
+        12884
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "志": 5
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1222780/祈願/きがん": {
+      "id": 1222780,
+      "form": "祈願",
+      "kana": "きがん",
+      "gloss": "prayer (for something)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10928,
+        12285,
+        12107,
+        19793
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "祈": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1577710/願望/がんもう": {
+      "id": 1577710,
+      "form": "願望",
+      "kana": "がんもう",
+      "gloss": "desire",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10507,
+        6022,
+        5988,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "望": 4
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ガン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1217990/願わしい/ねがわしい": {
+      "id": 1217990,
+      "form": "願わしい",
+      "kana": "ねがわしい",
+      "gloss": "desirable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        null,
+        97367
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ねがう": {
+          "actual": "ねが",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ねがう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1469390/念願/ねんがん": {
+      "id": 1469390,
+      "form": "念願",
+      "kana": "ねんがん",
+      "gloss": "one's heart's desire",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10671,
+        12398,
+        12892,
+        10054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "念": 4
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1289840/懇願/こんがん": {
+      "id": 1289840,
+      "form": "懇願",
+      "kana": "こんがん",
+      "gloss": "pleading",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9901,
+        22793,
+        14132,
+        6359
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "懇": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1522360/本願/ほんがん": {
+      "id": 1522360,
+      "form": "本願",
+      "kana": "ほんがん",
+      "gloss": "long-cherished desire",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9854,
+        13794,
+        50386,
+        87362
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1338500/出願/しゅつがん": {
+      "id": 1338500,
+      "form": "出願",
+      "kana": "しゅつがん",
+      "gloss": "application",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        27556,
+        13418,
+        14325,
+        76113
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1381310/請願/せいがん": {
+      "id": 1381310,
+      "form": "請願",
+      "kana": "せいがん",
+      "gloss": "petition",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14985,
+        16679,
+        28385,
+        64460
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "請": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218050/願書/がんしょ": {
+      "id": 1218050,
+      "form": "願書",
+      "kana": "がんしょ",
+      "gloss": "(written) application",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10562,
+        33444,
+        32914,
+        50264
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418100/嘆願/たんがん": {
+      "id": 1418100,
+      "form": "嘆願",
+      "kana": "たんがん",
+      "gloss": "entreaty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12448,
+        38018,
+        25040,
+        25787
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "嘆": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1483260/悲願/ひがん": {
+      "id": 1483260,
+      "form": "悲願",
+      "kana": "ひがん",
+      "gloss": "one's dearest wish",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30075,
+        21869,
+        24744,
+        15207
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "悲": 3
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1150210/哀願/あいがん": {
+      "id": 1150210,
+      "form": "哀願",
+      "kana": "あいがん",
+      "gloss": "supplication",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        20799,
+        45909,
+        65516,
+        25684
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "哀": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218020/願掛け/がんかけ": {
+      "id": 1218020,
+      "form": "願掛け",
+      "kana": "がんかけ",
+      "gloss": "making a prayer (to a god or Buddha)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25507,
+        52268,
+        56518,
+        32698
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掛": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1381220/誓願/せいがん": {
+      "id": 1381220,
+      "form": "誓願",
+      "kana": "せいがん",
+      "gloss": "(religious) vow",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        40618,
+        31364,
+        75713,
+        90029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誓": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218020/願掛け/がんがけ": {
+      "id": 1218020,
+      "form": "願掛け",
+      "kana": "がんがけ",
+      "gloss": "making a prayer (to a god or Buddha)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        25507,
+        52268,
+        56518,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "掛": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2524890/併願/へいがん": {
+      "id": 2524890,
+      "form": "併願",
+      "kana": "へいがん",
+      "gloss": "applying to enter more than one school",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        76428,
+        151903
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "併": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1656840/宿願/しゅくがん": {
+      "id": 1656840,
+      "form": "宿願",
+      "kana": "しゅくがん",
+      "gloss": "longstanding desire",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        98142,
+        44281
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宿": 3
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1787210/大願/たいがん": {
+      "id": 1787210,
+      "form": "大願",
+      "kana": "たいがん",
+      "gloss": "ambition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        99041,
+        64673
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1155620/依願/いがん": {
+      "id": 1155620,
+      "form": "依願",
+      "kana": "いがん",
+      "gloss": "in accordance with one's request",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        65516,
+        167276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "依": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2270100/発願/ほつがん": {
+      "id": 2270100,
+      "form": "発願",
+      "kana": "ほつがん",
+      "gloss": "giving rise to the desire to save all sentient beings",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        94653,
+        171448
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1812590/満願/まんがん": {
+      "id": 1812590,
+      "form": "満願",
+      "kana": "まんがん",
+      "gloss": "fulfilment of a vow",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        94653,
+        103855
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "満": 4
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1793910/心願/しんがん": {
+      "id": 1793910,
+      "form": "心願",
+      "kana": "しんがん",
+      "gloss": "prayer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        117502,
+        130029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1430380/勅願/ちょくがん": {
+      "id": 1430380,
+      "form": "勅願",
+      "kana": "ちょくがん",
+      "gloss": "imperial prayer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        107434,
+        248225
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勅": 7
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857197/専願/せんがん": {
+      "id": 2857197,
+      "form": "専願",
+      "kana": "せんがん",
+      "gloss": "single application",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        118546,
+        261831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "専": 6
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218070/願文/がんもん": {
+      "id": 1218070,
+      "form": "願文",
+      "kana": "がんもん",
+      "gloss": "written prayer for a shrine or Buddhist temple",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        157245,
+        162101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1218100/願力/がんりき": {
+      "id": 1218100,
+      "form": "願力",
+      "kana": "がんりき",
+      "gloss": "the power of prayer (in Buddhism)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        187348,
+        198220
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "ガン": {
+          "actual": "がん",
+          "dictionary": [
+            "ガン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2463140/乞い願う/こいねがう": {
+      "id": 2463140,
+      "form": "乞い願う",
+      "kana": "こいねがう",
+      "gloss": "to beg",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        82170
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乞": 7
+      },
+      "matched": {
+        "ねがう": {
+          "actual": "ねが",
+          "dictionary": [
+            "ねが.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2463140/請い願う/こいねがう": {
+      "id": 2463140,
+      "form": "請い願う",
+      "kana": "こいねがう",
+      "gloss": "to beg",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        91774
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "請": 7
+      },
+      "matched": {
+        "ねがう": {
+          "actual": "ねが",
+          "dictionary": [
+            "ねが.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1217900/願/ねがい": {
+      "id": 1217900,
+      "form": "願",
+      "kana": "ねがい",
+      "gloss": "desire",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24783
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ねがい": {
+          "actual": "ねがい",
+          "dictionary": [
+            "-ねがい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2640620/捜索願/そうさくねがい": {
+      "id": 2640620,
+      "form": "捜索願",
+      "kana": "そうさくねがい",
+      "gloss": "request for a police search",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        37392
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "捜": 7,
+        "索": 7
+      },
+      "matched": {
+        "ねがい": {
+          "actual": "ねがい",
+          "dictionary": [
+            "-ねがい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2731760/退職願/たいしょくねがい": {
+      "id": 2731760,
+      "form": "退職願",
+      "kana": "たいしょくねがい",
+      "gloss": "letter of resignation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        61243
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "退": 6,
+        "職": 5
+      },
+      "matched": {
+        "ねがい": {
+          "actual": "ねがい",
+          "dictionary": [
+            "-ねがい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1884650/辞職願/じしょくねがい": {
+      "id": 1884650,
+      "form": "辞職願",
+      "kana": "じしょくねがい",
+      "gloss": "(written) resignation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114175
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辞": 4,
+        "職": 5
+      },
+      "matched": {
+        "ねがい": {
+          "actual": "ねがい",
+          "dictionary": [
+            "-ねがい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600050/願事/ねがいごと": {
+      "id": 1600050,
+      "form": "願事",
+      "kana": "ねがいごと",
+      "gloss": "wish",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        203520
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "ねがい": {
+          "actual": "ねがい",
+          "dictionary": [
+            "-ねがい"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1217900:願い:ねがい",
+      "form": "願い",
+      "kana": "ねがい",
+      "cue": "desire; wish",
+      "ids": [
+        1217900
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1710,
+        "shiberu": 1806,
+        "tubelex": 1869,
+        "wordfreq": 3048
+      },
+      "alternatives_by_kanji": {
+        "願": [
+          "1217950/願う/ねがう",
+          "1577710/願望/がんぼう",
+          "1309080/志願/しがん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 51
+}

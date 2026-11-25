@@ -1,0 +1,657 @@
+{
+  "character": "嘱",
+  "grade": 7,
+  "meanings": [
+    "entrust",
+    "request",
+    "send a message"
+  ],
+  "strokes": [
+    15
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    }
+  ],
+  "components": [
+    "口",
+    "尸",
+    "禹"
+  ],
+  "on": [
+    "ショク"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "しょく.する",
+      "stem": "しょく",
+      "okurigana": "する"
+    },
+    {
+      "sourceNotation": "たの.む",
+      "stem": "たの",
+      "okurigana": "む"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "嘱",
+    "heading": "嘱（囑）",
+    "readings": [
+      "ショク"
+    ],
+    "examples_by_reading": [
+      [
+        "嘱託",
+        "委嘱"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "嘱",
+      "reading": "ショク",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ショク",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1357140/嘱託/しょくたく",
+        "1587230/委嘱/いしょく",
+        "1357150/嘱望/しょくぼう",
+        "2611460/嘱託医/しょくたくい",
+        "1691270/嘱託殺人/しょくたくさつじん",
+        "1615020/嘱目/しょくもく",
+        "2857547/嘱託社員/しょくたくしゃいん",
+        "2409410/委嘱状/いしょくじょう",
+        "2093480/付嘱/ふしょく",
+        "2410050/嘱す/しょくす"
+      ]
+    },
+    {
+      "reading": "しょくする",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "たのむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1357140/嘱託/しょくたく",
+    "1587230/委嘱/いしょく",
+    "1357150/嘱望/しょくぼう",
+    "2611460/嘱託医/しょくたくい",
+    "1691270/嘱託殺人/しょくたくさつじん",
+    "1615020/嘱目/しょくもく",
+    "2857547/嘱託社員/しょくたくしゃいん",
+    "2409410/委嘱状/いしょくじょう",
+    "2093480/付嘱/ふしょく",
+    "2410050/嘱す/しょくす",
+    "2433140/受嘱/じゅしょく",
+    "2410030/嘱する/しょくする",
+    "1587230/依嘱/いしょく",
+    "2743010/遺嘱/いしょく"
+  ],
+  "candidates": {
+    "1357140/嘱託/しょくたく": {
+      "id": 1357140,
+      "form": "嘱託",
+      "kana": "しょくたく",
+      "gloss": "commission",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23320,
+        36842,
+        38864,
+        70314
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "託": 7
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1587230/委嘱/いしょく": {
+      "id": 1587230,
+      "form": "委嘱",
+      "kana": "いしょく",
+      "gloss": "commissioning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32765,
+        38608,
+        45339,
+        133148
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "委": 3
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショク"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1357150/嘱望/しょくぼう": {
+      "id": 1357150,
+      "form": "嘱望",
+      "kana": "しょくぼう",
+      "gloss": "having great hopes for (someone's future)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        29776,
+        null,
+        70104,
+        47684
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "望": 4
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2611460/嘱託医/しょくたくい": {
+      "id": 2611460,
+      "form": "嘱託医",
+      "kana": "しょくたくい",
+      "gloss": "commissioned doctor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        155867
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "託": 7,
+        "医": 3
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1691270/嘱託殺人/しょくたくさつじん": {
+      "id": 1691270,
+      "form": "嘱託殺人",
+      "kana": "しょくたくさつじん",
+      "gloss": "murder at the victim's request",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        167964
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "殺": 5,
+        "託": 7
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1615020/嘱目/しょくもく": {
+      "id": 1615020,
+      "form": "嘱目",
+      "kana": "しょくもく",
+      "gloss": "paying attention to",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        190788
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857547/嘱託社員/しょくたくしゃいん": {
+      "id": 2857547,
+      "form": "嘱託社員",
+      "kana": "しょくたくしゃいん",
+      "gloss": "contract employee (esp. one rehired after mandatory retirement)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        223110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "託": 7,
+        "員": 3,
+        "社": 2
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2409410/委嘱状/いしょくじょう": {
+      "id": 2409410,
+      "form": "委嘱状",
+      "kana": "いしょくじょう",
+      "gloss": "letter of appointment (to a position)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        264755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "委": 3,
+        "状": 5
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2093480/付嘱/ふしょく": {
+      "id": 2093480,
+      "form": "付嘱",
+      "kana": "ふしょく",
+      "gloss": "conferment",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        309606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2410050/嘱す/しょくす": {
+      "id": 2410050,
+      "form": "嘱す",
+      "kana": "しょくす",
+      "gloss": "to entrust (someone) with",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        325217
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2433140/受嘱/じゅしょく": {
+      "id": 2433140,
+      "form": "受嘱",
+      "kana": "じゅしょく",
+      "gloss": "being entrusted with",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "受": 3
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2410030/嘱する/しょくする": {
+      "id": 2410030,
+      "form": "嘱する",
+      "kana": "しょくする",
+      "gloss": "to entrust (someone) with",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "vs-s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        201105
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1587230/依嘱/いしょく": {
+      "id": 1587230,
+      "form": "依嘱",
+      "kana": "いしょく",
+      "gloss": "commissioning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        173792,
+        null,
+        213637
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "依": 7
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2743010/遺嘱/いしょく": {
+      "id": 2743010,
+      "form": "遺嘱",
+      "kana": "いしょく",
+      "gloss": "dying wish (to be carried out after one's death)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "ショク": {
+          "actual": "しょく",
+          "dictionary": [
+            "ショク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1357140:嘱託:しょくたく",
+      "form": "嘱託",
+      "kana": "しょくたく",
+      "cue": "commission; entrusting with (work)",
+      "ids": [
+        1357140
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 70314,
+        "shiberu": 23320,
+        "tubelex": 36842,
+        "wordfreq": 38864
+      },
+      "alternatives_by_kanji": {
+        "嘱": [
+          "1587230/委嘱/いしょく",
+          "1357150/嘱望/しょくぼう",
+          "2611460/嘱託医/しょくたくい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

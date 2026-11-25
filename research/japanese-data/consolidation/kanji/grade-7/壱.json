@@ -1,0 +1,429 @@
+{
+  "character": "壱",
+  "grade": 7,
+  "meanings": [
+    "one (in documents)"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 33
+    },
+    {
+      "type": "nelson_c",
+      "value": 32
+    }
+  ],
+  "components": [
+    "士",
+    "冖",
+    "匕"
+  ],
+  "on": [
+    "イチ",
+    "イツ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ひとつ",
+      "stem": "ひとつ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "い",
+    "かず"
+  ],
+  "government": {
+    "kanji": "壱",
+    "heading": "壱（壹）",
+    "readings": [
+      "イチ"
+    ],
+    "examples_by_reading": [
+      [
+        "壱万円"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "壱",
+      "reading": "イチ",
+      "source": "table_02_i.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "イチ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "2138590/壱万円/いちまんえん",
+        "1160790/壱/いち",
+        "1334470/拾壱/じゅういち"
+      ]
+    },
+    {
+      "reading": "イツ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "ひとつ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "2138590/壱万円/いちまんえん",
+    "1160790/壱/いち",
+    "1334470/拾壱/じゅういち",
+    "2845175/壱岐/いき",
+    "2240170/壱越/いちこつ",
+    "2240310/壱越調/いちこつちょう",
+    "1488500/壱百萬/ひゃくまん",
+    "1335140/壱拾萬/じゅうまん",
+    "2240310/壱越調/いちこちちょう"
+  ],
+  "candidates": {
+    "2138590/壱万円/いちまんえん": {
+      "id": 2138590,
+      "form": "壱万円",
+      "kana": "いちまんえん",
+      "gloss": "10,000 yen",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        144446
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "万": 2,
+        "円": 1
+      },
+      "matched": {
+        "イチ": {
+          "actual": "いち",
+          "dictionary": [
+            "イチ"
+          ]
+        }
+      },
+      "official_examples": [
+        "イチ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1160790/壱/いち": {
+      "id": 1160790,
+      "form": "壱",
+      "kana": "いち",
+      "gloss": "one",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "num",
+        "pref"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        12695,
+        34317
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "イチ": {
+          "actual": "いち",
+          "dictionary": [
+            "イチ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1334470/拾壱/じゅういち": {
+      "id": 1334470,
+      "form": "拾壱",
+      "kana": "じゅういち",
+      "gloss": "eleven",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        126916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拾": 3
+      },
+      "matched": {
+        "イチ": {
+          "actual": "いち",
+          "dictionary": [
+            "イチ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845175/壱岐/いき": {
+      "id": 2845175,
+      "form": "壱岐",
+      "kana": "いき",
+      "gloss": "Iki (former province located on Iki Island in present-day Nagasaki Prefecture)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6331,
+        null,
+        33710,
+        116180
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "岐": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2240170/壱越/いちこつ": {
+      "id": 2240170,
+      "form": "壱越",
+      "kana": "いちこつ",
+      "gloss": "fundamental tone in the traditional Japanese 12-tone scale (approx. D)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "越": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2240310/壱越調/いちこつちょう": {
+      "id": 2240310,
+      "form": "壱越調",
+      "kana": "いちこつちょう",
+      "gloss": "ichikotsu mode (one of the six main gagaku modes)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3,
+        "越": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1488500/壱百萬/ひゃくまん": {
+      "id": 1488500,
+      "form": "壱百萬",
+      "kana": "ひゃくまん",
+      "gloss": "1,000,000",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "百": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1335140/壱拾萬/じゅうまん": {
+      "id": 1335140,
+      "form": "壱拾萬",
+      "kana": "じゅうまん",
+      "gloss": "100,000",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "拾": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2240310/壱越調/いちこちちょう": {
+      "id": 2240310,
+      "form": "壱越調",
+      "kana": "いちこちちょう",
+      "gloss": "ichikotsu mode (one of the six main gagaku modes)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "調": 3,
+        "越": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1334470:拾壱:じゅういち",
+      "form": "拾壱",
+      "kana": "じゅういち",
+      "cue": "eleven; 11",
+      "ids": [
+        1334470
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 126916
+      },
+      "alternatives_by_kanji": {
+        "拾": [
+          "1332570/拾う/ひろう",
+          "1330660/収拾/しゅうしゅう",
+          "1332580/拾得/しゅうとく"
+        ],
+        "壱": [
+          "2138590/壱万円/いちまんえん",
+          "1160790/壱/いち",
+          "2845175/壱岐/いき"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

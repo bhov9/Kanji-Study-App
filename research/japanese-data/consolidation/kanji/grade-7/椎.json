@@ -1,0 +1,1280 @@
+{
+  "character": "椎",
+  "grade": 7,
+  "meanings": [
+    "chinquapin",
+    "mallet",
+    "spine"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "木",
+    "隹"
+  ],
+  "on": [
+    "ツイ",
+    "スイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "つち",
+      "stem": "つち",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "う.つ",
+      "stem": "う",
+      "okurigana": "つ"
+    }
+  ],
+  "nanori": [
+    "しい"
+  ],
+  "government": {
+    "kanji": "椎",
+    "heading": "椎",
+    "readings": [
+      "ツイ"
+    ],
+    "examples_by_reading": [
+      [
+        "椎間板",
+        "脊椎"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "椎",
+      "reading": "ツイ",
+      "source": "table_18_tu.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ツイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 25,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1383130/脊椎/せきつい",
+        "1713070/椎間板/ついかんばん",
+        "1836520/腰椎/ようつい",
+        "1831880/頸椎/けいつい",
+        "1677920/胸椎/きょうつい",
+        "1713060/椎骨/ついこつ",
+        "1831880/頚椎/けいつい",
+        "1383140/脊椎動物/せきついどうぶつ",
+        "2446220/仙椎/せんつい",
+        "1672760/無脊椎動物/むせきついどうぶつ"
+      ]
+    },
+    {
+      "reading": "スイ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "つち",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1956700/椎/つち"
+      ]
+    },
+    {
+      "reading": "うつ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1383130/脊椎/せきつい",
+    "1713070/椎間板/ついかんばん",
+    "1836520/腰椎/ようつい",
+    "1831880/頸椎/けいつい",
+    "1677920/胸椎/きょうつい",
+    "1713060/椎骨/ついこつ",
+    "1831880/頚椎/けいつい",
+    "1383140/脊椎動物/せきついどうぶつ",
+    "2446220/仙椎/せんつい",
+    "1672760/無脊椎動物/むせきついどうぶつ",
+    "2398340/椎間板ヘルニア/ついかんばんヘルニア",
+    "2673690/椎骨動脈/ついこつどうみゃく",
+    "2446210/脊椎骨/せきついこつ",
+    "1831880/けい椎/けいつい",
+    "2870884/頸椎捻挫/けいついねんざ",
+    "2446230/尾椎/びつい",
+    "2679570/腰椎穿刺/ようついせんし",
+    "2861629/頸椎症/けいついしょう",
+    "2681250/脊椎カリエス/せきついカリエス",
+    "2826875/鉄椎/てっつい",
+    "2681230/脊椎炎/せきついえん",
+    "2445570/脊椎麻酔/せきついますい",
+    "2446250/軸椎/じくつい",
+    "1999470/二分脊椎/にぶんせきつい",
+    "2446590/脊椎側彎症/せきついそくわんしょう",
+    "2446240/環椎/かんつい",
+    "2446220/薦椎/せんつい",
+    "2696690/脊椎動物亜門/せきついどうぶつあもん",
+    "2719440/分椎目/ぶんついもく",
+    "2865648/椎間関節/ついかんかんせつ"
+  ],
+  "candidates": {
+    "1383130/脊椎/せきつい": {
+      "id": 1383130,
+      "form": "脊椎",
+      "kana": "せきつい",
+      "gloss": "spine",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23365,
+        22209,
+        20890,
+        46447
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ツイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1713070/椎間板/ついかんばん": {
+      "id": 1713070,
+      "form": "椎間板",
+      "kana": "ついかんばん",
+      "gloss": "intervertebral disk",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42050,
+        149017
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "板": 3,
+        "間": 2
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ツイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1836520/腰椎/ようつい": {
+      "id": 1836520,
+      "form": "腰椎",
+      "kana": "ようつい",
+      "gloss": "lumbar vertebra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19389,
+        42493,
+        77618
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腰": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1831880/頸椎/けいつい": {
+      "id": 1831880,
+      "form": "頸椎",
+      "kana": "けいつい",
+      "gloss": "cervical vertebrae",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36557,
+        null,
+        35760,
+        41687
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1677920/胸椎/きょうつい": {
+      "id": 1677920,
+      "form": "胸椎",
+      "kana": "きょうつい",
+      "gloss": "thoracic vertebra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        28481,
+        55378,
+        120204
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "胸": 6
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1713060/椎骨/ついこつ": {
+      "id": 1713060,
+      "form": "椎骨",
+      "kana": "ついこつ",
+      "gloss": "vertebra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        41067,
+        58810,
+        142516
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "骨": 6
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1831880/頚椎/けいつい": {
+      "id": 1831880,
+      "form": "頚椎",
+      "kana": "けいつい",
+      "gloss": "cervical vertebrae",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17593,
+        45882,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1383140/脊椎動物/せきついどうぶつ": {
+      "id": 1383140,
+      "form": "脊椎動物",
+      "kana": "せきついどうぶつ",
+      "gloss": "vertebrate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        43420,
+        88740
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7,
+        "物": 3,
+        "動": 3
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446220/仙椎/せんつい": {
+      "id": 2446220,
+      "form": "仙椎",
+      "kana": "せんつい",
+      "gloss": "sacral vertebra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仙": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1672760/無脊椎動物/むせきついどうぶつ": {
+      "id": 1672760,
+      "form": "無脊椎動物",
+      "kana": "むせきついどうぶつ",
+      "gloss": "invertebrate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        124137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "脊": 7,
+        "物": 3,
+        "動": 3
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2398340/椎間板ヘルニア/ついかんばんヘルニア": {
+      "id": 2398340,
+      "form": "椎間板ヘルニア",
+      "kana": "ついかんばんヘルニア",
+      "gloss": "disk herniation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        128524
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "板": 3,
+        "間": 2
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2673690/椎骨動脈/ついこつどうみゃく": {
+      "id": 2673690,
+      "form": "椎骨動脈",
+      "kana": "ついこつどうみゃく",
+      "gloss": "vertebral artery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169203
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脈": 5,
+        "骨": 6,
+        "動": 3
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446210/脊椎骨/せきついこつ": {
+      "id": 2446210,
+      "form": "脊椎骨",
+      "kana": "せきついこつ",
+      "gloss": "vertebra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169203
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7,
+        "骨": 6
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1831880/けい椎/けいつい": {
+      "id": 1831880,
+      "form": "けい椎",
+      "kana": "けいつい",
+      "gloss": "cervical vertebrae",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        199421
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870884/頸椎捻挫/けいついねんざ": {
+      "id": 2870884,
+      "form": "頸椎捻挫",
+      "kana": "けいついねんざ",
+      "gloss": "cervical sprain",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        212604
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "挫": 7,
+        "捻": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446230/尾椎/びつい": {
+      "id": 2446230,
+      "form": "尾椎",
+      "kana": "びつい",
+      "gloss": "caudal vertebra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        223110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "尾": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2679570/腰椎穿刺/ようついせんし": {
+      "id": 2679570,
+      "form": "腰椎穿刺",
+      "kana": "ようついせんし",
+      "gloss": "lumbar puncture",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        230133
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腰": 7,
+        "刺": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2861629/頸椎症/けいついしょう": {
+      "id": 2861629,
+      "form": "頸椎症",
+      "kana": "けいついしょう",
+      "gloss": "cervical spondylosis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        240798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "症": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2681250/脊椎カリエス/せきついカリエス": {
+      "id": 2681250,
+      "form": "脊椎カリエス",
+      "kana": "せきついカリエス",
+      "gloss": "Pott's disease",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826875/鉄椎/てっつい": {
+      "id": 2826875,
+      "form": "鉄椎",
+      "kana": "てっつい",
+      "gloss": "iron hammer",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉄": 3
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2681230/脊椎炎/せきついえん": {
+      "id": 2681230,
+      "form": "脊椎炎",
+      "kana": "せきついえん",
+      "gloss": "spondylitis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7,
+        "炎": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2445570/脊椎麻酔/せきついますい": {
+      "id": 2445570,
+      "form": "脊椎麻酔",
+      "kana": "せきついますい",
+      "gloss": "spinal anesthesia",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7,
+        "麻": 7,
+        "酔": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446250/軸椎/じくつい": {
+      "id": 2446250,
+      "form": "軸椎",
+      "kana": "じくつい",
+      "gloss": "axis (vertebra)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軸": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1999470/二分脊椎/にぶんせきつい": {
+      "id": 1999470,
+      "form": "二分脊椎",
+      "kana": "にぶんせきつい",
+      "gloss": "spina bifida",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7,
+        "二": 1,
+        "分": 2
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446590/脊椎側彎症/せきついそくわんしょう": {
+      "id": 2446590,
+      "form": "脊椎側彎症",
+      "kana": "せきついそくわんしょう",
+      "gloss": "scoliosis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7,
+        "症": 7,
+        "側": 4
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446240/環椎/かんつい": {
+      "id": 2446240,
+      "form": "環椎",
+      "kana": "かんつい",
+      "gloss": "atlas",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "環": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2446220/薦椎/せんつい": {
+      "id": 2446220,
+      "form": "薦椎",
+      "kana": "せんつい",
+      "gloss": "sacral vertebra",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薦": 7
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2696690/脊椎動物亜門/せきついどうぶつあもん": {
+      "id": 2696690,
+      "form": "脊椎動物亜門",
+      "kana": "せきついどうぶつあもん",
+      "gloss": "Vertebrata",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脊": 7,
+        "亜": 7,
+        "門": 2,
+        "物": 3,
+        "動": 3
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2719440/分椎目/ぶんついもく": {
+      "id": 2719440,
+      "form": "分椎目",
+      "kana": "ぶんついもく",
+      "gloss": "Temnospondyli",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "目": 1,
+        "分": 2
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2865648/椎間関節/ついかんかんせつ": {
+      "id": 2865648,
+      "form": "椎間関節",
+      "kana": "ついかんかんせつ",
+      "gloss": "intervertebral joint",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "間": 2,
+        "関": 4,
+        "節": 4
+      },
+      "matched": {
+        "ツイ": {
+          "actual": "つい",
+          "dictionary": [
+            "ツイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1956700/椎/つち": {
+      "id": 1956700,
+      "form": "椎",
+      "kana": "つち",
+      "gloss": "hammer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "つち": {
+          "actual": "つち",
+          "dictionary": [
+            "つち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1383130:脊椎:せきつい",
+      "form": "脊椎",
+      "kana": "せきつい",
+      "cue": "spine; vertebral column",
+      "ids": [
+        1383130
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 46447,
+        "shiberu": 23365,
+        "tubelex": 22209,
+        "wordfreq": 20890
+      },
+      "alternatives_by_kanji": {
+        "脊": [
+          "1383120/脊髄/せきずい",
+          "1777730/脊柱/せきちゅう",
+          "1777740/脊索/せきさく"
+        ],
+        "椎": [
+          "1713070/椎間板/ついかんばん",
+          "1836520/腰椎/ようつい",
+          "1831880/頸椎/けいつい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 15
+}

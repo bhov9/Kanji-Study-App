@@ -1,0 +1,851 @@
+{
+  "character": "匂",
+  "grade": 7,
+  "meanings": [
+    "fragrant",
+    "stink",
+    "glow",
+    "insinuate",
+    "(kokuji)"
+  ],
+  "strokes": [
+    4
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 20
+    }
+  ],
+  "components": [
+    "勹",
+    "匕"
+  ],
+  "on": [],
+  "kun": [
+    {
+      "sourceNotation": "にお.う",
+      "stem": "にお",
+      "okurigana": "う"
+    },
+    {
+      "sourceNotation": "にお.い",
+      "stem": "にお",
+      "okurigana": "い"
+    },
+    {
+      "sourceNotation": "にお.わせる",
+      "stem": "にお",
+      "okurigana": "わせる"
+    }
+  ],
+  "nanori": [
+    "おり",
+    "こう",
+    "さぎ"
+  ],
+  "government": {
+    "kanji": "匂",
+    "heading": "匂",
+    "readings": [
+      "におう"
+    ],
+    "examples_by_reading": [
+      [
+        "匂う",
+        "匂い"
+      ]
+    ],
+    "note_lines": [
+      "⇔臭う"
+    ],
+    "representative_index": {
+      "kanji": "匂",
+      "reading": "におう",
+      "source": "table_22_ni.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "におう",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1599780/匂う/におう",
+        "1847680/咲き匂う/さきにおう",
+        "1847680/咲匂う/さきにおう"
+      ]
+    },
+    {
+      "reading": "におい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1599760/匂い/におい",
+        "2058340/匂い立つ/においたつ",
+        "2782970/匂いがする/においがする",
+        "1463440/匂い袋/においぶくろ",
+        "2058340/匂いたつ/においたつ",
+        "2831388/匂い玉/においだま",
+        "2563140/匂いやか/においやか",
+        "1463450/匂い油/においあぶら",
+        "1463430/匂い菖蒲/においしょうぶ"
+      ]
+    },
+    {
+      "reading": "におわせる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1463470/匂わせる/におわせる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1599760/匂い/におい",
+    "1599780/匂う/におう",
+    "2058340/匂い立つ/においたつ",
+    "1847680/咲き匂う/さきにおう",
+    "2782970/匂いがする/においがする",
+    "1463470/匂わせる/におわせる",
+    "1463440/匂い袋/においぶくろ",
+    "2058340/匂いたつ/においたつ",
+    "2831388/匂い玉/においだま",
+    "2563140/匂いやか/においやか",
+    "1463450/匂い油/においあぶら",
+    "1463430/匂い菖蒲/においしょうぶ",
+    "1847680/咲匂う/さきにおう",
+    "1463460/匂わす/におわす",
+    "1599760/匂/におい",
+    "2563130/匂やか/におやか",
+    "2844964/匂わせ女/におわせおんな",
+    "2831388/匂玉/においだま",
+    "2464920/匂菫/においすみれ",
+    "2824810/匂桜/においざくら",
+    "2066840/匂辛夷/たむしば"
+  ],
+  "candidates": {
+    "1599760/匂い/におい": {
+      "id": 1599760,
+      "form": "匂い",
+      "kana": "におい",
+      "gloss": "smell",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1879,
+        1388,
+        2476,
+        1410
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [
+        "におう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1599780/匂う/におう": {
+      "id": 1599780,
+      "form": "匂う",
+      "kana": "におう",
+      "gloss": "to be fragrant",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16966,
+        10235,
+        57069,
+        12860
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "におう": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.う"
+          ]
+        }
+      },
+      "official_examples": [
+        "におう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2058340/匂い立つ/においたつ": {
+      "id": 2058340,
+      "form": "匂い立つ",
+      "kana": "においたつ",
+      "gloss": "to be fragrant",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        39322
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1847680/咲き匂う/さきにおう": {
+      "id": 1847680,
+      "form": "咲き匂う",
+      "kana": "さきにおう",
+      "gloss": "to be in beautiful full bloom",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        189847
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "咲": 7
+      },
+      "matched": {
+        "におう": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2782970/匂いがする/においがする": {
+      "id": 2782970,
+      "form": "匂いがする",
+      "kana": "においがする",
+      "gloss": "to smell",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        3809
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1463470/匂わせる/におわせる": {
+      "id": 1463470,
+      "form": "匂わせる",
+      "kana": "におわせる",
+      "gloss": "to give off (a smell, scent, aroma)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        41678
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "におわせる": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.わせる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1463440/匂い袋/においぶくろ": {
+      "id": 1463440,
+      "form": "匂い袋",
+      "kana": "においぶくろ",
+      "gloss": "scent bag",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        74598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "袋": 7
+      },
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2058340/匂いたつ/においたつ": {
+      "id": 2058340,
+      "form": "匂いたつ",
+      "kana": "においたつ",
+      "gloss": "to be fragrant",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5t",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        92817
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831388/匂い玉/においだま": {
+      "id": 2831388,
+      "form": "匂い玉",
+      "kana": "においだま",
+      "gloss": "tonsil stone",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        209954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "玉": 1
+      },
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2563140/匂いやか/においやか": {
+      "id": 2563140,
+      "form": "匂いやか",
+      "kana": "においやか",
+      "gloss": "sweet-scented",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        280821
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1463450/匂い油/においあぶら": {
+      "id": 1463450,
+      "form": "匂い油",
+      "kana": "においあぶら",
+      "gloss": "perfumed hair oil",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "油": 3
+      },
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1463430/匂い菖蒲/においしょうぶ": {
+      "id": 1463430,
+      "form": "匂い菖蒲",
+      "kana": "においしょうぶ",
+      "gloss": "fragrant iris",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "におい": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.い"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1847680/咲匂う/さきにおう": {
+      "id": 1847680,
+      "form": "咲匂う",
+      "kana": "さきにおう",
+      "gloss": "to be in beautiful full bloom",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "咲": 7
+      },
+      "matched": {
+        "におう": {
+          "actual": "にお",
+          "dictionary": [
+            "にお.う"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1463460/匂わす/におわす": {
+      "id": 1463460,
+      "form": "匂わす",
+      "kana": "におわす",
+      "gloss": "to give off (a smell, scent, aroma)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        39444,
+        26144,
+        79465,
+        46140
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1599760/匂/におい": {
+      "id": 1599760,
+      "form": "匂",
+      "kana": "におい",
+      "gloss": "smell",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20590,
+        null,
+        42493,
+        32529
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2563130/匂やか/におやか": {
+      "id": 2563130,
+      "form": "匂やか",
+      "kana": "におやか",
+      "gloss": "sweet-scented",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        152969
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2844964/匂わせ女/におわせおんな": {
+      "id": 2844964,
+      "form": "匂わせ女",
+      "kana": "におわせおんな",
+      "gloss": "woman who hints at having a boyfriend (on social media)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "女": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2831388/匂玉/においだま": {
+      "id": 2831388,
+      "form": "匂玉",
+      "kana": "においだま",
+      "gloss": "tonsil stone",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "玉": 1
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2464920/匂菫/においすみれ": {
+      "id": 2464920,
+      "form": "匂菫",
+      "kana": "においすみれ",
+      "gloss": "sweet violet (Viola odorata)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2824810/匂桜/においざくら": {
+      "id": 2824810,
+      "form": "匂桜",
+      "kana": "においざくら",
+      "gloss": "cherry tree with fragrant flowers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "桜": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2066840/匂辛夷/たむしば": {
+      "id": 2066840,
+      "form": "匂辛夷",
+      "kana": "たむしば",
+      "gloss": "willow-leafed magnolia (Magnolia salicifolia)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "辛": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1599760:匂い:におい",
+      "form": "匂い",
+      "kana": "におい",
+      "cue": "smell; scent",
+      "ids": [
+        1599760
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1410,
+        "shiberu": 1879,
+        "tubelex": 1388,
+        "wordfreq": 2476
+      },
+      "alternatives_by_kanji": {
+        "匂": [
+          "1599780/匂う/におう",
+          "2058340/匂い立つ/においたつ",
+          "1847680/咲き匂う/さきにおう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

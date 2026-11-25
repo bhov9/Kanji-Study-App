@@ -1,0 +1,1465 @@
+{
+  "character": "配",
+  "grade": 3,
+  "meanings": [
+    "distribute",
+    "spouse",
+    "exile",
+    "rationing"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 164
+    }
+  ],
+  "components": [
+    "酉",
+    "已"
+  ],
+  "on": [
+    "ハイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "くば.る",
+      "stem": "くば",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "配",
+    "heading": "配",
+    "readings": [
+      "ハイ",
+      "くばる"
+    ],
+    "examples_by_reading": [
+      [
+        "配分",
+        "交配",
+        "心配"
+      ],
+      [
+        "配る"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "配",
+      "reading": "ハイ",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ハイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 263,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1473200/配分/はいぶん",
+        "1272490/交配/こうはい",
+        "1639050/配信/はいしん",
+        "1310270/支配/しはい",
+        "1473150/配置/はいち",
+        "1222510/気配/けはい",
+        "1473190/配布/はいふ",
+        "1473210/配慮/はいりょ",
+        "1473140/配達/はいたつ",
+        "1328260/手配/てはい"
+      ]
+    },
+    {
+      "reading": "くばる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1472990/配る/くばる",
+        "1980910/気を配る/きをくばる",
+        "2423690/目を配る/めをくばる",
+        "1876530/心を配る/こころをくばる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1472990/配る/くばる",
+    "1473200/配分/はいぶん",
+    "1272490/交配/こうはい",
+    "1639050/配信/はいしん",
+    "1310270/支配/しはい",
+    "1473150/配置/はいち",
+    "1222510/気配/けはい",
+    "1473190/配布/はいふ",
+    "1473210/配慮/はいりょ",
+    "1473140/配達/はいたつ",
+    "1328260/手配/てはい",
+    "1473110/配線/はいせん",
+    "1473220/配列/はいれつ",
+    "1473120/配送/はいそう",
+    "1473180/配備/はいび",
+    "1473170/配当/はいとう",
+    "1415780/宅配/たくはい",
+    "1625610/配管/はいかん",
+    "1473050/配偶/はいぐう",
+    "1473030/配給/はいきゅう",
+    "1473090/配色/はいしょく",
+    "1473000/配下/はいか",
+    "1473130/配属/はいぞく",
+    "1473160/配電/はいでん",
+    "1295140/采配/さいはい",
+    "1625750/配役/はいやく",
+    "1689750/配膳/はいぜん",
+    "1616970/配付/はいふ",
+    "1333770/集配/しゅうはい",
+    "1771770/増配/ぞうはい"
+  ],
+  "candidates": {
+    "1472990/配る/くばる": {
+      "id": 1472990,
+      "form": "配る",
+      "kana": "くばる",
+      "gloss": "to distribute",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3408,
+        4042,
+        14937,
+        3399
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "くばる": {
+          "actual": "くば",
+          "dictionary": [
+            "くば.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "くばる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1473200/配分/はいぶん": {
+      "id": 1473200,
+      "form": "配分",
+      "kana": "はいぶん",
+      "gloss": "distribution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10390,
+        8903,
+        11030,
+        18165
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1272490/交配/こうはい": {
+      "id": 1272490,
+      "form": "交配",
+      "kana": "こうはい",
+      "gloss": "mating",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28764,
+        13596,
+        17251,
+        38124
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "交": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1639050/配信/はいしん": {
+      "id": 1639050,
+      "form": "配信",
+      "kana": "はいしん",
+      "gloss": "distribution (of information, news, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6139,
+        448,
+        860,
+        8857
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "信": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1310270/支配/しはい": {
+      "id": 1310270,
+      "form": "支配",
+      "kana": "しはい",
+      "gloss": "rule",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1352,
+        2524,
+        1626,
+        2208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "支": 5
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473150/配置/はいち": {
+      "id": 1473150,
+      "form": "配置",
+      "kana": "はいち",
+      "gloss": "arrangement (of resources)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4647,
+        1481,
+        2809,
+        3761
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "置": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1222510/気配/けはい": {
+      "id": 1222510,
+      "form": "気配",
+      "kana": "けはい",
+      "gloss": "indication",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6177,
+        5127,
+        7146,
+        1520
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473190/配布/はいふ": {
+      "id": 1473190,
+      "form": "配布",
+      "kana": "はいふ",
+      "gloss": "distribution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        7242,
+        4265,
+        3315,
+        16384
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "布": 5
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1473210/配慮/はいりょ": {
+      "id": 1473210,
+      "form": "配慮",
+      "kana": "はいりょ",
+      "gloss": "consideration",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7293,
+        4055,
+        4345,
+        4950
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慮": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1473140/配達/はいたつ": {
+      "id": 1473140,
+      "form": "配達",
+      "kana": "はいたつ",
+      "gloss": "delivery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4781,
+        6843,
+        5446,
+        10702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "達": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1328260/手配/てはい": {
+      "id": 1328260,
+      "form": "手配",
+      "kana": "てはい",
+      "gloss": "arrangement",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5367,
+        8878,
+        7265,
+        3808
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473110/配線/はいせん": {
+      "id": 1473110,
+      "form": "配線",
+      "kana": "はいせん",
+      "gloss": "wiring",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        14279,
+        3568,
+        10860,
+        24609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "線": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473220/配列/はいれつ": {
+      "id": 1473220,
+      "form": "配列",
+      "kana": "はいれつ",
+      "gloss": "arranging",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13329,
+        6885,
+        10540,
+        33194
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "列": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473120/配送/はいそう": {
+      "id": 1473120,
+      "form": "配送",
+      "kana": "はいそう",
+      "gloss": "delivery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11463,
+        8365,
+        10217,
+        29101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "送": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473180/配備/はいび": {
+      "id": 1473180,
+      "form": "配備",
+      "kana": "はいび",
+      "gloss": "deployment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18125,
+        6843,
+        10372,
+        18049
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "備": 5
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473170/配当/はいとう": {
+      "id": 1473170,
+      "form": "配当",
+      "kana": "はいとう",
+      "gloss": "allotment",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20028,
+        5773,
+        13462,
+        49167
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1415780/宅配/たくはい": {
+      "id": 1415780,
+      "form": "宅配",
+      "kana": "たくはい",
+      "gloss": "home delivery",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10576,
+        14181,
+        8882,
+        25810
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宅": 6
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625610/配管/はいかん": {
+      "id": 1625610,
+      "form": "配管",
+      "kana": "はいかん",
+      "gloss": "plumbing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13099,
+        9975,
+        13462,
+        36470
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "管": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473050/配偶/はいぐう": {
+      "id": 1473050,
+      "form": "配偶",
+      "kana": "はいぐう",
+      "gloss": "combination",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12774,
+        11289,
+        13090,
+        112575
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "偶": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473030/配給/はいきゅう": {
+      "id": 1473030,
+      "form": "配給",
+      "kana": "はいきゅう",
+      "gloss": "distribution (e.g. films, rice)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10762,
+        14777,
+        14533,
+        26060
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "給": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473090/配色/はいしょく": {
+      "id": 1473090,
+      "form": "配色",
+      "kana": "はいしょく",
+      "gloss": "color scheme",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23023,
+        8246,
+        16770,
+        42329
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473000/配下/はいか": {
+      "id": 1473000,
+      "form": "配下",
+      "kana": "はいか",
+      "gloss": "followers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9837,
+        18076,
+        22590,
+        11910
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "下": 1
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473130/配属/はいぞく": {
+      "id": 1473130,
+      "form": "配属",
+      "kana": "はいぞく",
+      "gloss": "assignment (of a person to somewhere)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27656,
+        15642,
+        12479,
+        11899
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "属": 5
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473160/配電/はいでん": {
+      "id": 1473160,
+      "form": "配電",
+      "kana": "はいでん",
+      "gloss": "distribution of electricity",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16225,
+        18312,
+        43420,
+        74157
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1295140/采配/さいはい": {
+      "id": 1295140,
+      "form": "采配",
+      "kana": "さいはい",
+      "gloss": "baton (of command)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25797,
+        23030,
+        24433,
+        20441
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "采": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625750/配役/はいやく": {
+      "id": 1625750,
+      "form": "配役",
+      "kana": "はいやく",
+      "gloss": "casting (of a play, film, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20603,
+        36550,
+        25763,
+        28179
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "役": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1689750/配膳/はいぜん": {
+      "id": 1689750,
+      "form": "配膳",
+      "kana": "はいぜん",
+      "gloss": "setting a place",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        26255,
+        26575,
+        39319,
+        25545
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "膳": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1616970/配付/はいふ": {
+      "id": 1616970,
+      "form": "配付",
+      "kana": "はいふ",
+      "gloss": "distributing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32336,
+        28584,
+        46387,
+        88916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1333770/集配/しゅうはい": {
+      "id": 1333770,
+      "form": "集配",
+      "kana": "しゅうはい",
+      "gloss": "collection and delivery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30142,
+        65459,
+        59987,
+        93533
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "集": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1771770/増配/ぞうはい": {
+      "id": 1771770,
+      "form": "増配",
+      "kana": "ぞうはい",
+      "gloss": "increased ration",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        36806,
+        33040,
+        106463,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "増": 5
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1980910/気を配る/きをくばる": {
+      "id": 1980910,
+      "form": "気を配る",
+      "kana": "きをくばる",
+      "gloss": "to pay attention",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        9953
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "くばる": {
+          "actual": "くば",
+          "dictionary": [
+            "くば.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2423690/目を配る/めをくばる": {
+      "id": 2423690,
+      "form": "目を配る",
+      "kana": "めをくばる",
+      "gloss": "to keep an eye on",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26307
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "くばる": {
+          "actual": "くば",
+          "dictionary": [
+            "くば.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1876530/心を配る/こころをくばる": {
+      "id": 1876530,
+      "form": "心を配る",
+      "kana": "こころをくばる",
+      "gloss": "to pay attention (to)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71587
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "くばる": {
+          "actual": "くば",
+          "dictionary": [
+            "くば.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1275300:勾配:こうばい",
+      "form": "勾配",
+      "kana": "こうばい",
+      "cue": "slope; incline",
+      "ids": [
+        1275300
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 36638,
+        "shiberu": 10825,
+        "tubelex": 10359,
+        "wordfreq": 22895
+      },
+      "alternatives_by_kanji": {
+        "配": [
+          "1472990/配る/くばる",
+          "1473200/配分/はいぶん",
+          "1272490/交配/こうはい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1360930:心配:しんぱい",
+      "form": "心配",
+      "kana": "しんぱい",
+      "cue": "worry; concern",
+      "ids": [
+        1360930
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "dated"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 202,
+        "shiberu": 386,
+        "tubelex": 888,
+        "wordfreq": 790
+      },
+      "alternatives_by_kanji": {
+        "心": [
+          "1212450/感心/かんしん",
+          "1360750/心身/しんしん",
+          "1360920/心得る/こころえる"
+        ],
+        "配": [
+          "1472990/配る/くばる",
+          "1473200/配分/はいぶん",
+          "1272490/交配/こうはい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1473060:配偶者:はいぐうしゃ",
+      "form": "配偶者",
+      "kana": "はいぐうしゃ",
+      "cue": "spouse; wife",
+      "ids": [
+        1473060
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 34821
+      },
+      "alternatives_by_kanji": {
+        "者": [
+          "1159980/医者/いしゃ",
+          "1324350/若者/わかもの",
+          "1393090/前者/ぜんしゃ"
+        ],
+        "配": [
+          "1472990/配る/くばる",
+          "1473200/配分/はいぶん",
+          "1272490/交配/こうはい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1473210:配慮:はいりょ",
+      "form": "配慮",
+      "kana": "はいりょ",
+      "cue": "consideration; concern",
+      "ids": [
+        1473210
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4950,
+        "shiberu": 7293,
+        "tubelex": 4055,
+        "wordfreq": 4345
+      },
+      "alternatives_by_kanji": {
+        "配": [
+          "1472990/配る/くばる",
+          "1473200/配分/はいぶん",
+          "1272490/交配/こうはい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 75
+}

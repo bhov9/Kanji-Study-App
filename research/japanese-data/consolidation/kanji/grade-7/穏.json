@@ -1,0 +1,905 @@
+{
+  "character": "穏",
+  "grade": 7,
+  "meanings": [
+    "calm",
+    "quiet",
+    "moderation"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 115
+    }
+  ],
+  "components": [
+    "ヨ",
+    "禾",
+    "心",
+    "爪"
+  ],
+  "on": [
+    "オン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おだ.やか",
+      "stem": "おだ",
+      "okurigana": "やか"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "穏",
+    "heading": "穏（穩）",
+    "readings": [
+      "オン",
+      "おだやか"
+    ],
+    "examples_by_reading": [
+      [
+        "穏和",
+        "穏当",
+        "平穏"
+      ],
+      [
+        "穏やかだ"
+      ]
+    ],
+    "note_lines": [
+      "「安穏」は，「アンノン」。"
+    ],
+    "representative_index": {
+      "kanji": "穏",
+      "reading": "オン",
+      "source": "table_05_o.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "オン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 13,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1507070/平穏/へいおん",
+        "1183610/穏当/おんとう",
+        "1589620/穏和/おんわ",
+        "1491330/不穏/ふおん",
+        "1183620/穏便/おんびん",
+        "1183600/穏健/おんけん",
+        "1381850/静穏/せいおん",
+        "1153730/安穏/あんおん",
+        "1491340/不穏当/ふおんとう",
+        "1507080/平穏無事/へいおんぶじ"
+      ]
+    },
+    {
+      "reading": "おだやか",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1183590/穏やか/おだやか",
+        "2856703/心穏やか/こころおだやか",
+        "2849318/心中穏やかでない/しんちゅうおだやかでない"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1507070/平穏/へいおん",
+    "1183610/穏当/おんとう",
+    "1589620/穏和/おんわ",
+    "1183590/穏やか/おだやか",
+    "1491330/不穏/ふおん",
+    "1183620/穏便/おんびん",
+    "1183600/穏健/おんけん",
+    "1381850/静穏/せいおん",
+    "1153730/安穏/あんおん",
+    "2856703/心穏やか/こころおだやか",
+    "1491340/不穏当/ふおんとう",
+    "1507080/平穏無事/へいおんぶじ",
+    "1822430/穏健派/おんけんは",
+    "1491350/不穏分子/ふおんぶんし",
+    "2849318/心中穏やかでない/しんちゅうおだやかでない",
+    "2052930/無事平穏/ぶじへいおん",
+    "2042500/穏健路線/おんけんろせん",
+    "1491360/不穏文書/ふおんぶんしょ",
+    "2046100/資性穏和/しせいおんわ",
+    "1153730/安穏/あんのん",
+    "2041140/安穏無事/あんのんぶじ"
+  ],
+  "candidates": {
+    "1507070/平穏/へいおん": {
+      "id": 1507070,
+      "form": "平穏",
+      "kana": "へいおん",
+      "gloss": "tranquil",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7391,
+        15506,
+        14533,
+        4906
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "平": 3
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [
+        "オン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1183610/穏当/おんとう": {
+      "id": 1183610,
+      "form": "穏当",
+      "kana": "おんとう",
+      "gloss": "proper",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28592,
+        75655,
+        66810,
+        46948
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [
+        "オン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1589620/穏和/おんわ": {
+      "id": 1589620,
+      "form": "穏和",
+      "kana": "おんわ",
+      "gloss": "gentle (nature, personality, etc.)",
+      "senses": [
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39948,
+        81652,
+        104555,
+        50388
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "和": 3
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [
+        "オン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1183590/穏やか/おだやか": {
+      "id": 1183590,
+      "form": "穏やか",
+      "kana": "おだやか",
+      "gloss": "calm",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        5195,
+        4134,
+        5988,
+        2051
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おだやか": {
+          "actual": "おだ",
+          "dictionary": [
+            "おだ.やか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1491330/不穏/ふおん": {
+      "id": 1491330,
+      "form": "不穏",
+      "kana": "ふおん",
+      "gloss": "disquieting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16481,
+        12631,
+        17002,
+        5760
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1183620/穏便/おんびん": {
+      "id": 1183620,
+      "form": "穏便",
+      "kana": "おんびん",
+      "gloss": "gentle",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35753,
+        34763,
+        31382,
+        9814
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "便": 4
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1183600/穏健/おんけん": {
+      "id": 1183600,
+      "form": "穏健",
+      "kana": "おんけん",
+      "gloss": "moderate (view, politics, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        23435,
+        36026,
+        25040,
+        61720
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "健": 4
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1381850/静穏/せいおん": {
+      "id": 1381850,
+      "form": "静穏",
+      "kana": "せいおん",
+      "gloss": "tranquility",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        26256,
+        61110,
+        66155,
+        71757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "静": 4
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1153730/安穏/あんおん": {
+      "id": 1153730,
+      "form": "安穏",
+      "kana": "あんおん",
+      "gloss": "peace",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        38511,
+        38312,
+        57615,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856703/心穏やか/こころおだやか": {
+      "id": 2856703,
+      "form": "心穏やか",
+      "kana": "こころおだやか",
+      "gloss": "calm (emotions)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37400,
+        null,
+        27110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "おだやか": {
+          "actual": "おだ",
+          "dictionary": [
+            "おだ.やか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1491340/不穏当/ふおんとう": {
+      "id": 1491340,
+      "form": "不穏当",
+      "kana": "ふおんとう",
+      "gloss": "improper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        93840,
+        55538
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "当": 2
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1507080/平穏無事/へいおんぶじ": {
+      "id": 1507080,
+      "form": "平穏無事",
+      "kana": "へいおんぶじ",
+      "gloss": "peaceful",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        38086
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "事": 3,
+        "平": 3
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1822430/穏健派/おんけんは": {
+      "id": 1822430,
+      "form": "穏健派",
+      "kana": "おんけんは",
+      "gloss": "moderate faction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        41750
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "健": 4,
+        "派": 6
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1491350/不穏分子/ふおんぶんし": {
+      "id": 1491350,
+      "form": "不穏分子",
+      "kana": "ふおんぶんし",
+      "gloss": "dissidents",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        46675
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "子": 1,
+        "分": 2
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849318/心中穏やかでない/しんちゅうおだやかでない": {
+      "id": 2849318,
+      "form": "心中穏やかでない",
+      "kana": "しんちゅうおだやかでない",
+      "gloss": "uneasy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        146568
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2,
+        "中": 1
+      },
+      "matched": {
+        "おだやか": {
+          "actual": "おだ",
+          "dictionary": [
+            "おだ.やか"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2052930/無事平穏/ぶじへいおん": {
+      "id": 2052930,
+      "form": "無事平穏",
+      "kana": "ぶじへいおん",
+      "gloss": "peace and quiet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        159813
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "事": 3,
+        "平": 3
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2042500/穏健路線/おんけんろせん": {
+      "id": 2042500,
+      "form": "穏健路線",
+      "kana": "おんけんろせん",
+      "gloss": "moderate line",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "健": 4,
+        "路": 3,
+        "線": 2
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1491360/不穏文書/ふおんぶんしょ": {
+      "id": 1491360,
+      "form": "不穏文書",
+      "kana": "ふおんぶんしょ",
+      "gloss": "inflammatory pamphlets",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "不": 4,
+        "文": 1,
+        "書": 2
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2046100/資性穏和/しせいおんわ": {
+      "id": 2046100,
+      "form": "資性穏和",
+      "kana": "しせいおんわ",
+      "gloss": "being of a gentle disposition",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "資": 5,
+        "性": 5,
+        "和": 3
+      },
+      "matched": {
+        "オン": {
+          "actual": "おん",
+          "dictionary": [
+            "オン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1153730/安穏/あんのん": {
+      "id": 1153730,
+      "form": "安穏",
+      "kana": "あんのん",
+      "gloss": "peace",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        38511,
+        38312,
+        57615,
+        27647
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2041140/安穏無事/あんのんぶじ": {
+      "id": 2041140,
+      "form": "安穏無事",
+      "kana": "あんのんぶじ",
+      "gloss": "peace and quiet",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        239196
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "事": 3,
+        "安": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1183600:穏健:おんけん",
+      "form": "穏健",
+      "kana": "おんけん",
+      "cue": "moderate (view, politics, etc.); temperate",
+      "ids": [
+        1183600
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 61720,
+        "shiberu": 23435,
+        "tubelex": 36026,
+        "wordfreq": 25040
+      },
+      "alternatives_by_kanji": {
+        "健": [
+          "1256170/健康/けんこう",
+          "1236240/強健/きょうけん",
+          "1256380/健闘/けんとう"
+        ],
+        "穏": [
+          "1507070/平穏/へいおん",
+          "1183610/穏当/おんとう",
+          "1589620/穏和/おんわ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 2
+}

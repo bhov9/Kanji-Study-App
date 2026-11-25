@@ -1,0 +1,1373 @@
+{
+  "character": "午",
+  "grade": 2,
+  "meanings": [
+    "noon",
+    "sign of the horse",
+    "11AM-1PM",
+    "seventh sign of Chinese zodiac"
+  ],
+  "strokes": [
+    4
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 24
+    },
+    {
+      "type": "nelson_c",
+      "value": 4
+    }
+  ],
+  "components": [
+    "ノ",
+    "干",
+    "十",
+    "乞"
+  ],
+  "on": [
+    "ゴ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "うま",
+      "stem": "うま",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "午",
+    "heading": "午",
+    "readings": [
+      "ゴ"
+    ],
+    "examples_by_reading": [
+      [
+        "午前",
+        "正午",
+        "子午線"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "午",
+      "reading": "ゴ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ゴ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 26,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1269060/午前/ごぜん",
+        "1377080/正午/しょうご",
+        "1646560/子午線/しごせん",
+        "1268990/午後/ごご",
+        "1654440/端午/たんご",
+        "1269050/午睡/ごすい",
+        "1269030/午餐/ごさん",
+        "2562370/庚午/こうご",
+        "2562850/戊午/ぼご",
+        "2576270/午飯/ごはん"
+      ]
+    },
+    {
+      "reading": "うま",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2562370/庚午/かのえうま",
+        "2562850/戊午/つちのえうま",
+        "2534010/初午/はつうま",
+        "1505970/丙午/ひのえうま",
+        "2562330/甲午/きのえうま",
+        "1269090/午年/うまどし",
+        "2562480/壬午/みずのえうま",
+        "2845242/午の日/うまのひ",
+        "2853744/午の年/うまのとし",
+        "1268970/午/うま"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1269060/午前/ごぜん",
+    "1377080/正午/しょうご",
+    "1646560/子午線/しごせん",
+    "1268990/午後/ごご",
+    "1654440/端午/たんご",
+    "1269050/午睡/ごすい",
+    "2562370/庚午/かのえうま",
+    "1269030/午餐/ごさん",
+    "2562370/庚午/こうご",
+    "2562850/戊午/つちのえうま",
+    "2534010/初午/はつうま",
+    "1505970/丙午/ひのえうま",
+    "2562850/戊午/ぼご",
+    "2576270/午飯/ごはん",
+    "1505970/丙午/へいご",
+    "1269080/午前様/ごぜんさま",
+    "2562330/甲午/きのえうま",
+    "1269090/午年/うまどし",
+    "2562480/壬午/みずのえうま",
+    "1269100/午砲/ごほう",
+    "1269020/午刻/ごこく",
+    "1269070/午前中/ごぜんちゅう",
+    "2562330/甲午/こうご",
+    "2562480/壬午/じんご",
+    "2517730/午前零時/ごぜんれいじ",
+    "2237370/午後一/ごごいち",
+    "2138430/端午の節句/たんごのせっく",
+    "2857642/日午/にちご",
+    "2838730/午後零時/ごごれいじ",
+    "2858804/午後休/ごごきゅう"
+  ],
+  "candidates": {
+    "1269060/午前/ごぜん": {
+      "id": 1269060,
+      "form": "午前",
+      "kana": "ごぜん",
+      "gloss": "morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        1783,
+        3001,
+        2289,
+        4013
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1377080/正午/しょうご": {
+      "id": 1377080,
+      "form": "正午",
+      "kana": "しょうご",
+      "gloss": "noon",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        3269,
+        16722,
+        11204,
+        12150
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "正": 1
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1646560/子午線/しごせん": {
+      "id": 1646560,
+      "form": "子午線",
+      "kana": "しごせん",
+      "gloss": "meridian",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        68819,
+        162037
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1,
+        "線": 2
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1268990/午後/ごご": {
+      "id": 1268990,
+      "form": "午後",
+      "kana": "ごご",
+      "gloss": "afternoon",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        617,
+        2453,
+        1753,
+        1669
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1654440/端午/たんご": {
+      "id": 1654440,
+      "form": "端午",
+      "kana": "たんご",
+      "gloss": "Boys' Day celebration (May 5)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30709,
+        38312,
+        53687,
+        148855
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "端": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269050/午睡/ごすい": {
+      "id": 1269050,
+      "form": "午睡",
+      "kana": "ごすい",
+      "gloss": "nap",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        26291,
+        89646,
+        98142,
+        57726
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "睡": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562370/庚午/かのえうま": {
+      "id": 2562370,
+      "form": "庚午",
+      "kana": "かのえうま",
+      "gloss": "Metal Horse (7th term of the sexagenary cycle, e.g. 1930, 1990, 2050)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33415,
+        81652,
+        140911,
+        240218
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269030/午餐/ごさん": {
+      "id": 1269030,
+      "form": "午餐",
+      "kana": "ごさん",
+      "gloss": "lunch",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39010,
+        109954,
+        129940,
+        129269
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562370/庚午/こうご": {
+      "id": 2562370,
+      "form": "庚午",
+      "kana": "こうご",
+      "gloss": "Metal Horse (7th term of the sexagenary cycle, e.g. 1930, 1990, 2050)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33415,
+        81652,
+        140911,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562850/戊午/つちのえうま": {
+      "id": 2562850,
+      "form": "戊午",
+      "kana": "つちのえうま",
+      "gloss": "Earth Horse (55th term of the sexagenary cycle, e.g. 1918, 1978, 2038)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37327,
+        173792,
+        null,
+        217919
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2534010/初午/はつうま": {
+      "id": 2534010,
+      "form": "初午",
+      "kana": "はつうま",
+      "gloss": "first \"horse day\" in any lunar month, but esp. the second lunar month",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        85597,
+        148527
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4
+      },
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505970/丙午/ひのえうま": {
+      "id": 1505970,
+      "form": "丙午",
+      "kana": "ひのえうま",
+      "gloss": "Fire Horse (43rd term of the sexagenary cycle, e.g. 1906, 1966, 2026)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        96370,
+        152368
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "丙": 7
+      },
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562850/戊午/ぼご": {
+      "id": 2562850,
+      "form": "戊午",
+      "kana": "ぼご",
+      "gloss": "Earth Horse (55th term of the sexagenary cycle, e.g. 1918, 1978, 2038)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37327,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2576270/午飯/ごはん": {
+      "id": 2576270,
+      "form": "午飯",
+      "kana": "ごはん",
+      "gloss": "lunch",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38347,
+        null,
+        null,
+        161159
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505970/丙午/へいご": {
+      "id": 1505970,
+      "form": "丙午",
+      "kana": "へいご",
+      "gloss": "Fire Horse (43rd term of the sexagenary cycle, e.g. 1906, 1966, 2026)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        96370,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "丙": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269080/午前様/ごぜんさま": {
+      "id": 1269080,
+      "form": "午前様",
+      "kana": "ごぜんさま",
+      "gloss": "coming home after midnight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        99903,
+        87784
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3,
+        "前": 2
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562330/甲午/きのえうま": {
+      "id": 2562330,
+      "form": "甲午",
+      "kana": "きのえうま",
+      "gloss": "Wood Horse (31st term of the sexagenary cycle, e.g. 1954, 2014, 2074)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        204727
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "甲": 7
+      },
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269090/午年/うまどし": {
+      "id": 1269090,
+      "form": "午年",
+      "kana": "うまどし",
+      "gloss": "year of the Horse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        131481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562480/壬午/みずのえうま": {
+      "id": 2562480,
+      "form": "壬午",
+      "kana": "みずのえうま",
+      "gloss": "Water Horse (19th term of the sexagenary cycle, e.g. 1942, 2002, 2062)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        188275
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269100/午砲/ごほう": {
+      "id": 1269100,
+      "form": "午砲",
+      "kana": "ごほう",
+      "gloss": "noon gun",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        161418
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "砲": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269020/午刻/ごこく": {
+      "id": 1269020,
+      "form": "午刻",
+      "kana": "ごこく",
+      "gloss": "noon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        279415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刻": 6
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1269070/午前中/ごぜんちゅう": {
+      "id": 1269070,
+      "form": "午前中",
+      "kana": "ごぜんちゅう",
+      "gloss": "in the morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5401
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2,
+        "中": 1
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562330/甲午/こうご": {
+      "id": 2562330,
+      "form": "甲午",
+      "kana": "こうご",
+      "gloss": "Wood Horse (31st term of the sexagenary cycle, e.g. 1954, 2014, 2074)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "甲": 7
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562480/壬午/じんご": {
+      "id": 2562480,
+      "form": "壬午",
+      "kana": "じんご",
+      "gloss": "Water Horse (19th term of the sexagenary cycle, e.g. 1942, 2002, 2062)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2517730/午前零時/ごぜんれいじ": {
+      "id": 2517730,
+      "form": "午前零時",
+      "kana": "ごぜんれいじ",
+      "gloss": "midnight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50996
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2,
+        "零": 7,
+        "時": 2
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2237370/午後一/ごごいち": {
+      "id": 2237370,
+      "form": "午後一",
+      "kana": "ごごいち",
+      "gloss": "first thing in the afternoon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        67801
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "一": 1
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2138430/端午の節句/たんごのせっく": {
+      "id": 2138430,
+      "form": "端午の節句",
+      "kana": "たんごのせっく",
+      "gloss": "Boys' Day celebration (May 5)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        91172
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "端": 7,
+        "句": 5,
+        "節": 4
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857642/日午/にちご": {
+      "id": 2857642,
+      "form": "日午",
+      "kana": "にちご",
+      "gloss": "noon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        129002
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2838730/午後零時/ごごれいじ": {
+      "id": 2838730,
+      "form": "午後零時",
+      "kana": "ごごれいじ",
+      "gloss": "noon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        135971
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "零": 7,
+        "時": 2
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858804/午後休/ごごきゅう": {
+      "id": 2858804,
+      "form": "午後休",
+      "kana": "ごごきゅう",
+      "gloss": "taking the afternoon off",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        141418
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2,
+        "休": 1
+      },
+      "matched": {
+        "ゴ": {
+          "actual": "ご",
+          "dictionary": [
+            "ゴ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845242/午の日/うまのひ": {
+      "id": 2845242,
+      "form": "午の日",
+      "kana": "うまのひ",
+      "gloss": "day of the Horse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        227852
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2853744/午の年/うまのとし": {
+      "id": 2853744,
+      "form": "午の年",
+      "kana": "うまのとし",
+      "gloss": "year of the Horse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1268970/午/うま": {
+      "id": 1268970,
+      "form": "午",
+      "kana": "うま",
+      "gloss": "the Horse (seventh sign of the Chinese zodiac)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        49750
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うま": {
+          "actual": "うま",
+          "dictionary": [
+            "うま"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1268990:午后:ごご",
+      "form": "午后",
+      "kana": "ごご",
+      "cue": "afternoon; p.m.",
+      "ids": [
+        1268990
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 198301,
+        "shiberu": 35505,
+        "wordfreq": 154467
+      },
+      "alternatives_by_kanji": {
+        "午": [
+          "1269060/午前/ごぜん",
+          "1377080/正午/しょうご",
+          "1646560/子午線/しごせん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1268990:午後:ごご",
+      "form": "午後",
+      "kana": "ごご",
+      "cue": "afternoon; p.m.",
+      "ids": [
+        1268990
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1669,
+        "shiberu": 617,
+        "tubelex": 2453,
+        "wordfreq": 1753
+      },
+      "alternatives_by_kanji": {
+        "午": [
+          "1269060/午前/ごぜん",
+          "1377080/正午/しょうご",
+          "1646560/子午線/しごせん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1269060:午前:ごぜん",
+      "form": "午前",
+      "kana": "ごぜん",
+      "cue": "morning; a.m.",
+      "ids": [
+        1269060
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4013,
+        "shiberu": 1783,
+        "tubelex": 3001,
+        "wordfreq": 2289
+      },
+      "alternatives_by_kanji": {
+        "午": [
+          "1377080/正午/しょうご",
+          "1646560/子午線/しごせん",
+          "1268990/午後/ごご"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

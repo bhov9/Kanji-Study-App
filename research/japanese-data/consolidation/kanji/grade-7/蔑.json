@@ -1,0 +1,707 @@
+{
+  "character": "蔑",
+  "grade": 7,
+  "meanings": [
+    "ignore",
+    "despise",
+    "neglect",
+    "ridicule"
+  ],
+  "strokes": [
+    14,
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 140
+    }
+  ],
+  "components": [
+    "ノ",
+    "買",
+    "戈",
+    "艾"
+  ],
+  "on": [
+    "ベツ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ないがしろ",
+      "stem": "ないがしろ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "なみ.する",
+      "stem": "なみ",
+      "okurigana": "する"
+    },
+    {
+      "sourceNotation": "くらい",
+      "stem": "くらい",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "さげす.む",
+      "stem": "さげす",
+      "okurigana": "む"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "蔑",
+    "heading": "蔑",
+    "readings": [
+      "ベツ",
+      "さげすむ"
+    ],
+    "examples_by_reading": [
+      [
+        "蔑視",
+        "軽蔑"
+      ],
+      [
+        "蔑む"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "蔑",
+      "reading": "ベツ",
+      "source": "table_29_he.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ベツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 7,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1252860/軽蔑/けいべつ",
+        "1510290/蔑視/べっし",
+        "1498270/侮蔑/ぶべつ",
+        "2815700/侮蔑的/ぶべつてき",
+        "2644770/軽蔑的/けいべつてき",
+        "2513620/侮蔑語/ぶべつご",
+        "2872750/蔑如/べつじょ",
+        "2217180/軽蔑語/けいべつご"
+      ]
+    },
+    {
+      "reading": "さげすむ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1510260/蔑む/さげすむ"
+      ]
+    },
+    {
+      "reading": "ないがしろ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "なみする",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2273450/蔑する/なみする"
+      ]
+    },
+    {
+      "reading": "くらい",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1252860/軽蔑/けいべつ",
+    "1510260/蔑む/さげすむ",
+    "1510290/蔑視/べっし",
+    "1498270/侮蔑/ぶべつ",
+    "2815700/侮蔑的/ぶべつてき",
+    "2644770/軽蔑的/けいべつてき",
+    "2513620/侮蔑語/ぶべつご",
+    "2872750/蔑如/べつじょ",
+    "2217180/軽蔑語/けいべつご",
+    "1833010/蔑称/べっしょう",
+    "2517140/蔑み/さげすみ",
+    "2220210/女性蔑視/じょせいべっし",
+    "2273450/蔑する/なみする",
+    "1510270/蔑ろ/ないがしろ",
+    "1510280/蔑ろにする/ないがしろにする"
+  ],
+  "candidates": {
+    "1252860/軽蔑/けいべつ": {
+      "id": 1252860,
+      "form": "軽蔑",
+      "kana": "けいべつ",
+      "gloss": "contempt",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2697,
+        17042,
+        16515,
+        7048
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軽": 3
+      },
+      "matched": {
+        "ベツ": {
+          "actual": "べつ",
+          "dictionary": [
+            "ベツ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ベツ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1510260/蔑む/さげすむ": {
+      "id": 1510260,
+      "form": "蔑む",
+      "kana": "さげすむ",
+      "gloss": "to scorn",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        25830,
+        24210,
+        52075,
+        10846
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "さげすむ": {
+          "actual": "さげす",
+          "dictionary": [
+            "さげす.む"
+          ]
+        }
+      },
+      "official_examples": [
+        "さげすむ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1510290/蔑視/べっし": {
+      "id": 1510290,
+      "form": "蔑視",
+      "kana": "べっし",
+      "gloss": "contempt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        29550,
+        48827,
+        31791,
+        48782
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {
+        "ベツ": {
+          "actual": "べっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ベツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1498270/侮蔑/ぶべつ": {
+      "id": 1498270,
+      "form": "侮蔑",
+      "kana": "ぶべつ",
+      "gloss": "scorn",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21395,
+        36842,
+        29116,
+        15760
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "侮": 7
+      },
+      "matched": {
+        "ベツ": {
+          "actual": "べつ",
+          "dictionary": [
+            "ベツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2815700/侮蔑的/ぶべつてき": {
+      "id": 2815700,
+      "form": "侮蔑的",
+      "kana": "ぶべつてき",
+      "gloss": "insulting",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        80707
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "的": 4,
+        "侮": 7
+      },
+      "matched": {
+        "ベツ": {
+          "actual": "べつ",
+          "dictionary": [
+            "ベツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2644770/軽蔑的/けいべつてき": {
+      "id": 2644770,
+      "form": "軽蔑的",
+      "kana": "けいべつてき",
+      "gloss": "contemptuous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        124774
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軽": 3,
+        "的": 4
+      },
+      "matched": {
+        "ベツ": {
+          "actual": "べつ",
+          "dictionary": [
+            "ベツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2513620/侮蔑語/ぶべつご": {
+      "id": 2513620,
+      "form": "侮蔑語",
+      "kana": "ぶべつご",
+      "gloss": "pejorative term",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        186930
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "侮": 7,
+        "語": 2
+      },
+      "matched": {
+        "ベツ": {
+          "actual": "べつ",
+          "dictionary": [
+            "ベツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872750/蔑如/べつじょ": {
+      "id": 2872750,
+      "form": "蔑如",
+      "kana": "べつじょ",
+      "gloss": "looking down on",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "如": 7
+      },
+      "matched": {
+        "ベツ": {
+          "actual": "べつ",
+          "dictionary": [
+            "ベツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2217180/軽蔑語/けいべつご": {
+      "id": 2217180,
+      "form": "軽蔑語",
+      "kana": "けいべつご",
+      "gloss": "pejorative term",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "軽": 3,
+        "語": 2
+      },
+      "matched": {
+        "ベツ": {
+          "actual": "べつ",
+          "dictionary": [
+            "ベツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1833010/蔑称/べっしょう": {
+      "id": 1833010,
+      "form": "蔑称",
+      "kana": "べっしょう",
+      "gloss": "disparaging term",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        37034,
+        49514
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "称": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2517140/蔑み/さげすみ": {
+      "id": 2517140,
+      "form": "蔑み",
+      "kana": "さげすみ",
+      "gloss": "contempt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        65516,
+        32024
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2220210/女性蔑視/じょせいべっし": {
+      "id": 2220210,
+      "form": "女性蔑視",
+      "kana": "じょせいべっし",
+      "gloss": "misogyny",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        88080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "女": 1,
+        "性": 5,
+        "視": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2273450/蔑する/なみする": {
+      "id": 2273450,
+      "form": "蔑する",
+      "kana": "なみする",
+      "gloss": "to set at naught",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "vs-i",
+        "vt"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        null,
+        139593,
+        null,
+        153928
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なみする": {
+          "actual": "なみ",
+          "dictionary": [
+            "なみ.する"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1510270/蔑ろ/ないがしろ": {
+      "id": 1510270,
+      "form": "蔑ろ",
+      "kana": "ないがしろ",
+      "gloss": "(a) slight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        31817,
+        23030,
+        39319,
+        57499
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1510280/蔑ろにする/ないがしろにする": {
+      "id": 1510280,
+      "form": "蔑ろにする",
+      "kana": "ないがしろにする",
+      "gloss": "to make light of",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-i"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        24117
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1252860:軽蔑:けいべつ",
+      "form": "軽蔑",
+      "kana": "けいべつ",
+      "cue": "contempt; scorn",
+      "ids": [
+        1252860
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7048,
+        "shiberu": 2697,
+        "tubelex": 17042,
+        "wordfreq": 16515
+      },
+      "alternatives_by_kanji": {
+        "軽": [
+          "1252560/軽い/かるい",
+          "1252600/軽快/けいかい",
+          "1252910/軽率/けいそつ"
+        ],
+        "蔑": [
+          "1510260/蔑む/さげすむ",
+          "1510290/蔑視/べっし",
+          "1498270/侮蔑/ぶべつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

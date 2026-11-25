@@ -1,0 +1,1359 @@
+{
+  "character": "計",
+  "grade": 2,
+  "meanings": [
+    "plot",
+    "plan",
+    "scheme",
+    "measure"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "十"
+  ],
+  "on": [
+    "ケイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はか.る",
+      "stem": "はか",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "はか.らう",
+      "stem": "はか",
+      "okurigana": "らう"
+    }
+  ],
+  "nanori": [
+    "え",
+    "かず",
+    "け"
+  ],
+  "government": {
+    "kanji": "計",
+    "heading": "計",
+    "readings": [
+      "ケイ",
+      "はかる",
+      "はからう"
+    ],
+    "examples_by_reading": [
+      [
+        "計算",
+        "計画",
+        "寒暖計"
+      ],
+      [
+        "計る"
+      ],
+      [
+        "計らう",
+        "計らい"
+      ]
+    ],
+    "note_lines": [
+      "時計（とけい）",
+      "⇔測る，量る，図る，謀る",
+      "",
+      ""
+    ],
+    "representative_index": {
+      "kanji": "計",
+      "reading": "ケイ",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "時計"
+      ],
+      "reading": "とけい",
+      "stage": "elementary",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "ケイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 384,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1252090/計画/けいかく",
+        "1252140/計算/けいさん",
+        "1210480/寒暖計/かんだんけい",
+        "1386020/設計/せっけい",
+        "1544090/余計/よけい",
+        "1284740/合計/ごうけい",
+        "1198430/会計/かいけい",
+        "1449710/統計/とうけい",
+        "1191910/家計/かけい",
+        "1333640/集計/しゅうけい"
+      ]
+    },
+    {
+      "reading": "はかる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1600650/計る/はかる",
+        "1589170/推し計る/おしはかる"
+      ]
+    },
+    {
+      "reading": "はからう",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1252060/計らい/はからい",
+        "1252070/計らう/はからう",
+        "1259510/見計らう/みはからう",
+        "1326660/取り計らう/とりはからう",
+        "1326660/取計らう/とりはからう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1252090/計画/けいかく",
+    "1252140/計算/けいさん",
+    "1252060/計らい/はからい",
+    "1600650/計る/はかる",
+    "1252070/計らう/はからう",
+    "1210480/寒暖計/かんだんけい",
+    "1386020/設計/せっけい",
+    "1544090/余計/よけい",
+    "1284740/合計/ごうけい",
+    "1198430/会計/かいけい",
+    "1449710/統計/とうけい",
+    "1191910/家計/かけい",
+    "1333640/集計/しゅうけい",
+    "1252230/計測/けいそく",
+    "1252200/計上/けいじょう",
+    "1378920/生計/せいけい",
+    "1555970/累計/るいけい",
+    "1401540/総計/そうけい",
+    "1252260/計量/けいりょう",
+    "1252130/計器/けいき",
+    "1371100/推計/すいけい",
+    "1259510/見計らう/みはからう",
+    "1252250/計略/けいりゃく",
+    "1326660/取り計らう/とりはからう",
+    "1400220/早計/そうけい",
+    "1325340/主計/しゅけい",
+    "1162070/一計/いっけい",
+    "1565970/奸計/かんけい",
+    "1252210/計数/けいすう",
+    "1348010/小計/しょうけい"
+  ],
+  "candidates": {
+    "1252090/計画/けいかく": {
+      "id": 1252090,
+      "form": "計画",
+      "kana": "けいかく",
+      "gloss": "plan",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        354,
+        1054,
+        552,
+        1389
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1252140/計算/けいさん": {
+      "id": 1252140,
+      "form": "計算",
+      "kana": "けいさん",
+      "gloss": "calculation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1572,
+        1169,
+        1974,
+        2355
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "算": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1252060/計らい/はからい": {
+      "id": 1252060,
+      "form": "計らい",
+      "kana": "はからい",
+      "gloss": "arrangement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19151,
+        24022,
+        64910,
+        20511
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はからう": {
+          "actual": "はか",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はからう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1600650/計る/はかる": {
+      "id": 1600650,
+      "form": "計る",
+      "kana": "はかる",
+      "gloss": "to measure",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4924,
+        null,
+        29116,
+        6701
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はかる": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "はかる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1252070/計らう/はからう": {
+      "id": 1252070,
+      "form": "計らう",
+      "kana": "はからう",
+      "gloss": "to manage",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        37110,
+        153062,
+        40170
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はからう": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.らう"
+          ]
+        }
+      },
+      "official_examples": [
+        "はからう"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1210480/寒暖計/かんだんけい": {
+      "id": 1210480,
+      "form": "寒暖計",
+      "kana": "かんだんけい",
+      "gloss": "thermometer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        153062,
+        145118
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暖": 6,
+        "寒": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1386020/設計/せっけい": {
+      "id": 1386020,
+      "form": "設計",
+      "kana": "せっけい",
+      "gloss": "plan",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3357,
+        1583,
+        1504,
+        7286
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "設": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1544090/余計/よけい": {
+      "id": 1544090,
+      "form": "余計",
+      "kana": "よけい",
+      "gloss": "extra",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        4337,
+        2807,
+        3167,
+        756
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "余": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1284740/合計/ごうけい": {
+      "id": 1284740,
+      "form": "合計",
+      "kana": "ごうけい",
+      "gloss": "sum total",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3228,
+        2209,
+        3048,
+        7383
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1198430/会計/かいけい": {
+      "id": 1198430,
+      "form": "会計",
+      "kana": "かいけい",
+      "gloss": "accounting",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        2773,
+        4113,
+        4852,
+        11485
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449710/統計/とうけい": {
+      "id": 1449710,
+      "form": "統計",
+      "kana": "とうけい",
+      "gloss": "statistics",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5234,
+        4092,
+        3663,
+        23709
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "統": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1191910/家計/かけい": {
+      "id": 1191910,
+      "form": "家計",
+      "kana": "かけい",
+      "gloss": "household economy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8731,
+        6809,
+        10707,
+        20512
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1333640/集計/しゅうけい": {
+      "id": 1333640,
+      "form": "集計",
+      "kana": "しゅうけい",
+      "gloss": "totalization",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9649,
+        7828,
+        9023,
+        26748
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "集": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1252230/計測/けいそく": {
+      "id": 1252230,
+      "form": "計測",
+      "kana": "けいそく",
+      "gloss": "measuring",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31909,
+        5299,
+        9163,
+        16820
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "測": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1252200/計上/けいじょう": {
+      "id": 1252200,
+      "form": "計上",
+      "kana": "けいじょう",
+      "gloss": "including (a cost) in a total calculation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11433,
+        9021,
+        15390,
+        44826
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1378920/生計/せいけい": {
+      "id": 1378920,
+      "form": "生計",
+      "kana": "せいけい",
+      "gloss": "livelihood",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6695,
+        20014,
+        17251,
+        56319
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1555970/累計/るいけい": {
+      "id": 1555970,
+      "form": "累計",
+      "kana": "るいけい",
+      "gloss": "cumulative total",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27065,
+        10575,
+        8450,
+        38488
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "累": 7
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1401540/総計/そうけい": {
+      "id": 1401540,
+      "form": "総計",
+      "kana": "そうけい",
+      "gloss": "total",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8963,
+        33644,
+        23216,
+        53052
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "総": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252260/計量/けいりょう": {
+      "id": 1252260,
+      "form": "計量",
+      "kana": "けいりょう",
+      "gloss": "measuring",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20303,
+        15404,
+        21173,
+        47101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "量": 4
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252130/計器/けいき": {
+      "id": 1252130,
+      "form": "計器",
+      "kana": "けいき",
+      "gloss": "meter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15777,
+        24703,
+        26398,
+        32492
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "器": 4
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1371100/推計/すいけい": {
+      "id": 1371100,
+      "form": "推計",
+      "kana": "すいけい",
+      "gloss": "estimate",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27090,
+        18888,
+        17751,
+        101029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "推": 6
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1259510/見計らう/みはからう": {
+      "id": 1259510,
+      "form": "見計らう",
+      "kana": "みはからう",
+      "gloss": "to choose at one's own discretion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28746,
+        20245,
+        157245,
+        6578
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "見": 1
+      },
+      "matched": {
+        "はからう": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.らう"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252250/計略/けいりゃく": {
+      "id": 1252250,
+      "form": "計略",
+      "kana": "けいりゃく",
+      "gloss": "plan",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24554,
+        29670,
+        30598,
+        28041
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "略": 5
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1326660/取り計らう/とりはからう": {
+      "id": 1326660,
+      "form": "取り計らう",
+      "kana": "とりはからう",
+      "gloss": "to manage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18189,
+        62423,
+        112310,
+        29477
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "はからう": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.らう"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1400220/早計/そうけい": {
+      "id": 1400220,
+      "form": "早計",
+      "kana": "そうけい",
+      "gloss": "overhasty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39544,
+        43098,
+        45882,
+        22397
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "早": 1
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1325340/主計/しゅけい": {
+      "id": 1325340,
+      "form": "主計",
+      "kana": "しゅけい",
+      "gloss": "paymaster",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24433,
+        53060,
+        56518,
+        76315
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1162070/一計/いっけい": {
+      "id": 1162070,
+      "form": "一計",
+      "kana": "いっけい",
+      "gloss": "plan",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21326,
+        65459,
+        105543,
+        75418
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1565970/奸計/かんけい": {
+      "id": 1565970,
+      "form": "奸計",
+      "kana": "かんけい",
+      "gloss": "evil design",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35518,
+        null,
+        129940,
+        50588
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252210/計数/けいすう": {
+      "id": 1252210,
+      "form": "計数",
+      "kana": "けいすう",
+      "gloss": "calculation",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        52075,
+        109142
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1348010/小計/しょうけい": {
+      "id": 1348010,
+      "form": "小計",
+      "kana": "しょうけい",
+      "gloss": "subtotal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        117502,
+        153343
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "ケイ": {
+          "actual": "けい",
+          "dictionary": [
+            "ケイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589170/推し計る/おしはかる": {
+      "id": 1589170,
+      "form": "推し計る",
+      "kana": "おしはかる",
+      "gloss": "to guess",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        222101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "推": 6
+      },
+      "matched": {
+        "はかる": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1326660/取計らう/とりはからう": {
+      "id": 1326660,
+      "form": "取計らう",
+      "kana": "とりはからう",
+      "gloss": "to manage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        173508
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "はからう": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.らう"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1252090:計画:けいかく",
+      "form": "計画",
+      "kana": "けいかく",
+      "cue": "plan; project",
+      "ids": [
+        1252090
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1389,
+        "shiberu": 354,
+        "tubelex": 1054,
+        "wordfreq": 552
+      },
+      "alternatives_by_kanji": {
+        "画": [
+          "1173720/映画/えいが",
+          "1197120/画家/がか",
+          "1592110/区画/くかく"
+        ],
+        "計": [
+          "1252140/計算/けいさん",
+          "1252060/計らい/はからい",
+          "1600650/計る/はかる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 116
+}

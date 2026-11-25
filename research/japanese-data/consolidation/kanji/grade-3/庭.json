@@ -1,0 +1,1218 @@
+{
+  "character": "庭",
+  "grade": 3,
+  "meanings": [
+    "courtyard",
+    "garden",
+    "yard"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 53
+    }
+  ],
+  "components": [
+    "王",
+    "广",
+    "廴"
+  ],
+  "on": [
+    "テイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "にわ",
+      "stem": "にわ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "ば"
+  ],
+  "government": {
+    "kanji": "庭",
+    "heading": "庭",
+    "readings": [
+      "テイ",
+      "にわ"
+    ],
+    "examples_by_reading": [
+      [
+        "庭園",
+        "校庭",
+        "家庭"
+      ],
+      [
+        "庭",
+        "庭先"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "庭",
+      "reading": "テイ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 72,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1192280/家庭/かてい",
+        "1436140/庭園/ていえん",
+        "1279600/校庭/こうてい",
+        "1393670/前庭/ぜんてい",
+        "2836524/後庭/こうてい",
+        "1794870/営庭/えいてい",
+        "2586370/南庭/なんてい",
+        "1382730/石庭/せきてい",
+        "1436150/庭球/ていきゅう",
+        "1854480/庭前/ていぜん"
+      ]
+    },
+    {
+      "reading": "にわ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 40,
+      "frequent_unflagged_examples": 3,
+      "current_support": false,
+      "candidates": [
+        "1436130/庭/にわ",
+        "1762790/庭先/にわさき",
+        "1424980/中庭/なかにわ",
+        "1550500/裏庭/うらにわ",
+        "1643190/庭師/にわし",
+        "1476400/箱庭/はこにわ",
+        "1436180/庭木/にわき",
+        "1762780/庭石/にわいし",
+        "1393670/前庭/まえにわ",
+        "1582550/内庭/うちにわ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1436130/庭/にわ",
+    "1192280/家庭/かてい",
+    "1436140/庭園/ていえん",
+    "1279600/校庭/こうてい",
+    "1762790/庭先/にわさき",
+    "1424980/中庭/なかにわ",
+    "1550500/裏庭/うらにわ",
+    "1643190/庭師/にわし",
+    "1476400/箱庭/はこにわ",
+    "1393670/前庭/ぜんてい",
+    "1436180/庭木/にわき",
+    "1762780/庭石/にわいし",
+    "1393670/前庭/まえにわ",
+    "2836524/後庭/こうてい",
+    "1794870/営庭/えいてい",
+    "2586370/南庭/なんてい",
+    "1382730/石庭/せきてい",
+    "1436150/庭球/ていきゅう",
+    "1582550/内庭/うちにわ",
+    "1854480/庭前/ていぜん",
+    "2587420/茶庭/ちゃてい",
+    "2683190/園庭/えんてい",
+    "1436170/庭番/にわばん",
+    "2220310/庭作り/にわづくり",
+    "2559210/坪庭/つぼにわ",
+    "2012440/庭付き/にわつき",
+    "2088900/作庭/さくてい",
+    "1582550/内庭/ないてい",
+    "2741940/庭内/ていない",
+    "2055710/庭弄り/にわいじり"
+  ],
+  "candidates": {
+    "1436130/庭/にわ": {
+      "id": 1436130,
+      "form": "庭",
+      "kana": "にわ",
+      "gloss": "garden",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        459,
+        2890,
+        3809,
+        2665
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [
+        "にわ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1192280/家庭/かてい": {
+      "id": 1192280,
+      "form": "家庭",
+      "kana": "かてい",
+      "gloss": "home",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        970,
+        1498,
+        1587,
+        2839
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "家": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1436140/庭園/ていえん": {
+      "id": 1436140,
+      "form": "庭園",
+      "kana": "ていえん",
+      "gloss": "garden",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3967,
+        7112,
+        9888,
+        13095
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "園": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1279600/校庭/こうてい": {
+      "id": 1279600,
+      "form": "校庭",
+      "kana": "こうてい",
+      "gloss": "schoolyard",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5964,
+        18521,
+        24433,
+        10616
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "校": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1762790/庭先/にわさき": {
+      "id": 1762790,
+      "form": "庭先",
+      "kana": "にわさき",
+      "gloss": "part of the garden close to the house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        12409,
+        31906,
+        43883,
+        26674
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "先": 1
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [
+        "にわ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1424980/中庭/なかにわ": {
+      "id": 1424980,
+      "form": "中庭",
+      "kana": "なかにわ",
+      "gloss": "courtyard",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10409,
+        11593,
+        16770,
+        6846
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1550500/裏庭/うらにわ": {
+      "id": 1550500,
+      "form": "裏庭",
+      "kana": "うらにわ",
+      "gloss": "rear garden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6615,
+        26254,
+        32548,
+        15170
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "裏": 6
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1643190/庭師/にわし": {
+      "id": 1643190,
+      "form": "庭師",
+      "kana": "にわし",
+      "gloss": "gardener",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11285,
+        26925,
+        30598,
+        28488
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "師": 5
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1476400/箱庭/はこにわ": {
+      "id": 1476400,
+      "form": "箱庭",
+      "kana": "はこにわ",
+      "gloss": "miniature garden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23588,
+        34763,
+        24744,
+        27334
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "箱": 3
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1393670/前庭/ぜんてい": {
+      "id": 1393670,
+      "form": "前庭",
+      "kana": "ぜんてい",
+      "gloss": "front garden",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25185,
+        49441,
+        45339,
+        37450
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436180/庭木/にわき": {
+      "id": 1436180,
+      "form": "庭木",
+      "kana": "にわき",
+      "gloss": "garden tree",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29149,
+        32667,
+        55378,
+        42483
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1762780/庭石/にわいし": {
+      "id": 1762780,
+      "form": "庭石",
+      "kana": "にわいし",
+      "gloss": "garden stone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34691,
+        57577,
+        108425,
+        69447
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1393670/前庭/まえにわ": {
+      "id": 1393670,
+      "form": "前庭",
+      "kana": "まえにわ",
+      "gloss": "front garden",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25185,
+        49441,
+        45339,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2836524/後庭/こうてい": {
+      "id": 2836524,
+      "form": "後庭",
+      "kana": "こうてい",
+      "gloss": "rear garden",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40347,
+        101749,
+        null,
+        191954
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1794870/営庭/えいてい": {
+      "id": 1794870,
+      "form": "営庭",
+      "kana": "えいてい",
+      "gloss": "open space within a barracks compound",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37218,
+        173792,
+        null,
+        174785
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "営": 5
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2586370/南庭/なんてい": {
+      "id": 2586370,
+      "form": "南庭",
+      "kana": "なんてい",
+      "gloss": "grounds south of a building",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        54711,
+        96370,
+        181972
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "南": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1382730/石庭/せきてい": {
+      "id": 1382730,
+      "form": "石庭",
+      "kana": "せきてい",
+      "gloss": "rock garden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        86386,
+        113858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436150/庭球/ていきゅう": {
+      "id": 1436150,
+      "form": "庭球",
+      "kana": "ていきゅう",
+      "gloss": "tennis",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        78707,
+        136934
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "球": 3
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1582550/内庭/うちにわ": {
+      "id": 1582550,
+      "form": "内庭",
+      "kana": "うちにわ",
+      "gloss": "inner court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        192767,
+        93934
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1854480/庭前/ていぜん": {
+      "id": 1854480,
+      "form": "庭前",
+      "kana": "ていぜん",
+      "gloss": "garden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        207210,
+        140360
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "前": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2587420/茶庭/ちゃてい": {
+      "id": 2587420,
+      "form": "茶庭",
+      "kana": "ちゃてい",
+      "gloss": "teahouse garden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        207210,
+        206516
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "茶": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2683190/園庭/えんてい": {
+      "id": 2683190,
+      "form": "園庭",
+      "kana": "えんてい",
+      "gloss": "garden",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29981,
+        null,
+        89391
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "園": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436170/庭番/にわばん": {
+      "id": 1436170,
+      "form": "庭番",
+      "kana": "にわばん",
+      "gloss": "garden watchman",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43563,
+        null,
+        134247
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "番": 2
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2220310/庭作り/にわづくり": {
+      "id": 2220310,
+      "form": "庭作り",
+      "kana": "にわづくり",
+      "gloss": "gardening",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        43098,
+        null,
+        192074
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2559210/坪庭/つぼにわ": {
+      "id": 2559210,
+      "form": "坪庭",
+      "kana": "つぼにわ",
+      "gloss": "inner garden (esp. small, traditional)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        50803,
+        null,
+        124667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "坪": 7
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2012440/庭付き/にわつき": {
+      "id": 2012440,
+      "form": "庭付き",
+      "kana": "にわつき",
+      "gloss": "having a garden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        66155,
+        60616
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2088900/作庭/さくてい": {
+      "id": 2088900,
+      "form": "作庭",
+      "kana": "さくてい",
+      "gloss": "creating a garden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        null,
+        200865
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1582550/内庭/ないてい": {
+      "id": 1582550,
+      "form": "内庭",
+      "kana": "ないてい",
+      "gloss": "inner court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        192767,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2741940/庭内/ていない": {
+      "id": 2741940,
+      "form": "庭内",
+      "kana": "ていない",
+      "gloss": "inside the garden",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        null,
+        117996
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2055710/庭弄り/にわいじり": {
+      "id": 2055710,
+      "form": "庭弄り",
+      "kana": "にわいじり",
+      "gloss": "gardening",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        null,
+        194494
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弄": 7
+      },
+      "matched": {
+        "にわ": {
+          "actual": "にわ",
+          "dictionary": [
+            "にわ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1192280:家庭:かてい",
+      "form": "家庭",
+      "kana": "かてい",
+      "cue": "home; household",
+      "ids": [
+        1192280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2839,
+        "shiberu": 970,
+        "tubelex": 1498,
+        "wordfreq": 1587
+      },
+      "alternatives_by_kanji": {
+        "家": [
+          "1297510/作家/さっか",
+          "1522260/本家/ほんけ",
+          "1191780/家屋/かおく"
+        ],
+        "庭": [
+          "1436130/庭/にわ",
+          "1436140/庭園/ていえん",
+          "1279600/校庭/こうてい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 6
+}

@@ -1,0 +1,641 @@
+{
+  "character": "嫉",
+  "grade": 7,
+  "meanings": [
+    "jealous",
+    "envy"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 38
+    }
+  ],
+  "components": [
+    "女",
+    "矢",
+    "疔",
+    "乞"
+  ],
+  "on": [
+    "シツ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "そね.む",
+      "stem": "そね",
+      "okurigana": "む"
+    },
+    {
+      "sourceNotation": "ねた.む",
+      "stem": "ねた",
+      "okurigana": "む"
+    },
+    {
+      "sourceNotation": "にく.む",
+      "stem": "にく",
+      "okurigana": "む"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "嫉",
+    "heading": "嫉",
+    "readings": [
+      "シツ"
+    ],
+    "examples_by_reading": [
+      [
+        "嫉妬"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "嫉",
+      "reading": "シツ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1320280/嫉妬/しっと"
+      ]
+    },
+    {
+      "reading": "そねむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2835348/嫉む/そねむ"
+      ]
+    },
+    {
+      "reading": "ねたむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1444380/嫉む/ねたむ"
+      ]
+    },
+    {
+      "reading": "にくむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1320280/嫉妬/しっと",
+    "1444380/嫉む/ねたむ",
+    "2835348/嫉む/そねむ",
+    "1320270/嫉視/しっし",
+    "1320290/嫉妬深い/しっとぶかい",
+    "2068220/嫉妬心/しっとしん",
+    "2763710/嫉妬に狂う/しっとにくるう",
+    "1880920/嫉妬の炎/しっとのほのお",
+    "2847178/嫉み/そねみ",
+    "2871766/妬み嫉み/ねたみそねみ",
+    "1444360/嫉ましい/ねたましい",
+    "1444370/嫉み/ねたみ",
+    "2046260/嫉視反目/しっしはんもく",
+    "2052330/反目嫉視/はんもくしっし",
+    "2821190/嫉く/やく",
+    "1350610/嫉ける/やける"
+  ],
+  "candidates": {
+    "1320280/嫉妬/しっと": {
+      "id": 1320280,
+      "form": "嫉妬",
+      "kana": "しっと",
+      "gloss": "jealousy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2910,
+        5929,
+        4345,
+        2654
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "妬": 7
+      },
+      "matched": {
+        "シツ": {
+          "actual": "しっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "シツ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1444380/嫉む/ねたむ": {
+      "id": 1444380,
+      "form": "嫉む",
+      "kana": "ねたむ",
+      "gloss": "to be jealous of",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        72350
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ねたむ": {
+          "actual": "ねた",
+          "dictionary": [
+            "ねた.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835348/嫉む/そねむ": {
+      "id": 2835348,
+      "form": "嫉む",
+      "kana": "そねむ",
+      "gloss": "to be jealous of",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        169509
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "そねむ": {
+          "actual": "そね",
+          "dictionary": [
+            "そね.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1320270/嫉視/しっし": {
+      "id": 1320270,
+      "form": "嫉視",
+      "kana": "しっし",
+      "gloss": "jealousy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        133968
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1320290/嫉妬深い/しっとぶかい": {
+      "id": 1320290,
+      "form": "嫉妬深い",
+      "kana": "しっとぶかい",
+      "gloss": "(deeply) jealous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24973
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "妬": 7,
+        "深": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2068220/嫉妬心/しっとしん": {
+      "id": 2068220,
+      "form": "嫉妬心",
+      "kana": "しっとしん",
+      "gloss": "feeling of envy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        25929
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2,
+        "妬": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2763710/嫉妬に狂う/しっとにくるう": {
+      "id": 2763710,
+      "form": "嫉妬に狂う",
+      "kana": "しっとにくるう",
+      "gloss": "to fly into a jealous rage",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50238
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "妬": 7,
+        "狂": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1880920/嫉妬の炎/しっとのほのお": {
+      "id": 1880920,
+      "form": "嫉妬の炎",
+      "kana": "しっとのほのお",
+      "gloss": "flames of jealousy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        51367
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "妬": 7,
+        "炎": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2847178/嫉み/そねみ": {
+      "id": 2847178,
+      "form": "嫉み",
+      "kana": "そねみ",
+      "gloss": "jealousy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        71455
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2871766/妬み嫉み/ねたみそねみ": {
+      "id": 2871766,
+      "form": "妬み嫉み",
+      "kana": "ねたみそねみ",
+      "gloss": "jealousy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        89976
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "妬": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1444360/嫉ましい/ねたましい": {
+      "id": 1444360,
+      "form": "嫉ましい",
+      "kana": "ねたましい",
+      "gloss": "jealous",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        136786
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1444370/嫉み/ねたみ": {
+      "id": 1444370,
+      "form": "嫉み",
+      "kana": "ねたみ",
+      "gloss": "jealousy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        207025
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2046260/嫉視反目/しっしはんもく": {
+      "id": 2046260,
+      "form": "嫉視反目",
+      "kana": "しっしはんもく",
+      "gloss": "jealousy and enmity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1,
+        "反": 3,
+        "視": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2052330/反目嫉視/はんもくしっし": {
+      "id": 2052330,
+      "form": "反目嫉視",
+      "kana": "はんもくしっし",
+      "gloss": "jealousy and enmity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1,
+        "反": 3,
+        "視": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2821190/嫉く/やく": {
+      "id": 2821190,
+      "form": "嫉く",
+      "kana": "やく",
+      "gloss": "to be jealous of",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5k",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        149017
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1350610/嫉ける/やける": {
+      "id": 1350610,
+      "form": "嫉ける",
+      "kana": "やける",
+      "gloss": "to be jealous",
+      "senses": [
+        5
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        227852
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1320280:嫉妬:しっと",
+      "form": "嫉妬",
+      "kana": "しっと",
+      "cue": "jealousy; envy",
+      "ids": [
+        1320280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2654,
+        "shiberu": 2910,
+        "tubelex": 5929,
+        "wordfreq": 4345
+      },
+      "alternatives_by_kanji": {
+        "嫉": [
+          "1444380/嫉む/ねたむ",
+          "2835348/嫉む/そねむ",
+          "1320270/嫉視/しっし"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 13
+}

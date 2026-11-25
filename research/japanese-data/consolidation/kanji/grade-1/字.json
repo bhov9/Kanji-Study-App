@@ -1,0 +1,1650 @@
+{
+  "character": "字",
+  "grade": 1,
+  "meanings": [
+    "character",
+    "letter",
+    "word",
+    "section of village"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 39
+    },
+    {
+      "type": "nelson_c",
+      "value": 40
+    }
+  ],
+  "components": [
+    "子",
+    "宀"
+  ],
+  "on": [
+    "ジ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あざ",
+      "stem": "あざ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "あざな",
+      "stem": "あざな",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "-な",
+      "stem": "-な",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "字",
+    "heading": "字",
+    "readings": [
+      "ジ",
+      "あざ"
+    ],
+    "examples_by_reading": [
+      [
+        "字画",
+        "文字",
+        "活字"
+      ],
+      [
+        "字",
+        "大字"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "字",
+      "reading": "ジ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ジ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 513,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1505390/文字/もじ",
+        "1208300/活字/かつじ",
+        "1315150/字画/じかく",
+        "1505390/文字/もんじ",
+        "1315130/字/じ",
+        "2027600/大字/だいじ",
+        "1373060/数字/すうじ",
+        "1213170/漢字/かんじ",
+        "1383440/赤字/あかじ",
+        "1315220/字幕/じまく"
+      ]
+    },
+    {
+      "reading": "あざ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1413950/大字/おおあざ",
+        "1315120/字/あざ",
+        "2112720/字名/あざな",
+        "1743680/小字/こあざ",
+        "1861900/大字片山/おおあざかたやま"
+      ]
+    },
+    {
+      "reading": "あざな",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2112720/字/あざな"
+      ]
+    },
+    {
+      "reading": "な",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2259040/真字/まな",
+        "2259040/真字/まんな",
+        "2259050/真字本/まなぼん",
+        "2842561/真字書き/まながき",
+        "1590540/仮字/かな",
+        "2844425/真字文/まなぶみ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1505390/文字/もじ",
+    "1208300/活字/かつじ",
+    "1315150/字画/じかく",
+    "1505390/文字/もんじ",
+    "1315130/字/じ",
+    "1413950/大字/おおあざ",
+    "2112720/字/あざな",
+    "1315120/字/あざ",
+    "2027600/大字/だいじ",
+    "1373060/数字/すうじ",
+    "1213170/漢字/かんじ",
+    "1383440/赤字/あかじ",
+    "1315220/字幕/じまく",
+    "1334630/十字/じゅうじ",
+    "1604730/名字/みょうじ",
+    "1287710/黒字/くろじ",
+    "1271350/誤字/ごじ",
+    "1168330/印字/いんじ",
+    "1441590/点字/てんじ",
+    "1174530/英字/えいじ",
+    "1333110/習字/しゅうじ",
+    "1315170/字句/じく",
+    "1408310/太字/ふとじ",
+    "1658380/字数/じすう",
+    "1319130/識字/しきじ",
+    "1174590/英数字/えいすうじ",
+    "1315200/字体/じたい",
+    "2004470/大の字/だいのじ",
+    "1315160/字義/じぎ",
+    "1692290/頭字/かしらじ"
+  ],
+  "candidates": {
+    "1505390/文字/もじ": {
+      "id": 1505390,
+      "form": "文字",
+      "kana": "もじ",
+      "gloss": "letter (of an alphabet)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        641,
+        674,
+        860,
+        1780
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1208300/活字/かつじ": {
+      "id": 1208300,
+      "form": "活字",
+      "kana": "かつじ",
+      "gloss": "(piece of) type",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7558,
+        23759,
+        18234,
+        30019
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "活": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1315150/字画/じかく": {
+      "id": 1315150,
+      "form": "字画",
+      "kana": "じかく",
+      "gloss": "strokes in a Chinese character",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36345,
+        101749,
+        77923,
+        111673
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1505390/文字/もんじ": {
+      "id": 1505390,
+      "form": "文字",
+      "kana": "もんじ",
+      "gloss": "letter (of an alphabet)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        641,
+        674,
+        860,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1315130/字/じ": {
+      "id": 1315130,
+      "form": "字",
+      "kana": "じ",
+      "gloss": "character (esp. kanji)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        2299
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あざ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1413950/大字/おおあざ": {
+      "id": 1413950,
+      "form": "大字",
+      "kana": "おおあざ",
+      "gloss": "larger section (of village)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        115043
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "あざ": {
+          "actual": "あざ",
+          "dictionary": [
+            "あざ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あざ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2112720/字/あざな": {
+      "id": 2112720,
+      "form": "字",
+      "kana": "あざな",
+      "gloss": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        146154
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あざな": {
+          "actual": "あざな",
+          "dictionary": [
+            "あざな"
+          ]
+        }
+      },
+      "official_examples": [
+        "あざ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1315120/字/あざ": {
+      "id": 1315120,
+      "form": "字",
+      "kana": "あざ",
+      "gloss": "section of village",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あざ": {
+          "actual": "あざ",
+          "dictionary": [
+            "あざ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あざ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2027600/大字/だいじ": {
+      "id": 2027600,
+      "form": "大字",
+      "kana": "だいじ",
+      "gloss": "large character",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        349137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あざ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1373060/数字/すうじ": {
+      "id": 1373060,
+      "form": "数字",
+      "kana": "すうじ",
+      "gloss": "numeral",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2465,
+        1182,
+        2681,
+        2880
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1213170/漢字/かんじ": {
+      "id": 1213170,
+      "form": "漢字",
+      "kana": "かんじ",
+      "gloss": "kanji",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1817,
+        2616,
+        3454,
+        7646
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "漢": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1383440/赤字/あかじ": {
+      "id": 1383440,
+      "form": "赤字",
+      "kana": "あかじ",
+      "gloss": "(being in) the red",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3328,
+        4817,
+        7265,
+        16705
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "赤": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1315220/字幕/じまく": {
+      "id": 1315220,
+      "form": "字幕",
+      "kana": "じまく",
+      "gloss": "subtitles",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8868,
+        2875,
+        5555,
+        35682
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "幕": 6
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1334630/十字/じゅうじ": {
+      "id": 1334630,
+      "form": "十字",
+      "kana": "じゅうじ",
+      "gloss": "cross",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3841,
+        3270,
+        21173,
+        16272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "十": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1604730/名字/みょうじ": {
+      "id": 1604730,
+      "form": "名字",
+      "kana": "みょうじ",
+      "gloss": "surname",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10039,
+        10407,
+        12107,
+        8573
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1287710/黒字/くろじ": {
+      "id": 1287710,
+      "form": "黒字",
+      "kana": "くろじ",
+      "gloss": "(being in) the black",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9010,
+        10604,
+        15185,
+        38672
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "黒": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271350/誤字/ごじ": {
+      "id": 1271350,
+      "form": "誤字",
+      "kana": "ごじ",
+      "gloss": "misprint",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19560,
+        19336,
+        10860,
+        39842
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誤": 6
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1168330/印字/いんじ": {
+      "id": 1168330,
+      "form": "印字",
+      "kana": "いんじ",
+      "gloss": "printing (text or symbols)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        20687,
+        17330,
+        27689,
+        41230
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "印": 4
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1441590/点字/てんじ": {
+      "id": 1441590,
+      "form": "点字",
+      "kana": "てんじ",
+      "gloss": "braille",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29888,
+        15531,
+        27689,
+        80612
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1174530/英字/えいじ": {
+      "id": 1174530,
+      "form": "英字",
+      "kana": "えいじ",
+      "gloss": "English letter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14769,
+        35749,
+        26690,
+        68407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "英": 4
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1333110/習字/しゅうじ": {
+      "id": 1333110,
+      "form": "習字",
+      "kana": "しゅうじ",
+      "gloss": "penmanship",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23605,
+        23673,
+        32185,
+        41557
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "習": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1315170/字句/じく": {
+      "id": 1315170,
+      "form": "字句",
+      "kana": "じく",
+      "gloss": "wording",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11931,
+        63933,
+        69479,
+        113351
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "句": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1408310/太字/ふとじ": {
+      "id": 1408310,
+      "form": "太字",
+      "kana": "ふとじ",
+      "gloss": "boldface",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27803,
+        29352,
+        26690,
+        71598
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "太": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1658380/字数/じすう": {
+      "id": 1658380,
+      "form": "字数",
+      "kana": "じすう",
+      "gloss": "number of characters",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22423,
+        32667,
+        32914,
+        79991
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1319130/識字/しきじ": {
+      "id": 1319130,
+      "form": "識字",
+      "kana": "しきじ",
+      "gloss": "literacy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17094,
+        38312,
+        47810,
+        118339
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "識": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1174590/英数字/えいすうじ": {
+      "id": 1174590,
+      "form": "英数字",
+      "kana": "えいすうじ",
+      "gloss": "alphanumeric character",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19325,
+        32667,
+        45339,
+        91587
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "英": 4,
+        "数": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1315200/字体/じたい": {
+      "id": 1315200,
+      "form": "字体",
+      "kana": "じたい",
+      "gloss": "form of a character (e.g. simplified, traditional)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31887,
+        29059,
+        30598,
+        52048
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "体": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2004470/大の字/だいのじ": {
+      "id": 2004470,
+      "form": "大の字",
+      "kana": "だいのじ",
+      "gloss": "shape of the \"dai\" kanji (esp. person with arms and legs outstretched)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20656,
+        44010,
+        74212,
+        17263
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1315160/字義/じぎ": {
+      "id": 1315160,
+      "form": "字義",
+      "kana": "じぎ",
+      "gloss": "meaning of a word",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15274,
+        61110,
+        65516,
+        123702
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "義": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692290/頭字/かしらじ": {
+      "id": 1692290,
+      "form": "頭字",
+      "kana": "かしらじ",
+      "gloss": "first letter",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13747,
+        81652,
+        82481,
+        185681
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頭": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2112720/字名/あざな": {
+      "id": 2112720,
+      "form": "字名",
+      "kana": "あざな",
+      "gloss": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35344,
+        null,
+        null,
+        141922
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "あざ": {
+          "actual": "あざ",
+          "dictionary": [
+            "あざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1743680/小字/こあざ": {
+      "id": 1743680,
+      "form": "小字",
+      "kana": "こあざ",
+      "gloss": "small administrative unit (of a village)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "小": 1
+      },
+      "matched": {
+        "あざ": {
+          "actual": "あざ",
+          "dictionary": [
+            "あざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1861900/大字片山/おおあざかたやま": {
+      "id": 1861900,
+      "form": "大字片山",
+      "kana": "おおあざかたやま",
+      "gloss": "name of a town section",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "山": 1,
+        "片": 6,
+        "大": 1
+      },
+      "matched": {
+        "あざ": {
+          "actual": "あざ",
+          "dictionary": [
+            "あざ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2259040/真字/まな": {
+      "id": 2259040,
+      "form": "真字",
+      "kana": "まな",
+      "gloss": "kanji (as opposed to kana)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "真": 3
+      },
+      "matched": {
+        "な": {
+          "actual": "な",
+          "dictionary": [
+            "-な"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2259040/真字/まんな": {
+      "id": 2259040,
+      "form": "真字",
+      "kana": "まんな",
+      "gloss": "kanji (as opposed to kana)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "真": 3
+      },
+      "matched": {
+        "な": {
+          "actual": "な",
+          "dictionary": [
+            "-な"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2259050/真字本/まなぼん": {
+      "id": 2259050,
+      "form": "真字本",
+      "kana": "まなぼん",
+      "gloss": "book written entirely in kanji",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "真": 3,
+        "本": 1
+      },
+      "matched": {
+        "な": {
+          "actual": "な",
+          "dictionary": [
+            "-な"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2842561/真字書き/まながき": {
+      "id": 2842561,
+      "form": "真字書き",
+      "kana": "まながき",
+      "gloss": "writing in kanji",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "真": 3,
+        "書": 2
+      },
+      "matched": {
+        "な": {
+          "actual": "な",
+          "dictionary": [
+            "-な"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1590540/仮字/かな": {
+      "id": 1590540,
+      "form": "仮字",
+      "kana": "かな",
+      "gloss": "kana",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        37149,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仮": 5
+      },
+      "matched": {
+        "な": {
+          "actual": "な",
+          "dictionary": [
+            "-な"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2844425/真字文/まなぶみ": {
+      "id": 2844425,
+      "form": "真字文",
+      "kana": "まなぶみ",
+      "gloss": "writing entirely in kanji",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "真": 3,
+        "文": 1
+      },
+      "matched": {
+        "な": {
+          "actual": "な",
+          "dictionary": [
+            "-な"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1213170:漢字:かんじ",
+      "form": "漢字",
+      "kana": "かんじ",
+      "cue": "kanji; Chinese character",
+      "ids": [
+        1213170
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7646,
+        "shiberu": 1817,
+        "tubelex": 2616,
+        "wordfreq": 3454
+      },
+      "alternatives_by_kanji": {
+        "字": [
+          "1505390/文字/もじ",
+          "1208300/活字/かつじ",
+          "1315150/字画/じかく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1287710:黒字:くろじ",
+      "form": "黒字",
+      "kana": "くろじ",
+      "cue": "(being in) the black; surplus",
+      "ids": [
+        1287710
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 38672,
+        "shiberu": 9010,
+        "tubelex": 10604,
+        "wordfreq": 15185
+      },
+      "alternatives_by_kanji": {
+        "字": [
+          "1505390/文字/もじ",
+          "1208300/活字/かつじ",
+          "1315150/字画/じかく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1383440:赤字:あかじ",
+      "form": "赤字",
+      "kana": "あかじ",
+      "cue": "(being in) the red; deficit",
+      "ids": [
+        1383440
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 16705,
+        "shiberu": 3328,
+        "tubelex": 4817,
+        "wordfreq": 7265
+      },
+      "alternatives_by_kanji": {
+        "字": [
+          "1505390/文字/もじ",
+          "1208300/活字/かつじ",
+          "1315150/字画/じかく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 21
+}

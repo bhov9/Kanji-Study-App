@@ -1,0 +1,1267 @@
+{
+  "character": "敗",
+  "grade": 4,
+  "meanings": [
+    "failure",
+    "defeat",
+    "reversal"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 66
+    },
+    {
+      "type": "nelson_c",
+      "value": 154
+    }
+  ],
+  "components": [
+    "貝",
+    "目",
+    "ハ",
+    "攵",
+    "乞"
+  ],
+  "on": [
+    "ハイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "やぶ.れる",
+      "stem": "やぶ",
+      "okurigana": "れる"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "敗",
+    "heading": "敗",
+    "readings": [
+      "ハイ",
+      "やぶれる"
+    ],
+    "examples_by_reading": [
+      [
+        "敗北",
+        "腐敗",
+        "失敗"
+      ],
+      [
+        "敗れる"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔破れる"
+    ],
+    "representative_index": {
+      "kanji": "敗",
+      "reading": "ハイ",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ハイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 55,
+      "frequent_unflagged_examples": 6,
+      "current_support": true,
+      "candidates": [
+        "1320140/失敗/しっぱい",
+        "1472610/敗北/はいぼく",
+        "1497870/腐敗/ふはい",
+        "1901390/敗/はい",
+        "1472560/敗戦/はいせん",
+        "1346220/勝敗/しょうはい",
+        "1472600/敗退/はいたい",
+        "1472540/敗者/はいしゃ",
+        "1786660/大敗/たいはい",
+        "1472520/敗因/はいいん"
+      ]
+    },
+    {
+      "reading": "やぶれる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1472510/敗れる/やぶれる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1320140/失敗/しっぱい",
+    "1472610/敗北/はいぼく",
+    "1472510/敗れる/やぶれる",
+    "1497870/腐敗/ふはい",
+    "1901390/敗/はい",
+    "1472560/敗戦/はいせん",
+    "1346220/勝敗/しょうはい",
+    "1472600/敗退/はいたい",
+    "1472540/敗者/はいしゃ",
+    "1786660/大敗/たいはい",
+    "1472520/敗因/はいいん",
+    "1472580/敗訴/はいそ",
+    "1472590/敗走/はいそう",
+    "1625590/敗軍/はいぐん",
+    "1680680/敗色/はいしょく",
+    "2629910/無敗/むはい",
+    "1494550/不敗/ふはい",
+    "1382310/惜敗/せきはい",
+    "1472530/敗残/はいざん",
+    "2829936/敗勢/はいせい",
+    "1680690/敗血症/はいけつしょう",
+    "2816960/敗着/はいちゃく",
+    "2864126/敗死/はいし",
+    "1644010/零敗/れいはい",
+    "1680720/敗報/はいほう",
+    "1472620/敗北感/はいぼくかん",
+    "2563670/敗北者/はいぼくしゃ",
+    "1680700/敗残兵/はいざんへい",
+    "2835430/腐敗臭/ふはいしゅう",
+    "1472570/敗戦国/はいせんこく"
+  ],
+  "candidates": {
+    "1320140/失敗/しっぱい": {
+      "id": 1320140,
+      "form": "失敗",
+      "kana": "しっぱい",
+      "gloss": "failure",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        953,
+        969,
+        906,
+        738
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "失": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "ぱい",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ハイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1472610/敗北/はいぼく": {
+      "id": 1472610,
+      "form": "敗北",
+      "kana": "はいぼく",
+      "gloss": "defeat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        6462,
+        7693,
+        6076,
+        4869
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "北": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハイ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1472510/敗れる/やぶれる": {
+      "id": 1472510,
+      "form": "敗れる",
+      "kana": "やぶれる",
+      "gloss": "to be defeated",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5771,
+        8259,
+        32548,
+        7667
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "やぶれる": {
+          "actual": "やぶ",
+          "dictionary": [
+            "やぶ.れる"
+          ]
+        }
+      },
+      "official_examples": [
+        "やぶれる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1497870/腐敗/ふはい": {
+      "id": 1497870,
+      "form": "腐敗",
+      "kana": "ふはい",
+      "gloss": "decomposition",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7800,
+        10341,
+        9614,
+        13781
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腐": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ハイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1901390/敗/はい": {
+      "id": 1901390,
+      "form": "敗",
+      "kana": "はい",
+      "gloss": "loss",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7965,
+        5193,
+        6076,
+        20595
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472560/敗戦/はいせん": {
+      "id": 1472560,
+      "form": "敗戦",
+      "kana": "はいせん",
+      "gloss": "defeat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5564,
+        11965,
+        8450,
+        22859
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1346220/勝敗/しょうはい": {
+      "id": 1346220,
+      "form": "勝敗",
+      "kana": "しょうはい",
+      "gloss": "victory or defeat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5357,
+        12975,
+        15390,
+        8152
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勝": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1472600/敗退/はいたい": {
+      "id": 1472600,
+      "form": "敗退",
+      "kana": "はいたい",
+      "gloss": "being defeated",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16838,
+        14051,
+        15185,
+        23267
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "退": 6
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472540/敗者/はいしゃ": {
+      "id": 1472540,
+      "form": "敗者",
+      "kana": "はいしゃ",
+      "gloss": "loser",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        27899,
+        20620,
+        14745,
+        13505
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1786660/大敗/たいはい": {
+      "id": 1786660,
+      "form": "大敗",
+      "kana": "たいはい",
+      "gloss": "crushing defeat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13810,
+        23107,
+        26068,
+        36037
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472520/敗因/はいいん": {
+      "id": 1472520,
+      "form": "敗因",
+      "kana": "はいいん",
+      "gloss": "cause of defeat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36846,
+        27428,
+        29854,
+        22044
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "因": 5
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472580/敗訴/はいそ": {
+      "id": 1472580,
+      "form": "敗訴",
+      "kana": "はいそ",
+      "gloss": "loss of a (legal) case",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        28635,
+        28755,
+        26068,
+        81477
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訴": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472590/敗走/はいそう": {
+      "id": 1472590,
+      "form": "敗走",
+      "kana": "はいそう",
+      "gloss": "flight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        22296,
+        43098,
+        43883,
+        29092
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "走": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1625590/敗軍/はいぐん": {
+      "id": 1625590,
+      "form": "敗軍",
+      "kana": "はいぐん",
+      "gloss": "defeat",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28380,
+        85382,
+        120731,
+        61374
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軍": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1680680/敗色/はいしょく": {
+      "id": 1680680,
+      "form": "敗色",
+      "kana": "はいしょく",
+      "gloss": "signs of defeat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40387,
+        89646,
+        86386,
+        73936
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "色": 2
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2629910/無敗/むはい": {
+      "id": 2629910,
+      "form": "無敗",
+      "kana": "むはい",
+      "gloss": "undefeated",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17363,
+        23216,
+        29224
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1494550/不敗/ふはい": {
+      "id": 1494550,
+      "form": "不敗",
+      "kana": "ふはい",
+      "gloss": "undefeated",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        58680,
+        41163,
+        43084
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1382310/惜敗/せきはい": {
+      "id": 1382310,
+      "form": "惜敗",
+      "kana": "せきはい",
+      "gloss": "regrettable defeat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42221,
+        47810,
+        87398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "惜": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472530/敗残/はいざん": {
+      "id": 1472530,
+      "form": "敗残",
+      "kana": "はいざん",
+      "gloss": "survival after defeat",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        54233,
+        59288
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "残": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829936/敗勢/はいせい": {
+      "id": 2829936,
+      "form": "敗勢",
+      "kana": "はいせい",
+      "gloss": "signs of defeat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        110395,
+        123058
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勢": 5
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1680690/敗血症/はいけつしょう": {
+      "id": 1680690,
+      "form": "敗血症",
+      "kana": "はいけつしょう",
+      "gloss": "sepsis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42493,
+        77089
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "症": 7,
+        "血": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2816960/敗着/はいちゃく": {
+      "id": 2816960,
+      "form": "敗着",
+      "kana": "はいちゃく",
+      "gloss": "losing move (go, shogi)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        null,
+        126461
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "着": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864126/敗死/はいし": {
+      "id": 2864126,
+      "form": "敗死",
+      "kana": "はいし",
+      "gloss": "dying in a lost battle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        97548
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "死": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644010/零敗/れいはい": {
+      "id": 1644010,
+      "form": "零敗",
+      "kana": "れいはい",
+      "gloss": "losing without scoring",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        249695
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "零": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1680720/敗報/はいほう": {
+      "id": 1680720,
+      "form": "敗報",
+      "kana": "はいほう",
+      "gloss": "news of defeat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        150267
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "報": 5
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472620/敗北感/はいぼくかん": {
+      "id": 1472620,
+      "form": "敗北感",
+      "kana": "はいぼくかん",
+      "gloss": "sense of defeat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        22218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "北": 2,
+        "感": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2563670/敗北者/はいぼくしゃ": {
+      "id": 2563670,
+      "form": "敗北者",
+      "kana": "はいぼくしゃ",
+      "gloss": "loser",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        40765
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "北": 2,
+        "者": 3
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1680700/敗残兵/はいざんへい": {
+      "id": 1680700,
+      "form": "敗残兵",
+      "kana": "はいざんへい",
+      "gloss": "remnants of a defeated army",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        48995
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4,
+        "残": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2835430/腐敗臭/ふはいしゅう": {
+      "id": 2835430,
+      "form": "腐敗臭",
+      "kana": "ふはいしゅう",
+      "gloss": "rotten smell",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        50149
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "腐": 7,
+        "臭": 7
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1472570/敗戦国/はいせんこく": {
+      "id": 1472570,
+      "form": "敗戦国",
+      "kana": "はいせんこく",
+      "gloss": "defeated country",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65067
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2,
+        "戦": 4
+      },
+      "matched": {
+        "ハイ": {
+          "actual": "はい",
+          "dictionary": [
+            "ハイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1320140:失敗:しっぱい",
+      "form": "失敗",
+      "kana": "しっぱい",
+      "cue": "failure; mistake",
+      "ids": [
+        1320140
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 738,
+        "shiberu": 953,
+        "tubelex": 969,
+        "wordfreq": 906
+      },
+      "alternatives_by_kanji": {
+        "失": [
+          "1319750/失う/うしなう",
+          "1320170/失望/しつぼう",
+          "1350230/消失/しょうしつ"
+        ],
+        "敗": [
+          "1472610/敗北/はいぼく",
+          "1472510/敗れる/やぶれる",
+          "1497870/腐敗/ふはい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1497870:腐敗:ふはい",
+      "form": "腐敗",
+      "kana": "ふはい",
+      "cue": "decomposition; putrefaction",
+      "ids": [
+        1497870
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 13781,
+        "shiberu": 7800,
+        "tubelex": 10341,
+        "wordfreq": 9614
+      },
+      "alternatives_by_kanji": {
+        "敗": [
+          "1320140/失敗/しっぱい",
+          "1472610/敗北/はいぼく",
+          "1472510/敗れる/やぶれる"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 48
+}

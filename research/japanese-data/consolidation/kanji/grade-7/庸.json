@@ -1,0 +1,662 @@
+{
+  "character": "庸",
+  "grade": 7,
+  "meanings": [
+    "commonplace",
+    "ordinary",
+    "employment"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 53
+    }
+  ],
+  "components": [
+    "ヨ",
+    "用",
+    "广",
+    "聿"
+  ],
+  "on": [
+    "ヨウ"
+  ],
+  "kun": [],
+  "nanori": [
+    "つね",
+    "のぶ",
+    "やす"
+  ],
+  "government": {
+    "kanji": "庸",
+    "heading": "庸",
+    "readings": [
+      "ヨウ"
+    ],
+    "examples_by_reading": [
+      [
+        "凡庸",
+        "中庸"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "庸",
+      "reading": "ヨウ",
+      "source": "table_38_yo.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヨウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1425520/中庸/ちゅうよう",
+        "1523660/凡庸/ぼんよう",
+        "1890160/租庸調/そようちょう",
+        "1545470/庸人/ようじん",
+        "2787420/付庸/ふよう",
+        "1914490/庸才/ようさい",
+        "1914470/庸君/ようくん",
+        "1545460/庸愚/ようぐ",
+        "2787420/附庸/ふよう",
+        "2053700/凡庸愚昧/ぼんようぐまい"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1425520/中庸/ちゅうよう",
+    "1523660/凡庸/ぼんよう",
+    "1890160/租庸調/そようちょう",
+    "1545470/庸人/ようじん",
+    "2787420/付庸/ふよう",
+    "1914490/庸才/ようさい",
+    "1914470/庸君/ようくん",
+    "1545460/庸愚/ようぐ",
+    "2787420/附庸/ふよう",
+    "2053700/凡庸愚昧/ぼんようぐまい",
+    "2593660/庸/ちからしろ",
+    "2593660/庸/よう",
+    "1598650/登庸/とうよう",
+    "2846415/庸劣/ようれつ",
+    "2871510/平庸/へいよう"
+  ],
+  "candidates": {
+    "1425520/中庸/ちゅうよう": {
+      "id": 1425520,
+      "form": "中庸",
+      "kana": "ちゅうよう",
+      "gloss": "middle way",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        9253,
+        37110,
+        43883,
+        58907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヨウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1523660/凡庸/ぼんよう": {
+      "id": 1523660,
+      "form": "凡庸",
+      "kana": "ぼんよう",
+      "gloss": "mediocre",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20985,
+        38312,
+        38864,
+        23558
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "凡": 7
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヨウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1890160/租庸調/そようちょう": {
+      "id": 1890160,
+      "form": "租庸調",
+      "kana": "そようちょう",
+      "gloss": "corvee",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "調": 3,
+        "租": 7
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1545470/庸人/ようじん": {
+      "id": 1545470,
+      "form": "庸人",
+      "kana": "ようじん",
+      "gloss": "common man",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2787420/付庸/ふよう": {
+      "id": 2787420,
+      "form": "付庸",
+      "kana": "ふよう",
+      "gloss": "dependency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1914490/庸才/ようさい": {
+      "id": 1914490,
+      "form": "庸才",
+      "kana": "ようさい",
+      "gloss": "mediocre talent",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        392794
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "才": 2
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1914470/庸君/ようくん": {
+      "id": 1914470,
+      "form": "庸君",
+      "kana": "ようくん",
+      "gloss": "stupid ruler",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "君": 3
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1545460/庸愚/ようぐ": {
+      "id": 1545460,
+      "form": "庸愚",
+      "kana": "ようぐ",
+      "gloss": "mediocrity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        397947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "愚": 7
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2787420/附庸/ふよう": {
+      "id": 2787420,
+      "form": "附庸",
+      "kana": "ふよう",
+      "gloss": "dependency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "附": 7
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2053700/凡庸愚昧/ぼんようぐまい": {
+      "id": 2053700,
+      "form": "凡庸愚昧",
+      "kana": "ぼんようぐまい",
+      "gloss": "ordinary and ignorant",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "凡": 7,
+        "愚": 7,
+        "昧": 7
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2593660/庸/ちからしろ": {
+      "id": 2593660,
+      "form": "庸",
+      "kana": "ちからしろ",
+      "gloss": "tax paid to avoid forced labor (ritsuryō period)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24461,
+        68915,
+        37490,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2593660/庸/よう": {
+      "id": 2593660,
+      "form": "庸",
+      "kana": "よう",
+      "gloss": "tax paid to avoid forced labor (ritsuryō period)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "obs"
+      ],
+      "ranks": [
+        24461,
+        68915,
+        37490,
+        118848
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1598650/登庸/とうよう": {
+      "id": 1598650,
+      "form": "登庸",
+      "kana": "とうよう",
+      "gloss": "appointment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        264187
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "登": 3
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2846415/庸劣/ようれつ": {
+      "id": 2846415,
+      "form": "庸劣",
+      "kana": "ようれつ",
+      "gloss": "mediocre",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        285742
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "劣": 7
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2871510/平庸/へいよう": {
+      "id": 2871510,
+      "form": "平庸",
+      "kana": "へいよう",
+      "gloss": "average",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "平": 3
+      },
+      "matched": {
+        "ヨウ": {
+          "actual": "よう",
+          "dictionary": [
+            "ヨウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1598650:登庸:とうよう",
+      "form": "登庸",
+      "kana": "とうよう",
+      "cue": "appointment; assignment",
+      "ids": [
+        1598650
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 264187
+      },
+      "alternatives_by_kanji": {
+        "登": [
+          "1444780/登山/とざん",
+          "1444760/登校/とうこう",
+          "1444750/登記/とうき"
+        ],
+        "庸": [
+          "1425520/中庸/ちゅうよう",
+          "1523660/凡庸/ぼんよう",
+          "1890160/租庸調/そようちょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

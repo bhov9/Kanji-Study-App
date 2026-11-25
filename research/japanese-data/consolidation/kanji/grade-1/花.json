@@ -1,0 +1,1367 @@
+{
+  "character": "花",
+  "grade": 1,
+  "meanings": [
+    "flower"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 140
+    }
+  ],
+  "components": [
+    "化",
+    "匕",
+    "艾"
+  ],
+  "on": [
+    "カ",
+    "ケ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はな",
+      "stem": "はな",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "わ"
+  ],
+  "government": {
+    "kanji": "花",
+    "heading": "花",
+    "readings": [
+      "カ",
+      "はな"
+    ],
+    "examples_by_reading": [
+      [
+        "花弁",
+        "花壇",
+        "落花"
+      ],
+      [
+        "花",
+        "花火",
+        "草花"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔華"
+    ],
+    "representative_index": {
+      "kanji": "花",
+      "reading": "カ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "カ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 190,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1590460/花壇/かだん",
+        "1775600/落花/らっか",
+        "1401940/草花/そうか",
+        "2862000/花弁/かべん",
+        "1194890/花粉/かふん",
+        "1202550/開花/かいか",
+        "1577330/花園/かえん",
+        "1579290/桜花/おうか",
+        "2847011/立花/りっか",
+        "1662780/造花/ぞうか"
+      ]
+    },
+    {
+      "reading": "はな",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 219,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1194500/花/はな",
+        "1194580/花火/はなび",
+        "1401940/草花/くさばな",
+        "1194570/花嫁/はなよめ",
+        "1194660/花見/はなみ",
+        "1194790/花束/はなたば",
+        "1194560/花屋/はなや",
+        "1577330/花園/はなぞの",
+        "1982100/菜の花/なのはな",
+        "1194640/花形/はながた"
+      ]
+    },
+    {
+      "reading": "ケ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2221360/花籠/けこ",
+        "2526250/天花/てんけ",
+        "2864789/花香/けこう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1194500/花/はな",
+    "1194580/花火/はなび",
+    "1590460/花壇/かだん",
+    "1401940/草花/くさばな",
+    "1775600/落花/らっか",
+    "1401940/草花/そうか",
+    "2862000/花弁/かべん",
+    "1194570/花嫁/はなよめ",
+    "1194890/花粉/かふん",
+    "1202550/開花/かいか",
+    "1194660/花見/はなみ",
+    "1194790/花束/はなたば",
+    "1194560/花屋/はなや",
+    "1577330/花園/はなぞの",
+    "1982100/菜の花/なのはな",
+    "1577330/花園/かえん",
+    "1194640/花形/はながた",
+    "1579290/桜花/おうか",
+    "2847011/立花/りっか",
+    "1600890/花言葉/はなことば",
+    "1194850/花畑/はなばたけ",
+    "1194690/花札/はなふだ",
+    "1662780/造花/ぞうか",
+    "1194800/花鳥/かちょう",
+    "1226240/菊花/きっか",
+    "1226240/菊花/きくか",
+    "1194980/花婿/はなむこ",
+    "1488050/百花/ひゃっか",
+    "1195080/花輪/はなわ",
+    "2569510/風花/かざはな"
+  ],
+  "candidates": {
+    "1194500/花/はな": {
+      "id": 1194500,
+      "form": "花",
+      "kana": "はな",
+      "gloss": "flower",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        239,
+        585,
+        536,
+        1046
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [
+        "はな"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1194580/花火/はなび": {
+      "id": 1194580,
+      "form": "花火",
+      "kana": "はなび",
+      "gloss": "fireworks",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3733,
+        3969,
+        4596,
+        4776
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [
+        "はな"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1590460/花壇/かだん": {
+      "id": 1590460,
+      "form": "花壇",
+      "kana": "かだん",
+      "gloss": "flower bed",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7749,
+        16165,
+        26690,
+        13559
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "壇": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1401940/草花/くさばな": {
+      "id": 1401940,
+      "form": "草花",
+      "kana": "くさばな",
+      "gloss": "flower",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9560,
+        24595,
+        35359,
+        21028
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "草": 1
+      },
+      "matched": {
+        "はな": {
+          "actual": "ばな",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はな"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1775600/落花/らっか": {
+      "id": 1775600,
+      "form": "落花",
+      "kana": "らっか",
+      "gloss": "falling petals",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        18980,
+        31748,
+        89631,
+        90218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "落": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1401940/草花/そうか": {
+      "id": 1401940,
+      "form": "草花",
+      "kana": "そうか",
+      "gloss": "flower",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9560,
+        24595,
+        35359,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "草": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "はな"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2862000/花弁/かべん": {
+      "id": 2862000,
+      "form": "花弁",
+      "kana": "かべん",
+      "gloss": "petal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        144615
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弁": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1194570/花嫁/はなよめ": {
+      "id": 1194570,
+      "form": "花嫁",
+      "kana": "はなよめ",
+      "gloss": "bride",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4359,
+        15319,
+        6169,
+        10633
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "嫁": 7
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1194890/花粉/かふん": {
+      "id": 1194890,
+      "form": "花粉",
+      "kana": "かふん",
+      "gloss": "pollen",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10166,
+        6625,
+        5892,
+        26425
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "粉": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1202550/開花/かいか": {
+      "id": 1202550,
+      "form": "開花",
+      "kana": "かいか",
+      "gloss": "flowering",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9630,
+        8022,
+        11030,
+        14097
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "開": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194660/花見/はなみ": {
+      "id": 1194660,
+      "form": "花見",
+      "kana": "はなみ",
+      "gloss": "cherry blossom viewing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        8637,
+        9642,
+        10032,
+        16987
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "見": 1
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1194790/花束/はなたば": {
+      "id": 1194790,
+      "form": "花束",
+      "kana": "はなたば",
+      "gloss": "bunch of flowers",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7448,
+        11434,
+        12695,
+        10276
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "束": 4
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194560/花屋/はなや": {
+      "id": 1194560,
+      "form": "花屋",
+      "kana": "はなや",
+      "gloss": "florist",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10911,
+        13461,
+        17751,
+        18460
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1577330/花園/はなぞの": {
+      "id": 1577330,
+      "form": "花園",
+      "kana": "はなぞの",
+      "gloss": "flower garden",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8419,
+        75655,
+        22017,
+        21423
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "園": 2
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1982100/菜の花/なのはな": {
+      "id": 1982100,
+      "form": "菜の花",
+      "kana": "なのはな",
+      "gloss": "rape blossoms",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11723,
+        17042,
+        25763,
+        48908
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "菜": 4
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1577330/花園/かえん": {
+      "id": 1577330,
+      "form": "花園",
+      "kana": "かえん",
+      "gloss": "flower garden",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8419,
+        75655,
+        22017,
+        104031
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "園": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194640/花形/はながた": {
+      "id": 1194640,
+      "form": "花形",
+      "kana": "はながた",
+      "gloss": "floral pattern",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10109,
+        29195,
+        34922,
+        26290
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "形": 2
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1579290/桜花/おうか": {
+      "id": 1579290,
+      "form": "桜花",
+      "kana": "おうか",
+      "gloss": "cherry blossom",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28738,
+        20197,
+        19848,
+        46449
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "桜": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847011/立花/りっか": {
+      "id": 2847011,
+      "form": "立花",
+      "kana": "りっか",
+      "gloss": "rikka",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33850,
+        75655,
+        11368,
+        84956
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600890/花言葉/はなことば": {
+      "id": 1600890,
+      "form": "花言葉",
+      "kana": "はなことば",
+      "gloss": "language of flowers (e.g. the use of red roses to signify love)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25353,
+        23184,
+        27689,
+        22656
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2,
+        "葉": 3
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194850/花畑/はなばたけ": {
+      "id": 1194850,
+      "form": "花畑",
+      "kana": "はなばたけ",
+      "gloss": "field of flowers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35295,
+        17204,
+        32185,
+        21316
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "畑": 3
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194690/花札/はなふだ": {
+      "id": 1194690,
+      "form": "花札",
+      "kana": "はなふだ",
+      "gloss": "hanafuda",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16739,
+        27692,
+        34111,
+        47129
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "札": 4
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1662780/造花/ぞうか": {
+      "id": 1662780,
+      "form": "造花",
+      "kana": "ぞうか",
+      "gloss": "artificial flower",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15932,
+        36550,
+        38864,
+        38591
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "造": 5
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194800/花鳥/かちょう": {
+      "id": 1194800,
+      "form": "花鳥",
+      "kana": "かちょう",
+      "gloss": "flowers and birds",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15776,
+        44489,
+        43420,
+        94521
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鳥": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1226240/菊花/きっか": {
+      "id": 1226240,
+      "form": "菊花",
+      "kana": "きっか",
+      "gloss": "chrysanthemum flower",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18791,
+        26803,
+        57615,
+        78935
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "菊": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1226240/菊花/きくか": {
+      "id": 1226240,
+      "form": "菊花",
+      "kana": "きくか",
+      "gloss": "chrysanthemum flower",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18791,
+        26803,
+        57615,
+        219485
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "菊": 7
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1194980/花婿/はなむこ": {
+      "id": 1194980,
+      "form": "花婿",
+      "kana": "はなむこ",
+      "gloss": "bridegroom",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33656,
+        30335,
+        28048,
+        35202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "婿": 7
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1488050/百花/ひゃっか": {
+      "id": 1488050,
+      "form": "百花",
+      "kana": "ひゃっか",
+      "gloss": "all varieties of flowers",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19830,
+        45909,
+        33710,
+        72578
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "百": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1195080/花輪/はなわ": {
+      "id": 1195080,
+      "form": "花輪",
+      "kana": "はなわ",
+      "gloss": "wreath",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26171,
+        41422,
+        39764,
+        54484
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "輪": 4
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2569510/風花/かざはな": {
+      "id": 2569510,
+      "form": "風花",
+      "kana": "かざはな",
+      "gloss": "flurry of snow in a clear sky",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37639,
+        56591,
+        25040,
+        65812
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "はな": {
+          "actual": "はな",
+          "dictionary": [
+            "はな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2221360/花籠/けこ": {
+      "id": 2221360,
+      "form": "花籠",
+      "kana": "けこ",
+      "gloss": "flower basket (or plate) used for flower-scattering rituals",
+      "senses": [
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25854,
+        68915,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "籠": 7
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2526250/天花/てんけ": {
+      "id": 2526250,
+      "form": "天花",
+      "kana": "てんけ",
+      "gloss": "flowers that bloom in the heavens",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "天": 1
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2864789/花香/けこう": {
+      "id": 2864789,
+      "form": "花香",
+      "kana": "けこう",
+      "gloss": "flowers and incense (given as a Buddhist offering)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "香": 4
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "hanataba",
+      "form": "花束",
+      "kana": "はなたば",
+      "cue": "Bouquet of flowers",
+      "ids": [
+        1194790
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 10276,
+        "shiberu": 7448,
+        "tubelex": 11434,
+        "wordfreq": 12695
+      },
+      "alternatives_by_kanji": {
+        "花": [
+          "1194500/花/はな",
+          "1194580/花火/はなび",
+          "1590460/花壇/かだん"
+        ]
+      }
+    },
+    {
+      "wordId": "hanabi",
+      "form": "花火",
+      "kana": "はなび",
+      "cue": "Fireworks",
+      "ids": [
+        1194580
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 4776,
+        "shiberu": 3733,
+        "tubelex": 3969,
+        "wordfreq": 4596
+      }
+    }
+  ],
+  "unassigned_form_count": 252
+}

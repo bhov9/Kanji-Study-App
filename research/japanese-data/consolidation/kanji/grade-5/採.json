@@ -1,0 +1,1408 @@
+{
+  "character": "採",
+  "grade": 5,
+  "meanings": [
+    "pick",
+    "take",
+    "fetch",
+    "take up"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 64
+    }
+  ],
+  "components": [
+    "爪",
+    "木",
+    "扎"
+  ],
+  "on": [
+    "サイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "と.る",
+      "stem": "と",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "採",
+    "heading": "採",
+    "readings": [
+      "サイ",
+      "とる"
+    ],
+    "examples_by_reading": [
+      [
+        "採集",
+        "採用",
+        "採光"
+      ],
+      [
+        "採る"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔取る，執る，捕る"
+    ],
+    "representative_index": {
+      "kanji": "採",
+      "reading": "サイ",
+      "source": "table_11_sa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "サイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 83,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1294890/採用/さいよう",
+        "1294810/採集/さいしゅう",
+        "1741320/採光/さいこう",
+        "1294800/採取/さいしゅ",
+        "1294750/採掘/さいくつ",
+        "1294850/採点/さいてん",
+        "1478020/伐採/ばっさい",
+        "1294830/採択/さいたく",
+        "1294760/採決/さいけつ",
+        "1294780/採算/さいさん"
+      ]
+    },
+    {
+      "reading": "とる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1599160/採る/とる",
+        "1873650/決を採る/けつをとる",
+        "2658080/採るべき道/とるべきみち",
+        "1866480/可否を採る/かひをとる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1294890/採用/さいよう",
+    "1294810/採集/さいしゅう",
+    "1741320/採光/さいこう",
+    "1599160/採る/とる",
+    "1294800/採取/さいしゅ",
+    "1294750/採掘/さいくつ",
+    "1294850/採点/さいてん",
+    "1478020/伐採/ばっさい",
+    "1294830/採択/さいたく",
+    "1294760/採決/さいけつ",
+    "1294780/採算/さいさん",
+    "1593640/採録/さいろく",
+    "1294820/採寸/さいすん",
+    "1294770/採血/さいけつ",
+    "1741310/採石/さいせき",
+    "2134670/採卵/さいらん",
+    "1741360/採鉱/さいこう",
+    "2586670/採尿/さいにょう",
+    "1294870/採譜/さいふ",
+    "2825925/採種/さいしゅ",
+    "2827067/採火/さいか",
+    "1294880/採油/さいゆ",
+    "1294860/採否/さいひ",
+    "2846650/採草/さいそう",
+    "1294840/採炭/さいたん",
+    "2846516/採訪/さいほう",
+    "2829459/採水/さいすい",
+    "2846516/採訪/さいぼう",
+    "2849197/採食/さいしょく",
+    "2869857/採蜜/さいみつ"
+  ],
+  "candidates": {
+    "1294890/採用/さいよう": {
+      "id": 1294890,
+      "form": "採用",
+      "kana": "さいよう",
+      "gloss": "use",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2167,
+        1453,
+        1209,
+        4795
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1294810/採集/さいしゅう": {
+      "id": 1294810,
+      "form": "採集",
+      "kana": "さいしゅう",
+      "gloss": "collecting",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5374,
+        14051,
+        19596,
+        30254
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "集": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1741320/採光/さいこう": {
+      "id": 1741320,
+      "form": "採光",
+      "kana": "さいこう",
+      "gloss": "(natural) lighting (of an interior space)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        31767,
+        38608,
+        54820,
+        57404
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "光": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "サイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1599160/採る/とる": {
+      "id": 1599160,
+      "form": "採る",
+      "kana": "とる",
+      "gloss": "to adopt (a method, proposal, etc.)",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3538,
+        null,
+        26068,
+        9291
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とる": {
+          "actual": "と",
+          "dictionary": [
+            "と.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "とる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1294800/採取/さいしゅ": {
+      "id": 1294800,
+      "form": "採取",
+      "kana": "さいしゅ",
+      "gloss": "picking",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6324,
+        8040,
+        9023,
+        10261
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294750/採掘/さいくつ": {
+      "id": 1294750,
+      "form": "採掘",
+      "kana": "さいくつ",
+      "gloss": "mining",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16883,
+        6806,
+        11917,
+        22297
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "掘": 7
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294850/採点/さいてん": {
+      "id": 1294850,
+      "form": "採点",
+      "kana": "さいてん",
+      "gloss": "marking",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11704,
+        13294,
+        14533,
+        17143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1478020/伐採/ばっさい": {
+      "id": 1478020,
+      "form": "伐採",
+      "kana": "ばっさい",
+      "gloss": "felling timber",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17568,
+        10929,
+        17491,
+        32069
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "伐": 7
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294830/採択/さいたく": {
+      "id": 1294830,
+      "form": "採択",
+      "kana": "さいたく",
+      "gloss": "adoption",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        14189,
+        13932,
+        14937,
+        63822
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "択": 7
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294760/採決/さいけつ": {
+      "id": 1294760,
+      "form": "採決",
+      "kana": "さいけつ",
+      "gloss": "vote",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21420,
+        15404,
+        17751,
+        51782
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "決": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294780/採算/さいさん": {
+      "id": 1294780,
+      "form": "採算",
+      "kana": "さいさん",
+      "gloss": "profit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        17156,
+        20126,
+        17251,
+        40691
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "算": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1593640/採録/さいろく": {
+      "id": 1593640,
+      "form": "採録",
+      "kana": "さいろく",
+      "gloss": "recording",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9969,
+        85382,
+        72835,
+        154743
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "録": 4
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294820/採寸/さいすん": {
+      "id": 1294820,
+      "form": "採寸",
+      "kana": "さいすん",
+      "gloss": "taking measurements",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        36843,
+        42628,
+        49881,
+        33881
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寸": 6
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294770/採血/さいけつ": {
+      "id": 1294770,
+      "form": "採血",
+      "kana": "さいけつ",
+      "gloss": "drawing blood",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        17642,
+        23842,
+        39489
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "血": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1741310/採石/さいせき": {
+      "id": 1741310,
+      "form": "採石",
+      "kana": "さいせき",
+      "gloss": "quarrying",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        27692,
+        30980,
+        123426
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2134670/採卵/さいらん": {
+      "id": 2134670,
+      "form": "採卵",
+      "kana": "さいらん",
+      "gloss": "egg collection (from hens, fish, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        19862,
+        77923,
+        166617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "卵": 6
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1741360/採鉱/さいこう": {
+      "id": 1741360,
+      "form": "採鉱",
+      "kana": "さいこう",
+      "gloss": "mining",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        61736,
+        102932
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉱": 5
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2586670/採尿/さいにょう": {
+      "id": 2586670,
+      "form": "採尿",
+      "kana": "さいにょう",
+      "gloss": "urine sampling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        80922,
+        144615
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "尿": 7
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294870/採譜/さいふ": {
+      "id": 1294870,
+      "form": "採譜",
+      "kana": "さいふ",
+      "gloss": "transcribing in musical notation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        80922,
+        185027
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "譜": 7
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2825925/採種/さいしゅ": {
+      "id": 2825925,
+      "form": "採種",
+      "kana": "さいしゅ",
+      "gloss": "seed production",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        90446,
+        232358
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2827067/採火/さいか": {
+      "id": 2827067,
+      "form": "採火",
+      "kana": "さいか",
+      "gloss": "lighting a sacred flame by the light of the Sun",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        128722,
+        204505
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294880/採油/さいゆ": {
+      "id": 1294880,
+      "form": "採油",
+      "kana": "さいゆ",
+      "gloss": "extraction of oil (e.g. from seeds)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        121853,
+        226273
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "油": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294860/採否/さいひ": {
+      "id": 1294860,
+      "form": "採否",
+      "kana": "さいひ",
+      "gloss": "adoption or rejection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        115366,
+        168736
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "否": 6
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846650/採草/さいそう": {
+      "id": 2846650,
+      "form": "採草",
+      "kana": "さいそう",
+      "gloss": "cutting grass for fodder or compost",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        129940,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "草": 1
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294840/採炭/さいたん": {
+      "id": 1294840,
+      "form": "採炭",
+      "kana": "さいたん",
+      "gloss": "coal mining",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        166230,
+        192560
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "炭": 3
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846516/採訪/さいほう": {
+      "id": 2846516,
+      "form": "採訪",
+      "kana": "さいほう",
+      "gloss": "research visit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        189078,
+        350054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "訪": 6
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829459/採水/さいすい": {
+      "id": 2829459,
+      "form": "採水",
+      "kana": "さいすい",
+      "gloss": "water collection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        null,
+        180882
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846516/採訪/さいぼう": {
+      "id": 2846516,
+      "form": "採訪",
+      "kana": "さいぼう",
+      "gloss": "research visit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        189078,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "訪": 6
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2849197/採食/さいしょく": {
+      "id": 2849197,
+      "form": "採食",
+      "kana": "さいしょく",
+      "gloss": "foraging",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        null,
+        266181
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2869857/採蜜/さいみつ": {
+      "id": 2869857,
+      "form": "採蜜",
+      "kana": "さいみつ",
+      "gloss": "harvesting honey",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        238677
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蜜": 7
+      },
+      "matched": {
+        "サイ": {
+          "actual": "さい",
+          "dictionary": [
+            "サイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1873650/決を採る/けつをとる": {
+      "id": 1873650,
+      "form": "決を採る",
+      "kana": "けつをとる",
+      "gloss": "to take a vote",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        66604
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "決": 3
+      },
+      "matched": {
+        "とる": {
+          "actual": "と",
+          "dictionary": [
+            "と.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2658080/採るべき道/とるべきみち": {
+      "id": 2658080,
+      "form": "採るべき道",
+      "kana": "とるべきみち",
+      "gloss": "course of action",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147365
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "とる": {
+          "actual": "と",
+          "dictionary": [
+            "と.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1866480/可否を採る/かひをとる": {
+      "id": 1866480,
+      "form": "可否を採る",
+      "kana": "かひをとる",
+      "gloss": "to take the ayes and noes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "否": 6,
+        "可": 5
+      },
+      "matched": {
+        "とる": {
+          "actual": "と",
+          "dictionary": [
+            "と.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1294890:採用:さいよう",
+      "form": "採用",
+      "kana": "さいよう",
+      "cue": "use; adoption",
+      "ids": [
+        1294890
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 4795,
+        "shiberu": 2167,
+        "tubelex": 1453,
+        "wordfreq": 1209
+      },
+      "alternatives_by_kanji": {
+        "用": [
+          "1306200/使用/しよう",
+          "1546220/用意/ようい",
+          "1546210/用いる/もちいる"
+        ],
+        "採": [
+          "1294810/採集/さいしゅう",
+          "1741320/採光/さいこう",
+          "1599160/採る/とる"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1478020:伐採:ばっさい",
+      "form": "伐採",
+      "kana": "ばっさい",
+      "cue": "felling timber; cutting down trees",
+      "ids": [
+        1478020
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 32069,
+        "shiberu": 17568,
+        "tubelex": 10929,
+        "wordfreq": 17491
+      },
+      "alternatives_by_kanji": {
+        "採": [
+          "1294890/採用/さいよう",
+          "1294810/採集/さいしゅう",
+          "1741320/採光/さいこう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 20
+}

@@ -1,0 +1,512 @@
+{
+  "character": "弐",
+  "grade": 7,
+  "meanings": [
+    "II",
+    "two",
+    "second"
+  ],
+  "strokes": [
+    6
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 56
+    },
+    {
+      "type": "nelson_c",
+      "value": 1
+    }
+  ],
+  "components": [
+    "一",
+    "弋",
+    "二"
+  ],
+  "on": [
+    "ニ",
+    "ジ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ふた.つ",
+      "stem": "ふた",
+      "okurigana": "つ"
+    },
+    {
+      "sourceNotation": "そえ",
+      "stem": "そえ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "弐",
+    "heading": "弐（貳）",
+    "readings": [
+      "ニ"
+    ],
+    "examples_by_reading": [
+      [
+        "弐万円"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "弐",
+      "reading": "ニ",
+      "source": "table_22_ni.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ニ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1461140/弐/に",
+        "1462000/弐拾/にじゅう",
+        "1599850/弐心/にしん"
+      ]
+    },
+    {
+      "reading": "ジ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1599850/弐心/じしん",
+        "2841246/副弐/ふくじ",
+        "2841245/疑弐/ぎじ"
+      ]
+    },
+    {
+      "reading": "ふたつ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "2157460/弐つ/ふたつ"
+      ]
+    },
+    {
+      "reading": "そえ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1461140/弐/に",
+    "1462000/弐拾/にじゅう",
+    "2157460/弐つ/ふたつ",
+    "1599850/弐心/にしん",
+    "1599850/弐心/じしん",
+    "1461140/弐/ふた",
+    "1461140/弐/ふう",
+    "1461140/弐/ふ",
+    "1599850/弐心/ふたごころ",
+    "2841246/副弐/ふくじ",
+    "2841245/疑弐/ぎじ"
+  ],
+  "candidates": {
+    "1461140/弐/に": {
+      "id": 1461140,
+      "form": "弐",
+      "kana": "に",
+      "gloss": "two",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        22895,
+        36027
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ニ": {
+          "actual": "に",
+          "dictionary": [
+            "ニ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1462000/弐拾/にじゅう": {
+      "id": 1462000,
+      "form": "弐拾",
+      "kana": "にじゅう",
+      "gloss": "twenty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        93840,
+        117925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拾": 3
+      },
+      "matched": {
+        "ニ": {
+          "actual": "に",
+          "dictionary": [
+            "ニ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2157460/弐つ/ふたつ": {
+      "id": 2157460,
+      "form": "弐つ",
+      "kana": "ふたつ",
+      "gloss": "two",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        240161
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ふたつ": {
+          "actual": "ふた",
+          "dictionary": [
+            "ふた.つ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1599850/弐心/にしん": {
+      "id": 1599850,
+      "form": "弐心",
+      "kana": "にしん",
+      "gloss": "duplicity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "ニ": {
+          "actual": "に",
+          "dictionary": [
+            "ニ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1599850/弐心/じしん": {
+      "id": 1599850,
+      "form": "弐心",
+      "kana": "じしん",
+      "gloss": "duplicity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1461140/弐/ふた": {
+      "id": 1461140,
+      "form": "弐",
+      "kana": "ふた",
+      "gloss": "two",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        22895,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1461140/弐/ふう": {
+      "id": 1461140,
+      "form": "弐",
+      "kana": "ふう",
+      "gloss": "two",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        22895,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1461140/弐/ふ": {
+      "id": 1461140,
+      "form": "弐",
+      "kana": "ふ",
+      "gloss": "two",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "num"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        22895,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1599850/弐心/ふたごころ": {
+      "id": 1599850,
+      "form": "弐心",
+      "kana": "ふたごころ",
+      "gloss": "duplicity",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2841246/副弐/ふくじ": {
+      "id": 2841246,
+      "form": "副弐",
+      "kana": "ふくじ",
+      "gloss": "secondary (thing)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "副": 4
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2841245/疑弐/ぎじ": {
+      "id": 2841245,
+      "form": "疑弐",
+      "kana": "ぎじ",
+      "gloss": "doubt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "疑": 6
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1461140:弐:に",
+      "form": "弐",
+      "kana": "に",
+      "cue": "two; 2",
+      "ids": [
+        1461140
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 36027,
+        "wordfreq": 22895
+      },
+      "alternatives_by_kanji": {
+        "弐": [
+          "1462000/弐拾/にじゅう",
+          "2157460/弐つ/ふたつ",
+          "1599850/弐心/にしん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 4
+}

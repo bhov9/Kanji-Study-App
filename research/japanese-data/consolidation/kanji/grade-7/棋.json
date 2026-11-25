@@ -1,0 +1,1139 @@
+{
+  "character": "棋",
+  "grade": 7,
+  "meanings": [
+    "chess piece",
+    "Japanese chess",
+    "shogi"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    }
+  ],
+  "components": [
+    "甘",
+    "ハ",
+    "木"
+  ],
+  "on": [
+    "キ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ご",
+      "stem": "ご",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "棋",
+    "heading": "棋",
+    "readings": [
+      "キ"
+    ],
+    "examples_by_reading": [
+      [
+        "棋士",
+        "棋譜",
+        "将棋"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "棋",
+      "reading": "キ",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 16,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1347640/将棋/しょうぎ",
+        "1220640/棋士/きし",
+        "1220650/棋譜/きふ",
+        "2534380/棋力/きりょく",
+        "1614460/棋院/きいん",
+        "1614470/棋聖/きせい",
+        "2107190/棋戦/きせん",
+        "2857559/棋王/きおう",
+        "1614480/棋界/きかい",
+        "1756850/棋風/きふう"
+      ]
+    },
+    {
+      "reading": "ご",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1270870/棋/ご"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1347640/将棋/しょうぎ",
+    "1220640/棋士/きし",
+    "1220650/棋譜/きふ",
+    "2534380/棋力/きりょく",
+    "1614460/棋院/きいん",
+    "1614470/棋聖/きせい",
+    "2107190/棋戦/きせん",
+    "2857559/棋王/きおう",
+    "1270870/棋/ご",
+    "1614480/棋界/きかい",
+    "1756850/棋風/きふう",
+    "5740870/日本棋院/にほんきいん",
+    "1869330/棋道/きどう",
+    "5192333/関西棋院/かんさいきいん",
+    "2666180/女流棋士/じょりゅうきし",
+    "2586540/棋局/ききょく",
+    "1663490/棋客/きかく",
+    "1663490/棋客/ききゃく",
+    "2859932/弾棋/だんき",
+    "1656230/詰将棋/つめしょうぎ",
+    "1656230/詰め将棋/つめしょうぎ",
+    "1347650/将棋倒し/しょうぎだおし",
+    "2870612/兵棋/へいぎ",
+    "1347670/将棋盤/しょうぎばん",
+    "2642870/将棋を指す/しょうぎをさす",
+    "1882390/将棋の駒/しょうぎのこま",
+    "1882380/将棋指し/しょうぎさし",
+    "2854698/軍人将棋/ぐんじんしょうぎ",
+    "5582709/日本将棋連盟/にほんしょうぎれんめい",
+    "2870613/兵棋演習/へいぎえんしゅう"
+  ],
+  "candidates": {
+    "1347640/将棋/しょうぎ": {
+      "id": 1347640,
+      "form": "将棋",
+      "kana": "しょうぎ",
+      "gloss": "shogi",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4646,
+        5856,
+        5555,
+        15194
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "ぎ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1220640/棋士/きし": {
+      "id": 1220640,
+      "form": "棋士",
+      "kana": "きし",
+      "gloss": "professional shogi player",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14175,
+        13640,
+        13918,
+        51533
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1220650/棋譜/きふ": {
+      "id": 1220650,
+      "form": "棋譜",
+      "kana": "きふ",
+      "gloss": "record of a game of go, shogi, chess, etc.",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29123,
+        50803,
+        33710,
+        74659
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "譜": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [
+        "キ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2534380/棋力/きりょく": {
+      "id": 2534380,
+      "form": "棋力",
+      "kana": "きりょく",
+      "gloss": "skill in go or shogi",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23203,
+        75655,
+        66810,
+        128666
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1614460/棋院/きいん": {
+      "id": 1614460,
+      "form": "棋院",
+      "kana": "きいん",
+      "gloss": "go institution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32406,
+        85382,
+        142244,
+        209898
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "院": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1614470/棋聖/きせい": {
+      "id": 1614470,
+      "form": "棋聖",
+      "kana": "きせい",
+      "gloss": "great master of go",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        12829,
+        58810,
+        142589
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聖": 6
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2107190/棋戦/きせん": {
+      "id": 2107190,
+      "form": "棋戦",
+      "kana": "きせん",
+      "gloss": "go or shogi tournament",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38608,
+        51518,
+        137540
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "戦": 4
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857559/棋王/きおう": {
+      "id": 2857559,
+      "form": "棋王",
+      "kana": "きおう",
+      "gloss": "Kiō (one of the eight major professional titles of shogi)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36283,
+        80922,
+        214405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1270870/棋/ご": {
+      "id": 1270870,
+      "form": "棋",
+      "kana": "ご",
+      "gloss": "go (board game)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        137073,
+        87920
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ご": {
+          "actual": "ご",
+          "dictionary": [
+            "ご"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1614480/棋界/きかい": {
+      "id": 1614480,
+      "form": "棋界",
+      "kana": "きかい",
+      "gloss": "world of go",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        67088,
+        116428,
+        167693
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "界": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1756850/棋風/きふう": {
+      "id": 1756850,
+      "form": "棋風",
+      "kana": "きふう",
+      "gloss": "one's style of playing shogi or go",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        116428,
+        143054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "風": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5740870/日本棋院/にほんきいん": {
+      "id": 5740870,
+      "form": "日本棋院",
+      "kana": "にほんきいん",
+      "gloss": "Nihon Kiin (national go organization of Japan)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        80922,
+        232255
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1,
+        "日": 1,
+        "院": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1869330/棋道/きどう": {
+      "id": 1869330,
+      "form": "棋道",
+      "kana": "きどう",
+      "gloss": "art of shogi",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        185634,
+        279415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "道": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5192333/関西棋院/かんさいきいん": {
+      "id": 5192333,
+      "form": "関西棋院",
+      "kana": "かんさいきいん",
+      "gloss": "Kansai Go Institution",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        192767,
+        312647
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "院": 3,
+        "関": 4,
+        "西": 2
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2666180/女流棋士/じょりゅうきし": {
+      "id": 2666180,
+      "form": "女流棋士",
+      "kana": "じょりゅうきし",
+      "gloss": "professional woman shogi player",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        111852
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "士": 5,
+        "流": 3,
+        "女": 1
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2586540/棋局/ききょく": {
+      "id": 2586540,
+      "form": "棋局",
+      "kana": "ききょく",
+      "gloss": "go or shogi board",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        227611
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "局": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663490/棋客/きかく": {
+      "id": 1663490,
+      "form": "棋客",
+      "kana": "きかく",
+      "gloss": "shogi player",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        271957
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "客": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1663490/棋客/ききゃく": {
+      "id": 1663490,
+      "form": "棋客",
+      "kana": "ききゃく",
+      "gloss": "shogi player",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "客": 3
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2859932/弾棋/だんき": {
+      "id": 2859932,
+      "form": "弾棋",
+      "kana": "だんき",
+      "gloss": "ancient Chinese board game similar to go",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "弾": 7
+      },
+      "matched": {
+        "キ": {
+          "actual": "き",
+          "dictionary": [
+            "キ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1656230/詰将棋/つめしょうぎ": {
+      "id": 1656230,
+      "form": "詰将棋",
+      "kana": "つめしょうぎ",
+      "gloss": "(constructed) shogi problem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        41163,
+        91770
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6,
+        "詰": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1656230/詰め将棋/つめしょうぎ": {
+      "id": 1656230,
+      "form": "詰め将棋",
+      "kana": "つめしょうぎ",
+      "gloss": "(constructed) shogi problem",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        97220,
+        67783
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6,
+        "詰": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1347650/将棋倒し/しょうぎだおし": {
+      "id": 1347650,
+      "form": "将棋倒し",
+      "kana": "しょうぎだおし",
+      "gloss": "falling down one after another (like dominoes)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        86386,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6,
+        "倒": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2870612/兵棋/へいぎ": {
+      "id": 2870612,
+      "form": "兵棋",
+      "kana": "へいぎ",
+      "gloss": "wargame piece (on a training map)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        181016
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1347670/将棋盤/しょうぎばん": {
+      "id": 1347670,
+      "form": "将棋盤",
+      "kana": "しょうぎばん",
+      "gloss": "shogi board",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        55670
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6,
+        "盤": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2642870/将棋を指す/しょうぎをさす": {
+      "id": 2642870,
+      "form": "将棋を指す",
+      "kana": "しょうぎをさす",
+      "gloss": "to play shogi",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        60072
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "指": 3,
+        "将": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1882390/将棋の駒/しょうぎのこま": {
+      "id": 1882390,
+      "form": "将棋の駒",
+      "kana": "しょうぎのこま",
+      "gloss": "shogi piece",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        61021
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6,
+        "駒": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1882380/将棋指し/しょうぎさし": {
+      "id": 1882380,
+      "form": "将棋指し",
+      "kana": "しょうぎさし",
+      "gloss": "shogi player",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        116212
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "指": 3,
+        "将": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2854698/軍人将棋/ぐんじんしょうぎ": {
+      "id": 2854698,
+      "form": "軍人将棋",
+      "kana": "ぐんじんしょうぎ",
+      "gloss": "gunjin shogi (board game)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        145585
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "将": 6,
+        "人": 1,
+        "軍": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "5582709/日本将棋連盟/にほんしょうぎれんめい": {
+      "id": 5582709,
+      "form": "日本将棋連盟",
+      "kana": "にほんしょうぎれんめい",
+      "gloss": "Japan Shogi Association",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        176143
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1,
+        "将": 6,
+        "本": 1,
+        "盟": 6,
+        "連": 4
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2870613/兵棋演習/へいぎえんしゅう": {
+      "id": 2870613,
+      "form": "兵棋演習",
+      "kana": "へいぎえんしゅう",
+      "gloss": "wargame",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        189012
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "兵": 4,
+        "演": 5,
+        "習": 3
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1347640:将棋:しょうぎ",
+      "form": "将棋",
+      "kana": "しょうぎ",
+      "cue": "shogi; Japanese chess",
+      "ids": [
+        1347640
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 15194,
+        "shiberu": 4646,
+        "tubelex": 5856,
+        "wordfreq": 5555
+      },
+      "alternatives_by_kanji": {
+        "将": [
+          "1347710/将来/しょうらい",
+          "1581510/大将/たいしょう",
+          "1581510/大将/だいしょう"
+        ],
+        "棋": [
+          "1220640/棋士/きし",
+          "1220650/棋譜/きふ",
+          "2534380/棋力/きりょく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 40
+}

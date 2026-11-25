@@ -1,0 +1,1259 @@
+{
+  "character": "号",
+  "grade": 3,
+  "meanings": [
+    "nickname",
+    "number",
+    "item",
+    "title",
+    "pseudonym",
+    "name",
+    "call"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    }
+  ],
+  "components": [
+    "一",
+    "口",
+    "勹"
+  ],
+  "on": [
+    "ゴウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "さけ.ぶ",
+      "stem": "さけ",
+      "okurigana": "ぶ"
+    },
+    {
+      "sourceNotation": "よびな",
+      "stem": "よびな",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "号",
+    "heading": "号（號）",
+    "readings": [
+      "ゴウ"
+    ],
+    "examples_by_reading": [
+      [
+        "号令",
+        "号外",
+        "番号"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "号",
+      "reading": "ゴウ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ゴウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 320,
+      "frequent_unflagged_examples": 6,
+      "current_support": true,
+      "candidates": [
+        "1482290/番号/ばんごう",
+        "1284310/号令/ごうれい",
+        "1284230/号外/ごうがい",
+        "1284220/号/ごう",
+        "1359240/信号/しんごう",
+        "1154430/暗号/あんごう",
+        "1223210/記号/きごう",
+        "1497710/符号/ふごう",
+        "1351260/称号/しょうごう",
+        "1284250/号泣/ごうきゅう"
+      ]
+    },
+    {
+      "reading": "さけぶ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "よびな",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1482290/番号/ばんごう",
+    "1284310/号令/ごうれい",
+    "1284230/号外/ごうがい",
+    "1284220/号/ごう",
+    "1359240/信号/しんごう",
+    "1154430/暗号/あんごう",
+    "1223210/記号/きごう",
+    "1497710/符号/ふごう",
+    "1351260/称号/しょうごう",
+    "1284250/号泣/ごうきゅう",
+    "1468650/年号/ねんごう",
+    "1182690/屋号/やごう",
+    "1798770/初号/しょごう",
+    "1445710/怒号/どごう",
+    "2068290/復号/ふくごう",
+    "1316530/次号/じごう",
+    "2397460/号する/ごうする",
+    "1746270/国号/こくごう",
+    "1752210/名号/みょうごう",
+    "1810170/略号/りゃくごう",
+    "1260800/元号/げんごう",
+    "1752210/名号/めいごう",
+    "1284280/号数/ごうすう",
+    "1449440/等号/とうごう",
+    "1783170/毎号/まいごう",
+    "1509770/別号/べつごう",
+    "1284300/号砲/ごうほう",
+    "1347020/商号/しょうごう",
+    "2088860/山号/さんごう",
+    "1197910/雅号/がごう"
+  ],
+  "candidates": {
+    "1482290/番号/ばんごう": {
+      "id": 1482290,
+      "form": "番号",
+      "kana": "ばんごう",
+      "gloss": "number",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        724,
+        1994,
+        1019,
+        3361
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "番": 2
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1284310/号令/ごうれい": {
+      "id": 1284310,
+      "form": "号令",
+      "kana": "ごうれい",
+      "gloss": "order (esp. to a number of people)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        12206,
+        18397,
+        32914,
+        12272
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1284230/号外/ごうがい": {
+      "id": 1284230,
+      "form": "号外",
+      "kana": "ごうがい",
+      "gloss": "newspaper extra",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16517,
+        37698,
+        31382,
+        37116
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "外": 2
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゴウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1284220/号/ごう": {
+      "id": 1284220,
+      "form": "号",
+      "kana": "ごう",
+      "gloss": "number",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        414,
+        679,
+        552,
+        3392
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1359240/信号/しんごう": {
+      "id": 1359240,
+      "form": "信号",
+      "kana": "しんごう",
+      "gloss": "signal",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1389,
+        2795,
+        2745,
+        6487
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "信": 4
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1154430/暗号/あんごう": {
+      "id": 1154430,
+      "form": "暗号",
+      "kana": "あんごう",
+      "gloss": "code",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8771,
+        4260,
+        4955,
+        11183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "暗": 3
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1223210/記号/きごう": {
+      "id": 1223210,
+      "form": "記号",
+      "kana": "きごう",
+      "gloss": "sign",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5451,
+        5179,
+        9163,
+        13925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "記": 2
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1497710/符号/ふごう": {
+      "id": 1497710,
+      "form": "符号",
+      "kana": "ふごう",
+      "gloss": "sign",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6720,
+        13373,
+        23216,
+        44580
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "符": 7
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1351260/称号/しょうごう": {
+      "id": 1351260,
+      "form": "称号",
+      "kana": "しょうごう",
+      "gloss": "title",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16766,
+        12127,
+        12892,
+        10081
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "称": 7
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1284250/号泣/ごうきゅう": {
+      "id": 1284250,
+      "form": "号泣",
+      "kana": "ごうきゅう",
+      "gloss": "crying loudly",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        19757,
+        16572,
+        15595,
+        17015
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "泣": 4
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1468650/年号/ねんごう": {
+      "id": 1468650,
+      "form": "年号",
+      "kana": "ねんごう",
+      "gloss": "name of an imperial era (e.g. Heisei, Shōwa)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11966,
+        25023,
+        29477,
+        42067
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1182690/屋号/やごう": {
+      "id": 1182690,
+      "form": "屋号",
+      "kana": "やごう",
+      "gloss": "name of store",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11999,
+        34060,
+        37490,
+        54779
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1798770/初号/しょごう": {
+      "id": 1798770,
+      "form": "初号",
+      "kana": "しょごう",
+      "gloss": "first number (e.g. issue of a magazine)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33744,
+        19336,
+        27016,
+        78359
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1445710/怒号/どごう": {
+      "id": 1445710,
+      "form": "怒号",
+      "kana": "どごう",
+      "gloss": "angry roar",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        26312,
+        36026,
+        42050,
+        12697
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "怒": 7
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2068290/復号/ふくごう": {
+      "id": 2068290,
+      "form": "復号",
+      "kana": "ふくごう",
+      "gloss": "decoding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        28120,
+        27052,
+        35359,
+        104535
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "復": 5
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1316530/次号/じごう": {
+      "id": 1316530,
+      "form": "次号",
+      "kana": "じごう",
+      "gloss": "next issue",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26709,
+        34060,
+        37490,
+        45664
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "次": 3
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2397460/号する/ごうする": {
+      "id": 2397460,
+      "form": "号する",
+      "kana": "ごうする",
+      "gloss": "to name",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "vs-s"
+      ],
+      "flags": [],
+      "ranks": [
+        25686,
+        31039,
+        185634,
+        69338
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1746270/国号/こくごう": {
+      "id": 1746270,
+      "form": "国号",
+      "kana": "こくごう",
+      "gloss": "name of a country",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23240,
+        67088,
+        77923,
+        134842
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1752210/名号/みょうごう": {
+      "id": 1752210,
+      "form": "名号",
+      "kana": "みょうごう",
+      "gloss": "Buddha's name (esp. when used in prayer)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40256,
+        33233,
+        85597,
+        144371
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1810170/略号/りゃくごう": {
+      "id": 1810170,
+      "form": "略号",
+      "kana": "りゃくごう",
+      "gloss": "code",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32054,
+        95069,
+        79465,
+        134014
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "略": 5
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1260800/元号/げんごう": {
+      "id": 1260800,
+      "form": "元号",
+      "kana": "げんごう",
+      "gloss": "name of an imperial era (e.g. Heisei, Shōwa)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        20558,
+        14325,
+        64882
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1752210/名号/めいごう": {
+      "id": 1752210,
+      "form": "名号",
+      "kana": "めいごう",
+      "gloss": "Buddha's name (esp. when used in prayer)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40256,
+        33233,
+        85597,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1284280/号数/ごうすう": {
+      "id": 1284280,
+      "form": "号数",
+      "kana": "ごうすう",
+      "gloss": "number or size of periodicals or pictures",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32603,
+        34763,
+        null,
+        135413
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "数": 2
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449440/等号/とうごう": {
+      "id": 1449440,
+      "form": "等号",
+      "kana": "とうごう",
+      "gloss": "equals sign",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        27951,
+        94653,
+        107592
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "等": 3
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1783170/毎号/まいごう": {
+      "id": 1783170,
+      "form": "毎号",
+      "kana": "まいごう",
+      "gloss": "every issue or number",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        51509,
+        42493,
+        76321
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "毎": 2
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1509770/別号/べつごう": {
+      "id": 1509770,
+      "form": "別号",
+      "kana": "べつごう",
+      "gloss": "another name",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40226,
+        89646,
+        null,
+        209183
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1284300/号砲/ごうほう": {
+      "id": 1284300,
+      "form": "号砲",
+      "kana": "ごうほう",
+      "gloss": "signal gun",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        62423,
+        72128,
+        61911
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "砲": 7
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1347020/商号/しょうごう": {
+      "id": 1347020,
+      "form": "商号",
+      "kana": "しょうごう",
+      "gloss": "firm name",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        47321,
+        193819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "商": 3
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2088860/山号/さんごう": {
+      "id": 2088860,
+      "form": "山号",
+      "kana": "さんごう",
+      "gloss": "honorific mountain name prefixed to a temple's name",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        65459,
+        84059,
+        181405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "山": 1
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197910/雅号/がごう": {
+      "id": 1197910,
+      "form": "雅号",
+      "kana": "がごう",
+      "gloss": "alias",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        110395,
+        101440
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "雅": 7
+      },
+      "matched": {
+        "ゴウ": {
+          "actual": "ごう",
+          "dictionary": [
+            "ゴウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "bangou",
+      "form": "番号",
+      "kana": "ばんごう",
+      "cue": "Number (as an identifier)",
+      "ids": [
+        1482290
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 3361,
+        "shiberu": 724,
+        "tubelex": 1994,
+        "wordfreq": 1019
+      },
+      "alternatives_by_kanji": {
+        "番": [
+          "1482340/番組/ばんぐみ",
+          "1342390/順番/じゅんばん",
+          "1482320/番人/ばんにん"
+        ],
+        "号": [
+          "1284310/号令/ごうれい",
+          "1284230/号外/ごうがい",
+          "1284220/号/ごう"
+        ]
+      }
+    },
+    {
+      "wordId": "shingou",
+      "form": "信号",
+      "kana": "しんごう",
+      "cue": "Signal or traffic light",
+      "ids": [
+        1359240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6487,
+        "shiberu": 1389,
+        "tubelex": 2795,
+        "wordfreq": 2745
+      },
+      "alternatives_by_kanji": {
+        "号": [
+          "1482290/番号/ばんごう",
+          "1284310/号令/ごうれい",
+          "1284230/号外/ごうがい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 16
+}

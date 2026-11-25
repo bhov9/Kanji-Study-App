@@ -1,0 +1,1283 @@
+{
+  "character": "診",
+  "grade": 7,
+  "meanings": [
+    "checkup",
+    "seeing",
+    "diagnose",
+    "examine"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "个",
+    "彡"
+  ],
+  "on": [
+    "シン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "み.る",
+      "stem": "み",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "診",
+    "heading": "診",
+    "readings": [
+      "シン",
+      "みる"
+    ],
+    "examples_by_reading": [
+      [
+        "診察",
+        "診療",
+        "往診"
+      ],
+      [
+        "診る"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "⇔見る"
+    ],
+    "representative_index": {
+      "kanji": "診",
+      "reading": "シン",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 94,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1365460/診察/しんさつ",
+        "1365500/診療/しんりょう",
+        "1179710/往診/おうしん",
+        "1365480/診断/しんだん",
+        "1659140/受診/じゅしん",
+        "1256350/検診/けんしん",
+        "1408910/打診/だしん",
+        "1648860/問診/もんしん",
+        "1798960/初診/しょしん",
+        "1800560/聴診/ちょうしん"
+      ]
+    },
+    {
+      "reading": "みる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1365450/診る/みる",
+        "1910820/脈を診る/みゃくをみる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1365460/診察/しんさつ",
+    "1365500/診療/しんりょう",
+    "1179710/往診/おうしん",
+    "1365450/診る/みる",
+    "1365480/診断/しんだん",
+    "1659140/受診/じゅしん",
+    "1256350/検診/けんしん",
+    "1408910/打診/だしん",
+    "1648860/問診/もんしん",
+    "1798960/初診/しょしん",
+    "1800560/聴診/ちょうしん",
+    "1271400/誤診/ごしん",
+    "1691740/触診/しょくしん",
+    "1227850/休診/きゅうしん",
+    "1199500/回診/かいしん",
+    "2652430/診査/しんさ",
+    "1458590/内診/ないしん",
+    "1759840/視診/ししん",
+    "1411980/代診/だいしん",
+    "2861042/健診/けんしん",
+    "2275970/予診/よしん",
+    "2773600/再診/さいしん",
+    "1798970/初診料/しょしんりょう",
+    "1548060/来診/らいしん",
+    "2645760/脈診/みゃくしん",
+    "2828473/望診/ぼうしん",
+    "1256210/健康診断/けんこうしんだん",
+    "1610680/診療所/しんりょうじょ",
+    "1705640/診察室/しんさつしつ",
+    "2828578/確診/かくしん"
+  ],
+  "candidates": {
+    "1365460/診察/しんさつ": {
+      "id": 1365460,
+      "form": "診察",
+      "kana": "しんさつ",
+      "gloss": "medical examination",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3703,
+        6533,
+        10217,
+        9945
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [
+        "シン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1365500/診療/しんりょう": {
+      "id": 1365500,
+      "form": "診療",
+      "kana": "しんりょう",
+      "gloss": "diagnosis and treatment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12736,
+        3449,
+        5988,
+        28585
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "療": 7
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [
+        "シン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1179710/往診/おうしん": {
+      "id": 1179710,
+      "form": "往診",
+      "kana": "おうしん",
+      "gloss": "doctor's visit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15833,
+        33233,
+        44849,
+        40678
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "往": 5
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [
+        "シン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1365450/診る/みる": {
+      "id": 1365450,
+      "form": "診る",
+      "kana": "みる",
+      "gloss": "to examine (medically)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6279,
+        null,
+        44849,
+        6743
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みる": {
+          "actual": "み",
+          "dictionary": [
+            "み.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "みる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1365480/診断/しんだん": {
+      "id": 1365480,
+      "form": "診断",
+      "kana": "しんだん",
+      "gloss": "diagnosis",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3442,
+        3182,
+        2336,
+        10982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "断": 5
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1659140/受診/じゅしん": {
+      "id": 1659140,
+      "form": "受診",
+      "kana": "じゅしん",
+      "gloss": "having a medical examination",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17942,
+        5833,
+        19040,
+        50354
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "受": 3
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1256350/検診/けんしん": {
+      "id": 1256350,
+      "form": "検診",
+      "kana": "けんしん",
+      "gloss": "medical examination (for a specific condition or disease)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        39257,
+        8712,
+        17491,
+        32737
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "検": 5
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1408910/打診/だしん": {
+      "id": 1408910,
+      "form": "打診",
+      "kana": "だしん",
+      "gloss": "percussion",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        15478,
+        19389,
+        23216,
+        18754
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "打": 3
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1648860/問診/もんしん": {
+      "id": 1648860,
+      "form": "問診",
+      "kana": "もんしん",
+      "gloss": "interview (with a doctor)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31741,
+        19862,
+        48867,
+        50147
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1798960/初診/しょしん": {
+      "id": 1798960,
+      "form": "初診",
+      "kana": "しょしん",
+      "gloss": "initial medical examination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38891,
+        20677,
+        54820,
+        84632
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "初": 4
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1800560/聴診/ちょうしん": {
+      "id": 1800560,
+      "form": "聴診",
+      "kana": "ちょうしん",
+      "gloss": "auscultation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        30331,
+        26925,
+        44849,
+        103896
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聴": 7
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1271400/誤診/ごしん": {
+      "id": 1271400,
+      "form": "誤診",
+      "kana": "ごしん",
+      "gloss": "wrong diagnosis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        31827,
+        54711,
+        45339,
+        62845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誤": 6
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1691740/触診/しょくしん": {
+      "id": 1691740,
+      "form": "触診",
+      "kana": "しょくしん",
+      "gloss": "palpation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29810,
+        56518,
+        40099
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "触": 7
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1227850/休診/きゅうしん": {
+      "id": 1227850,
+      "form": "休診",
+      "kana": "きゅうしん",
+      "gloss": "being closed (of a clinic, doctor's office, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        49441,
+        54820,
+        81187
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "休": 1
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1199500/回診/かいしん": {
+      "id": 1199500,
+      "form": "回診",
+      "kana": "かいしん",
+      "gloss": "doctor's rounds (in a hospital)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        52268,
+        70104,
+        50558
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "回": 2
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2652430/診査/しんさ": {
+      "id": 2652430,
+      "form": "診査",
+      "kana": "しんさ",
+      "gloss": "diagnostic examination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        94653,
+        194327
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "査": 5
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1458590/内診/ないしん": {
+      "id": 1458590,
+      "form": "内診",
+      "kana": "ないしん",
+      "gloss": "consultation at an office (as opposed to a house call)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        63933,
+        104555,
+        135617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1759840/視診/ししん": {
+      "id": 1759840,
+      "form": "視診",
+      "kana": "ししん",
+      "gloss": "visual examination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        140911,
+        154770
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1411980/代診/だいしん": {
+      "id": 1411980,
+      "form": "代診",
+      "kana": "だいしん",
+      "gloss": "substitute doctor",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        187348,
+        145973
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "代": 3
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2861042/健診/けんしん": {
+      "id": 2861042,
+      "form": "健診",
+      "kana": "けんしん",
+      "gloss": "health checkup",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        22134,
+        null,
+        69026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "健": 4
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2275970/予診/よしん": {
+      "id": 2275970,
+      "form": "予診",
+      "kana": "よしん",
+      "gloss": "medical history interview before a medical examination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        59850,
+        null,
+        236076
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "予": 3
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2773600/再診/さいしん": {
+      "id": 2773600,
+      "form": "再診",
+      "kana": "さいしん",
+      "gloss": "re-examination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        null,
+        131685
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "再": 5
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1798970/初診料/しょしんりょう": {
+      "id": 1798970,
+      "form": "初診料",
+      "kana": "しょしんりょう",
+      "gloss": "fee for an initial medical examination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        79465,
+        228668
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4,
+        "初": 4
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1548060/来診/らいしん": {
+      "id": 1548060,
+      "form": "来診",
+      "kana": "らいしん",
+      "gloss": "doctor's visit",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        174424
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2645760/脈診/みゃくしん": {
+      "id": 2645760,
+      "form": "脈診",
+      "kana": "みゃくしん",
+      "gloss": "diagnostic sphygmopalpation (in traditional Chinese medicine)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        221663
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脈": 5
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828473/望診/ぼうしん": {
+      "id": 2828473,
+      "form": "望診",
+      "kana": "ぼうしん",
+      "gloss": "the four examinations (in Chinese medicine: seeing, hearing, asking, touching)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "望": 4
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1256210/健康診断/けんこうしんだん": {
+      "id": 1256210,
+      "form": "健康診断",
+      "kana": "けんこうしんだん",
+      "gloss": "health checkup",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23593
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "健": 4,
+        "康": 4,
+        "断": 5
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1610680/診療所/しんりょうじょ": {
+      "id": 1610680,
+      "form": "診療所",
+      "kana": "しんりょうじょ",
+      "gloss": "clinic",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24180
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3,
+        "療": 7
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1705640/診察室/しんさつしつ": {
+      "id": 1705640,
+      "form": "診察室",
+      "kana": "しんさつしつ",
+      "gloss": "examining room",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28186
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "室": 2,
+        "察": 4
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2828578/確診/かくしん": {
+      "id": 2828578,
+      "form": "確診",
+      "kana": "かくしん",
+      "gloss": "certain diagnosis",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "確": 5
+      },
+      "matched": {
+        "シン": {
+          "actual": "しん",
+          "dictionary": [
+            "シン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1910820/脈を診る/みゃくをみる": {
+      "id": 1910820,
+      "form": "脈を診る",
+      "kana": "みゃくをみる",
+      "gloss": "to examine one's pulse",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        96132
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脈": 5
+      },
+      "matched": {
+        "みる": {
+          "actual": "み",
+          "dictionary": [
+            "み.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1365480:診断:しんだん",
+      "form": "診断",
+      "kana": "しんだん",
+      "cue": "diagnosis; medical examination",
+      "ids": [
+        1365480
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 10982,
+        "shiberu": 3442,
+        "tubelex": 3182,
+        "wordfreq": 2336
+      },
+      "alternatives_by_kanji": {
+        "断": [
+          "1478620/判断/はんだん",
+          "1419570/断る/ことわる",
+          "1597030/断つ/たつ"
+        ],
+        "診": [
+          "1365460/診察/しんさつ",
+          "1365500/診療/しんりょう",
+          "1179710/往診/おうしん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 5
+}

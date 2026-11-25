@@ -1,0 +1,400 @@
+{
+  "character": "惧",
+  "grade": 7,
+  "meanings": [
+    "fear",
+    "be afraid of",
+    "dread"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 61
+    }
+  ],
+  "components": [
+    "ハ",
+    "忙",
+    "目"
+  ],
+  "on": [
+    "ク",
+    "グ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "おそ.れる",
+      "stem": "おそ",
+      "okurigana": "れる"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "惧",
+    "heading": "惧",
+    "readings": [
+      "グ"
+    ],
+    "examples_by_reading": [
+      [
+        "危惧"
+      ]
+    ],
+    "note_lines": [
+      "＊［（付）第２の３参照］"
+    ],
+    "representative_index": {
+      "kanji": "惧",
+      "reading": "グ",
+      "source": "table_08_ku.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "グ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1591130/危惧/きぐ",
+        "1997160/絶滅危惧種/ぜつめつきぐしゅ",
+        "2669160/絶滅危惧/ぜつめつきぐ",
+        "2669150/準絶滅危惧/じゅんぜつめつきぐ",
+        "1225700/疑惧/ぎぐ"
+      ]
+    },
+    {
+      "reading": "ク",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1225700/疑惧/ぎく"
+      ]
+    },
+    {
+      "reading": "おそれる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1589200/惧れる/おそれる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1591130/危惧/きぐ",
+    "1997160/絶滅危惧種/ぜつめつきぐしゅ",
+    "2669160/絶滅危惧/ぜつめつきぐ",
+    "1589200/惧れる/おそれる",
+    "1225700/疑惧/ぎく",
+    "2669150/準絶滅危惧/じゅんぜつめつきぐ",
+    "1225700/疑惧/ぎぐ"
+  ],
+  "candidates": {
+    "1591130/危惧/きぐ": {
+      "id": 1591130,
+      "form": "危惧",
+      "kana": "きぐ",
+      "gloss": "apprehension",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11889,
+        11906,
+        11368,
+        10481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "危": 6
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [
+        "グ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1997160/絶滅危惧種/ぜつめつきぐしゅ": {
+      "id": 1997160,
+      "form": "絶滅危惧種",
+      "kana": "ぜつめつきぐしゅ",
+      "gloss": "endangered species",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43766
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4,
+        "絶": 5,
+        "危": 6,
+        "滅": 7
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2669160/絶滅危惧/ぜつめつきぐ": {
+      "id": 2669160,
+      "form": "絶滅危惧",
+      "kana": "ぜつめつきぐ",
+      "gloss": "threatened (species)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        117828
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "絶": 5,
+        "危": 6,
+        "滅": 7
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1589200/惧れる/おそれる": {
+      "id": 1589200,
+      "form": "惧れる",
+      "kana": "おそれる",
+      "gloss": "to fear",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        141568
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "おそれる": {
+          "actual": "おそ",
+          "dictionary": [
+            "おそ.れる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1225700/疑惧/ぎく": {
+      "id": 1225700,
+      "form": "疑惧",
+      "kana": "ぎく",
+      "gloss": "apprehension",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        205768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "疑": 6
+      },
+      "matched": {
+        "ク": {
+          "actual": "く",
+          "dictionary": [
+            "ク"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2669150/準絶滅危惧/じゅんぜつめつきぐ": {
+      "id": 2669150,
+      "form": "準絶滅危惧",
+      "kana": "じゅんぜつめつきぐ",
+      "gloss": "near-threatened (species)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "準": 5,
+        "絶": 5,
+        "危": 6,
+        "滅": 7
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1225700/疑惧/ぎぐ": {
+      "id": 1225700,
+      "form": "疑惧",
+      "kana": "ぎぐ",
+      "gloss": "apprehension",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "疑": 6
+      },
+      "matched": {
+        "グ": {
+          "actual": "ぐ",
+          "dictionary": [
+            "グ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1589200:惧れる:おそれる",
+      "form": "惧れる",
+      "kana": "おそれる",
+      "cue": "to fear; to be afraid of",
+      "ids": [
+        1589200
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 141568
+      },
+      "alternatives_by_kanji": {
+        "惧": [
+          "1591130/危惧/きぐ",
+          "1997160/絶滅危惧種/ぜつめつきぐしゅ",
+          "2669160/絶滅危惧/ぜつめつきぐ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

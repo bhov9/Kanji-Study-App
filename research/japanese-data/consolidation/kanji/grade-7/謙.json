@@ -1,0 +1,821 @@
+{
+  "character": "謙",
+  "grade": 7,
+  "meanings": [
+    "self-effacing",
+    "humble oneself",
+    "condescend",
+    "be modest"
+  ],
+  "strokes": [
+    17
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "｜",
+    "ヨ",
+    "言",
+    "ハ",
+    "并"
+  ],
+  "on": [
+    "ケン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "へりくだ.る",
+      "stem": "へりくだ",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "かね",
+    "ゆずる"
+  ],
+  "government": {
+    "kanji": "謙",
+    "heading": "謙",
+    "readings": [
+      "ケン"
+    ],
+    "examples_by_reading": [
+      [
+        "謙虚",
+        "謙譲"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "謙",
+      "reading": "ケン",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ケン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1260190/謙虚/けんきょ",
+        "1260210/謙譲/けんじょう",
+        "1260240/謙遜/けんそん",
+        "1260200/謙称/けんしょう",
+        "2588600/謙辞/けんじ",
+        "1260230/謙譲語/けんじょうご",
+        "1260220/謙譲の美徳/けんじょうのびとく",
+        "1260240/謙そん/けんそん",
+        "1830870/敬謙/けいけん",
+        "1833800/謙抑/けんよく"
+      ]
+    },
+    {
+      "reading": "へりくだる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1603220/謙る/へりくだる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1260190/謙虚/けんきょ",
+    "1260210/謙譲/けんじょう",
+    "1260240/謙遜/けんそん",
+    "1260200/謙称/けんしょう",
+    "2588600/謙辞/けんじ",
+    "1260230/謙譲語/けんじょうご",
+    "1260220/謙譲の美徳/けんじょうのびとく",
+    "1260240/謙そん/けんそん",
+    "1830870/敬謙/けいけん",
+    "1833800/謙抑/けんよく",
+    "2870160/地山謙/ちざんけん",
+    "2661310/謙譲語２/けんじょうごに",
+    "2661300/謙譲語１/けんじょうごいち",
+    "2661310/謙譲語ＩＩ/けんじょうごに",
+    "2661300/謙譲語Ｉ/けんじょうごいち",
+    "1236820/恭謙/きょうけん",
+    "1603220/謙る/へりくだる",
+    "1260250/謙遜語/けんそんご"
+  ],
+  "candidates": {
+    "1260190/謙虚/けんきょ": {
+      "id": 1260190,
+      "form": "謙虚",
+      "kana": "けんきょ",
+      "gloss": "modest",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11885,
+        9356,
+        11740,
+        11063
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "虚": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1260210/謙譲/けんじょう": {
+      "id": 1260210,
+      "form": "謙譲",
+      "kana": "けんじょう",
+      "gloss": "modesty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13319,
+        21923,
+        55378,
+        101567
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "譲": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1260240/謙遜/けんそん": {
+      "id": 1260240,
+      "form": "謙遜",
+      "kana": "けんそん",
+      "gloss": "modesty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        12891,
+        15846,
+        27689,
+        7352
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遜": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1260200/謙称/けんしょう": {
+      "id": 1260200,
+      "form": "謙称",
+      "kana": "けんしょう",
+      "gloss": "self-deprecating term",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "称": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2588600/謙辞/けんじ": {
+      "id": 2588600,
+      "form": "謙辞",
+      "kana": "けんじ",
+      "gloss": "modest word",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "辞": 4
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1260230/謙譲語/けんじょうご": {
+      "id": 1260230,
+      "form": "謙譲語",
+      "kana": "けんじょうご",
+      "gloss": "humble language (e.g. itadaku)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        113831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "譲": 7,
+        "語": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1260220/謙譲の美徳/けんじょうのびとく": {
+      "id": 1260220,
+      "form": "謙譲の美徳",
+      "kana": "けんじょうのびとく",
+      "gloss": "modest virtue",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        147557
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "譲": 7,
+        "徳": 4,
+        "美": 3
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1260240/謙そん/けんそん": {
+      "id": 1260240,
+      "form": "謙そん",
+      "kana": "けんそん",
+      "gloss": "modesty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        174319
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1830870/敬謙/けいけん": {
+      "id": 1830870,
+      "form": "敬謙",
+      "kana": "けいけん",
+      "gloss": "pious",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敬": 6
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1833800/謙抑/けんよく": {
+      "id": 1833800,
+      "form": "謙抑",
+      "kana": "けんよく",
+      "gloss": "humbling oneself",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抑": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870160/地山謙/ちざんけん": {
+      "id": 2870160,
+      "form": "地山謙",
+      "kana": "ちざんけん",
+      "gloss": "qian (hexagram 15 of the I Ching: modesty)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "山": 1,
+        "地": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2661310/謙譲語２/けんじょうごに": {
+      "id": 2661310,
+      "form": "謙譲語２",
+      "kana": "けんじょうごに",
+      "gloss": "humble language in which an action or object is not directed toward the listener (or a third party)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "譲": 7,
+        "語": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2661300/謙譲語１/けんじょうごいち": {
+      "id": 2661300,
+      "form": "謙譲語１",
+      "kana": "けんじょうごいち",
+      "gloss": "humble language in which the listener (or a third party) is the indirect object of an action (or the recipient of an object, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "譲": 7,
+        "語": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2661310/謙譲語ＩＩ/けんじょうごに": {
+      "id": 2661310,
+      "form": "謙譲語ＩＩ",
+      "kana": "けんじょうごに",
+      "gloss": "humble language in which an action or object is not directed toward the listener (or a third party)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "譲": 7,
+        "語": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2661300/謙譲語Ｉ/けんじょうごいち": {
+      "id": 2661300,
+      "form": "謙譲語Ｉ",
+      "kana": "けんじょうごいち",
+      "gloss": "humble language in which the listener (or a third party) is the indirect object of an action (or the recipient of an object, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "譲": 7,
+        "語": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1236820/恭謙/きょうけん": {
+      "id": 1236820,
+      "form": "恭謙",
+      "kana": "きょうけん",
+      "gloss": "modesty",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na",
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        173792,
+        null,
+        189847
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恭": 7
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1603220/謙る/へりくだる": {
+      "id": 1603220,
+      "form": "謙る",
+      "kana": "へりくだる",
+      "gloss": "to deprecate oneself and praise the listener",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        85392
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "へりくだる": {
+          "actual": "へりくだ",
+          "dictionary": [
+            "へりくだ.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1260250/謙遜語/けんそんご": {
+      "id": 1260250,
+      "form": "謙遜語",
+      "kana": "けんそんご",
+      "gloss": "humble language",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遜": 7,
+        "語": 2
+      },
+      "matched": {
+        "ケン": {
+          "actual": "けん",
+          "dictionary": [
+            "ケン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1260190:謙虚:けんきょ",
+      "form": "謙虚",
+      "kana": "けんきょ",
+      "cue": "modest; humble",
+      "ids": [
+        1260190
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 11063,
+        "shiberu": 11885,
+        "tubelex": 9356,
+        "wordfreq": 11740
+      },
+      "alternatives_by_kanji": {
+        "虚": [
+          "1232670/虚偽/きょぎ",
+          "1232810/虚無/きょむ",
+          "1245500/空虚/くうきょ"
+        ],
+        "謙": [
+          "1260210/謙譲/けんじょう",
+          "1260240/謙遜/けんそん",
+          "1260200/謙称/けんしょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1260240:謙遜:けんそん",
+      "form": "謙遜",
+      "kana": "けんそん",
+      "cue": "modesty; humility",
+      "ids": [
+        1260240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 7352,
+        "shiberu": 12891,
+        "tubelex": 15846,
+        "wordfreq": 27689
+      },
+      "alternatives_by_kanji": {
+        "謙": [
+          "1260190/謙虚/けんきょ",
+          "1260210/謙譲/けんじょう",
+          "1260200/謙称/けんしょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

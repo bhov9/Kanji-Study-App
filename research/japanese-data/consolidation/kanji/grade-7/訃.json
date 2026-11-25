@@ -1,0 +1,265 @@
+{
+  "character": "訃",
+  "grade": 7,
+  "meanings": [
+    "obituary"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "卜"
+  ],
+  "on": [
+    "フ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "しらせ",
+      "stem": "しらせ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "訃",
+    "heading": "訃",
+    "readings": [
+      "フ"
+    ],
+    "examples_by_reading": [
+      [
+        "訃報"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "訃",
+      "reading": "フ",
+      "source": "table_28_hu.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "フ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1572550/訃報/ふほう",
+        "2248960/訃/ふ",
+        "1572540/訃音/ふおん",
+        "1572540/訃音/ふいん"
+      ]
+    },
+    {
+      "reading": "しらせ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1572550/訃報/ふほう",
+    "2248960/訃/ふ",
+    "1572540/訃音/ふおん",
+    "1572540/訃音/ふいん"
+  ],
+  "candidates": {
+    "1572550/訃報/ふほう": {
+      "id": 1572550,
+      "form": "訃報",
+      "kana": "ふほう",
+      "gloss": "news of someone's death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20420,
+        27692,
+        16770,
+        36726
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "報": 5
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [
+        "フ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2248960/訃/ふ": {
+      "id": 2248960,
+      "form": "訃",
+      "kana": "ふ",
+      "gloss": "news of someone's death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        167679,
+        145118
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1572540/訃音/ふおん": {
+      "id": 1572540,
+      "form": "訃音",
+      "kana": "ふおん",
+      "gloss": "report of a death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        220114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "音": 1
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1572540/訃音/ふいん": {
+      "id": 1572540,
+      "form": "訃音",
+      "kana": "ふいん",
+      "gloss": "report of a death",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "音": 1
+      },
+      "matched": {
+        "フ": {
+          "actual": "ふ",
+          "dictionary": [
+            "フ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1572550:訃報:ふほう",
+      "form": "訃報",
+      "kana": "ふほう",
+      "cue": "news of someone's death; obituary",
+      "ids": [
+        1572550
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 36726,
+        "shiberu": 20420,
+        "tubelex": 27692,
+        "wordfreq": 16770
+      },
+      "alternatives_by_kanji": {
+        "報": [
+          "1356370/情報/じょうほう",
+          "1515670/報告/ほうこく",
+          "1515700/報酬/ほうしゅう"
+        ],
+        "訃": [
+          "2248960/訃/ふ",
+          "1572540/訃音/ふおん",
+          "1572540/訃音/ふいん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

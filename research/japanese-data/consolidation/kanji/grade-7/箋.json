@@ -1,0 +1,642 @@
+{
+  "character": "箋",
+  "grade": 7,
+  "meanings": [
+    "paper",
+    "label",
+    "letter",
+    "composition"
+  ],
+  "strokes": [
+    14
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 118
+    }
+  ],
+  "components": [
+    "竹",
+    "戈",
+    "乞"
+  ],
+  "on": [
+    "セン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ふだ",
+      "stem": "ふだ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "箋",
+    "heading": "箋",
+    "readings": [
+      "セン"
+    ],
+    "examples_by_reading": [
+      [
+        "処方箋",
+        "便箋"
+      ]
+    ],
+    "note_lines": [
+      "＊［（付）第２の３参照］"
+    ],
+    "representative_index": {
+      "kanji": "箋",
+      "reading": "セン",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 11,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1512640/便箋/びんせん",
+        "1655680/処方箋/しょほうせん",
+        "2456620/箋/せん",
+        "1496460/付箋/ふせん",
+        "1686970/用箋/ようせん",
+        "2838526/付箋紙/ふせんし",
+        "2841943/一筆箋/いっぴつせん",
+        "1702060/書簡箋/しょかんせん",
+        "1702060/書翰箋/しょかんせん",
+        "2062200/薬箋/やくせん"
+      ]
+    },
+    {
+      "reading": "ふだ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1512640/便箋/びんせん",
+    "1655680/処方箋/しょほうせん",
+    "2456620/箋/せん",
+    "1496460/付箋/ふせん",
+    "1686970/用箋/ようせん",
+    "2838526/付箋紙/ふせんし",
+    "2841943/一筆箋/いっぴつせん",
+    "1702060/書簡箋/しょかんせん",
+    "1702060/書翰箋/しょかんせん",
+    "2062200/薬箋/やくせん",
+    "2860908/処方箋医薬品/しょほうせんいやくひん",
+    "1895360/鄭箋/ていせん",
+    "1496460/附箋/ふせん",
+    "1197350/画箋紙/がせんし"
+  ],
+  "candidates": {
+    "1512640/便箋/びんせん": {
+      "id": 1512640,
+      "form": "便箋",
+      "kana": "びんせん",
+      "gloss": "writing paper",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31728,
+        40691,
+        51518,
+        24137
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "便": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1655680/処方箋/しょほうせん": {
+      "id": 1655680,
+      "form": "処方箋",
+      "kana": "しょほうせん",
+      "gloss": "prescription",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        15825,
+        49819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "処": 6,
+        "方": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [
+        "セン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2456620/箋/せん": {
+      "id": 2456620,
+      "form": "箋",
+      "kana": "せん",
+      "gloss": "slip (of paper)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8657,
+        5087,
+        56518,
+        107072
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1496460/付箋/ふせん": {
+      "id": 1496460,
+      "form": "付箋",
+      "kana": "ふせん",
+      "gloss": "sticky note",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        12038,
+        30980,
+        31672
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1686970/用箋/ようせん": {
+      "id": 1686970,
+      "form": "用箋",
+      "kana": "ようせん",
+      "gloss": "stationery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        197911,
+        145928
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2838526/付箋紙/ふせんし": {
+      "id": 2838526,
+      "form": "付箋紙",
+      "kana": "ふせんし",
+      "gloss": "sticky paper slip",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        131012
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "付": 4,
+        "紙": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841943/一筆箋/いっぴつせん": {
+      "id": 2841943,
+      "form": "一筆箋",
+      "kana": "いっぴつせん",
+      "gloss": "small notepad",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        161526
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "筆": 3,
+        "一": 1
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1702060/書簡箋/しょかんせん": {
+      "id": 1702060,
+      "form": "書簡箋",
+      "kana": "しょかんせん",
+      "gloss": "letter paper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        205768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2,
+        "簡": 6
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1702060/書翰箋/しょかんせん": {
+      "id": 1702060,
+      "form": "書翰箋",
+      "kana": "しょかんせん",
+      "gloss": "letter paper",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        256467
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2062200/薬箋/やくせん": {
+      "id": 2062200,
+      "form": "薬箋",
+      "kana": "やくせん",
+      "gloss": "prescription",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薬": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2860908/処方箋医薬品/しょほうせんいやくひん": {
+      "id": 2860908,
+      "form": "処方箋医薬品",
+      "kana": "しょほうせんいやくひん",
+      "gloss": "prescription drug",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        389790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "処": 6,
+        "方": 2,
+        "薬": 3,
+        "医": 3,
+        "品": 3
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1895360/鄭箋/ていせん": {
+      "id": 1895360,
+      "form": "鄭箋",
+      "kana": "ていせん",
+      "gloss": "commentary on the Book of Odes by Zheng Xuan",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1496460/附箋/ふせん": {
+      "id": 1496460,
+      "form": "附箋",
+      "kana": "ふせん",
+      "gloss": "sticky note",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        261831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "附": 7
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1197350/画箋紙/がせんし": {
+      "id": 1197350,
+      "form": "画箋紙",
+      "kana": "がせんし",
+      "gloss": "Xuan paper (Chinese drawing paper)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        325217
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2,
+        "紙": 2
+      },
+      "matched": {
+        "セン": {
+          "actual": "せん",
+          "dictionary": [
+            "セン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1655680:処方箋:しょほうせん",
+      "form": "処方箋",
+      "kana": "しょほうせん",
+      "cue": "prescription",
+      "ids": [
+        1655680
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 49819,
+        "wordfreq": 15825
+      },
+      "alternatives_by_kanji": {
+        "方": [
+          "1517090/方法/ほうほう",
+          "1516950/方角/ほうがく",
+          "1656960/敵方/てきがた"
+        ],
+        "処": [
+          "1342470/処置/しょち",
+          "1342440/処女/しょじょ",
+          "1342480/処罰/しょばつ"
+        ],
+        "箋": [
+          "1512640/便箋/びんせん",
+          "2456620/箋/せん",
+          "1496460/付箋/ふせん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

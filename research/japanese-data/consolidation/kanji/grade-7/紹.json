@@ -1,0 +1,909 @@
+{
+  "character": "紹",
+  "grade": 7,
+  "meanings": [
+    "introduce",
+    "inherit",
+    "help"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 120
+    }
+  ],
+  "components": [
+    "口",
+    "糸",
+    "幺",
+    "小",
+    "刀"
+  ],
+  "on": [
+    "ショウ"
+  ],
+  "kun": [],
+  "nanori": [
+    "つぐ"
+  ],
+  "government": {
+    "kanji": "紹",
+    "heading": "紹",
+    "readings": [
+      "ショウ"
+    ],
+    "examples_by_reading": [
+      [
+        "紹介"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "紹",
+      "reading": "ショウ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ショウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 15,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1351430/紹介/しょうかい",
+        "2142880/紹興酒/しょうこうしゅ",
+        "1317650/自己紹介/じこしょうかい",
+        "1660220/紹介状/しょうかいじょう",
+        "1949620/紹介文/しょうかいぶん",
+        "1351440/紹介者/しょうかいしゃ",
+        "2826214/紹介料/しょうかいりょう",
+        "2847474/紹介所/しょうかいじょ",
+        "2648430/紹介記事/しょうかいきじ",
+        "2764780/職業紹介所/しょくぎょうしょうかいじょ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1351430/紹介/しょうかい",
+    "2142880/紹興酒/しょうこうしゅ",
+    "1317650/自己紹介/じこしょうかい",
+    "1660220/紹介状/しょうかいじょう",
+    "1949620/紹介文/しょうかいぶん",
+    "1351440/紹介者/しょうかいしゃ",
+    "2826214/紹介料/しょうかいりょう",
+    "2847474/紹介所/しょうかいじょ",
+    "2648430/紹介記事/しょうかいきじ",
+    "2764780/職業紹介所/しょくぎょうしょうかいじょ",
+    "2852147/職業紹介/しょくぎょうしょうかい",
+    "2626360/人材紹介会社/じんざいしょうかいがいしゃ",
+    "1939000/新刊紹介/しんかんしょうかい",
+    "2639480/他己紹介/たこしょうかい",
+    "2728540/事例紹介/じれいしょうかい",
+    "2841583/紹述/しょうじゅつ",
+    "1349450/紹継/しょうけい",
+    "2715820/インターネット異性紹介事業/インターネットいせいしょうかいじぎょう",
+    "2858810/労働紹介所/ろうどうしょうかいじょ",
+    "2626360/人財紹介会社/じんざいしょうかいがいしゃ",
+    "2626360/人才紹介会社/じんざいしょうかいがいしゃ"
+  ],
+  "candidates": {
+    "1351430/紹介/しょうかい": {
+      "id": 1351430,
+      "form": "紹介",
+      "kana": "しょうかい",
+      "gloss": "introduction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        822,
+        190,
+        536,
+        860
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "介": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ショウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "2142880/紹興酒/しょうこうしゅ": {
+      "id": 2142880,
+      "form": "紹興酒",
+      "kana": "しょうこうしゅ",
+      "gloss": "Shaoxing wine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        60579,
+        79754
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "酒": 3,
+        "興": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1317650/自己紹介/じこしょうかい": {
+      "id": 1317650,
+      "form": "自己紹介",
+      "kana": "じこしょうかい",
+      "gloss": "self-introduction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        3517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2,
+        "介": 7,
+        "己": 6
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1660220/紹介状/しょうかいじょう": {
+      "id": 1660220,
+      "form": "紹介状",
+      "kana": "しょうかいじょう",
+      "gloss": "letter of introduction",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        29071
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "状": 5,
+        "介": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1949620/紹介文/しょうかいぶん": {
+      "id": 1949620,
+      "form": "紹介文",
+      "kana": "しょうかいぶん",
+      "gloss": "introductory text",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        62029
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1,
+        "介": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1351440/紹介者/しょうかいしゃ": {
+      "id": 1351440,
+      "form": "紹介者",
+      "kana": "しょうかいしゃ",
+      "gloss": "person who introduces someone",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        72851
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "介": 7,
+        "者": 3
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826214/紹介料/しょうかいりょう": {
+      "id": 2826214,
+      "form": "紹介料",
+      "kana": "しょうかいりょう",
+      "gloss": "referral fee",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        73602
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "料": 4,
+        "介": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2847474/紹介所/しょうかいじょ": {
+      "id": 2847474,
+      "form": "紹介所",
+      "kana": "しょうかいじょ",
+      "gloss": "agency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        92407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3,
+        "介": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2648430/紹介記事/しょうかいきじ": {
+      "id": 2648430,
+      "form": "紹介記事",
+      "kana": "しょうかいきじ",
+      "gloss": "introductory article",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        93570
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "介": 7,
+        "記": 2
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2764780/職業紹介所/しょくぎょうしょうかいじょ": {
+      "id": 2764780,
+      "form": "職業紹介所",
+      "kana": "しょくぎょうしょうかいじょ",
+      "gloss": "employment agency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        164476
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3,
+        "業": 3,
+        "介": 7,
+        "職": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2852147/職業紹介/しょくぎょうしょうかい": {
+      "id": 2852147,
+      "form": "職業紹介",
+      "kana": "しょくぎょうしょうかい",
+      "gloss": "job placement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        190788
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "職": 5,
+        "業": 3,
+        "介": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2626360/人材紹介会社/じんざいしょうかいがいしゃ": {
+      "id": 2626360,
+      "form": "人材紹介会社",
+      "kana": "じんざいしょうかいがいしゃ",
+      "gloss": "employment agency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        251642
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "材": 4,
+        "社": 2,
+        "人": 1,
+        "介": 7,
+        "会": 2
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1939000/新刊紹介/しんかんしょうかい": {
+      "id": 1939000,
+      "form": "新刊紹介",
+      "kana": "しんかんしょうかい",
+      "gloss": "book review",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        273213
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "新": 2,
+        "刊": 5,
+        "介": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2639480/他己紹介/たこしょうかい": {
+      "id": 2639480,
+      "form": "他己紹介",
+      "kana": "たこしょうかい",
+      "gloss": "introduction of someone else",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "己": 6,
+        "介": 7,
+        "他": 3
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2728540/事例紹介/じれいしょうかい": {
+      "id": 2728540,
+      "form": "事例紹介",
+      "kana": "じれいしょうかい",
+      "gloss": "showcasing examples (e.g. company products)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3,
+        "介": 7,
+        "例": 4
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2841583/紹述/しょうじゅつ": {
+      "id": 2841583,
+      "form": "紹述",
+      "kana": "しょうじゅつ",
+      "gloss": "following (works, thoughts, etc. of another)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "述": 5
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1349450/紹継/しょうけい": {
+      "id": 1349450,
+      "form": "紹継",
+      "kana": "しょうけい",
+      "gloss": "succession",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "継": 7
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2715820/インターネット異性紹介事業/インターネットいせいしょうかいじぎょう": {
+      "id": 2715820,
+      "form": "インターネット異性紹介事業",
+      "kana": "インターネットいせいしょうかいじぎょう",
+      "gloss": "online dating company",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "異": 6,
+        "事": 3,
+        "介": 7,
+        "性": 5,
+        "業": 3
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2858810/労働紹介所/ろうどうしょうかいじょ": {
+      "id": 2858810,
+      "form": "労働紹介所",
+      "kana": "ろうどうしょうかいじょ",
+      "gloss": "employment agency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "働": 4,
+        "所": 3,
+        "介": 7,
+        "労": 4
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2626360/人財紹介会社/じんざいしょうかいがいしゃ": {
+      "id": 2626360,
+      "form": "人財紹介会社",
+      "kana": "じんざいしょうかいがいしゃ",
+      "gloss": "employment agency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "iK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "財": 5,
+        "社": 2,
+        "人": 1,
+        "介": 7,
+        "会": 2
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2626360/人才紹介会社/じんざいしょうかいがいしゃ": {
+      "id": 2626360,
+      "form": "人才紹介会社",
+      "kana": "じんざいしょうかいがいしゃ",
+      "gloss": "employment agency",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "iK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "才": 2,
+        "社": 2,
+        "人": 1,
+        "介": 7,
+        "会": 2
+      },
+      "matched": {
+        "ショウ": {
+          "actual": "しょう",
+          "dictionary": [
+            "ショウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1351430:紹介:しょうかい",
+      "form": "紹介",
+      "kana": "しょうかい",
+      "cue": "introduction; presentation",
+      "ids": [
+        1351430
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 860,
+        "shiberu": 822,
+        "tubelex": 190,
+        "wordfreq": 536
+      },
+      "alternatives_by_kanji": {
+        "介": [
+          "1198110/介入/かいにゅう",
+          "2006200/介する/かいする",
+          "1198060/介護/かいご"
+        ],
+        "紹": [
+          "2142880/紹興酒/しょうこうしゅ",
+          "1317650/自己紹介/じこしょうかい",
+          "1660220/紹介状/しょうかいじょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

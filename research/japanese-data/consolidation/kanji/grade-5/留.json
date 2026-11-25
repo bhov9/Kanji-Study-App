@@ -1,0 +1,2593 @@
+{
+  "character": "留",
+  "grade": 5,
+  "meanings": [
+    "detain",
+    "fasten",
+    "halt",
+    "stop"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 102
+    }
+  ],
+  "components": [
+    "田",
+    "刀",
+    "厶"
+  ],
+  "on": [
+    "リュウ",
+    "ル"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "と.める",
+      "stem": "と",
+      "okurigana": "める"
+    },
+    {
+      "sourceNotation": "と.まる",
+      "stem": "と",
+      "okurigana": "まる"
+    },
+    {
+      "sourceNotation": "とど.める",
+      "stem": "とど",
+      "okurigana": "める"
+    },
+    {
+      "sourceNotation": "とど.まる",
+      "stem": "とど",
+      "okurigana": "まる"
+    },
+    {
+      "sourceNotation": "るうぶる",
+      "stem": "るうぶる",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "とめ"
+  ],
+  "government": {
+    "kanji": "留",
+    "heading": "留",
+    "readings": [
+      "リュウ",
+      "ル",
+      "とめる",
+      "とまる"
+    ],
+    "examples_by_reading": [
+      [
+        "留意",
+        "留学",
+        "保留"
+      ],
+      [
+        "留守"
+      ],
+      [
+        "留める",
+        "帯留め"
+      ],
+      [
+        "留まる",
+        "歩留まり"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "",
+      "⇔止める，泊める",
+      "⇔止まる，泊まる"
+    ],
+    "representative_index": {
+      "kanji": "留",
+      "reading": "リュウ",
+      "source": "table_40_ri.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "リュウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 115,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1552740/留学/りゅうがく",
+        "1514030/保留/ほりゅう",
+        "1552720/留意/りゅうい",
+        "1304740/残留/ざんりゅう",
+        "1356970/蒸留/じょうりゅう",
+        "1296620/在留/ざいりゅう",
+        "1435070/停留/ていりゅう",
+        "1612260/留年/りゅうねん",
+        "1426980/駐留/ちゅうりゅう",
+        "1552830/留保/りゅうほ"
+      ]
+    },
+    {
+      "reading": "ル",
+      "official": true,
+      "stage": "elementary",
+      "limited": true,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 19,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1552760/留守/るす",
+        "1552800/留守番/るすばん",
+        "1552790/留守電/るすでん",
+        "1231910/居留守/いるす",
+        "1552770/留守居/るすい",
+        "1552780/留守中/るすちゅう",
+        "2105070/留守の間/るすのあいだ",
+        "1552810/留守番電話/るすばんでんわ",
+        "5548301/都留文科大学/つるぶんかだいがく",
+        "2102150/居留守を使う/いるすをつかう"
+      ]
+    },
+    {
+      "reading": "とめる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 18,
+      "frequent_unflagged_examples": 3,
+      "current_support": false,
+      "candidates": [
+        "1608680/帯留め/おびどめ",
+        "1310670/留める/とめる",
+        "1305630/仕留める/しとめる",
+        "1343940/書き留める/かきとめる",
+        "1601750/引き留める/ひきとめる",
+        "1516400/抱き留める/だきとめる",
+        "1862380/押し留める/おしとめる",
+        "1639570/気に留める/きにとめる",
+        "1535230/目を留める/めをとめる",
+        "2098580/心に留める/こころにとめる"
+      ]
+    },
+    {
+      "reading": "とまる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1638950/歩留まり/ぶどまり",
+        "1310620/留まる/とまる",
+        "1605010/目に留まる/めにとまる",
+        "2529160/目が留まる/めがとまる",
+        "2217320/お目に留まる/おめにとまる",
+        "1631680/お高く留まる/おたかくとまる",
+        "2217320/御目に留まる/おめにとまる",
+        "1551350/立留まる/たちとまる",
+        "1551350/立ち留まる/たちとまる"
+      ]
+    },
+    {
+      "reading": "とどめる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1598820/留める/とどめる",
+        "1343940/書き留める/かきとどめる",
+        "1862380/押し留める/おしとどめる",
+        "2834374/目に留める/めにとどめる",
+        "2260300/記憶に留める/きおくにとどめる",
+        "1862380/圧し留める/おしとどめる",
+        "1862380/押留める/おしとどめる",
+        "1881100/名を留める/なをとどめる",
+        "2098580/心に留める/こころにとどめる",
+        "1874530/原級に留める/げんきゅうにとどめる"
+      ]
+    },
+    {
+      "reading": "とどまる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1309250/思い留まる/おもいとどまる",
+        "1450160/踏み留まる/ふみとどまる",
+        "2128090/留まるところを知らない/とどまるところをしらない",
+        "2657130/留まる/とどまる"
+      ]
+    },
+    {
+      "reading": "るうぶる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1552760/留守/るす",
+    "1552740/留学/りゅうがく",
+    "1514030/保留/ほりゅう",
+    "1552720/留意/りゅうい",
+    "1638950/歩留まり/ぶどまり",
+    "1608680/帯留め/おびどめ",
+    "1310670/留める/とめる",
+    "1310620/留まる/とまる",
+    "1598820/留める/とどめる",
+    "1304740/残留/ざんりゅう",
+    "1305630/仕留める/しとめる",
+    "1356970/蒸留/じょうりゅう",
+    "1296620/在留/ざいりゅう",
+    "1435070/停留/ていりゅう",
+    "1612260/留年/りゅうねん",
+    "1426980/駐留/ちゅうりゅう",
+    "1343940/書き留める/かきとめる",
+    "1552830/留保/りゅうほ",
+    "1279040/拘留/こうりゅう",
+    "1231900/居留/きょりゅう",
+    "1159650/遺留/いりゅう",
+    "1661070/滞留/たいりゅう",
+    "1547310/抑留/よくりゅう",
+    "1619860/逗留/とうりゅう",
+    "1618750/留任/りゅうにん",
+    "1156960/慰留/いりゅう",
+    "1343940/書き留める/かきとどめる",
+    "1601750/引き留める/ひきとめる",
+    "1275310/勾留/こうりゅう",
+    "1249380/係留/けいりゅう"
+  ],
+  "candidates": {
+    "1552760/留守/るす": {
+      "id": 1552760,
+      "form": "留守",
+      "kana": "るす",
+      "gloss": "absence",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        1003,
+        7735,
+        12479,
+        3870
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "守": 3
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [
+        "ル"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1552740/留学/りゅうがく": {
+      "id": 1552740,
+      "form": "留学",
+      "kana": "りゅうがく",
+      "gloss": "studying abroad",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2932,
+        4001,
+        4516,
+        9481
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "学": 1
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リュウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1514030/保留/ほりゅう": {
+      "id": 1514030,
+      "form": "保留",
+      "kana": "ほりゅう",
+      "gloss": "reservation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        12832,
+        13266,
+        11030,
+        9251
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リュウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1552720/留意/りゅうい": {
+      "id": 1552720,
+      "form": "留意",
+      "kana": "りゅうい",
+      "gloss": "heeding",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10889,
+        13699,
+        19848,
+        34000
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "リュウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1638950/歩留まり/ぶどまり": {
+      "id": 1638950,
+      "form": "歩留まり",
+      "kana": "ぶどまり",
+      "gloss": "yield",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-f"
+      ],
+      "flags": [],
+      "ranks": [
+        29885,
+        53857,
+        62361,
+        138487
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "歩": 2
+      },
+      "matched": {
+        "とまる": {
+          "actual": "ど",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "とまる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1608680/帯留め/おびどめ": {
+      "id": 1608680,
+      "form": "帯留め",
+      "kana": "おびどめ",
+      "gloss": "sash clip (fastener)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        104555,
+        89700
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "帯": 4
+      },
+      "matched": {
+        "とめる": {
+          "actual": "ど",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "とめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1310670/留める/とめる": {
+      "id": 1310670,
+      "form": "留める",
+      "kana": "とめる",
+      "gloss": "to stop",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5491
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [
+        "とめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1310620/留まる/とまる": {
+      "id": 1310620,
+      "form": "留まる",
+      "kana": "とまる",
+      "gloss": "to stop (moving)",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        6210
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とまる": {
+          "actual": "と",
+          "dictionary": [
+            "と.まる"
+          ]
+        }
+      },
+      "official_examples": [
+        "とまる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1598820/留める/とどめる": {
+      "id": 1598820,
+      "form": "留める",
+      "kana": "とどめる",
+      "gloss": "to stop",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        21877
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [
+        "とめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1304740/残留/ざんりゅう": {
+      "id": 1304740,
+      "form": "残留",
+      "kana": "ざんりゅう",
+      "gloss": "staying behind",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        12757,
+        16004,
+        11547,
+        22047
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "残": 4
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1305630/仕留める/しとめる": {
+      "id": 1305630,
+      "form": "仕留める",
+      "kana": "しとめる",
+      "gloss": "to bring down (an animal, opponent, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22551,
+        10064,
+        34111,
+        7101
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仕": 3
+      },
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1356970/蒸留/じょうりゅう": {
+      "id": 1356970,
+      "form": "蒸留",
+      "kana": "じょうりゅう",
+      "gloss": "distillation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16566,
+        11647,
+        16770,
+        54527
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蒸": 6
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1296620/在留/ざいりゅう": {
+      "id": 1296620,
+      "form": "在留",
+      "kana": "ざいりゅう",
+      "gloss": "residing (esp. abroad)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        20810,
+        10051,
+        19040,
+        96103
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "在": 5
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1435070/停留/ていりゅう": {
+      "id": 1435070,
+      "form": "停留",
+      "kana": "ていりゅう",
+      "gloss": "stop",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8578,
+        15187,
+        61164,
+        97259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "停": 5
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1612260/留年/りゅうねん": {
+      "id": 1612260,
+      "form": "留年",
+      "kana": "りゅうねん",
+      "gloss": "repeating a year (at school)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        11589,
+        26254,
+        20603,
+        18044
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "年": 1
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1426980/駐留/ちゅうりゅう": {
+      "id": 1426980,
+      "form": "駐留",
+      "kana": "ちゅうりゅう",
+      "gloss": "stationing (e.g. of troops)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        27782,
+        20459,
+        19315,
+        35114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "駐": 7
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1343940/書き留める/かきとめる": {
+      "id": 1343940,
+      "form": "書き留める",
+      "kana": "かきとめる",
+      "gloss": "to write down",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13345,
+        23499,
+        79465,
+        23528
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1552830/留保/りゅうほ": {
+      "id": 1552830,
+      "form": "留保",
+      "kana": "りゅうほ",
+      "gloss": "reserving",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23417,
+        20014,
+        23842,
+        70097
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "保": 5
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279040/拘留/こうりゅう": {
+      "id": 1279040,
+      "form": "拘留",
+      "kana": "こうりゅう",
+      "gloss": "custody",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        16133,
+        40322,
+        24154,
+        40798
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拘": 7
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1231900/居留/きょりゅう": {
+      "id": 1231900,
+      "form": "居留",
+      "kana": "きょりゅう",
+      "gloss": "residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        15823,
+        38931,
+        39764,
+        111724
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "居": 5
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1159650/遺留/いりゅう": {
+      "id": 1159650,
+      "form": "遺留",
+      "kana": "いりゅう",
+      "gloss": "leaving behind (after death)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23806,
+        23428,
+        45339,
+        118326
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "遺": 6
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661070/滞留/たいりゅう": {
+      "id": 1661070,
+      "form": "滞留",
+      "kana": "たいりゅう",
+      "gloss": "stagnation",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        29924,
+        29494,
+        44849,
+        48576
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "滞": 7
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1547310/抑留/よくりゅう": {
+      "id": 1547310,
+      "form": "抑留",
+      "kana": "よくりゅう",
+      "gloss": "internment",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        23243,
+        43563,
+        37490,
+        99888
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抑": 7
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1619860/逗留/とうりゅう": {
+      "id": 1619860,
+      "form": "逗留",
+      "kana": "とうりゅう",
+      "gloss": "stay",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        19471,
+        52268,
+        74212,
+        33817
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1618750/留任/りゅうにん": {
+      "id": 1618750,
+      "form": "留任",
+      "kana": "りゅうにん",
+      "gloss": "remaining in office",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        34788,
+        49441,
+        57615,
+        113061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1156960/慰留/いりゅう": {
+      "id": 1156960,
+      "form": "慰留",
+      "kana": "いりゅう",
+      "gloss": "dissuasion (from resigning, leaving, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30567,
+        68915,
+        68819,
+        90169
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "慰": 7
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1343940/書き留める/かきとどめる": {
+      "id": 1343940,
+      "form": "書き留める",
+      "kana": "かきとどめる",
+      "gloss": "to write down",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13345,
+        23499,
+        79465,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "書": 2
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1601750/引き留める/ひきとめる": {
+      "id": 1601750,
+      "form": "引き留める",
+      "kana": "ひきとめる",
+      "gloss": "to detain",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        21246,
+        null,
+        74212,
+        8142
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "引": 2
+      },
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1275310/勾留/こうりゅう": {
+      "id": 1275310,
+      "form": "勾留",
+      "kana": "こうりゅう",
+      "gloss": "detention pending trial",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        34060,
+        19848,
+        44286
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勾": 7
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1249380/係留/けいりゅう": {
+      "id": 1249380,
+      "form": "係留",
+      "kana": "けいりゅう",
+      "gloss": "mooring",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44489,
+        40209,
+        48299
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "係": 3
+      },
+      "matched": {
+        "リュウ": {
+          "actual": "りゅう",
+          "dictionary": [
+            "リュウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1552800/留守番/るすばん": {
+      "id": 1552800,
+      "form": "留守番",
+      "kana": "るすばん",
+      "gloss": "care-taking",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        16515,
+        5656
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "守": 3,
+        "番": 2
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1552790/留守電/るすでん": {
+      "id": 1552790,
+      "form": "留守電",
+      "kana": "るすでん",
+      "gloss": "answering machine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        34525,
+        22259
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "守": 3,
+        "電": 2
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1231910/居留守/いるす": {
+      "id": 1231910,
+      "form": "居留守",
+      "kana": "いるす",
+      "gloss": "pretending to be out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        58810,
+        36132
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "居": 5,
+        "守": 3
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1552770/留守居/るすい": {
+      "id": 1552770,
+      "form": "留守居",
+      "kana": "るすい",
+      "gloss": "house-sitting",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        118546,
+        66815
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "居": 5,
+        "守": 3
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1552780/留守中/るすちゅう": {
+      "id": 1552780,
+      "form": "留守中",
+      "kana": "るすちゅう",
+      "gloss": "during absence from home",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        20745
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1,
+        "守": 3
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2105070/留守の間/るすのあいだ": {
+      "id": 2105070,
+      "form": "留守の間",
+      "kana": "るすのあいだ",
+      "gloss": "(in) one's absence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24925
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "間": 2,
+        "守": 3
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1552810/留守番電話/るすばんでんわ": {
+      "id": 1552810,
+      "form": "留守番電話",
+      "kana": "るすばんでんわ",
+      "gloss": "answering machine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31529
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "番": 2,
+        "電": 2,
+        "話": 2,
+        "守": 3
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5548301/都留文科大学/つるぶんかだいがく": {
+      "id": 5548301,
+      "form": "都留文科大学",
+      "kana": "つるぶんかだいがく",
+      "gloss": "Tsuru University",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        137073,
+        null
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "大": 1,
+        "都": 3,
+        "学": 1,
+        "科": 2,
+        "文": 1
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2102150/居留守を使う/いるすをつかう": {
+      "id": 2102150,
+      "form": "居留守を使う",
+      "kana": "いるすをつかう",
+      "gloss": "to pretend to be out",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5u"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        48433
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "使": 3,
+        "守": 3,
+        "居": 5
+      },
+      "matched": {
+        "ル": {
+          "actual": "る",
+          "dictionary": [
+            "ル"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1516400/抱き留める/だきとめる": {
+      "id": 1516400,
+      "form": "抱き留める",
+      "kana": "だきとめる",
+      "gloss": "to stop (someone) by throwing one's arms around them",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47603,
+        null,
+        20262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "抱": 7
+      },
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1862380/押し留める/おしとめる": {
+      "id": 1862380,
+      "form": "押し留める",
+      "kana": "おしとめる",
+      "gloss": "to check",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47007,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "押": 7
+      },
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1639570/気に留める/きにとめる": {
+      "id": 1639570,
+      "form": "気に留める",
+      "kana": "きにとめる",
+      "gloss": "to (keep in) mind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        18187
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "気": 1
+      },
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1535230/目を留める/めをとめる": {
+      "id": 1535230,
+      "form": "目を留める",
+      "kana": "めをとめる",
+      "gloss": "to take notice (of)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        24390
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2098580/心に留める/こころにとめる": {
+      "id": 2098580,
+      "form": "心に留める",
+      "kana": "こころにとめる",
+      "gloss": "to bear in mind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        30393
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "とめる": {
+          "actual": "と",
+          "dictionary": [
+            "と.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1605010/目に留まる/めにとまる": {
+      "id": 1605010,
+      "form": "目に留まる",
+      "kana": "めにとまる",
+      "gloss": "to catch one's attention",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        15770
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "とまる": {
+          "actual": "と",
+          "dictionary": [
+            "と.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2529160/目が留まる/めがとまる": {
+      "id": 2529160,
+      "form": "目が留まる",
+      "kana": "めがとまる",
+      "gloss": "to have one's eye caught on something",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        38416
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "とまる": {
+          "actual": "と",
+          "dictionary": [
+            "と.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2217320/お目に留まる/おめにとまる": {
+      "id": 2217320,
+      "form": "お目に留まる",
+      "kana": "おめにとまる",
+      "gloss": "to be recognized (by someone of higher status)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        106113
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "とまる": {
+          "actual": "と",
+          "dictionary": [
+            "と.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1631680/お高く留まる/おたかくとまる": {
+      "id": 1631680,
+      "form": "お高く留まる",
+      "kana": "おたかくとまる",
+      "gloss": "to assume an air of importance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        125866
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "とまる": {
+          "actual": "と",
+          "dictionary": [
+            "と.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2217320/御目に留まる/おめにとまる": {
+      "id": 2217320,
+      "form": "御目に留まる",
+      "kana": "おめにとまる",
+      "gloss": "to be recognized (by someone of higher status)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1,
+        "御": 7
+      },
+      "matched": {
+        "とまる": {
+          "actual": "と",
+          "dictionary": [
+            "と.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1551350/立留まる/たちとまる": {
+      "id": 1551350,
+      "form": "立留まる",
+      "kana": "たちとまる",
+      "gloss": "to stop (in one's tracks)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "とまる": {
+          "actual": "と",
+          "dictionary": [
+            "と.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1551350/立ち留まる/たちとまる": {
+      "id": 1551350,
+      "form": "立ち留まる",
+      "kana": "たちとまる",
+      "gloss": "to stop (in one's tracks)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "とまる": {
+          "actual": "と",
+          "dictionary": [
+            "と.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1862380/押し留める/おしとどめる": {
+      "id": 1862380,
+      "form": "押し留める",
+      "kana": "おしとどめる",
+      "gloss": "to check",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47007,
+        null,
+        26475
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "押": 7
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834374/目に留める/めにとどめる": {
+      "id": 2834374,
+      "form": "目に留める",
+      "kana": "めにとどめる",
+      "gloss": "to take notice (of)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49146
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2260300/記憶に留める/きおくにとどめる": {
+      "id": 2260300,
+      "form": "記憶に留める",
+      "kana": "きおくにとどめる",
+      "gloss": "to remember",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        55590
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "憶": 7,
+        "記": 2
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1862380/圧し留める/おしとどめる": {
+      "id": 1862380,
+      "form": "圧し留める",
+      "kana": "おしとどめる",
+      "gloss": "to check",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        229560
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "圧": 5
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1862380/押留める/おしとどめる": {
+      "id": 1862380,
+      "form": "押留める",
+      "kana": "おしとどめる",
+      "gloss": "to check",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        313386
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "押": 7
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1881100/名を留める/なをとどめる": {
+      "id": 1881100,
+      "form": "名を留める",
+      "kana": "なをとどめる",
+      "gloss": "to leave one's name",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2098580/心に留める/こころにとどめる": {
+      "id": 2098580,
+      "form": "心に留める",
+      "kana": "こころにとどめる",
+      "gloss": "to bear in mind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "心": 2
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1874530/原級に留める/げんきゅうにとどめる": {
+      "id": 1874530,
+      "form": "原級に留める",
+      "kana": "げんきゅうにとどめる",
+      "gloss": "to keep (a student) back (to repeat a grade)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "原": 2,
+        "級": 3
+      },
+      "matched": {
+        "とどめる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1309250/思い留まる/おもいとどまる": {
+      "id": 1309250,
+      "form": "思い留まる",
+      "kana": "おもいとどまる",
+      "gloss": "to give up (an idea or plan)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        35938,
+        null,
+        null,
+        36817
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "思": 2
+      },
+      "matched": {
+        "とどまる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450160/踏み留まる/ふみとどまる": {
+      "id": 1450160,
+      "form": "踏み留まる",
+      "kana": "ふみとどまる",
+      "gloss": "to stay on",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        51263
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "踏": 7
+      },
+      "matched": {
+        "とどまる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2128090/留まるところを知らない/とどまるところをしらない": {
+      "id": 2128090,
+      "form": "留まるところを知らない",
+      "kana": "とどまるところをしらない",
+      "gloss": "knowing no bounds",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        64293
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "知": 2
+      },
+      "matched": {
+        "とどまる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.まる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2657130/留まる/とどまる": {
+      "id": 2657130,
+      "form": "留まる",
+      "kana": "とどまる",
+      "gloss": "to remain",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vi"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        9813
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "とどまる": {
+          "actual": "とど",
+          "dictionary": [
+            "とど.まる"
+          ]
+        }
+      },
+      "official_examples": [
+        "とまる"
+      ],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1304740:残留:ざんりゅう",
+      "form": "残留",
+      "kana": "ざんりゅう",
+      "cue": "staying behind; remaining",
+      "ids": [
+        1304740
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 22047,
+        "shiberu": 12757,
+        "tubelex": 16004,
+        "wordfreq": 11547
+      },
+      "alternatives_by_kanji": {
+        "残": [
+          "1304510/残る/のこる",
+          "1600260/残す/のこす",
+          "1304680/残念/ざんねん"
+        ],
+        "留": [
+          "1552760/留守/るす",
+          "1552740/留学/りゅうがく",
+          "1514030/保留/ほりゅう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 120
+}

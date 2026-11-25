@@ -1,0 +1,786 @@
+{
+  "character": "某",
+  "grade": 7,
+  "meanings": [
+    "so-and-so",
+    "one",
+    "a certain",
+    "that person"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 75
+    },
+    {
+      "type": "nelson_c",
+      "value": 99
+    }
+  ],
+  "components": [
+    "甘",
+    "木"
+  ],
+  "on": [
+    "ボウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "それがし",
+      "stem": "それがし",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "なにがし",
+      "stem": "なにがし",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "某",
+    "heading": "某",
+    "readings": [
+      "ボウ"
+    ],
+    "examples_by_reading": [
+      [
+        "某氏",
+        "某国",
+        "某所"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "某",
+      "reading": "ボウ",
+      "source": "table_30_ho.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ボウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 10,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1519730/某所/ぼうしょ",
+        "1519710/某国/ぼうこく",
+        "1519720/某氏/ぼうし",
+        "1577180/何某/なにぼう",
+        "1519740/某日/ぼうじつ",
+        "2572980/某社/ぼうしゃ",
+        "1603690/某々/ぼうぼう",
+        "1783250/某月/ぼうげつ",
+        "2408860/某省/ぼうしょう",
+        "1783260/某誌/ぼうし"
+      ]
+    },
+    {
+      "reading": "それがし",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1519690/某/それがし"
+      ]
+    },
+    {
+      "reading": "なにがし",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1188480/何の某/なんのなにがし",
+        "1577180/某/なにがし"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1519730/某所/ぼうしょ",
+    "1519710/某国/ぼうこく",
+    "1519720/某氏/ぼうし",
+    "1577180/何某/なにぼう",
+    "1519740/某日/ぼうじつ",
+    "2572980/某社/ぼうしゃ",
+    "1603690/某々/ぼうぼう",
+    "1783250/某月/ぼうげつ",
+    "2408860/某省/ぼうしょう",
+    "1783260/某誌/ぼうし",
+    "1188480/何の某/なんのなにがし",
+    "1603690/某某/ぼうぼう",
+    "1416880/誰某/だれそれ",
+    "1416880/誰某/たれがし",
+    "1519700/某/ぼう",
+    "1577180/某/なにがし",
+    "1519690/某/それがし",
+    "1577180/何某/なにがし"
+  ],
+  "candidates": {
+    "1519730/某所/ぼうしょ": {
+      "id": 1519730,
+      "form": "某所",
+      "kana": "ぼうしょ",
+      "gloss": "certain place",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35963,
+        26476,
+        21173,
+        37887
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "所": 3
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1519710/某国/ぼうこく": {
+      "id": 1519710,
+      "form": "某国",
+      "kana": "ぼうこく",
+      "gloss": "certain country",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37386,
+        50803,
+        39764,
+        42297
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1519720/某氏/ぼうし": {
+      "id": 1519720,
+      "form": "某氏",
+      "kana": "ぼうし",
+      "gloss": "a certain person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        28948,
+        61110,
+        39319,
+        109196
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "氏": 4
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ボウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1577180/何某/なにぼう": {
+      "id": 1577180,
+      "form": "何某",
+      "kana": "なにぼう",
+      "gloss": "certain person",
+      "senses": [
+        1
+      ],
+      "common": false,
+      "pos": [
+        "pn"
+      ],
+      "flags": [],
+      "ranks": [
+        29287,
+        57577,
+        78707,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "何": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1519740/某日/ぼうじつ": {
+      "id": 1519740,
+      "form": "某日",
+      "kana": "ぼうじつ",
+      "gloss": "certain day",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        33213,
+        43098,
+        null,
+        39750
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2572980/某社/ぼうしゃ": {
+      "id": 2572980,
+      "form": "某社",
+      "kana": "ぼうしゃ",
+      "gloss": "certain company",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        53182,
+        99547
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "社": 2
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1603690/某々/ぼうぼう": {
+      "id": 1603690,
+      "form": "某々",
+      "kana": "ぼうぼう",
+      "gloss": "so-and-so",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        null,
+        209513
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1783250/某月/ぼうげつ": {
+      "id": 1783250,
+      "form": "某月",
+      "kana": "ぼうげつ",
+      "gloss": "a certain month",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        81907
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "月": 1
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2408860/某省/ぼうしょう": {
+      "id": 2408860,
+      "form": "某省",
+      "kana": "ぼうしょう",
+      "gloss": "a certain ministry",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        223110
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "省": 4
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1783260/某誌/ぼうし": {
+      "id": 1783260,
+      "form": "某誌",
+      "kana": "ぼうし",
+      "gloss": "a certain publication",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        224819
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誌": 6
+      },
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1188480/何の某/なんのなにがし": {
+      "id": 1188480,
+      "form": "何の某",
+      "kana": "なんのなにがし",
+      "gloss": "certain person",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        252422
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "何": 2
+      },
+      "matched": {
+        "なにがし": {
+          "actual": "なにがし",
+          "dictionary": [
+            "なにがし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1603690/某某/ぼうぼう": {
+      "id": 1603690,
+      "form": "某某",
+      "kana": "ぼうぼう",
+      "gloss": "so-and-so",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1416880/誰某/だれそれ": {
+      "id": 1416880,
+      "form": "誰某",
+      "kana": "だれそれ",
+      "gloss": "a certain someone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "pn"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36842,
+        null,
+        150508
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "誰": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1416880/誰某/たれがし": {
+      "id": 1416880,
+      "form": "誰某",
+      "kana": "たれがし",
+      "gloss": "a certain someone",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "pn"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        36842,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "誰": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1519700/某/ぼう": {
+      "id": 1519700,
+      "form": "某",
+      "kana": "ぼう",
+      "gloss": "certain",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "pref"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        10259
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ボウ": {
+          "actual": "ぼう",
+          "dictionary": [
+            "ボウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1577180/某/なにがし": {
+      "id": 1577180,
+      "form": "某",
+      "kana": "なにがし",
+      "gloss": "certain amount",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [
+        "arch",
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        110097
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "なにがし": {
+          "actual": "なにがし",
+          "dictionary": [
+            "なにがし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1519690/某/それがし": {
+      "id": 1519690,
+      "form": "某",
+      "kana": "それがし",
+      "gloss": "someone",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "pn"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        128901
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "それがし": {
+          "actual": "それがし",
+          "dictionary": [
+            "それがし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1577180/何某/なにがし": {
+      "id": 1577180,
+      "form": "何某",
+      "kana": "なにがし",
+      "gloss": "certain amount",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [
+        "arch",
+        "uk"
+      ],
+      "ranks": [
+        29287,
+        57577,
+        78707,
+        63092
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "何": 2
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1519700:某:ぼう",
+      "form": "某",
+      "kana": "ぼう",
+      "cue": "certain; one",
+      "ids": [
+        1519700
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "arch"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 10259,
+        "shiberu": 11613,
+        "tubelex": 4130,
+        "wordfreq": 3961
+      },
+      "alternatives_by_kanji": {
+        "某": [
+          "1519730/某所/ぼうしょ",
+          "1519710/某国/ぼうこく",
+          "1519720/某氏/ぼうし"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 3
+}

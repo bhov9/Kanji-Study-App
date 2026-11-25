@@ -1,0 +1,632 @@
+{
+  "character": "諮",
+  "grade": 7,
+  "meanings": [
+    "consult with"
+  ],
+  "strokes": [
+    16
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "欠",
+    "言",
+    "口",
+    "冫"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はか.る",
+      "stem": "はか",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "諮",
+    "heading": "諮",
+    "readings": [
+      "シ",
+      "はかる"
+    ],
+    "examples_by_reading": [
+      [
+        "諮問"
+      ],
+      [
+        "諮る"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "諮",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 5,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1312660/諮問/しもん",
+        "1312680/諮詢/しじゅん",
+        "1312670/諮問機関/しもんきかん",
+        "1936720/諮問委員会/しもんいいんかい",
+        "2825780/諮詢機関/しじゅんきかん",
+        "1619030/諮議/しぎ",
+        "5167707/科学技術諮問会議/かがくぎじゅつしもんかいぎ",
+        "5741380/国際無線通信諮問委員会/こくさいむせんつうしんしもんいいんかい",
+        "5741277/国際電信電話諮問委員会/こくさいでんしんでんわしもんいいんかい",
+        "5243537/経済財政諮問会議/けいざいざいせいしもんかいぎ"
+      ]
+    },
+    {
+      "reading": "はかる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1312650/諮る/はかる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1312660/諮問/しもん",
+    "1312650/諮る/はかる",
+    "1312680/諮詢/しじゅん",
+    "1312670/諮問機関/しもんきかん",
+    "1936720/諮問委員会/しもんいいんかい",
+    "2825780/諮詢機関/しじゅんきかん",
+    "1619030/諮議/しぎ",
+    "5167707/科学技術諮問会議/かがくぎじゅつしもんかいぎ",
+    "5741380/国際無線通信諮問委員会/こくさいむせんつうしんしもんいいんかい",
+    "5741277/国際電信電話諮問委員会/こくさいでんしんでんわしもんいいんかい",
+    "5243537/経済財政諮問会議/けいざいざいせいしもんかいぎ",
+    "2422930/諮問事項/しもんじこう",
+    "1252070/諮らう/はからう"
+  ],
+  "candidates": {
+    "1312660/諮問/しもん": {
+      "id": 1312660,
+      "form": "諮問",
+      "kana": "しもん",
+      "gloss": "consultation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        23006,
+        25501,
+        24433,
+        85982
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1312650/諮る/はかる": {
+      "id": 1312650,
+      "form": "諮る",
+      "kana": "はかる",
+      "gloss": "to consult with",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        38831,
+        17042,
+        90446,
+        71166
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はかる": {
+          "actual": "はか",
+          "dictionary": [
+            "はか.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "はかる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1312680/諮詢/しじゅん": {
+      "id": 1312680,
+      "form": "諮詢",
+      "kana": "しじゅん",
+      "gloss": "question",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        175497,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312670/諮問機関/しもんきかん": {
+      "id": 1312670,
+      "form": "諮問機関",
+      "kana": "しもんきかん",
+      "gloss": "consultative body",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        111148
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "問": 3,
+        "機": 4,
+        "関": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1936720/諮問委員会/しもんいいんかい": {
+      "id": 1936720,
+      "form": "諮問委員会",
+      "kana": "しもんいいんかい",
+      "gloss": "advisory committee (council, panel)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        122647
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "委": 3,
+        "問": 3,
+        "会": 2,
+        "員": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2825780/諮詢機関/しじゅんきかん": {
+      "id": 2825780,
+      "form": "諮詢機関",
+      "kana": "しじゅんきかん",
+      "gloss": "consultative body",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "機": 4,
+        "関": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1619030/諮議/しぎ": {
+      "id": 1619030,
+      "form": "諮議",
+      "kana": "しぎ",
+      "gloss": "consultation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "議": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5167707/科学技術諮問会議/かがくぎじゅつしもんかいぎ": {
+      "id": 5167707,
+      "form": "科学技術諮問会議",
+      "kana": "かがくぎじゅつしもんかいぎ",
+      "gloss": "Advisory Council on Science and Technology",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "技": 5,
+        "問": 3,
+        "学": 1,
+        "科": 2,
+        "術": 5,
+        "議": 4,
+        "会": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5741380/国際無線通信諮問委員会/こくさいむせんつうしんしもんいいんかい": {
+      "id": 5741380,
+      "form": "国際無線通信諮問委員会",
+      "kana": "こくさいむせんつうしんしもんいいんかい",
+      "gloss": "Comite Consultatif International des Radiocommunications",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "委": 3,
+        "問": 3,
+        "無": 4,
+        "信": 4,
+        "線": 2,
+        "員": 3,
+        "通": 2,
+        "際": 5,
+        "会": 2,
+        "国": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5741277/国際電信電話諮問委員会/こくさいでんしんでんわしもんいいんかい": {
+      "id": 5741277,
+      "form": "国際電信電話諮問委員会",
+      "kana": "こくさいでんしんでんわしもんいいんかい",
+      "gloss": "International Telegraph and Telephone Consultative Committee",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "委": 3,
+        "問": 3,
+        "話": 2,
+        "信": 4,
+        "員": 3,
+        "際": 5,
+        "会": 2,
+        "電": 2,
+        "国": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5243537/経済財政諮問会議/けいざいざいせいしもんかいぎ": {
+      "id": 5243537,
+      "form": "経済財政諮問会議",
+      "kana": "けいざいざいせいしもんかいぎ",
+      "gloss": "Council on Economic and Fiscal Policy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "財": 5,
+        "問": 3,
+        "経": 5,
+        "済": 6,
+        "議": 4,
+        "会": 2,
+        "政": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2422930/諮問事項/しもんじこう": {
+      "id": 2422930,
+      "form": "諮問事項",
+      "kana": "しもんじこう",
+      "gloss": "terms of reference",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "問": 3,
+        "事": 3,
+        "項": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252070/諮らう/はからう": {
+      "id": 1252070,
+      "form": "諮らう",
+      "kana": "はからう",
+      "gloss": "to manage",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5u",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1312660:諮問:しもん",
+      "form": "諮問",
+      "kana": "しもん",
+      "cue": "consultation; question",
+      "ids": [
+        1312660
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 85982,
+        "shiberu": 23006,
+        "tubelex": 25501,
+        "wordfreq": 24433
+      },
+      "alternatives_by_kanji": {
+        "問": [
+          "1536010/問題/もんだい",
+          "1518120/訪問/ほうもん",
+          "1536000/問う/とう"
+        ],
+        "諮": [
+          "1312650/諮る/はかる",
+          "1312680/諮詢/しじゅん",
+          "1312670/諮問機関/しもんきかん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

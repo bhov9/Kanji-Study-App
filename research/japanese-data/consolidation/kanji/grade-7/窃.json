@@ -1,0 +1,815 @@
+{
+  "character": "窃",
+  "grade": 7,
+  "meanings": [
+    "stealth",
+    "steal",
+    "secret",
+    "private",
+    "hushed"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 116
+    }
+  ],
+  "components": [
+    "穴",
+    "刀",
+    "儿",
+    "匕",
+    "宀"
+  ],
+  "on": [
+    "セツ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ぬす.む",
+      "stem": "ぬす",
+      "okurigana": "む"
+    },
+    {
+      "sourceNotation": "ひそ.か",
+      "stem": "ひそ",
+      "okurigana": "か"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "窃",
+    "heading": "窃（竊）",
+    "readings": [
+      "セツ"
+    ],
+    "examples_by_reading": [
+      [
+        "窃盗",
+        "窃取"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "窃",
+      "reading": "セツ",
+      "source": "table_14_se.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "セツ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1386110/窃盗/せっとう",
+        "1386100/窃取/せっしゅ",
+        "1564770/剽窃/ひょうせつ",
+        "2415760/鼠窃/そせつ",
+        "1564770/ひょう窃/ひょうせつ",
+        "1619010/窃用/せつよう"
+      ]
+    },
+    {
+      "reading": "ぬすむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    },
+    {
+      "reading": "ひそか",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1612520/窃か/ひそか"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1386110/窃盗/せっとう",
+    "1386100/窃取/せっしゅ",
+    "1564770/剽窃/ひょうせつ",
+    "2415760/鼠窃/そせつ",
+    "1564770/ひょう窃/ひょうせつ",
+    "2831069/窃視/せっし",
+    "1386130/窃盗犯/せっとうはん",
+    "2124860/窃盗団/せっとうだん",
+    "1386120/窃盗罪/せっとうざい",
+    "2048510/窃盗行為/せっとうこうい",
+    "2819680/窃盗癖/せっとうへき",
+    "2837401/窃盗症/せっとうしょう",
+    "2831066/窃視症/せっししょう",
+    "1888450/窃盗狂/せっとうきょう",
+    "1922310/窃ちゃり/せっちゃり",
+    "2830687/個人情報窃盗/こじんじょうほうせっとう",
+    "2819680/窃盜癖/せっとうへき",
+    "2830688/個人情報の窃盗/こじんじょうほうのせっとう",
+    "1612520/窃か/ひそか",
+    "1619010/窃用/せつよう",
+    "2837402/窃盗強迫/せっとうきょうはく"
+  ],
+  "candidates": {
+    "1386110/窃盗/せっとう": {
+      "id": 1386110,
+      "form": "窃盗",
+      "kana": "せっとう",
+      "gloss": "theft",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        8396,
+        16044,
+        10032,
+        18858
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盗": 7
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "セツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1386100/窃取/せっしゅ": {
+      "id": 1386100,
+      "form": "窃取",
+      "kana": "せっしゅ",
+      "gloss": "theft",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        40528,
+        51509,
+        87205,
+        130419
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せっ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "セツ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1564770/剽窃/ひょうせつ": {
+      "id": 1564770,
+      "form": "剽窃",
+      "kana": "ひょうせつ",
+      "gloss": "plagiarism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        19700,
+        73159,
+        60579,
+        115281
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2415760/鼠窃/そせつ": {
+      "id": 2415760,
+      "form": "鼠窃",
+      "kana": "そせつ",
+      "gloss": "sneak-thief",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1564770/ひょう窃/ひょうせつ": {
+      "id": 1564770,
+      "form": "ひょう窃",
+      "kana": "ひょうせつ",
+      "gloss": "plagiarism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831069/窃視/せっし": {
+      "id": 2831069,
+      "form": "窃視",
+      "kana": "せっし",
+      "gloss": "peeping at (without permission)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        153062,
+        118965
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "視": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1386130/窃盗犯/せっとうはん": {
+      "id": 1386130,
+      "form": "窃盗犯",
+      "kana": "せっとうはん",
+      "gloss": "theft",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        49630
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盗": 7,
+        "犯": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2124860/窃盗団/せっとうだん": {
+      "id": 2124860,
+      "form": "窃盗団",
+      "kana": "せっとうだん",
+      "gloss": "group of thieves",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        59602
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盗": 7,
+        "団": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1386120/窃盗罪/せっとうざい": {
+      "id": 1386120,
+      "form": "窃盗罪",
+      "kana": "せっとうざい",
+      "gloss": "(crime of) theft",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        65617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盗": 7,
+        "罪": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2048510/窃盗行為/せっとうこうい": {
+      "id": 2048510,
+      "form": "窃盗行為",
+      "kana": "せっとうこうい",
+      "gloss": "theft",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        131271
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盗": 7,
+        "行": 2,
+        "為": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2819680/窃盗癖/せっとうへき": {
+      "id": 2819680,
+      "form": "窃盗癖",
+      "kana": "せっとうへき",
+      "gloss": "kleptomania",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        214506
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盗": 7,
+        "癖": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2837401/窃盗症/せっとうしょう": {
+      "id": 2837401,
+      "form": "窃盗症",
+      "kana": "せっとうしょう",
+      "gloss": "kleptomania",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        268647
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盗": 7,
+        "症": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2831066/窃視症/せっししょう": {
+      "id": 2831066,
+      "form": "窃視症",
+      "kana": "せっししょう",
+      "gloss": "voyeurism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "症": 7,
+        "視": 6
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1888450/窃盗狂/せっとうきょう": {
+      "id": 1888450,
+      "form": "窃盗狂",
+      "kana": "せっとうきょう",
+      "gloss": "kleptomania",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        301757
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "盗": 7,
+        "狂": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1922310/窃ちゃり/せっちゃり": {
+      "id": 1922310,
+      "form": "窃ちゃり",
+      "kana": "せっちゃり",
+      "gloss": "bicycle theft",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2830687/個人情報窃盗/こじんじょうほうせっとう": {
+      "id": 2830687,
+      "form": "個人情報窃盗",
+      "kana": "こじんじょうほうせっとう",
+      "gloss": "identity theft",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "盗": 7,
+        "人": 1,
+        "報": 5,
+        "個": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2819680/窃盜癖/せっとうへき": {
+      "id": 2819680,
+      "form": "窃盜癖",
+      "kana": "せっとうへき",
+      "gloss": "kleptomania",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "癖": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2830688/個人情報の窃盗/こじんじょうほうのせっとう": {
+      "id": 2830688,
+      "form": "個人情報の窃盗",
+      "kana": "こじんじょうほうのせっとう",
+      "gloss": "identity theft",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "情": 5,
+        "盗": 7,
+        "人": 1,
+        "報": 5,
+        "個": 5
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1612520/窃か/ひそか": {
+      "id": 1612520,
+      "form": "窃か",
+      "kana": "ひそか",
+      "gloss": "secret",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        207448
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ひそか": {
+          "actual": "ひそ",
+          "dictionary": [
+            "ひそ.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1619010/窃用/せつよう": {
+      "id": 1619010,
+      "form": "窃用",
+      "kana": "せつよう",
+      "gloss": "using without permission",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "用": 2
+      },
+      "matched": {
+        "セツ": {
+          "actual": "せつ",
+          "dictionary": [
+            "セツ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2837402/窃盗強迫/せっとうきょうはく": {
+      "id": 2837402,
+      "form": "窃盗強迫",
+      "kana": "せっとうきょうはく",
+      "gloss": "kleptomania",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "盗": 7,
+        "強": 2,
+        "迫": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1386110:窃盗:せっとう",
+      "form": "窃盗",
+      "kana": "せっとう",
+      "cue": "theft; stealing",
+      "ids": [
+        1386110
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 18858,
+        "shiberu": 8396,
+        "tubelex": 16044,
+        "wordfreq": 10032
+      },
+      "alternatives_by_kanji": {
+        "窃": [
+          "1386100/窃取/せっしゅ",
+          "1564770/剽窃/ひょうせつ",
+          "2415760/鼠窃/そせつ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 14
+}

@@ -1,0 +1,270 @@
+{
+  "character": "岬",
+  "grade": 7,
+  "meanings": [
+    "headland",
+    "cape",
+    "spit",
+    "promontory"
+  ],
+  "strokes": [
+    8
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 46
+    }
+  ],
+  "components": [
+    "｜",
+    "山",
+    "日",
+    "田",
+    "凵"
+  ],
+  "on": [
+    "コウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "みさき",
+      "stem": "みさき",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "さき"
+  ],
+  "government": {
+    "kanji": "岬",
+    "heading": "岬",
+    "readings": [
+      "みさき"
+    ],
+    "examples_by_reading": [
+      [
+        "岬"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "岬",
+      "reading": "みさき",
+      "source": "table_32_mi.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "みさき",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1611700/岬/みさき",
+        "1297220/岬/さき"
+      ]
+    },
+    {
+      "reading": "コウ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 2,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1874810/岬角/こうかく",
+        "1528200/岬湾/こうわん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1611700/岬/みさき",
+    "1297220/岬/さき",
+    "1874810/岬角/こうかく",
+    "1528200/岬湾/こうわん"
+  ],
+  "candidates": {
+    "1611700/岬/みさき": {
+      "id": 1611700,
+      "form": "岬",
+      "kana": "みさき",
+      "gloss": "cape (on coast)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        22904
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みさき": {
+          "actual": "みさき",
+          "dictionary": [
+            "みさき"
+          ]
+        }
+      },
+      "official_examples": [
+        "みさき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1297220/岬/さき": {
+      "id": 1297220,
+      "form": "岬",
+      "kana": "さき",
+      "gloss": "small peninsula",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        89695
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みさき": {
+          "actual": "さき",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "みさき"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1874810/岬角/こうかく": {
+      "id": 1874810,
+      "form": "岬角",
+      "kana": "こうかく",
+      "gloss": "anat promontory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "角": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1528200/岬湾/こうわん": {
+      "id": 1528200,
+      "form": "岬湾",
+      "kana": "こうわん",
+      "gloss": "capes and bays",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "湾": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1297220:岬:さき",
+      "form": "岬",
+      "kana": "さき",
+      "cue": "small peninsula; cape",
+      "ids": [
+        1297220
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 89695,
+        "shiberu": 6023,
+        "tubelex": 8410,
+        "wordfreq": 14533
+      },
+      "alternatives_by_kanji": {
+        "岬": [
+          "1874810/岬角/こうかく",
+          "1528200/岬湾/こうわん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

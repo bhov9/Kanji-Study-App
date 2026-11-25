@@ -1,0 +1,1599 @@
+{
+  "character": "否",
+  "grade": 6,
+  "meanings": [
+    "negate",
+    "no",
+    "noes",
+    "refuse",
+    "decline",
+    "deny"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 30
+    },
+    {
+      "type": "nelson_c",
+      "value": 1
+    }
+  ],
+  "components": [
+    "ノ",
+    "一",
+    "口",
+    "｜",
+    "丶"
+  ],
+  "on": [
+    "ヒ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "いな",
+      "stem": "いな",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "いや",
+      "stem": "いや",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "否",
+    "heading": "否",
+    "readings": [
+      "ヒ",
+      "いな"
+    ],
+    "examples_by_reading": [
+      [
+        "否定",
+        "適否",
+        "安否"
+      ],
+      [
+        "否",
+        "否めない"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "否",
+      "reading": "ヒ",
+      "source": "table_27_hi.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヒ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 54,
+      "frequent_unflagged_examples": 3,
+      "current_support": true,
+      "candidates": [
+        "1482990/否定/ひてい",
+        "1154230/安否/あんぴ",
+        "1154230/安否/あんぷ",
+        "1154230/安否/あんぶ",
+        "1154230/安否/あんび",
+        "1437480/適否/てきひ",
+        "1482860/否/ひ",
+        "1232410/拒否/きょひ",
+        "1483040/否認/ひにん",
+        "1482980/否決/ひけつ"
+      ]
+    },
+    {
+      "reading": "いな",
+      "official": true,
+      "stage": "senior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "2857381/否/いな",
+        "1482930/否めない/いなめない",
+        "1482940/否や/いなや",
+        "2610940/か否か/かいなか",
+        "2018190/や否や/やいなや",
+        "1482910/否む/いなむ",
+        "1482930/否め無い/いなめない"
+      ]
+    },
+    {
+      "reading": "いや",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 12,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1482960/否応/いやおう",
+        "1482970/否応なしに/いやおうなしに",
+        "2727480/否応なく/いやおうなく",
+        "2557610/否が応でも/いやがおうでも",
+        "1587650/否応なし/いやおうなし",
+        "2834536/否が応にも/いやがおうにも",
+        "1587650/否応無し/いやおうなし",
+        "1482970/否応無しに/いやおうなしに",
+        "2727480/否応無く/いやおうなく",
+        "2834535/否も応もなく/いやもおうもなく"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1482990/否定/ひてい",
+    "1154230/安否/あんぴ",
+    "1154230/安否/あんぷ",
+    "1154230/安否/あんぶ",
+    "1154230/安否/あんび",
+    "1437480/適否/てきひ",
+    "2857381/否/いな",
+    "1482930/否めない/いなめない",
+    "1482860/否/ひ",
+    "1232410/拒否/きょひ",
+    "1483040/否認/ひにん",
+    "1482980/否決/ひけつ",
+    "1191130/可否/かひ",
+    "1645450/成否/せいひ",
+    "1482960/否応/いやおう",
+    "1554620/良否/りょうひ",
+    "1661620/当否/とうひ",
+    "1285200/合否/ごうひ",
+    "1377780/正否/せいひ",
+    "1294860/採否/さいひ",
+    "1776330/許否/きょひ",
+    "1416000/諾否/だくひ",
+    "1482970/否応なしに/いやおうなしに",
+    "1984140/要否/ようひ",
+    "1482940/否や/いなや",
+    "2610940/か否か/かいなか",
+    "2018190/や否や/やいなや",
+    "1482910/否む/いなむ",
+    "1483020/否定的/ひていてき",
+    "1232420/拒否権/きょひけん"
+  ],
+  "candidates": {
+    "1482990/否定/ひてい": {
+      "id": 1482990,
+      "form": "否定",
+      "kana": "ひてい",
+      "gloss": "denial",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1355,
+        2380,
+        2375,
+        1326
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1154230/安否/あんぴ": {
+      "id": 1154230,
+      "form": "安否",
+      "kana": "あんぴ",
+      "gloss": "safety",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7590,
+        20879,
+        22895,
+        14947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ぴ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1154230/安否/あんぷ": {
+      "id": 1154230,
+      "form": "安否",
+      "kana": "あんぷ",
+      "gloss": "safety",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7590,
+        20879,
+        22895,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ぷ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1154230/安否/あんぶ": {
+      "id": 1154230,
+      "form": "安否",
+      "kana": "あんぶ",
+      "gloss": "safety",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7590,
+        20879,
+        22895,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ぶ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1154230/安否/あんび": {
+      "id": 1154230,
+      "form": "安否",
+      "kana": "あんび",
+      "gloss": "safety",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7590,
+        20879,
+        22895,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "安": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "び",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1437480/適否/てきひ": {
+      "id": 1437480,
+      "form": "適否",
+      "kana": "てきひ",
+      "gloss": "propriety",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        95507,
+        170739
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "適": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヒ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2857381/否/いな": {
+      "id": 2857381,
+      "form": "否",
+      "kana": "いな",
+      "gloss": "no",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "int"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        7200
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いな": {
+          "actual": "いな",
+          "dictionary": [
+            "いな"
+          ]
+        }
+      },
+      "official_examples": [
+        "いな"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1482930/否めない/いなめない": {
+      "id": 1482930,
+      "form": "否めない",
+      "kana": "いなめない",
+      "gloss": "undeniable",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35599
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いな": {
+          "actual": "いな",
+          "dictionary": [
+            "いな"
+          ]
+        }
+      },
+      "official_examples": [
+        "いな"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1482860/否/ひ": {
+      "id": 1482860,
+      "form": "否",
+      "kana": "ひ",
+      "gloss": "disapproval",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        52503
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [
+        "いな"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1232410/拒否/きょひ": {
+      "id": 1232410,
+      "form": "拒否",
+      "kana": "きょひ",
+      "gloss": "refusal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        2067,
+        4819,
+        2476,
+        2947
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拒": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1483040/否認/ひにん": {
+      "id": 1483040,
+      "form": "否認",
+      "kana": "ひにん",
+      "gloss": "denial",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        10065,
+        23344,
+        18234,
+        37117
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "認": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482980/否決/ひけつ": {
+      "id": 1482980,
+      "form": "否決",
+      "kana": "ひけつ",
+      "gloss": "rejection",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17232,
+        29981,
+        20890,
+        56916
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "決": 3
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1191130/可否/かひ": {
+      "id": 1191130,
+      "form": "可否",
+      "kana": "かひ",
+      "gloss": "propriety",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        23482,
+        27560,
+        25402,
+        47278
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "可": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1645450/成否/せいひ": {
+      "id": 1645450,
+      "form": "成否",
+      "kana": "せいひ",
+      "gloss": "success or failure",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        29543,
+        37110,
+        43420,
+        34121
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "成": 4
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482960/否応/いやおう": {
+      "id": 1482960,
+      "form": "否応",
+      "kana": "いやおう",
+      "gloss": "yes or no answer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35229,
+        35224,
+        41605,
+        49103
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1554620/良否/りょうひ": {
+      "id": 1554620,
+      "form": "良否",
+      "kana": "りょうひ",
+      "gloss": "good or bad",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38816,
+        81652,
+        110395,
+        176405
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "良": 4
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661620/当否/とうひ": {
+      "id": 1661620,
+      "form": "当否",
+      "kana": "とうひ",
+      "gloss": "propriety",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        39061,
+        121818,
+        85597,
+        142128
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "当": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1285200/合否/ごうひ": {
+      "id": 1285200,
+      "form": "合否",
+      "kana": "ごうひ",
+      "gloss": "success or failure",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        29810,
+        39319,
+        43095
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1377780/正否/せいひ": {
+      "id": 1377780,
+      "form": "正否",
+      "kana": "せいひ",
+      "gloss": "right and wrong",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        87205,
+        62581
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "正": 1
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294860/採否/さいひ": {
+      "id": 1294860,
+      "form": "採否",
+      "kana": "さいひ",
+      "gloss": "adoption or rejection",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        115366,
+        168736
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "採": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1776330/許否/きょひ": {
+      "id": 1776330,
+      "form": "許否",
+      "kana": "きょひ",
+      "gloss": "approval and disapproval",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        166230,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "許": 5
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1416000/諾否/だくひ": {
+      "id": 1416000,
+      "form": "諾否",
+      "kana": "だくひ",
+      "gloss": "consent or refusal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        197911,
+        156834
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "諾": 7
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482970/否応なしに/いやおうなしに": {
+      "id": 1482970,
+      "form": "否応なしに",
+      "kana": "いやおうなしに",
+      "gloss": "whether one likes it or not",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        68819,
+        34294
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1984140/要否/ようひ": {
+      "id": 1984140,
+      "form": "要否",
+      "kana": "ようひ",
+      "gloss": "necessity (or lack thereof)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        53857,
+        null,
+        214966
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "要": 4
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482940/否や/いなや": {
+      "id": 1482940,
+      "form": "否や",
+      "kana": "いなや",
+      "gloss": "as soon as",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        61164,
+        260838
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いな": {
+          "actual": "いな",
+          "dictionary": [
+            "いな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2610940/か否か/かいなか": {
+      "id": 2610940,
+      "form": "か否か",
+      "kana": "かいなか",
+      "gloss": "whether or not",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        10047
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いな": {
+          "actual": "いな",
+          "dictionary": [
+            "いな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2018190/や否や/やいなや": {
+      "id": 2018190,
+      "form": "や否や",
+      "kana": "やいなや",
+      "gloss": "the minute (that) ...",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        13198
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いな": {
+          "actual": "いな",
+          "dictionary": [
+            "いな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482910/否む/いなむ": {
+      "id": 1482910,
+      "form": "否む",
+      "kana": "いなむ",
+      "gloss": "to refuse",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        15765
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いな": {
+          "actual": "いな",
+          "dictionary": [
+            "いな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1483020/否定的/ひていてき": {
+      "id": 1483020,
+      "form": "否定的",
+      "kana": "ひていてき",
+      "gloss": "negative",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        17780
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "定": 3,
+        "的": 4
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1232420/拒否権/きょひけん": {
+      "id": 1232420,
+      "form": "拒否権",
+      "kana": "きょひけん",
+      "gloss": "right of veto",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        18154
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拒": 7,
+        "権": 6
+      },
+      "matched": {
+        "ヒ": {
+          "actual": "ひ",
+          "dictionary": [
+            "ヒ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482930/否め無い/いなめない": {
+      "id": 1482930,
+      "form": "否め無い",
+      "kana": "いなめない",
+      "gloss": "undeniable",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "いな": {
+          "actual": "いな",
+          "dictionary": [
+            "いな"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2727480/否応なく/いやおうなく": {
+      "id": 2727480,
+      "form": "否応なく",
+      "kana": "いやおうなく",
+      "gloss": "whether one wants to or not",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19156
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2557610/否が応でも/いやがおうでも": {
+      "id": 2557610,
+      "form": "否が応でも",
+      "kana": "いやがおうでも",
+      "gloss": "whether one likes it or not",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31303
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587650/否応なし/いやおうなし": {
+      "id": 1587650,
+      "form": "否応なし",
+      "kana": "いやおうなし",
+      "gloss": "compulsory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        34170
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834536/否が応にも/いやがおうにも": {
+      "id": 2834536,
+      "form": "否が応にも",
+      "kana": "いやがおうにも",
+      "gloss": "whether one likes it or not",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        55636
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587650/否応無し/いやおうなし": {
+      "id": 1587650,
+      "form": "否応無し",
+      "kana": "いやおうなし",
+      "gloss": "compulsory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        90867
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482970/否応無しに/いやおうなしに": {
+      "id": 1482970,
+      "form": "否応無しに",
+      "kana": "いやおうなしに",
+      "gloss": "whether one likes it or not",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        102320
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2727480/否応無く/いやおうなく": {
+      "id": 2727480,
+      "form": "否応無く",
+      "kana": "いやおうなく",
+      "gloss": "whether one wants to or not",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        108763
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4,
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834535/否も応もなく/いやもおうもなく": {
+      "id": 2834535,
+      "form": "否も応もなく",
+      "kana": "いやもおうもなく",
+      "gloss": "willy-nilly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        126030
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "応": 5
+      },
+      "matched": {
+        "いや": {
+          "actual": "いや",
+          "dictionary": [
+            "いや"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1232410:拒否:きょひ",
+      "form": "拒否",
+      "kana": "きょひ",
+      "cue": "refusal; rejection",
+      "ids": [
+        1232410
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2947,
+        "shiberu": 2067,
+        "tubelex": 4819,
+        "wordfreq": 2476
+      },
+      "alternatives_by_kanji": {
+        "否": [
+          "1482990/否定/ひてい",
+          "1154230/安否/あんぴ",
+          "1154230/安否/あんぷ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1482990:否定:ひてい",
+      "form": "否定",
+      "kana": "ひてい",
+      "cue": "denial; negation",
+      "ids": [
+        1482990
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1326,
+        "shiberu": 1355,
+        "tubelex": 2380,
+        "wordfreq": 2375
+      },
+      "alternatives_by_kanji": {
+        "定": [
+          "1254380/決定/けってい",
+          "1154120/安定/あんてい",
+          "1435380/定める/さだめる"
+        ],
+        "否": [
+          "1154230/安否/あんぴ",
+          "1154230/安否/あんぷ",
+          "1154230/安否/あんぶ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 20
+}

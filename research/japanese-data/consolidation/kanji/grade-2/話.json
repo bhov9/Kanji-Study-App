@@ -1,0 +1,1699 @@
+{
+  "character": "話",
+  "grade": 2,
+  "meanings": [
+    "tale",
+    "talk"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 149
+    }
+  ],
+  "components": [
+    "言",
+    "口",
+    "舌"
+  ],
+  "on": [
+    "ワ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "はな.す",
+      "stem": "はな",
+      "okurigana": "す"
+    },
+    {
+      "sourceNotation": "はなし",
+      "stem": "はなし",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "話",
+    "heading": "話",
+    "readings": [
+      "ワ",
+      "はなす",
+      "はなし"
+    ],
+    "examples_by_reading": [
+      [
+        "話題",
+        "会話",
+        "童話"
+      ],
+      [
+        "話す",
+        "話し合い"
+      ],
+      [
+        "話",
+        "昔話",
+        "立ち話"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "話",
+      "reading": "ワ",
+      "source": "table_44_wa.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ワ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 287,
+      "frequent_unflagged_examples": 10,
+      "current_support": true,
+      "candidates": [
+        "1562400/話題/わだい",
+        "1198880/会話/かいわ",
+        "1454000/童話/どうわ",
+        "2100460/話/わ",
+        "1443840/電話/でんわ",
+        "1374300/世話/せわ",
+        "1364940/神話/しんわ",
+        "1433610/通話/つうわ",
+        "1410300/対話/たいわ",
+        "1328440/手話/しゅわ"
+      ]
+    },
+    {
+      "reading": "はなす",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1562350/話す/はなす",
+        "1600910/話し合い/はなしあい",
+        "1884780/事情を話す/じじょうをはなす",
+        "2534360/腹を割って話す/はらをわってはなす",
+        "2829849/心を割って話す/こころをわってはなす",
+        "1011640/ほそぼそ話す/ほそぼそはなす"
+      ]
+    },
+    {
+      "reading": "はなし",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 62,
+      "frequent_unflagged_examples": 7,
+      "current_support": false,
+      "candidates": [
+        "1382430/昔話/むかしばなし",
+        "1551490/立ち話/たちばなし",
+        "1600900/話/はなし",
+        "1600910/話合い/はなしあい",
+        "2581590/お話/おはなし",
+        "1782910/話半分/はなしはんぶん",
+        "1611240/話声/はなしごえ",
+        "2078760/話をする/はなしをする",
+        "2722470/いい話/いいはなし",
+        "2223720/話にならない/はなしにならない"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1562350/話す/はなす",
+    "1562400/話題/わだい",
+    "1198880/会話/かいわ",
+    "1600910/話し合い/はなしあい",
+    "1454000/童話/どうわ",
+    "1382430/昔話/むかしばなし",
+    "1551490/立ち話/たちばなし",
+    "1600900/話/はなし",
+    "2100460/話/わ",
+    "1443840/電話/でんわ",
+    "1374300/世話/せわ",
+    "1364940/神話/しんわ",
+    "1433610/通話/つうわ",
+    "1410300/対話/たいわ",
+    "1328440/手話/しゅわ",
+    "1420280/談話/だんわ",
+    "1321580/実話/じつわ",
+    "1562380/話者/わしゃ",
+    "2763320/受話/じゅわ",
+    "1167810/逸話/いつわ",
+    "1282380/講話/こうわ",
+    "1246410/寓話/ぐうわ",
+    "1386490/説話/せつわ",
+    "1529310/民話/みんわ",
+    "1562390/話術/わじゅつ",
+    "1679540/発話/はつわ",
+    "1399870/挿話/そうわ",
+    "1215750/閑話/かんわ",
+    "1709780/送話/そうわ",
+    "1744800/笑話/しょうわ"
+  ],
+  "candidates": {
+    "1562350/話す/はなす": {
+      "id": 1562350,
+      "form": "話す",
+      "kana": "はなす",
+      "gloss": "to talk",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        222,
+        246,
+        2241,
+        170
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はなす": {
+          "actual": "はな",
+          "dictionary": [
+            "はな.す"
+          ]
+        }
+      },
+      "official_examples": [
+        "はなす"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1562400/話題/わだい": {
+      "id": 1562400,
+      "form": "話題",
+      "kana": "わだい",
+      "gloss": "topic",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1861,
+        1428,
+        790,
+        1772
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "題": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ワ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1198880/会話/かいわ": {
+      "id": 1198880,
+      "form": "会話",
+      "kana": "かいわ",
+      "gloss": "conversation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1864,
+        1707,
+        1403,
+        1116
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ワ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1600910/話し合い/はなしあい": {
+      "id": 1600910,
+      "form": "話し合い",
+      "kana": "はなしあい",
+      "gloss": "discussion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        8478,
+        6830,
+        7013,
+        4504
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "はなす": {
+          "actual": "はな",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はなす"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1454000/童話/どうわ": {
+      "id": 1454000,
+      "form": "童話",
+      "kana": "どうわ",
+      "gloss": "children's story",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7136,
+        18950,
+        13281,
+        16559
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "童": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ワ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1382430/昔話/むかしばなし": {
+      "id": 1382430,
+      "form": "昔話",
+      "kana": "むかしばなし",
+      "gloss": "old tale",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10679,
+        12928,
+        17251,
+        7825
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "昔": 3
+      },
+      "matched": {
+        "はなし": {
+          "actual": "ばなし",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はなし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1551490/立ち話/たちばなし": {
+      "id": 1551490,
+      "form": "立ち話",
+      "kana": "たちばなし",
+      "gloss": "talking while standing",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17419,
+        32846,
+        48867,
+        9096
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "立": 1
+      },
+      "matched": {
+        "はなし": {
+          "actual": "ばなし",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "はなし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1600900/話/はなし": {
+      "id": 1600900,
+      "form": "話",
+      "kana": "はなし",
+      "gloss": "talk",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        98
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はなし": {
+          "actual": "はなし",
+          "dictionary": [
+            "はなし"
+          ]
+        }
+      },
+      "official_examples": [
+        "はなし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2100460/話/わ": {
+      "id": 2100460,
+      "form": "話",
+      "kana": "わ",
+      "gloss": "counter for stories, episodes of TV series, etc.",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "ctr"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        8910
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [
+        "はなし"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1443840/電話/でんわ": {
+      "id": 1443840,
+      "form": "電話",
+      "kana": "でんわ",
+      "gloss": "telephone call",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        353,
+        909,
+        521,
+        786
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "電": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1374300/世話/せわ": {
+      "id": 1374300,
+      "form": "世話",
+      "kana": "せわ",
+      "gloss": "care",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        689,
+        2441,
+        5988,
+        2756
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "世": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1364940/神話/しんわ": {
+      "id": 1364940,
+      "form": "神話",
+      "kana": "しんわ",
+      "gloss": "myth",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5245,
+        6820,
+        5892,
+        9476
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "神": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1433610/通話/つうわ": {
+      "id": 1433610,
+      "form": "通話",
+      "kana": "つうわ",
+      "gloss": "telephone call",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7306,
+        6714,
+        5555,
+        6734
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "通": 2
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1410300/対話/たいわ": {
+      "id": 1410300,
+      "form": "対話",
+      "kana": "たいわ",
+      "gloss": "dialogue",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        8214,
+        4806,
+        7013,
+        11107
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "対": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1328440/手話/しゅわ": {
+      "id": 1328440,
+      "form": "手話",
+      "kana": "しゅわ",
+      "gloss": "sign language",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8489,
+        5207,
+        16515,
+        57849
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "手": 1
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1420280/談話/だんわ": {
+      "id": 1420280,
+      "form": "談話",
+      "kana": "だんわ",
+      "gloss": "talk",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        9297,
+        13294,
+        14533,
+        38460
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "談": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1321580/実話/じつわ": {
+      "id": 1321580,
+      "form": "実話",
+      "kana": "じつわ",
+      "gloss": "true story",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        11362,
+        24022,
+        13281,
+        33198
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562380/話者/わしゃ": {
+      "id": 1562380,
+      "form": "話者",
+      "kana": "わしゃ",
+      "gloss": "speaker",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8810,
+        33444,
+        19315,
+        69495
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "者": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2763320/受話/じゅわ": {
+      "id": 2763320,
+      "form": "受話",
+      "kana": "じゅわ",
+      "gloss": "reception (telephone)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7390,
+        24298,
+        90446,
+        71015
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "受": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1167810/逸話/いつわ": {
+      "id": 1167810,
+      "form": "逸話",
+      "kana": "いつわ",
+      "gloss": "anecdote",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15371,
+        17283,
+        20349,
+        18321
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "逸": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1282380/講話/こうわ": {
+      "id": 1282380,
+      "form": "講話",
+      "kana": "こうわ",
+      "gloss": "lecture",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17981,
+        32292,
+        39764,
+        85249
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "講": 5
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1246410/寓話/ぐうわ": {
+      "id": 1246410,
+      "form": "寓話",
+      "kana": "ぐうわ",
+      "gloss": "fable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        21366,
+        35465,
+        30216,
+        50663
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1386490/説話/せつわ": {
+      "id": 1386490,
+      "form": "説話",
+      "kana": "せつわ",
+      "gloss": "tale",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        15448,
+        65459,
+        50941,
+        61832
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "説": 4
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1529310/民話/みんわ": {
+      "id": 1529310,
+      "form": "民話",
+      "kana": "みんわ",
+      "gloss": "folk tale",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        21312,
+        43098,
+        37034,
+        46956
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "民": 4
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1562390/話術/わじゅつ": {
+      "id": 1562390,
+      "form": "話術",
+      "kana": "わじゅつ",
+      "gloss": "art of conversation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        33987,
+        33444,
+        32914,
+        23033
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "術": 5
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1679540/発話/はつわ": {
+      "id": 1679540,
+      "form": "発話",
+      "kana": "はつわ",
+      "gloss": "utterance",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        30705,
+        43098,
+        45339,
+        83187
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1399870/挿話/そうわ": {
+      "id": 1399870,
+      "form": "挿話",
+      "kana": "そうわ",
+      "gloss": "episode",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23657,
+        95069,
+        82481,
+        78808
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "挿": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1215750/閑話/かんわ": {
+      "id": 1215750,
+      "form": "閑話",
+      "kana": "かんわ",
+      "gloss": "talking quietly",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37620,
+        67088,
+        135895,
+        77044
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "閑": 7
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1709780/送話/そうわ": {
+      "id": 1709780,
+      "form": "送話",
+      "kana": "そうわ",
+      "gloss": "(telephonic) transmission",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        33997,
+        101749,
+        121853,
+        155378
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "送": 3
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1744800/笑話/しょうわ": {
+      "id": 1744800,
+      "form": "笑話",
+      "kana": "しょうわ",
+      "gloss": "amusing story",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37496,
+        95069,
+        144865,
+        169977
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "笑": 4
+      },
+      "matched": {
+        "ワ": {
+          "actual": "わ",
+          "dictionary": [
+            "ワ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1884780/事情を話す/じじょうをはなす": {
+      "id": 1884780,
+      "form": "事情を話す",
+      "kana": "じじょうをはなす",
+      "gloss": "to explain the situation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        10328
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "情": 5,
+        "事": 3
+      },
+      "matched": {
+        "はなす": {
+          "actual": "はな",
+          "dictionary": [
+            "はな.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2534360/腹を割って話す/はらをわってはなす": {
+      "id": 2534360,
+      "form": "腹を割って話す",
+      "kana": "はらをわってはなす",
+      "gloss": "to speak frankly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35673
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "割": 6,
+        "腹": 6
+      },
+      "matched": {
+        "はなす": {
+          "actual": "はな",
+          "dictionary": [
+            "はな.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829849/心を割って話す/こころをわってはなす": {
+      "id": 2829849,
+      "form": "心を割って話す",
+      "kana": "こころをわってはなす",
+      "gloss": "to have a heart to heart talk",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        241892
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "心": 2,
+        "割": 6
+      },
+      "matched": {
+        "はなす": {
+          "actual": "はな",
+          "dictionary": [
+            "はな.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1011640/ほそぼそ話す/ほそぼそはなす": {
+      "id": 1011640,
+      "form": "ほそぼそ話す",
+      "kana": "ほそぼそはなす",
+      "gloss": "to speak slowly and quietly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v5s"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はなす": {
+          "actual": "はな",
+          "dictionary": [
+            "はな.す"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1600910/話合い/はなしあい": {
+      "id": 1600910,
+      "form": "話合い",
+      "kana": "はなしあい",
+      "gloss": "discussion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        35449,
+        null,
+        48867,
+        84566
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "合": 2
+      },
+      "matched": {
+        "はなし": {
+          "actual": "はなし",
+          "dictionary": [
+            "はなし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2581590/お話/おはなし": {
+      "id": 2581590,
+      "form": "お話",
+      "kana": "おはなし",
+      "gloss": "story",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        1753,
+        927
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はなし": {
+          "actual": "はなし",
+          "dictionary": [
+            "はなし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1782910/話半分/はなしはんぶん": {
+      "id": 1782910,
+      "form": "話半分",
+      "kana": "はなしはんぶん",
+      "gloss": "taking a story with a grain of salt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        64910,
+        30924
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "半": 2,
+        "分": 2
+      },
+      "matched": {
+        "はなし": {
+          "actual": "はなし",
+          "dictionary": [
+            "はなし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1611240/話声/はなしごえ": {
+      "id": 1611240,
+      "form": "話声",
+      "kana": "はなしごえ",
+      "gloss": "speaking voice",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        51509,
+        null,
+        70147
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "声": 2
+      },
+      "matched": {
+        "はなし": {
+          "actual": "はなし",
+          "dictionary": [
+            "はなし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2078760/話をする/はなしをする": {
+      "id": 2078760,
+      "form": "話をする",
+      "kana": "はなしをする",
+      "gloss": "to have a talk",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "vs-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        886
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はなし": {
+          "actual": "はなし",
+          "dictionary": [
+            "はなし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2722470/いい話/いいはなし": {
+      "id": 2722470,
+      "form": "いい話",
+      "kana": "いいはなし",
+      "gloss": "good story",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        4968
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はなし": {
+          "actual": "はなし",
+          "dictionary": [
+            "はなし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2223720/話にならない/はなしにならない": {
+      "id": 2223720,
+      "form": "話にならない",
+      "kana": "はなしにならない",
+      "gloss": "not worth considering",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-i"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        5655
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "はなし": {
+          "actual": "はなし",
+          "dictionary": [
+            "はなし"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "denwa",
+      "form": "電話",
+      "kana": "でんわ",
+      "cue": "Telephone call",
+      "ids": [
+        1443840
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 786,
+        "shiberu": 353,
+        "tubelex": 909,
+        "wordfreq": 521
+      }
+    },
+    {
+      "wordId": "kaiwa",
+      "form": "会話",
+      "kana": "かいわ",
+      "cue": "Conversation",
+      "ids": [
+        1198880
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 1116,
+        "shiberu": 1864,
+        "tubelex": 1707,
+        "wordfreq": 1403
+      }
+    },
+    {
+      "wordId": "jmdict:1454000:童話:どうわ",
+      "form": "童話",
+      "kana": "どうわ",
+      "cue": "children's story; fairy tale",
+      "ids": [
+        1454000
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 16559,
+        "shiberu": 7136,
+        "tubelex": 18950,
+        "wordfreq": 13281
+      },
+      "alternatives_by_kanji": {
+        "話": [
+          "1562350/話す/はなす",
+          "1562400/話題/わだい",
+          "1198880/会話/かいわ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 144
+}

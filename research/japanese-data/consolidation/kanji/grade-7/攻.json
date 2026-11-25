@@ -1,0 +1,1364 @@
+{
+  "character": "攻",
+  "grade": 7,
+  "meanings": [
+    "aggression",
+    "attack",
+    "criticize",
+    "polish"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 66
+    },
+    {
+      "type": "nelson_c",
+      "value": 48
+    }
+  ],
+  "components": [
+    "工",
+    "攵",
+    "乞"
+  ],
+  "on": [
+    "コウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "せ.める",
+      "stem": "せ",
+      "okurigana": "める"
+    }
+  ],
+  "nanori": [
+    "おさむ"
+  ],
+  "government": {
+    "kanji": "攻",
+    "heading": "攻",
+    "readings": [
+      "コウ",
+      "せめる"
+    ],
+    "examples_by_reading": [
+      [
+        "攻守",
+        "攻撃",
+        "専攻"
+      ],
+      [
+        "攻める"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "攻",
+      "reading": "コウ",
+      "source": "table_10_ko.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "コウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 109,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1279170/攻撃/こうげき",
+        "1389780/専攻/せんこう",
+        "1279220/攻守/こうしゅ",
+        "1279270/攻略/こうりゃく",
+        "1595140/侵攻/しんこう",
+        "1654850/速攻/そっこう",
+        "2668570/特攻/とっこう",
+        "1279240/攻勢/こうせい",
+        "1279250/攻防/こうぼう",
+        "1534010/猛攻/もうこう"
+      ]
+    },
+    {
+      "reading": "せめる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1279130/攻める/せめる",
+        "2872127/攻める石にツケるな/せめるいしにつけるな",
+        "2872127/攻める石に付けるな/せめるいしにつけるな",
+        "1333320/襲い攻める/おそいせめる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1279170/攻撃/こうげき",
+    "1279130/攻める/せめる",
+    "1389780/専攻/せんこう",
+    "1279220/攻守/こうしゅ",
+    "1279270/攻略/こうりゃく",
+    "1595140/侵攻/しんこう",
+    "1654850/速攻/そっこう",
+    "2668570/特攻/とっこう",
+    "1279240/攻勢/こうせい",
+    "1279250/攻防/こうぼう",
+    "1534010/猛攻/もうこう",
+    "1387610/先攻/せんこう",
+    "1813320/進攻/しんこう",
+    "1678650/後攻/こうこう",
+    "2834090/強攻/きょうこう",
+    "1480390/反攻/はんこう",
+    "1675190/攻囲/こうい",
+    "2831726/拙攻/せっこう",
+    "1279230/攻城/こうじょう",
+    "1454900/特攻隊/とっこうたい",
+    "1377110/正攻法/せいこうほう",
+    "1460940/難攻不落/なんこうふらく",
+    "2838135/艦攻/かんこう",
+    "2851546/攻玉/こうぎょく",
+    "1458170/内攻/ないこう",
+    "1675240/攻撃力/こうげきりょく",
+    "1675250/攻撃的/こうげきてき",
+    "1401560/総攻撃/そうこうげき",
+    "1940900/先制攻撃/せんせいこうげき",
+    "2854502/物理攻撃/ぶつりこうげき"
+  ],
+  "candidates": {
+    "1279170/攻撃/こうげき": {
+      "id": 1279170,
+      "form": "攻撃",
+      "kana": "こうげき",
+      "gloss": "attack",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1756,
+        393,
+        521,
+        1280
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "撃": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1279130/攻める/せめる": {
+      "id": 1279130,
+      "form": "攻める",
+      "kana": "せめる",
+      "gloss": "to attack",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        5631,
+        2449,
+        14533,
+        2855
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "せめる": {
+          "actual": "せ",
+          "dictionary": [
+            "せ.める"
+          ]
+        }
+      },
+      "official_examples": [
+        "せめる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1389780/専攻/せんこう": {
+      "id": 1389780,
+      "form": "専攻",
+      "kana": "せんこう",
+      "gloss": "major subject",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        3350,
+        10548,
+        8882,
+        23300
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "専": 6
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1279220/攻守/こうしゅ": {
+      "id": 1279220,
+      "form": "攻守",
+      "kana": "こうしゅ",
+      "gloss": "offense and defense",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23883,
+        23184,
+        25040,
+        24222
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "守": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "コウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1279270/攻略/こうりゃく": {
+      "id": 1279270,
+      "form": "攻略",
+      "kana": "こうりゃく",
+      "gloss": "capture (of enemy territory)",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        13375,
+        2901,
+        3103,
+        6318
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "略": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1595140/侵攻/しんこう": {
+      "id": 1595140,
+      "form": "侵攻",
+      "kana": "しんこう",
+      "gloss": "invasion",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        16677,
+        5830,
+        9302,
+        12582
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "侵": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1654850/速攻/そっこう": {
+      "id": 1654850,
+      "form": "速攻",
+      "kana": "そっこう",
+      "gloss": "swift attack",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        19327,
+        6625,
+        8611,
+        9933
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "速": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2668570/特攻/とっこう": {
+      "id": 2668570,
+      "form": "特攻",
+      "kana": "とっこう",
+      "gloss": "suicide attack",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32201,
+        8355,
+        10372,
+        20060
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "特": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279240/攻勢/こうせい": {
+      "id": 1279240,
+      "form": "攻勢",
+      "kana": "こうせい",
+      "gloss": "offensive (movement)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9906,
+        16295,
+        19848,
+        17391
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "勢": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279250/攻防/こうぼう": {
+      "id": 1279250,
+      "form": "攻防",
+      "kana": "こうぼう",
+      "gloss": "offense and defense",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22954,
+        11939,
+        17976,
+        12054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "防": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1534010/猛攻/もうこう": {
+      "id": 1534010,
+      "form": "猛攻",
+      "kana": "もうこう",
+      "gloss": "fierce attack",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32999,
+        23428,
+        38864,
+        18591
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "猛": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1387610/先攻/せんこう": {
+      "id": 1387610,
+      "form": "先攻",
+      "kana": "せんこう",
+      "gloss": "batting first",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        29916,
+        23835,
+        44357,
+        34878
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "先": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1813320/進攻/しんこう": {
+      "id": 1813320,
+      "form": "進攻",
+      "kana": "しんこう",
+      "gloss": "attack",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        24295,
+        42221,
+        51518,
+        47127
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "進": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1678650/後攻/こうこう": {
+      "id": 1678650,
+      "form": "後攻",
+      "kana": "こうこう",
+      "gloss": "taking the field first",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        31534,
+        24904,
+        null,
+        49176
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "後": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2834090/強攻/きょうこう": {
+      "id": 2834090,
+      "form": "強攻",
+      "kana": "きょうこう",
+      "gloss": "forced attack",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        26378,
+        111325,
+        89801
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "強": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1480390/反攻/はんこう": {
+      "id": 1480390,
+      "form": "反攻",
+      "kana": "はんこう",
+      "gloss": "counteroffensive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        44010,
+        83270,
+        53615
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "反": 3
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1675190/攻囲/こうい": {
+      "id": 1675190,
+      "form": "攻囲",
+      "kana": "こうい",
+      "gloss": "siege",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        68915,
+        68819,
+        96343
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "囲": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2831726/拙攻/せっこう": {
+      "id": 2831726,
+      "form": "拙攻",
+      "kana": "せっこう",
+      "gloss": "poor offense",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        52268,
+        110395,
+        200376
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "拙": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1279230/攻城/こうじょう": {
+      "id": 1279230,
+      "form": "攻城",
+      "kana": "こうじょう",
+      "gloss": "castle siege",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        20401,
+        null,
+        51037
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "城": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1454900/特攻隊/とっこうたい": {
+      "id": 1454900,
+      "form": "特攻隊",
+      "kana": "とっこうたい",
+      "gloss": "special attack unit",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        23216,
+        66895
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "特": 4,
+        "隊": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1377110/正攻法/せいこうほう": {
+      "id": 1377110,
+      "form": "正攻法",
+      "kana": "せいこうほう",
+      "gloss": "fair attack",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        35760,
+        17861
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "正": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1460940/難攻不落/なんこうふらく": {
+      "id": 1460940,
+      "form": "難攻不落",
+      "kana": "なんこうふらく",
+      "gloss": "impregnable",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        49881,
+        27330
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "不": 4,
+        "落": 3,
+        "難": 6
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2838135/艦攻/かんこう": {
+      "id": 2838135,
+      "form": "艦攻",
+      "kana": "かんこう",
+      "gloss": "carrier-borne attack aircraft",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        40691,
+        null,
+        201278
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "艦": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851546/攻玉/こうぎょく": {
+      "id": 2851546,
+      "form": "攻玉",
+      "kana": "こうぎょく",
+      "gloss": "cultivating knowledge and virtue",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        null,
+        294617
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "玉": 1
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1458170/内攻/ないこう": {
+      "id": 1458170,
+      "form": "内攻",
+      "kana": "ないこう",
+      "gloss": "retrocession",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        166710
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1675240/攻撃力/こうげきりょく": {
+      "id": 1675240,
+      "form": "攻撃力",
+      "kana": "こうげきりょく",
+      "gloss": "offensive strength",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        10904
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1,
+        "撃": 7
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1675250/攻撃的/こうげきてき": {
+      "id": 1675250,
+      "form": "攻撃的",
+      "kana": "こうげきてき",
+      "gloss": "offensive",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        11332
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "撃": 7,
+        "的": 4
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1401560/総攻撃/そうこうげき": {
+      "id": 1401560,
+      "form": "総攻撃",
+      "kana": "そうこうげき",
+      "gloss": "all-out attack",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        23774
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "撃": 7,
+        "総": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1940900/先制攻撃/せんせいこうげき": {
+      "id": 1940900,
+      "form": "先制攻撃",
+      "kana": "せんせいこうげき",
+      "gloss": "preemptive strike",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        25626
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "撃": 7,
+        "先": 1,
+        "制": 5
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854502/物理攻撃/ぶつりこうげき": {
+      "id": 2854502,
+      "form": "物理攻撃",
+      "kana": "ぶつりこうげき",
+      "gloss": "physical attack (as opposed to supernatural)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        27823
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "撃": 7,
+        "理": 2
+      },
+      "matched": {
+        "コウ": {
+          "actual": "こう",
+          "dictionary": [
+            "コウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872127/攻める石にツケるな/せめるいしにつけるな": {
+      "id": 2872127,
+      "form": "攻める石にツケるな",
+      "kana": "せめるいしにつけるな",
+      "gloss": "don't attach to weak stones",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "せめる": {
+          "actual": "せ",
+          "dictionary": [
+            "せ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2872127/攻める石に付けるな/せめるいしにつけるな": {
+      "id": 2872127,
+      "form": "攻める石に付けるな",
+      "kana": "せめるいしにつけるな",
+      "gloss": "don't attach to weak stones",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "付": 4,
+        "石": 1
+      },
+      "matched": {
+        "せめる": {
+          "actual": "せ",
+          "dictionary": [
+            "せ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1333320/襲い攻める/おそいせめる": {
+      "id": 1333320,
+      "form": "襲い攻める",
+      "kana": "おそいせめる",
+      "gloss": "to array against",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "襲": 7
+      },
+      "matched": {
+        "せめる": {
+          "actual": "せ",
+          "dictionary": [
+            "せ.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1279170:攻撃:こうげき",
+      "form": "攻撃",
+      "kana": "こうげき",
+      "cue": "attack; assault",
+      "ids": [
+        1279170
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 1280,
+        "shiberu": 1756,
+        "tubelex": 393,
+        "wordfreq": 521
+      },
+      "alternatives_by_kanji": {
+        "撃": [
+          "1408870/打撃/だげき",
+          "1253590/撃退/げきたい",
+          "1626440/早撃ち/はやうち"
+        ],
+        "攻": [
+          "1279130/攻める/せめる",
+          "1389780/専攻/せんこう",
+          "1279220/攻守/こうしゅ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 65
+}

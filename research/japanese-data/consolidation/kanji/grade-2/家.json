@@ -1,0 +1,2312 @@
+{
+  "character": "家",
+  "grade": 2,
+  "meanings": [
+    "house",
+    "home",
+    "family",
+    "professional",
+    "expert",
+    "performer"
+  ],
+  "strokes": [
+    10
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 40
+    }
+  ],
+  "components": [
+    "宀",
+    "豕"
+  ],
+  "on": [
+    "カ",
+    "ケ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "いえ",
+      "stem": "いえ",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "や",
+      "stem": "や",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "うち",
+      "stem": "うち",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "あり",
+    "え",
+    "く",
+    "つか",
+    "べ"
+  ],
+  "government": {
+    "kanji": "家",
+    "heading": "家",
+    "readings": [
+      "カ",
+      "ケ",
+      "いえ",
+      "や"
+    ],
+    "examples_by_reading": [
+      [
+        "家屋",
+        "家庭",
+        "作家"
+      ],
+      [
+        "家来",
+        "本家",
+        "分家"
+      ],
+      [
+        "家",
+        "家柄",
+        "家元"
+      ],
+      [
+        "家主",
+        "借家"
+      ]
+    ],
+    "note_lines": [
+      "",
+      "",
+      "",
+      "母家（おもや）",
+      "⇔屋"
+    ],
+    "representative_index": {
+      "kanji": "家",
+      "reading": "カ",
+      "source": "table_06_ka.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "母屋",
+        "母家"
+      ],
+      "reading": "おもや",
+      "stage": "senior_high",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "カ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 722,
+      "frequent_unflagged_examples": 8,
+      "current_support": true,
+      "candidates": [
+        "1192280/家庭/かてい",
+        "1297510/作家/さっか",
+        "1191780/家屋/かおく",
+        "2220280/家/か",
+        "1579690/借家/しゃっか",
+        "1192150/家族/かぞく",
+        "1286170/国家/こっか",
+        "1320900/実家/じっか",
+        "1575940/一家/いっか",
+        "1197120/画家/がか"
+      ]
+    },
+    {
+      "reading": "ケ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 70,
+      "frequent_unflagged_examples": 5,
+      "current_support": false,
+      "candidates": [
+        "1522260/本家/ほんけ",
+        "1192530/家来/けらい",
+        "1503160/分家/ぶんけ",
+        "1191750/家/け",
+        "1498380/武家/ぶけ",
+        "1338310/出家/しゅっけ",
+        "1181440/王家/おうけ",
+        "1644820/良家/りょうけ",
+        "1741200/在家/ざいけ",
+        "1331390/宗家/そうけ"
+      ]
+    },
+    {
+      "reading": "いえ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 69,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1192460/家柄/いえがら",
+        "1191940/家元/いえもと",
+        "1191990/家主/いえぬし",
+        "1191990/家主/いえあるじ",
+        "1191730/家/いえ",
+        "2857034/借家/かりいえ",
+        "1587050/家々/いえいえ",
+        "1192560/家路/いえじ",
+        "1658400/持ち家/もちいえ",
+        "1587060/家並み/いえなみ"
+      ]
+    },
+    {
+      "reading": "や",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 53,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1191990/家主/やぬし",
+        "1579690/借家/しゃくや",
+        "2082160/家/や",
+        "2857034/借家/かりや",
+        "1606650/我が家/わがや",
+        "1192270/家賃/やちん",
+        "1675850/空き家/あきや",
+        "1428740/町家/まちや",
+        "1411170/貸家/かしや",
+        "1192420/家内/やうち"
+      ]
+    },
+    {
+      "reading": "うち",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1192250/家中/うちじゅう",
+        "1192250/家じゅう/うちじゅう",
+        "2851326/お家時間/おうちじかん",
+        "2800980/家をあける/うちをあける",
+        "2800980/家を空ける/うちをあける",
+        "2117680/家飲み/うちのみ",
+        "1457730/家/うち",
+        "1191740/家/うち",
+        "2213230/お家/おうち",
+        "2213230/御家/おうち"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1192280/家庭/かてい",
+    "1297510/作家/さっか",
+    "1522260/本家/ほんけ",
+    "1191780/家屋/かおく",
+    "1192460/家柄/いえがら",
+    "1191990/家主/やぬし",
+    "1192530/家来/けらい",
+    "1503160/分家/ぶんけ",
+    "1191940/家元/いえもと",
+    "1191990/家主/いえぬし",
+    "1191990/家主/いえあるじ",
+    "1191730/家/いえ",
+    "1191750/家/け",
+    "1579690/借家/しゃくや",
+    "2220280/家/か",
+    "2082160/家/や",
+    "1579690/借家/しゃっか",
+    "2857034/借家/かりや",
+    "2857034/借家/かりいえ",
+    "1192150/家族/かぞく",
+    "1286170/国家/こっか",
+    "1320900/実家/じっか",
+    "1575940/一家/いっか",
+    "1197120/画家/がか",
+    "1191870/家具/かぐ",
+    "1470620/農家/のうか",
+    "1606650/我が家/わがや",
+    "1191980/家事/かじ",
+    "1192270/家賃/やちん",
+    "1191910/家計/かけい"
+  ],
+  "candidates": {
+    "1192280/家庭/かてい": {
+      "id": 1192280,
+      "form": "家庭",
+      "kana": "かてい",
+      "gloss": "home",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        970,
+        1498,
+        1587,
+        2839
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "庭": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1297510/作家/さっか": {
+      "id": 1297510,
+      "form": "作家",
+      "kana": "さっか",
+      "gloss": "author",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        765,
+        3897,
+        2518,
+        5779
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "作": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1522260/本家/ほんけ": {
+      "id": 1522260,
+      "form": "本家",
+      "kana": "ほんけ",
+      "gloss": "head house",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4357,
+        12085,
+        8169,
+        13701
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1191780/家屋/かおく": {
+      "id": 1191780,
+      "form": "家屋",
+      "kana": "かおく",
+      "gloss": "house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4492,
+        13621,
+        11917,
+        17035
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "カ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1192460/家柄/いえがら": {
+      "id": 1192460,
+      "form": "家柄",
+      "kana": "いえがら",
+      "gloss": "social standing of a family",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10474,
+        25116,
+        24433,
+        11627
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "柄": 7
+      },
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [
+        "いえ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1191990/家主/やぬし": {
+      "id": 1191990,
+      "form": "家主",
+      "kana": "やぬし",
+      "gloss": "landlord",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10389,
+        20677,
+        26068,
+        19211
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [
+        "や"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1192530/家来/けらい": {
+      "id": 1192530,
+      "form": "家来",
+      "kana": "けらい",
+      "gloss": "retainer",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18904,
+        15846,
+        25763,
+        23402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1503160/分家/ぶんけ": {
+      "id": 1503160,
+      "form": "分家",
+      "kana": "ぶんけ",
+      "gloss": "branch family",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10204,
+        35749,
+        50386,
+        28873
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "分": 2
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ケ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1191940/家元/いえもと": {
+      "id": 1191940,
+      "form": "家元",
+      "kana": "いえもと",
+      "gloss": "head of a school (of music, dance)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        32247,
+        48827,
+        42050,
+        52755
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "元": 2
+      },
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [
+        "いえ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1191990/家主/いえぬし": {
+      "id": 1191990,
+      "form": "家主",
+      "kana": "いえぬし",
+      "gloss": "landlord",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10389,
+        20677,
+        26068,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [
+        "や"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1191990/家主/いえあるじ": {
+      "id": 1191990,
+      "form": "家主",
+      "kana": "いえあるじ",
+      "gloss": "house owner",
+      "senses": [
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10389,
+        20677,
+        26068,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "主": 3
+      },
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [
+        "や"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1191730/家/いえ": {
+      "id": 1191730,
+      "form": "家",
+      "kana": "いえ",
+      "gloss": "house",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        187
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [
+        "いえ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1191750/家/け": {
+      "id": 1191750,
+      "form": "家",
+      "kana": "け",
+      "gloss": "house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        3344
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [
+        "いえ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1579690/借家/しゃくや": {
+      "id": 1579690,
+      "form": "借家",
+      "kana": "しゃくや",
+      "gloss": "rented house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        47685
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "借": 4
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [
+        "や"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2220280/家/か": {
+      "id": 2220280,
+      "form": "家",
+      "kana": "か",
+      "gloss": "-ist",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        130840
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "いえ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2082160/家/や": {
+      "id": 2082160,
+      "form": "家",
+      "kana": "や",
+      "gloss": "shop",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        201326
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [
+        "いえ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1579690/借家/しゃっか": {
+      "id": 1579690,
+      "form": "借家",
+      "kana": "しゃっか",
+      "gloss": "rented house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "借": 4
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [
+        "や"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2857034/借家/かりや": {
+      "id": 2857034,
+      "form": "借家",
+      "kana": "かりや",
+      "gloss": "rented house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "借": 4
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [
+        "や"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2857034/借家/かりいえ": {
+      "id": 2857034,
+      "form": "借家",
+      "kana": "かりいえ",
+      "gloss": "rented house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "借": 4
+      },
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [
+        "や"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1192150/家族/かぞく": {
+      "id": 1192150,
+      "form": "家族",
+      "kana": "かぞく",
+      "gloss": "family",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        715,
+        696,
+        587,
+        548
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "族": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1286170/国家/こっか": {
+      "id": 1286170,
+      "form": "国家",
+      "kana": "こっか",
+      "gloss": "state",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1795,
+        2002,
+        1122,
+        6338
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1320900/実家/じっか": {
+      "id": 1320900,
+      "form": "実家",
+      "kana": "じっか",
+      "gloss": "(one's parents') home",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3082,
+        3785,
+        2934,
+        2155
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "実": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1575940/一家/いっか": {
+      "id": 1575940,
+      "form": "一家",
+      "kana": "いっか",
+      "gloss": "a family",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2265,
+        5910,
+        6453,
+        5679
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1197120/画家/がか": {
+      "id": 1197120,
+      "form": "画家",
+      "kana": "がか",
+      "gloss": "painter",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        1903,
+        7187,
+        9302,
+        14937
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "画": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1191870/家具/かぐ": {
+      "id": 1191870,
+      "form": "家具",
+      "kana": "かぐ",
+      "gloss": "furniture",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4821,
+        3817,
+        7265,
+        6354
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "具": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1470620/農家/のうか": {
+      "id": 1470620,
+      "form": "農家",
+      "kana": "のうか",
+      "gloss": "farmer",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3663,
+        5164,
+        6076,
+        12888
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "農": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1606650/我が家/わがや": {
+      "id": 1606650,
+      "form": "我が家",
+      "kana": "わがや",
+      "gloss": "one's house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "exp",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9787,
+        4740,
+        5892,
+        5585
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "我": 6
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1191980/家事/かじ": {
+      "id": 1191980,
+      "form": "家事",
+      "kana": "かじ",
+      "gloss": "housework",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7540,
+        6012,
+        6894,
+        5281
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "事": 3
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1192270/家賃/やちん": {
+      "id": 1192270,
+      "form": "家賃",
+      "kana": "やちん",
+      "gloss": "rent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9115,
+        5683,
+        7391,
+        8639
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賃": 6
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1191910/家計/かけい": {
+      "id": 1191910,
+      "form": "家計",
+      "kana": "かけい",
+      "gloss": "household economy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8731,
+        6809,
+        10707,
+        20512
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "計": 2
+      },
+      "matched": {
+        "カ": {
+          "actual": "か",
+          "dictionary": [
+            "カ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1498380/武家/ぶけ": {
+      "id": 1498380,
+      "form": "武家",
+      "kana": "ぶけ",
+      "gloss": "samurai family",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5317,
+        16196,
+        27344,
+        28686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "武": 5
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1338310/出家/しゅっけ": {
+      "id": 1338310,
+      "form": "出家",
+      "kana": "しゅっけ",
+      "gloss": "entering the priesthood",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        7520,
+        15255,
+        21173,
+        38483
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1181440/王家/おうけ": {
+      "id": 1181440,
+      "form": "王家",
+      "kana": "おうけ",
+      "gloss": "royal family",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        16955,
+        16612,
+        13090,
+        14150
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644820/良家/りょうけ": {
+      "id": 1644820,
+      "form": "良家",
+      "kana": "りょうけ",
+      "gloss": "good family",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9268,
+        65459,
+        57615,
+        28409
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "良": 4
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1741200/在家/ざいけ": {
+      "id": 1741200,
+      "form": "在家",
+      "kana": "ざいけ",
+      "gloss": "layperson",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        10712,
+        47603,
+        64314,
+        115866
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "在": 5
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1331390/宗家/そうけ": {
+      "id": 1331390,
+      "form": "宗家",
+      "kana": "そうけ",
+      "gloss": "head of family",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13579,
+        38018,
+        47810,
+        49093
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宗": 6
+      },
+      "matched": {
+        "ケ": {
+          "actual": "け",
+          "dictionary": [
+            "ケ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587050/家々/いえいえ": {
+      "id": 1587050,
+      "form": "家々",
+      "kana": "いえいえ",
+      "gloss": "each house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7758,
+        24811,
+        36648,
+        20801
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1192560/家路/いえじ": {
+      "id": 1192560,
+      "form": "家路",
+      "kana": "いえじ",
+      "gloss": "the road home",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18288,
+        38018,
+        37490,
+        22677
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "路": 3
+      },
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1658400/持ち家/もちいえ": {
+      "id": 1658400,
+      "form": "持ち家",
+      "kana": "もちいえ",
+      "gloss": "one's (own) house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26706,
+        30685,
+        36648,
+        55951
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "持": 3
+      },
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1587060/家並み/いえなみ": {
+      "id": 1587060,
+      "form": "家並み",
+      "kana": "いえなみ",
+      "gloss": "row of houses",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        21486,
+        53060,
+        88001,
+        59707
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "並": 6
+      },
+      "matched": {
+        "いえ": {
+          "actual": "いえ",
+          "dictionary": [
+            "いえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1675850/空き家/あきや": {
+      "id": 1675850,
+      "form": "空き家",
+      "kana": "あきや",
+      "gloss": "vacant house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22189,
+        11024,
+        19596,
+        20054
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "空": 1
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428740/町家/まちや": {
+      "id": 1428740,
+      "form": "町家",
+      "kana": "まちや",
+      "gloss": "machiya",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11033,
+        26476,
+        49881,
+        75289
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "町": 1
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1411170/貸家/かしや": {
+      "id": 1411170,
+      "form": "貸家",
+      "kana": "かしや",
+      "gloss": "house for rent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        18820,
+        52268,
+        58810,
+        88833
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "貸": 5
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1192420/家内/やうち": {
+      "id": 1192420,
+      "form": "家内",
+      "kana": "やうち",
+      "gloss": "inside the home",
+      "senses": [
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        7323,
+        13294,
+        22017,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "や": {
+          "actual": "や",
+          "dictionary": [
+            "や"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1192250/家中/うちじゅう": {
+      "id": 1192250,
+      "form": "家中",
+      "kana": "うちじゅう",
+      "gloss": "whole family",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14181,
+        20739,
+        17976,
+        18445
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "中": 1
+      },
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1192250/家じゅう/うちじゅう": {
+      "id": 1192250,
+      "form": "家じゅう",
+      "kana": "うちじゅう",
+      "gloss": "whole family",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        58025
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2851326/お家時間/おうちじかん": {
+      "id": 2851326,
+      "form": "お家時間",
+      "kana": "おうちじかん",
+      "gloss": "time spent at home (esp. during the COVID-19 pandemic)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        261831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "時": 2,
+        "間": 2
+      },
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2800980/家をあける/うちをあける": {
+      "id": 2800980,
+      "form": "家をあける",
+      "kana": "うちをあける",
+      "gloss": "to be away from home",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2800980/家を空ける/うちをあける": {
+      "id": 2800980,
+      "form": "家を空ける",
+      "kana": "うちをあける",
+      "gloss": "to be away from home",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "空": 1
+      },
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2117680/家飲み/うちのみ": {
+      "id": 2117680,
+      "form": "家飲み",
+      "kana": "うちのみ",
+      "gloss": "drinking at home (as opposed to going out)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "飲": 3
+      },
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1457730/家/うち": {
+      "id": 1457730,
+      "form": "家",
+      "kana": "うち",
+      "gloss": "inside",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [
+        "いえ"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "1191740/家/うち": {
+      "id": 1191740,
+      "form": "家",
+      "kana": "うち",
+      "gloss": "one's house",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [
+        "いえ"
+      ],
+      "handwriting_tier": "reference-only"
+    },
+    "2213230/お家/おうち": {
+      "id": 2213230,
+      "form": "お家",
+      "kana": "おうち",
+      "gloss": "your home",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        5233
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2213230/御家/おうち": {
+      "id": 2213230,
+      "form": "御家",
+      "kana": "おうち",
+      "gloss": "your home",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        68726
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "御": 7
+      },
+      "matched": {
+        "うち": {
+          "actual": "うち",
+          "dictionary": [
+            "うち"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1192150:家族:かぞく",
+      "form": "家族",
+      "kana": "かぞく",
+      "cue": "family",
+      "ids": [
+        1192150
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 548,
+        "shiberu": 715,
+        "tubelex": 696,
+        "wordfreq": 587
+      },
+      "alternatives_by_kanji": {
+        "家": [
+          "1192280/家庭/かてい",
+          "1297510/作家/さっか",
+          "1522260/本家/ほんけ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1192240:家畜:かちく",
+      "form": "家畜",
+      "kana": "かちく",
+      "cue": "domestic animals; livestock",
+      "ids": [
+        1192240
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 13233,
+        "shiberu": 8888,
+        "tubelex": 10130,
+        "wordfreq": 9023
+      },
+      "alternatives_by_kanji": {
+        "家": [
+          "1192280/家庭/かてい",
+          "1297510/作家/さっか",
+          "1522260/本家/ほんけ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1192280:家庭:かてい",
+      "form": "家庭",
+      "kana": "かてい",
+      "cue": "home; household",
+      "ids": [
+        1192280
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 2839,
+        "shiberu": 970,
+        "tubelex": 1498,
+        "wordfreq": 1587
+      },
+      "alternatives_by_kanji": {
+        "家": [
+          "1297510/作家/さっか",
+          "1522260/本家/ほんけ",
+          "1191780/家屋/かおく"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1286170:国家:こっか",
+      "form": "国家",
+      "kana": "こっか",
+      "cue": "state; country",
+      "ids": [
+        1286170
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6338,
+        "shiberu": 1795,
+        "tubelex": 2002,
+        "wordfreq": 1122
+      },
+      "alternatives_by_kanji": {
+        "家": [
+          "1192280/家庭/かてい",
+          "1297510/作家/さっか",
+          "1522260/本家/ほんけ"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1297510:作家:さっか",
+      "form": "作家",
+      "kana": "さっか",
+      "cue": "author; writer",
+      "ids": [
+        1297510
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5779,
+        "shiberu": 765,
+        "tubelex": 3897,
+        "wordfreq": 2518
+      },
+      "alternatives_by_kanji": {
+        "家": [
+          "1192280/家庭/かてい",
+          "1522260/本家/ほんけ",
+          "1191780/家屋/かおく"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 84
+}

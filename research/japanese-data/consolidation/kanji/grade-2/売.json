@@ -1,0 +1,1721 @@
+{
+  "character": "売",
+  "grade": 2,
+  "meanings": [
+    "sell"
+  ],
+  "strokes": [
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 33
+    },
+    {
+      "type": "nelson_c",
+      "value": 32
+    }
+  ],
+  "components": [
+    "士",
+    "儿",
+    "冖"
+  ],
+  "on": [
+    "バイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "う.る",
+      "stem": "う",
+      "okurigana": "る"
+    },
+    {
+      "sourceNotation": "う.れる",
+      "stem": "う",
+      "okurigana": "れる"
+    }
+  ],
+  "nanori": [
+    "うり",
+    "うる",
+    "め"
+  ],
+  "government": {
+    "kanji": "売",
+    "heading": "売（賣）",
+    "readings": [
+      "バイ",
+      "うる",
+      "うれる"
+    ],
+    "examples_by_reading": [
+      [
+        "売買",
+        "売品",
+        "商売"
+      ],
+      [
+        "売る",
+        "売り出す"
+      ],
+      [
+        "売れる",
+        "売れ行き"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "売",
+      "reading": "バイ",
+      "source": "table_26_ha.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "バイ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 199,
+      "frequent_unflagged_examples": 7,
+      "current_support": true,
+      "candidates": [
+        "1347200/商売/しょうばい",
+        "1753130/売品/ばいひん",
+        "1474050/売買/ばいばい",
+        "1481800/販売/はんばい",
+        "1477810/発売/はつばい",
+        "1473980/売却/ばいきゃく",
+        "1614150/完売/かんばい",
+        "1441330/転売/てんばい",
+        "1474040/売店/ばいてん",
+        "1601240/売春/ばいしゅん"
+      ]
+    },
+    {
+      "reading": "うる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 16,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1473950/売る/うる",
+        "1473860/売り出す/うりだす",
+        "2850082/叩き売る/たたきうる",
+        "2432200/喧嘩を売る/けんかをうる",
+        "2102680/恩を売る/おんをうる",
+        "2432200/ケンカを売る/けんかをうる",
+        "1538610/油を売る/あぶらをうる",
+        "2839508/高く売る/たかくうる",
+        "2586100/媚びを売る/こびをうる",
+        "2586100/媚を売る/こびをうる"
+      ]
+    },
+    {
+      "reading": "うれる",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 2,
+      "current_support": false,
+      "candidates": [
+        "1473960/売れる/うれる",
+        "1588590/売れ行き/うれゆき",
+        "2399760/飛ぶように売れる/とぶようにうれる",
+        "2839877/顔が売れる/かおがうれる",
+        "2399760/飛ぶ様に売れる/とぶようにうれる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1473950/売る/うる",
+    "1473960/売れる/うれる",
+    "1347200/商売/しょうばい",
+    "1588590/売れ行き/うれゆき",
+    "1473860/売り出す/うりだす",
+    "1753130/売品/ばいひん",
+    "1474050/売買/ばいばい",
+    "1481800/販売/はんばい",
+    "1477810/発売/はつばい",
+    "1473980/売却/ばいきゃく",
+    "1614150/完売/かんばい",
+    "1441330/転売/てんばい",
+    "1474040/売店/ばいてん",
+    "1601240/売春/ばいしゅん",
+    "1234220/競売/きょうばい",
+    "1528330/密売/みつばい",
+    "1389860/専売/せんばい",
+    "1455250/特売/とくばい",
+    "1404300/即売/そくばい",
+    "1753020/売人/ばいにん",
+    "1753120/売価/ばいか",
+    "1170060/淫売/いんばい",
+    "1753050/売文/ばいぶん",
+    "1234220/競売/けいばい",
+    "1431490/直売/ちょくばい",
+    "1473990/売国/ばいこく",
+    "1474080/売名/ばいめい",
+    "2753810/併売/へいばい",
+    "1274500/公売/こうばい",
+    "1558660/廉売/れんばい"
+  ],
+  "candidates": {
+    "1473950/売る/うる": {
+      "id": 1473950,
+      "form": "売る",
+      "kana": "うる",
+      "gloss": "to sell",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        792,
+        507,
+        2681,
+        781
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [
+        "うる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1473960/売れる/うれる": {
+      "id": 1473960,
+      "form": "売れる",
+      "kana": "うれる",
+      "gloss": "to sell (well)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2098,
+        1512,
+        5892,
+        2680
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うれる": {
+          "actual": "う",
+          "dictionary": [
+            "う.れる"
+          ]
+        }
+      },
+      "official_examples": [
+        "うれる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1347200/商売/しょうばい": {
+      "id": 1347200,
+      "form": "商売",
+      "kana": "しょうばい",
+      "gloss": "trade",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        1218,
+        4926,
+        5679,
+        3395
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "商": 3
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "バイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1588590/売れ行き/うれゆき": {
+      "id": 1588590,
+      "form": "売れ行き",
+      "kana": "うれゆき",
+      "gloss": "sales",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8439,
+        18076,
+        24433,
+        30470
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "行": 2
+      },
+      "matched": {
+        "うれる": {
+          "actual": "う",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "うれる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1473860/売り出す/うりだす": {
+      "id": 1473860,
+      "form": "売り出す",
+      "kana": "うりだす",
+      "gloss": "to put on the market",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        11425,
+        14720,
+        30216,
+        17606
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "出": 1
+      },
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "うる"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1753130/売品/ばいひん": {
+      "id": 1753130,
+      "form": "売品",
+      "kana": "ばいひん",
+      "gloss": "articles for sale",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14527,
+        24904,
+        104555,
+        201407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "品": 3
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "バイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1474050/売買/ばいばい": {
+      "id": 1474050,
+      "form": "売買",
+      "kana": "ばいばい",
+      "gloss": "trade",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        15458
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "買": 2
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "バイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1481800/販売/はんばい": {
+      "id": 1481800,
+      "form": "販売",
+      "kana": "はんばい",
+      "gloss": "sale",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1424,
+        887,
+        475,
+        5764
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "販": 7
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1477810/発売/はつばい": {
+      "id": 1477810,
+      "form": "発売",
+      "kana": "はつばい",
+      "gloss": "sale",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4893,
+        1157,
+        404,
+        5511
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1473980/売却/ばいきゃく": {
+      "id": 1473980,
+      "form": "売却",
+      "kana": "ばいきゃく",
+      "gloss": "selling off",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7686,
+        5151,
+        4516,
+        21266
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "却": 7
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1614150/完売/かんばい": {
+      "id": 1614150,
+      "form": "完売",
+      "kana": "かんばい",
+      "gloss": "selling out",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        8749,
+        12020,
+        9888,
+        25308
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "完": 4
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1441330/転売/てんばい": {
+      "id": 1441330,
+      "form": "転売",
+      "kana": "てんばい",
+      "gloss": "resale",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        32794,
+        11289,
+        6355,
+        34686
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "転": 3
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1474040/売店/ばいてん": {
+      "id": 1474040,
+      "form": "売店",
+      "kana": "ばいてん",
+      "gloss": "stand",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        11573,
+        11647,
+        17976,
+        14045
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "店": 2
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1601240/売春/ばいしゅん": {
+      "id": 1601240,
+      "form": "売春",
+      "kana": "ばいしゅん",
+      "gloss": "prostitution",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        17600,
+        22793,
+        8031,
+        34506
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "春": 2
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1234220/競売/きょうばい": {
+      "id": 1234220,
+      "form": "競売",
+      "kana": "きょうばい",
+      "gloss": "auction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17334,
+        25604,
+        19315,
+        44517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "競": 4
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1528330/密売/みつばい": {
+      "id": 1528330,
+      "form": "密売",
+      "kana": "みつばい",
+      "gloss": "illicit sale",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17943,
+        32667,
+        26690,
+        40591
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "密": 6
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1389860/専売/せんばい": {
+      "id": 1389860,
+      "form": "専売",
+      "kana": "せんばい",
+      "gloss": "monopoly",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        27796,
+        29670,
+        21741,
+        76269
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "専": 6
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1455250/特売/とくばい": {
+      "id": 1455250,
+      "form": "特売",
+      "kana": "とくばい",
+      "gloss": "special sale",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        35095,
+        35465,
+        23216,
+        28561
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "特": 4
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1404300/即売/そくばい": {
+      "id": 1404300,
+      "form": "即売",
+      "kana": "そくばい",
+      "gloss": "selling on the spot",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28626,
+        39641,
+        23544,
+        103704
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "即": 7
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753020/売人/ばいにん": {
+      "id": 1753020,
+      "form": "売人",
+      "kana": "ばいにん",
+      "gloss": "trader",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31745,
+        48192,
+        29854,
+        35569
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753120/売価/ばいか": {
+      "id": 1753120,
+      "form": "売価",
+      "kana": "ばいか",
+      "gloss": "selling price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37234,
+        51509,
+        53182,
+        123159
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "価": 5
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1170060/淫売/いんばい": {
+      "id": 1170060,
+      "form": "淫売",
+      "kana": "いんばい",
+      "gloss": "prostitution",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38773,
+        70964,
+        95507,
+        49304
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "淫": 7
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1753050/売文/ばいぶん": {
+      "id": 1753050,
+      "form": "売文",
+      "kana": "ばいぶん",
+      "gloss": "hack writer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34141,
+        139593,
+        118546,
+        152657
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "文": 1
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1234220/競売/けいばい": {
+      "id": 1234220,
+      "form": "競売",
+      "kana": "けいばい",
+      "gloss": "auction",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        17334,
+        25604,
+        19315,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "競": 4
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1431490/直売/ちょくばい": {
+      "id": 1431490,
+      "form": "直売",
+      "kana": "ちょくばい",
+      "gloss": "direct selling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        15151,
+        27344,
+        103793
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1473990/売国/ばいこく": {
+      "id": 1473990,
+      "form": "売国",
+      "kana": "ばいこく",
+      "gloss": "selling out one's country",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        25714,
+        27689,
+        92327
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "国": 2
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1474080/売名/ばいめい": {
+      "id": 1474080,
+      "form": "売名",
+      "kana": "ばいめい",
+      "gloss": "self-advertisement",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        38931,
+        38431,
+        77627
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "名": 1
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2753810/併売/へいばい": {
+      "id": 2753810,
+      "form": "併売",
+      "kana": "へいばい",
+      "gloss": "concurrent selling (e.g. of old and new models)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        39979,
+        39319,
+        282190
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "併": 7
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1274500/公売/こうばい": {
+      "id": 1274500,
+      "form": "公売",
+      "kana": "こうばい",
+      "gloss": "public sale",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        90446,
+        213637
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1558660/廉売/れんばい": {
+      "id": 1558660,
+      "form": "廉売",
+      "kana": "れんばい",
+      "gloss": "bargain sale",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        81694,
+        223986
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "廉": 7
+      },
+      "matched": {
+        "バイ": {
+          "actual": "ばい",
+          "dictionary": [
+            "バイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2850082/叩き売る/たたきうる": {
+      "id": 2850082,
+      "form": "叩き売る",
+      "kana": "たたきうる",
+      "gloss": "to sell at a loss",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "v5r",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        80128
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2432200/喧嘩を売る/けんかをうる": {
+      "id": 2432200,
+      "form": "喧嘩を売る",
+      "kana": "けんかをうる",
+      "gloss": "to pick a fight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19247
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2102680/恩を売る/おんをうる": {
+      "id": 2102680,
+      "form": "恩を売る",
+      "kana": "おんをうる",
+      "gloss": "to demand gratitude",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        19659
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "恩": 6
+      },
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2432200/ケンカを売る/けんかをうる": {
+      "id": 2432200,
+      "form": "ケンカを売る",
+      "kana": "けんかをうる",
+      "gloss": "to pick a fight",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        26399
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1538610/油を売る/あぶらをうる": {
+      "id": 1538610,
+      "form": "油を売る",
+      "kana": "あぶらをうる",
+      "gloss": "to loaf around (on the job)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        29653
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "油": 3
+      },
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839508/高く売る/たかくうる": {
+      "id": 2839508,
+      "form": "高く売る",
+      "kana": "たかくうる",
+      "gloss": "to sell at a high price",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        35370
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "高": 2
+      },
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2586100/媚びを売る/こびをうる": {
+      "id": 2586100,
+      "form": "媚びを売る",
+      "kana": "こびをうる",
+      "gloss": "to coquet (of a woman)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        40400
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2586100/媚を売る/こびをうる": {
+      "id": 2586100,
+      "form": "媚を売る",
+      "kana": "こびをうる",
+      "gloss": "to coquet (of a woman)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v5r"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        43454
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "うる": {
+          "actual": "う",
+          "dictionary": [
+            "う.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2399760/飛ぶように売れる/とぶようにうれる": {
+      "id": 2399760,
+      "form": "飛ぶように売れる",
+      "kana": "とぶようにうれる",
+      "gloss": "to sell like hot cakes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42471
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飛": 4
+      },
+      "matched": {
+        "うれる": {
+          "actual": "う",
+          "dictionary": [
+            "う.れる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839877/顔が売れる/かおがうれる": {
+      "id": 2839877,
+      "form": "顔が売れる",
+      "kana": "かおがうれる",
+      "gloss": "to be widely recognized",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        74463
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "顔": 2
+      },
+      "matched": {
+        "うれる": {
+          "actual": "う",
+          "dictionary": [
+            "う.れる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2399760/飛ぶ様に売れる/とぶようにうれる": {
+      "id": 2399760,
+      "form": "飛ぶ様に売れる",
+      "kana": "とぶようにうれる",
+      "gloss": "to sell like hot cakes",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        220114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "様": 3,
+        "飛": 4
+      },
+      "matched": {
+        "うれる": {
+          "actual": "う",
+          "dictionary": [
+            "う.れる"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1473980:売却:ばいきゃく",
+      "form": "売却",
+      "kana": "ばいきゃく",
+      "cue": "selling off; disposal by sale",
+      "ids": [
+        1473980
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 21266,
+        "shiberu": 7686,
+        "tubelex": 5151,
+        "wordfreq": 4516
+      },
+      "alternatives_by_kanji": {
+        "売": [
+          "1473950/売る/うる",
+          "1473960/売れる/うれる",
+          "1347200/商売/しょうばい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1474050:売買:ばいばい",
+      "form": "売買",
+      "kana": "ばいばい",
+      "cue": "trade; buying and selling",
+      "ids": [
+        1474050
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 15458,
+        "shiberu": 6027,
+        "tubelex": 5198,
+        "wordfreq": 5892
+      },
+      "alternatives_by_kanji": {
+        "売": [
+          "1473950/売る/うる",
+          "1473960/売れる/うれる",
+          "1347200/商売/しょうばい"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1481800:販売:はんばい",
+      "form": "販売",
+      "kana": "はんばい",
+      "cue": "sale; sales",
+      "ids": [
+        1481800
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5764,
+        "shiberu": 1424,
+        "tubelex": 887,
+        "wordfreq": 475
+      },
+      "alternatives_by_kanji": {
+        "売": [
+          "1473950/売る/うる",
+          "1473960/売れる/うれる",
+          "1347200/商売/しょうばい"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 363
+}

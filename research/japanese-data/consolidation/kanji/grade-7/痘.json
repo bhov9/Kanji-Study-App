@@ -1,0 +1,997 @@
+{
+  "character": "痘",
+  "grade": 7,
+  "meanings": [
+    "pox",
+    "smallpox"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 104
+    }
+  ],
+  "components": [
+    "口",
+    "豆",
+    "并",
+    "疔"
+  ],
+  "on": [
+    "トウ"
+  ],
+  "kun": [],
+  "nanori": [],
+  "government": {
+    "kanji": "痘",
+    "heading": "痘",
+    "readings": [
+      "トウ"
+    ],
+    "examples_by_reading": [
+      [
+        "種痘",
+        "水痘",
+        "天然痘"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "痘",
+      "reading": "トウ",
+      "source": "table_20_to.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "トウ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 9,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1371900/水痘/すいとう",
+        "1328850/種痘/しゅとう",
+        "1439670/天然痘/てんねんとう",
+        "1231570/牛痘/ぎゅうとう",
+        "1449320/痘瘡/とうそう",
+        "1449310/痘苗/とうびょう",
+        "2857864/痘痕/とうこん",
+        "2870140/人痘法/じんとうほう",
+        "2846494/人痘種痘法/じんとうしゅとうほう",
+        "2862188/Ｍ痘/エムとう"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1371900/水痘/すいとう",
+    "1328850/種痘/しゅとう",
+    "1439670/天然痘/てんねんとう",
+    "1231570/牛痘/ぎゅうとう",
+    "1449320/痘瘡/とうそう",
+    "1449310/痘苗/とうびょう",
+    "2857864/痘痕/とうこん",
+    "2870140/人痘法/じんとうほう",
+    "2846494/人痘種痘法/じんとうしゅとうほう",
+    "2862188/Ｍ痘/エムとう",
+    "2854640/サル痘/さるとう",
+    "1449320/痘そう/とうそう",
+    "2829636/羊痘/ひつじとう",
+    "1187940/仮痘/かとう",
+    "2846493/人痘接種法/じんとうせっしゅほう",
+    "2854644/鶏痘/けいとう",
+    "2854640/猿痘/さるとう",
+    "1449300/痘痕面/あばたづら",
+    "2854643/発痘/はっとう",
+    "2212940/痘/いも",
+    "1649560/痘痕/あばた",
+    "2089340/痘痕も靨/あばたもえくぼ",
+    "2089340/痘痕も笑窪/あばたもえくぼ",
+    "2089340/痘痕もえくぼ/あばたもえくぼ",
+    "2212940/痘痕/いも",
+    "2089340/痘痕もエクボ/あばたもえくぼ"
+  ],
+  "candidates": {
+    "1371900/水痘/すいとう": {
+      "id": 1371900,
+      "form": "水痘",
+      "kana": "すいとう",
+      "gloss": "chickenpox",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        84816,
+        207025
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "水": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1328850/種痘/しゅとう": {
+      "id": 1328850,
+      "form": "種痘",
+      "kana": "しゅとう",
+      "gloss": "smallpox vaccination",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        127540,
+        114790
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1439670/天然痘/てんねんとう": {
+      "id": 1439670,
+      "form": "天然痘",
+      "kana": "てんねんとう",
+      "gloss": "smallpox",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        42493,
+        74840
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "天": 1,
+        "然": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "トウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1231570/牛痘/ぎゅうとう": {
+      "id": 1231570,
+      "form": "牛痘",
+      "kana": "ぎゅうとう",
+      "gloss": "cowpox",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        196196,
+        171202
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "牛": 2
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449320/痘瘡/とうそう": {
+      "id": 1449320,
+      "form": "痘瘡",
+      "kana": "とうそう",
+      "gloss": "smallpox",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        190979,
+        161795
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449310/痘苗/とうびょう": {
+      "id": 1449310,
+      "form": "痘苗",
+      "kana": "とうびょう",
+      "gloss": "vaccine",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        164653,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "苗": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857864/痘痕/とうこん": {
+      "id": 2857864,
+      "form": "痘痕",
+      "kana": "とうこん",
+      "gloss": "pockmark",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        160562
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "痕": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2870140/人痘法/じんとうほう": {
+      "id": 2870140,
+      "form": "人痘法",
+      "kana": "じんとうほう",
+      "gloss": "variolation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        310125
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "法": 4,
+        "人": 1
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846494/人痘種痘法/じんとうしゅとうほう": {
+      "id": 2846494,
+      "form": "人痘種痘法",
+      "kana": "じんとうしゅとうほう",
+      "gloss": "variolation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "人": 1,
+        "法": 4,
+        "種": 4
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2862188/Ｍ痘/エムとう": {
+      "id": 2862188,
+      "form": "Ｍ痘",
+      "kana": "エムとう",
+      "gloss": "mpox",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854640/サル痘/さるとう": {
+      "id": 2854640,
+      "form": "サル痘",
+      "kana": "さるとう",
+      "gloss": "monkeypox",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449320/痘そう/とうそう": {
+      "id": 1449320,
+      "form": "痘そう",
+      "kana": "とうそう",
+      "gloss": "smallpox",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2829636/羊痘/ひつじとう": {
+      "id": 2829636,
+      "form": "羊痘",
+      "kana": "ひつじとう",
+      "gloss": "orf",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "羊": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1187940/仮痘/かとう": {
+      "id": 1187940,
+      "form": "仮痘",
+      "kana": "かとう",
+      "gloss": "varioloid",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "仮": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2846493/人痘接種法/じんとうせっしゅほう": {
+      "id": 2846493,
+      "form": "人痘接種法",
+      "kana": "じんとうせっしゅほう",
+      "gloss": "variolation",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "人": 1,
+        "種": 4,
+        "法": 4,
+        "接": 5
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854644/鶏痘/けいとう": {
+      "id": 2854644,
+      "form": "鶏痘",
+      "kana": "けいとう",
+      "gloss": "fowl pox",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "鶏": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2854640/猿痘/さるとう": {
+      "id": 2854640,
+      "form": "猿痘",
+      "kana": "さるとう",
+      "gloss": "monkeypox",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "猿": 7
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1449300/痘痕面/あばたづら": {
+      "id": 1449300,
+      "form": "痘痕面",
+      "kana": "あばたづら",
+      "gloss": "pockmarked face",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        218314
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "面": 3,
+        "痕": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2854643/発痘/はっとう": {
+      "id": 2854643,
+      "form": "発痘",
+      "kana": "はっとう",
+      "gloss": "outbreak (of pox)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rare"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "発": 3
+      },
+      "matched": {
+        "トウ": {
+          "actual": "とう",
+          "dictionary": [
+            "トウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2212940/痘/いも": {
+      "id": 2212940,
+      "form": "痘",
+      "kana": "いも",
+      "gloss": "smallpox",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        17885,
+        30685,
+        98142,
+        124751
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "1649560/痘痕/あばた": {
+      "id": 1649560,
+      "form": "痘痕",
+      "kana": "あばた",
+      "gloss": "pockmark",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        144420
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "痕": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2089340/痘痕も靨/あばたもえくぼ": {
+      "id": 2089340,
+      "form": "痘痕も靨",
+      "kana": "あばたもえくぼ",
+      "gloss": "love is blind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "痕": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2089340/痘痕も笑窪/あばたもえくぼ": {
+      "id": 2089340,
+      "form": "痘痕も笑窪",
+      "kana": "あばたもえくぼ",
+      "gloss": "love is blind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "笑": 4,
+        "痕": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2089340/痘痕もえくぼ/あばたもえくぼ": {
+      "id": 2089340,
+      "form": "痘痕もえくぼ",
+      "kana": "あばたもえくぼ",
+      "gloss": "love is blind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "痕": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2212940/痘痕/いも": {
+      "id": 2212940,
+      "form": "痘痕",
+      "kana": "いも",
+      "gloss": "smallpox",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "痕": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2089340/痘痕もエクボ/あばたもえくぼ": {
+      "id": 2089340,
+      "form": "痘痕もエクボ",
+      "kana": "あばたもえくぼ",
+      "gloss": "love is blind",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "痕": 7
+      },
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1328850:種痘:しゅとう",
+      "form": "種痘",
+      "kana": "しゅとう",
+      "cue": "smallpox vaccination; inoculation against smallpox",
+      "ids": [
+        1328850
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 114790,
+        "tubelex": 101749,
+        "wordfreq": 127540
+      },
+      "alternatives_by_kanji": {
+        "種": [
+          "1328890/種類/しゅるい",
+          "1368020/人種/じんしゅ",
+          "1490620/品種/ひんしゅ"
+        ],
+        "痘": [
+          "1371900/水痘/すいとう",
+          "1439670/天然痘/てんねんとう",
+          "1231570/牛痘/ぎゅうとう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 8
+}

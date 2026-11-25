@@ -1,0 +1,1292 @@
+{
+  "character": "朝",
+  "grade": 2,
+  "meanings": [
+    "morning",
+    "dynasty",
+    "regime",
+    "epoch",
+    "period",
+    "(North) Korea"
+  ],
+  "strokes": [
+    12
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 74
+    },
+    {
+      "type": "nelson_c",
+      "value": 130
+    }
+  ],
+  "components": [
+    "月",
+    "十",
+    "日"
+  ],
+  "on": [
+    "チョウ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "あさ",
+      "stem": "あさ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "あ",
+    "あそ",
+    "ささ",
+    "ちか",
+    "とも"
+  ],
+  "government": {
+    "kanji": "朝",
+    "heading": "朝",
+    "readings": [
+      "チョウ",
+      "あさ"
+    ],
+    "examples_by_reading": [
+      [
+        "朝食",
+        "早朝",
+        "今朝"
+      ],
+      [
+        "朝",
+        "朝日",
+        "毎朝"
+      ]
+    ],
+    "note_lines": [
+      "今朝（けさ）"
+    ],
+    "representative_index": {
+      "kanji": "朝",
+      "reading": "チョウ",
+      "source": "table_17_ti.html"
+    }
+  },
+  "supplementary": [
+    {
+      "forms": [
+        "今朝"
+      ],
+      "reading": "けさ",
+      "stage": "elementary",
+      "pdf_page": 51,
+      "appendix": 1
+    }
+  ],
+  "readings": [
+    {
+      "reading": "チョウ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 131,
+      "frequent_unflagged_examples": 5,
+      "current_support": true,
+      "candidates": [
+        "1400330/早朝/そうちょう",
+        "1579100/今朝/こんちょう",
+        "1524700/毎朝/まいちょう",
+        "1428390/朝食/ちょうしょく",
+        "1428285/朝/ちょう",
+        "1428420/朝鮮/ちょうせん",
+        "1521200/北朝鮮/きたちょうせん",
+        "1428490/朝廷/ちょうてい",
+        "1181630/王朝/おうちょう",
+        "1428320/朝刊/ちょうかん"
+      ]
+    },
+    {
+      "reading": "あさ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 85,
+      "frequent_unflagged_examples": 4,
+      "current_support": true,
+      "candidates": [
+        "1524700/毎朝/まいあさ",
+        "1428280/朝/あさ",
+        "2857350/朝/あした",
+        "1428500/朝日/あさひ",
+        "5524809/朝日/あさひ",
+        "2856154/朝日/あさひ",
+        "1585000/翌朝/よくあさ",
+        "1581780/朝飯/あさめし",
+        "1428530/朝方/あさがた",
+        "1428520/朝晩/あさばん"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1400330/早朝/そうちょう",
+    "1524700/毎朝/まいあさ",
+    "1579100/今朝/こんちょう",
+    "1524700/毎朝/まいちょう",
+    "1428280/朝/あさ",
+    "1428390/朝食/ちょうしょく",
+    "1428285/朝/ちょう",
+    "2857350/朝/あした",
+    "1428500/朝日/あさひ",
+    "5524809/朝日/あさひ",
+    "2856154/朝日/あさひ",
+    "1428420/朝鮮/ちょうせん",
+    "1521200/北朝鮮/きたちょうせん",
+    "1585000/翌朝/よくあさ",
+    "1428490/朝廷/ちょうてい",
+    "1581780/朝飯/あさめし",
+    "1181630/王朝/おうちょう",
+    "1428530/朝方/あさがた",
+    "1428520/朝晩/あさばん",
+    "1428550/朝夕/あさゆう",
+    "1428320/朝刊/ちょうかん",
+    "1164840/一朝/いっちょう",
+    "1428580/朝礼/ちょうれい",
+    "1428290/朝っぱら/あさっぱら",
+    "1428400/朝寝/あさね",
+    "1428380/朝焼け/あさやけ",
+    "1428370/朝市/あさいち",
+    "1460450/南朝/なんちょう",
+    "1522990/本朝/ほんちょう",
+    "1750680/清朝/しんちょう"
+  ],
+  "candidates": {
+    "1400330/早朝/そうちょう": {
+      "id": 1400330,
+      "form": "早朝",
+      "kana": "そうちょう",
+      "gloss": "early morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        4946,
+        8001,
+        6779,
+        5359
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "早": 1
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1524700/毎朝/まいあさ": {
+      "id": 1524700,
+      "form": "毎朝",
+      "kana": "まいあさ",
+      "gloss": "every morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        4252,
+        8610,
+        8301,
+        5266
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "毎": 2
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あさ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1579100/今朝/こんちょう": {
+      "id": 1579100,
+      "form": "今朝",
+      "kana": "こんちょう",
+      "gloss": "this morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        1112,
+        5034,
+        4261,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "今": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1524700/毎朝/まいちょう": {
+      "id": 1524700,
+      "form": "毎朝",
+      "kana": "まいちょう",
+      "gloss": "every morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        4252,
+        8610,
+        8301,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "毎": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あさ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1428280/朝/あさ": {
+      "id": 1428280,
+      "form": "朝",
+      "kana": "あさ",
+      "gloss": "morning",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        472
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あさ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1428390/朝食/ちょうしょく": {
+      "id": 1428390,
+      "form": "朝食",
+      "kana": "ちょうしょく",
+      "gloss": "breakfast",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        3348
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "食": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "チョウ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1428285/朝/ちょう": {
+      "id": 1428285,
+      "form": "朝",
+      "kana": "ちょう",
+      "gloss": "dynasty",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "n-suf"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        31412
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あさ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2857350/朝/あした": {
+      "id": 2857350,
+      "form": "朝",
+      "kana": "あした",
+      "gloss": "morning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        215823
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あさ": {
+          "actual": "あした",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "あさ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1428500/朝日/あさひ": {
+      "id": 1428500,
+      "form": "朝日",
+      "kana": "あさひ",
+      "gloss": "morning sun",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あさ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "5524809/朝日/あさひ": {
+      "id": 5524809,
+      "form": "朝日",
+      "kana": "あさひ",
+      "gloss": "Asahi",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あさ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "2856154/朝日/あさひ": {
+      "id": 2856154,
+      "form": "朝日",
+      "kana": "あさひ",
+      "gloss": "McIntosh (apple)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "日": 1
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [
+        "あさ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1428420/朝鮮/ちょうせん": {
+      "id": 1428420,
+      "form": "朝鮮",
+      "kana": "ちょうせん",
+      "gloss": "Korea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2730,
+        4111,
+        3531,
+        38919
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鮮": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1521200/北朝鮮/きたちょうせん": {
+      "id": 1521200,
+      "form": "北朝鮮",
+      "kana": "きたちょうせん",
+      "gloss": "North Korea",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        8816,
+        3722,
+        3315,
+        63256
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "北": 2,
+        "鮮": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1585000/翌朝/よくあさ": {
+      "id": 1585000,
+      "form": "翌朝",
+      "kana": "よくあさ",
+      "gloss": "next morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        3960,
+        10753,
+        13682,
+        5958
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "翌": 6
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1428490/朝廷/ちょうてい": {
+      "id": 1428490,
+      "form": "朝廷",
+      "kana": "ちょうてい",
+      "gloss": "Imperial Court",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3074,
+        15564,
+        26068,
+        36813
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "廷": 7
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1581780/朝飯/あさめし": {
+      "id": 1581780,
+      "form": "朝飯",
+      "kana": "あさめし",
+      "gloss": "breakfast",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6540,
+        21302,
+        17976,
+        12663
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "飯": 4
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1181630/王朝/おうちょう": {
+      "id": 1181630,
+      "form": "王朝",
+      "kana": "おうちょう",
+      "gloss": "dynasty",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13342,
+        10051,
+        13281,
+        33052
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "王": 1
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428530/朝方/あさがた": {
+      "id": 1428530,
+      "form": "朝方",
+      "kana": "あさがた",
+      "gloss": "early morning",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        17691,
+        15973,
+        17002,
+        18810
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "方": 2
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428520/朝晩/あさばん": {
+      "id": 1428520,
+      "form": "朝晩",
+      "kana": "あさばん",
+      "gloss": "morning and evening",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        14007,
+        21507,
+        29854,
+        33106
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "晩": 6
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428550/朝夕/あさゆう": {
+      "id": 1428550,
+      "form": "朝夕",
+      "kana": "あさゆう",
+      "gloss": "morning and evening",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13151,
+        25211,
+        33710,
+        36898
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "夕": 1
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428320/朝刊/ちょうかん": {
+      "id": 1428320,
+      "form": "朝刊",
+      "kana": "ちょうかん",
+      "gloss": "morning edition (of a daily newspaper)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20251,
+        36283,
+        19040,
+        32826
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "刊": 5
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1164840/一朝/いっちょう": {
+      "id": 1164840,
+      "form": "一朝",
+      "kana": "いっちょう",
+      "gloss": "temporarily",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "flags": [],
+      "ranks": [
+        10391,
+        35006,
+        119612,
+        75732
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "一": 1
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428580/朝礼/ちょうれい": {
+      "id": 1428580,
+      "form": "朝礼",
+      "kana": "ちょうれい",
+      "gloss": "morning assembly (at a company, school, etc.)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22633,
+        20620,
+        31791,
+        26962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "礼": 3
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428290/朝っぱら/あさっぱら": {
+      "id": 1428290,
+      "form": "朝っぱら",
+      "kana": "あさっぱら",
+      "gloss": "early morning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15926,
+        34549,
+        35359,
+        58005
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428400/朝寝/あさね": {
+      "id": 1428400,
+      "form": "朝寝",
+      "kana": "あさね",
+      "gloss": "sleeping late in the morning",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        11535,
+        49441,
+        82481,
+        67015
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "寝": 7
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428380/朝焼け/あさやけ": {
+      "id": 1428380,
+      "form": "朝焼け",
+      "kana": "あさやけ",
+      "gloss": "morning glow",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23475,
+        27428,
+        38431,
+        29911
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "焼": 4
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1428370/朝市/あさいち": {
+      "id": 1428370,
+      "form": "朝市",
+      "kana": "あさいち",
+      "gloss": "morning market",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22632,
+        26254,
+        39764,
+        54679
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "市": 2
+      },
+      "matched": {
+        "あさ": {
+          "actual": "あさ",
+          "dictionary": [
+            "あさ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1460450/南朝/なんちょう": {
+      "id": 1460450,
+      "form": "南朝",
+      "kana": "なんちょう",
+      "gloss": "Southern Court (of Japan; 1336-1392)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        15528,
+        59850,
+        53182,
+        116371
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "南": 2
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1522990/本朝/ほんちょう": {
+      "id": 1522990,
+      "form": "本朝",
+      "kana": "ほんちょう",
+      "gloss": "this land",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13278,
+        139593,
+        106463,
+        107104
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1750680/清朝/しんちょう": {
+      "id": 1750680,
+      "form": "清朝",
+      "kana": "しんちょう",
+      "gloss": "Qing dynasty (of China; 1644-1912)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31988,
+        41831,
+        42960,
+        98311
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "清": 4
+      },
+      "matched": {
+        "チョウ": {
+          "actual": "ちょう",
+          "dictionary": [
+            "チョウ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1428500:朝日:あさひ",
+      "form": "朝日",
+      "kana": "あさひ",
+      "cue": "morning sun",
+      "ids": [
+        1428500,
+        2856154,
+        5524809
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "dictionary identity needs review",
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 6700,
+        "shiberu": 2133,
+        "tubelex": 3280,
+        "wordfreq": 4192
+      },
+      "alternatives_by_kanji": {
+        "日": [
+          "1524720/毎日/まいにち",
+          "1228040/休日/きゅうじつ",
+          "1507720/平日/へいじつ"
+        ],
+        "朝": [
+          "1400330/早朝/そうちょう",
+          "1524700/毎朝/まいあさ",
+          "1579100/今朝/こんちょう"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1521200:北朝鮮:きたちょうせん",
+      "form": "北朝鮮",
+      "kana": "きたちょうせん",
+      "cue": "North Korea",
+      "ids": [
+        1521200
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 63256,
+        "shiberu": 8816,
+        "tubelex": 3722,
+        "wordfreq": 3315
+      },
+      "alternatives_by_kanji": {
+        "朝": [
+          "1400330/早朝/そうちょう",
+          "1524700/毎朝/まいあさ",
+          "1579100/今朝/こんちょう"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 31
+}

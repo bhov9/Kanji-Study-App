@@ -1,0 +1,694 @@
+{
+  "character": "僅",
+  "grade": 7,
+  "meanings": [
+    "a wee bit"
+  ],
+  "strokes": [
+    12,
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 9
+    }
+  ],
+  "components": [
+    "化",
+    "土",
+    "艾",
+    "口",
+    "二",
+    "一"
+  ],
+  "on": [
+    "キン",
+    "ゴン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "わず.か",
+      "stem": "わず",
+      "okurigana": "か"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "僅",
+    "heading": "僅",
+    "readings": [
+      "キン",
+      "わずか"
+    ],
+    "examples_by_reading": [
+      [
+        "僅差"
+      ],
+      [
+        "僅かだ"
+      ]
+    ],
+    "note_lines": [
+      "＊［（付）第２の３参照］"
+    ],
+    "representative_index": {
+      "kanji": "僅",
+      "reading": "キン",
+      "source": "table_07_ki.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "キン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1240760/僅差/きんさ",
+        "1240770/僅少/きんしょう",
+        "1592000/僅々/きんきん",
+        "1592000/僅僅/きんきん",
+        "1240780/僅少差/きんしょうさ"
+      ]
+    },
+    {
+      "reading": "わずか",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 8,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "2839194/残り僅か/のこりわずか",
+        "2418390/人生僅か五十年/じんせいわずかごじゅうねん",
+        "1240750/僅か/わずか",
+        "2766730/ほんの僅か/ほんのわずか",
+        "2851065/僅かながら/わずかながら",
+        "2615460/ごく僅か/ごくわずか",
+        "2502400/僅かに/わずかに",
+        "2615460/極僅か/ごくわずか",
+        "2839168/僅かしか/わずかしか"
+      ]
+    },
+    {
+      "reading": "ゴン",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 0,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": []
+    }
+  ],
+  "handwriting_candidates": [
+    "1240760/僅差/きんさ",
+    "1240770/僅少/きんしょう",
+    "1592000/僅々/きんきん",
+    "2839194/残り僅か/のこりわずか",
+    "1592000/僅僅/きんきん",
+    "2418390/人生僅か五十年/じんせいわずかごじゅうねん",
+    "1240780/僅少差/きんしょうさ",
+    "1240750/僅か/わずか",
+    "2766730/ほんの僅か/ほんのわずか",
+    "2851065/僅かながら/わずかながら",
+    "2615460/ごく僅か/ごくわずか",
+    "2502400/僅かに/わずかに",
+    "2615460/極僅か/ごくわずか",
+    "2839168/僅かしか/わずかしか",
+    "2502400/僅に/わずかに"
+  ],
+  "candidates": {
+    "1240760/僅差/きんさ": {
+      "id": 1240760,
+      "form": "僅差",
+      "kana": "きんさ",
+      "gloss": "narrow margin",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30677,
+        20245,
+        23842,
+        31619
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "差": 4
+      },
+      "matched": {
+        "キン": {
+          "actual": "きん",
+          "dictionary": [
+            "キン"
+          ]
+        }
+      },
+      "official_examples": [
+        "キン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1240770/僅少/きんしょう": {
+      "id": 1240770,
+      "form": "僅少",
+      "kana": "きんしょう",
+      "gloss": "a little",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adj-no",
+        "adj-na",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        24963,
+        89646,
+        60579,
+        103232
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "少": 2
+      },
+      "matched": {
+        "キン": {
+          "actual": "きん",
+          "dictionary": [
+            "キン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592000/僅々/きんきん": {
+      "id": 1592000,
+      "form": "僅々",
+      "kana": "きんきん",
+      "gloss": "only",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv",
+        "adj-t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        95069,
+        null,
+        164193
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キン": {
+          "actual": "きん",
+          "dictionary": [
+            "キン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2839194/残り僅か/のこりわずか": {
+      "id": 2839194,
+      "form": "残り僅か",
+      "kana": "のこりわずか",
+      "gloss": "(with) only a few left",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-na"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        42429
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "残": 4
+      },
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1592000/僅僅/きんきん": {
+      "id": 1592000,
+      "form": "僅僅",
+      "kana": "きんきん",
+      "gloss": "only",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "adv",
+        "adj-t"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        318290
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "キン": {
+          "actual": "きん",
+          "dictionary": [
+            "キン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2418390/人生僅か五十年/じんせいわずかごじゅうねん": {
+      "id": 2418390,
+      "form": "人生僅か五十年",
+      "kana": "じんせいわずかごじゅうねん",
+      "gloss": "life is short",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "生": 1,
+        "五": 1,
+        "年": 1,
+        "人": 1,
+        "十": 1
+      },
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1240780/僅少差/きんしょうさ": {
+      "id": 1240780,
+      "form": "僅少差",
+      "kana": "きんしょうさ",
+      "gloss": "narrow majority",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "差": 4,
+        "少": 2
+      },
+      "matched": {
+        "キン": {
+          "actual": "きん",
+          "dictionary": [
+            "キン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1240750/僅か/わずか": {
+      "id": 1240750,
+      "form": "僅か",
+      "kana": "わずか",
+      "gloss": "a little",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        3473,
+        2494,
+        8031,
+        5222
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2766730/ほんの僅か/ほんのわずか": {
+      "id": 2766730,
+      "form": "ほんの僅か",
+      "kana": "ほんのわずか",
+      "gloss": "small amount",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "n",
+        "adj-na",
+        "adj-no"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        18910
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2851065/僅かながら/わずかながら": {
+      "id": 2851065,
+      "form": "僅かながら",
+      "kana": "わずかながら",
+      "gloss": "only slightly",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        35400
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2615460/ごく僅か/ごくわずか": {
+      "id": 2615460,
+      "form": "ごく僅か",
+      "kana": "ごくわずか",
+      "gloss": "derisory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-na"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        38869
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2502400/僅かに/わずかに": {
+      "id": 2502400,
+      "form": "僅かに",
+      "kana": "わずかに",
+      "gloss": "slightly",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        40480
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2615460/極僅か/ごくわずか": {
+      "id": 2615460,
+      "form": "極僅か",
+      "kana": "ごくわずか",
+      "gloss": "derisory",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "adj-na"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        81722
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "極": 4
+      },
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2839168/僅かしか/わずかしか": {
+      "id": 2839168,
+      "form": "僅かしか",
+      "kana": "わずかしか",
+      "gloss": "(nothing) but a little",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        95142
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "わずか": {
+          "actual": "わず",
+          "dictionary": [
+            "わず.か"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    },
+    "2502400/僅に/わずかに": {
+      "id": 2502400,
+      "form": "僅に",
+      "kana": "わずかに",
+      "gloss": "slightly",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": false,
+      "pos": [
+        "adv"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        257771
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {},
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1240750:僅か:わずか",
+      "form": "僅か",
+      "kana": "わずか",
+      "cue": "a little; a few",
+      "ids": [
+        1240750
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "uk"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 5222,
+        "shiberu": 3473,
+        "tubelex": 2494,
+        "wordfreq": 8031
+      },
+      "alternatives_by_kanji": {
+        "僅": [
+          "1240760/僅差/きんさ",
+          "1240770/僅少/きんしょう",
+          "1592000/僅々/きんきん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 1
+}

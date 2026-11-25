@@ -1,0 +1,1424 @@
+{
+  "character": "炭",
+  "grade": 3,
+  "meanings": [
+    "charcoal",
+    "coal"
+  ],
+  "strokes": [
+    9
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 86
+    },
+    {
+      "type": "nelson_c",
+      "value": 46
+    }
+  ],
+  "components": [
+    "火",
+    "山",
+    "厂"
+  ],
+  "on": [
+    "タン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "すみ",
+      "stem": "すみ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "炭",
+    "heading": "炭",
+    "readings": [
+      "タン",
+      "すみ"
+    ],
+    "examples_by_reading": [
+      [
+        "炭鉱",
+        "木炭",
+        "石炭"
+      ],
+      [
+        "炭",
+        "炭火",
+        "消し炭"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "炭",
+      "reading": "タン",
+      "source": "table_16_ta.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "タン",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 142,
+      "frequent_unflagged_examples": 2,
+      "current_support": true,
+      "candidates": [
+        "1382700/石炭/せきたん",
+        "1597260/炭鉱/たんこう",
+        "1534750/木炭/もくたん",
+        "1382700/石炭/いしずみ",
+        "1534750/木炭/きずみ",
+        "1418570/炭素/たんそ",
+        "1597260/炭坑/たんこう",
+        "1436990/泥炭/でいたん",
+        "1365030/薪炭/しんたん",
+        "2865733/脱炭/だったん"
+      ]
+    },
+    {
+      "reading": "すみ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 14,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1837240/炭火/すみび",
+        "2856499/炭屋/すみや",
+        "1837290/炭焼き/すみやき",
+        "1837340/炭窯/すみがま",
+        "2825851/竹炭/たけすみ",
+        "1837290/炭焼/すみやき",
+        "1418610/炭俵/すみだわら",
+        "1942050/炭取り/すみとり",
+        "2805410/炭火焼き/すみびやき",
+        "2805410/炭火焼/すみびやき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1382700/石炭/せきたん",
+    "1597260/炭鉱/たんこう",
+    "1837240/炭火/すみび",
+    "1534750/木炭/もくたん",
+    "1382700/石炭/いしずみ",
+    "1534750/木炭/きずみ",
+    "1418570/炭素/たんそ",
+    "1597260/炭坑/たんこう",
+    "1436990/泥炭/でいたん",
+    "1365030/薪炭/しんたん",
+    "2856499/炭屋/すみや",
+    "2865733/脱炭/だったん",
+    "1418490/炭化/たんか",
+    "1837290/炭焼き/すみやき",
+    "1644160/練炭/れんたん",
+    "2680300/炭疽/たんそ",
+    "1661270/炭田/たんでん",
+    "1692220/豆炭/まめたん",
+    "1208820/褐炭/かったん",
+    "1444300/塗炭/とたん",
+    "1837340/炭窯/すみがま",
+    "1418600/炭層/たんそう",
+    "1294840/採炭/さいたん",
+    "1149810/亜炭/あたん",
+    "1418560/炭水化物/たんすいかぶつ",
+    "1461820/二酸化炭素/にさんかたんそ",
+    "2825851/竹炭/たけすみ",
+    "1208350/活性炭/かっせいたん",
+    "1837290/炭焼/すみやき",
+    "1649510/粉炭/ふんたん"
+  ],
+  "candidates": {
+    "1382700/石炭/せきたん": {
+      "id": 1382700,
+      "form": "石炭",
+      "kana": "せきたん",
+      "gloss": "coal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4139,
+        6462,
+        13281,
+        31514
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1597260/炭鉱/たんこう": {
+      "id": 1597260,
+      "form": "炭鉱",
+      "kana": "たんこう",
+      "gloss": "coal mine",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        20300,
+        16196,
+        17751,
+        43068
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "鉱": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1837240/炭火/すみび": {
+      "id": 1837240,
+      "form": "炭火",
+      "kana": "すみび",
+      "gloss": "charcoal fire",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        26049,
+        18183,
+        27689,
+        39106
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "火": 1
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [
+        "すみ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1534750/木炭/もくたん": {
+      "id": 1534750,
+      "form": "木炭",
+      "kana": "もくたん",
+      "gloss": "charcoal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23834,
+        21120,
+        38431,
+        42620
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1382700/石炭/いしずみ": {
+      "id": 1382700,
+      "form": "石炭",
+      "kana": "いしずみ",
+      "gloss": "coal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4139,
+        6462,
+        13281,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "石": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "ずみ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1534750/木炭/きずみ": {
+      "id": 1534750,
+      "form": "木炭",
+      "kana": "きずみ",
+      "gloss": "charcoal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23834,
+        21120,
+        38431,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "木": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "ずみ",
+          "dictionary": [],
+          "basis": "official example; phonological difference requires review"
+        }
+      },
+      "official_examples": [
+        "タン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1418570/炭素/たんそ": {
+      "id": 1418570,
+      "form": "炭素",
+      "kana": "たんそ",
+      "gloss": "carbon (C)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4925,
+        5436,
+        11030,
+        42365
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "素": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1597260/炭坑/たんこう": {
+      "id": 1597260,
+      "form": "炭坑",
+      "kana": "たんこう",
+      "gloss": "coal mine",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14091,
+        55605,
+        54233,
+        69216
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "坑": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1436990/泥炭/でいたん": {
+      "id": 1436990,
+      "form": "泥炭",
+      "kana": "でいたん",
+      "gloss": "peat",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        33454,
+        38018,
+        69479,
+        98328
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "泥": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1365030/薪炭/しんたん": {
+      "id": 1365030,
+      "form": "薪炭",
+      "kana": "しんたん",
+      "gloss": "wood and charcoal",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        37552,
+        78424,
+        120731,
+        134185
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "薪": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2856499/炭屋/すみや": {
+      "id": 2856499,
+      "form": "炭屋",
+      "kana": "すみや",
+      "gloss": "charcoal dealer",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        40469,
+        75655,
+        194337,
+        132439
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "屋": 3
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2865733/脱炭/だったん": {
+      "id": 2865733,
+      "form": "脱炭",
+      "kana": "だったん",
+      "gloss": "decarburization",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        36908,
+        13819,
+        null,
+        361026
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "脱": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418490/炭化/たんか": {
+      "id": 1418490,
+      "form": "炭化",
+      "kana": "たんか",
+      "gloss": "carbonization",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        33644,
+        32548,
+        34882
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "化": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1837290/炭焼き/すみやき": {
+      "id": 1837290,
+      "form": "炭焼き",
+      "kana": "すみやき",
+      "gloss": "charcoal making",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        31203,
+        54233,
+        63277
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "焼": 4
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1644160/練炭/れんたん": {
+      "id": 1644160,
+      "form": "練炭",
+      "kana": "れんたん",
+      "gloss": "briquette (charcoal or coal)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        42628,
+        50386,
+        78091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "練": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2680300/炭疽/たんそ": {
+      "id": 2680300,
+      "form": "炭疽",
+      "kana": "たんそ",
+      "gloss": "anthrax",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        47007,
+        44849,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1661270/炭田/たんでん": {
+      "id": 1661270,
+      "form": "炭田",
+      "kana": "たんでん",
+      "gloss": "coalfield",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        75655,
+        111325,
+        163953
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "田": 1
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1692220/豆炭/まめたん": {
+      "id": 1692220,
+      "form": "豆炭",
+      "kana": "まめたん",
+      "gloss": "(oval) charcoal briquette",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        140911,
+        219495
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "豆": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1208820/褐炭/かったん": {
+      "id": 1208820,
+      "form": "褐炭",
+      "kana": "かったん",
+      "gloss": "brown coal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        85382,
+        151646,
+        290667
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "褐": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1444300/塗炭/とたん": {
+      "id": 1444300,
+      "form": "塗炭",
+      "kana": "とたん",
+      "gloss": "misery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        121818,
+        142244,
+        168713
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "塗": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1837340/炭窯/すみがま": {
+      "id": 1837340,
+      "form": "炭窯",
+      "kana": "すみがま",
+      "gloss": "charcoal kiln",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        163107,
+        192421
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "窯": 7
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418600/炭層/たんそう": {
+      "id": 1418600,
+      "form": "炭層",
+      "kana": "たんそう",
+      "gloss": "coal seam",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        142244,
+        268647
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "層": 6
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1294840/採炭/さいたん": {
+      "id": 1294840,
+      "form": "採炭",
+      "kana": "さいたん",
+      "gloss": "coal mining",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        166230,
+        192560
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "採": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1149810/亜炭/あたん": {
+      "id": 1149810,
+      "form": "亜炭",
+      "kana": "あたん",
+      "gloss": "lignite",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        203403,
+        344398
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "亜": 7
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418560/炭水化物/たんすいかぶつ": {
+      "id": 1418560,
+      "form": "炭水化物",
+      "kana": "たんすいかぶつ",
+      "gloss": "carbohydrate",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        11030,
+        34208
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "水": 1,
+        "化": 3
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1461820/二酸化炭素/にさんかたんそ": {
+      "id": 1461820,
+      "form": "二酸化炭素",
+      "kana": "にさんかたんそ",
+      "gloss": "carbon dioxide",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        13462,
+        34221
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "二": 1,
+        "素": 5,
+        "化": 3,
+        "酸": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2825851/竹炭/たけすみ": {
+      "id": 2825851,
+      "form": "竹炭",
+      "kana": "たけすみ",
+      "gloss": "bamboo charcoal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        null,
+        144389
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "竹": 1
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1208350/活性炭/かっせいたん": {
+      "id": 1208350,
+      "form": "活性炭",
+      "kana": "かっせいたん",
+      "gloss": "activated carbon",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        59987,
+        143962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "活": 2,
+        "性": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1837290/炭焼/すみやき": {
+      "id": 1837290,
+      "form": "炭焼",
+      "kana": "すみやき",
+      "gloss": "charcoal making",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        77923,
+        140011
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "焼": 4
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1649510/粉炭/ふんたん": {
+      "id": 1649510,
+      "form": "粉炭",
+      "kana": "ふんたん",
+      "gloss": "powdered coal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        73159,
+        null,
+        217672
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "粉": 5
+      },
+      "matched": {
+        "タン": {
+          "actual": "たん",
+          "dictionary": [
+            "タン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1418610/炭俵/すみだわら": {
+      "id": 1418610,
+      "form": "炭俵",
+      "kana": "すみだわら",
+      "gloss": "sack for charcoal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        78424,
+        null,
+        145699
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "俵": 6
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1942050/炭取り/すみとり": {
+      "id": 1942050,
+      "form": "炭取り",
+      "kana": "すみとり",
+      "gloss": "charcoal scuttle",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        89646,
+        null,
+        258918
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "取": 3
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2805410/炭火焼き/すみびやき": {
+      "id": 2805410,
+      "form": "炭火焼き",
+      "kana": "すみびやき",
+      "gloss": "charcoal grilling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        83212
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "焼": 4,
+        "火": 1
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2805410/炭火焼/すみびやき": {
+      "id": 2805410,
+      "form": "炭火焼",
+      "kana": "すみびやき",
+      "gloss": "charcoal grilling",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        131835
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "焼": 4,
+        "火": 1
+      },
+      "matched": {
+        "すみ": {
+          "actual": "すみ",
+          "dictionary": [
+            "すみ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1382700:石炭:せきたん",
+      "form": "石炭",
+      "kana": "せきたん",
+      "cue": "coal",
+      "ids": [
+        1382700
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 31514,
+        "shiberu": 4139,
+        "tubelex": 6462,
+        "wordfreq": 13281
+      },
+      "alternatives_by_kanji": {
+        "石": [
+          "1516220/宝石/ほうせき",
+          "1317080/磁石/じしゃく",
+          "1217360/岩石/がんせき"
+        ],
+        "炭": [
+          "1597260/炭鉱/たんこう",
+          "1837240/炭火/すみび",
+          "1534750/木炭/もくたん"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1597260:炭坑:たんこう",
+      "form": "炭坑",
+      "kana": "たんこう",
+      "cue": "coal mine; (coal) pit",
+      "ids": [
+        1597260
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 69216,
+        "shiberu": 14091,
+        "tubelex": 55605,
+        "wordfreq": 54233
+      },
+      "alternatives_by_kanji": {
+        "炭": [
+          "1382700/石炭/せきたん",
+          "1597260/炭鉱/たんこう",
+          "1837240/炭火/すみび"
+        ]
+      }
+    },
+    {
+      "wordId": "jmdict:1597260:炭鉱:たんこう",
+      "form": "炭鉱",
+      "kana": "たんこう",
+      "cue": "coal mine; (coal) pit",
+      "ids": [
+        1597260
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 43068,
+        "shiberu": 20300,
+        "tubelex": 16196,
+        "wordfreq": 17751
+      },
+      "alternatives_by_kanji": {
+        "炭": [
+          "1382700/石炭/せきたん",
+          "1837240/炭火/すみび",
+          "1534750/木炭/もくたん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 41
+}

@@ -1,0 +1,1289 @@
+{
+  "character": "視",
+  "grade": 6,
+  "meanings": [
+    "inspection",
+    "regard as",
+    "see",
+    "look at"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 147
+    },
+    {
+      "type": "nelson_c",
+      "value": 113
+    }
+  ],
+  "components": [
+    "見",
+    "礼"
+  ],
+  "on": [
+    "シ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "み.る",
+      "stem": "み",
+      "okurigana": "る"
+    }
+  ],
+  "nanori": [
+    "とも",
+    "み"
+  ],
+  "government": {
+    "kanji": "視",
+    "heading": "視（視）",
+    "readings": [
+      "シ"
+    ],
+    "examples_by_reading": [
+      [
+        "視覚",
+        "視力",
+        "注視"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "視",
+      "reading": "シ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "シ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 259,
+      "frequent_unflagged_examples": 9,
+      "current_support": true,
+      "candidates": [
+        "1312010/視覚/しかく",
+        "1312150/視力/しりょく",
+        "1616640/注視/ちゅうし",
+        "1312070/視聴/しちょう",
+        "1530020/無視/むし",
+        "1213680/監視/かんし",
+        "1312130/視点/してん",
+        "1312060/視線/しせん",
+        "1336260/重視/じゅうし",
+        "2257780/視/し"
+      ]
+    },
+    {
+      "reading": "みる",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1259290/視る/みる"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1312010/視覚/しかく",
+    "1312150/視力/しりょく",
+    "1616640/注視/ちゅうし",
+    "1312070/視聴/しちょう",
+    "1530020/無視/むし",
+    "1213680/監視/かんし",
+    "1312130/視点/してん",
+    "1312060/視線/しせん",
+    "1336260/重視/じゅうし",
+    "2257780/視/し",
+    "1312000/視界/しかい",
+    "1312140/視野/しや",
+    "1252440/警視/けいし",
+    "1312040/視察/しさつ",
+    "1190820/可視/かし",
+    "1252710/軽視/けいし",
+    "1450560/透視/とうし",
+    "1430980/直視/ちょくし",
+    "2017950/目視/もくし",
+    "1239160/凝視/ぎょうし",
+    "1437130/敵視/てきし",
+    "1342120/巡視/じゅんし",
+    "1242320/近視/きんし",
+    "1510290/蔑視/べっし",
+    "2855481/検視/けんし",
+    "1549000/乱視/らんし",
+    "1853650/視床/ししょう",
+    "1312080/視聴覚/しちょうかく",
+    "1262940/幻視/げんし",
+    "1322440/斜視/しゃし"
+  ],
+  "candidates": {
+    "1312010/視覚/しかく": {
+      "id": 1312010,
+      "form": "視覚",
+      "kana": "しかく",
+      "gloss": "(sense of) sight",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9785,
+        5856,
+        7509,
+        9498
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "覚": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1312150/視力/しりょく": {
+      "id": 1312150,
+      "form": "視力",
+      "kana": "しりょく",
+      "gloss": "eyesight",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6985,
+        10064,
+        9454,
+        9402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "力": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1616640/注視/ちゅうし": {
+      "id": 1616640,
+      "form": "注視",
+      "kana": "ちゅうし",
+      "gloss": "gazing steadily at",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        15841,
+        13699,
+        22895,
+        12170
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "注": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [
+        "シ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1312070/視聴/しちょう": {
+      "id": 1312070,
+      "form": "視聴",
+      "kana": "しちょう",
+      "gloss": "looking and listening",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        9380,
+        372,
+        1504,
+        22280
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "聴": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1530020/無視/むし": {
+      "id": 1530020,
+      "form": "無視",
+      "kana": "むし",
+      "gloss": "disregarding",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        1940,
+        2468,
+        2190,
+        1114
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "無": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1213680/監視/かんし": {
+      "id": 1213680,
+      "form": "監視",
+      "kana": "かんし",
+      "gloss": "monitoring",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        4155,
+        3675,
+        2336,
+        2541
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "監": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1312130/視点/してん": {
+      "id": 1312130,
+      "form": "視点",
+      "kana": "してん",
+      "gloss": "point of view",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6159,
+        2079,
+        3454,
+        5498
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "点": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312060/視線/しせん": {
+      "id": 1312060,
+      "form": "視線",
+      "kana": "しせん",
+      "gloss": "one's line of sight",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        3157,
+        4588,
+        6894,
+        1517
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "線": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1336260/重視/じゅうし": {
+      "id": 1336260,
+      "form": "重視",
+      "kana": "じゅうし",
+      "gloss": "regarding as important",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3936,
+        3274,
+        3663,
+        6684
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "重": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "2257780/視/し": {
+      "id": 2257780,
+      "form": "視",
+      "kana": "し",
+      "gloss": "viewing as ...",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "suf"
+      ],
+      "flags": [],
+      "ranks": [
+        4075,
+        4828,
+        2625,
+        22456
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312000/視界/しかい": {
+      "id": 1312000,
+      "form": "視界",
+      "kana": "しかい",
+      "gloss": "field of vision",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10481,
+        5549,
+        8611,
+        2310
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "界": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1312140/視野/しや": {
+      "id": 1312140,
+      "form": "視野",
+      "kana": "しや",
+      "gloss": "field of vision",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        6221,
+        5371,
+        7753,
+        9440
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "野": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252440/警視/けいし": {
+      "id": 1252440,
+      "form": "警視",
+      "kana": "けいし",
+      "gloss": "police superintendent",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        2654,
+        13050,
+        19596,
+        46768
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "警": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312040/視察/しさつ": {
+      "id": 1312040,
+      "form": "視察",
+      "kana": "しさつ",
+      "gloss": "inspection",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        6711,
+        10157,
+        10372,
+        10275
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "察": 4
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1190820/可視/かし": {
+      "id": 1190820,
+      "form": "可視",
+      "kana": "かし",
+      "gloss": "visibility",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        16939,
+        7479,
+        12275,
+        66867
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "可": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1252710/軽視/けいし": {
+      "id": 1252710,
+      "form": "軽視",
+      "kana": "けいし",
+      "gloss": "making light of",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        7896,
+        19862,
+        17002,
+        23091
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "軽": 3
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1450560/透視/とうし": {
+      "id": 1450560,
+      "form": "透視",
+      "kana": "とうし",
+      "gloss": "seeing through",
+      "senses": [
+        0,
+        1,
+        2
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        18136,
+        15778,
+        16272,
+        28637
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "透": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1430980/直視/ちょくし": {
+      "id": 1430980,
+      "form": "直視",
+      "kana": "ちょくし",
+      "gloss": "taking a straight look at something",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        22167,
+        21923,
+        17976,
+        8640
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "直": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2017950/目視/もくし": {
+      "id": 2017950,
+      "form": "目視",
+      "kana": "もくし",
+      "gloss": "seeing (with the naked eye)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28779,
+        12928,
+        20890,
+        17839
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "目": 1
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1239160/凝視/ぎょうし": {
+      "id": 1239160,
+      "form": "凝視",
+      "kana": "ぎょうし",
+      "gloss": "stare",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27233,
+        25501,
+        24433,
+        6257
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "凝": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1437130/敵視/てきし": {
+      "id": 1437130,
+      "form": "敵視",
+      "kana": "てきし",
+      "gloss": "looking upon (someone) as an enemy",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        28889,
+        33233,
+        22590,
+        18032
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "敵": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1342120/巡視/じゅんし": {
+      "id": 1342120,
+      "form": "巡視",
+      "kana": "じゅんし",
+      "gloss": "inspection tour",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        24785,
+        24595,
+        30216,
+        74257
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "巡": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1242320/近視/きんし": {
+      "id": 1242320,
+      "form": "近視",
+      "kana": "きんし",
+      "gloss": "myopia",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        19561,
+        35465,
+        35760,
+        69420
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "近": 2
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1510290/蔑視/べっし": {
+      "id": 1510290,
+      "form": "蔑視",
+      "kana": "べっし",
+      "gloss": "contempt",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        29550,
+        48827,
+        31791,
+        48782
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "蔑": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2855481/検視/けんし": {
+      "id": 2855481,
+      "form": "検視",
+      "kana": "けんし",
+      "gloss": "examination of a body to determine if a crime has been committed",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        27416,
+        49441,
+        40664,
+        41684
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "検": 5
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1549000/乱視/らんし": {
+      "id": 1549000,
+      "form": "乱視",
+      "kana": "らんし",
+      "gloss": "astigmatism",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30869,
+        47007,
+        39319,
+        97964
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乱": 6
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1853650/視床/ししょう": {
+      "id": 1853650,
+      "form": "視床",
+      "kana": "ししょう",
+      "gloss": "thalamus",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30721,
+        38018,
+        47321,
+        137090
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "床": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1312080/視聴覚/しちょうかく": {
+      "id": 1312080,
+      "form": "視聴覚",
+      "kana": "しちょうかく",
+      "gloss": "senses of seeing and hearing",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31575,
+        45405,
+        46387,
+        92135
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "覚": 4,
+        "聴": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1262940/幻視/げんし": {
+      "id": 1262940,
+      "form": "幻視",
+      "kana": "げんし",
+      "gloss": "visual hallucination",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34690,
+        53857,
+        52621,
+        29985
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "幻": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1322440/斜視/しゃし": {
+      "id": 1322440,
+      "form": "斜視",
+      "kana": "しゃし",
+      "gloss": "strabismus",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        33067,
+        44010,
+        62361,
+        133738
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "斜": 7
+      },
+      "matched": {
+        "シ": {
+          "actual": "し",
+          "dictionary": [
+            "シ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1259290/視る/みる": {
+      "id": 1259290,
+      "form": "視る",
+      "kana": "みる",
+      "gloss": "to see",
+      "senses": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [
+        "uk"
+      ],
+      "ranks": [
+        14312,
+        null,
+        46387,
+        21000
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "みる": {
+          "actual": "み",
+          "dictionary": [
+            "み.る"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1252450:警視庁:けいしちょう",
+      "form": "警視庁",
+      "kana": "けいしちょう",
+      "cue": "Metropolitan Police Department (Tokyo)",
+      "ids": [
+        1252450
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [],
+      "raw_form_ranks": {
+        "jiten:global": 16015,
+        "wordfreq": 9614
+      }
+    },
+    {
+      "wordId": "jmdict:1604580:凝視める:みつめる",
+      "form": "凝視める",
+      "kana": "みつめる",
+      "cue": "to stare (at); to gaze (at)",
+      "ids": [
+        1604580
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji",
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 139458
+      },
+      "alternatives_by_kanji": {
+        "視": [
+          "1312010/視覚/しかく",
+          "1312150/視力/しりょく",
+          "1616640/注視/ちゅうし"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 15
+}

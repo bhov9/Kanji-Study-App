@@ -1,0 +1,762 @@
+{
+  "character": "丙",
+  "grade": 7,
+  "meanings": [
+    "third class",
+    "3rd",
+    "3rd calendar sign"
+  ],
+  "strokes": [
+    5
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 1
+    }
+  ],
+  "components": [
+    "一",
+    "人",
+    "冂"
+  ],
+  "on": [
+    "ヘイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ひのえ",
+      "stem": "ひのえ",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "丙",
+    "heading": "丙",
+    "readings": [
+      "ヘイ"
+    ],
+    "examples_by_reading": [
+      [
+        "丙種",
+        "甲乙丙"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "丙",
+      "reading": "ヘイ",
+      "source": "table_29_he.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ヘイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 4,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1907280/丙種/へいしゅ",
+        "1280090/甲乙丙/こうおつへい",
+        "1583850/丙/へい",
+        "1505970/丙午/へいご",
+        "2562350/丙寅/へいいん",
+        "2562640/丙申/へいしん",
+        "2562560/丙戌/へいじゅつ",
+        "1874770/甲乙丙丁/こうおつへいてい",
+        "2562830/丙辰/へいしん",
+        "2562430/丙子/へいし"
+      ]
+    },
+    {
+      "reading": "ひのえ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 6,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1583850/丙/ひのえ",
+        "1505970/丙午/ひのえうま",
+        "2562350/丙寅/ひのえとら",
+        "2562640/丙申/ひのえさる",
+        "2562560/丙戌/ひのえいぬ",
+        "2562430/丙子/ひのえね",
+        "2562830/丙辰/ひのえたつ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1907280/丙種/へいしゅ",
+    "1280090/甲乙丙/こうおつへい",
+    "1583850/丙/へい",
+    "1583850/丙/ひのえ",
+    "1505970/丙午/ひのえうま",
+    "1505970/丙午/へいご",
+    "2562350/丙寅/ひのえとら",
+    "2562640/丙申/ひのえさる",
+    "2562560/丙戌/ひのえいぬ",
+    "2562350/丙寅/へいいん",
+    "2562640/丙申/へいしん",
+    "2562560/丙戌/へいじゅつ",
+    "1874770/甲乙丙丁/こうおつへいてい",
+    "2562430/丙子/ひのえね",
+    "2562830/丙辰/ひのえたつ",
+    "2562830/丙辰/へいしん",
+    "2562430/丙子/へいし",
+    "2150030/丙夜/へいや"
+  ],
+  "candidates": {
+    "1907280/丙種/へいしゅ": {
+      "id": 1907280,
+      "form": "丙種",
+      "kana": "へいしゅ",
+      "gloss": "third grade",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        158840
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "種": 4
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1280090/甲乙丙/こうおつへい": {
+      "id": 1280090,
+      "form": "甲乙丙",
+      "kana": "こうおつへい",
+      "gloss": "A, B and C",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        178262
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "甲": 7,
+        "乙": 7
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ヘイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1583850/丙/へい": {
+      "id": 1583850,
+      "form": "丙",
+      "kana": "へい",
+      "gloss": "third rank",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9079,
+        32846,
+        17251,
+        67426
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1583850/丙/ひのえ": {
+      "id": 1583850,
+      "form": "丙",
+      "kana": "ひのえ",
+      "gloss": "third sign of the Chinese calendar",
+      "senses": [
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        9079,
+        32846,
+        17251,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ひのえ": {
+          "actual": "ひのえ",
+          "dictionary": [
+            "ひのえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505970/丙午/ひのえうま": {
+      "id": 1505970,
+      "form": "丙午",
+      "kana": "ひのえうま",
+      "gloss": "Fire Horse (43rd term of the sexagenary cycle, e.g. 1906, 1966, 2026)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        96370,
+        152368
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "午": 2
+      },
+      "matched": {
+        "ひのえ": {
+          "actual": "ひのえ",
+          "dictionary": [
+            "ひのえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1505970/丙午/へいご": {
+      "id": 1505970,
+      "form": "丙午",
+      "kana": "へいご",
+      "gloss": "Fire Horse (43rd term of the sexagenary cycle, e.g. 1906, 1966, 2026)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        96370,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "午": 2
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562350/丙寅/ひのえとら": {
+      "id": 2562350,
+      "form": "丙寅",
+      "kana": "ひのえとら",
+      "gloss": "Fire Tiger (3rd term of the sexagenary cycle, e.g. 1926, 1986, 2046)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        203266
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ひのえ": {
+          "actual": "ひのえ",
+          "dictionary": [
+            "ひのえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562640/丙申/ひのえさる": {
+      "id": 2562640,
+      "form": "丙申",
+      "kana": "ひのえさる",
+      "gloss": "Fire Monkey (33rd term of the sexagenary cycle, e.g. 1956, 2016, 2076)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        261651
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "申": 3
+      },
+      "matched": {
+        "ひのえ": {
+          "actual": "ひのえ",
+          "dictionary": [
+            "ひのえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562560/丙戌/ひのえいぬ": {
+      "id": 2562560,
+      "form": "丙戌",
+      "kana": "ひのえいぬ",
+      "gloss": "Fire Dog (23rd term of the sexagenary cycle, e.g. 1946, 2006, 2066)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        280821
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ひのえ": {
+          "actual": "ひのえ",
+          "dictionary": [
+            "ひのえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562350/丙寅/へいいん": {
+      "id": 2562350,
+      "form": "丙寅",
+      "kana": "へいいん",
+      "gloss": "Fire Tiger (3rd term of the sexagenary cycle, e.g. 1926, 1986, 2046)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562640/丙申/へいしん": {
+      "id": 2562640,
+      "form": "丙申",
+      "kana": "へいしん",
+      "gloss": "Fire Monkey (33rd term of the sexagenary cycle, e.g. 1956, 2016, 2076)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "申": 3
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562560/丙戌/へいじゅつ": {
+      "id": 2562560,
+      "form": "丙戌",
+      "kana": "へいじゅつ",
+      "gloss": "Fire Dog (23rd term of the sexagenary cycle, e.g. 1946, 2006, 2066)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1874770/甲乙丙丁/こうおつへいてい": {
+      "id": 1874770,
+      "form": "甲乙丙丁",
+      "kana": "こうおつへいてい",
+      "gloss": "A, B, C and D",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        167390
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "甲": 7,
+        "丁": 3,
+        "乙": 7
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562430/丙子/ひのえね": {
+      "id": 2562430,
+      "form": "丙子",
+      "kana": "ひのえね",
+      "gloss": "Fire Rat (13th term of the sexagenary cycle, e.g. 1936, 1996, 2056)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        203204
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "ひのえ": {
+          "actual": "ひのえ",
+          "dictionary": [
+            "ひのえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562830/丙辰/ひのえたつ": {
+      "id": 2562830,
+      "form": "丙辰",
+      "kana": "ひのえたつ",
+      "gloss": "Fire Dragon (53rd term of the sexagenary cycle, e.g. 1916, 1976, 2036)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        238677
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ひのえ": {
+          "actual": "ひのえ",
+          "dictionary": [
+            "ひのえ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562830/丙辰/へいしん": {
+      "id": 2562830,
+      "form": "丙辰",
+      "kana": "へいしん",
+      "gloss": "Fire Dragon (53rd term of the sexagenary cycle, e.g. 1916, 1976, 2036)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {},
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2562430/丙子/へいし": {
+      "id": 2562430,
+      "form": "丙子",
+      "kana": "へいし",
+      "gloss": "Fire Rat (13th term of the sexagenary cycle, e.g. 1936, 1996, 2056)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "子": 1
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2150030/丙夜/へいや": {
+      "id": 2150030,
+      "form": "丙夜",
+      "kana": "へいや",
+      "gloss": "third division of the night (approx. 11pm to 1am)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "arch"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reading_evidence": false,
+      "other_grades": {
+        "夜": 2
+      },
+      "matched": {
+        "ヘイ": {
+          "actual": "へい",
+          "dictionary": [
+            "ヘイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1583850:丙:へい",
+      "form": "丙",
+      "kana": "へい",
+      "cue": "third rank; third class",
+      "ids": [
+        1583850
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 67426,
+        "shiberu": 9079,
+        "tubelex": 32846,
+        "wordfreq": 17251
+      },
+      "alternatives_by_kanji": {
+        "丙": [
+          "1907280/丙種/へいしゅ",
+          "1280090/甲乙丙/こうおつへい",
+          "1505970/丙午/ひのえうま"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

@@ -1,0 +1,814 @@
+{
+  "character": "邸",
+  "grade": 7,
+  "meanings": [
+    "residence",
+    "mansion"
+  ],
+  "strokes": [
+    8,
+    7
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 163
+    }
+  ],
+  "components": [
+    "氏",
+    "邦"
+  ],
+  "on": [
+    "テイ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "やしき",
+      "stem": "やしき",
+      "okurigana": null
+    }
+  ],
+  "nanori": [
+    "むら"
+  ],
+  "government": {
+    "kanji": "邸",
+    "heading": "邸",
+    "readings": [
+      "テイ"
+    ],
+    "examples_by_reading": [
+      [
+        "邸宅",
+        "邸内",
+        "私邸"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "邸",
+      "reading": "テイ",
+      "source": "table_19_te.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "テイ",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 18,
+      "frequent_unflagged_examples": 1,
+      "current_support": true,
+      "candidates": [
+        "1436820/邸宅/ていたく",
+        "1311320/私邸/してい",
+        "1436830/邸内/ていない",
+        "1211750/官邸/かんてい",
+        "1657280/豪邸/ごうてい",
+        "1510020/別邸/べってい",
+        "1651990/藩邸/はんてい",
+        "1726220/自邸/じてい",
+        "1274350/公邸/こうてい",
+        "1822820/本邸/ほんてい"
+      ]
+    },
+    {
+      "reading": "やしき",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1605460/邸/やしき"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1436820/邸宅/ていたく",
+    "1311320/私邸/してい",
+    "1436830/邸内/ていない",
+    "1211750/官邸/かんてい",
+    "1657280/豪邸/ごうてい",
+    "1510020/別邸/べってい",
+    "1651990/藩邸/はんてい",
+    "1726220/自邸/じてい",
+    "1274350/公邸/こうてい",
+    "1822820/本邸/ほんてい",
+    "1631110/御用邸/ごようてい",
+    "2723660/邸/てい",
+    "1605460/邸/やしき",
+    "2079220/大邸宅/だいていたく",
+    "1937530/首相官邸/しゅしょうかんてい",
+    "2555930/総理官邸/そうりかんてい",
+    "1413900/大使公邸/たいしこうてい",
+    "1548160/来邸/らいてい",
+    "2873019/賜邸/してい"
+  ],
+  "candidates": {
+    "1436820/邸宅/ていたく": {
+      "id": 1436820,
+      "form": "邸宅",
+      "kana": "ていたく",
+      "gloss": "(large) house",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        5861,
+        18120,
+        20349,
+        21122
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宅": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1311320/私邸/してい": {
+      "id": 1311320,
+      "form": "私邸",
+      "kana": "してい",
+      "gloss": "private residence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22595,
+        63933,
+        42493,
+        65402
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "私": 6
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1436830/邸内/ていない": {
+      "id": 1436830,
+      "form": "邸内",
+      "kana": "ていない",
+      "gloss": "grounds",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34938,
+        31039,
+        null,
+        40609
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "内": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [
+        "テイ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1211750/官邸/かんてい": {
+      "id": 1211750,
+      "form": "官邸",
+      "kana": "かんてい",
+      "gloss": "official residence (e.g. of the prime minister)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        10982,
+        16857,
+        12479,
+        47394
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "官": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1657280/豪邸/ごうてい": {
+      "id": 1657280,
+      "form": "豪邸",
+      "kana": "ごうてい",
+      "gloss": "magnificent house",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22642,
+        22063,
+        24433,
+        20250
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "豪": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1510020/別邸/べってい": {
+      "id": 1510020,
+      "form": "別邸",
+      "kana": "べってい",
+      "gloss": "secondary residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        34118,
+        33444,
+        53687,
+        38813
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "別": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1651990/藩邸/はんてい": {
+      "id": 1651990,
+      "form": "藩邸",
+      "kana": "はんてい",
+      "gloss": "residence maintained by a daimyo in Edo",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        19919,
+        81652,
+        85597,
+        75161
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "藩": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1726220/自邸/じてい": {
+      "id": 1726220,
+      "form": "自邸",
+      "kana": "じてい",
+      "gloss": "one's residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        35765,
+        65459,
+        79465,
+        95874
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "自": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1274350/公邸/こうてい": {
+      "id": 1274350,
+      "form": "公邸",
+      "kana": "こうてい",
+      "gloss": "official residence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        56591,
+        36648,
+        78838
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "公": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1822820/本邸/ほんてい": {
+      "id": 1822820,
+      "form": "本邸",
+      "kana": "ほんてい",
+      "gloss": "principal residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        45405,
+        118546,
+        52094
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "本": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1631110/御用邸/ごようてい": {
+      "id": 1631110,
+      "form": "御用邸",
+      "kana": "ごようてい",
+      "gloss": "imperial villa",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        89631,
+        163999
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "用": 2,
+        "御": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2723660/邸/てい": {
+      "id": 2723660,
+      "form": "邸",
+      "kana": "てい",
+      "gloss": "residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n-suf",
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        14725
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1605460/邸/やしき": {
+      "id": 1605460,
+      "form": "邸",
+      "kana": "やしき",
+      "gloss": "residence",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        38994
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "やしき": {
+          "actual": "やしき",
+          "dictionary": [
+            "やしき"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2079220/大邸宅/だいていたく": {
+      "id": 2079220,
+      "form": "大邸宅",
+      "kana": "だいていたく",
+      "gloss": "mansion",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        64154
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "宅": 6,
+        "大": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1937530/首相官邸/しゅしょうかんてい": {
+      "id": 1937530,
+      "form": "首相官邸",
+      "kana": "しゅしょうかんてい",
+      "gloss": "prime minister's official residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        68721
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "相": 3,
+        "首": 2,
+        "官": 4
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2555930/総理官邸/そうりかんてい": {
+      "id": 2555930,
+      "form": "総理官邸",
+      "kana": "そうりかんてい",
+      "gloss": "Prime Minister's official residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        114610
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "官": 4,
+        "総": 5,
+        "理": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1413900/大使公邸/たいしこうてい": {
+      "id": 1413900,
+      "form": "大使公邸",
+      "kana": "たいしこうてい",
+      "gloss": "ambassador's residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        183080
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "使": 3,
+        "公": 2,
+        "大": 1
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1548160/来邸/らいてい": {
+      "id": 1548160,
+      "form": "来邸",
+      "kana": "らいてい",
+      "gloss": "visiting someone's residence",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        218583
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "来": 2
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2873019/賜邸/してい": {
+      "id": 2873019,
+      "form": "賜邸",
+      "kana": "してい",
+      "gloss": "residence bestowed as a reward or gift (e.g. by the Imperial Court)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        341108
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賜": 7
+      },
+      "matched": {
+        "テイ": {
+          "actual": "てい",
+          "dictionary": [
+            "テイ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1211750:官邸:かんてい",
+      "form": "官邸",
+      "kana": "かんてい",
+      "cue": "official residence (e.g. of the prime minister)",
+      "ids": [
+        1211750
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 47394,
+        "shiberu": 10982,
+        "tubelex": 16857,
+        "wordfreq": 12479
+      },
+      "alternatives_by_kanji": {
+        "官": [
+          "1211760/官能/かんのう",
+          "1237050/教官/きょうかん",
+          "1211730/官庁/かんちょう"
+        ],
+        "邸": [
+          "1436820/邸宅/ていたく",
+          "1311320/私邸/してい",
+          "1436830/邸内/ていない"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}

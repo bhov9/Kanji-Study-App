@@ -1,0 +1,1351 @@
+{
+  "character": "辞",
+  "grade": 4,
+  "meanings": [
+    "resign",
+    "word",
+    "term",
+    "expression"
+  ],
+  "strokes": [
+    13
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 160
+    },
+    {
+      "type": "nelson_c",
+      "value": 135
+    }
+  ],
+  "components": [
+    "口",
+    "十",
+    "辛",
+    "舌",
+    "立"
+  ],
+  "on": [
+    "ジ"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "や.める",
+      "stem": "や",
+      "okurigana": "める"
+    },
+    {
+      "sourceNotation": "いな.む",
+      "stem": "いな",
+      "okurigana": "む"
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "辞",
+    "heading": "辞（辭）",
+    "readings": [
+      "ジ",
+      "やめる"
+    ],
+    "examples_by_reading": [
+      [
+        "辞書",
+        "辞職",
+        "式辞"
+      ],
+      [
+        "辞める"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "辞",
+      "reading": "ジ",
+      "source": "table_12_si.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ジ",
+      "official": true,
+      "stage": "elementary",
+      "limited": false,
+      "category": "preferred",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 138,
+      "frequent_unflagged_examples": 4,
+      "current_support": false,
+      "candidates": [
+        "1318980/辞職/じしょく",
+        "1319080/式辞/しきじ",
+        "1319000/辞任/じにん",
+        "1318990/辞退/じたい",
+        "1374060/世辞/せじ",
+        "2011060/辞する/じする",
+        "1319010/辞表/じひょう",
+        "1319020/辞令/じれい",
+        "1304180/賛辞/さんじ",
+        "1337460/祝辞/しゅくじ"
+      ]
+    },
+    {
+      "reading": "やめる",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 3,
+      "frequent_unflagged_examples": 1,
+      "current_support": false,
+      "candidates": [
+        "1318950/辞める/やめる",
+        "1880340/仕事を辞める/しごとをやめる",
+        "1863760/会社を辞める/かいしゃをやめる"
+      ]
+    },
+    {
+      "reading": "いなむ",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1482910/辞む/いなむ"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1318980/辞職/じしょく",
+    "1318950/辞める/やめる",
+    "1319080/式辞/しきじ",
+    "1319000/辞任/じにん",
+    "1318990/辞退/じたい",
+    "1374060/世辞/せじ",
+    "2011060/辞する/じする",
+    "1319010/辞表/じひょう",
+    "1319020/辞令/じれい",
+    "1304180/賛辞/さんじ",
+    "1337460/祝辞/しゅくじ",
+    "1323040/謝辞/しゃじ",
+    "1427690/弔辞/ちょうじ",
+    "1332030/修辞/しゅうじ",
+    "1318960/辞意/じい",
+    "1266610/固辞/こじ",
+    "1617290/辞去/じきょ",
+    "2410410/辞す/じす",
+    "5337225/辞苑/じえん",
+    "1725100/美辞/びじ",
+    "1635140/辞林/じりん",
+    "1385410/接辞/せつじ",
+    "1656650/辞世/じせい",
+    "1756500/言辞/げんじ",
+    "1744860/答辞/とうじ",
+    "1709770/送辞/そうじ",
+    "1002030/お辞儀/おじぎ",
+    "2532110/広辞苑/こうじえん",
+    "1486420/美辞麗句/びじれいく",
+    "2036740/大辞林/だいじりん"
+  ],
+  "candidates": {
+    "1318980/辞職/じしょく": {
+      "id": 1318980,
+      "form": "辞職",
+      "kana": "じしょく",
+      "gloss": "resignation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        2980,
+        20245,
+        9023,
+        31571
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "職": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1318950/辞める/やめる": {
+      "id": 1318950,
+      "form": "辞める",
+      "kana": "やめる",
+      "gloss": "to resign",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "v1",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        3113,
+        null,
+        6894,
+        1759
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "やめる": {
+          "actual": "や",
+          "dictionary": [
+            "や.める"
+          ]
+        }
+      },
+      "official_examples": [
+        "やめる"
+      ],
+      "handwriting_tier": "preferred"
+    },
+    "1319080/式辞/しきじ": {
+      "id": 1319080,
+      "form": "式辞",
+      "kana": "しきじ",
+      "gloss": "ceremonial address",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        55605,
+        67489,
+        93765
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "式": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [
+        "ジ"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1319000/辞任/じにん": {
+      "id": 1319000,
+      "form": "辞任",
+      "kana": "じにん",
+      "gloss": "resignation (from a position)",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        3765,
+        13621,
+        6549,
+        32113
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "任": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1318990/辞退/じたい": {
+      "id": 1318990,
+      "form": "辞退",
+      "kana": "じたい",
+      "gloss": "declining",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        5359,
+        18039,
+        12107,
+        9716
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "退": 6
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "preferred"
+    },
+    "1374060/世辞/せじ": {
+      "id": 1374060,
+      "form": "世辞",
+      "kana": "せじ",
+      "gloss": "flattery",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        4952,
+        17837,
+        16515,
+        27849
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "世": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2011060/辞する/じする": {
+      "id": 2011060,
+      "form": "辞する",
+      "kana": "じする",
+      "gloss": "to take one's leave",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": false,
+      "pos": [
+        "vs-s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        10132,
+        23941,
+        103620,
+        45591
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1319010/辞表/じひょう": {
+      "id": 1319010,
+      "form": "辞表",
+      "kana": "じひょう",
+      "gloss": "letter of resignation",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        13551,
+        32483,
+        27689,
+        27604
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "表": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1319020/辞令/じれい": {
+      "id": 1319020,
+      "form": "辞令",
+      "kana": "じれい",
+      "gloss": "notice of personnel change (appointment, dismissal, etc.)",
+      "senses": [
+        0,
+        1
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14956,
+        28755,
+        26690,
+        30680
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "令": 4
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1304180/賛辞/さんじ": {
+      "id": 1304180,
+      "form": "賛辞",
+      "kana": "さんじ",
+      "gloss": "eulogy",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14937,
+        31364,
+        31791,
+        20826
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "賛": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1337460/祝辞/しゅくじ": {
+      "id": 1337460,
+      "form": "祝辞",
+      "kana": "しゅくじ",
+      "gloss": "congratulatory address",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30899,
+        33644,
+        35359,
+        40326
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "祝": 4
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1323040/謝辞/しゃじ": {
+      "id": 1323040,
+      "form": "謝辞",
+      "kana": "しゃじ",
+      "gloss": "words of thanks",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        22795,
+        53060,
+        59987,
+        23575
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "謝": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1427690/弔辞/ちょうじ": {
+      "id": 1427690,
+      "form": "弔辞",
+      "kana": "ちょうじ",
+      "gloss": "memorial address",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23653,
+        50803,
+        44849,
+        74558
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "弔": 7
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1332030/修辞/しゅうじ": {
+      "id": 1332030,
+      "form": "修辞",
+      "kana": "しゅうじ",
+      "gloss": "figure of speech",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        23544,
+        70964,
+        53182,
+        78864
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "修": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1318960/辞意/じい": {
+      "id": 1318960,
+      "form": "辞意",
+      "kana": "じい",
+      "gloss": "intention to resign",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        25023,
+        89646,
+        50386,
+        103657
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "意": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1266610/固辞/こじ": {
+      "id": 1266610,
+      "form": "固辞",
+      "kana": "こじ",
+      "gloss": "firm refusal",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vt"
+      ],
+      "flags": [],
+      "ranks": [
+        30068,
+        63933,
+        76428,
+        35046
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "固": 4
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1617290/辞去/じきょ": {
+      "id": 1617290,
+      "form": "辞去",
+      "kana": "じきょ",
+      "gloss": "leaving",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        28979,
+        109954,
+        148871,
+        52845
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "去": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2410410/辞す/じす": {
+      "id": 2410410,
+      "form": "辞す",
+      "kana": "じす",
+      "gloss": "to take one's leave",
+      "senses": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "common": true,
+      "pos": [
+        "v5s",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        13954,
+        null,
+        153062,
+        21440
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "5337225/辞苑/じえん": {
+      "id": 5337225,
+      "form": "辞苑",
+      "kana": "じえん",
+      "gloss": "Jien (forerunner of the Kojien dictionary)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        14970,
+        53060,
+        null,
+        221663
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1725100/美辞/びじ": {
+      "id": 1725100,
+      "form": "美辞",
+      "kana": "びじ",
+      "gloss": "flowery language",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        33650,
+        73159,
+        null,
+        177231
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "美": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1635140/辞林/じりん": {
+      "id": 1635140,
+      "form": "辞林",
+      "kana": "じりん",
+      "gloss": "dictionary",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        31057,
+        101749,
+        null,
+        276871
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "林": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1385410/接辞/せつじ": {
+      "id": 1385410,
+      "form": "接辞",
+      "kana": "せつじ",
+      "gloss": "affix",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        30077,
+        null,
+        126439,
+        316415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "接": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1656650/辞世/じせい": {
+      "id": 1656650,
+      "form": "辞世",
+      "kana": "じせい",
+      "gloss": "passing away",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        52268,
+        57069,
+        88654
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "世": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1756500/言辞/げんじ": {
+      "id": 1756500,
+      "form": "言辞",
+      "kana": "げんじ",
+      "gloss": "language",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        70964,
+        74212,
+        101700
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "言": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1744860/答辞/とうじ": {
+      "id": 1744860,
+      "form": "答辞",
+      "kana": "とうじ",
+      "gloss": "address in reply (e.g. at a ceremony)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        81652,
+        80148,
+        58218
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "答": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1709770/送辞/そうじ": {
+      "id": 1709770,
+      "form": "送辞",
+      "kana": "そうじ",
+      "gloss": "farewell address",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        139593,
+        118546,
+        74525
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "送": 3
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1002030/お辞儀/おじぎ": {
+      "id": 1002030,
+      "form": "お辞儀",
+      "kana": "おじぎ",
+      "gloss": "bow",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "vs",
+        "vi"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        22289,
+        8620
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "儀": 7
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2532110/広辞苑/こうじえん": {
+      "id": 2532110,
+      "form": "広辞苑",
+      "kana": "こうじえん",
+      "gloss": "Kōjien (Japanese dictionary published by Iwanami Shoten)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        39319,
+        78953
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "広": 2
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1486420/美辞麗句/びじれいく": {
+      "id": 1486420,
+      "form": "美辞麗句",
+      "kana": "びじれいく",
+      "gloss": "flowery words",
+      "senses": [
+        0
+      ],
+      "common": true,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        66810,
+        46962
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "麗": 7,
+        "美": 3,
+        "句": 5
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2036740/大辞林/だいじりん": {
+      "id": 2036740,
+      "form": "大辞林",
+      "kana": "だいじりん",
+      "gloss": "Daijirin (Japanese dictionary published by Sanseido)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        68819,
+        178831
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "林": 1,
+        "大": 1
+      },
+      "matched": {
+        "ジ": {
+          "actual": "じ",
+          "dictionary": [
+            "ジ"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1880340/仕事を辞める/しごとをやめる": {
+      "id": 1880340,
+      "form": "仕事を辞める",
+      "kana": "しごとをやめる",
+      "gloss": "to quit one's job",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        27011
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "仕": 3,
+        "事": 3
+      },
+      "matched": {
+        "やめる": {
+          "actual": "や",
+          "dictionary": [
+            "や.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1863760/会社を辞める/かいしゃをやめる": {
+      "id": 1863760,
+      "form": "会社を辞める",
+      "kana": "かいしゃをやめる",
+      "gloss": "to leave the company",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "exp",
+        "v1"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        28662
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "会": 2,
+        "社": 2
+      },
+      "matched": {
+        "やめる": {
+          "actual": "や",
+          "dictionary": [
+            "や.める"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1482910/辞む/いなむ": {
+      "id": 1482910,
+      "form": "辞む",
+      "kana": "いなむ",
+      "gloss": "to refuse",
+      "senses": [
+        0,
+        1
+      ],
+      "common": false,
+      "pos": [
+        "v5m",
+        "vt"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        191708
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "いなむ": {
+          "actual": "いな",
+          "dictionary": [
+            "いな.む"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1264540:辞:ことば",
+      "form": "辞",
+      "kana": "ことば",
+      "cue": "language; dialect",
+      "ids": [
+        1264540
+      ],
+      "mapping": "mapped",
+      "flags": [
+        "rK"
+      ],
+      "issues": [
+        "check cue ambiguity"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 130651,
+        "shiberu": 5568,
+        "tubelex": 25604,
+        "wordfreq": 26398
+      },
+      "alternatives_by_kanji": {
+        "辞": [
+          "1318980/辞職/じしょく",
+          "1318950/辞める/やめる",
+          "1319080/式辞/しきじ"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 10
+}

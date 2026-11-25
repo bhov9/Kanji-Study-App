@@ -1,0 +1,864 @@
+{
+  "character": "舷",
+  "grade": 7,
+  "meanings": [
+    "gunwale"
+  ],
+  "strokes": [
+    11
+  ],
+  "radicals": [
+    {
+      "type": "classical",
+      "value": 137
+    }
+  ],
+  "components": [
+    "玄",
+    "舟",
+    "亠",
+    "幺"
+  ],
+  "on": [
+    "ゲン"
+  ],
+  "kun": [
+    {
+      "sourceNotation": "ふなばた",
+      "stem": "ふなばた",
+      "okurigana": null
+    },
+    {
+      "sourceNotation": "ふなべり",
+      "stem": "ふなべり",
+      "okurigana": null
+    }
+  ],
+  "nanori": [],
+  "government": {
+    "kanji": "舷",
+    "heading": "舷",
+    "readings": [
+      "ゲン"
+    ],
+    "examples_by_reading": [
+      [
+        "舷側",
+        "右舷"
+      ]
+    ],
+    "note_lines": [
+      ""
+    ],
+    "representative_index": {
+      "kanji": "舷",
+      "reading": "ゲン",
+      "source": "table_09_ke.html"
+    }
+  },
+  "supplementary": [],
+  "readings": [
+    {
+      "reading": "ゲン",
+      "official": true,
+      "stage": "junior_high",
+      "limited": false,
+      "category": "secondary",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 18,
+      "frequent_unflagged_examples": 0,
+      "current_support": true,
+      "candidates": [
+        "1171110/右舷/うげん",
+        "1263940/舷側/げんそく",
+        "1290890/左舷/さげん",
+        "2561390/接舷/せつげん",
+        "1553560/両舷/りょうげん",
+        "1769490/舷窓/げんそう",
+        "1769470/舷灯/げんとう",
+        "2819730/舷/げん",
+        "1769500/舷梯/げんてい",
+        "1769480/舷門/げんもん"
+      ]
+    },
+    {
+      "reading": "ふなばた",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1736340/舷/ふなばた"
+      ]
+    },
+    {
+      "reading": "ふなべり",
+      "official": false,
+      "stage": null,
+      "limited": null,
+      "category": "reference-only",
+      "priority": null,
+      "reviewedOverride": null,
+      "supported_entries": 1,
+      "frequent_unflagged_examples": 0,
+      "current_support": false,
+      "candidates": [
+        "1736360/舷/ふなべり"
+      ]
+    }
+  ],
+  "handwriting_candidates": [
+    "1171110/右舷/うげん",
+    "1263940/舷側/げんそく",
+    "1290890/左舷/さげん",
+    "2561390/接舷/せつげん",
+    "1553560/両舷/りょうげん",
+    "1769490/舷窓/げんそう",
+    "1769470/舷灯/げんとう",
+    "2819730/舷/げん",
+    "1769500/舷梯/げんてい",
+    "1736340/舷/ふなばた",
+    "1769480/舷門/げんもん",
+    "2826702/半舷上陸/はんげんじょうりく",
+    "2857901/舷側砲/げんそくほう",
+    "2857899/片舷斉射/へんげんせいしゃ",
+    "2845704/防舷材/ぼうげんざい",
+    "1209740/乾舷/かんげん",
+    "1706990/登舷礼/とうげんれい",
+    "1769510/舷頭/げんとう",
+    "2845714/防舷物/ぼうげんぶつ",
+    "1736360/舷/ふなべり"
+  ],
+  "candidates": {
+    "1171110/右舷/うげん": {
+      "id": 1171110,
+      "form": "右舷",
+      "kana": "うげん",
+      "gloss": "starboard (right side of vessel)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        26803,
+        37400,
+        28385,
+        44304
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "右": 1
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゲン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1263940/舷側/げんそく": {
+      "id": 1263940,
+      "form": "舷側",
+      "kana": "げんそく",
+      "gloss": "ship's side",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        38196,
+        101749,
+        82481,
+        67307
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "側": 4
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [
+        "ゲン"
+      ],
+      "handwriting_tier": "secondary"
+    },
+    "1290890/左舷/さげん": {
+      "id": 1290890,
+      "form": "左舷",
+      "kana": "さげん",
+      "gloss": "port (left side of vessel)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "adj-no"
+      ],
+      "flags": [],
+      "ranks": [
+        35697,
+        33644,
+        29477,
+        44296
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "左": 1
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2561390/接舷/せつげん": {
+      "id": 2561390,
+      "form": "接舷",
+      "kana": "せつげん",
+      "gloss": "coming alongside (a boat, pier, etc.)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n",
+        "vs"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        109954,
+        null,
+        65736
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "接": 5
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1553560/両舷/りょうげん": {
+      "id": 1553560,
+      "form": "両舷",
+      "kana": "りょうげん",
+      "gloss": "both sides of a ship",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        101749,
+        null,
+        77407
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "両": 3
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1769490/舷窓/げんそう": {
+      "id": 1769490,
+      "form": "舷窓",
+      "kana": "げんそう",
+      "gloss": "porthole",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        112310,
+        126528
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "窓": 6
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1769470/舷灯/げんとう": {
+      "id": 1769470,
+      "form": "舷灯",
+      "kana": "げんとう",
+      "gloss": "running lights",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        173792,
+        null,
+        233301
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "灯": 4
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2819730/舷/げん": {
+      "id": 2819730,
+      "form": "舷",
+      "kana": "げん",
+      "gloss": "side of a boat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        83657
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1769500/舷梯/げんてい": {
+      "id": 1769500,
+      "form": "舷梯",
+      "kana": "げんてい",
+      "gloss": "gangway (ladder)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        133545
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1736340/舷/ふなばた": {
+      "id": 1736340,
+      "form": "舷",
+      "kana": "ふなばた",
+      "gloss": "side of a boat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        134057
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ふなばた": {
+          "actual": "ふなばた",
+          "dictionary": [
+            "ふなばた"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1769480/舷門/げんもん": {
+      "id": 1769480,
+      "form": "舷門",
+      "kana": "げんもん",
+      "gloss": "gangway",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        160115
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "門": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2826702/半舷上陸/はんげんじょうりく": {
+      "id": 2826702,
+      "form": "半舷上陸",
+      "kana": "はんげんじょうりく",
+      "gloss": "half watch ashore",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        197607
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "上": 1,
+        "半": 2,
+        "陸": 4
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857901/舷側砲/げんそくほう": {
+      "id": 2857901,
+      "form": "舷側砲",
+      "kana": "げんそくほう",
+      "gloss": "broadside gun",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        219749
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "側": 4,
+        "砲": 7
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2857899/片舷斉射/へんげんせいしゃ": {
+      "id": 2857899,
+      "form": "片舷斉射",
+      "kana": "へんげんせいしゃ",
+      "gloss": "broadside (firing of all the guns on one side of a warship)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        275061
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "射": 6,
+        "片": 6,
+        "斉": 7
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845704/防舷材/ぼうげんざい": {
+      "id": 2845704,
+      "form": "防舷材",
+      "kana": "ぼうげんざい",
+      "gloss": "fender (on a boat)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        279415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "防": 5,
+        "材": 4
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1209740/乾舷/かんげん": {
+      "id": 1209740,
+      "form": "乾舷",
+      "kana": "かんげん",
+      "gloss": "freeboard",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        279415
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "乾": 7
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1706990/登舷礼/とうげんれい": {
+      "id": 1706990,
+      "form": "登舷礼",
+      "kana": "とうげんれい",
+      "gloss": "ceremonial assembling of a ship's crew on deck",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        326462
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "礼": 3,
+        "登": 3
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1769510/舷頭/げんとう": {
+      "id": 1769510,
+      "form": "舷頭",
+      "kana": "げんとう",
+      "gloss": "gunwale",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "頭": 2
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "2845714/防舷物/ぼうげんぶつ": {
+      "id": 2845714,
+      "form": "防舷物",
+      "kana": "ぼうげんぶつ",
+      "gloss": "fender (on a boat)",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [],
+      "ranks": [
+        null,
+        null,
+        null,
+        410341
+      ],
+      "reading_evidence": true,
+      "other_grades": {
+        "物": 3,
+        "防": 5
+      },
+      "matched": {
+        "ゲン": {
+          "actual": "げん",
+          "dictionary": [
+            "ゲン"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "secondary"
+    },
+    "1736360/舷/ふなべり": {
+      "id": 1736360,
+      "form": "舷",
+      "kana": "ふなべり",
+      "gloss": "side of a boat",
+      "senses": [
+        0
+      ],
+      "common": false,
+      "pos": [
+        "n"
+      ],
+      "flags": [
+        "rK"
+      ],
+      "ranks": [
+        null,
+        null,
+        null,
+        295274
+      ],
+      "reading_evidence": true,
+      "other_grades": {},
+      "matched": {
+        "ふなべり": {
+          "actual": "ふなべり",
+          "dictionary": [
+            "ふなべり"
+          ]
+        }
+      },
+      "official_examples": [],
+      "handwriting_tier": "reference-only"
+    }
+  },
+  "existing": [
+    {
+      "wordId": "jmdict:1171110:右舷:うげん",
+      "form": "右舷",
+      "kana": "うげん",
+      "cue": "starboard (right side of vessel)",
+      "ids": [
+        1171110
+      ],
+      "mapping": "mapped",
+      "flags": [],
+      "issues": [
+        "contains later-grade kanji"
+      ],
+      "raw_form_ranks": {
+        "jiten:global": 44304,
+        "shiberu": 26803,
+        "tubelex": 37400,
+        "wordfreq": 28385
+      },
+      "alternatives_by_kanji": {
+        "右": [
+          "1171010/右/みぎ",
+          "1171150/右折/うせつ",
+          "1171080/右岸/うがん"
+        ],
+        "舷": [
+          "1263940/舷側/げんそく",
+          "1290890/左舷/さげん",
+          "2561390/接舷/せつげん"
+        ]
+      }
+    }
+  ],
+  "unassigned_form_count": 0
+}
