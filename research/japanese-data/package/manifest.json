@@ -1,0 +1,69 @@
+{
+  "collected_at": "2026-11-25T08:01:39.333997+00:00",
+  "files": [
+    {
+      "source": "shiberu",
+      "url": "https://shiberu.app/data/frequency/ja-frequency-2026.tsv.gz",
+      "file": "ja-frequency-2026.tsv.gz",
+      "sha256": "050938657b8cc3b9694cd8893b51481b398390b866588afd0a7cf8a8001cd513",
+      "bytes": 312768,
+      "license_note": "CC BY 4.0",
+      "publication_approved": false
+    },
+    {
+      "source": "shiberu-readme",
+      "url": "https://shiberu.app/data/frequency/ja-frequency-2026-README.txt",
+      "file": "ja-frequency-2026-README.txt",
+      "sha256": "df5b1434c44f704f8c429f4b6ee9b80d5e650cc0fa0babd2acf59d267d6ac71f",
+      "bytes": 2704,
+      "license_note": "retain source credits",
+      "publication_approved": false
+    },
+    {
+      "source": "tubelex",
+      "url": "https://raw.githubusercontent.com/naist-nlp/tubelex/main/frequencies/tubelex-ja-lemma-pos.tsv.xz",
+      "file": "tubelex-ja-lemma-pos.tsv.xz",
+      "sha256": "720b2a99f47739aa78c8bcc0ee5585b406bd1ab0eee844d45f9ad0ccf2c8d507",
+      "bytes": 3515808,
+      "license_note": "verify aggregate data terms before redistribution",
+      "publication_approved": false
+    },
+    {
+      "source": "jmdict-examples-eng-",
+      "url": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20261123231529/jmdict-examples-eng-3.6.2%2B20261123231529.json.tgz",
+      "file": "jmdict-examples-eng-3.6.2+20261123231529.json.tgz",
+      "sha256": "c8517d28dfed47af678fc03bdf67438e75350bc4a83346727d299c86f884b234",
+      "bytes": 14199612,
+      "license_note": "EDRDG / upstream terms; example and segmentation terms require review",
+      "publication_approved": false
+    },
+    {
+      "source": "kanjidic2-all-",
+      "url": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20261123231529/kanjidic2-all-3.6.2%2B20261123231529.json.tgz",
+      "file": "kanjidic2-all-3.6.2+20261123231529.json.tgz",
+      "sha256": "9a0959ff339d476db82f1d1e164059d0d22d1a9f30450fed770bd561bb8fd6da",
+      "bytes": 1552918,
+      "license_note": "EDRDG / upstream terms; example and segmentation terms require review",
+      "publication_approved": false
+    },
+    {
+      "source": "kradfile-",
+      "url": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20261123231529/kradfile-3.6.2%2B20261123231529.json.tgz",
+      "file": "kradfile-3.6.2+20261123231529.json.tgz",
+      "sha256": "c6961d323b37c72131dc3f99bc4a4dc09b9f521216665f1ef74b313128ca1f61",
+      "bytes": 106128,
+      "license_note": "EDRDG / upstream terms; example and segmentation terms require review",
+      "publication_approved": false
+    },
+    {
+      "source": "JmdictFurigana.json",
+      "url": "https://github.com/Doublevil/JmdictFurigana/releases/download/2.3.1%2B2026-10-25/JmdictFurigana.json",
+      "file": "JmdictFurigana.json",
+      "sha256": "57c2afa7d153d42df97811d4a44865d10fb9104f6a7bacbbe32a0bf0c38e5abc",
+      "bytes": 34760497,
+      "license_note": "EDRDG / upstream terms; example and segmentation terms require review",
+      "publication_approved": false
+    }
+  ],
+  "errors": []
+}
