@@ -75,6 +75,12 @@ class ResearchPolicyTests(unittest.TestCase):
                          "exact-dictionary-match")
         self.assertEqual(map_exact_segment("山", "ざん", "", [{"value": "やま", "kind": "kun"}])["status"],
                          "unresolved")
+        # A partial segment in 開けたて must not stand in for 開ける.
+        self.assertEqual(map_exact_segment("開", "あ", "けたて",
+                         [{"value": "あ.ける", "kind": "kun"}])["status"], "unresolved")
+        # Whole-word 命（みこと）cannot support the separate reading いのち.
+        self.assertEqual(map_exact_segment("命", "みこと", "",
+                         [{"value": "いのち", "kind": "kun"}])["status"], "unresolved")
 
     def test_ten_uses_attested_juu_and_rejects_false_shii_link(self):
         readings = [{"value": "じゅう", "kind": "on"}, {"value": "とお", "kind": "kun"}]
