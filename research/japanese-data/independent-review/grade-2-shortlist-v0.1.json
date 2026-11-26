@@ -1,0 +1,4016 @@
+{
+  "version": "0.1",
+  "sourceCommit": "7db35c979ec6f1f1e6a88dcb067690a514c14f14",
+  "purpose": "Independent educational shortlist. All 160 Grade 2 records inspected at summary level (official reading labels, leading reading-specific and handwriting candidates and sample existing deck words). Reviewer-proposed alternatives may not be in current capped exports. Order is provisional educational judgment, not frequency rank. Verify exact IDs, contextual cues, mappings, spelling and grade relationships before implementation. No restricted local data used.",
+  "sourcePaths": [
+    "../consolidation/kanji/grade-2/",
+    "../consolidation/METHODS.md",
+    "policy-pilot-v0.1.md"
+  ],
+  "records": [
+    {
+      "kanji": "万",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "万",
+          "kana": "まん"
+        },
+        {
+          "spelling": "一万",
+          "kana": "いちまん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "万一",
+          "kana": "まんいち"
+        },
+        {
+          "spelling": "万全",
+          "kana": "ばんぜん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "丸",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "丸",
+          "kana": "まる"
+        },
+        {
+          "spelling": "丸い",
+          "kana": "まるい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "丸める",
+          "kana": "まるめる"
+        },
+        {
+          "spelling": "弾丸",
+          "kana": "だんがん"
+        }
+      ],
+      "reviewNote": "Ordinary 丸い missing or displaced by まろい; 丸める empty.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "交",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "交通",
+          "kana": "こうつう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "交わる",
+          "kana": "まじわる"
+        },
+        {
+          "spelling": "交換",
+          "kana": "こうかん"
+        },
+        {
+          "spelling": "交わす",
+          "kana": "かわす"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "京",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "東京",
+          "kana": "とうきょう"
+        },
+        {
+          "spelling": "京都",
+          "kana": "きょうと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "上京",
+          "kana": "じょうきょう"
+        }
+      ],
+      "reviewNote": "Familiar geographic names are justified for 京, not a general proper-name rule.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "今",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "今",
+          "kana": "いま"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "今後",
+          "kana": "こんご"
+        },
+        {
+          "spelling": "今回",
+          "kana": "こんかい"
+        },
+        {
+          "spelling": "今日",
+          "kana": "きょう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "会",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "会う",
+          "kana": "あう"
+        },
+        {
+          "spelling": "会社",
+          "kana": "かいしゃ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "会話",
+          "kana": "かいわ"
+        },
+        {
+          "spelling": "社会",
+          "kana": "しゃかい"
+        },
+        {
+          "spelling": "会釈",
+          "kana": "えしゃく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "体",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "体",
+          "kana": "からだ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "体力",
+          "kana": "たいりょく"
+        },
+        {
+          "spelling": "身体",
+          "kana": "しんたい"
+        },
+        {
+          "spelling": "体裁",
+          "kana": "ていさい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "何",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "何",
+          "kana": "なに"
+        },
+        {
+          "spelling": "何",
+          "kana": "なん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "何人",
+          "kana": "なんにん"
+        },
+        {
+          "spelling": "何事",
+          "kana": "なにごと"
+        }
+      ],
+      "reviewNote": "Separate contextual なに/なん without inventing meaning difference.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "作",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "作る",
+          "kana": "つくる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "作品",
+          "kana": "さくひん"
+        },
+        {
+          "spelling": "作業",
+          "kana": "さぎょう"
+        },
+        {
+          "spelling": "作文",
+          "kana": "さくぶん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "元",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "元気",
+          "kana": "げんき"
+        },
+        {
+          "spelling": "元",
+          "kana": "もと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "地元",
+          "kana": "じもと"
+        },
+        {
+          "spelling": "元日",
+          "kana": "がんじつ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "兄",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "兄",
+          "kana": "あに"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "兄弟",
+          "kana": "きょうだい"
+        },
+        {
+          "spelling": "義兄",
+          "kana": "ぎけい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "光",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "光",
+          "kana": "ひかり"
+        },
+        {
+          "spelling": "光る",
+          "kana": "ひかる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "観光",
+          "kana": "かんこう"
+        },
+        {
+          "spelling": "光線",
+          "kana": "こうせん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "公",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "公園",
+          "kana": "こうえん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "公共",
+          "kana": "こうきょう"
+        },
+        {
+          "spelling": "公",
+          "kana": "おおやけ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "内",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "内",
+          "kana": "うち"
+        },
+        {
+          "spelling": "内容",
+          "kana": "ないよう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "室内",
+          "kana": "しつない"
+        },
+        {
+          "spelling": "内側",
+          "kana": "うちがわ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "冬",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "冬",
+          "kana": "ふゆ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "冬休み",
+          "kana": "ふゆやすみ"
+        },
+        {
+          "spelling": "冬季",
+          "kana": "とうき"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "刀",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "刀",
+          "kana": "かたな"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "短刀",
+          "kana": "たんとう"
+        },
+        {
+          "spelling": "刀剣",
+          "kana": "とうけん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "分",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "分かる",
+          "kana": "わかる"
+        },
+        {
+          "spelling": "分ける",
+          "kana": "わける"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "自分",
+          "kana": "じぶん"
+        },
+        {
+          "spelling": "分かれる",
+          "kana": "わかれる"
+        },
+        {
+          "spelling": "三分",
+          "kana": "さんぷん"
+        },
+        {
+          "spelling": "五分",
+          "kana": "ごぶ"
+        }
+      ],
+      "reviewNote": "分ける missing; 分かる displaced by phrases.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "切",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "切る",
+          "kana": "きる"
+        },
+        {
+          "spelling": "大切",
+          "kana": "たいせつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "切れる",
+          "kana": "きれる"
+        },
+        {
+          "spelling": "親切",
+          "kana": "しんせつ"
+        },
+        {
+          "spelling": "一切",
+          "kana": "いっさい"
+        }
+      ],
+      "reviewNote": "切れる empty.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "前",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "前",
+          "kana": "まえ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "午前",
+          "kana": "ごぜん"
+        },
+        {
+          "spelling": "以前",
+          "kana": "いぜん"
+        },
+        {
+          "spelling": "名前",
+          "kana": "なまえ"
+        }
+      ],
+      "reviewNote": "Direct 前 before 名前 in introductory use.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "北",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "北",
+          "kana": "きた"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "北風",
+          "kana": "きたかぜ"
+        },
+        {
+          "spelling": "北部",
+          "kana": "ほくぶ"
+        },
+        {
+          "spelling": "南北",
+          "kana": "なんぼく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "午",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "午前",
+          "kana": "ごぜん"
+        },
+        {
+          "spelling": "午後",
+          "kana": "ごご"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "正午",
+          "kana": "しょうご"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "半",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "半分",
+          "kana": "はんぶん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "半年",
+          "kana": "はんとし"
+        },
+        {
+          "spelling": "半ば",
+          "kana": "なかば"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "南",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "南",
+          "kana": "みなみ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "南北",
+          "kana": "なんぼく"
+        },
+        {
+          "spelling": "南口",
+          "kana": "みなみぐち"
+        },
+        {
+          "spelling": "南部",
+          "kana": "なんぶ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "原",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "原因",
+          "kana": "げんいん"
+        },
+        {
+          "spelling": "原",
+          "kana": "はら"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "野原",
+          "kana": "のはら"
+        },
+        {
+          "spelling": "原理",
+          "kana": "げんり"
+        },
+        {
+          "spelling": "原稿",
+          "kana": "げんこう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "友",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "友達",
+          "kana": "ともだち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "友人",
+          "kana": "ゆうじん"
+        },
+        {
+          "spelling": "親友",
+          "kana": "しんゆう"
+        },
+        {
+          "spelling": "友情",
+          "kana": "ゆうじょう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "古",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "古い",
+          "kana": "ふるい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "古代",
+          "kana": "こだい"
+        },
+        {
+          "spelling": "古本",
+          "kana": "ふるほん"
+        }
+      ],
+      "reviewNote": "古い and 古す readings empty.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "台",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "台",
+          "kana": "だい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "台風",
+          "kana": "たいふう"
+        },
+        {
+          "spelling": "舞台",
+          "kana": "ぶたい"
+        },
+        {
+          "spelling": "灯台",
+          "kana": "とうだい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "合",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "合う",
+          "kana": "あう"
+        },
+        {
+          "spelling": "合わせる",
+          "kana": "あわせる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "合計",
+          "kana": "ごうけい"
+        },
+        {
+          "spelling": "合唱",
+          "kana": "がっしょう"
+        },
+        {
+          "spelling": "合戦",
+          "kana": "かっせん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "同",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "同じ",
+          "kana": "おなじ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "同時",
+          "kana": "どうじ"
+        },
+        {
+          "spelling": "同意",
+          "kana": "どうい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "回",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "回る",
+          "kana": "まわる"
+        },
+        {
+          "spelling": "回す",
+          "kana": "まわす"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "今回",
+          "kana": "こんかい"
+        },
+        {
+          "spelling": "一回",
+          "kana": "いっかい"
+        },
+        {
+          "spelling": "回答",
+          "kana": "かいとう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "図",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "地図",
+          "kana": "ちず"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "図書",
+          "kana": "としょ"
+        },
+        {
+          "spelling": "図る",
+          "kana": "はかる"
+        },
+        {
+          "spelling": "図形",
+          "kana": "ずけい"
+        }
+      ],
+      "reviewNote": "Prefer normal 図書/としょ; rare ずしょ not beginner.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "国",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "国",
+          "kana": "くに"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "外国",
+          "kana": "がいこく"
+        },
+        {
+          "spelling": "国語",
+          "kana": "こくご"
+        },
+        {
+          "spelling": "国家",
+          "kana": "こっか"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "園",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "公園",
+          "kana": "こうえん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "幼稚園",
+          "kana": "ようちえん"
+        },
+        {
+          "spelling": "花園",
+          "kana": "はなぞの"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "地",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "地面",
+          "kana": "じめん"
+        },
+        {
+          "spelling": "土地",
+          "kana": "とち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "地図",
+          "kana": "ちず"
+        },
+        {
+          "spelling": "地元",
+          "kana": "じもと"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "場",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "場所",
+          "kana": "ばしょ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "会場",
+          "kana": "かいじょう"
+        },
+        {
+          "spelling": "広場",
+          "kana": "ひろば"
+        },
+        {
+          "spelling": "現場",
+          "kana": "げんば"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "声",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "声",
+          "kana": "こえ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "歌声",
+          "kana": "うたごえ"
+        },
+        {
+          "spelling": "声援",
+          "kana": "せいえん"
+        },
+        {
+          "spelling": "声色",
+          "kana": "こわいろ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "売",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "売る",
+          "kana": "うる"
+        },
+        {
+          "spelling": "売れる",
+          "kana": "うれる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "売店",
+          "kana": "ばいてん"
+        },
+        {
+          "spelling": "商売",
+          "kana": "しょうばい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "夏",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "夏",
+          "kana": "なつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "夏休み",
+          "kana": "なつやすみ"
+        },
+        {
+          "spelling": "真夏",
+          "kana": "まなつ"
+        },
+        {
+          "spelling": "夏季",
+          "kana": "かき"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "外",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "外",
+          "kana": "そと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "外国",
+          "kana": "がいこく"
+        },
+        {
+          "spelling": "外す",
+          "kana": "はずす"
+        },
+        {
+          "spelling": "外れる",
+          "kana": "はずれる"
+        },
+        {
+          "spelling": "外科",
+          "kana": "げか"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "多",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "多い",
+          "kana": "おおい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "多数",
+          "kana": "たすう"
+        },
+        {
+          "spelling": "多少",
+          "kana": "たしょう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "夜",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "夜",
+          "kana": "よる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "今夜",
+          "kana": "こんや"
+        },
+        {
+          "spelling": "深夜",
+          "kana": "しんや"
+        },
+        {
+          "spelling": "夜中",
+          "kana": "よなか"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "太",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "太い",
+          "kana": "ふとい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "太陽",
+          "kana": "たいよう"
+        },
+        {
+          "spelling": "太る",
+          "kana": "ふとる"
+        },
+        {
+          "spelling": "太鼓",
+          "kana": "たいこ"
+        },
+        {
+          "spelling": "丸太",
+          "kana": "まるた"
+        }
+      ],
+      "reviewNote": "Do not use obscure 太山; keep useful existing 太鼓.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "妹",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "妹",
+          "kana": "いもうと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "姉妹",
+          "kana": "しまい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "姉",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "姉",
+          "kana": "あね"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "姉妹",
+          "kana": "しまい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "室",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "教室",
+          "kana": "きょうしつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "室内",
+          "kana": "しつない"
+        },
+        {
+          "spelling": "寝室",
+          "kana": "しんしつ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "家",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "家",
+          "kana": "いえ"
+        },
+        {
+          "spelling": "家族",
+          "kana": "かぞく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "家庭",
+          "kana": "かてい"
+        },
+        {
+          "spelling": "本家",
+          "kana": "ほんけ"
+        },
+        {
+          "spelling": "家主",
+          "kana": "やぬし"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "寺",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "寺",
+          "kana": "てら"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "寺院",
+          "kana": "じいん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "少",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "少し",
+          "kana": "すこし"
+        },
+        {
+          "spelling": "少ない",
+          "kana": "すくない"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "少年",
+          "kana": "しょうねん"
+        },
+        {
+          "spelling": "少女",
+          "kana": "しょうじょ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "岩",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "岩",
+          "kana": "いわ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "岩石",
+          "kana": "がんせき"
+        },
+        {
+          "spelling": "岩場",
+          "kana": "いわば"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "工",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "工場",
+          "kana": "こうじょう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "工事",
+          "kana": "こうじ"
+        },
+        {
+          "spelling": "加工",
+          "kana": "かこう"
+        },
+        {
+          "spelling": "細工",
+          "kana": "さいく"
+        }
+      ],
+      "reviewNote": "工場/こうじょう primary; こうば is valid contextual alternative.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "市",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "市",
+          "kana": "し"
+        },
+        {
+          "spelling": "市場",
+          "kana": "いちば"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "市内",
+          "kana": "しない"
+        },
+        {
+          "spelling": "都市",
+          "kana": "とし"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "帰",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "帰る",
+          "kana": "かえる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "帰り",
+          "kana": "かえり"
+        },
+        {
+          "spelling": "帰国",
+          "kana": "きこく"
+        },
+        {
+          "spelling": "帰す",
+          "kana": "かえす"
+        }
+      ],
+      "reviewNote": "帰る displaced by 帰り; both useful.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "広",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "広い",
+          "kana": "ひろい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "広がる",
+          "kana": "ひろがる"
+        },
+        {
+          "spelling": "広げる",
+          "kana": "ひろげる"
+        },
+        {
+          "spelling": "広場",
+          "kana": "ひろば"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "店",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "店",
+          "kana": "みせ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "店員",
+          "kana": "てんいん"
+        },
+        {
+          "spelling": "売店",
+          "kana": "ばいてん"
+        },
+        {
+          "spelling": "開店",
+          "kana": "かいてん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "弓",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "弓",
+          "kana": "ゆみ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "弓矢",
+          "kana": "ゆみや"
+        },
+        {
+          "spelling": "弓道",
+          "kana": "きゅうどう"
+        }
+      ],
+      "reviewNote": "Existing 弓/ゆ contextual not primary.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "引",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "引く",
+          "kana": "ひく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "引き出し",
+          "kana": "ひきだし"
+        },
+        {
+          "spelling": "引力",
+          "kana": "いんりょく"
+        },
+        {
+          "spelling": "引退",
+          "kana": "いんたい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "弟",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "弟",
+          "kana": "おとうと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "兄弟",
+          "kana": "きょうだい"
+        },
+        {
+          "spelling": "弟子",
+          "kana": "でし"
+        }
+      ],
+      "reviewNote": "Existing standalone 弟/てい is not usual noun reading.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "弱",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "弱い",
+          "kana": "よわい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "弱点",
+          "kana": "じゃくてん"
+        },
+        {
+          "spelling": "弱る",
+          "kana": "よわる"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "強",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "強い",
+          "kana": "つよい"
+        },
+        {
+          "spelling": "勉強",
+          "kana": "べんきょう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "強まる",
+          "kana": "つよまる"
+        },
+        {
+          "spelling": "強引",
+          "kana": "ごういん"
+        }
+      ],
+      "reviewNote": "強い displaced by 強がる.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "当",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "当たる",
+          "kana": "あたる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "当てる",
+          "kana": "あてる"
+        },
+        {
+          "spelling": "当然",
+          "kana": "とうぜん"
+        },
+        {
+          "spelling": "本当",
+          "kana": "ほんとう"
+        }
+      ],
+      "reviewNote": "当てる empty.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "形",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "形",
+          "kana": "かたち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "人形",
+          "kana": "にんぎょう"
+        },
+        {
+          "spelling": "図形",
+          "kana": "ずけい"
+        },
+        {
+          "spelling": "形成",
+          "kana": "けいせい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "後",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "後ろ",
+          "kana": "うしろ"
+        },
+        {
+          "spelling": "後",
+          "kana": "あと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "午後",
+          "kana": "ごご"
+        },
+        {
+          "spelling": "後悔",
+          "kana": "こうかい"
+        },
+        {
+          "spelling": "後",
+          "kana": "のち"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "心",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "心",
+          "kana": "こころ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "心配",
+          "kana": "しんぱい"
+        },
+        {
+          "spelling": "安心",
+          "kana": "あんしん"
+        },
+        {
+          "spelling": "感心",
+          "kana": "かんしん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "思",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "思う",
+          "kana": "おもう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "思い",
+          "kana": "おもい"
+        },
+        {
+          "spelling": "思想",
+          "kana": "しそう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "戸",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "戸",
+          "kana": "と"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "雨戸",
+          "kana": "あまど"
+        },
+        {
+          "spelling": "戸籍",
+          "kana": "こせき"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "才",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "才能",
+          "kana": "さいのう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "天才",
+          "kana": "てんさい"
+        },
+        {
+          "spelling": "秀才",
+          "kana": "しゅうさい"
+        }
+      ],
+      "reviewNote": "Use 才能 rather than treating nonstandard age spelling as default.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "教",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "教える",
+          "kana": "おしえる"
+        },
+        {
+          "spelling": "教室",
+          "kana": "きょうしつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "教わる",
+          "kana": "おそわる"
+        },
+        {
+          "spelling": "教育",
+          "kana": "きょういく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "数",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "数",
+          "kana": "かず"
+        },
+        {
+          "spelling": "数える",
+          "kana": "かぞえる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "数字",
+          "kana": "すうじ"
+        },
+        {
+          "spelling": "人数",
+          "kana": "にんずう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "新",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "新しい",
+          "kana": "あたらしい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "新聞",
+          "kana": "しんぶん"
+        },
+        {
+          "spelling": "新年",
+          "kana": "しんねん"
+        },
+        {
+          "spelling": "新た",
+          "kana": "あらた"
+        }
+      ],
+      "reviewNote": "新た missing from reading candidates.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "方",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "方",
+          "kana": "かた"
+        },
+        {
+          "spelling": "方法",
+          "kana": "ほうほう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "方向",
+          "kana": "ほうこう"
+        },
+        {
+          "spelling": "話し方",
+          "kana": "はなしかた"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "明",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "明るい",
+          "kana": "あかるい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "明らか",
+          "kana": "あきらか"
+        },
+        {
+          "spelling": "説明",
+          "kana": "せつめい"
+        },
+        {
+          "spelling": "明ける",
+          "kana": "あける"
+        },
+        {
+          "spelling": "明かり",
+          "kana": "あかり"
+        }
+      ],
+      "reviewNote": "明ける missing; 明日/あした is whole-word reading.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "星",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "星",
+          "kana": "ほし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "星座",
+          "kana": "せいざ"
+        },
+        {
+          "spelling": "衛星",
+          "kana": "えいせい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "春",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "春",
+          "kana": "はる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "春休み",
+          "kana": "はるやすみ"
+        },
+        {
+          "spelling": "青春",
+          "kana": "せいしゅん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "昼",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "昼",
+          "kana": "ひる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "昼ご飯",
+          "kana": "ひるごはん"
+        },
+        {
+          "spelling": "昼寝",
+          "kana": "ひるね"
+        },
+        {
+          "spelling": "昼食",
+          "kana": "ちゅうしょく"
+        }
+      ],
+      "reviewNote": "昼ご飯 may be a phrase/orthographic variant; confirm exact ID.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "時",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "時",
+          "kana": "とき"
+        },
+        {
+          "spelling": "時間",
+          "kana": "じかん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "時々",
+          "kana": "ときどき"
+        },
+        {
+          "spelling": "一時",
+          "kana": "いちじ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "晴",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "晴れる",
+          "kana": "はれる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "晴れ",
+          "kana": "はれ"
+        },
+        {
+          "spelling": "晴天",
+          "kana": "せいてん"
+        },
+        {
+          "spelling": "気晴らし",
+          "kana": "きばらし"
+        }
+      ],
+      "reviewNote": "晴れる missing.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "曜",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "曜日",
+          "kana": "ようび"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "日曜日",
+          "kana": "にちようび"
+        },
+        {
+          "spelling": "月曜日",
+          "kana": "げつようび"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "書",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "書く",
+          "kana": "かく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "読書",
+          "kana": "どくしょ"
+        },
+        {
+          "spelling": "書店",
+          "kana": "しょてん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "朝",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "朝",
+          "kana": "あさ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "毎朝",
+          "kana": "まいあさ"
+        },
+        {
+          "spelling": "早朝",
+          "kana": "そうちょう"
+        },
+        {
+          "spelling": "今朝",
+          "kana": "けさ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "来",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "来る",
+          "kana": "くる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "来年",
+          "kana": "らいねん"
+        },
+        {
+          "spelling": "未来",
+          "kana": "みらい"
+        },
+        {
+          "spelling": "以来",
+          "kana": "いらい"
+        }
+      ],
+      "reviewNote": "来る/くる displaced by phrases; separate contextual conjugations.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "東",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "東",
+          "kana": "ひがし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "東西",
+          "kana": "とうざい"
+        },
+        {
+          "spelling": "東口",
+          "kana": "ひがしぐち"
+        },
+        {
+          "spelling": "東京",
+          "kana": "とうきょう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "楽",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "楽しい",
+          "kana": "たのしい"
+        },
+        {
+          "spelling": "音楽",
+          "kana": "おんがく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "楽しむ",
+          "kana": "たのしむ"
+        },
+        {
+          "spelling": "楽",
+          "kana": "らく"
+        },
+        {
+          "spelling": "楽器",
+          "kana": "がっき"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "歌",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "歌",
+          "kana": "うた"
+        },
+        {
+          "spelling": "歌う",
+          "kana": "うたう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "歌声",
+          "kana": "うたごえ"
+        },
+        {
+          "spelling": "歌手",
+          "kana": "かしゅ"
+        },
+        {
+          "spelling": "短歌",
+          "kana": "たんか"
+        }
+      ],
+      "reviewNote": "歌う missing.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "止",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "止まる",
+          "kana": "とまる"
+        },
+        {
+          "spelling": "止める",
+          "kana": "とめる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "中止",
+          "kana": "ちゅうし"
+        },
+        {
+          "spelling": "禁止",
+          "kana": "きんし"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "歩",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "歩く",
+          "kana": "あるく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "散歩",
+          "kana": "さんぽ"
+        },
+        {
+          "spelling": "一歩",
+          "kana": "いっぽ"
+        },
+        {
+          "spelling": "進歩",
+          "kana": "しんぽ"
+        },
+        {
+          "spelling": "歩む",
+          "kana": "あゆむ"
+        }
+      ],
+      "reviewNote": "Reject 歩/あゆみ as evidence for フ.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "母",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "母",
+          "kana": "はは"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "母親",
+          "kana": "ははおや"
+        },
+        {
+          "spelling": "祖母",
+          "kana": "そぼ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "毎",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "毎日",
+          "kana": "まいにち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "毎朝",
+          "kana": "まいあさ"
+        },
+        {
+          "spelling": "毎週",
+          "kana": "まいしゅう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "毛",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "毛",
+          "kana": "け"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "毛糸",
+          "kana": "けいと"
+        },
+        {
+          "spelling": "毛布",
+          "kana": "もうふ"
+        },
+        {
+          "spelling": "毛髪",
+          "kana": "もうはつ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "池",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "池",
+          "kana": "いけ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "電池",
+          "kana": "でんち"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "汽",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "汽車",
+          "kana": "きしゃ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "汽船",
+          "kana": "きせん"
+        },
+        {
+          "spelling": "汽笛",
+          "kana": "きてき"
+        }
+      ],
+      "reviewNote": "汽車 is historically useful standard illustration; distinguish steam train from general 電車.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "活",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "生活",
+          "kana": "せいかつ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "活動",
+          "kana": "かつどう"
+        },
+        {
+          "spelling": "活用",
+          "kana": "かつよう"
+        },
+        {
+          "spelling": "活躍",
+          "kana": "かつやく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "海",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "海",
+          "kana": "うみ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "海外",
+          "kana": "かいがい"
+        },
+        {
+          "spelling": "海岸",
+          "kana": "かいがん"
+        },
+        {
+          "spelling": "海水",
+          "kana": "かいすい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "点",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "点",
+          "kana": "てん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "点数",
+          "kana": "てんすう"
+        },
+        {
+          "spelling": "採点",
+          "kana": "さいてん"
+        },
+        {
+          "spelling": "点線",
+          "kana": "てんせん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "父",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "父",
+          "kana": "ちち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "父親",
+          "kana": "ちちおや"
+        },
+        {
+          "spelling": "祖父",
+          "kana": "そふ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "牛",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "牛",
+          "kana": "うし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "牛乳",
+          "kana": "ぎゅうにゅう"
+        },
+        {
+          "spelling": "牛肉",
+          "kana": "ぎゅうにく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "理",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "理由",
+          "kana": "りゆう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "理科",
+          "kana": "りか"
+        },
+        {
+          "spelling": "料理",
+          "kana": "りょうり"
+        },
+        {
+          "spelling": "整理",
+          "kana": "せいり"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "用",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "用事",
+          "kana": "ようじ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "使用",
+          "kana": "しよう"
+        },
+        {
+          "spelling": "用意",
+          "kana": "ようい"
+        },
+        {
+          "spelling": "用いる",
+          "kana": "もちいる"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "画",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "映画",
+          "kana": "えいが"
+        },
+        {
+          "spelling": "計画",
+          "kana": "けいかく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "画家",
+          "kana": "がか"
+        },
+        {
+          "spelling": "画像",
+          "kana": "がぞう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "番",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "番号",
+          "kana": "ばんごう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "順番",
+          "kana": "じゅんばん"
+        },
+        {
+          "spelling": "番組",
+          "kana": "ばんぐみ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "直",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "直す",
+          "kana": "なおす"
+        },
+        {
+          "spelling": "直る",
+          "kana": "なおる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "直接",
+          "kana": "ちょくせつ"
+        },
+        {
+          "spelling": "正直",
+          "kana": "しょうじき"
+        },
+        {
+          "spelling": "直ちに",
+          "kana": "ただちに"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "矢",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "矢",
+          "kana": "や"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "矢印",
+          "kana": "やじるし"
+        },
+        {
+          "spelling": "一矢",
+          "kana": "いっし"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "知",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "知る",
+          "kana": "しる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "知識",
+          "kana": "ちしき"
+        },
+        {
+          "spelling": "知恵",
+          "kana": "ちえ"
+        },
+        {
+          "spelling": "通知",
+          "kana": "つうち"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "社",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "会社",
+          "kana": "かいしゃ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "社会",
+          "kana": "しゃかい"
+        },
+        {
+          "spelling": "神社",
+          "kana": "じんじゃ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "秋",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "秋",
+          "kana": "あき"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "秋分",
+          "kana": "しゅうぶん"
+        },
+        {
+          "spelling": "秋季",
+          "kana": "しゅうき"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "科",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "理科",
+          "kana": "りか"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "科学",
+          "kana": "かがく"
+        },
+        {
+          "spelling": "教科",
+          "kana": "きょうか"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "答",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "答える",
+          "kana": "こたえる"
+        },
+        {
+          "spelling": "答え",
+          "kana": "こたえ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "回答",
+          "kana": "かいとう"
+        },
+        {
+          "spelling": "応答",
+          "kana": "おうとう"
+        }
+      ],
+      "reviewNote": "答える missing.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "算",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "算数",
+          "kana": "さんすう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "計算",
+          "kana": "けいさん"
+        },
+        {
+          "spelling": "予算",
+          "kana": "よさん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "米",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "米",
+          "kana": "こめ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "新米",
+          "kana": "しんまい"
+        },
+        {
+          "spelling": "米国",
+          "kana": "べいこく"
+        },
+        {
+          "spelling": "米粒",
+          "kana": "こめつぶ"
+        }
+      ],
+      "reviewNote": "米/こめ ordinary; 米国 teaches ベイ, not the food sense.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "紙",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "紙",
+          "kana": "かみ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "手紙",
+          "kana": "てがみ"
+        },
+        {
+          "spelling": "用紙",
+          "kana": "ようし"
+        },
+        {
+          "spelling": "折り紙",
+          "kana": "おりがみ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "細",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "細い",
+          "kana": "ほそい"
+        },
+        {
+          "spelling": "細かい",
+          "kana": "こまかい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "詳細",
+          "kana": "しょうさい"
+        },
+        {
+          "spelling": "細胞",
+          "kana": "さいぼう"
+        }
+      ],
+      "reviewNote": "細かい missing; direct 細い preferred over 心細い.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "組",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "組",
+          "kana": "くみ"
+        },
+        {
+          "spelling": "組む",
+          "kana": "くむ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "組織",
+          "kana": "そしき"
+        },
+        {
+          "spelling": "番組",
+          "kana": "ばんぐみ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "絵",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "絵",
+          "kana": "え"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "絵本",
+          "kana": "えほん"
+        },
+        {
+          "spelling": "絵画",
+          "kana": "かいが"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "線",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "線",
+          "kana": "せん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "線路",
+          "kana": "せんろ"
+        },
+        {
+          "spelling": "点線",
+          "kana": "てんせん"
+        },
+        {
+          "spelling": "光線",
+          "kana": "こうせん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "羽",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "羽",
+          "kana": "はね"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "羽毛",
+          "kana": "うもう"
+        },
+        {
+          "spelling": "一羽",
+          "kana": "いちわ"
+        }
+      ],
+      "reviewNote": "一羽 counter わ distinct from noun reading; preserve contextual variant.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "考",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "考える",
+          "kana": "かんがえる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "考え",
+          "kana": "かんがえ"
+        },
+        {
+          "spelling": "参考",
+          "kana": "さんこう"
+        },
+        {
+          "spelling": "考慮",
+          "kana": "こうりょ"
+        }
+      ],
+      "reviewNote": "考える missing.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "聞",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "聞く",
+          "kana": "きく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "聞こえる",
+          "kana": "きこえる"
+        },
+        {
+          "spelling": "新聞",
+          "kana": "しんぶん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "肉",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "肉",
+          "kana": "にく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "牛肉",
+          "kana": "ぎゅうにく"
+        },
+        {
+          "spelling": "筋肉",
+          "kana": "きんにく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "自",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "自分",
+          "kana": "じぶん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "自由",
+          "kana": "じゆう"
+        },
+        {
+          "spelling": "自然",
+          "kana": "しぜん"
+        },
+        {
+          "spelling": "自ら",
+          "kana": "みずから"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "船",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "船",
+          "kana": "ふね"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "船旅",
+          "kana": "ふなたび"
+        },
+        {
+          "spelling": "乗船",
+          "kana": "じょうせん"
+        },
+        {
+          "spelling": "汽船",
+          "kana": "きせん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "色",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "色",
+          "kana": "いろ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "色々",
+          "kana": "いろいろ"
+        },
+        {
+          "spelling": "色彩",
+          "kana": "しきさい"
+        },
+        {
+          "spelling": "特色",
+          "kana": "とくしょく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "茶",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "お茶",
+          "kana": "おちゃ"
+        },
+        {
+          "spelling": "茶",
+          "kana": "ちゃ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "茶色",
+          "kana": "ちゃいろ"
+        },
+        {
+          "spelling": "喫茶",
+          "kana": "きっさ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "行",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "行く",
+          "kana": "いく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "行う",
+          "kana": "おこなう"
+        },
+        {
+          "spelling": "旅行",
+          "kana": "りょこう"
+        },
+        {
+          "spelling": "行列",
+          "kana": "ぎょうれつ"
+        },
+        {
+          "spelling": "行く",
+          "kana": "ゆく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "西",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "西",
+          "kana": "にし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "東西",
+          "kana": "とうざい"
+        },
+        {
+          "spelling": "西部",
+          "kana": "せいぶ"
+        },
+        {
+          "spelling": "西口",
+          "kana": "にしぐち"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "親",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "親",
+          "kana": "おや"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "親子",
+          "kana": "おやこ"
+        },
+        {
+          "spelling": "親友",
+          "kana": "しんゆう"
+        },
+        {
+          "spelling": "親しい",
+          "kana": "したしい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "角",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "角",
+          "kana": "かど"
+        },
+        {
+          "spelling": "角",
+          "kana": "つの"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "三角",
+          "kana": "さんかく"
+        },
+        {
+          "spelling": "角度",
+          "kana": "かくど"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "言",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "言う",
+          "kana": "いう"
+        },
+        {
+          "spelling": "言葉",
+          "kana": "ことば"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "発言",
+          "kana": "はつげん"
+        },
+        {
+          "spelling": "伝言",
+          "kana": "でんごん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "計",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "計算",
+          "kana": "けいさん"
+        },
+        {
+          "spelling": "計画",
+          "kana": "けいかく"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "計る",
+          "kana": "はかる"
+        },
+        {
+          "spelling": "合計",
+          "kana": "ごうけい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "記",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "日記",
+          "kana": "にっき"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "記録",
+          "kana": "きろく"
+        },
+        {
+          "spelling": "記事",
+          "kana": "きじ"
+        },
+        {
+          "spelling": "記す",
+          "kana": "しるす"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "話",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "話す",
+          "kana": "はなす"
+        },
+        {
+          "spelling": "話",
+          "kana": "はなし"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "会話",
+          "kana": "かいわ"
+        },
+        {
+          "spelling": "電話",
+          "kana": "でんわ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "語",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "国語",
+          "kana": "こくご"
+        },
+        {
+          "spelling": "語る",
+          "kana": "かたる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "日本語",
+          "kana": "にほんご"
+        },
+        {
+          "spelling": "英語",
+          "kana": "えいご"
+        },
+        {
+          "spelling": "物語",
+          "kana": "ものがたり"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "読",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "読む",
+          "kana": "よむ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "読書",
+          "kana": "どくしょ"
+        },
+        {
+          "spelling": "読み方",
+          "kana": "よみかた"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "谷",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "谷",
+          "kana": "たに"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "谷川",
+          "kana": "たにがわ"
+        },
+        {
+          "spelling": "渓谷",
+          "kana": "けいこく"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "買",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "買う",
+          "kana": "かう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "買い物",
+          "kana": "かいもの"
+        },
+        {
+          "spelling": "売買",
+          "kana": "ばいばい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "走",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "走る",
+          "kana": "はしる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "競走",
+          "kana": "きょうそう"
+        },
+        {
+          "spelling": "走行",
+          "kana": "そうこう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "近",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "近い",
+          "kana": "ちかい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "近所",
+          "kana": "きんじょ"
+        },
+        {
+          "spelling": "近く",
+          "kana": "ちかく"
+        },
+        {
+          "spelling": "最近",
+          "kana": "さいきん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "通",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "通る",
+          "kana": "とおる"
+        },
+        {
+          "spelling": "通う",
+          "kana": "かよう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "普通",
+          "kana": "ふつう"
+        },
+        {
+          "spelling": "通す",
+          "kana": "とおす"
+        },
+        {
+          "spelling": "交通",
+          "kana": "こうつう"
+        }
+      ],
+      "reviewNote": "Reject 通り/どうり as sole evidence of とおる; handle rendaku/context.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "週",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "週",
+          "kana": "しゅう"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "毎週",
+          "kana": "まいしゅう"
+        },
+        {
+          "spelling": "週末",
+          "kana": "しゅうまつ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "道",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "道",
+          "kana": "みち"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "道路",
+          "kana": "どうろ"
+        },
+        {
+          "spelling": "近道",
+          "kana": "ちかみち"
+        },
+        {
+          "spelling": "鉄道",
+          "kana": "てつどう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "遠",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "遠い",
+          "kana": "とおい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "遠足",
+          "kana": "えんそく"
+        },
+        {
+          "spelling": "遠ざかる",
+          "kana": "とおざかる"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "里",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "里",
+          "kana": "さと"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "里山",
+          "kana": "さとやま"
+        },
+        {
+          "spelling": "里",
+          "kana": "り"
+        }
+      ],
+      "reviewNote": "里/り historical distance unit; distinct cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "野",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "野菜",
+          "kana": "やさい"
+        },
+        {
+          "spelling": "野原",
+          "kana": "のはら"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "分野",
+          "kana": "ぶんや"
+        },
+        {
+          "spelling": "野外",
+          "kana": "やがい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "長",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "長い",
+          "kana": "ながい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "長男",
+          "kana": "ちょうなん"
+        },
+        {
+          "spelling": "成長",
+          "kana": "せいちょう"
+        },
+        {
+          "spelling": "校長",
+          "kana": "こうちょう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "門",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "門",
+          "kana": "もん"
+        },
+        {
+          "spelling": "校門",
+          "kana": "こうもん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "専門",
+          "kana": "せんもん"
+        },
+        {
+          "spelling": "門松",
+          "kana": "かどまつ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "間",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "間",
+          "kana": "あいだ"
+        },
+        {
+          "spelling": "時間",
+          "kana": "じかん"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "間違う",
+          "kana": "まちがう"
+        },
+        {
+          "spelling": "世間",
+          "kana": "せけん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "雪",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "雪",
+          "kana": "ゆき"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "積雪",
+          "kana": "せきせつ"
+        },
+        {
+          "spelling": "吹雪",
+          "kana": "ふぶき"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "雲",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "雲",
+          "kana": "くも"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "雨雲",
+          "kana": "あまぐも"
+        },
+        {
+          "spelling": "雲海",
+          "kana": "うんかい"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "電",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "電気",
+          "kana": "でんき"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "電車",
+          "kana": "でんしゃ"
+        },
+        {
+          "spelling": "電話",
+          "kana": "でんわ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "頭",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "頭",
+          "kana": "あたま"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "頭痛",
+          "kana": "ずつう"
+        },
+        {
+          "spelling": "頭部",
+          "kana": "とうぶ"
+        },
+        {
+          "spelling": "音頭",
+          "kana": "おんど"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "顔",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "顔",
+          "kana": "かお"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "笑顔",
+          "kana": "えがお"
+        },
+        {
+          "spelling": "横顔",
+          "kana": "よこがお"
+        },
+        {
+          "spelling": "顔面",
+          "kana": "がんめん"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "風",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "風",
+          "kana": "かぜ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "台風",
+          "kana": "たいふう"
+        },
+        {
+          "spelling": "風景",
+          "kana": "ふうけい"
+        },
+        {
+          "spelling": "風上",
+          "kana": "かざかみ"
+        },
+        {
+          "spelling": "風呂",
+          "kana": "ふろ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "食",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "食べる",
+          "kana": "たべる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "食事",
+          "kana": "しょくじ"
+        },
+        {
+          "spelling": "食べ物",
+          "kana": "たべもの"
+        },
+        {
+          "spelling": "食う",
+          "kana": "くう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "首",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "首",
+          "kana": "くび"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "首都",
+          "kana": "しゅと"
+        },
+        {
+          "spelling": "首相",
+          "kana": "しゅしょう"
+        },
+        {
+          "spelling": "首飾り",
+          "kana": "くびかざり"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "馬",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "馬",
+          "kana": "うま"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "乗馬",
+          "kana": "じょうば"
+        },
+        {
+          "spelling": "馬力",
+          "kana": "ばりき"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "高",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "高い",
+          "kana": "たかい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "高校",
+          "kana": "こうこう"
+        },
+        {
+          "spelling": "最高",
+          "kana": "さいこう"
+        },
+        {
+          "spelling": "高まる",
+          "kana": "たかまる"
+        }
+      ],
+      "reviewNote": "Stretched たっかーい not default reading; 高まる missing.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "魚",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "魚",
+          "kana": "さかな"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "金魚",
+          "kana": "きんぎょ"
+        },
+        {
+          "spelling": "魚",
+          "kana": "うお"
+        }
+      ],
+      "reviewNote": "さかな ordinary noun; うお legitimate contextual variant.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "鳥",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "鳥",
+          "kana": "とり"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "小鳥",
+          "kana": "ことり"
+        },
+        {
+          "spelling": "野鳥",
+          "kana": "やちょう"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "鳴",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "鳴く",
+          "kana": "なく"
+        },
+        {
+          "spelling": "鳴る",
+          "kana": "なる"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "鳴らす",
+          "kana": "ならす"
+        },
+        {
+          "spelling": "悲鳴",
+          "kana": "ひめい"
+        }
+      ],
+      "reviewNote": "Avoid forced mapping of 自鳴鐘/とけい.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "麦",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "麦",
+          "kana": "むぎ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "小麦",
+          "kana": "こむぎ"
+        },
+        {
+          "spelling": "麦茶",
+          "kana": "むぎちゃ"
+        },
+        {
+          "spelling": "麦芽",
+          "kana": "ばくが"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "黄",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "黄色",
+          "kana": "きいろ"
+        },
+        {
+          "spelling": "黄色い",
+          "kana": "きいろい"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "黄金",
+          "kana": "おうごん"
+        },
+        {
+          "spelling": "卵黄",
+          "kana": "らんおう"
+        }
+      ],
+      "reviewNote": "黄金/おうごん and 卵黄 are secondary; こ contextual.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    },
+    {
+      "kanji": "黒",
+      "grade": 2,
+      "initial": [
+        {
+          "spelling": "黒い",
+          "kana": "くろい"
+        },
+        {
+          "spelling": "黒",
+          "kana": "くろ"
+        }
+      ],
+      "later": [
+        {
+          "spelling": "黒字",
+          "kana": "くろじ"
+        },
+        {
+          "spelling": "白黒",
+          "kana": "しろくろ"
+        }
+      ],
+      "reviewNote": "Prioritize ordinary direct forms and useful compounds; verify exact dictionary form and cue.",
+      "status": "provisional; exact JMdict IDs, sense cues and segmentation pending"
+    }
+  ]
+}
