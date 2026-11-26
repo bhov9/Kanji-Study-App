@@ -1,5 +1,20 @@
 # Japanese curriculum research — master handoff
 
+## Editorial review completed 27 November 2026
+
+- Reviewed all three Grade 1–2 unresolved rows and the 14 distinct Grade 3–6 ambiguous spelling/reading pairs (34 occurrences). Decisions and cautions are recorded in [verification-review-v0.1.md](verification-review-v0.1.md).
+- Recommended Grade 1–2 sense choices: 正す（ただす） → JMdict 1376630 (“to correct/set right”); 元（もと） → 1260670 (“origin/source” or “basis/foundation”). 千人（せんにん） is a valid compositional counting expression but has no exact JMdict form/reading in the local snapshot; only retain it as a separately authored expression without copied JMdict identity or frequency evidence, or replace it with an exact dictionary form.
+- Identified unsupported nested reading associations in the Grade 3–6 queues: 開けたて（あけたて） was proposed for 開ける（あける）, and 命（みこと） for いのち. Do not use these rows as reading evidence. Other ambiguities were classified as sense/context decisions; recommended default entries appear in the review note.
+- Added regression cases for the partial-okurigana and whole-word mismatches. The research-policy suite still passes all 12 tests.
+- No production, user-progress, scheduling, or deployment changes were made. The branch remains research-only.
+
+## New commits
+
+- `ae480d998c3f650a34eff4f016c505aa5b50ecbd` — added the two reading-association regressions in `tests/test_research_policies.py`.
+- `f5fbd39d9971205e7c683c8ec51d37feeb105a31` — added `verification-review-v0.1.md`.
+- This handoff update is the following commit in the research branch history.
+
+
 ## Local verification completed 27 November 2026
 
 These results supersede the earlier pending-verification notes below. All dictionary queries used the existing local SQLite database in read-only mode. Both the initial/later shortlist and the separately nested reading proposals are covered. Each occurrence retains its own queue position.
@@ -48,7 +63,7 @@ Regression command (PowerShell, from the repository root):
 & "$env:USERPROFILE/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe" -B -m unittest discover -s research/japanese-data/independent-review/tests -v
 ```
 
-All 12 tests passed. Next review the three Grade 1–2 exceptions and the 14 ambiguous Grade 3–6 pairs, then check senses, cues and per-kanji segmentation independently. Higher-grade curriculum approval and any versioned rebuild remain pending.
+All 12 tests passed. The editorial recommendations for the three Grade 1–2 exceptions and 14 Grade 3–6 ambiguous pairs are in [verification-review-v0.1.md](verification-review-v0.1.md). Full curriculum approval, correction of legacy mappings, and any versioned rebuild remain pending.
 
 
 Updated 26 November 2026. All work below is confined to `research/japanese-data-acquisition`; production branch and app were not modified.
