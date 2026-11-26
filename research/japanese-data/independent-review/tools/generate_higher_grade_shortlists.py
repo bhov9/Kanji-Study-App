@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import re
 from pathlib import Path
 
 
@@ -19,10 +18,10 @@ def hira(text):
 
 def candidate_order(item):
     row = item.get("candidate", item)
-    ranks = row.get("ranks") or []
+    ranks = row.get("ranks", row.get("sourceRanks", [])) or []
     return (
         0 if row.get("handwriting_tier") == "preferred" else 1,
-        0 if row.get("common") else 1,
+        0 if row.get("common", row.get("commonForm", False)) else 1,
         -sum(rank is not None for rank in ranks),
         min((rank for rank in ranks if rank is not None), default=10**12),
         len(row.get("form", "")), row.get("id", 0),
@@ -33,7 +32,6 @@ def read_record(path):
     data = json.loads(path.read_text(encoding="utf-8"))
     character = data["character"]
     proposal_by_reading = []
-    seen_ids = set()
     for reading in sorted(data.get("readings", []), key=lambda r: (
             0 if r.get("official") else 1,
             {"preferred": 0, "secondary": 1, "reference-only": 2}.get(r.get("category"), 3),
@@ -58,8 +56,6 @@ def read_record(path):
                               "mappingStatus": "legacy-export-mapping-unverified",
                               "reviewStatus": "automated-proposal; exact database and human review required"})
         proposals.sort(key=candidate_order)
-        for proposal in proposals:
-            seen_ids.add((proposal["jmdictId"], proposal["spelling"], proposal["kana"]))
         proposal_by_reading.append({
             "reading": reading["reading"], "official": True,
             "sourceCategory": reading.get("category"),
