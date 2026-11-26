@@ -1,5 +1,56 @@
 # Japanese curriculum research — master handoff
 
+## Local verification completed 27 November 2026
+
+These results supersede the earlier pending-verification notes below. All dictionary queries used the existing local SQLite database in read-only mode. Both the initial/later shortlist and the separately nested reading proposals are covered. Each occurrence retains its own queue position.
+
+| Report | Location |
+|---|---|
+| Grade 1–2 original verifier output (byte-for-byte copy) | [grade-1-2-shortlist-verification-v0.1.json](outputs/grade-1-2-shortlist-verification-v0.1.json) |
+| Grade 3–6 combined verifier evidence | [grade-3-6-shortlist-verification-v0.1.json](outputs/grade-3-6-shortlist-verification-v0.1.json) |
+| Grade 3–6 unresolved rows and their evidence | [grade-3-6-unresolved-v0.1.json](outputs/grade-3-6-unresolved-v0.1.json) |
+
+Grade 1 had 338 unique, one ambiguous and one missing occurrence. Grade 2 had 600 unique, one ambiguous and zero missing. 千人（せんにん） had no exact match. 正す（ただす） matched 1320660, 1376630 and 1610220. 元（もと） matched 1260670 and 2219590.
+
+| Grade | Initial + later unique | Initial + later ambiguous | Reading proposals unique | Reading proposals ambiguous | Missing across both |
+|---|---:|---:|---:|---:|---:|
+| 3 | 1,263 | 2 | 1,378 | 4 | 0 |
+| 4 | 1,145 | 8 | 1,206 | 8 | 0 |
+| 5 | 1,050 | 3 | 1,081 | 7 | 0 |
+| 6 | 1,078 | 1 | 1,149 | 1 | 0 |
+
+Across 9,384 proposal occurrences, 9,350 had one exact dictionary entry and 34 had multiple entries. All 4,599 distinct spelling/reading pairs had at least one match. Every proposed JMdict ID was among its pair’s owners. The combined report stores each lookup once. Use the zero-based lookupIndex on each row to retrieve senses, restrictions, segmentations, candidate IDs and source-scoped observations. For nested proposals, reading identifies the proposed kanji reading; candidate.reading in the lookup is the word pronunciation.
+
+| Grade | Ambiguous form | Reading | Candidate JMdict IDs |
+|---|---|---|---|
+| 3 | 命 | みこと | 1604460, 1694240 |
+| 3 | 路上 | ろじょう | 1612340, 5741279 |
+| 3 | 開けたて | あけたて | 1202470, 2855847 |
+| 4 | 京阪 | けいはん | 1233370, 5219761 |
+| 4 | 位 | くらい | 1154340, 1155400 |
+| 4 | 共同 | きょうどう | 1591660, 5220560 |
+| 4 | 固め | かため | 1266560, 2763630 |
+| 4 | 鏡 | かがみ | 1238550, 2017840 |
+| 5 | 妻 | つま | 1294330, 2746070, 2852371 |
+| 5 | 素性 | そせい | 1397290, 2850177 |
+| 5 | 統一 | とういつ | 1449670, 5560631 |
+| 5 | 解かす | とかす | 1546040, 1598660 |
+| 5 | 解ける | とける | 1198910, 1546070 |
+| 6 | 同盟 | どうめい | 1599290, 5744958 |
+
+Evidence was screened against the public source allowlist (Shiberu, TUBELEX, wordfreq and Jiten). No restricted corpus fields were present or omitted. The jiten:kanji series describes a character and cannot establish a word or pronunciation rank. See the [license notices](../consolidation/SOURCES.md).
+
+The existing verify_shortlists.verify function processed all four queue paths for initial/later rows; the same verifier lookup ran on additional nested reading proposals using mode=ro and PRAGMA query_only. The report preserves multiple dictionary owners without selecting a sense or cue. Legacy per-character mappings still need separate verification.
+
+Regression command (PowerShell, from the repository root):
+
+```powershell
+& "$env:USERPROFILE/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe" -B -m unittest discover -s research/japanese-data/independent-review/tests -v
+```
+
+All 12 tests passed. Next review the three Grade 1–2 exceptions and the 14 ambiguous Grade 3–6 pairs, then check senses, cues and per-kanji segmentation independently. Higher-grade curriculum approval and any versioned rebuild remain pending.
+
+
 Updated 26 November 2026. All work below is confined to `research/japanese-data-acquisition`; production branch and app were not modified.
 
 ## Starting state and research findings
