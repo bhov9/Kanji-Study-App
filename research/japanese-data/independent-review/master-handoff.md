@@ -24,8 +24,12 @@ Updated 26 November 2026. All work below is confined to `research/japanese-data-
 | `9f7f1081342bc8d38b7c1be06bffaf7bbde6e5e1` | `sources-copyright-draft-v0.1.md` |
 | `d907b96b9ff4f8a730f0961b98f6737347f8daf9` | Fix proposal sorting in `tools/generate_higher_grade_shortlists.py` |
 | `72a9cc59535a6d0ed9347d886cc7461f603fb5d3` | `priority-case-inspection-v0.1.md` |
+| `e686ac2ad98ea046494b829562315448bb6ea2a9` | `outputs/grade-3-review-queue-v0.1.json` (200 kanji) |
+| `fd6de4425c3355d16f1c6cea989f8018af41a64f` | `outputs/grade-4-review-queue-v0.1.json` (202 kanji) |
+| `5bdd0571d5042b490ec8f8d9e92bbd715d8958dc` | `outputs/grade-5-review-queue-v0.1.json` (193 kanji) |
+| `5fcbbc229b7bd529dc6d401cb5baab6f87a56827` | `outputs/grade-6-review-queue-v0.1.json` (191 kanji) |
 
-This handoff was added after the commits above. Check the research branch history for its commit and the current branch head.
+This handoff was refreshed after the four queue commits above. Check the research branch history for its current revision and the branch head.
 
 ## Decisions
 
@@ -42,13 +46,14 @@ This handoff was added after the commits above. Check the research branch histor
 - Executed: `python -m unittest discover -s research/japanese-data/independent-review/tests -v` — 12 synthetic regression tests passed.
 - Synthetic checks cover exact and ambiguous shortlist matches, read-only SQLite behavior, sense restrictions, kana/kanji form distinction, ambiguity retention, essential coverage, reciprocal-rank nulls, punctuation, okurigana, 十/シー, 山/ざん, stable IDs, and higher-grade queue labeling.
 - Not executed: exact Grade 1–2 validation against the full SQLite database. That file is local-only and was not available in this workspace. The verifier is prepared for that run.
-- Not generated: full Grade 3–6 queues, because the full per-kanji export set was not present in this workspace. The deterministic generator is committed and checks source completeness when run.
+- Generated: complete automated Grade 3–6 review queues from the saved public per-kanji exports (786 total). The source-count check matched 200/202/193/191. Proposals preserve legacy mappings but still require exact SQLite verification and human review.
+- Not generated: Grade 7 / remaining 1,110 Jōyō kanji. The current generator targets elementary grades.
 - Not completed: corrected full database/ranking rebuild, full 10,000-entry coverage re-evaluation, individual review of 240 Grade 1–2 candidates, or publication/license clearance of a final app data bundle.
 
 ## Next tasks
 
 1. On Codex's checkout, run the tests and the read-only Grade 1–2 verifier against the existing SQLite database. Review all missing and ambiguous records, especially 十, 生まれる, 大きい, 食べる, kana forms, and particles.
-2. Generate Grade 3–6 queues from all committed per-character exports. Confirm the count checks and run exact verification. Save these as automated proposals, then human-review high-importance and ambiguous cases.
+2. Run exact verification for the generated Grade 3–6 queues. Save these as automated proposals, then human-review high-importance and ambiguous cases.
 3. Integrate the new form, evidence, and mapping policies into a versioned rebuild script; preserve old outputs and source-specific rank observations. Compare rankings and essential coverage at several cutoffs before releasing another experimental list.
 4. Complete deterministic tests against real JMdict/JmdictFurigana records and re-check redistribution notices for every proposed app asset. Keep production data, scheduler, and deployments unchanged until separately authorized.
 
