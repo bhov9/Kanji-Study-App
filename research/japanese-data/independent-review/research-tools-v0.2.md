@@ -10,6 +10,7 @@ These versioned modules add conservative processing policies alongside the exist
 - `tools/vocabulary_policy.py` supplies an independent essential-coverage overlay for omitted kana words, basic verbs, pronouns, and grammar items. The overlay flags coverage gaps but does not change the experimental RRF score. RRF uses per-source ranks, retains nulls and observed-source counts, and never averages raw counts.
 - `tools/generate_higher_grade_shortlists.py` turns the existing Grade 3–6 per-kanji exports into a review queue while retaining JMdict IDs, senses, cues, and source ranks. Since the saved candidate mappings are legacy exports, every proposal remains explicitly unverified.
 - `tests/test_research_policies.py` contains small synthetic regression fixtures.
+- `outputs/grade-3-review-queue-v0.1.json` through `outputs/grade-6-review-queue-v0.1.json` contain automated proposals for all 786 elementary kanji in those grades. They were generated from the committed per-character exports available through the connected repository. Candidate mappings remain legacy/unverified; the local database verifier has not yet been run.
 
 ## Run
 
@@ -27,7 +28,7 @@ python research/japanese-data/independent-review/tools/generate_higher_grade_sho
   research/japanese-data/independent-review/outputs/grades-3-to-6-review-queue-v0.1.json
 ```
 
-The verification run was not performed here because the full SQLite database is local-only and was not attached to this workspace. The test suite uses synthetic SQLite fixtures and does not establish validation against the full JMdict snapshot. Do not publish a generated queue as an approved curriculum. Keep local restricted corpus values out of public output.
+The checked-in queues were produced from source exports in the connected repository. The local generator command was not executed against a local checkout in this workspace. The full SQLite database is local-only, so no queue was exact-verified against the full JMdict snapshot. The test suite uses synthetic SQLite fixtures and does not establish validation against the full database. Do not publish a generated queue as an approved curriculum. Keep local restricted corpus values out of public output.
 
 ## Confirmed tests in this workspace
 
