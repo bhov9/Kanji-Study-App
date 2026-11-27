@@ -30,7 +30,7 @@ const wordRows = [
   ['kaisha', '会社', 'かいしゃ', 'Company', ['かい', 'しゃ']],
   ['shakai', '社会', 'しゃかい', 'Society', ['しゃ', 'かい']],
   ['shimbun', '新聞', 'しんぶん', 'Newspaper', ['しん', 'ぶん']],
-  ['shinsha', '新車', 'しんしゃ', 'New car.', ['しん', 'しゃ']],
+  ['shinsha', '新車', 'しんしゃ', 'New car', ['しん', 'しゃ']],
 ];
 
 // Each value is [visible component labels, structural description, optional mnemonic].
