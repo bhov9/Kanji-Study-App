@@ -66,7 +66,7 @@ export function unlockedGrade(characters) {
   return groups.find(group => group.characters.some(character => !characters[character]))?.grade ?? groups.length;
 }
 
-export function chooseWord(words, progress, now, random = Math.random) {
+export function chooseWord(words, progress, now, random = Math.random, priority = () => 0) {
   const { characters, reviews } = progress;
   const grade = unlockedGrade(characters);
   const matching = eligible => words.map(word => ({
@@ -110,7 +110,13 @@ export function chooseWord(words, progress, now, random = Math.random) {
   const familiar = candidates.filter(({ word }) => word.characters.every(character =>
     characters[character] || curriculumGrades.get(character) <= grade));
   if (familiar.length) candidates = familiar;
-  return candidates[Math.floor(random() * candidates.length)];
+  const first = candidates[Math.floor(random() * candidates.length)];
+  const alternativesForTarget = candidates.filter(c => c.targets.some(t => first.targets.includes(t)) &&
+    priority(c.word) > priority(first.word));
+  if (!alternativesForTarget.length) return first;
+  const best = Math.max(...alternativesForTarget.map(c => priority(c.word)));
+  const preferred = alternativesForTarget.filter(c => priority(c.word) === best);
+  return preferred[Math.floor(random() * preferred.length)];
 }
 
 export function chooseHandwritingWord(words, characters, previousId, random = Math.random) {

@@ -1,4 +1,5 @@
 // Adapted from EDRDG JMdict, licensed CC BY-SA 4.0. See README.md.
+// Seven supplementary teaching forms use the JMdict release in linguistic-review/word-detail-sources.json.
 // JMdict_b.gz SHA-256: 24502fdbfdc8a3b1e9c25deaa92dc4e2b45e287b1cabaa2c71836cef98d28147
 export const gradeVocabulary = [
   ["jmdict:1001050:畝り:うねり", "畝り", "うねり", "undulation; winding", ["うね", "り"]],
@@ -2020,4 +2021,11 @@ export const gradeVocabulary = [
   ["jmdict:2834885:夕:ゆう", "夕", "ゆう", "evening", ["ゆう"]],
   ["jmdict:2842898:謁:えつ", "謁", "えつ", "audience (with a superior, e.g. nobility)", ["えつ"]],
   ["jmdict:2851105:沃る:いる", "沃る", "いる", "to pour; to dash (water) over", ["い", "る"]],
+  ["jmdict:1408180:太い:ふとい", "太い", "ふとい", "fat"],
+  ["jmdict:1588880:大きい:おおきい", "大きい", "おおきい", "big"],
+  ["jmdict:1413240:大学:だいがく", "大学", "だいがく", "university"],
+  ["jmdict:1347750:小さい:ちいさい", "小さい", "ちいさい", "small"],
+  ["jmdict:1378520:生きる:いきる", "生きる", "いきる", "to live"],
+  ["jmdict:1378690:生まれる:うまれる", "生まれる", "うまれる", "to be born"],
+  ["jmdict:1579840:十:じゅう", "十", "じゅう", "ten"],
 ];

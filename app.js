@@ -1,4 +1,6 @@
-import { kanjiNotes, words } from './data.js';
+import { setupVocabulary } from './vocabulary.js';
+import { sectionPlans } from './section-plans.js';
+import { kanjiNotes, words, writingPriority } from './data.js';
 import { setupKanjiBrowser } from './browser.js';
 import { curriculumGrades, groups } from './curriculum.js';
 import { exampleFor, renderExample } from './examples.js';
@@ -109,7 +111,7 @@ function showWord(focus = false) {
     return;
   }
   const now = Date.now();
-  current = storageReadable ? chooseWord(words, progress, now) : null;
+  current = storageReadable ? chooseWord(words, progress, now, Math.random, writingPriority) : null;
   handwriting.reset(current?.targets ?? []);
   byId('show-answer').hidden = !current;
   byId('check-reviews').hidden = Boolean(current || !storageReadable);
@@ -139,7 +141,7 @@ function showWord(focus = false) {
 
 function navigate(nextView) {
   view = nextView;
-  for (const name of ['menu', 'study', 'browser', 'history', 'sources', 'feedback']) byId(`${name}-view`).hidden = name !== view;
+  for (const name of ['menu', 'section', 'study', 'browser', 'history', 'sources', 'feedback']) byId(`${name}-view`).hidden = name !== view;
   window.scrollTo(0, 0);
   updateStats();
   if (view === 'menu') byId('menu-title').focus({ preventScroll: true });
@@ -184,6 +186,26 @@ setupProgressEditor(() => progress, () => storageReadable, async changes => {
   return true;
 });
 
+const openVocabulary = setupVocabulary(browser.openDetails);
+function openSection(section) {
+  navigate('section');
+  byId('section-title').textContent = section;
+  byId('kanji-section').hidden = section !== 'Kanji';
+  byId('vocabulary-section').hidden = section !== 'Vocabulary';
+  const placeholder = byId('section-placeholder');
+  placeholder.hidden = section === 'Kanji' || section === 'Vocabulary';
+  placeholder.textContent = placeholder.hidden ? '' : 'Reviewed lessons are planned for this section.';
+  const items = sectionPlans[section] ?? [];
+  byId('section-plan').hidden = !items.length;
+  byId('plan-title').textContent = section + ' plan';
+  byId('plan-items').replaceChildren(...items.map(item => node('li', item)));
+  if (section === 'Vocabulary') openVocabulary();
+  byId('section-title').focus();
+}
+document.querySelectorAll('[data-section]').forEach(button =>
+  button.addEventListener('click', () => openSection(button.dataset.section)));
+byId('section-plan').onclick = () => byId('plan-dialog').showModal();
+byId('section-progress').onclick = () => byId('open-progress').click();
 byId('start-study').addEventListener('click', () => navigate('study'));
 byId('check-reviews').addEventListener('click', () => showWord(true));
 function studyFeedbackContext(character) {
@@ -237,7 +259,7 @@ function renderKanjiDetails(character) {
     details.append(gradeHeading, gradeName);
   }
   field('Meaning', reference?.meanings.join('; '));
-  appendDictionaryReadings(details, reference, 'h4');
+  appendDictionaryReadings(details, reference, 'h4', character);
   field('Components', components);
   if (structure) details.append(node('p', structure));
   field('Mnemonic', mnemonic);

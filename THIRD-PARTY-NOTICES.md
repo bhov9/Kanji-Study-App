@@ -10,6 +10,8 @@ The [Agency’s website policy](https://www.bunka.go.jp/bunkacho_homepage/) refe
 
 The [NIER HTML grade table](https://erid.nier.go.jp/files/COFS/h29e/chap2-1.htm) and [Project X0213 code table](https://x0213.org/joyo-kanji-code/index.html) were used for cross-checking. The app distributes the character and grade data from the official government tables. It ships neither comparison file nor Project X0213’s encoding mappings.
 
+The official example panel adapts the reading-specific example lists from the Agency’s 2010 Jōyō table under the government reuse terms above. Its stroke counts are calculated from the bundled KanjiVG paths credited below.
+
 ## Dictionary data
 
 Copyright © James William Breen and the Electronic Dictionary Research and Development Group (EDRDG). EDRDG’s [dictionary license and attribution terms](https://www.edrdg.org/edrdg/licence.html) permit copying, redistribution, and adaptation under [Creative Commons Attribution-ShareAlike 4.0 International](licenses/CC-BY-SA-4.0.txt). The bundled adaptations below are distributed under the same license.
@@ -18,6 +20,8 @@ Copyright © James William Breen and the Electronic Dictionary Research and Deve
 - [KANJIDIC project documentation](https://www.edrdg.org/wiki/KANJIDIC_Project.html) and [KANJIDIC2 file documentation](https://www.edrdg.org/kanjidic/kanjd2index_legacy.html). `kanji-reference.js` filters the XML to the Jōyō characters and reformats the Japanese on and kun readings and English glosses as JavaScript. The file header records the snapshot date, and `scripts/update_kanji_reference.py` records the upstream download and conversion.
 
 - [JmdictFurigana release 2.3.1+2026-10-25](https://github.com/Doublevil/JmdictFurigana/releases/tag/2.3.1%2B2026-10-25), by Doublevil, supplies word-specific furigana derived from JMdict. The project licenses its dataset under the same CC BY-SA terms as JMdict. `reading-mappings.js` adapts that dataset into per-character kana arrays for existing words with missing mappings and is distributed under [CC BY-SA 4.0](licenses/CC-BY-SA-4.0.txt). The MIT-licensed generator code and the separate name dataset are outside this import.
+
+The seven added teaching forms and the word-detail layer use the English JMdict snapshot distributed by [jmdict-simplified](https://github.com/scriptin/jmdict-simplified). Glosses, sense-specific parts of speech and usage labels are restricted to the written and spoken form. Reading splits are drawn from JmdictFurigana only where each character aligns and the parts reconstruct the pronunciation. Newspaper frequency bands and form usage labels come from the production JMdict review export. The [source manifest](linguistic-review/word-detail-sources.json) records upstream versions and hashes. These dictionary data adaptations are CC BY-SA 4.0.
 
 ## Stroke-order data
 

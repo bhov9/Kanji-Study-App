@@ -1,7 +1,7 @@
 # Kanji-Study-App
 Japanese kanji writing practice
 
-A static writing practice app with 26 starter words and a browser for all 2,136 Jōyō kanji. In study mode, write the word from its hiragana and English cue, reveal the spelling, then grade each new or due kanji. A kanji shares one review schedule across all words. The history also records the word shown at each review.
+An offline Japanese study app with Vocabulary, Kanji, Grammar and Pronunciation sections. The shared collection currently has 2,052 words and the Kanji browser covers all 2,136 Jōyō kanji. Section plans live in `section-plans.js`. Vocabulary recall records known words by stable word ID in its own local storage namespace. In study mode, write the word from its hiragana and English cue, reveal the spelling, then grade each new or due kanji. A kanji shares one review schedule across all words. The history also records the word shown at each review.
 
 ## Project files
 

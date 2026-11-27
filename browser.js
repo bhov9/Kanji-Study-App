@@ -1,5 +1,6 @@
+import { createStrokeOrder } from './stroke-order.js';
 import { groups, curriculumGrades } from './curriculum.js';
-import { kanjiNotes, words } from './data.js';
+import { kanjiNotes, words, writingPriority } from './data.js';
 import { kanjiReference } from './kanji-reference.js';
 import { appendDictionaryReadings } from './dictionary-readings.js';
 import { characterFeedback } from './feedback.js';
@@ -164,16 +165,19 @@ export function setupKanjiBrowser(getProgress, canEdit, setMemorized) {
     content.replaceChildren();
     const reference = kanjiReference[character];
     addDetail(content, 'Meanings', reference?.meanings.join(', '));
-    appendDictionaryReadings(content, reference, 'h3');
+    appendDictionaryReadings(content, reference, 'h3', character);
     id('detail-feedback').replaceChildren(characterFeedback({ page: 'Browse Kanji', character }));
     const examples = vocabularyByKanji.get(character);
     if (examples) {
       const items = element('ul', '', 'vocabulary-examples');
-      for (const { spelling, reading, meaning } of examples) {
+      for (const { spelling, reading, meaning, verifiedParts } of [...examples].sort((a,b) => writingPriority(b) - writingPriority(a))) {
         const item = element('li', '');
         const japanese = element('span', `${spelling}（${reading}）`);
         japanese.lang = 'ja';
         item.append(japanese, document.createTextNode(` · ${meaning}`));
+        if (verifiedParts && [...spelling].length > 1) {
+          item.append(element('small', [...spelling].map((c,i) => c === verifiedParts[i] ? c : c + '（' + verifiedParts[i] + '）').join(' ')));
+        }
         items.append(item);
       }
       content.append(element('h3', 'Vocabulary'), items);
@@ -187,6 +191,7 @@ export function setupKanjiBrowser(getProgress, canEdit, setMemorized) {
       content.append(element('p', structure));
       addDetail(content, 'Memory aid', mnemonic);
     }
+    content.append(createStrokeOrder(character));
     updateDetailStatus();
     dialog.showModal();
     dialog.scrollTop = 0;
@@ -220,5 +225,5 @@ export function setupKanjiBrowser(getProgress, canEdit, setMemorized) {
     if (dialog.open) updateDetailStatus();
   }
 
-  return { open: () => selectGrade(null), refresh };
+  return { open: () => selectGrade(null), openDetails, refresh };
 }

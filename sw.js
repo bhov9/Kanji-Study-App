@@ -14,7 +14,7 @@ const appShell = [
   './reading-cue.js', './stroke-order.js',
   './progress-editor.js',
   './feedback.js', './dictionary-readings.js', './reading-mappings.js',
-  './grade-vocabulary.js',
+  './grade-vocabulary.js', './word-details.js', './vocabulary.js', './section-plans.js', './official-examples.js',
   ...Array.from({ length: 32 }, (_, index) => `./stroke-data/${index.toString(16).padStart(2, '0')}.json`),
 ];
 const home = new URL('./index.html', self.registration.scope).href;

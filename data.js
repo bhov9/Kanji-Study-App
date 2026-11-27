@@ -1,3 +1,4 @@
+import { wordDetails } from './word-details.js';
 import { curriculumGrades } from './curriculum.js';
 import { gradeVocabulary } from './grade-vocabulary.js';
 import { furiganaSource, readingMappings } from './reading-mappings.js';
@@ -64,12 +65,23 @@ export const kanjiNotes = {
   聞: ['門 gate · 耳 ear', '耳 is enclosed by 門.', 'Put your ear to the gate to hear what is happening.'],
 };
 
+// Explicit teaching examples take precedence over import order.
+const teachingForms = new Set(['太い','太陽','大きい','大学','小さい','小学校','生きる','生まれる','生活','学生']);
+export function writingPriority(word) {
+  if ((word.dictionaryPriority?.usageFlags ?? []).length || word.spelling === '太山') return -1;
+  if (word.spelling === '十') return word.reading === 'じゅう' ? 3 : -1;
+  if (teachingForms.has(word.spelling) && word.verifiedParts) return 3;
+  if (!word.verifiedParts) return 0;
+  return !word.id.startsWith('jmdict:') || word.dictionaryPriority?.flags?.length ? 2 : 1;
+}
+
 // Optional reading parts align with each written code point, including kana.
 export const words = [...wordRows, ...gradeVocabulary].map(([id, spelling, reading, meaning, readingParts]) => {
   const characters = [...new Set(spelling)].filter(character => curriculumGrades.has(character));
-  const mapped = readingMappings[id];
+  const details = wordDetails[id] ?? {};
+  const mapped = readingMappings[id] ?? details.verifiedParts;
   const readingMappingSource = readingParts ? (id.startsWith('jmdict:') ? 'KANJIDIC2 alignment' : 'Starter deck') :
     mapped ? furiganaSource : null;
-  return { id, spelling, reading, meaning, readingParts: readingParts ?? mapped, readingMappingSource, characters,
+  return { ...details, id, spelling, reading, meaning, readingParts: readingParts ?? mapped, readingMappingSource, characters,
     grades: [...new Set(characters.map(character => curriculumGrades.get(character)))] };
 });
