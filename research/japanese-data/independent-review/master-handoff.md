@@ -1,5 +1,37 @@
 # Japanese curriculum research — master handoff
 
+## Grade 1–6 revised research proposals v0.2
+
+The six machine-readable queues retain the original record, tier, group and row order, including reference-only entries. Use `disposition` for sense decisions and `eligibleReadingEvidence` for reading evidence. Every row is an automated proposal. The editorial recommendations came from [the v0.1 review](verification-review-v0.1.md). Human approval is pending.
+
+| Grade | Revised queue | Unique exact | Ambiguous exact | Missing exact | Mapping supported | Mapping unresolved | No target proposed |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 1 | [Grade 1 JSON](outputs/grade-1-proposals-v0.2.json) | 338 | 1 | 1 | 0 | 0 | 340 |
+| 2 | [Grade 2 JSON](outputs/grade-2-proposals-v0.2.json) | 600 | 1 | 0 | 0 | 0 | 601 |
+| 3 | [Grade 3 JSON](outputs/grade-3-proposals-v0.2.json) | 2641 | 6 | 0 | 1189 | 193 | 1265 |
+| 4 | [Grade 4 JSON](outputs/grade-4-proposals-v0.2.json) | 2351 | 16 | 0 | 1056 | 158 | 1153 |
+| 5 | [Grade 5 JSON](outputs/grade-5-proposals-v0.2.json) | 2131 | 10 | 0 | 961 | 127 | 1053 |
+| 6 | [Grade 6 JSON](outputs/grade-6-proposals-v0.2.json) | 2227 | 2 | 0 | 1009 | 141 | 1079 |
+
+Counts cover occurrences, including reference-only duplicates. The [machine-readable counts](outputs/proposal-verification-v0.2.json) use the same denominators. Initial/later lists have no explicit reading target. Only nested rows make a reading claim. The verifier compares the word's exact spelling and kana against the local JMdict forms. The separate mapping check requires all available segmentations to reproduce both strings, isolate the target character once, and match its proposed KANJIDIC reading, stem and complete adjacent okurigana. Unsegmented compounds, conflicting analyses, sound changes and inflections without supporting rules remain open. Each row carries its result. A supported mapping still needs an eligible sense and review before curriculum use.
+
+- 正す uses 1376630 sense 0, “to correct; to set right.” 元 uses 1260670 sense 0, “origin; source.” 千人 has project ID `count-sennin-1000-people` and the authored cue “one thousand people” to teach numeral plus counter. Its dictionary lookup remains missing. Its record contains no attributed dictionary ID or frequency rank.
+- 開けたて and 命（みこと） are reference-only. Neither supports its former target. 固め remains reference-only. The existing full-form candidate 固める（かためる）, 1266570, passes both checks with 固＝かた and literal める.
+- The proposed ordinary senses are 鏡 “mirror,” 妻 “wife,” 素性（そせい） “identity; background,” 位（くらい） “rank in society,” 解かす “to melt a solid,” and 解ける “to be solved (a problem).” Alternate senses retained in the queue require their own context. Both 京阪 entries remain regional or company references pending a geography-specific objective. 路上, 共同, 統一 and 同盟 use the ordinary lexical entries identified in the review. All selected indices are zero-based and checked against the applicable form senses.
+- Remaining work includes human review of cues, orthographic appropriateness, specialized usage, and independent evidence for the 619 unresolved target occurrences. No reading mappings are inferred for lexical-only rows. Frequency observations and local corpus material are omitted from the revised exports. Consult the cited v0.1 evidence and its source notices for provenance.
+
+From the repository root, using Python 3 and PowerShell:
+
+```powershell
+python -B research/japanese-data/independent-review/tools/revise_proposals.py
+python -B -m unittest discover -s research/japanese-data/independent-review/tests -v
+$paths = (Get-ChildItem research/japanese-data/independent-review/outputs/grade-*-proposals-v0.2.json).FullName
+$env:PYTHONIOENCODING='utf-8'
+python -B research/japanese-data/independent-review/tools/verify_shortlists.py research/japanese-data/local/curriculum-research.sqlite @paths | Out-Null
+```
+
+All 17 research-policy tests passed. The standalone verifier covers initial/later rows. The generator also applies the same read-only exact-form lookup to every nested proposal. The revised queues retain the resulting statuses and candidate IDs.
+
 ## Editorial review completed 27 November 2026
 
 - Reviewed all three Grade 1–2 unresolved rows and the 14 distinct Grade 3–6 ambiguous spelling/reading pairs (34 occurrences). Decisions and cautions are recorded in [verification-review-v0.1.md](verification-review-v0.1.md).
