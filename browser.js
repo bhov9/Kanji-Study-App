@@ -1,4 +1,5 @@
 import { createStrokeOrder } from './stroke-order.js';
+import { commonCompounds } from './dictionary-compounds.js';
 import { groups, curriculumGrades } from './curriculum.js';
 import { kanjiNotes, words, writingPriority } from './data.js';
 import { kanjiReference } from './kanji-reference.js';
@@ -167,6 +168,17 @@ export function setupKanjiBrowser(getProgress, canEdit, setMemorized) {
     addDetail(content, 'Meanings', reference?.meanings.join(', '));
     appendDictionaryReadings(content, reference, 'h3', character);
     id('detail-feedback').replaceChildren(characterFeedback({ page: 'Browse Kanji', character }));
+    const compounds = commonCompounds[character];
+    if (compounds?.length) {
+      const list = element('ul', '', 'vocabulary-examples');
+      for (const [word, reading, parts, entryId] of compounds) {
+        const item = element('li', word + '（' + reading + '）');
+        item.lang = 'ja';
+        item.append(element('small', [...word].map((c,i) => c + '（' + parts[i] + '）').join(' ') + ' · JMdict ' + entryId));
+        list.append(item);
+      }
+      content.append(element('h3', 'Common compounds'), list);
+    }
     const examples = vocabularyByKanji.get(character);
     if (examples) {
       const items = element('ul', '', 'vocabulary-examples');

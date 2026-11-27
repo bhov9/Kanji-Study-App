@@ -1,14 +1,9 @@
+import { setupDictionary } from './dictionary.js';
 import { words } from './data.js';
 import { exampleFor } from './examples.js';
 
 const byId = id => document.getElementById(id);
 const key = id => 'kanji-practice.vocabulary.known.' + id;
-const pageSize = 30;
-const kana = text => text.normalize('NFC').replace(/[ァ-ヶ]/gu, c => String.fromCharCode(c.charCodeAt(0) - 96));
-const entries = words.map(word => ({
-  word, search: kana([word.spelling, word.reading, word.meaning, ...(word.senses ?? []).flatMap(s => s.glosses)].join(' ').toLowerCase()),
-}));
-
 function element(tag, text) {
   const el = document.createElement(tag);
   el.textContent = text;
@@ -43,7 +38,7 @@ function details(word, container) {
 }
 
 export function setupVocabulary(openKanji) {
-  let page = 0;
+  const openDictionary = setupDictionary(openKanji);
   let queue = [];
   let current;
   const known = new Set();
@@ -54,7 +49,7 @@ export function setupVocabulary(openKanji) {
     } catch { byId('vocab-status').textContent = 'Vocabulary progress storage is unavailable.'; }
   };
   const counts = () => {
-    byId('vocab-coverage').textContent = words.length.toLocaleString() + ' words available · ' + known.size.toLocaleString() + ' marked known';
+    byId('vocab-coverage').textContent = words.length.toLocaleString() + ' study words · ' + known.size.toLocaleString() + ' marked known';
   };
   function showDetails(word, container) {
     details(word, container);
@@ -64,22 +59,6 @@ export function setupVocabulary(openKanji) {
       button.onclick = () => openKanji(char);
       container.append(button);
     }
-  }
-  function list() {
-    const term = kana(byId('vocab-search').value.trim().toLowerCase());
-    const matches = entries.filter(entry => entry.search.includes(term));
-    const start = page * pageSize;
-    byId('vocab-range').textContent = matches.length ? (start + 1) + '–' + Math.min(start + pageSize, matches.length) + ' of ' + matches.length : 'No matching words';
-    byId('vocab-prev').disabled = !page;
-    byId('vocab-next').disabled = start + pageSize >= matches.length;
-    byId('vocab-list').replaceChildren(...matches.slice(start, start + pageSize).map(({ word }) => {
-      const row = document.createElement('details');
-      const summary = element('summary', word.spelling + ' · ' + word.reading + ' · ' + word.meaning);
-      const content = document.createElement('div');
-      row.append(summary, content);
-      row.ontoggle = () => { if (row.open && !content.childElementCount) showDetails(word, content); };
-      return row;
-    }));
   }
   function draw() {
     current = queue.shift();
@@ -115,11 +94,8 @@ export function setupVocabulary(openKanji) {
   };
   byId('vocab-again').onclick = () => grade(false);
   byId('vocab-known').onclick = () => grade(true);
-  byId('vocab-search').oninput = () => { page = 0; list(); };
-  byId('vocab-prev').onclick = () => { page--; list(); };
-  byId('vocab-next').onclick = () => { page++; list(); };
   function browse() {
-    read(); counts(); list();
+    read(); counts(); openDictionary();
     byId('vocab-browse').hidden = false;
     byId('vocab-session').hidden = true;
   }

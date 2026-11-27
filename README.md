@@ -3,6 +3,12 @@ Japanese kanji writing practice
 
 An offline Japanese study app with Vocabulary, Kanji, Grammar and Pronunciation sections. The shared collection currently has 2,052 words and the Kanji browser covers all 2,136 Jōyō kanji. Section plans live in `section-plans.js`. Vocabulary recall records known words by stable word ID in its own local storage namespace. In study mode, write the word from its hiragana and English cue, reveal the spelling, then grade each new or due kanji. A kanji shares one review schedule across all words. The history also records the word shown at each review.
 
+## Offline dictionary
+
+Vocabulary opens a local search index of 219,205 English JMdict entries. The service worker saves the compressed dictionary separately from the study shell and resumes partial downloads. Wait for “Dictionary available offline” before disconnecting. Lookup uses the browser's gzip DecompressionStream API. Opening an entry does not create a study card.
+
+To reproduce the release, run `python scripts/build_dictionary.py PATH_TO_PINNED_JMDICT_TGZ` and `python scripts/build_dictionary_compounds.py PATH_TO_PINNED_JMDICTFURIGANA_JSON` from the repository root. Both commands check input hashes. The versioned dictionary manifest lists the archive, checksum, entry count, tags and compressed shards. When updating the release, update the pinned version, checksum, client and service-worker directory together, regenerate the assets, and update the displayed entry count. The compound panel uses common written and reading forms with an attested character breakdown; the five-example cap is for display.
+
 ## Project files
 
 | Files | Purpose |

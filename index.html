@@ -62,12 +62,16 @@ layout: none
       <div id="vocabulary-section" hidden>
         <p id="vocab-coverage"></p><p role="status" id="vocab-status"></p>
         <div id="vocab-browse">
-          <button class="primary" id="vocab-study">Study vocabulary</button>
-          <label for="vocab-search">Find a word</label>
-          <input type="search" id="vocab-search" placeholder="Japanese or English">
+          <div id="dict-results">
+            <label for="vocab-search">Japanese–English dictionary</label>
+            <input type="search" id="vocab-search" placeholder="かな・漢字・English" autocomplete="off" aria-describedby="dict-instructions">
+            <p class="muted" id="dict-instructions">Type a reading, spelling, or English word to search 219,205 JMdict entries.</p>
+            <p id="vocab-range" role="status"></p><div id="vocab-list"></div>
+            <p id="dict-offline" class="muted" role="status"></p><button id="dict-retry" hidden>Retry offline download</button>
+            <button class="primary" id="vocab-study">Study vocabulary</button>
           <details><summary>Vocabulary progress backup</summary><p>Save or import known word IDs separately from kanji progress.</p><button id="vocab-export">Export known words</button> <button id="vocab-import">Import known words</button><input id="vocab-file" type="file" accept=".json,application/json" hidden></details>
-          <p id="vocab-range" aria-live="polite"></p><div id="vocab-list"></div>
-          <div class="view-bar"><button id="vocab-prev">Previous</button><button id="vocab-next">Next</button></div>
+          </div>
+          <article id="dict-entry" hidden><button id="dict-back" class="quiet">Back to results</button><div id="dict-content"></div></article>
         </div>
         <div id="vocab-session" class="card" hidden>
           <button class="quiet" id="vocab-end">Back to words</button>
@@ -178,7 +182,7 @@ layout: none
           <li><a href="https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_01.pdf">Elementary curriculum</a> · Grade groupings adapted from Japan’s Ministry of Education (MEXT). <a href="https://www.mext.go.jp/b_menu/1351168.htm">Government reuse terms</a></li>
           <li><a href="https://www.mext.go.jp/b_menu/hakusho/html/others/detail/mext_03459.html">The promulgation of the Gakusei</a> · MEXT reference for the school-system history note.</li>
           <li><a href="https://github.com/KanjiVG/kanjivg#licence">KanjiVG</a> · Canonical Japanese SVG strokes converted to JSON, © Ulrich Apel and contributors. <a href="./stroke-data/KANJIVG-LICENSE.txt">CC BY-SA 3.0</a></li>
-          <li><a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html">JMdict</a> · Adapted vocabulary spellings, readings, form-specific English senses, usage labels and dictionary priority data, © James William Breen and the Electronic Dictionary Research and Development Group (EDRDG). <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
+          <li><a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html">JMdict</a> · Full English JMdict lookup (2026-11-23 snapshot via jmdict-simplified) and adapted vocabulary spellings, readings, form-specific English senses, usage labels and dictionary priority data, © James William Breen and the Electronic Dictionary Research and Development Group (EDRDG). <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
           <li><a href="https://www.edrdg.org/wiki/KANJIDIC_Project.html">KANJIDIC2</a> · Adapted kanji readings and meanings, © James William Breen and EDRDG. <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
           <li><a href="https://github.com/Doublevil/JmdictFurigana">JmdictFurigana</a> · Adapted word-specific kana mappings by Doublevil, derived from EDRDG JMdict. <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
           <li>War-Camp Parchment artwork and app icons · Created for Kanji Practice with <a href="https://openai.com/policies/terms-of-use/#content">OpenAI image generation</a>.</li>

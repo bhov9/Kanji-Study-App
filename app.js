@@ -276,8 +276,9 @@ function renderCharacter(character, writingBox) {
   answer.append(glyph);
   if (meanings.length) answer.append(node('span', meanings.join('; '), 'character-meaning'));
   const isTarget = current.targets.includes(character);
-  const status = node('span', isTarget ? (progress.characters[character] ? 'Due for review' : 'New kanji') :
+  const status = node('span', isTarget ? (progress.characters[character] ? 'Due for review' : '') :
     progress.characters[character]?.memorized ? 'Memorized' : 'Not scheduled for this word', 'character-status');
+  status.hidden = !status.textContent;
   if (writingBox) {
     const comparison = node('div', '', 'writing-comparison');
     comparison.append(writingBox, answer);
@@ -317,6 +318,7 @@ function revealAnswer() {
   if (!current || !byId('answer').hidden) return;
   const writingBoxes = handwriting.reveal();
   byId('spelling').textContent = current.word.spelling;
+  byId('spelling').classList.toggle('screen-reader-only', writingBoxes.size > 0);
   byId('characters').replaceChildren(...current.word.characters.map(character =>
     renderCharacter(character, writingBoxes.get(character))));
   byId('answer').hidden = false;
@@ -433,7 +435,21 @@ window.addEventListener('storage', event => {
 loadProgress();
 showWord();
 if ('serviceWorker' in navigator) {
-  const offlineReady = () => { byId('offline').hidden = !navigator.serviceWorker.controller; };
+  function requestDictionary() {
+    const worker = navigator.serviceWorker.controller;
+    if (!worker) return;
+    byId('dict-offline').textContent = 'Preparing dictionary for offline lookup…';
+    byId('dict-retry').hidden = true;
+    worker.postMessage('save-dictionary');
+  }
+  byId('dict-retry').onclick = requestDictionary;
+  navigator.serviceWorker.addEventListener('message', event => {
+    if (!['dictionary-ready','dictionary-incomplete'].includes(event.data)) return;
+    const ready = event.data === 'dictionary-ready';
+    byId('dict-offline').textContent = ready ? 'Dictionary available offline.' : 'Offline dictionary download incomplete. Reconnect and retry.';
+    byId('dict-retry').hidden = ready;
+  });
+  const offlineReady = () => { byId('offline').hidden = !navigator.serviceWorker.controller; requestDictionary(); };
   navigator.serviceWorker.addEventListener('controllerchange', offlineReady);
   navigator.serviceWorker.register('./sw.js').then(offlineReady).catch(error => {
     console.warn('Offline installation failed', error);
