@@ -17,10 +17,10 @@ export function appendDictionaryReadings(container, reference, headingTag, chara
   if (official) {
     field('Stroke count', String(official.strokes));
     if (official.examples.length) {
-      const panel = document.createElement('details');
-      const summary = document.createElement('summary');
-      summary.textContent = 'Official Jōyō readings and examples';
-      panel.append(summary);
+      const panel = document.createElement('section');
+      const heading = document.createElement(headingTag);
+      heading.textContent = 'Official Jōyō readings and examples';
+      panel.append(heading);
       for (const [reading, examples] of official.examples) {
         const line = document.createElement('p');
         line.lang = 'ja';

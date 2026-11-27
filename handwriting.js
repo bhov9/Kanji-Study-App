@@ -169,7 +169,7 @@ export function setupHandwriting() {
     reveal() {
       stopStroke();
       revealed = true;
-      for (const pad of pads) pad.undo.hidden = true;
+      for (const pad of pads) pad.undo.textContent = 'Undo Stroke';
       updateVisibility();
       return new Map(panel.hidden ? [] : pads.map(pad => [pad.character, pad.box]));
     },

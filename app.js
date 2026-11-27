@@ -268,23 +268,24 @@ function renderKanjiDetails(character) {
 
 function renderCharacter(character, writingBox) {
   const card = node('section', '', 'character');
-  const header = node('div', '', 'character-head');
   const glyph = node('span', character, 'glyph');
   glyph.lang = 'ja';
+  const meanings = kanjiReference[character]?.meanings ?? [];
+  const answer = node('div', '', writingBox ? 'writing-correct' : 'character-answer');
+  if (writingBox) answer.append(node('span', 'Answer'));
+  answer.append(glyph);
+  if (meanings.length) answer.append(node('span', meanings.join('; '), 'character-meaning'));
   const isTarget = current.targets.includes(character);
   const status = node('span', isTarget ? (progress.characters[character] ? 'Due for review' : 'New kanji') :
     progress.characters[character]?.memorized ? 'Memorized' : 'Not scheduled for this word', 'character-status');
-  status.setAttribute('aria-live', 'polite');
-  header.append(glyph, status);
-  card.append(header);
   if (writingBox) {
     const comparison = node('div', '', 'writing-comparison');
-    const correct = node('div', '', 'writing-correct');
-    const model = node('span', character, 'glyph');
-    model.lang = 'ja';
-    correct.append(node('span', 'Answer'), model);
-    comparison.append(writingBox, correct);
-    card.append(comparison);
+    comparison.append(writingBox, answer);
+    card.append(comparison, status);
+  } else {
+    const header = node('div', '', 'character-head');
+    header.append(answer, status);
+    card.append(header);
   }
   if (isTarget) {
     const controls = node('div', '', 'grades');
@@ -301,7 +302,6 @@ function renderCharacter(character, writingBox) {
         if (submitting) return;
         selections.set(character, outcome);
         for (const choice of controls.children) choice.setAttribute('aria-pressed', String(choice === button));
-        status.textContent = `${label} selected`;
         byId('next').disabled = selections.size !== current.targets.length;
       });
       controls.append(button);

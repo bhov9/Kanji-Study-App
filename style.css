@@ -238,11 +238,16 @@ dialog::backdrop { background: #292219a0; }
 .writing-comparison {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(4.5rem, .65fr);
-  align-items: center;
+  align-items: start;
   gap: .75rem;
-  margin: .65rem 0 .85rem;
+  margin: 0 0 .85rem;
 }
 .writing-correct { display: grid; justify-items: center; align-content: center; gap: .3rem; color: var(--muted); font-size: .875rem; }
+.character-answer { display: grid; gap: .3rem; }
+.character-meaning { font-size: .875rem; color: var(--ink); overflow-wrap: anywhere; }
+.writing-correct { text-align: center; }
+.writing-comparison .writing-tools { flex-wrap: nowrap; }
+.writing-comparison .writing-tools button { flex: 1; min-width: 0; padding-inline: .2rem; }
 .writing-correct .glyph { font-size: clamp(2.65rem, 13vw, 4.5rem); color: var(--ink); }
 .study-kanji-details h4 { margin: .75rem 0 .15rem; color: var(--indigo); }
 .study-kanji-details p { margin: .15rem 0 .45rem; overflow-wrap: anywhere; }
