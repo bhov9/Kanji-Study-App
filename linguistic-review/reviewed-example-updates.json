@@ -1,0 +1,67 @@
+[
+  {
+    "grade": 3,
+    "kanji": "君",
+    "reading": "きみ",
+    "officialExamples": [
+      "君",
+      "母君"
+    ],
+    "candidates": [
+      {
+        "spelling": "君",
+        "kana": "きみ",
+        "jmdictId": 1247250,
+        "senseIndex": 0,
+        "cue": "you",
+        "basis": "supported"
+      }
+    ]
+  },
+  {
+    "grade": 3,
+    "kanji": "相",
+    "reading": "あい",
+    "officialExamples": [
+      "相手",
+      "相宿"
+    ],
+    "candidates": [
+      {
+        "spelling": "相手",
+        "kana": "あいて",
+        "jmdictId": 1401000,
+        "senseIndex": 0,
+        "cue": "companion",
+        "basis": "official reading-specific example and exact character segment"
+      },
+      {
+        "spelling": "相宿",
+        "kana": "あいやど",
+        "jmdictId": 1749120,
+        "senseIndex": 0,
+        "cue": "staying in the same inn or hotel",
+        "basis": "official reading-specific example and exact character segment",
+        "priority": "reference-only"
+      }
+    ]
+  },
+  {
+    "grade": 4,
+    "kanji": "井",
+    "reading": "ショウ",
+    "officialExamples": [
+      "天井"
+    ],
+    "candidates": [
+      {
+        "spelling": "天井",
+        "kana": "てんじょう",
+        "jmdictId": 1438340,
+        "senseIndex": 0,
+        "cue": "ceiling",
+        "basis": "reviewed official example: 井 is voiced to じょう in 天井"
+      }
+    ]
+  }
+]

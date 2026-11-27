@@ -7,7 +7,7 @@ import { furiganaSource, readingMappings } from './reading-mappings.js';
 const wordRows = [
   ['yakusoku', '約束', 'やくそく', 'Promise', ['やく', 'そく']],
   ['hanataba', '花束', 'はなたば', 'Bouquet of flowers', ['はな', 'たば']],
-  ['yakubun', '約分', 'やくぶん', 'Reducing a fraction', ['やく', 'ぶん']],
+  ['yakubun', '約分', 'やくぶん', 'Reducing a fraction to lowest terms', ['やく', 'ぶん']],
   ['hanabi', '花火', 'はなび', 'Fireworks', ['はな', 'び']],
   ['kazan', '火山', 'かざん', 'Volcano', ['か', 'ざん']],
   ['tozan', '登山', 'とざん', 'Mountain climbing', ['と', 'ざん']],
@@ -30,7 +30,7 @@ const wordRows = [
   ['kaisha', '会社', 'かいしゃ', 'Company', ['かい', 'しゃ']],
   ['shakai', '社会', 'しゃかい', 'Society', ['しゃ', 'かい']],
   ['shimbun', '新聞', 'しんぶん', 'Newspaper', ['しん', 'ぶん']],
-  ['shinsha', '新車', 'しんしゃ', 'New vehicle', ['しん', 'しゃ']],
+  ['shinsha', '新車', 'しんしゃ', 'New car.', ['しん', 'しゃ']],
 ];
 
 // Each value is [visible component labels, structural description, optional mnemonic].

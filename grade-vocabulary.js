@@ -6,7 +6,7 @@ export const gradeVocabulary = [
   ["jmdict:1002170:お嬢さん:おじょうさん", "お嬢さん", "おじょうさん", "(another's) daughter", ["お", "じょう", "さ", "ん"]],
   ["jmdict:1012210:忠実:ちゅうじつ", "忠実", "ちゅうじつ", "faithful; devoted", ["ちゅう", "じつ"]],
   ["jmdict:1089910:尼羅:ないる", "尼羅", "ないる", "Nile (river)"],
-  ["jmdict:1126030:英斤:ぽんど", "英斤", "ぽんど", "pound (unit of weight)"],
+  ["jmdict:1126030:英斤:ぽんど", "英斤", "ぽんど", "pound (historical unit of weight)"],
   ["jmdict:1137730:辣油:らーゆ", "辣油", "らーゆ", "(Chinese) chili oil; chile oil"],
   ["jmdict:1150410:愛:あい", "愛", "あい", "love; affection", ["あい"]],
   ["jmdict:1151120:挨拶:あいさつ", "挨拶", "あいさつ", "greeting; greetings", ["あい", "さつ"]],
