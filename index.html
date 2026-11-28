@@ -13,6 +13,7 @@ layout: none
   <link rel="apple-touch-icon" sizes="180x180" href="./icons/jinchu-apple.png">
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/jinchu-192.png">
   <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./kids/hiragana/style.css">
   <script type="module" src="./app.js"></script>
 </head>
 <body>
@@ -34,6 +35,7 @@ layout: none
           <button class="primary" data-section="Kanji">Kanji</button>
           <button class="primary" data-section="Grammar">Grammar</button>
           <button class="primary" data-section="Pronunciation">Pronunciation</button>
+          <button class="primary" data-kids-nav="kids">Kids</button>
         </div>
         <div class="menu-secondary">
           <button id="open-history" class="quiet" type="button">Edit History</button>
@@ -42,6 +44,23 @@ layout: none
         </div>
       </div>
       <p class="app-update">Last app update · <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%Y-%m-%d %H:%M:%S" }} JST</time></p>
+    </section>
+    <section id="kids-view" aria-labelledby="kids-title" hidden>
+      <div class="view-bar"><button class="quiet return-menu">Main menu</button></div>
+      <div class="card">
+        <h2 id="kids-title" tabindex="-1">Kids</h2>
+        <button class="primary" data-kids-nav="hiragana">Hiragana</button>
+      </div>
+    </section>
+    <section id="hiragana-view" aria-labelledby="hiragana-title" hidden>
+      <div class="view-bar"><button class="quiet" data-kids-nav="kids">Back to Kids</button><button class="quiet return-menu">Main menu</button></div>
+      <div class="card">
+        <h2 id="hiragana-title" tabindex="-1">Hiragana</h2>
+        <label for="kana-input">Tap a sound, or type hiragana to make your own row.</label>
+        <input id="kana-input" type="search" lang="ja" placeholder="あんぱんまん" autocomplete="off" autocapitalize="off" spellcheck="false">
+        <p role="status"></p>
+        <div class="kana-board"></div>
+      </div>
     </section>
     <section id="section-view" hidden aria-labelledby="section-title">
       <div class="view-bar"><button class="quiet return-menu">Main menu</button><button class="quiet" id="section-plan">Plan</button></div>
@@ -185,6 +204,7 @@ layout: none
           <li><a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html">JMdict</a> · Full English JMdict lookup (2026-11-23 snapshot via jmdict-simplified) and adapted vocabulary spellings, readings, form-specific English senses, usage labels and dictionary priority data, © James William Breen and the Electronic Dictionary Research and Development Group (EDRDG). <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
           <li><a href="https://www.edrdg.org/wiki/KANJIDIC_Project.html">KANJIDIC2</a> · Adapted kanji readings and meanings, © James William Breen and EDRDG. <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
           <li><a href="https://github.com/Doublevil/JmdictFurigana">JmdictFurigana</a> · Adapted word-specific kana mappings by Doublevil, derived from EDRDG JMdict. <a href="./licenses/CC-BY-SA-4.0.txt">CC BY-SA 4.0</a></li>
+          <li>Hiragana recordings by FUN Japanese Learning, from <a href="https://huggingface.co/datasets/arsalan-anwari/kana-sounds/tree/6de3a8ad639b29ad2e58276e6ef51038591cb95f">Kana Sounds by Arsalan Anwari</a>. Bundled for offline playback with quiet edges shortened. <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</li>
           <li>War-Camp Parchment artwork and app icons · Created for Kanji Practice with <a href="https://openai.com/policies/terms-of-use/#content">OpenAI image generation</a>.</li>
         </ul>
         <p><a href="https://www.edrdg.org/edrdg/licence.html">EDRDG attribution terms</a> · <a href="https://github.com/bhov9/Kanji-Study-App/blob/main/THIRD-PARTY-NOTICES.md">Full project notices</a></p>

@@ -1,0 +1,8 @@
+.kana-board { margin-block: 1rem; }
+.kana-board h3 { margin: 1.25rem 0 .6rem; }
+.kana-row { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .4rem; margin-block: .4rem; max-width: 34rem; }
+.kana-key { min-height: 3.4rem; min-width: 0; padding: .2rem; font-size: clamp(1.35rem, 6vw, 1.9rem); line-height: 1.2; touch-action: manipulation; }
+.kana-sequence { display: flex; flex-wrap: wrap; gap: .65rem; }
+.kana-sequence .kana-key { min-height: 4.15rem; min-width: 4.15rem; font-size: 2.1rem; }
+.kana-key.sounding { background: #205781; color: white; box-shadow: inset 0 0 0 2px #9ed5f4; }
+#hiragana-view input { width: 100%; min-height: 3rem; font-size: 1.25rem; }

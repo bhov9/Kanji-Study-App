@@ -1,3 +1,4 @@
+import { setupHiragana } from './kids/hiragana/board.js';
 import { setupVocabulary } from './vocabulary.js';
 import { sectionPlans } from './section-plans.js';
 import { kanjiNotes, words, writingPriority } from './data.js';
@@ -139,9 +140,14 @@ function showWord(focus = false) {
   if (focus) reading.focus();
 }
 
+const hiragana = setupHiragana(byId('hiragana-view'));
+document.querySelectorAll('[data-kids-nav]').forEach(button =>
+  button.addEventListener('click', () => navigate(button.dataset.kidsNav)));
+
 function navigate(nextView) {
+  if (view === 'hiragana') hiragana.stop();
   view = nextView;
-  for (const name of ['menu', 'section', 'study', 'browser', 'history', 'sources', 'feedback']) byId(`${name}-view`).hidden = name !== view;
+  for (const name of ['menu', 'section', 'study', 'browser', 'history', 'sources', 'feedback', 'kids', 'hiragana']) byId(`${name}-view`).hidden = name !== view;
   window.scrollTo(0, 0);
   updateStats();
   if (view === 'menu') byId('menu-title').focus({ preventScroll: true });
@@ -149,6 +155,8 @@ function navigate(nextView) {
     if (!selections.size && !handwriting.hasDraft()) showWord(true);
     else byId(byId('answer').hidden ? 'reading' : 'spelling').focus();
   }
+  if (view === 'hiragana') hiragana.open();
+  if (view === 'kids' || view === 'hiragana') byId(view + '-title').focus({ preventScroll: true });
   if (view === 'browser') browser.open();
   if (view === 'history') byId('history-title').focus({ preventScroll: true });
   if (view === 'sources') byId('sources-title').focus({ preventScroll: true });

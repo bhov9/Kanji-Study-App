@@ -8,6 +8,7 @@ const appShell = [
   './', './index.html', './style.css', './app.js', './data.js', './study.js',
   './manifest.webmanifest', './icons/jinchu-apple.png', './icons/jinchu-192.png', './icons/jinchu-512.png',
   './stroke-data/KANJIVG-LICENSE.txt', './licenses/CC-BY-SA-4.0.txt',
+  './kids/hiragana/board.js', './kids/hiragana/style.css', './kids/hiragana/clips.js', './kids/hiragana/clips.bin',
   './browser.js', './curriculum.js', './kanji-reference.js',
   './art/war-camp.webp', './examples.js',
   './handwriting.js', './guided-practice.js',
