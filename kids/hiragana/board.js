@@ -9,88 +9,132 @@ const groups = [
   ['Combined sounds', [...'きしちにひみりぎじびぴ'].map(first => [...'ゃゅょ'].map(last => first + last))],
 ];
 
-function makePlayer(report) {
-  let context, pack, active, pending = [], generation = 0, busy = false;
-  const decoded = new Map();
+// A native media element uses the device's media playback route. Decode only to
+// trim the recordings; the offline context never drives the speaker or the UI.
+function waveURL(samples, rate) {
+  const bytes = new ArrayBuffer(44 + samples.length * 2);
+  const view = new DataView(bytes);
+  const tag = (at, name) => [...name].forEach((c, i) => view.setUint8(at + i, c.charCodeAt(0)));
+  tag(0, 'RIFF');
+  view.setUint32(4, bytes.byteLength - 8, true);
+  tag(8, 'WAVE');
+  tag(12, 'fmt ');
+  view.setUint32(16, 16, true);
+  view.setUint16(20, 1, true); // PCM
+  view.setUint16(22, 1, true); // Mono
+  view.setUint32(24, rate, true);
+  view.setUint32(28, rate * 2, true);
+  view.setUint16(32, 2, true);
+  view.setUint16(34, 16, true);
+  tag(36, 'data');
+  view.setUint32(40, samples.length * 2, true);
+  samples.forEach((v, i) => view.setInt16(44 + i * 2, Math.max(-1, Math.min(1, v)) * 32767, true));
+  return URL.createObjectURL(new Blob([bytes], { type: 'audio/wav' }));
+}
 
-  async function bufferFor(kana) {
-    if (decoded.has(kana)) return decoded.get(kana);
-    if (kana === 'っ') {
-      // Sokuon is a closure without an isolated voiced pronunciation.
-      return { buffer: context.createBuffer(1, Math.round(context.sampleRate * 0.12), context.sampleRate), begin: 0, duration: 0.12 };
+async function prepareSounds() {
+  const response = await fetch(new URL('./clips.bin', import.meta.url));
+  if (!response.ok) throw Error('Sound pack unavailable');
+  const pack = await response.arrayBuffer();
+  const decoder = new OfflineAudioContext(1, 1, 44100);
+  const sounds = new Map();
+  try {
+    for (const [kana, [offset, length]] of Object.entries(clips)) {
+      const buffer = await decoder.decodeAudioData(pack.slice(offset, offset + length));
+      const samples = buffer.getChannelData(0);
+      let start = 0, end = samples.length;
+      while (start < end && Math.abs(samples[start]) < 0.001) start++;
+      while (end > start && Math.abs(samples[end - 1]) < 0.001) end--;
+      if (start === end) throw Error('Empty recording');
+      start = Math.max(0, start - Math.ceil(buffer.sampleRate * 0.025));
+      end = Math.min(samples.length, end + Math.ceil(buffer.sampleRate * 0.035));
+      sounds.set(kana, waveURL(samples.subarray(start, end), buffer.sampleRate));
     }
-    pack ??= fetch(new URL('./clips.bin', import.meta.url)).then(response => {
-      if (!response.ok) throw Error('Audio unavailable');
-      return response.arrayBuffer();
-    }).catch(error => { pack = null; throw error; });
-    const [offset, length] = clips[kana];
-    const buffer = await context.decodeAudioData((await pack).slice(offset, offset + length));
-    const samples = buffer.getChannelData(0);
-    let start = 0, end = samples.length;
-    while (start < end && Math.abs(samples[start]) < 0.001) start++;
-    while (end > start && Math.abs(samples[end - 1]) < 0.001) end--;
-    const begin = Math.max(0, start / buffer.sampleRate - 0.025);
-    const duration = Math.min(buffer.duration, end / buffer.sampleRate + 0.035) - begin;
-    const clip = { buffer, begin, duration };
-    decoded.set(kana, clip);
-    return clip;
+    sounds.set('っ', waveURL(new Float32Array(5292), 44100));
+    return sounds;
+  } catch (error) {
+    for (const url of sounds.values()) URL.revokeObjectURL(url);
+    throw error;
+  }
+}
+
+function makePlayer(report, board) {
+  const media = new Audio();
+  media.preload = 'auto';
+  let sounds, loading, active, timer;
+  const queue = [];
+
+  function highlight(on) {
+    for (const tile of active?.tiles ?? []) tile.classList.toggle('sounding', on);
   }
 
   function stop() {
-    generation++;
-    pending = [];
-    busy = false;
-    if (active) {
-      active.button.classList.remove('sounding');
-      active.source.onended = null;
-      active.source.stop();
-      active.source.disconnect();
-      active = null;
+    clearTimeout(timer);
+    queue.length = 0;
+    highlight(false);
+    active = null;
+    media.pause();
+  }
+
+  function fail() {
+    stop();
+    report.textContent = 'Sound stopped or could not play. Tap a sound to try again.';
+  }
+
+  function next() {
+    clearTimeout(timer);
+    active = queue.shift();
+    if (!active) return;
+    const item = active;
+    const url = sounds.get(item.sound);
+    media.src = url;
+    const attempt = ++serial;
+    timer = setTimeout(fail, 4000);
+    // On the first tap this runs directly in the gesture. Reuse the same
+    // element for every queued sound so iOS keeps its playback permission.
+    try {
+      media.play().catch(() => { if (active === item && serial === attempt) fail(); });
+    } catch { fail(); }
+  }
+
+  let serial = 0;
+  media.onplaying = () => {
+    if (!active || media.paused || media.currentSrc !== sounds.get(active.sound)) return;
+    highlight(true);
+    clearTimeout(timer);
+    timer = setTimeout(fail, Math.ceil(media.duration * 1000) + 1250);
+  };
+  media.onended = () => {
+    if (!active || !media.ended) return;
+    highlight(false);
+    next();
+  };
+  media.onerror = () => { if (active && media.error) fail(); };
+  media.onpause = () => { if (active && media.paused && !media.ended) fail(); };
+  media.onwaiting = () => { highlight(false); };
+
+  async function prepare() {
+    if (sounds || loading) return;
+    loading = true;
+    board.inert = true;
+    report.textContent = 'Loading sounds…';
+    try {
+      sounds = await prepareSounds();
+      if (report.textContent === 'Loading sounds…') report.textContent = '';
+    } catch {
+      report.textContent = 'Sounds could not load. Connect once while online, then tap a tile to reload.';
+    } finally {
+      loading = false;
+      board.inert = false;
     }
   }
 
-  async function next() {
-    if (busy || !pending.length) return;
-    busy = true;
-    const token = generation;
-    const { button, ready } = pending.shift();
-    try {
-      await ready;
-      const { buffer, begin, duration } = await bufferFor(button.dataset.sound);
-      if (generation !== token) return;
-      const source = context.createBufferSource();
-      source.buffer = buffer;
-      source.connect(context.destination);
-      source.onended = () => {
-        if (generation !== token) return;
-        button.classList.remove('sounding');
-        source.disconnect();
-        active = null;
-        busy = false;
-        next();
-      };
-      active = { source, button };
-      source.start(0, begin, duration);
-      button.classList.add('sounding');
-    } catch {
-      if (generation !== token) return;
-      stop();
-      report.textContent = 'Sound could not play. Tap again to retry.';
-    }
-  }
-
-  return { stop, play(button, queue) {
-    if (!queue) stop();
-    try {
-      context ??= new (window.AudioContext || window.webkitAudioContext)();
-      const ready = context.state === 'running' ? undefined : context.resume();
-      ready?.catch(() => {}); // The queue handles the error when this tap reaches the front.
-      pending.push({ button, ready });
-      report.textContent = '';
-      next();
-    } catch {
-      report.textContent = 'Audio playback is unavailable on this device.';
-    }
+  return { stop, prepare, play(items, append) {
+    if (!sounds) { prepare(); return; }
+    if (!append) stop();
+    report.textContent = '';
+    for (const item of items) queue.push(item);
+    if (!active) next();
   }};
 }
 
@@ -98,7 +142,7 @@ export function setupHiragana(root) {
   const input = root.querySelector('input');
   const board = root.querySelector('.kana-board');
   const report = root.querySelector('[role=status]');
-  const player = makePlayer(report);
+  const player = makePlayer(report, board);
   let previous, composing = false;
 
   function tile(label) {
@@ -123,11 +167,32 @@ export function setupHiragana(root) {
       row.className = 'kana-sequence';
       const buttons = [...input.value.normalize('NFC')].map(tile);
       row.append(...buttons);
-      board.append(row);
+      const play = document.createElement('button');
+      play.type = 'button';
+      play.className = 'primary';
+      play.textContent = '▶ Play';
+      play.setAttribute('aria-label', 'Play sequence');
+      play.disabled = buttons.every(button => button.disabled);
+      play.addEventListener('click', () => {
+        const items = [];
+        for (let i = 0; i < buttons.length; i++) {
+          const first = buttons[i], second = buttons[i + 1];
+          if (first.disabled) continue;
+          const pair = first.textContent + (second?.textContent ?? '');
+          if (second && clips[pair]) {
+            items.push({ sound: pair, tiles: [first, second] });
+            i++;
+          } else {
+            items.push({ sound: first.dataset.sound, tiles: [first] });
+          }
+        }
+        player.play(items, false);
+      });
+      board.append(play, row);
       const tips = [];
-      if (buttons.some(button => smallSounds[button.textContent])) tips.push('Small kana play their sound on its own. Tap a combined tile in the chart to hear the pair.');
+      if (buttons.some(button => smallSounds[button.textContent])) tips.push('Tap a small kana to hear it alone. Play uses the combined recording when available.');
       if (input.value.includes('っ')) tips.push('Small っ makes a short pause.');
-      if (buttons.some(button => button.disabled)) tips.push('Faded characters have no recording.');
+      if (buttons.some(button => button.disabled)) tips.push('Play skips faded characters with no recording.');
       report.textContent = tips.join(' ');
       return;
     }
@@ -149,9 +214,9 @@ export function setupHiragana(root) {
   input.addEventListener('input', event => { if (!composing && !event.isComposing) render(); });
   board.addEventListener('click', event => {
     const button = event.target.closest('button[data-sound]');
-    if (button && !button.disabled) player.play(button, Boolean(previous));
+    if (button && !button.disabled) player.play([{ sound: button.dataset.sound, tiles: [button] }], Boolean(previous));
   });
   document.addEventListener('visibilitychange', () => { if (document.hidden) player.stop(); });
   window.addEventListener('pagehide', player.stop);
-  return { open: render, stop: player.stop };
+  return { open() { render(); player.prepare(); }, stop: player.stop };
 }

@@ -6,3 +6,4 @@
 .kana-sequence .kana-key { min-height: 4.15rem; min-width: 4.15rem; font-size: 2.1rem; }
 .kana-key.sounding { background: #205781; color: white; box-shadow: inset 0 0 0 2px #9ed5f4; }
 #hiragana-view input { width: 100%; min-height: 3rem; font-size: 1.25rem; }
+.kana-board > .primary { margin-bottom: .75rem; }
